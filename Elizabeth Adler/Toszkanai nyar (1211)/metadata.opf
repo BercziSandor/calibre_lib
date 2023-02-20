@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1211</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4bb2c056-f464-4caa-b740-e1fab25acd8a</dc:identifier>
+        <dc:title>Toszkánai nyár</dc:title>
+        <dc:creator opf:file-as="Adler, Elizabeth" opf:role="aut">Elizabeth Adler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Gemma ​Jericho elvált, agyonhajszolt New York-i orvosnő, akinek életét az egyre nehezebben kezelhető kamaszlánya és állandóan aggódó édesanyja tölti ki. Egy titokzatos toszkánai örökségről szóló levél azonban felvillantja előtte a változás lehetőségét: búcsút mond hát az unalmas hétköznapoknak, s családjával Olaszországba utazik. Gemma azt reméli, hogy a kiruccanás alatt kibékülhet lányával, és a változás új értelmet adhat édesanyja életének is.&lt;br&gt;Ám a toszkánai valóság sokkal bonyolultabbnak bizonyul, mint amilyenre Gemma számított. A helybeliek azt hiszik, hogy az örökséget képező romos villa tulajdonosa Ben Raphael, a gazdag és sármos amerikai vállalkozó. Az ízléskülönbség, a pletykaéhség és az egyre durvuló viták miatt Gemma élete leggyötrőbb, ugyanakkor leggyönyörűségesebb szerelmi viszonyába keveredik a csodabogár amerikaival. A toszkánai nyár örökre megváltoztatja életszemléletét – és az életét is. &lt;/p&gt;
+&lt;p&gt;Elizabeth Adler számos pazar helyszíneken játszódó romantikus regény világhírű szerzője, aki finom humorral átszőtt fordulatos történetben varázsolja elénk a lenyűgöző toszkánai tájat és lakóit.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ulpius-ház</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">61265875</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">elizabeth-adler-toszkanai-nyar</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">f4zIjgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789633832769</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Travel</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>chick lit</dc:subject>
+        <dc:subject>Firenze</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>női főszereplő</dc:subject>
+        <dc:subject>nyár</dc:subject>
+        <dc:subject>Olaszország</dc:subject>
+        <dc:subject>orvos</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>Róma</dc:subject>
+        <dc:subject>romantikus</dc:subject>
+        <dc:subject>Toszkána</dc:subject>
+        <dc:subject>váltott szemszög</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elizabeth Adler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2019-03-30T05:10:33+00:00"/>
+        <meta name="calibre:title_sort" content="Toszkánai nyár"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

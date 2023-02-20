@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1385</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2158abe4-a322-481a-92f6-2c4cea0d8c7b</dc:identifier>
+        <dc:title>A város hercege</dc:title>
+        <dc:creator opf:file-as="Moldova, György" opf:role="aut">Moldova, György</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Moldova ​György legújabb regénye a rendszerváltozás évében játszódó, bűnügyi történet. Az osztrák határ melletti magyar település „hercege”, Eszenyi Ferenc sokéves ausztriai tartózkodás után tér haza szülőfalujába. Itt visszaszorítja a kétes üzleteit veszélyeztető konkurenciát, majd egyre gyarapodó vagyona révén szinte minden szemrevaló nőt megszerez, sőt még a rendőrség bizonyos embereit is „megvásárolja”. Egyetlen ellenfele azonban mégis akad, az ukrán határról ide települt ortodox zsidó férfi, Kovács Miklós, aki varrodát működtet. Egy napon a nála dolgozó Varjas Edinát valaki meggyilkolja. A gyanú – amolyan 20. századbeli vérvádként – Kovácsra terelődik. Barátja, a szintén zsidó származású Orsai Péter régi ismerőséhez, Husz Richárd ügyvédhez fordul segítségért. Az ügyvéd először vonakodik elvállalni a kétes kimenetelű pert, ám amikor Orsai Pétert egy vadászaton megölik, nem késlekedik tovább, és magánnyomozásba kezd. A történet végén az ártatlan Kovácsot fölmentik, ugyanakkor A város hercegét kettős gyilkossággal vádolják. A politikai felhangokat sem nélkülöző regény elsősorban bűnügyi történet.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Kertek 2000</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9639217034</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">moldova-gyorgy-a-varos-hercege</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">a21ed360-dc9f-4393-9ec6-21b6d214a657</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>kortárs krimi magyar nyelvű magyar szerző regény</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Moldova, György&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-02-22T12:20:27+00:00"/>
+        <meta name="calibre:title_sort" content="város hercege, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

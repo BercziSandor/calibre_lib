@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">456</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c01cfbf-bc1f-40c7-ab88-4a1da79050c8</dc:identifier>
+        <dc:title>Ifjúkori önarckép</dc:title>
+        <dc:creator opf:file-as="Joyce, James" opf:role="aut">James Joyce</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1916-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;„Nem vagyok hajlandó tovább szolgálni azt, amiben már nem hiszek – nevezzék azt akár otthonomnak, a hazámnak vagy az egyháznak…” Bátor kiállás egy bátor író könyvében, akihez már addig is sok botrány kapcsolódott. Ráadásul Írországban, ahol minden kimondott szónak más értelme van.&lt;br&gt;Az önarckép önéletrajzi alkotás, James Joyce ifjúkora, s előképe a későbbi, briliáns technikával megírt műnek, az Ulyssesnek. A téma a művész önként vállalt magányossága, az a meggyőződés, amit végül egy mondatban fejezett ki: „Az egyedüli dolog, ami érdekel, a stílus.”&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cartaphilus</dc:publisher>
+        <dc:identifier opf:scheme="LIBRI_HU">james_joyce.ifjukori-onarckep</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">james-joyce-ifjukori-onarckep</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789632662084</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">461146eb-3abe-40c4-848b-185619a56cff</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>1001 könyv listán szerepel</dc:subject>
+        <dc:subject>1910-es évek</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>fejlődésregény</dc:subject>
+        <dc:subject>ír szerző</dc:subject>
+        <dc:subject>Írország</dc:subject>
+        <dc:subject>klasszikus</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>modernizmus</dc:subject>
+        <dc:subject>önéletrajz</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>Irodalom</dc:subject>
+        <dc:subject>Szépirodalom</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Joyce&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2013-04-22T20:42:30+00:00"/>
+        <meta name="calibre:title_sort" content="Ifjúkori önarckép"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

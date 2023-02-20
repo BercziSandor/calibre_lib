@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1594</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51049a52-99ce-4564-8133-62c9f0d03cc8</dc:identifier>
+        <dc:title>Charlie and the Great Glass Elevator</dc:title>
+        <dc:creator opf:file-as="Dahl, Roald" opf:role="aut">Roald Dahl</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-05T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Phizzwhizzing new cover look and branding for the World's NUMBER ONE Storyteller!WHOOSH! Inside the Great Glass Elevator, Willy Wonka, Charlie Bucket and his family are cruising a thousand feet above the chocolate factory.They can see the whole world below them, but they're not alone. The American Space Hotel has just launched. Lurking inside are the Vernicious Knids - the most brutal, vindictive murderous beasts in the universe.So grab your gizzard! Hold your hats! Only Charlie and Willy Wonka can stop the Knids from destroying everything!Listen to CHARLIE AND THE GREAT GLASS ELEVATOR and other Roald Dahl audiobooks read by some very famous voices, including Kate Winslet, David Walliams and Steven Fry - plus there are added squelchy soundeffects from Pinewood Studios! Look out for new Roald Dahl apps in the App store and Google Play- including the disgusting TWIT OR MISS! and HOUSE OF TWITS inspired by the revolting Twits.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Puffin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780141930190</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">8vbcqrcvKRYC</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">roald-dahl-charlie-and-the-great-glass-elevator</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">89f22ce0-cb81-47fa-851d-b4f82880ed3a</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Fantasy &amp; Magic</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Roald Dahl&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Charlie Bucket"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-07-02T18:13:59+00:00"/>
+        <meta name="calibre:title_sort" content="Charlie and the Great Glass Elevator"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

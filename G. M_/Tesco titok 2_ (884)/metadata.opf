@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">884</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ccfebb93-e0bb-42cc-bd0d-caf516506ea6</dc:identifier>
+        <dc:title>Tesco titok 2.</dc:title>
+        <dc:creator opf:file-as="M., G." opf:role="aut">G. M.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;Egy volt Teszkós kollegám az első könyv megjelenése után valami olyasmit mondott, hogy frankón belehugyoztunk a Teszkó gyerekmedencéjébe, méghozzá ívesen, bokáig rogyasztott gatyával, rendesen homorítva, ahogy kell. Pedig abban csak a kisebb stiklikről volt szó. Most viszont emeltük a tétet, és teret adtunk az áruház volt vezetőinek, hogy ők is elmesélhessék, hogyan folyik a lehúzás a cégnél. Méghozzá nagyon nagyban.&lt;/p&gt;
+&lt;p class="description"&gt; &lt;/p&gt;
+&lt;p class="description"&gt;  Néhány hozzászólás a sajtó részéről:&lt;/p&gt;
+&lt;p class="description"&gt;  "A férfi hímtagot kivéve minden dologra igaz, hogy minél nagyobb, annál jobban utálják, ha pedig cégről van szó, akkor négyzetesen nő a gyűlölet. A Tékozló Homár önfeledten fogyasztani vágyó olvasóinak is első számú célpontjai a hipermarketláncok, utánuk következik a T-birodalom, a Posta és a korrupt parkolóőrök hadserege. Egy olyan könyv tehát, ami azt ígéri, hogy itt le lesz rántva a lepel a legnagyobb kiskereskedelmi láncról, tuti sikernek tűnik"…&lt;/p&gt;
+&lt;p class="description"&gt; &lt;/p&gt;
+&lt;p class="description"&gt;  „A Tesco titok tehát ténylegesen leleplez pár dolgot a nagyközönség előtt. Olvasás közben az plusz kéjes borzongást okoz, hogy hányan fogják beperelni a szerzőt, aki egy rakás lopós teszkóst jól beazonosíthatóan megvádol. Nem beszélve magáról a cégről. Ehhez képest az az információ érkezett hozzánk, hogy a Tesco, bár tudja, ki írta a könyvet, meglepő módon nem fog rátámadni, mert az ügyben több a vesztenivalója.” – Index&lt;/p&gt;
+&lt;p class="description"&gt; &lt;/p&gt;
+&lt;p class="description"&gt;  „A könyv legérdekesebb tanulságát nem a hipermarketek világából ismert rafinált árképzésekről, fogyasztói megtévesztésekről, lejárt szavatosságú termékekről, szaladgáló rágcsálókról szóló történetek jelentik, hanem annak a tapasztalatnak az igazolása, hogy a szükséges motiváltság és elismerés hiányában maguk a dolgozók okozzák a legtöbb kárt az áruházláncnak.” – Népszabadság&lt;/p&gt;
+&lt;p class="description"&gt; &lt;/p&gt;
+&lt;p class="description"&gt;  G.M.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>+</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">g-m-tesco-titok-2</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>igaz történet alapján</dc:subject>
+        <dc:subject>kereskedelem</dc:subject>
+        <dc:subject>marketing</dc:subject>
+        <dc:subject>riport</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. M.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Tesco titok"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2015-09-11T07:00:52+00:00"/>
+        <meta name="calibre:title_sort" content="Tesco titok 2."/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;DOC&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

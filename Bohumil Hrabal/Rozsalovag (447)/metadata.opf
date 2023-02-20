@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">447</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84bf33d5-bd06-42a4-9c5e-b3af7bc05c43</dc:identifier>
+        <dc:title>Rózsalovag</dc:title>
+        <dc:creator opf:file-as="Hrabal, Bohumil" opf:role="aut">Bohumil Hrabal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A napló Hrabal számára is lepel, amely alatt minden elfér, amely bármilyen műfajt és stílust elvisel: az ember életgyónást végezhet el általa, mintha egy pappal beszélgetne, írhat bele verset, mintha szerelmének szavalna, kivágott aktuális újságcikkeket és régi fényképeket ragaszthat bele, anekdotákat, történeteket szerkeszthet bele, megörökíthet benne semmitmondó mindennapi eseményeket és fantasztikus utazási élményeket. Sőt: nyíltan pletykálhat, szitkozódhat és akár átkozódhat is benne.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cartaphilus</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">963744811X</dc:identifier>
+        <dc:identifier opf:scheme="ANTIK_HU">466315</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">b4cc2f3a-1428-48ed-b11e-420985415a5e</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">bohumil-hrabal-rozsalovag</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>cseh szerző</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>napló</dc:subject>
+        <dc:subject>elbeszélés</dc:subject>
+        <dc:subject>naplók</dc:subject>
+        <dc:subject>Európa</dc:subject>
+        <dc:subject>Cseh Köztársaság</dc:subject>
+        <dc:subject>Az író származása szerint</dc:subject>
+        <dc:subject>Szépirodalom</dc:subject>
+        <dc:subject>Életrajzi regények</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <dc:subject>Tartalom szerint</dc:subject>
+        <dc:subject>memoár</dc:subject>
+        <dc:subject>önéletrajz</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bohumil Hrabal&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2013-04-22T20:31:36+00:00"/>
+        <meta name="calibre:title_sort" content="Rózsalovag"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

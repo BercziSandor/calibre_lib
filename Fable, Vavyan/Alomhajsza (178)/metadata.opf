@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">178</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bbcfe6ee-0a91-498a-95bf-987057a64781</dc:identifier>
+        <dc:title>Álomhajsza</dc:title>
+        <dc:creator opf:file-as="Fable, Vavyan" opf:role="aut">Fable, Vavyan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-18T00:00:00+00:00</dc:date>
+        <dc:description>Amint ​tudomást szerzünk a KÉK KRISTÁLY létezéséről, azonnal szenvedélyesen érdekeltté válunk abban, hogy az el is juthasson rendeltetési helyére. Sok, nagyon sok függ ettől: talán nem kevesebb, mint az emberi élet szépsége. Fénylő és sötétlő birodalmak, szörnyecskék és monstrumok, tündérek és fenevadak, harcosok és filmesek között vezeti hőseit biztos, de gyengéd kézzel VAVYAN FABLE ebben a különös, egymásba illeszkedő, egymást tükröző, egymást kiegészítő ikerregényben. A Szerző, a tőle már jól ismert pazar játékossággal, plasztikus megjelenítő erővel, de a még tőle is szokatlan érzelmi komolysággal hívja meg olvasóját a szerteágazó, elbűvölően gazdag mese-álomvilágba. Varázsol, de nem csal. Hiszen az álom: igaz! Mi álmodjuk magunkról, egymásról. A varázsos, groteszk, fura-bájos, bizarr, pikáns, lebegő, súlyos, gyengéd, horrorszerű, kuncogtató, józan, szárnyaló, görnyesztő, trillázóan gunyorkás és szívmélyien komoly FANTASY-TÖRTÉNET minden ere, patakocskája és folyama – s velük az Olvasó is – eléri végül a Tengert. A szeretet tengerét.</dc:description>
+        <dc:publisher>Fabyen</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">vavyan-fable-alomhajsza</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789639300897</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>álom</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fable, Vavyan&quot;: &quot;https://hu.wikipedia.org/wiki/Vavyan_Fable&quot;}"/>
+        <meta name="calibre:series" content="Seym és Lilia"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-17T20:41:52+00:00"/>
+        <meta name="calibre:title_sort" content="Álomhajsza"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

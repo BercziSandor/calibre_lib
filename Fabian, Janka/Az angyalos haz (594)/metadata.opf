@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">594</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4bef94fd-80b6-4f38-b37f-32fc6167e088</dc:identifier>
+        <dc:title>Az angyalos ház</dc:title>
+        <dc:creator opf:file-as="Fábián, Janka" opf:role="aut">Fábián, Janka</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A ​félreeső budai utcában álló romos házat, amely a homlokzatán lévő angyalszobrokról kapta a nevét, a XXI. század első éveiben életveszélyesnek nyilvánítják, és le akarják bontani, hogy szállodát vagy lakóparkot építsenek a helyére. A közelben élők azonban civil mozgalmat indítanak a patinás épület megmentéséért. Az elszánt csapat vezetője Zsuzsa, a gimnáziumi magyartanár, akit személyes élmények fűznek az angyalos házhoz. Több mint tíz éve, egyetemista korában ugyanis rendszeresen látogatta az egyik lakót, a százéves Hilda nénit, aki lediktálta neki az emlékeit.&lt;br&gt;Ezek a feljegyzések repítik vissza az olvasót az 1910-es évekbe, amikor az angyalos ház a fénykorát élte. Akkoriban nem csak a szobrokról nevezték így, hanem az ott lakó négy lány miatt is. Hilda, Márti, Manci és Lina, a négy barátnő együtt élik át a századelőn a felnőtté válás, és persze a szerelem, valamint a vele járó elkerülhetetlen csalódások édes-fájdalmas élményeit. A ház titokzatos – és mint később kiderül, felettébb vonzó – új lakója révén azonban akaratukon kívül még a korszak politikai cselszövéseibe is belekeverednek.&lt;br&gt;Fábián Janka háromkötetes családregénye, a nagy sikerű Emma-trilógia néhány hónap leforgása alatt ismertté tette a történész végzettségű fiatal írónő nevét. Hangulatos új regénye a múlt század eleji Magyarország történelmének egy rövid, de annál mozgalmasabb időszakát eleveníti fel, már-már detektívregénybe illő fordulatokkal.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ulpius-ház</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">2VehAQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">300670fd-758d-4914-bbe9-697cf39763c9</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789632546674</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">fabian-janka-az-angyalos-haz</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fábián, Janka&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2014-09-17T07:10:12+00:00"/>
+        <meta name="calibre:title_sort" content="angyalos ház, Az"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

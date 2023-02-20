@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1187</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ae2d638e-4af6-4174-8eff-37193fbe3bc7</dc:identifier>
+        <dc:title>Acélbarlangok</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Asimov, Isaac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-18T00:00:00+00:00</dc:date>
+        <dc:description>A ​távoli jövőben az emberiség két részre szakadt. Míg a földiek elfordultak a csillagok világától és hatalmas városaikba, ún. acélbarlangokba menekültek, addig a hajdani telepesek leszármazottai, az űrlakók ötven világot népesítettek be. Mielőtt azonban teljesen elszakadnának egymástól, a felek egy utolsó kísérletet tesznek az együttműködésre, létrehozva egy űrlakó nagykövetséget New Yorkban. A közeledés viszont veszélybe kerül, amikor meggyilkolnak egy űrlakót a Földön. Elijah Baley nyomozó kapja azt a feladatot, hogy találja meg a gyilkost, mielőtt az űrlakók végleg hátat fordítanak a túlnépesedett, katasztrófa szélén egyensúlyozó Földnek. Ebben kéretlen társat is kap egy emberszabású robot, R. Daniel Olivaw személyében, aki a meggyilkolt tudós szakasztott mása. Baley és gépi társa közösen veti bele magát a hatalmas metropolisz világába, hogy felgöngyölítsék a megoldhatatlannak és végzetesnek tűnő ügyet.
+A robotika atyja, Isaac Asimov mesterien ötvözi a krimit a sci-fivel. Első robotregénye máig szórakoztató és izgalmas mű, mellyel a szerző megteremti két emlékezetes alakját, Baley nyomozót és R. Danielt, akik későbbi műveiben is fontos szerepet kapnak majd.</dc:description>
+        <dc:publisher>Gabo</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">isaac-asimov-acelbarlangok</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789636896744</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>robot</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>Hugo-díj</dc:subject>
+        <dc:subject>sci-fi</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>disztópia</dc:subject>
+        <dc:subject>detektívtörténet</dc:subject>
+        <dc:subject>nyomozás</dc:subject>
+        <dc:subject>amerikai szerző</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Asimov, Isaac&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Alapítvány-Birodalom-Robot"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-03-27T10:01:40+00:00"/>
+        <meta name="calibre:title_sort" content="Acélbarlangok"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

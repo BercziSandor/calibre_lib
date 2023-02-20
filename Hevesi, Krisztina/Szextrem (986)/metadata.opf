@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">986</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">186e42d9-0a14-4582-b9d1-686fee2fff3a</dc:identifier>
+        <dc:title>Szextrém</dc:title>
+        <dc:creator opf:file-as="Hevesi, Krisztina" opf:role="aut">Hevesi, Krisztina</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Mi az, ami a szexben extrém? Mi alapján különböztethetjük meg a szerelmi légyottok izgalmát fokozó pajkos, de ártalmatlan játékokat a perverzióktól, amelyek már az egyén párkapcsolatát veszélyeztethetik, sőt, élete más területeire is romboló hatással lehetnek? A rengeteg kultúrtörténeti érdekességet felvonultató szexuálpszichológus szerző végtelenül szórakoztatóan kalauzolja az olvasót a bizarr gyönyörök útvesztőjében, egyszersmind bepillantást nyújt a különböző furcsaságok kialakulásának lélektani hátterébe és terápiás lehetőségeibe is. A szexuális erőszaktevők pszichológiai elemzéséből azt is megtudhatjuk, mire érdemes figyelnünk, vigyáznunk, hogy csökkentsük az áldozattá válás esélyét. &lt;br&gt;Lebilincselő olvasmány!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Kulcslyuk</dc:publisher>
+        <dc:identifier opf:scheme="LIBRI_HU">hevesi_krisztina.szextrem</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786155281150</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">hevesi-krisztina-szextrem</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>ismeretterjesztő</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>pszichológia</dc:subject>
+        <dc:subject>szexológia</dc:subject>
+        <dc:subject>szexuális perverzió</dc:subject>
+        <dc:subject>szexuálpszichológia</dc:subject>
+        <dc:subject>tudományos</dc:subject>
+        <dc:subject>Társ. tudományok</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hevesi, Krisztina&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2016-05-25T07:41:15+00:00"/>
+        <meta name="calibre:title_sort" content="Szextrém"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

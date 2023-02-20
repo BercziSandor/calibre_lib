@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">386</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2c0ac82-6645-4c16-b005-58a9ddae8fa4</dc:identifier>
+        <dc:title>Quo vadis?</dc:title>
+        <dc:creator opf:file-as="Sienkiewicz, Henryk" opf:role="aut">Henryk Sienkiewicz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A ​Quo vadis Nero félelmetes uralkodása idején játszódik. Egy csodálatos szerelem története bontakozik ki a regény lapjain: Vinicus a gazdag patrícius, beleszeret Lygiába, aki királylányból lett római rabnővé. A lány Plautuis házában él. Plautius felesége Pomponia, már keresztény, s keresztény Lygia is. Nero udvarába hívatja a lányt, s Viniciusnak ajándékozza. Lygia szereti Viniciust, mégis megszökik tőle. A férfi úgy érzi, mindenáron vissza kell szereznie Lygiát. De boldog lehet-e egymással ez a két, olyannyira különböző ember a keresztényüldözés korában? Megérthetik-e egymást? Hiszen mindketten mást tartanak fontosnak az életben, a boldogság s a szerelem sem jelenti számukra ugyanazt. Az ő személyükben megtestesülő kettősség jellemzi azt a világot, azt a kort, melyben élnek. Róma Nero eszeveszett dorbézolásaitól hangos, ember ember után esik áldozatul gyilkos tébolyának. Az új eszme hívei katakombákban bújkálnak, cirkuszok porondján halnak mártirhalált, de a kivégzettek helyébe mindegyre újak lépnek, mert megérett az idő a változásra, s a történelem parancsát nem semmisíthetik meg az égő Róma lángjai sem.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">henryk-sienkiewicz-quo-vadis</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630797061</dc:identifier>
+        <dc:identifier opf:scheme="GUID">{FAAC45AC-EBDF-4175-8850-BB8A46D69FC4}</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>1. század</dc:subject>
+        <dc:subject>császár</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>hangoskönyv</dc:subject>
+        <dc:subject>irodalmi Nobel-díj</dc:subject>
+        <dc:subject>klasszikus</dc:subject>
+        <dc:subject>lengyel szerző</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>Római Birodalom</dc:subject>
+        <dc:subject>történelem</dc:subject>
+        <dc:subject>történelmi regény</dc:subject>
+        <dc:subject>lengyel</dc:subject>
+        <dc:subject>Nagy Könyv</dc:subject>
+        <dc:subject>ókori Róma</dc:subject>
+        <dc:subject>Nobel-díj</dc:subject>
+        <dc:subject>111 híres regény</dc:subject>
+        <dc:subject>Szépirodalom</dc:subject>
+        <dc:subject>kereszténység</dc:subject>
+        <dc:subject>Lengyel Irodalom</dc:subject>
+        <dc:subject>Történelmi</dc:subject>
+        <dc:subject>Róma</dc:subject>
+        <dc:subject>romantikus</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>1001 könyv listán szerepel</dc:subject>
+        <dc:subject>ókor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henryk Sienkiewicz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2013-01-25T21:35:56+00:00"/>
+        <meta name="calibre:title_sort" content="Quo vadis?"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

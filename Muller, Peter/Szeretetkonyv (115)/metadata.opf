@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">115</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed2d08f3-6003-4502-9045-5096540753cd</dc:identifier>
+        <dc:title>Szeretetkönyv</dc:title>
+        <dc:creator opf:file-as="Müller, Péter" opf:role="aut">Müller, Péter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Hetvenedik születésnapján élete egyik legjelentősebb könyvével jelentkezik a magyar spirituális irodalom mestere. A szeretetről ír. Műve őszinte önvallomás. Gazdag tanítás de ugyanakkor társkeresés is. Az olvasó szeretét keresi. Azt mondja: „A szeretetről beszélni egyedül nem lehet. Csak együtt.” Szól a szerelemről, a barátságról, a női és a férfisorsról. A párkapcsolatról, a szexualitásról és a magányról, társunk elvesztéséről, a saját lelkünkkel való barátságról, az öregségről, a családról a gyermeki és az anyai szeretetről, korunk érzelmi zűrzavaráról s az elmúlhatatlan égi szeretetről. A szeretet a legnagyobb szavunk. Minden örömünk és gondunk mögött ez az egyetlen szó rejlik. A jóskönyv élni segített. Ez a könyv továbblép. Szeretni segít.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Rivaldafény</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789638985224</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">muller-peter-szeretetkonyv</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>kereszténység</dc:subject>
+        <dc:subject>lélektani</dc:subject>
+        <dc:subject>mágia</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>paratudományok</dc:subject>
+        <dc:subject>pszichológia</dc:subject>
+        <dc:subject>spiritualitás</dc:subject>
+        <dc:subject>vallás</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Müller, Péter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-15T20:45:53+00:00"/>
+        <meta name="calibre:title_sort" content="Szeretetkönyv"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

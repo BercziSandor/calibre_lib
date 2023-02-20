@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">624</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3861555a-64dc-48f2-8f4a-b9db0c2d7ada</dc:identifier>
+        <dc:title>Csokis tündértorta és gyilkosság</dc:title>
+        <dc:creator opf:file-as="Fluke, Joanne" opf:role="aut">Joanne Fluke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-15T11:27:10+00:00</dc:date>
+        <dc:description>A ​sütis krimi sorozat legújabb, 5. kötetében a szingli cukrásznő, Hannah Swensen napjai gyilkosság nélkül sem telnek unalmasan mostanában. Mert miközben finomabbnál finomabb süteményeket készít a Süti Édenben, szerkeszti a Lake Eden-i szakácskönyvet, főzőtanfolyamot vezet, pátyolgatja húgát, Andreát, akinek napokon belül megszületik második gyermeke. Ráadásul Lake Edenben mindenki izgatottan készül a seriff-választásra. A versengésben pedig Bill, Hannah sógora a híresen szigorú Grant seriff ellenfele. De természetesen a Süti Éden tulajdonosnője nem tudja távol tartani magát a minnesotai kisváros legújabb bűntényétől, amikor is Grant seriffet egy este holtan találják. Hiszen ki más fedezné fel a vaskalapos rendőrfőnök hulláját, ha nem éppen a szingli cukrásznő? És ki más lehetne az első számú gyanúsított, mint Bill?
+Hannah-nak most mindennél fontosabb, hogy tisztázza sógorát és kiderítse, ki a tettes valójában. A Tündértorta rejtélye is tartogat további izgalmakat és nem csak azért, mert a történet során végig a receptjéből hiányzó titkos hozzávalót nyomozza Hannah és segítője Lisa…</dc:description>
+        <dc:publisher>Illia</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">joanne-fluke-csokis-tundertorta-es-gyilkossag</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ah7asgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789639769250</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>sütemények</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>gyilkosság</dc:subject>
+        <dc:subject>Mystery &amp; Crime</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>recept</dc:subject>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>chick lit</dc:subject>
+        <dc:subject>gasztroregény</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joanne Fluke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Hannah Swensen titokzatos esetei"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2014-09-17T07:29:02+00:00"/>
+        <meta name="calibre:title_sort" content="Csokis tündértorta és gyilkosság"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

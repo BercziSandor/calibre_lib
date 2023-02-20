@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1420</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4dadf87-95ea-45eb-98ad-d5dc2b8f9f0d</dc:identifier>
+        <dc:title>Három nővér</dc:title>
+        <dc:creator opf:file-as="Csehov, Anton Pavlovics" opf:role="aut">Csehov, Anton Pavlovics</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-01T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A Három nővér a kárba veszett szépség drámája. A három testvér (Olga, Mása és Irina) egy vidéki városban él. Életük kusza, szerelmeik zűrzavarosak, mindhárman boldogtalanok. A darab hangulatát a szenvedésnek ez a megfoghatatlan légköre adja, s ugyanilyen megfoghatatlan az „optimizmus”, amely a mű végén fogalmazódik meg: „… a mi életünk még nem fejeződött be… nemsokára megtudják, miért élünk, miért szenvedünk…” A darab, amelynek sem tragikus konfliktusa, sem tragikus szereplői nincsenek, a mozgalmas és az értelmes élet iránti enervált, meddő várakozást rajzolja meg. A három nővér jellegzetes csehovi hősök, akiket a közös – az élet elhibázott, a célokat, eszményeket az életbe átültetni nem tudó, akarat és tartás nélküli, de gazdag belső világot felmutató – szellemiség tart össze.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>DigiBook Magyarország</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789633641569</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">anton-pavlovics-csehov-harom-nover</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>dráma (műnem)</dc:subject>
+        <dc:subject>hangoskönyv</dc:subject>
+        <dc:subject>klasszikus</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>női főszereplő</dc:subject>
+        <dc:subject>orosz szerző</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Csehov, Anton Pavlovics&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-03-02T14:11:43+00:00"/>
+        <meta name="calibre:title_sort" content="Három nővér"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">910</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dcb31289-f3a0-472f-b988-887ca8a3bf47</dc:identifier>
+        <dc:title>Leviathan</dc:title>
+        <dc:creator opf:file-as="Akunyin, Borisz" opf:role="aut">Akunyin, Borisz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Ezúttal ​egy luxushajó fedélzetén találkozhatunk Eraszt Fandorinnal, a zseniális nyomozóval, aki korábban már leleplezett egy nemzetközi összeesküvést és egy török kémet. Most épp Japánba utazik diplomáciai megbízatással, de egy nyomozás kellős közepébe csöppen. Párizsban „az évszázad bűncselekményét” követték el: megölték Lord Littlebee-t, a híres régiséggyűjtőt és még tizenkét embert, szolgákat, gyerekeket, akik épp a házban voltak – s mindezek után csak egy Siva-szobor és egy kendő tűnt el. Gauche felügyelőnek szerencséje van: egy véletlenül a gyilkosság színhelyén felejtett nyomból tudja, hogy a Leviathan fedélzetén kell lennie a gyilkosnak, az első osztály utasai között… De vajon a gyanúsítottak közül ki a gyilkos? A rejtélyes, szótlan japán, aki katonatisztnek mondja magát? Vagy a bolond angol, aki szextánsával rendületlenül ellenőrzi a hajó haladását? Sweetchild professzor, a neves Kelet-kutató, a drágakövek megszállottja, akitől megtudjuk, hogy a bűncselekménynek lehet valami köze az indiai Smaragd Rádzsához és a világ legnagyobb drágakőgyűjteményéhez? Az az állapotos nő, aki a légynek sem tudna ártani? Netán valaki a hajó tisztjei közül? Akunyin ezúttal a lehető leghagyományosabb krimivel jelentkezik: a nyomozó – ezúttal a hiú és fantáziátlan Gauche felügyelő – kiválasztja a gyanúsítottakat, és az olvasó vele, no meg Fandorinnal együtt kombinálhat, próbálhatja megelőzni őt a logikai játékban… S Akunyin mindeközben a XIX. század nyolcvanas éveibe varázsolja az olvasót, amikor az ember még töretlenül hitt a haladásban, s a bűncselekményeket is viktoriánus kori eleganciával követték el és nyomozták ki…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">borisz-akunyin-leviathan</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9630776367</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>nyomozás</dc:subject>
+        <dc:subject>orosz szerző</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>Mystery &amp; Crime</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Akunyin, Borisz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Fandorin"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2016-05-25T06:38:29+00:00"/>
+        <meta name="calibre:title_sort" content="Leviathan"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

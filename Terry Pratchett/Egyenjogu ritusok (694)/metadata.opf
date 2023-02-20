@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">694</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2f8c386-5701-42f6-a636-00d8d54b984f</dc:identifier>
+        <dc:title>Egyenjogú rítusok</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-22T00:00:00+00:00</dc:date>
+        <dc:description>Bilét Donát, a varázsló élete utolsó cselekedeteként – mielőtt a Halál csontkezével megkocogtatta volna a vállát – mágusbotját egy nyolcadik fiú nyolcadik fiára hagyta. Hímsoviniszta kollégái szempontjából sajnálatos módon elfelejtette azonban előtte ellenőrizni a kisbaba nemét…</dc:description>
+        <dc:publisher>Delta Vision</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789639890763</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">terry-pratchett-egyenjogu-ritusok</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>angol szerző</dc:subject>
+        <dc:subject>boszorkány</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>fantasyparódia</dc:subject>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>kalandregény</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>mágia</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>varázsló</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Terry Pratchett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Korongvilág"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2014-09-20T06:39:57+00:00"/>
+        <meta name="calibre:title_sort" content="Egyenjogú rítusok"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">817</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">39c07f0f-22e7-4f2c-9e31-6a22515c2fa4</dc:identifier>
+        <dc:title>Hidegvérrel - 2000</dc:title>
+        <dc:creator opf:file-as="Silva, Daniel" opf:role="aut">Daniel Silva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>A Hidegvérrel feszes, jól felépített regény egy hősről, akinek az a küldetés jutott, hogy elpusztítsa egy régi ellenségét és megóvja a nemzetközi békét.&lt;BR&gt;Gabriel Allon megbizatása egyszerű és kegyetlen: megtalálni Izrael terrorista ellenségeit és végezni velük. Amikor azonban felesége áldozatul esik a rá leselkedő veszélyeknek, felhagy munkájával és úgy dönt, hogy további életét képek restaurálásával tölti, amely eddig csak álcamunka volt számára, titkos küldetései során.&lt;BR&gt;Ari Shamron, az izraeli titkosszolgálat vezetője visszahívja Gabrielt, mert egy palesztin terrorakció meghiúsításához szüksége van a restaurátor sajátos tapasztalataira. A terrorakció célja: holtpontra juttatni a közel-keleti béketárgyalásokat. Az akció értelmi szerzője nem más, mint Tariq, a palesztin harcos, aki sajgó része Gabriel gyilkosságokkal teli múltjának. A történet élethű, lenyűgöző mellékszereplőket sorakoztat fel. Ilyen szereplő többek között a mágusszerű Ari Shamron, és egy megkapóan megmosolygtató londoni műkereskedő, vagy akár a szépséges francia zsidó fotómodell, aki bosszút akar állni a Holocaustban elhunyt családjáért.</dc:description>
+        <dc:language>hun</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel Silva&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2014-11-18T16:15:47+00:00"/>
+        <meta name="calibre:title_sort" content="Hidegvérrel - 2000"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

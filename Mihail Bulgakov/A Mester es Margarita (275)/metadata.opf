@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">275</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">59be5ab8-d754-45b4-ad25-4a6ed3f236f6</dc:identifier>
+        <dc:title>A Mester és Margarita</dc:title>
+        <dc:creator opf:file-as="Bulgakov, Mihail" opf:role="aut">Mihail Bulgakov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;„A ​kéziratok nem égnek el”-mondja Woland, Bulgakov regényének talányos Sátánja, s ez a szállóigévé vált mondat a szerző munkásságának, főművének, A Mester és Margaritá-nak akár a mottója is lehetne. A regény-Bulgakov számos hánytatott sorsú írásához hasonlóan- csak jóval az író halála után, 1966-ban jelenhetett meg, s azóta világszerte töretlen a népszerűsége. A Mester és Margarita a világirodalom egyik alapműve, amelyben Bulgakov a szatíra, a groteszk és a fantasztikum eszközeivel részint szuggesztív képet fest a húszas-harmincas évek Oroszországáról, részint minden korra érvényes módon mutatja be a történelmi és személyes kínok, kötöttségek közt vergődő, hívő és hitetlen, nagyot akaró és tétován botladozó ember örök dilemmáit. Felejthetetlenek a regény figurái: Woland, aki egyszerre Sátán és a felsőbb igazságszolgáltatás képviselője; a Mester, aki a hatalmi gépezettel szemben álló Művész örök jelképévé vált, s aki regényen belüli regényben sajátos módon meséli el Jézus történetét; maga Jézus (Jesua), aki Bulgakov értelmezésében úgy elevenedik meg előttünk, mint nagyon kevés Jézus-regényben: Isten fia ő, de egyúttal modern, töprengő értelmiségi; a szörnyű fejfájással küzdő Pilátus, aki hiába látja a valódi értékeket, nem tud túllépni gyávaságán; a gyönyörűséges Margarita, aki maga az örök nőiesség…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">mihail-bulgakov-a-mester-es-margarita</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630792493</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>1. század</dc:subject>
+        <dc:subject>1930-as évek</dc:subject>
+        <dc:subject>abszurd</dc:subject>
+        <dc:subject>antihős</dc:subject>
+        <dc:subject>boszorkány</dc:subject>
+        <dc:subject>hangoskönyv</dc:subject>
+        <dc:subject>klasszikus</dc:subject>
+        <dc:subject>macska</dc:subject>
+        <dc:subject>mágia</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>misztikus</dc:subject>
+        <dc:subject>Irodalom</dc:subject>
+        <dc:subject>elmegyógyintézet</dc:subject>
+        <dc:subject>mágikus realizmus</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>Európa Diákkönyvtár</dc:subject>
+        <dc:subject>groteszk</dc:subject>
+        <dc:subject>111 híres regény</dc:subject>
+        <dc:subject>Szépirodalom</dc:subject>
+        <dc:subject>orosz</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>Biblia</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>1001 könyv listán szerepel</dc:subject>
+        <dc:subject>kötelező</dc:subject>
+        <dc:subject>Nagy Könyv</dc:subject>
+        <dc:subject>A Világirodalom Remekei</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mihail Bulgakov&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2012-11-17T21:22:52+00:00"/>
+        <meta name="calibre:title_sort" content="Mester és Margarita, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

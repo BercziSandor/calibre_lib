@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1227</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f014215b-2aa7-4f77-97bd-594e955a479b</dc:identifier>
+        <dc:title>Harminc év napsütés</dc:title>
+        <dc:creator opf:file-as="Grecsó, Krisztián" opf:role="aut">Grecsó, Krisztián</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-15T09:08:12+00:00</dc:date>
+        <dc:description>Az Egy csendes kalendárium alcímű kispróza-gyűjtemény valóban az író önéletrajzi kalendáriuma, amelynek följegyzései nem a régvolt események megtörténtével egy időben, hanem utólag, az emlékezés révén születtek meg. Grecsó Krisztián a maga sajátos, némiképp állóképekre emlékeztető módján idézi föl gyermek-, kamasz- és fiatal felnőttkora rögzült képeit, úgy ahogyan egyik lírai hangszerelésű írásában vallja: „Nem csináltam semmit, és nem történt semmi különleges, mégis éreztem: erre a percre mindig emlékezni fogok”. Az író életében sem történt semmi különleges, emlékezete mégis apró részletekig, hangulattöredékig menően megőrizte dél-alföldi, viharsarki fiatalsága megannyi képét, helyzetét, jelenetét, alakját. Gyermekkorát – ahogyan szinte mindenkinek – a család, szülei, nagyszülei, iskolatársai, a falubeli emberek határozták meg, az ő történeteiket adja elő az emlékezet önkéntelen munkája vagy épp nagyon tudatos működése révén, hiszen az író sokszor hazalátogat szülőhelyére, Szegvárra emlékezni, nosztalgiázni, a régiekkel találkozni. Így aztán emlékképek mozaikdarabkáiból áll össze a szegvári gyermekkor, a hajdani balatoni nyarak élménysora, illetve a gyermekkort kísérő emberek galériája (Nyarak a nagyival című ciklus darabjai). A kisgyermeket a szülei a csongrádi gimnáziuma íratták be, így kamaszkorát kollégistaként a dél-alföldi kisvárosban töltötte, ahol a tanulás mellett természetesen rockzenekart szerveztek, belekóstoltak a borzongatóan sejtelmes éjszakába, ahol szerelmesek voltak és átélték első erotikus élményeiket (Házi kecsap című fejezet kisprózái).</dc:description>
+        <dc:publisher>Magvető</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">grecso-krisztian-harminc-ev-napsutes</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">c49b9fc0-8215-4bf7-a8ad-bf29315a40c4</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">H7dHtAEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789631435986</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>önéletrajz</dc:subject>
+        <dc:subject>család</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <dc:subject>magyar</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>igaz történet alapján</dc:subject>
+        <dc:subject>Viharsarok</dc:subject>
+        <dc:subject>családregény</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Grecsó, Krisztián&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-12-26T18:46:09+00:00"/>
+        <meta name="calibre:title_sort" content="Harminc év napsütés"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

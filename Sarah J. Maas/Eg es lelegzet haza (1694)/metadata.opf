@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1694</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0d1d24b-2420-46ea-8ea1-d4ef1083d0f7</dc:identifier>
+        <dc:title>Ég és lélegzet háza</dc:title>
+        <dc:creator opf:file-as="Maas, Sarah J." opf:role="aut">Sarah J. Maas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-18T09:09:16+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;A LEGVESZEDELMESEBB ERŐ. ♦ A LEGVADABB SZENVEDÉLY. A LEGKEGYETLENEBB SORS. &lt;/p&gt;
+&lt;p align="justify"&gt;Bryce Quinlan és Hunt Athalar próbál visszarázódni a normál kerékvágásba – megmentették Crescent Cityt, de annyi minden fordult fel fenekestül az életükben, hogy leginkább csak pihenni szeretnének. Le akarnak lassítani. Kiderítenék, mit tartogat számukra a jövő. &lt;/p&gt;
+&lt;p align="justify"&gt;Az Aszterek eddig tartották a szavukat, békén hagyták őket. De így, hogy a lázadók lassacskán egyre inkább kikezdik az Aszterek hatalmát, az uralkodók jelentette fenyegetés nőttön-nő. Bryce, Hunt és a barátaik belekeverednek a lázadók terveibe, és választaniuk kell: vagy csendben tűrik az elnyomást, vagy megküzdenek azért, amit helyesnek tartanak. És mint tudjuk, a hallgatás sosem volt az erősségük… &lt;/p&gt;
+&lt;p align="justify"&gt;A #1 bestseller FÖLD ÉS VÉR HÁZA szexi, akciódús folytatásában Sarah J. Maas lebilincselő történetet sző egy robbanásközeli állapotban lévő világról és azokról, akik bármit megtennének, hogy megmentsék. &lt;/p&gt;
+&lt;p align="justify"&gt;HAGYD, HOGY MAGÁVAL RAGADJON!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Könyvmolyképző</dc:publisher>
+        <dc:identifier opf:scheme="HTTPS">//www.lira.hu/hu/konyv/szepirodalom/sci-fi-fantasy-krimi/crescent-city-eg-es-lelegzet-haza-crescent-city-2-1#</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>kalandregény</dc:subject>
+        <dc:subject>disztópia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sarah J. Maas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Crescent City"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2023-02-20T08:11:16.456845+00:00"/>
+        <meta name="calibre:title_sort" content="Ég és lélegzet háza"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

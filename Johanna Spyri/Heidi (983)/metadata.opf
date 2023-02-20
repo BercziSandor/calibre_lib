@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">983</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b0195e1-7975-452c-bf6d-1e681c4f3bf7</dc:identifier>
+        <dc:title>Heidi</dc:title>
+        <dc:creator opf:file-as="Spyri, Johanna &amp; Binting, Ilse" opf:role="aut">Johanna Spyri</dc:creator>
+        <dc:creator opf:file-as="Spyri, Johanna &amp; Binting, Ilse" opf:role="aut">Ilse Binting</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Heidi számára az élet a havasi legelőn egyáltalán nem unalmas. Vidám napokat tölt itt barátjával, a kecskepásztor Péterrel, hancúroznak a virágos réten vagy a kecskegidát, Ugrubugrit pátyolgatják. A kislány esténként legszívesebben a kályha mellett üldögél a nagyapóval, aztán besurran illatos szénaágyába. Boldog és szabad. Ezért aztán villámcsapásként éri a hír: el kell utaznia a nagyvárosba, hogy egy beteg kislány, Klára tanulótársa, kis „társalkodónője” legyen. Az ottaniak azt szeretnék, ha örökre ott maradna…&lt;br&gt;A csodaszép Klasszikus történetet Ilse Binting dolgozza fel, és Danuele Winterhager pasztellszínekben pompázó rajzai hozzák még közelebb az ifjú olvasókhoz.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ciceró</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">johanna-spyri-ilse-binting-heidi</dc:identifier>
+        <dc:identifier opf:scheme="LIBRI_HU">spyri_johanna.heidi-36</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789635395842</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">9c7d0a63-df12-4a86-9cf0-98ad6f644086</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>átdolgozás</dc:subject>
+        <dc:subject>ifjúsági</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>mese</dc:subject>
+        <dc:subject>német szerző</dc:subject>
+        <dc:subject>svájci szerző</dc:subject>
+        <dc:subject>Gyermek és ifjúsági</dc:subject>
+        <dc:subject>Mesekönyv</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Johanna Spyri&quot;: &quot;&quot;, &quot;Ilse Binting&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2016-05-25T07:41:13+00:00"/>
+        <meta name="calibre:title_sort" content="Heidi"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

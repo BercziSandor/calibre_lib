@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">967</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ff2c259-5e1e-4b56-bd36-7d23e773589a</dc:identifier>
+        <dc:title>Egy idegen ország</dc:title>
+        <dc:creator opf:file-as="Cumming, Charles" opf:role="aut">Charles Cumming</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Anglia ​első számú kéme eltűnik.&lt;br&gt;Egy hét, amely vagy megújítja, vagy megbuktatja a hírszerzést.&lt;br&gt;Amelia Levene, az MI6 első női igazgatójelöltje hat héttel a beiktatása előtt nyomtalanul eltűnik. &lt;br&gt;Thomas Kellt, a kegyvesztett volt ügynököt behívják a hidegről, hogy gyorsan és diszkréten kutassa fel Ameliát. A megbízás visszautat kínál Kellnek a titkok világába, az egyetlen életbe, amelyet ismert. &lt;br&gt;Idegen titkosszolgálatok követik Kellt, amikor elindul Amelia nyomában a veszélyes úton, Franciaországon és Észak-Afrikán át. Ilyen messzire a hazai pályától azonban egészen mások a játékszabályok, a következmények pedig elképzelhetetlenül rosszabbak…&lt;br&gt;A Brit Krimiírók Ian Fleming Steel Dagger-díjának nyertese, az év krimije.&lt;br&gt;Az év legjobb, Bloody Scotland díjas skót krimije.&lt;br&gt;„Charles Cumming azért született, hogy a kémregény ne haljon meg soha"&lt;br&gt;Daily Telegraph&lt;br&gt;Charles Cumming, akit a Times a brit hírszerzés legsikeresebb boncnokának nevezett, 1971-ben született Skóciában. 1995 nyarán csatlakozott a brit hírszerzéshez; egy évvel később Montréalba költözött, ahol titkosszolgálati élményei alapján írni kezdte első regényét. Az Egy idegen ország a hatodik regénye, amely 2012-ben elnyerte az év legjobb krimijének járó Ian Fleming Steel Dagger díjat, és a legjobb skót kriminek járó Bloody Scotland díjat.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Gabo</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">5jmdDAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789634061649</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">charles-cumming-egy-idegen-orszag</dc:identifier>
+        <dc:identifier opf:scheme="LIBRI_HU">charles_cumming.egy-idegen-orszag</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>kémregény</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>titkosszolgálat</dc:subject>
+        <dc:subject>Irodalom</dc:subject>
+        <dc:subject>Szórakoztató irodalom</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Cumming&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Thomas Kell"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2016-05-25T07:26:01+00:00"/>
+        <meta name="calibre:title_sort" content="idegen ország, Egy"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

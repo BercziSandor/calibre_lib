@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">869</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c20dea2-d6fb-4845-9e5c-d3b076c94145</dc:identifier>
+        <dc:title>Hogyan lőjünk amatőr természetbúvárt?</dc:title>
+        <dc:creator opf:file-as="Durrell, Gerald" opf:role="aut">Gerald Durrell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-02-18T00:00:00+00:00</dc:date>
+        <dc:description>Ha Ön borzokat szeretne filmezni egy erdőben, dobálna-e odújuk elé földimogyoróvajas szendvicseket, hogy kicsalogassa őket? Hogyan érezné magát, ha egy nagy fehér orrszarvú orra előtt kellene előadást tartania a nézőket képviselő kamera lencséjének? Gerald Durrell miközben az Amatőr természetbúvár című filmsorozat (amelyből sikeres könyv is készült) forgatásán dolgozott, ezeken és hasonló kalandokon esett át. Feleségével és forgatócsoportjával eljutott a Shetland-szigetek hatalmas madárkolóniáitól, a dél-afrikai természetvédelmi területeken át Kanada havas síkságáig, ahol hófürdőző bölényeket figyelhetett meg. Meggyőzően mutatja be könyvében azt is, hogy az emberi társadalom milyen gyorsan pusztítja el földünk élővilágát?</dc:description>
+        <dc:publisher>Téka</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">d73fc566-84a9-419d-8ae7-c780d7a15fef</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">gerald-durrell-hogyan-lojunk-amator-termeszetbuvart</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9637392874</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>természettudomány</dc:subject>
+        <dc:subject>ismeretterjesztő</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>humor</dc:subject>
+        <dc:subject>állatbarát</dc:subject>
+        <dc:subject>brit</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>biológia</dc:subject>
+        <dc:subject>természet</dc:subject>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>állat</dc:subject>
+        <dc:subject>angol</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gerald Durrell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2015-08-20T12:29:40+00:00"/>
+        <meta name="calibre:title_sort" content="Hogyan lőjünk amatőr természetbúvárt?"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

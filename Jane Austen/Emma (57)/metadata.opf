@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">57</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">143076f6-d30f-4534-9375-5124de1ee80d</dc:identifier>
+        <dc:title>Emma</dc:title>
+        <dc:creator opf:file-as="Austen, Jane" opf:role="aut">Jane Austen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;„Emma Woodhouse igazán mindent megkapott az élettől, ami szép és jó: csinos volt, eszes, gazdag, derűs természetű; már huszonegyedik évében járt, de komolyabb baj vagy bánat még sosem érte." E sorokkal kezdődik a jellegzetes Austen-hősnők közé méltán felsorakozó Emma regénye; s az említett számos jó tulajdonság, kedvező adottság ellenére bizony vele is végigjáratja az írónő a csalódások, kisebb-nagyobb bánatok, tanulságok iskoláját. Az események középpontjában három ifjú pár félreértéseken és viszályokon át győzedelmeskedő szerelme áll. A színtér, a környezet itt is ugyanaz, mint a többi Austen-regényben: vidéki angol úriházak, amelyek úgy élik derűsnek és kiegyensúlyozottnak látszó életüket, mintha az országnak semmi köze sem volna a Csatorna túlsó oldalán dúló napóleoni háborúkhoz. De a szereplők újszerű érzékenységén, társadalmi komédiájuk apró mozzanatain mégis érezni, hogy a világ épp változófélben van körülöttük.&lt;/p&gt;</dc:description>
+        <dc:publisher>Lazi</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">jane-austen-emma</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Ntgnwh7G2p0C</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789632671154</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Anglia</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>romantikus</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Fathers and Daughters</dc:subject>
+        <dc:subject>Female Friendship</dc:subject>
+        <dc:subject>Young Women</dc:subject>
+        <dc:subject>Courtship</dc:subject>
+        <dc:subject>Man-Woman Relationships</dc:subject>
+        <dc:subject>angol</dc:subject>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>19. század</dc:subject>
+        <dc:subject>Coming of Age</dc:subject>
+        <dc:subject>női sors</dc:subject>
+        <dc:subject>1001 könyv listán szerepel</dc:subject>
+        <dc:subject>England - Social Life and Customs - 19th Century</dc:subject>
+        <dc:subject>England</dc:subject>
+        <dc:subject>Humorous</dc:subject>
+        <dc:subject>Young Women - England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jane Austen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-15T20:22:00+00:00"/>
+        <meta name="calibre:title_sort" content="Emma"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

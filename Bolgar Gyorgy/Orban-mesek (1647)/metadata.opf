@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1647</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9dcfb6ae-eb5b-4438-b017-f9bcd533de8f</dc:identifier>
+        <dc:title>Orbán-mesék</dc:title>
+        <dc:creator opf:file-as="György, Bolgár" opf:role="aut">Bolgár György</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-22T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Mesék? ​Sima hazugságok! Hamis állítások? Megtévesztések! Hülyítések? Ócska duma! A Hazugság Kft. árukatalógusa! Orbán Viktor és hű fegyverhordozói napról napra gyártják a politikai céljaiknak megfelelő termékeket a fogyasztók, vagyis a választók számára, méghozzá olyan magától értetődő természetességgel, hogy közben a szemük se rebben. Az árut többnyire sikerül eladniuk, mi több, a vásárlók jelentős része elégedett is vele. Én nem, sőt évek óta döbbenten figyelem, hogy mindez lehetséges, bár ahogy nyomon követem a hazug hírek gyors terjedését a világban, látom, hogy egyre nehezebb az igazságot megtalálni.&lt;br&gt;    Ez a könyv nem történelmi krónika, de az elmúlt nyolc év méretes hazugságainak gyűjteménye, amelyben Orbán és társai állításait a tényekkel, a valósággal szembesítem. Annál rosszabb a tényeknek, válaszolná erre Orbán, aki továbbra is magabiztosan mondja a magáét. A magam részéről mégis abban bízom, hogy aki ezt a könyvet elolvassa, nem dől be a szédítésnek, hanem elképedve és felháborodva, vagy az egészet kinevetve fogadja a fentről érkező szózatokat. Hogy annál rosszabb legyen a hazugságoknak.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Kossuth</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786155761522</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">bolgar-gyorgy-orban-mesek</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>orbán</dc:subject>
+        <dc:subject>politika</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bolgár György&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-08-23T15:27:53+00:00"/>
+        <meta name="calibre:title_sort" content="Orbán-mesék"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, PDF&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

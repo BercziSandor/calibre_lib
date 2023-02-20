@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e379551-380f-4e4d-8727-68a41668811a</dc:identifier>
+        <dc:title>A megmentő</dc:title>
+        <dc:creator opf:file-as="Tamás, Frei" opf:role="aut">Frei, Tamás</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-05T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Konspiráció, szerelem, hatalom, pénz, tündöklés és leszámolás – Frei Tamás kalandregénye új műfajt képvisel a magyar könyvpiacon. Igazi újdonság! A napjainkban játszódó „kőkemény” thriller kitalált szereplőkkel, de valós helyszínekre röpíti el az olvasókat. A könyv izgalmas „utazás” egy szövevényes összeesküvés kulisszái mögé. Oligarchák, miniszterelnökök, exlégiósok, Londonban élő magyar modellek és párizsi kémek a főszereplői a Teherántól Budapesten át egészen a francia fővárosig ívelő történetnek. Magyarország titkai egy bennfentes szemével! Élvezd ki és értsd meg, de aztán éld is túl! Frei Tamás televíziós újságíróként több mint 100 országban forgatott riportfilmeket. Műsorait milliók látták itthon és külföldön. Megválasztották Magyarország legjobb televíziós riporterének, Opus-díjat kapott, és tagja lett a Magyar Sajtópáholynak. Jelenleg ugyanott él, ahol a könyv magyar származású főhőse, a Megmentő. Franciaországban, Nizzában.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alexandra</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">TU2hAQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">frei-tamas-a-megmento</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789632545745</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Thrillers</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frei, Tamás&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="André"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-15T20:43:33+00:00"/>
+        <meta name="calibre:title_sort" content="megmentő, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

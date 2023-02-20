@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e53cca24-3037-442e-9013-2566bfeca36f</dc:identifier>
+        <dc:title>Húrin gyermekei</dc:title>
+        <dc:creator opf:file-as="Tolkien, J. R. R." opf:role="aut">J. R. R. Tolkien</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Középföldének ​vannak A Gyűrűk Ura előtti időről szóló regéi, és az ebben a könyvben elmesélt történet azon a nagy földön játszódik, amely a Szürkeréven túl feküdt Nyugaton: azokon a vidékeken, ahol egykor Szilszakáll kószált, ám amelyek alámerültek a Világ Első Korának véget vető nagy kataklizmában. Abban a távoli időben Morgoth, az első Sötét Úr Angband, a Vaspoklok hatalmas erősségében lakozott Északon; és Túrinnak meg a húgának, Nienornak a tragédiája Angband fenyegetésének és Morgothnak a tündék országai és titkos városai ellen viselt háborújának árnyékában bontakozott ki. Rövid és szenvedélyes életüket az az elementáris gyűlölet uralta, amellyel Morgoth viseltetett Húrin gyermekei iránt, mert Húrin volt az az ember, aki dacolt vele, és szemtől szemben kigúnyolta. Legrettentőbb szolgáját küldte ellenük, Glaurungot, az óriás, szárnyatlan tűzsárkány alakját öltött nagy hatalmú szellemet. A könyörtelen hódításnak és a menekülésnek, az erdei búvóhelyeknek és az üldözéseknek, az egyre csökkenő remény ellenére is kitartó ellenállásnak ebben a történetében ijesztően tiszta alakjában jelenik meg a Sötét Úr és a Sárkány. A keserűen gúnyos és kaján Glaurung ördögien ravasz és alattomos hazugságokkal manipulálta Túrin és Nienor sorsát, és Morgoth átka beteljesült. J. R. R. Tolkien ezen történetének első változatai az első világháború végén és az azt követő években születtek; de jóval A Gyűrűk Ura befejezése után átírta, és jócskán tovább bonyolította a cselekményt és a jellemeket: a Középföldéről szóló későbbi munkáinak központi darabja lett. Ám végső és befejezett formát nem nyert. Ebben a kötetben arra tettem kísérletet, a kéziratok hosszas tanulmányozása után, hogy egybefüggő elbeszélést hozzak létre mindenfajta szerkesztői kitaláció nélkül.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Magvető</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">j-r-r-tolkien-hurin-gyermekei</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789631438536</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>angol szerző</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>dark fantasy</dc:subject>
+        <dc:subject>epikus fantasy</dc:subject>
+        <dc:subject>illusztrált</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sárkány</dc:subject>
+        <dc:subject>töredék</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. R. R. Tolkien&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-15T20:20:09+00:00"/>
+        <meta name="calibre:title_sort" content="Húrin gyermekei"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

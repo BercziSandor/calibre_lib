@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1641</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0610811-4e52-44dc-9f7f-7f8d3fec561a</dc:identifier>
+        <dc:title>Fall of Giants</dc:title>
+        <dc:creator opf:file-as="Follett, Ken" opf:role="aut">Ken Follett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-27T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This is a huge novel that follows five families through the world-shaking dramas of the First World War, the Russian Revolution, and the struggle for votes for women. It is 1911. The Coronation Day of King George V. The Williams, a Welsh coal-mining family, is linked by romance and enmity to the Fitzherberts, aristocratic coal-mine owners. Lady Maud Fitzherbert falls in love with Walter von Ulrich, a spy at the German Embassy in London. Their destiny is entangled with that of an ambitious young aide to U.S. President Woodrow Wilson and to two orphaned Russian brothers, whose plans to emigrate to America fall foul of war, conscription and revolution. In a plot of unfolding drama and intriguing complexity, „Fall of Giants” moves seamlessly from Washington to St Petersburg, from the dirt and danger of a coal mine to the glittering chandeliers of a palace, from the corridors of power to the bedrooms of the mighty.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Pan New Edit</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781509848515</dc:identifier>
+        <dc:identifier opf:scheme="SONYBOOKID">CBUSCEPGI02J5O00</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">8963005</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">ken-follett-fall-of-giants</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>War</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ken Follett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="The Century Trilogy"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-07-18T07:55:58+00:00"/>
+        <meta name="calibre:title_sort" content="Fall of Giants"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

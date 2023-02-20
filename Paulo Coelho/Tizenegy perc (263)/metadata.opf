@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">263</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a6f1dba-d586-433f-b364-476fc431f6e9</dc:identifier>
+        <dc:title>Tizenegy perc</dc:title>
+        <dc:creator opf:file-as="Coelho, Paulo" opf:role="aut">Paulo Coelho</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A szerző új regényében, mely szinte egy időben 33 nyelven jelenik meg, egy fiatal brazil lány életét meséli el. Maria egy gyerekkori csalódás után úgy érzi, soha életében nem fogja megtalálni az igaz szerelmet. Egy váratlan találkozás révén eljut álmai városába, Genfbe, ahol mesés gazdagságot és hírnevet remélve kezd táncosnőként dolgozni. Hamar ráeszmél, hogy a hírnevet nem adják ingyen, és nemsokára az utcán találja magát, ahol prostituáltként kell megélnie. Az igaz érzelmekről rég letett ugyan, de a szexualitás új és új utakra csábítja mindaddig, amíg egy fiatal festő fel nem lobbantja benne a szerelem tüzét. Választás elé kényszerül: vagy végleg feloldódik a testiségben, vagy megtalálja saját „belső fényét”, és a szent szerelemben keresi meg a szex helyét. Coelho újabb világsikerű művében a szerelem szentségéről és a benne rejlő szexualitásról ír, tabuk nélkül, szenvedéllyel, a tőle megszokott spirituális emelkedettséggel.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Athenaeum</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">paulo-coelho-tizenegy-perc</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789632939988</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>brazil szerző</dc:subject>
+        <dc:subject>dél-amerikai</dc:subject>
+        <dc:subject>emberi sorsok</dc:subject>
+        <dc:subject>erotikus</dc:subject>
+        <dc:subject>fejlődésregény</dc:subject>
+        <dc:subject>hangoskönyv</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>nemi élet</dc:subject>
+        <dc:subject>női főszereplő</dc:subject>
+        <dc:subject>prostitúció</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>romantikus</dc:subject>
+        <dc:subject>spiritualitás</dc:subject>
+        <dc:subject>Svájc</dc:subject>
+        <dc:subject>tánc</dc:subject>
+        <dc:subject>General Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Paulo Coelho&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-17T21:08:48+00:00"/>
+        <meta name="calibre:title_sort" content="Tizenegy perc"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

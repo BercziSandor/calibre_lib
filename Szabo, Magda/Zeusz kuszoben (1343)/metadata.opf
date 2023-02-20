@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1343</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1bd88fe1-74ab-4c5d-90a0-adbac6856e5e</dc:identifier>
+        <dc:title>Zeusz küszöbén</dc:title>
+        <dc:creator opf:file-as="Szabó, Magda" opf:role="aut">Szabó, Magda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A Szabó Magda-életműsorozatnak ez a kötete, amely először 1968-ban jelent meg, egy görögországi nyaralás élményeinek krónikája. Az írónő személyes, szubjektív hangvételű naplót ad az antik görög világgal való találkozásáról, amely több, mint egyszerű úti élmény az ókori kultúra bűvkörében felnőtt, s klasszika-filológiát végzett Szabó Magda számára. Nemcsak a mitológiai és történelmi emlékek, a csodálatos múlt érdekli, hanem az olykor kellemetlen meglepetéseket hozó jelen is, a tarka, nyüzsgő élet, az emberek és az állatok, amelyekhez különleges gyengédséggel közeledik. Miközben elkalauzolja az olvasót Athénbe, Epidauroszba, Rhodoszba, a szigetekre és városokba, a hely szelleméhez méltó iróniával és öniróniával írja le a csőstül rázúduló úti viszontagságokat. Könyvében nemcsak a görög táj és történelem elevenedik meg, hanem a mindennapok Görögországa is, s benne a kispénzű magyar turisták humoros csetlése-botlása.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Jaffa</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">AhbYwQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">556dddf0-1240-43ec-aa68-4b163afeeba4</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786155715228</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">szabo-magda-zeusz-kuszoben</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>görög</dc:subject>
+        <dc:subject>Görögország</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>mitológia</dc:subject>
+        <dc:subject>útleírás</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>Irodalom</dc:subject>
+        <dc:subject>Szépirodalom</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Szabó, Magda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-02-20T14:14:57+00:00"/>
+        <meta name="calibre:title_sort" content="Zeusz küszöbén"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

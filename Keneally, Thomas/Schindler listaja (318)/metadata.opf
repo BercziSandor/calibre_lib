@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">318</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac253d65-8e89-4519-a57d-562f62c1c032</dc:identifier>
+        <dc:title>Schindler listája</dc:title>
+        <dc:creator opf:file-as="Keneally, Thomas" opf:role="aut">Thomas Keneally</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Az ​ausztrál író immár bestsellerré vált regénye Oskar Schindler, egykori német gyárosnak állít emléket. Schindler született üzletember és szerencsejátékos. Idejekorán belép a náci pártba, s egyetlen célja: élvezni az életet, a pénzt és a szép nőket. A második világháború elején a gyors meggazdagodás reményében költözik Krakkóba, és azonnal megérzi, milyen hatalmas üzleti lehetőségek nyílhatnak meg előtte. Baráti kapcsolatok és némi ügyeskedés révén megszerez magának egy gyárat, és nem győz eleget tenni a Hitler hadseregétől beözönlő megrendeléseknek. Mivel kitűnő viszonyban van a náci vezetéssel, vállalkozásához minden támogatást megkap, gyárába a zsidó gettóból toborozhat olcsó munkaerőt.&lt;br&gt;A sorozatos kivégzések és megaláztatások azonban, amiknek maga is tanúja lesz, rádöbbentik, mi is történik valójában. Lassan szembesül a ténnyel, hogy a rendszer, amelyet kiszolgál, és amelynek hasznát élvezi, egy embertelen, gyilkos rendszer, amely ártatlanokat küld a halálba. A koncentrációs táborok és a hidegvérű gyilkosságok láttán meggyűlöli a fasizmust, s ettől kezdve minden eszközzel, csellel és megvesztegetéssel igyekszik zsidó munkásainak, mintegy másfélezer embernek az életét megmenteni.&lt;br&gt;A regény egy ellentmondásos hős története, aki bebizonyítja, hogy egyetlen ember is képes lehet arra, hogy a körülmények ellenére megváltoztassa a dolgok menetét, és azok drámája, akik az ő segítségével élik túl az emberi történelem egyik legsötétebb fejezetét.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Lazi</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">thomas-keneally-schindler-listaja</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9639690147</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>2. világháború</dc:subject>
+        <dc:subject>ausztrál szerző</dc:subject>
+        <dc:subject>Booker-díj</dc:subject>
+        <dc:subject>igaz történet alapján</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>történelem</dc:subject>
+        <dc:subject>történelmi regény</dc:subject>
+        <dc:subject>holokauszt</dc:subject>
+        <dc:subject>1001 könyv listán szerepel</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Keneally&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-18T20:09:52+00:00"/>
+        <meta name="calibre:title_sort" content="Schindler listája"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1427</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ccc0ae4d-8bb2-4824-981e-90bb1cfa95a1</dc:identifier>
+        <dc:title>Kis kiruccanás</dc:title>
+        <dc:creator opf:file-as="Gavalda, Anna" opf:role="aut">Anna Gavalda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Simon egy vidéki esküvőre indul a feleségével, aki nem felhőtlenül boldog, hogy a férje testvérei is velük utaznak. A két lány, Garance és Lola, teljesen mások, mint ő, és mindent meg is tesznek azért, hogy érezze, sosem léphet be közös titkos világukba. Ám az ezt követő eseményt még álmában sem feltételezné… Amikor megérkeznek és megtudják, hogy a negyedik testvér, Vincent nem vesz részt az unalmasnak ígérkező szertartáson, köszönés nélkül faképnél hagyják a násznépet és Simon feleségét, hogy hármasban abba a kastélyba ruccanjanak, ahol Vincent dolgozik. Életük fordulópontja lesz ez a kaland. Mind a négy testvér érzi, hogy ez a lopott alkalom az utolsó nagy találkozás, mely lezárja a fiatalkorukat. A Kis kiruccanás Anna Gavalda elbűvölő stílusában mesél a gyermekkori kötelékekről, melyek egész életünket meghatározzák.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Magvető</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789631428247</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">anna-gavalda-kis-kiruccanas</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">bt8tMwEACAAJ</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>család</dc:subject>
+        <dc:subject>emberi sorsok</dc:subject>
+        <dc:subject>francia szerző</dc:subject>
+        <dc:subject>kisregény</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>szeretet</dc:subject>
+        <dc:subject>testvérek</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anna Gavalda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-09-30T18:00:48+00:00"/>
+        <meta name="calibre:title_sort" content="Kis kiruccanás"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, PDF&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1226</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d8c4708-87c9-4972-ab02-b3cc329d4831</dc:identifier>
+        <dc:title>Isten hozott</dc:title>
+        <dc:creator opf:file-as="Grecsó, Krisztián" opf:role="aut">Grecsó, Krisztián</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-19T00:00:00+00:00</dc:date>
+        <dc:description>A ​Klein-napló egy titokzatos titkárnő irománya, mely arra emlékezik, ami majd csak ezután lesz. Mindenki mást olvas ki belőle, a falusiak többsége azonban úgy véli, hogy a saját haláluk időpontját jósolta meg benne – nem tudni, ki. Vagyis a Klein-napló egy halottaskönyv. Talán a múltban elkövetett, talán a jelenben és a jövőben megeső bűnökért, esetleg mindkettőért: ez a büntetés. A kétely, a bizonytalanság, a nézeteltérések és az irracionális események sora, melyeket a szöveg rájuk szabadít. Sáraságban életre kelnek az árnyékok, „felkötik magukat" a kutyák, aztán holtukban mégis életet kölykeznek. Gyermekek születnek steril apáktól, akiknek a múlt árnyai adnak útmutatást. Fiatal lányok őszülnek meg csoportosan, egyik napról a másikra, és az emberek torka folyton száraz, szomjuk csillapíthatatlan. Gallér Gergely gimnazista, a fantasztikus Klein Ede Egylet vezetője, megszállottan kutatja a közös múlt csodáit, a falu védőszentjeinek örökségét, egészen addig, míg végül teljesen magára marad. El kell hagynia gyermekkora helyszínét… hogy aztán visszatérjen kideríteni, mi történt, s miért. Felkutatja a csodákat és hogy ő kicsoda.
+A 2002-ben Bródy Sándor-díjat nyert, Pletykaanyu című könyv szerzőjének új regénye krimiszerűen örvénylik, A közelmúlt titkai megülik benne a jelent, átírják emlékeinket, eltávolítanak és közel hoznak, elfednek és megmutatnak. Az Isten hozott egy önmagát és közösségét elveszítő, aztán újra megtaláló tinédzser története. Vagyis mindannyiunké. Vele kalandozunk, örömünket, vágyainkat leljük meg benne, és józanító pillanataiban önmagunkra ébredünk.</dc:description>
+        <dc:publisher>Magvető</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">grecso-krisztian-isten-hozott</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789631436815</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>303 magyar regény</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>Viharsarok</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>barátság</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Grecsó, Krisztián&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-12-26T18:46:09+00:00"/>
+        <meta name="calibre:title_sort" content="Isten hozott"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

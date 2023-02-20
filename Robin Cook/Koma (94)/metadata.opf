@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">94</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8fbac55c-e80a-468e-b725-1cb5ed1a31f3</dc:identifier>
+        <dc:title>Kóma</dc:title>
+        <dc:creator opf:file-as="Cook, Robin" opf:role="aut">Robin Cook</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-18T00:00:00+00:00</dc:date>
+        <dc:description>„A ​parkoló körül nem látott semmi gyanúsat. Behúzta a függönyt, égve hagyta a villanyt, és bezárta az ajtót. A folyosón megállt, és ahogy a filmekben látta, a padlótól pár centire összehajtogatott papírdarabot dugott az ajtó hasadékába. A kollégium alagsorát folyosó kötötte össze az Anatómiai és Kórélettani Intézettel. Itt futottak a központi fűtés csövei, az elektromos kábelek, és rossz idő esetén a diákok is erre jártak át. Susan nem tudta, nem követik-e, csak azt tudta, hogy ha igen, nem adja meg könnyen magát, és igyekszik lerázni az illetőt. A legtekervényesebb úton haladt. Az Anatómiai Intézet főépületéből átment egy átjárón a központi épületbe, s onnan a könyvtáron keresztül ki a Huntington Avenue-ra, ahol taxiba vágta magát. Pár száz méter után szól a sofőrnek, hogy forduljon meg, és vigye vissza oda, ahol felvette. A kocsiban maradt, felhajtotta a kabátgallérját, hogy ne ismerjék fel, és körülnézett, nem követik-e. Nem követték. Megnyugodott ás szólt a sofőrnek, hogy vigye a Memorial kórházba.”
+Mit keres Susan Wheeler orvostanhallgató a Memorial kórházban? És az Anatómiai Intézetben?
+Robin Cook, a világhírű amerikai író Bostonban játszódó kórházregénye ám ezekre, és sok más rejtélyes kérdésre is választ ad. 
+A regényből készült filmet Magyarországon is nagy sikerrel játszották.</dc:description>
+        <dc:publisher>Gabo</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">robin-cook-koma</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789636890858</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>kóma</dc:subject>
+        <dc:subject>kórház</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>Massachusetts</dc:subject>
+        <dc:subject>női főszereplő</dc:subject>
+        <dc:subject>orvosi krimi</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robin Cook&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-15T20:40:53+00:00"/>
+        <meta name="calibre:title_sort" content="Kóma"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

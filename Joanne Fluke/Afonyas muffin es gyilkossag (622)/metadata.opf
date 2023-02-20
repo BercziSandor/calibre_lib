@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">622</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d7feca7-4641-4d93-8467-260caf39755c</dc:identifier>
+        <dc:title>Áfonyás muffin és gyilkosság</dc:title>
+        <dc:creator opf:file-as="Fluke, Joanne" opf:role="aut">Joanne Fluke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-18T00:00:00+00:00</dc:date>
+        <dc:description>Végy ​egy téli álmában szendergő kisvárost, pezsdítsd fel egy Téli karnevállal, amelynek díszvendége az egyik legismertebb televíziós főzőműsor sztárja, bolondítsd meg az egészet a város első polgármesterének kísértetével és máris készen áll minden Hannah Swensen újabb esetéhez. 
+A szingli cukrásznő ismét kénytelen nyomozni, hiszen Connie Mac, a szár konyhatündér éppen az ő cukrászdájának a kamrájában kap a fejére halálos ütést egy baseballütővel. Ráadásul a fő gyanúsított: húgának egyik legjobb barátnője, akiről elképzelni sem lehet, hogy ilyet tegyen. S miután a Téli karnevál lékhorgász-versenyén a következő hulla is felbukkan a fagyos vízből, Hannah és húga immár mindent bevet a valódi gyilkos horogra akasztásáért.
+És míg a vörös hajú nyomozónő kegyeiért Norman és Mike immár három kötet óta verseng, feltűnik az első szerelem, Greg is a városban, megnehezítve ezzel Hannah amúgy sem egyszerű magánéletét. 
+A sok fordulat és izgalom között már-már alig jut idő a sütésre, de Hannah üzlettársa, Lisa gondoskodik arról, hogy a karnevál süteményellátása nehogy veszélybe kerüljön. Így az olvasó is megismerkedhet újabb 7 nagyszerű édesség elkészítésének titkaival.</dc:description>
+        <dc:publisher>Illia</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">joanne-fluke-afonyas-muffin-es-gyilkossag</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789638714848</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>sütemények</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>Mystery &amp; Crime</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>recept</dc:subject>
+        <dc:subject>Minnesota</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>édesség</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>gasztroregény</dc:subject>
+        <dc:subject>chick lit</dc:subject>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joanne Fluke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Hannah Swensen titokzatos esetei"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2014-09-17T07:29:01+00:00"/>
+        <meta name="calibre:title_sort" content="Áfonyás muffin és gyilkosság"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

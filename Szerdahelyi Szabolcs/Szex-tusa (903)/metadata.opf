@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">903</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">101643c6-ee73-4112-9152-07b9c640be27</dc:identifier>
+        <dc:title>Szex-tusa</dc:title>
+        <dc:creator opf:file-as="Szabolcs, Szerdahelyi" opf:role="aut">Szerdahelyi Szabolcs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;„Csodálatos rendetlenség van szex-ügyekben évezredek óta, és szerencsére még soha nem sikerült senkinek végérvényesen "rendezni” a felmerülő problémákat. Így hát nem lesz feltűnő, ha erre most én sem vállalkozom. Amit célul tűzhetek ki, az legfeljebb csak annyi, hogy az olvasóval együtt pikáns tájakon teszünk körutazást, azzal a nem titkolt szándékkal, hogy e barangolás leágazásokat kínál majd az útitársaknak saját történetük felé. &lt;br&gt;Tisztában vagyok azzal, hogy időnként veszélyes területeken járunk majd. Különösképpen azért, mert a nyomtatott szónak nagy – talán túlzottan is nagy – a tisztelete. Abban bízom azonban, hogy a terepismeret végül mindenkinek hasznára lesz. Előre is elnézést kérek az „illetlenségekért”. Egyetlen mentségem, hogy az idézett történeteket a természetes környezet produkálta.”&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Magánkiadás</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9635004761</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">szerdahelyi-szabolcs-szex-tusa</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>Magyarország</dc:subject>
+        <dc:subject>1980-as évek</dc:subject>
+        <dc:subject>nemi élet</dc:subject>
+        <dc:subject>nemi szerep</dc:subject>
+        <dc:subject>párkapcsolat</dc:subject>
+        <dc:subject>szexualitás</dc:subject>
+        <dc:subject>szociológia</dc:subject>
+        <dc:subject>társadalomrajz</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Szerdahelyi Szabolcs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2015-12-06T20:32:11+00:00"/>
+        <meta name="calibre:title_sort" content="Szex-tusa"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

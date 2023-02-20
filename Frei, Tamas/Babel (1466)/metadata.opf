@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1466</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d7b9657-332a-41b0-8b6c-1ab6c7d25730</dc:identifier>
+        <dc:title>Bábel</dc:title>
+        <dc:creator opf:file-as="Frei, Tamás" opf:role="aut">Frei, Tamás</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A terrorizmust a drótkerítés sem képes megállítani. A modern kori népvándorlás bábeli zűrzavarában minden lehetséges!André Calvi, Frei Tamás eddigi négy sikerkönyvének fősze-replője mindig azt mondta: a végén a rosszak győznek. Marco Boretti, az új főhős szerint viszont a gátlástalan okosak!A Bábel a korábbi regényekhez hasonlóan fordulatos, izgal-mas, akciódús történet, és szokás szerint lényeglátó és égetően aktuális. A mai valóságot mutatja be. Rávilágít arra, hogy mi rejlik az óriásplakátokra írt pár szavas üzenetek hátterében.Marco Boretti, az édesanyja révén magyar származású firen-zei régész aligha hitte, hogy szakmája az európai migránsválság kellős közepén kulcsszerephez juttatja egy olyan szövevényes ügyben, amiben semmi sem az, aminek látszik. A tudósból kincsvadász lesz. A segélyszervezetek munkatársaiból műkincs-csempész. A fegyverkereskedőből miniszterelnöki tanácsadó. Üldözőből üldözött.Frei Tamás a színfalak mögé viszi az olvasót, megmutatja, milyen hatalmi manőverek révén ragadhatja magához egy kellően gátlástalan politikus egy ország irányítását, és miféle cinizmus kell ahhoz, hogy a nyugati világ legbefolyásosabb emberei véres műkincsekkel teli luxusvilláikból finanszírozzák az iszlám terrorizmust.A háttérben pedig Magyarországon futnak össze a szálak, ahol mindenre találni megoldást...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alexandra</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">frei-tamas-babel</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">12d35402-634f-45e2-89b5-c2fbd7f61aaa</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789634476160</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">AGPTDwAAQBAJ</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>True Crime</dc:subject>
+        <dc:subject>Espionage</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frei, Tamás&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-11-15T09:47:39+00:00"/>
+        <meta name="calibre:title_sort" content="Bábel"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">218</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a178ab3a-9deb-47da-b926-36f432433617</dc:identifier>
+        <dc:title>Csaba</dc:title>
+        <dc:creator opf:file-as="Wass, Albert" opf:role="aut">Wass, Albert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-22T00:00:00+00:00</dc:date>
+        <dc:description>'A haza elveszett!' – sóhajtanak föl Móruc kicsiny székely falucska lakói 1918 végén. Fileki Márton fia nem érti. Ugyan hogyan veszhetett volna el, hiszen minden a helyén maradt, minden a régi. Ferkó csak a kolozsvári egyetemen döbben rá a valóságra, hogy milyen sors jutott a magyarságnak saját hazájában. De azt is látja, hogy minden feszültség, mely a különböző nemzetiségűek között támad, a politika műve. Emberi sorsok, futó szerelmek, kényszerű meghajlás a hatalom előtt, dacos helytállás, összefogás a nehéz időkben – így zajlik a kis falu élete. Ferkó férfiként érti meg, hogy hiába is vár a nagyapja meséiből ismert Csaba királyfira, a szebb jövőt neki magának kell megteremtenie. A Székelyföld gyönyörű tájait bemutató leírásokban, élményszerű jelenetekben és jellemrajzban gazdag történet az emberség szép példája. Beszerzése a meglévő állomány figyelembe vételével minden nagyobb általános gyűjtőkörű könyvtárba javasolt.</dc:description>
+        <dc:publisher>Duna International</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789735995300</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">wass-albert-csaba</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>székely</dc:subject>
+        <dc:subject>Erdély</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>Historical Fiction</dc:subject>
+        <dc:subject>határon túli</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>Székelyföld</dc:subject>
+        <dc:subject>erdélyi magyar szerző</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Wass, Albert&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-17T20:51:31+00:00"/>
+        <meta name="calibre:title_sort" content="Csaba"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

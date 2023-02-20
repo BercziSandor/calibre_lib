@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1121</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dbb03439-e127-4e40-b0c4-91ad5f175348</dc:identifier>
+        <dc:title>Bársony és keserű mandula</dc:title>
+        <dc:creator opf:file-as="Harris, Joanne" opf:role="aut">Joanne Harris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-17T00:00:00+00:00</dc:date>
+        <dc:description>Ezt az elragadó gyűjteményt olvasni olyan, akár a legfinomabb bonbonosdobozban válogatni a krémes, keserű, kávés vagy nugátos édességek között. Nem is csoda, hiszen a Csokoládé világhírű írónője ismét meglepetést és örömet akart szerezni rajongóinak. Történetei hol torokszorítóan érzelmesek, hol mesésen varázslatosak, hol pedig hátborzongatóak; farkasemberek, delfinnők, dacos, öreg hölgyek és erotikus bőrholmik – a Bársony és keserű mandulában a csoda szinte mindennapi, a savanyú sokszor édes, szép a rút és rút a szép, még a csábító és a meghökkentő sincs egy lépésnél távolabb egymástól. Az „édes élet” legnagyobb szakértője ismét bebizonyítja, hogy akár a szépség mítoszát, akár a hűtlenség fájdalmát, akár az időskori szerelem csodáját járja körbe, mestere a történetmesélésnek.</dc:description>
+        <dc:publisher>Ulpius-ház</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">joanne-harris-barsony-es-keseru-mandula</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">77a95b24-b92b-4e89-b4ed-6da67f4165a9</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789632541976</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>francia szerző</dc:subject>
+        <dc:subject>mágikus realizmus</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joanne Harris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2017-08-20T17:08:11+00:00"/>
+        <meta name="calibre:title_sort" content="Bársony és keserű mandula"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

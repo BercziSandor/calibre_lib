@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1463</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff51f9a3-f019-467f-a00d-b2d975040a60</dc:identifier>
+        <dc:title>Egy riporter dossziéja</dc:title>
+        <dc:creator opf:file-as="Frei, Tamás" opf:role="aut">Frei, Tamás</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-11-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Akik szerették és nézték Frei Tamás műsorait, semmi olyannal nem találkoznak ebben a könyvben, amiről a tévében már hallottak. Ez a kötet olyan történetek gyűjteménye, melyeket eddig még sehol nem mesélt el. Történetek távoli országokról, hollywoodi sztárokról, politikusokról, diktátorokról, milliárdosokról és éhezőkről. Történetek háborúkról, veszélyes kalandokról éppúgy, mint mesés vagyonokról, gyémántokról és gyönyörű nőkről. Történetek, melyek Frei Tamás szeme láttára játszódtak le a színfalak mögött, ahol sokszor nem foroghatott a kamera. Izgalmas pillantás exkluzív londoni klubok rejtett ajtói mögé, hollywoodi sztárok szobáiba és dúsgazdag emberek palotáiba, kalandos utazás a dél-amerikai kábítószerháború titkos radarállomásaira vagy óceánok mélyére, elveszett kincsek után. Olvasni szinte jobb, mint nézni!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Park</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">frei-tamas-egy-riporter-dosszieja</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9635305192</dc:identifier>
+        <dc:language>hun</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Frei, Tamás&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-11-15T09:44:55+00:00"/>
+        <meta name="calibre:title_sort" content="riporter dossziéja, Egy"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

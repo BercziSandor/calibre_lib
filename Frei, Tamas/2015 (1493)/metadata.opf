@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1493</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cfe5a0f3-09d0-4147-9626-96055c901a37</dc:identifier>
+        <dc:title>2015</dc:title>
+        <dc:creator opf:file-as="Frei, Tamás" opf:role="aut">Frei, Tamás</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;ANDRÉ-SZTORI III. Frei Tamás közönségkedvenc hőse, André története a parlamenti választás napjaiban indul ismét útjára, feszült, konfliktusokkal teli időszakban. A képzeletbeli Magyarország arra ébred, hogy a kisebbség került többségbe. De hogyan? Miként és miért esik egymásnak a magyar politikai és gazdasági elit egy része, és mi köze mindehhez Andrénak, Adriennek és egy Kaliforniában élő sikeres magyar feltalálónőnek? Mi történik a sarokba szorított miniszterelnökkel, a magyar poligarchákkal, és persze Andréval meg az ő fekete szemű, hároméves kislányával, Fruzsikával? Frei Tamás mind újságíróként, mind íróként rekordok sokaságát döntötte meg az elmúlt évtizedekben, a kulisszák mögé betekintést nyújtó André történetei új műfajt honosítottak meg Magyarországon. A sorozat harmadik része, a 2015 tovább emeli a tétet, és a lélegzetelállító izgalmak és hátborzongatóan valószerűnek tűnő összeesküvés-elméletek mellett elgondolkodtató dilemmákkal szembesít bennünket mindennapjainkkal, valamint önmagunkkal kapcsolatban.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alexandra</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">_mLTDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789634476207</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">frei-tamas-2015</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Thrillers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frei, Tamás&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="André"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-11-15T12:35:05+00:00"/>
+        <meta name="calibre:title_sort" content="2015"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

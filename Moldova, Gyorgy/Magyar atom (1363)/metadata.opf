@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1363</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29120e0e-9fa9-4beb-b621-d047514dacb0</dc:identifier>
+        <dc:title>Magyar atom</dc:title>
+        <dc:creator opf:file-as="Moldova, György" opf:role="aut">Moldova, György</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1980-02-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;„1952-ben ​kerültem be a Színház és Filmművészeti Főiskolára – nem színésznek jelentkeztem, volt otthon tükör, hanem dramaturgnak. Már az első nap bementem a könyvtárba, hátha itt megtalálom azokat a könyveket, melyeket a kiszuperált villamoson hiába kerestem. Egy színésznövendék állt előttem a sorban. – Elvtársnő – mondja a könyvtárosnőnek –, megvan maguknak az "Egymillió pici Krisztus”? – Egymillió pici Krisztus?! Ki írta? – Lenin. Úgy hallottam, nagyon érdekes. Eltartott vagy negyedórát, amíg rájöttek, hogy a jövendő nagy jellemszínésze az Empiriokriticizmus-ra gondol, hóna alá fogta a vaskos kötetet, és elégedetten távozott." A 8888-as Italboltban a montreáli közvetítéseket hallgatták egy zsebrádión, mikor az esélyes úszók sorra kiestek az előfutamokból, mindenki fel volt háborodva, csak H. Kovács legyintett lekicsinylően. – Nem kell olyan nagyigényűnek lenni, kedves uraim, inkább örüljünk, hogy a fiúk nem fulladtak bele a vízbe. Itt egy nagy úszó volt: Istók az FTC-ből, a többiek: futottak még: Kacor király, Rizibizi. – Istók? Még nem hallottunk ilyen nevű úszóról. – Pedig néhány évvel ezelőtt még sokat beszéltek róla, főleg, amikor olyan hirtelen eltűnt. – Miért tűnt el? H. Kovács széttárta a karjait: – Ez megint egy szigorúan titkos, úgynevezett dupla nullás államtitok, nem kockáztathatom a személyes biztonságomat azzal, hogy közlöm magukkal. – Akkor mit csináljunk? H. Kovács közelebb hajolt a kíváncsiakhoz, és száját félig eltakarva suttogta: – Próbáljanak talán leitatni, hátha akkor könnyebben beszélek. Rendeljenek, mondjuk, egy tömbházmestert. – Az mi? – Három régi házmester egyben: kilenc deci bor, hat deci szóda.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Urbis</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">07dDtAEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">moldova-gyorgy-magyar-atom</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789632712512</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <dc:subject>szatíra</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Moldova, György&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-02-22T12:20:26+00:00"/>
+        <meta name="calibre:title_sort" content="Magyar atom"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

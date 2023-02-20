@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">109</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5c3c77e-92a6-4ac6-a638-32f21d56f7c4</dc:identifier>
+        <dc:title>Tövispuszta</dc:title>
+        <dc:creator opf:file-as="Kepes, András" opf:role="aut">Kepes, András</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Kellő ​fantáziával a valóság is kitalálható.&lt;br&gt;Kávéfoltos levelekből, megsárgult, tépett szélű dokumentumokból, elrongyolódott naplókból és felesleges tárgyak szagából próbálom összerakni ezt a történetet. Mindent én gyűjtöttem a behívóparancstól a kitelepítési határozatig és az egymásnak ellentmondó önéletrajzokig, a koronás ezüstkanáltól a tulipános ládáig, a chanuka gyertyatartótól a vásári Krisztus-képig és a felfújható Buddháig. Ahogy elnézem, jó mocskos kis történet lesz, tele vicsorral és könnyes röhögéssel, szerelemmel, gyilkossággal, barátsággal és árulással, fordulatokkal és közhelyekkel. Akár egy szappanopera. Vagy mint a történelmünk. De, azt gondoltam, valakinek el kell mesélnie, hátha az igazság helyett mondogatott és a valóság helyett megélt történetek összeillesztve valósággá válnak.&lt;br&gt;A könyv egyik hőse én vagyok. Hogy melyik, azt egyelőre nem árulom el. Nagyjából mindegy is. Ne reménykedj, nem fogsz rájönni. Egyes szám harmadik személyben írok magamról, kellő távolságtartással és öngúnnyal, ahogy ilyen esetben elvárható, azontúl persze mély együttérzéssel és önámítással, helyenként önimádattal, ahogy magunkkal bánni szoktunk.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Libri</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">kepes-andras-tovispuszta</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789634338079</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>magyar</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>családregény</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kepes, András&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-15T20:43:36+00:00"/>
+        <meta name="calibre:title_sort" content="Tövispuszta"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

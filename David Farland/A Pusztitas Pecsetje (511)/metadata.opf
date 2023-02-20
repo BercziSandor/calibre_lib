@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">511</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e320382e-d438-4e77-832b-4522972db23e</dc:identifier>
+        <dc:title>A Pusztítás Pecsétje</dc:title>
+        <dc:creator opf:file-as="Farland, David" opf:role="aut">David Farland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Gaborn alatt a Föld remegni kezdett. Először lassan, mint egy távoli rengés, amely egyre erősödött, mintha a rengés önmagát szítaná, és sokkal nagyobbra nőne, mint amit eddig tapasztalt. Megérezte az erőt, ahogy kitörni készült. Hirtelen tágulni kezdett a Föld, mintha egy óriás ököl rázná. A Féreg levegőbe emelte fegyverét. A húsába égetett rúnák és a kristályfény fegyvere belső fénytől izzottak. Sziszegő hangot bocsátott ki, amely dörrenve visszhangzott az égből. Carrais falairól és a közeli hegyekről. A Féregmágus közeléből, a Pusztítás Pecsétjéből, éjfekete felhő öltött testet. Olyan átok, amit egyetlen ember sem élhet túl. &lt;BR&gt;Gaborn hagyta, hogy a Föld mágikus ereje betöltse egész lényét és végtelen hatalommá erősödjön. Elméjében felidézte a pusztítás képzetét, és hagyta, hogy nőjön, kiterjedjen, egészen addig, amíg érezte, már nem tudja tovább visszafogni. &lt;BR&gt;A Földkirály kinyitotta az öklét, és kibocsátotta az erőt.</dc:description>
+        <dc:language>hun</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;David Farland&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Farkasok szövetsége"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2013-06-04T20:30:18+00:00"/>
+        <meta name="calibre:title_sort" content="Pusztítás Pecsétje, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

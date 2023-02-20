@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">911</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f468497-786f-4a0b-9ad9-5cf1980eb6f2</dc:identifier>
+        <dc:title>Különleges megbízatások</dc:title>
+        <dc:creator opf:file-as="Akunyin, Borisz" opf:role="aut">Akunyin, Borisz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-03-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;Hasfelmetsző Jack bukkant volna fel Moszkvában? És éppen akkor, amikor a cár húsvéti látogatására készülődik a város vezetése? Egymást követik az elképesztően brutális gyilkosságok, melyek áldozatai többnyire prostituáltak – s a gyilkos minden alkalommal borzalmas „dekorációt” hagy maga után. A moszkvai rendőrfőnöknek meggyőződése, hogy ilyen bűntetteket csak valamilyen durva foglalkozást űző ember követhet el: leginkább hentes. Eraszt Fandorin azonban arra gyanakszik, hogy a londoni mániákus Moszkvában folytatja tevékenységét…&lt;/p&gt;
+&lt;p class="description"&gt;  A kötet másik kisregényében Fandorinnak, a moszkvai főkormányzó különleges megbízatású nyomozójának egy zseniális csalóval kell megmérkőznie. „Pikk Bubi” álruhában, fantasztikus színészi képességekkel csal ki hatalmas összegeket különféle magas rangú emberektől. A zseniális nyomozó most igazán az emberére akad: Pikk Bubi még attól sem riad vissza, hogy vele és szeretőjével űzzön egy aljas kis tréfát…&lt;/p&gt;
+&lt;p class="description"&gt;  Borisz Akunyin folytatja diadalútját a világban – a kommunizmus bukása óta ő az egyetlen orosz szerző, aki hazájában s külföldön is tömegsikert ért el: teremtménye, Eraszt Fandorin a krimiirodalom legendáriumában Sherlock Holmes és James Bond nyomdokaiba lép…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">borisz-akunyin-kulonleges-megbizatasok</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630784047</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>kisregény</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>nyomozás</dc:subject>
+        <dc:subject>orosz</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Akunyin, Borisz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Fandorin"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2016-05-25T06:38:29+00:00"/>
+        <meta name="calibre:title_sort" content="Különleges megbízatások"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

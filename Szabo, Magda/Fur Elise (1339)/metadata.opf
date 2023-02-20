@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1339</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8a24817-ebef-4750-9377-da86201191cd</dc:identifier>
+        <dc:title>Für Elise</dc:title>
+        <dc:creator opf:file-as="Szabó, Magda" opf:role="aut">Szabó, Magda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Szabó ​Magda elmúlt nyolcvanéves, amikor lánytestvére született: írt magának egyet. Mert bár a Für Elise önéletrajzi ihletésű mű, a regénybeli fogadott testvér, Bogdán Cecília korábban ismeretlen volt az olvasók előtt. Az író talán gyerekkori barátnőjét mintázta meg Cili alakjában, talán önmagát.&lt;br&gt;Cili trianoni árva, Zentáról származik, az árvaházból kerül Debrecenbe, négyévesen fogadja be új családja. Ő a bájos, szeretnivaló szőke gyermek, akit minden bajtól óvnak, akit dédelgetnek ismerősök, ismeretlenek és a tanárai is. &lt;br&gt;Magdolna okos, művelt már kisgyerekkorában is. Esti meseként bibliai történeteket hallgat édesapjától, még iskolába sem jár, de már latinul veszekszik nagybátyjával. Szülei nem korlátozzák, nem nevelik, csak civilizálják. Nyelveket tanul, olvas és ír, képzelete szárnyal, olyan szabálytalan voltam, mint maga a szabálytalanság, már akkor kilóg a sorból.&lt;br&gt;Cili története nem zárul le, annyit tudunk meg, hogy fiatalon meghal, de a részletek homályban maradnak. Ennek oka lehet az is, hogy Szabó Magda Magdaléna címmel a regény folytatását tervezte.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Jaffa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786155715488</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">szabo-magda-fur-elise</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>családregény</dc:subject>
+        <dc:subject>énregény</dc:subject>
+        <dc:subject>hangoskönyv</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>Nagy Könyv</dc:subject>
+        <dc:subject>női főszereplő</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>testvérek</dc:subject>
+        <dc:subject>történelem</dc:subject>
+        <dc:subject>visszaemlékezés</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Szabó, Magda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-02-20T14:14:56+00:00"/>
+        <meta name="calibre:title_sort" content="Für Elise"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

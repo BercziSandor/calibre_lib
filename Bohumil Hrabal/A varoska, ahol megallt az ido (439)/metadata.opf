@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">439</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f5932cd-390a-4c71-a620-2c7bbed764d0</dc:identifier>
+        <dc:title>A városka, ahol megállt az idő</dc:title>
+        <dc:creator opf:file-as="Hrabal, Bohumil" opf:role="aut">Bohumil Hrabal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Ismert ​s mégis az újdonság erejével, varázsával ható jelenetek, motívumok, szereplők köszönnek vissza a világhírű cseh író kisregényében vagy – a szerző műfaji meghatározása szerint – szövegében, amelyet a cseh irodalom értői Hrabal hetvenes években keletkezett művei közül a legjobbak közé sorolnak. Az olvasó ismét találkozhat Anyuval, Francinnal, Pepin bácsival és az Elba-parti városka többi szeretetreméltó, utánozhatatlan emberséggel életre keltett, megrajzolt lakójával. Ismét bekalandozhatjuk a sörgyárat, végigsétálhatunk a folyóparton, betérhetünk Pepin bácsival a női kiszolgálású vendéglőkbe, kószálhatunk a városkában, ahol immár végleg megállt az idő, a régi idő, a Hrabal-hősök ideje. A vidám sörgyári történetekhez képest a szerző melankolikusabb hangot üt meg a Városkában. Míg a Sörgyári capriccio egy felszabadult burleszk, addig a Városkára a nosztalgikus melankólia, helyenként a groteszk balladai hang a jellemző: szomorú és komikus, tragikus és groteszk jelenetek láncolata teremt különleges atmoszférát e megkapó hangulatú, mesterien megkomponált kamaraműben, melyben a szerző egy letűnt világot, a régmúlt aranyidőket, mindannyiunk emlékezet megszépítette gyermekkorát varázsolja örök életűvé és örök érvényűvé.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">bohumil-hrabal-a-varoska-ahol-megallt-az-ido</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">3b8e3851-48f0-4173-919b-2a645dba0459</dc:identifier>
+        <dc:identifier opf:scheme="ANTIK_HU">36252</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9630778025</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>cseh szerző</dc:subject>
+        <dc:subject>kisregény</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>Európa</dc:subject>
+        <dc:subject>Cseh Köztársaság</dc:subject>
+        <dc:subject>Az író származása szerint</dc:subject>
+        <dc:subject>Szépirodalom</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <dc:subject>elbeszélés</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bohumil Hrabal&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2013-04-22T20:31:26+00:00"/>
+        <meta name="calibre:title_sort" content="városka, ahol megállt az idő, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

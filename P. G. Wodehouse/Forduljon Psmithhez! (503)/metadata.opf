@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">503</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f889b8a-5088-4123-bfe8-e3fd01f2f4c2</dc:identifier>
+        <dc:title>Forduljon Psmithhez!</dc:title>
+        <dc:creator opf:file-as="Wodehouse, P. G." opf:role="aut">P. G. Wodehouse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-22T00:00:00+00:00</dc:date>
+        <dc:description>Forduljon ​Psmithhez!!!
+Psmith Majd Segít!
+Psmith Mindent Elintéz!
+Önnek Szüksége Lenne
+Valakire, Aki Eljár Peres Ügyiben?
+Valakire, Aki Elintézi Üzleti Ügyeit?
+Valakire, Aki Sétálni Viszi A Kutyáját?
+Valakire, Aki Meggyilkolja Az Ön Nagynénjét?
+Psmith Elintézi!
+Bűntény Nem Akadály!
+Bármilyen Megbízása Van
+(Feltéve, Hogy Halakkal Nem Kell Dolgozni),
+Forduljon Psmithhez!
+Ajánlatok: R. Psmith, Postafiók 365
+Forduljon Psmithhez!
+Ez a hirdetés jelent meg a Morning Globe című tekintélyes napilap első oldalán, egy verőfényes nyári reggelen. S ez a hirdetés keltette fel Freddie Threepwood őméltóságának, e makulátlanul elegáns, ám értelmi képességekkel meglehetős szerényen megáldott ifjúnak figyelmét. Freddie ugyanis merész terveken töri a fejét, csak azt nem tudja, hogyan fogjon hozzá a megvalósításukhoz. De – forduljon Psmithhez, Psmith majd segít!!! És valóban: a rendíthetetlen kedélyű, találékony, monoklis férfiú, R. Psmith (a „P” néma marad!) mindent elintéz.
+Ütődött arisztokraták, állástalan széplányok, valódi és ál-költők, hivatásos és amatőr ékszerrablók nyüzsögnek az ősi Blandings-kastély mohlepte fala között. Halmozódnak a bonyodalmak, ám Psmith mindent elintéz!
+Minderről pedig P.G. Wodehouse rendkívül mulatságos, kitűnően megszerkesztett és mélyen emberséges szemléletű regényt írt, amely méltán lett világhírű.</dc:description>
+        <dc:publisher>Ciceró</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9635394780</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">p-g-wodehouse-forduljon-psmithhez</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>General Fiction</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>hangoskönyv</dc:subject>
+        <dc:subject>angol humor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;P. G. Wodehouse&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Blandings kastély"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2013-06-04T20:29:05+00:00"/>
+        <meta name="calibre:title_sort" content="Forduljon Psmithhez!"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

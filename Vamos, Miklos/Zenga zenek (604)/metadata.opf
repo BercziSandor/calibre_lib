@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">604</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">70543fa6-bf92-4d9e-a2f4-224f20478b64</dc:identifier>
+        <dc:title>Zenga zének</dc:title>
+        <dc:creator opf:file-as="Vámos, Miklós" opf:role="aut">Vámos, Miklós</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;„E ​regény cselekménye 1955-ben és 1956-ban játszódik. Öcsi, a főhős, hatéves. Én is hatéves voltam akkor, de Öcsivel csak annyiban vagyok azonos, amennyiben mindenkivel, aki ama zűrös időszakban velem együtt volt nagycsoportos óvodás, majd első elemista. Hogy mi minden történt velünk ezen túl, azt itt most nem sorolom, remélem, benne van a könyvben. Úgy érzem, mindazt, amit e regény főszereplője nehezen képes fölfogni és földolgozni, azt az én nemzedékemnek máig sem sikerült teljesen megemésztenie: változatlanul küszködünk a kettős (hármas, négyes…) nevelés gondjaival, egyszerre hat ránk a vallás, a politika, a szerelem, a faji hovatartozás, a barátság, a családi kötöttségek minden gondja és öröme. Az első kiadás idején (1983-ban) egy-egy szövegrészt törölni kellett a kéziratból, művészeten kívüli szempontok kényszere alatt. A kimaradt bekezdések e kiadásba visszakerültek. De azt hiszem, emiatt nem érdemes megvenni. Nem politikai szenzáció: regény. Ajánlom mindazoknak, akikben felnőtt fejjel is él még a gyerek. Éljen soká.”&lt;br&gt;Vámos Miklós&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">vamos-miklos-zenga-zenek</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789634057505</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>1950-es évek</dc:subject>
+        <dc:subject>1956</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>gyermekszemszög</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Vámos, Miklós&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2014-09-17T07:15:09+00:00"/>
+        <meta name="calibre:title_sort" content="Zenga zének"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

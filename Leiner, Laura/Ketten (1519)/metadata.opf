@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1519</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">16f41394-7395-4322-bf2e-b2d6205ee554</dc:identifier>
+        <dc:title>Ketten</dc:title>
+        <dc:creator opf:file-as="Leiner, Laura" opf:role="aut">Leiner, Laura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-22T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;December 20-a Reni életének legboldogabb napja, és ettől kezdve minden megváltozik.&lt;br&gt;De vajon csak jó értelemben? Vajon meddig tart a váratlanul jött boldogság? És Reninek sikerül-e nemcsak megszerezni, de meg is tartani Cortezt? Mi mindennel kell megküzdenie a saját félelmein, gátlásain kívül? Hisz Cortez a suli legmenőbb sráca, mindenki rajong érte, Reni viszont, legalábbis a saját megítélése és persze Kinga szerint, a „nyomik” táborát erősíti…&lt;br&gt;A 11. osztály 2. féléve is tele van izgalmakkal, akárcsak a korábbiak: Dave például élete eddigi legnagyobb próbatételén megy keresztül, Kinga még önmagát is felülmúlja egy diszkóban, Corteznek iskolapszichológushoz kell járnia, Viki „kiborítja a bilit”, Reninek pedig váratlan vendég érkezik a születésnapjára…&lt;br&gt;„Ritkaságszámba megy, hogy egy könyvsorozat valamennyi kötete 90% feletti eredményt érjen el a Molyon. A Szent Johanna gimi eddig mindig jelesre vizsgázott.” www.moly.hu&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Carta Teen</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">leiner-laura-a-szent-johanna-gimi-6-ketten</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786155653230</dc:identifier>
+        <dc:language>hun</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Leiner, Laura&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A Szent Johanna Gimi"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-12-23T16:10:53+00:00"/>
+        <meta name="calibre:title_sort" content="Ketten"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">312</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e3ebceb-66e2-4731-b18c-72d203026c9a</dc:identifier>
+        <dc:title>És eljő a halál…</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;4000 ​évvel ezelőtt Egyiptomban…&lt;br&gt;Imhotep, a ká-pap, kiterjedt család feje. Régóta özvegy, és most memphiszi útján szert tett egy fiatal és gyönyörű ágyasra. Úgy gondolja, a családnak vele kellene örvendeznie – de Nofret rövid idő alatt meggyűlölteti magát, és összeugrasztja a családtagokat. A két felnőtt fiú házassága megrendül. A szegény rokon, aki Imhotep jóakaratának hála él velük, feltűnően szaglászni kezd mindenki után, és Nofret besúgójává válik. A Memphiszből érkezett írnok rokon látszólag a család oldalán áll, de ki tudja, valójában mi vezérli? Amikor Nofret lezuhan a sziklaösvényrõl, titokban mindenki fellélegzik. De aztán felmerül a kellemetlen kérdés: valóban baleset történt? Ha igen, miért változott meg egyes családtagok viselkedése? Reniszenb, a fiatal özvegy, Imhotep leánya, aki most tért vissza férje halála után, az intézővel, Horival együtt nyomozni kezd. És hirtelen elfelejthetjük, hogy milyen régen játszódik a krimi. Az óegyiptomi szereplők éppen úgy viselkednek, mint a mai emberek – hiszen belsőleg nem változott sokat az emberiség azóta sem.&lt;br&gt;Mire fény derül a titkokra, heten halnak meg. De Agatha Christie nem hagyja cserben hűséges olvasóit: az utolsó lapokon mindent megtudunk!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Helikon</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789634791478</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">agatha-christie-es-eljo-a-halal</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Afrika</dc:subject>
+        <dc:subject>angol szerző</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>család</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>nyomozás</dc:subject>
+        <dc:subject>történelmi krimi</dc:subject>
+        <dc:subject>angol</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>Szórakoztató irodalom</dc:subject>
+        <dc:subject>ókor</dc:subject>
+        <dc:subject>Egyiptom</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Agatha Christie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-18T19:44:26+00:00"/>
+        <meta name="calibre:title_sort" content="És eljő a halál…"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

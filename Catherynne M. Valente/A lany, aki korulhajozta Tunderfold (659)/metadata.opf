@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">659</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46c1eb11-85d0-4a13-a8e3-fbbbec0245d6</dc:identifier>
+        <dc:title>A lány, aki körülhajózta Tündérföldet</dc:title>
+        <dc:creator opf:file-as="Valente, Catherynne M." opf:role="aut">Catherynne M. Valente</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Szeptember egy kislány, aki kalandokra vágyik. Amikor a Zöld Szél és egy Leopárd Tündérföldre invitálja, természetesen elfogadja a meghívást. (Te talán nem tennéd?) Tündérföldön azonban nagy a zűrzavar, és egy tizenkét éves kislányra, egy könyvszerető sárkánygyíkra és egy Szombat nevű, különös és majdnem emberi kisfiúra hárul a feladat, hogy legyőzzék a gonosz Márkinőt, és helyreállítsák a rendet.&lt;br&gt;Catherynne M. Valente részletekben kezdte el közölni Szeptember kalandjait az interneten; a történet rengeteg rajongót és az évtized legjobb netes írásművének kijáró Culture-Geek díjat hozta el számára.&lt;br&gt;„Őrült, ínyenc hancúrozás ez a mese – tele furcsaságokkal, szeszéllyel és örömmel.” – Holly Black, a Spiderwick krónikák írója&lt;/p&gt;</dc:description>
+        <dc:publisher>Ciceró</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">catherynne-m-valente-a-lany-aki-korulhajozta-tunderfoldet</dc:identifier>
+        <dc:identifier opf:scheme="LIBRI_HU">catherynne_m_valente.a-lany-aki-korulhajozta-tunderfoldet</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789635397938</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>gyermekkönyv iskolásoknak</dc:subject>
+        <dc:subject>ifjúsági</dc:subject>
+        <dc:subject>illusztrált</dc:subject>
+        <dc:subject>kaland</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>Locus-díj</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>meseregény</dc:subject>
+        <dc:subject>portál fantasy</dc:subject>
+        <dc:subject>sárkány</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>Gyermek és ifjúsági</dc:subject>
+        <dc:subject>Mesekönyv</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Catherynne M. Valente&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Tündérföld"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2014-03-08T09:24:43+00:00"/>
+        <meta name="calibre:title_sort" content="lány, aki körülhajózta Tündérföldet, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

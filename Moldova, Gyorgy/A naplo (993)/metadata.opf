@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">993</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8529219-14d3-4003-bcbc-40d114967630</dc:identifier>
+        <dc:title>A napló</dc:title>
+        <dc:creator opf:file-as="Moldova, György" opf:role="aut">Moldova, György</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-21T23:00:00+00:00</dc:date>
+        <dc:description>"Ennek ​a könyvnek Che Guevara valóban létező bolíviai naplója volt a kiindulási pontja és éltető ereje. Átvettem belőle mindazokat az adatokat, melyeket lehetetlen lett volna másképp elmondani, mint ahogy Che leírta: dátumokat, földrajzi neveket és irányokat, vadászzsákmányokat, harci összecsapások napjait és körülményeit.
+Mit adtam hozzá én? Bármilyen különösen is hangzik, elsősorban magát Che Guevarát – a hős elképzelt jellemét. Megpróbáltam hűséges maradni a fellelhető1 adatokhoz és nyomokhoz, kiválasztottam Che más műveiből, megnyilatkozásaiból, politikai és magánéletéből azokat az epizódokat, leírt vagy elhangzott szövegrészeket, melyeket jellemzőnek találtam rá, és beleolvasztottam „A napló” szövegébe. Hozzátettem történelmi leírások, életrajzok, tankönyvek megállapításait is, ha úgy éreztem, hogy segítenek tisztázni a képet. De a könyv legfontosabb forrásai mégis azok a gondolatok és érzelmek voltak, melyeket a bolíviai napló keltett bennem – itt valóban„ az eszme vált testté”, pontosabban mondatokká.
+Tízévi munkám fekszik ebben a könyvben, de nagy megtiszteltetésnek tekinteném, ha munkám nyomait az olvasó nem tudná elválasztani Che mondataitól és szellemétől."</dc:description>
+        <dc:publisher>Urbis</dc:publisher>
+        <dc:identifier opf:scheme="LIBRI_HU">moldova_gyorgy.a-naplo</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">moldova-gyorgy-a-naplo</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">b33447a2-40cc-4346-bca2-f26128d245f2</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9639291730</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Szépirodalom</dc:subject>
+        <dc:subject>Irodalom</dc:subject>
+        <dc:subject>1960-as évek</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>napló</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>Latin-Amerika</dc:subject>
+        <dc:subject>Bolívia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Moldova, György&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2016-05-25T07:41:17+00:00"/>
+        <meta name="calibre:title_sort" content="napló, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

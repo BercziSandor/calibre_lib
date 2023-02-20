@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9dbc639f-8d57-4701-8502-08496a5663d8</dc:identifier>
+        <dc:title>The two towers</dc:title>
+        <dc:creator opf:file-as="Tolkien, J. R. R." opf:role="aut">J. R. R. Tolkien</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Hobbits ​and wizards and Sauron--oh, my! Mild-mannered Oxford scholar John Ronald Reuel Tolkien had little inkling when he published The Hobbit; Or, There and Back Again in 1937 that, once hobbits were unleashed upon the world, there would be no turning back. Hobbits are, of course, small, furry creatures who love nothing better than a leisurely life quite free from adventure. But in that first novel and the Lord of the Rings trilogy, the hobbits Bilbo and Frodo and their elfish friends get swept up into a mighty conflict with the dragon Smaug, the dark lord Sauron (who owes much to proud Satan in Paradise Lost), the monstrous Gollum, the Cracks of Doom, and the awful power of the magical Ring. The four books' characters--good and evil--are recognizably human, and the realism is deepened by the magnificent detail of the vast parallel world Tolkien devised, inspired partly by his influential Anglo-Saxon scholarship and his Christian beliefs. (He disapproved of the relative sparseness of detail in the comparable allegorical fantasy his friend C.S. Lewis dreamed up in The Chronicles of Narnia, though he knew Lewis had spun a page-turning yarn.) It has been estimated that one-tenth of all paperbacks sold can trace their ancestry to J.R.R. Tolkien. But even if we had never gotten Robert Jordan's The Path of Daggers and the whole fantasy genre Tolkien inadvertently created by bringing the hobbits so richly to life, Tolkien's epic about the Ring would have left our world enhanced by enchantment.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ballantine Books</dc:publisher>
+        <dc:identifier opf:scheme="LIBRI_HU">the-two-towers-4</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780345340429</dc:identifier>
+        <dc:identifier opf:scheme="ANTIK_HU">268736</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">j-r-r-tolkien-the-hobbit-the-lord-of-the-rings</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B007978PKY</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>angol nyelvű</dc:subject>
+        <dc:subject>angol szerző</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>kaland</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Irodalom</dc:subject>
+        <dc:subject>Szórakoztató irodalom</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. R. R. Tolkien&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A gyűrűk Ura"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-13T13:55:09+00:00"/>
+        <meta name="calibre:title_sort" content="two towers, The"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

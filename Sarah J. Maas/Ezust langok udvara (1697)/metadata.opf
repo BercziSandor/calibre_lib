@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1697</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ba00e14-e9d3-4ca0-8021-22421bfd7331</dc:identifier>
+        <dc:title>Ezüst lángok udvara</dc:title>
+        <dc:creator opf:file-as="Maas, Sarah J." opf:role="aut">Sarah J. Maas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-26T07:22:19+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Féktelen ​erő. Féktelen szenvedély.&lt;br&gt;Nesta Archeron mindig is ingerlékeny és büszke volt, hirtelen gerjed haragra, és lassan bocsát meg. Mióta az Üstbe kényszerítették, és akarata ellenére főtündérré vált, nehezen találja a helyét a különös, veszedelmes világban, ahol él. Úgy tűnik, képtelen túllépni a Hybern elleni háború rémségein és mindazon, amit ott elveszített.&lt;br&gt;És van valaki, aki mindenki másnál könnyebben feldühíti: Cassian, a sok csatát megjárt harcos, aki a Rhysand és Feyre uralta Éjszaka udvarában betöltött pozíciója miatt folyamatosan Nesta útjába keveredik. De Cassian nem csak a haragját szítja fel. Le sem tagadhatnák a kettejük közötti szikrákat – és a szenvedélyük fellángol, amikor kénytelenek egy fedél alá költözni.&lt;br&gt;Mindeközben az áruló emberkirálynők, akik az előző háború során visszatértek a kontinensre, veszélyes új szövetséget kötnek, és a vidék törékeny békéjét fenyegetik. A megállításuk kulcsa pedig azon múlik, képes-e Cassian és Nesta szembenézni az őket kísértő múlttal.&lt;br&gt;Ők ketten belső és külső rémekkel küzdenek a bizonytalansággal teli világban, miközben elfogadást – és gyógyulást – keresnek egymás karjában.&lt;br&gt;Sarah J. Maas gazdagon megálmodott, szenvedélyes sorozata Feyre tüzes nővérével, Nestával folytatódik.&lt;br&gt;Kövesd a sorsát!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>+</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">aac2da8e-79df-4d1c-ba0f-ab2cf485a830</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">sarah-j-maas-a-court-of-silver-flames-ezust-langok-udvara</dc:identifier>
+        <dc:language>hun</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Sarah J. Maas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Tüskék és rózsák udvara"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Ezüst lángok udvara"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

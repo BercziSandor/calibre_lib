@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">816</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a7a2fef-6ccb-4901-82a1-5a9c28d0ad11</dc:identifier>
+        <dc:title>Bűnjel</dc:title>
+        <dc:creator opf:file-as="Silva, Daniel" opf:role="aut">Daniel Silva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-02-22T00:00:00+00:00</dc:date>
+        <dc:description>Michael Osbourne-nak, a CIA Terroristaelhárító Központ vezető munkatársának szerelmével, a szeme láttára végez egy hidegvérű bérgyilkos. Három golyót ereszt az arcába. Főnökei azonnal hazarendelik, és a CIA központban egy íróasztal mögé ültetik. Később terroristák Stinger rakétával kilőnek egy személyszállító repülőgépet, az indítócsövet és a tettest megtalálják, szintén három golyóval az arcában. A nyomozással Osbourne-t bízzák meg, s ő tudja kit keres, a KGB és a Stasi egykori hírhedt bérgyilkosát. Hivatali munkája összekapcsolódik magánbosszújával, bár tudja, hogy ezzel új feleségének bizalmát, boldog házasságukat teszi kockára, de nincs megállás. Azt nem is sejti, hogy olyan sötét erőkkel kell megküzdenie, amelyeknek nem számít egy magasrangú CIA tiszt élete. A szövevényes, kőkemény krimi színtere egész Európa, de a végén eljutunk Amerikába, a leszámolás színhelyére Langley-be, ahol a CIA központja van!</dc:description>
+        <dc:publisher>JLX</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9633050847</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">daniel-silva-bunjel</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>gyilkosság</dc:subject>
+        <dc:subject>kémregény</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>titkosszolgálat</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel Silva&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Michael Osbourne"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2014-11-18T16:15:46+00:00"/>
+        <meta name="calibre:title_sort" content="Bűnjel"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

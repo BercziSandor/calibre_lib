@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">774</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c7d82386-ba32-4e6d-b977-737d4f729cf7</dc:identifier>
+        <dc:title>Szeretlek, Bangkok</dc:title>
+        <dc:creator opf:file-as="Fejős, Éva" opf:role="aut">Fejős, Éva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Rendhagyó útinapló egy egzotikus világról és a női lélekről&lt;br&gt;Akkoriban ​kezdtem a „szökésről” ábrándozni, amikor már meglehetősen ciki volt a pálmafás-tengerpartos poszter – én mégis beszereztem egyet a zsebpénzemből, és felragasztottam a gyerekszobám falára, nem zavartatva magam szüleim döbbent pillantásától. Attól kezdve téli estéken odaképzeltem magam a kókuszpálma alá, ahol meleg van, és – bár sosem jártunk tengerparton a családommal – szinte hallottam a tenger zúgását, egészen elalvásig.&lt;br&gt;Eljött az idő, hogy beváltsam a magamnak tett ígéretet, hogy teljesüljön gyermekkori álmom; tavaly télen „megszöktem” kedvenc városomba, Bangkokba, és körbeutaztam Délkelet-Ázsiát. Találkozásokról, naplementékről, ázsiai mesékről és elképesztő sorsokról, egzotikus nagyvárosi lüktetésről, lakatlan szigetekről és egy másfajta életszemléletről szól ez a könyv, amit egy thai pálma alatt kezdtem írni. Öt forró, napsütéses téli hónap alatt sokat tanultam, és szinte minden megváltozott bennemés körülöttem; a sors akaratából megtanultam elengedni, sorsfordító döntéseket hoztam, szembenéztem önmagammal, az újságíróval, a nővel, az emberrel, mint talán még soha azelőtt. Ez a könyv nem a képzelet szüleménye, de ahányszor beleolvasok, a képzeletemben újra utazom, újra ott vagyok azok között az emberek között, akiktől meg lehet tanulni ÉLNI. Csupa nagybetűvel.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Erawan</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">fejos-eva-szeretlek-bangkok</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786155469480</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>Délkelet-Ázsia</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>Thaiföld</dc:subject>
+        <dc:subject>útleírás</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fejős, Éva&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2014-09-20T13:07:24+00:00"/>
+        <meta name="calibre:title_sort" content="Szeretlek, Bangkok"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

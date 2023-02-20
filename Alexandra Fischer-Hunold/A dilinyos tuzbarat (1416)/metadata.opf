@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1416</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d84337ac-624d-47e3-a0b2-57936be5df7e</dc:identifier>
+        <dc:title>A dilinyós tűzbarát</dc:title>
+        <dc:creator opf:file-as="Fischer-Hunold, Alexandra" opf:role="aut">Alexandra Fischer-Hunold</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-01T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Az ​őrült Sebastian, a gyújtogató szerzetes szelleme halálra riogatja a bajorországi kolostorszálló vendégeit. Ide érkezik vakációzni a Kopejka család: Kopejka Ervin, a tudós apa; a mindenre elszánt Holundér asszony, a nélkülözhetetlen házvezetőnő; s a Kopejka csemeték, Laura és Maxi… no és szellemkíséretük: Sódervári Sherlock báró meg Lili, a szellemnyomozó-kutya. &lt;br&gt;Míg a szálló vendégei rettenet közepette töltik borzongós éjszakáikat, a merész nyomozócsapat nem tétlenkedik: megpróbálják kideríteni, kit rejt a szerzetesi csuha, ki az, aki éjszakáról éjszakára kísérti a fényes vendégsereget? &lt;br&gt;Laurát és Maxit, valamint a barátkereső Sódervári Sherlock bárót az éjszakai kísértetjárások semmitől sem riasztják vissza! Sőt nyomozókedvük csak fokozódik a vérfagyasztó sikolyok, sötét árnyak, fenyegető üzenetek, fel-fellobbanó lángok… a megannyi ármány láttán… &lt;br&gt;Kalandra fel, kezdődik a nyomozás! &lt;br&gt;Az 1671-es évben Sódervári Sherlock báró párbajban vesztette életét. Azóta előkelő kísértetként űzi-fűzi sötét dolgait az ősi családi kastélyban. Ármányos rejtőzködése addig a napig tart, míg a Kopejka testvérek, Laura és Maxi fel nem fedik „létezésének” titkát. Ekkor veszi kezdetét az ősöreg szellembáró, Lili, a „kísérteties” kutyahölgy és a merész gyerekek kalandsorozata. Az éjszakai találkozókon újabb és újabb bűnügyek sejlenek fel a múltból, melyek kinyomozása során remek detektívcsapat kovácsolódik a parókás kísértetből és két kis segédjéből.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Scolar</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789632442518</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">alexandra-fischer-hunold-a-dilinyos-tuzbarat</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>gyermekkönyv iskolásoknak</dc:subject>
+        <dc:subject>illusztrált</dc:subject>
+        <dc:subject>kaland</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>német szerző</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alexandra Fischer-Hunold&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Sódervári Sherlock báró"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2021-03-02T13:57:33+00:00"/>
+        <meta name="calibre:title_sort" content="dilinyós tűzbarát, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;DOCX&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

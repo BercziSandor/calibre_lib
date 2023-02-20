@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1353</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">19571555-a69c-4a89-99ed-5a9cac6ed2b7</dc:identifier>
+        <dc:title>Katalin utca</dc:title>
+        <dc:creator opf:file-as="Szabó, Magda" opf:role="aut">Szabó, Magda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;„A ​Katalin utca egyszerre valóság, egyszerre jelkép: emlékeinkben életünknek – helyszíneivel, rokonainkkal, barátainkkal együtt – rögzült szakasza, amelyet ha tehetnénk, ahogy a videofelvételen lehetséges, annyiszor játszanánk, élnénk meg újra, ahányszor csak menekülni szeretnénk a jelenbõl abba a boldogító irrealitásba, ami rég szétfoszlott már, csak éppen feledhetetlen. Mindenkinek megvan a maga Katalin utcája, olykor álmodik is vele, és ha felébred, csalódottan és nyugtalanul szomorú. Ebben a könyvben azt szerettem volna megírni, hogy csak az találhatja meg visszakívánt Katalin utcáját, aki nem vétett ellene. Az író most beavatja az olvasót titkába: õ milyennek képzeli el a halál utáni életet, a túlvilágot, az élõk és holtak érintkezését és folyton változó viszonylatait, s megpróbálja körbevilágítani az etikai több mint faux pas-t, amikor szándékosan, olykor szándéktalanul, de vétkezünk. Három családot költöztettem a Katalin utcába, egy fogorvost feleségével, lányával, egy pedagógust, Irén és Blanka nevû gyerekeivel és egy õrnagyot, akinek fia van, Bálint. A három ház szomszédos, talaj tekintetében azonos egység, s a lakók barátok. Az olvasó majd látni fogja, hogyan szövõdnek és kuszálódnak össze a szoros egymás mellett élés szálai a családok életében, ki hogy viselkeódik válságos pillanatokban, s miután a regény végére elkészül az egyenleg, el is falazza a visszatérés akár álombeli lehetõségét is attól, aki nem érdemli meg: azontúl soha nem mehetnek végig a régi kövezeten, annál kevésbé, hiszen az elsõ világháború utáni környezetváltozások magát a helyszínt is megváltoztatták. Az író szívbõl reméli, aki ezt a könyvet végigolvassa, megérti érvelését, bármilyen bizarr is, azt is, hogy az elvesztett háború után új Katalin utcák létesülnek mások számára, de ezek a mások voltaképpen azonosak azokkal, akik valaha gyermekként viháncoltak vagy könnyeiket törölgették a három kertben. Csak a személyek fordulnak meg tengelyük körül, ebben a regényben, ahol a holtak úgy járnak-kelnek, mint az élõk, az olvasónak meg kell éreznie, nincs valódi halál, csak visszatérés valamibe, ahonnan egy idõre kiszálltunk és hogy az apostolnak, aki olyan megindítóan prédikált a szeretetrõl, bizony, igaza van. Az író egyik legkedvesebb gyermekét teszi le az olvasó elé, mint az ókor római polgárai, ha felemelték a csecsemõt, magukénak ismerték el. Most elindulnak a rejtelmes utca lakói, s az író az olvasótól is azt kéri: hozza haza Blankát. Mindenkit, aki helyettünk lakol addig sosem ismert paraméterek közt azért, mert elkövette helyettünk mindazt, amit mi nem mertünk, mert ahhoz is gyávák voltunk, hogy vállaljuk önmagunk negatív állóképét.”&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Jaffa</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">szabo-magda-katalin-utca</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786155609879</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>barátság</dc:subject>
+        <dc:subject>emberi sorsok</dc:subject>
+        <dc:subject>háború</dc:subject>
+        <dc:subject>hangoskönyv</dc:subject>
+        <dc:subject>klasszikus</dc:subject>
+        <dc:subject>lélektani</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>női főszereplő</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>váltott szemszög</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Szabó, Magda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-02-20T14:23:54+00:00"/>
+        <meta name="calibre:title_sort" content="Katalin utca"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;DOC&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

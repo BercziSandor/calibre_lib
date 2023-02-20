@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1120</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d7c4f561-c058-4c7c-8b28-771596556ae0</dc:identifier>
+        <dc:title>Szent bolondok</dc:title>
+        <dc:creator opf:file-as="Harris, Joanne" opf:role="aut">Joanne Harris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-17T00:00:00+00:00</dc:date>
+        <dc:description>A Csokoládé, a Szederbor, az Ötnegyed narancs, a Partvidékiek és A francia konyha világhírű szerzője ezúttal időutazásra indul a tizenhetedik századi Franciaországba, a boszorkányperek, a királygyilkosság és a vallási téboly hazájába.
+Juliette-et, a Szárnyas Asszony néven ismert kötéltáncosnőt körülményei arra kényszerítik, hogy kislányával, Fleurrel együtt Sainte Marie-de-la-Mer isten háta mögötti apátságában keressen menedéket, ahol Auguste nővérként éldegél a jólelkű apátnő gyámsága alatt. Ám rövidesen új szelek fújnak: IV. Henrik meggyilkolása hatalmas zűrzavart idéz elő Franciaországban.
+Az apátnő halála után megérkezik Isabelle, az új rendfőnöknő, és Juliette meg az apátság békés élete szintén felbolydul. Mert a jövevény egy korrupt nemesi család tizenkét esztendős gyermeke. Isabelle ráadásul Juliette múltjának egyik kísértetét is magával hozza, aki papnak álcázza magát, és akitől Juliette jó okkal retteg…</dc:description>
+        <dc:publisher>Ulpius-ház</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">joanne-harris-szent-bolondok</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9637253696</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">460543e5-7877-429e-b19c-38073786f1fc</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>17. század</dc:subject>
+        <dc:subject>apáca</dc:subject>
+        <dc:subject>boszorkányság</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>cirkusz</dc:subject>
+        <dc:subject>egyház</dc:subject>
+        <dc:subject>francia szerző</dc:subject>
+        <dc:subject>Franciaország</dc:subject>
+        <dc:subject>kolostor</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>vallás</dc:subject>
+        <dc:subject>váltott szemszög</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joanne Harris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2017-08-20T17:08:11+00:00"/>
+        <meta name="calibre:title_sort" content="Szent bolondok"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

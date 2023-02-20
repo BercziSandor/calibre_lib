@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">451</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91749bca-af6b-4e0c-bf44-323d9d8ecc57</dc:identifier>
+        <dc:title>Tükrök árulása</dc:title>
+        <dc:creator opf:file-as="Hrabal, Bohumil" opf:role="aut">Bohumil Hrabal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;„Totális ​realizmusnak” nevezte Hrabal azt az írásmódot, amelyre 1952-ben Jarmilka című elbeszélésével talált rá, megszabadulva a szürrealizmus „képtelen metaforáitól”, „szójegeceitől”, kladnói vasmunkásként „fogta fel”, hogy úgy kell írnia, „mintha riportban számolna be az emberekről, a beszédükről, a munkájukról s egyáltalán az életükről”. Ez a kulcsnovella, a Jarmilka csak megcsonkított, öncenzúrázott formában jelenhetett meg korábban, s így került be a nálunk 1977-ben kiadott Tükrök árulása című kötetbe is. Most végre a teherbe ejtett csúnyácska munkáslány történetének teljes szövegét olvashatjuk, s a náci koncentrációs táborokról szóló hátborzongató oldalakat élesen ellenpontozza a „szocialista építőmunka” gunyoros ábrázolása. A 77-es kötetet a Jarmilka mellett az 1989-ben megjelent A Perkeo márkájú atomgép című visszaemlékezés egészíti ki, amely az író első igazán hrabali korszakának születéséről tudósít. Az 1951 és 1956 között írt elbeszélésekben rendre megjelennek Hrabal addigi hányatott életének színterei (volt vasúti forgalmista, ügynök, vasmunkás, papírhulladék-csomagoló, díszletmunkás), s különös fénytörésben villan fel számtalan komikus és tragikus emberi sors; a Poldi-kohó munkásai, akik „remény nélkül emlegetik a besározott reményt”, az érzelmes fegyőr, aki tudja, hogy az embereknek „legalább egyszer naponta meg kell mutatni az élet naposabb oldalát is”, a papírhulladék-gyűjtő, aki teli van emlékekkel, melyek visszaidézése „jobban lesújt, mint annak idején maga a valóság”, a cementgyári festőzseni, aki mindent elöntő szürkeségből impresszionista színeket varázsol, a vak lány a vonaton, aki oly gyönyörűnek látja a világot, „mint egy csöbör nagyságú szív”, vagy akár csak „néhány akasztott ember, akikkel átzörgött az úton egy villamos”.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="LIBRI_HU">bohumil_hrabal.tukrok-arulasa</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">1f16bafb-eb5a-4912-a754-35dead364747</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">bohumil-hrabal-tukrok-arulasa</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630782166</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>abszurd</dc:subject>
+        <dc:subject>cseh szerző</dc:subject>
+        <dc:subject>groteszk</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>realizmus</dc:subject>
+        <dc:subject>elbeszélés</dc:subject>
+        <dc:subject>Irodalom</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <dc:subject>Szépirodalom</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bohumil Hrabal&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2013-04-22T20:31:40+00:00"/>
+        <meta name="calibre:title_sort" content="Tükrök árulása"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

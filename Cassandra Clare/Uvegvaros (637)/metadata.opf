@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">637</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b887645-9668-4626-a57b-b15bb320b37c</dc:identifier>
+        <dc:title>Üvegváros</dc:title>
+        <dc:creator opf:file-as="Clare, Cassandra" opf:role="aut">Cassandra Clare</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Hogy ​megmentse édesanyja életét, Clarynek el kell utaznia az Üvegvárosba, az Árnyvadászok ősi otthonába – még ha engedély nélkül belépni a városba a Törvénybe is ütközik, márpedig a Törvény megszegése halált jelenthet. Ha ennyi nem lenne elég, Jace nem akarja, hogy ott legyen, Simont pedig börtönbe vetették az Árnyvadászok, akik igencsak gyanúsnak találnak egy vámpírt, akinek nem árt a napfény.&lt;br&gt;Ahogy Clary egyre többet tud meg családja múltjáról, szövetségesre lel Sebastian, a titokzatos Árnyvadász személyében. Valentine minden erejével azon van, hogy örökre megsemmisítsen minden Árnyvadászt, nekik pedig csak akkor van esélyük vele szemben, ha összefognak örökös ellenségeikkel. De félre tudják-e tenni gyűlöletüket az Árnyvadászok és az Alvilágiak, hogy együttműködhessenek? Miközben Jace rádöbben, mi mindent hajlandó kockára tenni Claryért, vajon a lány újonnan meglelt képességeivel segíthet-e megmenteni az Üvegvárost – bármilyen áron?&lt;br&gt;A szerelem halálos bűn, és a múlt titkai is végzetesnek bizonyulnak, amikor Clary és Jace szembenéz Valentine-nal a New York Times nagysikerű sorozatának, A Végzet Ereklyéinek utolsó darabjában.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Könyvmolyképző</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789634578604</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">cassandra-clare-uvegvaros</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>angyal</dc:subject>
+        <dc:subject>barátság</dc:subject>
+        <dc:subject>boszorkány</dc:subject>
+        <dc:subject>démon</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>háború</dc:subject>
+        <dc:subject>ifjúsági</dc:subject>
+        <dc:subject>kaland</dc:subject>
+        <dc:subject>kamasz főszereplő</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>női főszereplő</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>romantikus</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>testvérek</dc:subject>
+        <dc:subject>tévésorozat-adaptáció</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cassandra Clare&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A Végzet Ereklyéi"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2014-09-17T07:39:12+00:00"/>
+        <meta name="calibre:title_sort" content="Üvegváros"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
