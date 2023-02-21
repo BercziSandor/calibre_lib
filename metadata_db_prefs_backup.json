@@ -93,42 +93,6 @@
         true
       ],
       [
-        "tags",
-        false
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "series",
-        true
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "series",
-        true
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "series",
-        true
-      ],
-      [
         "timestamp",
         false
       ]
