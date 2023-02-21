@@ -13,6 +13,22 @@
   "check_library_ignore_names": "",
   "gui_view_history": [
     [
+      1605,
+      "A hamvask\u00e9k s\u00e1rk\u00e1ny"
+    ],
+    [
+      1139,
+      "Bajnokok \u200breggelije"
+    ],
+    [
+      747,
+      "Besz\u00e1mol\u00f3 a Barnhouse-effektusr\u00f3l"
+    ],
+    [
+      127,
+      "A dr\u00f3tn\u00e9lk\u00fcli gyilkoss\u00e1g"
+    ],
+    [
       1699,
       "A Court of Mist and Fury \u2013 K\u00f6d \u00e9s harag udvara"
     ],
@@ -55,22 +71,6 @@
     [
       1209,
       "Advanced Bash Scripting Guide"
-    ],
-    [
-      1644,
-      "Orb\u00e1n Viktor fej\u00e9ben"
-    ],
-    [
-      1645,
-      "Az Orb\u00e1n jelens\u00e9g"
-    ],
-    [
-      1147,
-      "Hajsza"
-    ],
-    [
-      801,
-      "A Chancellor k\u00e9zirat"
     ]
   ],
   "plugboards": {},
@@ -86,10 +86,18 @@
       ],
       [
         "title",
+        false
+      ],
+      [
+        "authors",
         true
       ],
       [
-        "series",
+        "tags",
+        false
+      ],
+      [
+        "title",
         true
       ],
       [
@@ -97,7 +105,27 @@
         true
       ],
       [
-        "pubdate",
+        "series",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "series",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "series",
         true
       ],
       [
@@ -122,7 +150,7 @@
     },
     "column_sizes": {
       "title": 217,
-      "authors": 114,
+      "authors": 245,
       "timestamp": 110,
       "size": 76,
       "rating": 45,
