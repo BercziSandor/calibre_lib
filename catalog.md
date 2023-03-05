@@ -3428,1599 +3428,1599 @@ A háború katonái:
 - (2002) - Life of Pi [details](#id_1526) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yann%20Martel/Life%20of%20Pi%20%281526%29/Life%20of%20Pi%20-%20Yann%20Martel.epub)
 - (2014) - Pi élete [details](#id_1458) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yann%20Martel/Pi%20elete%20%281458%29/Pi%20elete%20-%20Yann%20Martel.epub)
 
----<a name="id_948">Abe Kóbó: A negyedik jégkorszak (2008)</a>
+---### Részletek#### <a name="id_948">Abe Kóbó: A negyedik jégkorszak (2008)</a>
 bla bla bla
 
-<a name="id_197">Adams, Douglas: Galaxis útikalauz stopposoknak (101)</a>
+#### <a name="id_197">Adams, Douglas: Galaxis útikalauz stopposoknak (101)</a>
 bla bla bla
 
-<a name="id_199">Adams, Douglas: Vendéglő a Világ Végén (101)</a>
+#### <a name="id_199">Adams, Douglas: Vendéglő a Világ Végén (101)</a>
 bla bla bla
 
-<a name="id_196">Adams, Douglas: Az Élet, a Világmindenség meg Minden (101)</a>
+#### <a name="id_196">Adams, Douglas: Az Élet, a Világmindenség meg Minden (101)</a>
 bla bla bla
 
-<a name="id_200">Adams, Douglas: Viszlát, és kösz a halakat! (101)</a>
+#### <a name="id_200">Adams, Douglas: Viszlát, és kösz a halakat! (101)</a>
 bla bla bla
 
-<a name="id_198">Adams, Douglas: Jobbára ártalmatlan (101)</a>
+#### <a name="id_198">Adams, Douglas: Jobbára ártalmatlan (101)</a>
 bla bla bla
 
-<a name="id_236">Agatha Christie: A titkos ellenfél (2015)</a>
+#### <a name="id_236">Agatha Christie: A titkos ellenfél (2015)</a>
 bla bla bla
 
-<a name="id_237">Agatha Christie: A titkos ellenfél (2015)</a>
+#### <a name="id_237">Agatha Christie: A titkos ellenfél (2015)</a>
 bla bla bla
 
-<a name="id_66">Agatha Christie: Éjféltájt (2008)</a>
+#### <a name="id_66">Agatha Christie: Éjféltájt (2008)</a>
 bla bla bla
 
-<a name="id_241">Agatha Christie: Az álmok háza (2020)</a>
+#### <a name="id_241">Agatha Christie: Az álmok háza (2020)</a>
 bla bla bla
 
-<a name="id_63">Agatha Christie: Az Ackroyd-gyilkosság (2018)</a>
+#### <a name="id_63">Agatha Christie: Az Ackroyd-gyilkosság (2018)</a>
 bla bla bla
 
-<a name="id_238">Agatha Christie: A titokzatos Négyes (1993)</a>
+#### <a name="id_238">Agatha Christie: A titokzatos Négyes (1993)</a>
 bla bla bla
 
-<a name="id_249">Agatha Christie: Ház a sziklán (2011)</a>
+#### <a name="id_249">Agatha Christie: Ház a sziklán (2011)</a>
 bla bla bla
 
-<a name="id_69">Agatha Christie: Halál a felhők között (2010)</a>
+#### <a name="id_69">Agatha Christie: Halál a felhők között (2010)</a>
 bla bla bla
 
-<a name="id_75">Agatha Christie: Halál a Níluson (2018)</a>
+#### <a name="id_75">Agatha Christie: Halál a Níluson (2018)</a>
 bla bla bla
 
-<a name="id_73">Agatha Christie: Nyaraló gyilkosok (2018)</a>
+#### <a name="id_73">Agatha Christie: Nyaraló gyilkosok (2018)</a>
 bla bla bla
 
-<a name="id_251">Agatha Christie: Hétvégi gyilkosság (2011)</a>
+#### <a name="id_251">Agatha Christie: Hétvégi gyilkosság (2011)</a>
 bla bla bla
 
-<a name="id_252">Agatha Christie: Mrs. McGinty meghalt (2011)</a>
+#### <a name="id_252">Agatha Christie: Mrs. McGinty meghalt (2011)</a>
 bla bla bla
 
-<a name="id_78">Agatha Christie: Temetni veszélyes (2018)</a>
+#### <a name="id_78">Agatha Christie: Temetni veszélyes (2018)</a>
 bla bla bla
 
-<a name="id_234">Agatha Christie: A harmadik lány (2009)</a>
+#### <a name="id_234">Agatha Christie: A harmadik lány (2009)</a>
 bla bla bla
 
-<a name="id_239">Agatha Christie: A titokzatos stylesi eset / Függöny (2012)</a>
+#### <a name="id_239">Agatha Christie: A titokzatos stylesi eset / Függöny (2012)</a>
 bla bla bla
 
-<a name="id_257">Agatha Christie: Poirot bravúrjai I. (1994)</a>
+#### <a name="id_257">Agatha Christie: Poirot bravúrjai I. (1994)</a>
 bla bla bla
 
-<a name="id_68">Agatha Christie: Gyilkosság a paplakban (2011)</a>
+#### <a name="id_68">Agatha Christie: Gyilkosság a paplakban (2011)</a>
 bla bla bla
 
-<a name="id_259">Agatha Christie: Tizenhárom rejtély (2007)</a>
+#### <a name="id_259">Agatha Christie: Tizenhárom rejtély (2007)</a>
 bla bla bla
 
-<a name="id_71">Agatha Christie: Holttest a könyvtárszobában (1969)</a>
+#### <a name="id_71">Agatha Christie: Holttest a könyvtárszobában (1969)</a>
 bla bla bla
 
-<a name="id_311">Agatha Christie: Nem zörög a haraszt (2009)</a>
+#### <a name="id_311">Agatha Christie: Nem zörög a haraszt (2009)</a>
 bla bla bla
 
-<a name="id_74">Agatha Christie: Paddington 16.50 (2020)</a>
+#### <a name="id_74">Agatha Christie: Paddington 16.50 (2020)</a>
 bla bla bla
 
-<a name="id_76">Agatha Christie: Rejtély az Antillákon (2020)</a>
+#### <a name="id_76">Agatha Christie: Rejtély az Antillákon (2020)</a>
 bla bla bla
 
-<a name="id_72">Agatha Christie: Nemezis (2011)</a>
+#### <a name="id_72">Agatha Christie: Nemezis (2011)</a>
 bla bla bla
 
-<a name="id_77">Agatha Christie: Szunnyadó gyilkosság (2018)</a>
+#### <a name="id_77">Agatha Christie: Szunnyadó gyilkosság (2018)</a>
 bla bla bla
 
-<a name="id_247">Agatha Christie: Gyöngyöző cián (2010)</a>
+#### <a name="id_247">Agatha Christie: Gyöngyöző cián (2010)</a>
 bla bla bla
 
-<a name="id_254">Agatha Christie: No. 16 (1997)</a>
+#### <a name="id_254">Agatha Christie: No. 16 (1997)</a>
 bla bla bla
 
-<a name="id_242">Agatha Christie: Balhüvelykem bizsereg (2015)</a>
+#### <a name="id_242">Agatha Christie: Balhüvelykem bizsereg (2015)</a>
 bla bla bla
 
-<a name="id_1108">Akunyin, Borisz: A cár könyvtára (2012)</a>
+#### <a name="id_1108">Akunyin, Borisz: A cár könyvtára (2012)</a>
 bla bla bla
 
-<a name="id_1109">Akunyin, Borisz: Magiszter-2-Ajánlott ​olvasmányok (2014)</a>
+#### <a name="id_1109">Akunyin, Borisz: Magiszter-2-Ajánlott ​olvasmányok (2014)</a>
 bla bla bla
 
-<a name="id_915">Akunyin, Borisz: Azazel (2015)</a>
+#### <a name="id_915">Akunyin, Borisz: Azazel (2015)</a>
 bla bla bla
 
-<a name="id_917">Akunyin, Borisz: Török csel (2003)</a>
+#### <a name="id_917">Akunyin, Borisz: Török csel (2003)</a>
 bla bla bla
 
-<a name="id_910">Akunyin, Borisz: Leviathan (2004)</a>
+#### <a name="id_910">Akunyin, Borisz: Leviathan (2004)</a>
 bla bla bla
 
-<a name="id_913">Akunyin, Borisz: Akhilleusz halála (2007)</a>
+#### <a name="id_913">Akunyin, Borisz: Akhilleusz halála (2007)</a>
 bla bla bla
 
-<a name="id_911">Akunyin, Borisz: Különleges megbízatások (2008)</a>
+#### <a name="id_911">Akunyin, Borisz: Különleges megbízatások (2008)</a>
 bla bla bla
 
-<a name="id_912">Akunyin, Borisz: Az államtanácsos (2009)</a>
+#### <a name="id_912">Akunyin, Borisz: Az államtanácsos (2009)</a>
 bla bla bla
 
-<a name="id_914">Akunyin, Borisz: A koronázás (101)</a>
+#### <a name="id_914">Akunyin, Borisz: A koronázás (101)</a>
 bla bla bla
 
-<a name="id_916">Akunyin, Borisz: A halál szerelmese (2010)</a>
+#### <a name="id_916">Akunyin, Borisz: A halál szerelmese (2010)</a>
 bla bla bla
 
-<a name="id_963">Akunyin, Borisz: Halál szeretője (2010)</a>
+#### <a name="id_963">Akunyin, Borisz: Halál szeretője (2010)</a>
 bla bla bla
 
-<a name="id_1110">Akunyin, Borisz: A ​gyémántszekér I-II. (2011)</a>
+#### <a name="id_1110">Akunyin, Borisz: A ​gyémántszekér I-II. (2011)</a>
 bla bla bla
 
-<a name="id_1107">Akunyin, Borisz: Színház ​az egész világ (2013)</a>
+#### <a name="id_1107">Akunyin, Borisz: Színház ​az egész világ (2013)</a>
 bla bla bla
 
-<a name="id_1111">Akunyin, Borisz: A fekete város (2015)</a>
+#### <a name="id_1111">Akunyin, Borisz: A fekete város (2015)</a>
 bla bla bla
 
-<a name="id_921">Alexander McCall Smith: Az első női detektív iroda (2003)</a>
+#### <a name="id_921">Alexander McCall Smith: Az első női detektív iroda (2003)</a>
 bla bla bla
 
-<a name="id_920">Alexander McCall Smith: Zsiráfkönnyek (2003)</a>
+#### <a name="id_920">Alexander McCall Smith: Zsiráfkönnyek (2003)</a>
 bla bla bla
 
-<a name="id_918">Alexander McCall Smith: Erkölcstan szép lányoknak (2003)</a>
+#### <a name="id_918">Alexander McCall Smith: Erkölcstan szép lányoknak (2003)</a>
 bla bla bla
 
-<a name="id_919">Alexander McCall Smith: Kalahári gépíróiskola férfiak részére (2004)</a>
+#### <a name="id_919">Alexander McCall Smith: Kalahári gépíróiskola férfiak részére (2004)</a>
 bla bla bla
 
-<a name="id_1414">Alexandra Fischer-Hunold: Kincsvadász kísértet (2010)</a>
+#### <a name="id_1414">Alexandra Fischer-Hunold: Kincsvadász kísértet (2010)</a>
 bla bla bla
 
-<a name="id_1415">Alexandra Fischer-Hunold: Szörnyűséges születésnap (2011)</a>
+#### <a name="id_1415">Alexandra Fischer-Hunold: Szörnyűséges születésnap (2011)</a>
 bla bla bla
 
-<a name="id_1416">Alexandra Fischer-Hunold: A dilinyós tűzbarát (2011)</a>
+#### <a name="id_1416">Alexandra Fischer-Hunold: A dilinyós tűzbarát (2011)</a>
 bla bla bla
 
-<a name="id_1417">Alexandra Fischer-Hunold: Malaclopás a Kedvenckertben (2011)</a>
+#### <a name="id_1417">Alexandra Fischer-Hunold: Malaclopás a Kedvenckertben (2011)</a>
 bla bla bla
 
-<a name="id_951">Andrea Schacht: A sötét tükör (2004)</a>
+#### <a name="id_951">Andrea Schacht: A sötét tükör (2004)</a>
 bla bla bla
 
-<a name="id_1518">Ann Aguirre: Menedék (2014)</a>
+#### <a name="id_1518">Ann Aguirre: Menedék (2014)</a>
 bla bla bla
 
-<a name="id_1664">Arne Dahl: Valaki figyel (2016)</a>
+#### <a name="id_1664">Arne Dahl: Valaki figyel (2016)</a>
 bla bla bla
 
-<a name="id_1666">Arne Dahl: Hajsza (2017)</a>
+#### <a name="id_1666">Arne Dahl: Hajsza (2017)</a>
 bla bla bla
 
-<a name="id_1667">Arne Dahl: Misterioso (1998)</a>
+#### <a name="id_1667">Arne Dahl: Misterioso (1998)</a>
 bla bla bla
 
-<a name="id_1668">Arne Dahl: Rossz vér (2017)</a>
+#### <a name="id_1668">Arne Dahl: Rossz vér (2017)</a>
 bla bla bla
 
-<a name="id_422">Arthur Ransome: Fecske-völgy (2008)</a>
+#### <a name="id_422">Arthur Ransome: Fecske-völgy (2008)</a>
 bla bla bla
 
-<a name="id_423">Arthur Ransome: A kincskeresők (2011)</a>
+#### <a name="id_423">Arthur Ransome: A kincskeresők (2011)</a>
 bla bla bla
 
-<a name="id_429">Arthur Ransome: Téli szünidő (2012)</a>
+#### <a name="id_429">Arthur Ransome: Téli szünidő (2012)</a>
 bla bla bla
 
-<a name="id_431">Arthur Ransome: Galambposta (2016)</a>
+#### <a name="id_431">Arthur Ransome: Galambposta (2016)</a>
 bla bla bla
 
-<a name="id_430">Arthur Ransome: Nem akartunk tengerre szállni (1998)</a>
+#### <a name="id_430">Arthur Ransome: Nem akartunk tengerre szállni (1998)</a>
 bla bla bla
 
-<a name="id_683">Åsa Schwarz: Nefilim (2011)</a>
+#### <a name="id_683">Åsa Schwarz: Nefilim (2011)</a>
 bla bla bla
 
-<a name="id_684">Åsa Schwarz: Halott angyal (2011)</a>
+#### <a name="id_684">Åsa Schwarz: Halott angyal (2011)</a>
 bla bla bla
 
-<a name="id_1172">Asimov, Isaac: Robottörténetek I-II. (1993)</a>
+#### <a name="id_1172">Asimov, Isaac: Robottörténetek I-II. (1993)</a>
 bla bla bla
 
-<a name="id_161">Bálint, Ágnes: Szeleburdi család (2018)</a>
+#### <a name="id_161">Bálint, Ágnes: Szeleburdi család (2018)</a>
 bla bla bla
 
-<a name="id_5">Barbara Pease: Miért hazudik a férfi? Miért sír a nő? (2014)</a>
+#### <a name="id_5">Barbara Pease: Miért hazudik a férfi? Miért sír a nő? (2014)</a>
 bla bla bla
 
-<a name="id_467">Berg, Judit: Rumini (101)</a>
+#### <a name="id_467">Berg, Judit: Rumini (101)</a>
 bla bla bla
 
-<a name="id_567">Berg, Judit: Rumini Zúzmaragyarmaton (2020)</a>
+#### <a name="id_567">Berg, Judit: Rumini Zúzmaragyarmaton (2020)</a>
 bla bla bla
 
-<a name="id_570">Berg, Judit: Rumini és a négy jogar (2019)</a>
+#### <a name="id_570">Berg, Judit: Rumini és a négy jogar (2019)</a>
 bla bla bla
 
-<a name="id_769">Bertrice Small: Titkos örömök (2009)</a>
+#### <a name="id_769">Bertrice Small: Titkos örömök (2009)</a>
 bla bla bla
 
-<a name="id_446">Bohumil Hrabal: Őfelsége pincére voltam (2008)</a>
+#### <a name="id_446">Bohumil Hrabal: Őfelsége pincére voltam (2008)</a>
 bla bla bla
 
-<a name="id_445">Bohumil Hrabal: Házimurik (2012)</a>
+#### <a name="id_445">Bohumil Hrabal: Házimurik (2012)</a>
 bla bla bla
 
-<a name="id_453">Bohumil Hrabal: Vita nuova (2009)</a>
+#### <a name="id_453">Bohumil Hrabal: Vita nuova (2009)</a>
 bla bla bla
 
-<a name="id_442">Bohumil Hrabal: Foghíjak (2013)</a>
+#### <a name="id_442">Bohumil Hrabal: Foghíjak (2013)</a>
 bla bla bla
 
-<a name="id_448">Bohumil Hrabal: Sörgyári capriccio (2017)</a>
+#### <a name="id_448">Bohumil Hrabal: Sörgyári capriccio (2017)</a>
 bla bla bla
 
-<a name="id_440">Bohumil Hrabal: Díszgyász (2009)</a>
+#### <a name="id_440">Bohumil Hrabal: Díszgyász (2009)</a>
 bla bla bla
 
-<a name="id_1572">Böszörményi, Gyula: Leányrablás Budapesten (2014)</a>
+#### <a name="id_1572">Böszörményi, Gyula: Leányrablás Budapesten (2014)</a>
 bla bla bla
 
-<a name="id_1573">Böszörményi, Gyula: A Rudnay-gyilkosságok (2021)</a>
+#### <a name="id_1573">Böszörményi, Gyula: A Rudnay-gyilkosságok (2021)</a>
 bla bla bla
 
-<a name="id_1577">Böszörményi, Gyula: Beretva és tőr (2021)</a>
+#### <a name="id_1577">Böszörményi, Gyula: Beretva és tőr (2021)</a>
 bla bla bla
 
-<a name="id_1565">Böszörményi, Gyula: Ármány ​és kézfogó (101)</a>
+#### <a name="id_1565">Böszörményi, Gyula: Ármány ​és kézfogó (101)</a>
 bla bla bla
 
-<a name="id_1578">Böszörményi, Gyula: Bitó és borostyán (2017)</a>
+#### <a name="id_1578">Böszörményi, Gyula: Bitó és borostyán (2017)</a>
 bla bla bla
 
-<a name="id_1583">Böszörményi, Gyula: Nász és téboly (2022)</a>
+#### <a name="id_1583">Böszörményi, Gyula: Nász és téboly (2022)</a>
 bla bla bla
 
-<a name="id_1575">Böszörményi, Gyula: Szer'usz világ (2020)</a>
+#### <a name="id_1575">Böszörményi, Gyula: Szer'usz világ (2020)</a>
 bla bla bla
 
-<a name="id_1574">Böszörményi, Gyula: A Barnum-rejtély (2021)</a>
+#### <a name="id_1574">Böszörményi, Gyula: A Barnum-rejtély (2021)</a>
 bla bla bla
 
-<a name="id_1568">Böszörményi, Gyula: Gergő és az álomfogók (2018)</a>
+#### <a name="id_1568">Böszörményi, Gyula: Gergő és az álomfogók (2018)</a>
 bla bla bla
 
-<a name="id_1566">Böszörményi, Gyula: Gergő és a bűbájketrec (2012)</a>
+#### <a name="id_1566">Böszörményi, Gyula: Gergő és a bűbájketrec (2012)</a>
 bla bla bla
 
-<a name="id_1567">Böszörményi, Gyula: Gergő és a táltosviadal (2012)</a>
+#### <a name="id_1567">Böszörményi, Gyula: Gergő és a táltosviadal (2012)</a>
 bla bla bla
 
-<a name="id_1569">Böszörményi, Gyula: Gergő és az álomvámpírok 1 (2013)</a>
+#### <a name="id_1569">Böszörményi, Gyula: Gergő és az álomvámpírok 1 (2013)</a>
 bla bla bla
 
-<a name="id_1570">Böszörményi, Gyula: Gergő és az álomvámpírok 2 (2013)</a>
+#### <a name="id_1570">Böszörményi, Gyula: Gergő és az álomvámpírok 2 (2013)</a>
 bla bla bla
 
-<a name="id_1576">Böszörményi, Gyula: Az elveszett történet (2006)</a>
+#### <a name="id_1576">Böszörményi, Gyula: Az elveszett történet (2006)</a>
 bla bla bla
 
-<a name="id_1563">Böszörményi, Gyula: A Gutenberg Lovagrend (2007)</a>
+#### <a name="id_1563">Böszörményi, Gyula: A Gutenberg Lovagrend (2007)</a>
 bla bla bla
 
-<a name="id_1564">Böszörményi, Gyula: Árnyvadászok (2008)</a>
+#### <a name="id_1564">Böszörményi, Gyula: Árnyvadászok (2008)</a>
 bla bla bla
 
-<a name="id_1581">Böszörményi, Gyula: Lúzer Rádió, Budapest! (2016)</a>
+#### <a name="id_1581">Böszörményi, Gyula: Lúzer Rádió, Budapest! (2016)</a>
 bla bla bla
 
-<a name="id_1582">Böszörményi, Gyula: Monyákos Tuba a Lidérc Árvák Fészkében (2007)</a>
+#### <a name="id_1582">Böszörményi, Gyula: Monyákos Tuba a Lidérc Árvák Fészkében (2007)</a>
 bla bla bla
 
-<a name="id_1571">Böszörményi, Gyula: Monyákos Tuba és a csatornalidércek (2021)</a>
+#### <a name="id_1571">Böszörményi, Gyula: Monyákos Tuba és a csatornalidércek (2021)</a>
 bla bla bla
 
-<a name="id_1588">Böszörményi, Gyula: Monyákos Tuba, a pipamocsok-lidérc élettörténete (2010)</a>
+#### <a name="id_1588">Böszörményi, Gyula: Monyákos Tuba, a pipamocsok-lidérc élettörténete (2010)</a>
 bla bla bla
 
-<a name="id_1587">Böszörményi, Gyula: Ütközet a Meridim felett (2004)</a>
+#### <a name="id_1587">Böszörményi, Gyula: Ütközet a Meridim felett (2004)</a>
 bla bla bla
 
-<a name="id_1585">Böszörményi, Gyula: 3… 2… 1… (2009)</a>
+#### <a name="id_1585">Böszörményi, Gyula: 3… 2… 1… (2009)</a>
 bla bla bla
 
-<a name="id_1589">Böszörményi, Gyula: Rúvel hegyi legenda (2005)</a>
+#### <a name="id_1589">Böszörményi, Gyula: Rúvel hegyi legenda (2005)</a>
 bla bla bla
 
-<a name="id_1584">Böszörményi, Gyula: Zsófi és az ősboszorkány (2008)</a>
+#### <a name="id_1584">Böszörményi, Gyula: Zsófi és az ősboszorkány (2008)</a>
 bla bla bla
 
-<a name="id_1578">Böszörményi Gyula: Bitó és borostyán (2017)</a>
+#### <a name="id_1578">Böszörményi Gyula: Bitó és borostyán (2017)</a>
 bla bla bla
 
-<a name="id_1583">Böszörményi Gyula: Nász és téboly (2022)</a>
+#### <a name="id_1583">Böszörményi Gyula: Nász és téboly (2022)</a>
 bla bla bla
 
-<a name="id_1575">Böszörményi Gyula: Szer'usz világ (2020)</a>
+#### <a name="id_1575">Böszörményi Gyula: Szer'usz világ (2020)</a>
 bla bla bla
 
-<a name="id_1566">Böszörményi Gyula: Gergő és a bűbájketrec (2012)</a>
+#### <a name="id_1566">Böszörményi Gyula: Gergő és a bűbájketrec (2012)</a>
 bla bla bla
 
-<a name="id_1567">Böszörményi Gyula: Gergő és a táltosviadal (2012)</a>
+#### <a name="id_1567">Böszörményi Gyula: Gergő és a táltosviadal (2012)</a>
 bla bla bla
 
-<a name="id_1586">Böszörményi Gyula: Gergő és az álomvámpírok (2008)</a>
+#### <a name="id_1586">Böszörményi Gyula: Gergő és az álomvámpírok (2008)</a>
 bla bla bla
 
-<a name="id_1581">Böszörményi Gyula: Lúzer Rádió, Budapest! (2016)</a>
+#### <a name="id_1581">Böszörményi Gyula: Lúzer Rádió, Budapest! (2016)</a>
 bla bla bla
 
-<a name="id_1582">Böszörményi Gyula: Monyákos Tuba a Lidérc Árvák Fészkében (2007)</a>
+#### <a name="id_1582">Böszörményi Gyula: Monyákos Tuba a Lidérc Árvák Fészkében (2007)</a>
 bla bla bla
 
-<a name="id_1571">Böszörményi Gyula: Monyákos Tuba és a csatornalidércek (2021)</a>
+#### <a name="id_1571">Böszörményi Gyula: Monyákos Tuba és a csatornalidércek (2021)</a>
 bla bla bla
 
-<a name="id_1587">Böszörményi Gyula: Ütközet a Meridim felett (2004)</a>
+#### <a name="id_1587">Böszörményi Gyula: Ütközet a Meridim felett (2004)</a>
 bla bla bla
 
-<a name="id_1585">Böszörményi Gyula: 3… 2… 1… (2009)</a>
+#### <a name="id_1585">Böszörményi Gyula: 3… 2… 1… (2009)</a>
 bla bla bla
 
-<a name="id_1584">Böszörményi Gyula: Zsófi és az ősboszorkány (2008)</a>
+#### <a name="id_1584">Böszörményi Gyula: Zsófi és az ősboszorkány (2008)</a>
 bla bla bla
 
-<a name="id_1212">Bud Spencer: Különben dühbe jövök (2016)</a>
+#### <a name="id_1212">Bud Spencer: Különben dühbe jövök (2016)</a>
 bla bla bla
 
-<a name="id_1278">C. S. Lewis: A varázsló unokaöccse (2017)</a>
+#### <a name="id_1278">C. S. Lewis: A varázsló unokaöccse (2017)</a>
 bla bla bla
 
-<a name="id_1279">C. S. Lewis: Az oroszlán, a boszorkány és a ruhásszekrény (2017)</a>
+#### <a name="id_1279">C. S. Lewis: Az oroszlán, a boszorkány és a ruhásszekrény (2017)</a>
 bla bla bla
 
-<a name="id_1283">C. S. Lewis: A ló és kis gazdája (2015)</a>
+#### <a name="id_1283">C. S. Lewis: A ló és kis gazdája (2015)</a>
 bla bla bla
 
-<a name="id_1284">C. S. Lewis: Caspian herceg (2017)</a>
+#### <a name="id_1284">C. S. Lewis: Caspian herceg (2017)</a>
 bla bla bla
 
-<a name="id_1282">C. S. Lewis: A Hajnalvándor útja (2015)</a>
+#### <a name="id_1282">C. S. Lewis: A Hajnalvándor útja (2015)</a>
 bla bla bla
 
-<a name="id_1281">C. S. Lewis: Az ezüsttrón (2019)</a>
+#### <a name="id_1281">C. S. Lewis: Az ezüsttrón (2019)</a>
 bla bla bla
 
-<a name="id_1280">C. S. Lewis: A végső ütközet (2015)</a>
+#### <a name="id_1280">C. S. Lewis: A végső ütközet (2015)</a>
 bla bla bla
 
-<a name="id_635">Cassandra Clare: Csontváros (2020)</a>
+#### <a name="id_635">Cassandra Clare: Csontváros (2020)</a>
 bla bla bla
 
-<a name="id_636">Cassandra Clare: Hamuváros (2020)</a>
+#### <a name="id_636">Cassandra Clare: Hamuváros (2020)</a>
 bla bla bla
 
-<a name="id_637">Cassandra Clare: Üvegváros (2018)</a>
+#### <a name="id_637">Cassandra Clare: Üvegváros (2018)</a>
 bla bla bla
 
-<a name="id_638">Cassandra Clare: Bukott angyalok városa (2018)</a>
+#### <a name="id_638">Cassandra Clare: Bukott angyalok városa (2018)</a>
 bla bla bla
 
-<a name="id_639">Cassandra Clare: Elveszett lelkek városa (2018)</a>
+#### <a name="id_639">Cassandra Clare: Elveszett lelkek városa (2018)</a>
 bla bla bla
 
-<a name="id_640">Cassandra Clare: Az angyal (2020)</a>
+#### <a name="id_640">Cassandra Clare: Az angyal (2020)</a>
 bla bla bla
 
-<a name="id_659">Catherynne M. Valente: A lány, aki körülhajózta Tündérföldet (2013)</a>
+#### <a name="id_659">Catherynne M. Valente: A lány, aki körülhajózta Tündérföldet (2013)</a>
 bla bla bla
 
-<a name="id_979">Celia Rees: Bűbájos Mary (2003)</a>
+#### <a name="id_979">Celia Rees: Bűbájos Mary (2003)</a>
 bla bla bla
 
-<a name="id_967">Charles Cumming: Egy idegen ország (2015)</a>
+#### <a name="id_967">Charles Cumming: Egy idegen ország (2015)</a>
 bla bla bla
 
-<a name="id_1600">Chuck Palahniuk: Halálraítélt (2014)</a>
+#### <a name="id_1600">Chuck Palahniuk: Halálraítélt (2014)</a>
 bla bla bla
 
-<a name="id_1451">Cixin Liu: A háromtest-probléma (2020)</a>
+#### <a name="id_1451">Cixin Liu: A háromtest-probléma (2020)</a>
 bla bla bla
 
-<a name="id_799">Csukás, István: Pom Pom meséi (2004)</a>
+#### <a name="id_799">Csukás, István: Pom Pom meséi (2004)</a>
 bla bla bla
 
-<a name="id_1639">Dan Brown: The Da Vinci Code (2004)</a>
+#### <a name="id_1639">Dan Brown: The Da Vinci Code (2004)</a>
 bla bla bla
 
-<a name="id_1637">Dan Brown: Origin (2017)</a>
+#### <a name="id_1637">Dan Brown: Origin (2017)</a>
 bla bla bla
 
-<a name="id_819">Daniel Silva: Az angol bérgyilkos (2002)</a>
+#### <a name="id_819">Daniel Silva: Az angol bérgyilkos (2002)</a>
 bla bla bla
 
-<a name="id_818">Daniel Silva: Az utolsó esély (2004)</a>
+#### <a name="id_818">Daniel Silva: Az utolsó esély (2004)</a>
 bla bla bla
 
-<a name="id_808">Daniel Silva: A bosszú (2006)</a>
+#### <a name="id_808">Daniel Silva: A bosszú (2006)</a>
 bla bla bla
 
-<a name="id_811">Daniel Silva: A Moszad ügynöke a Vatikánban (2010)</a>
+#### <a name="id_811">Daniel Silva: A Moszad ügynöke a Vatikánban (2010)</a>
 bla bla bla
 
-<a name="id_810">Daniel Silva: A Moszad ügynöke (2010)</a>
+#### <a name="id_810">Daniel Silva: A Moszad ügynöke (2010)</a>
 bla bla bla
 
-<a name="id_814">Daniel Silva: A Moszad ügynöke Moszkvában (2010)</a>
+#### <a name="id_814">Daniel Silva: A Moszad ügynöke Moszkvában (2010)</a>
 bla bla bla
 
-<a name="id_813">Daniel Silva: A Moszad ügynöke és az oligarcha (2010)</a>
+#### <a name="id_813">Daniel Silva: A Moszad ügynöke és az oligarcha (2010)</a>
 bla bla bla
 
-<a name="id_812">Daniel Silva: A Moszad ügynöke és a Rembrandt ügy (2011)</a>
+#### <a name="id_812">Daniel Silva: A Moszad ügynöke és a Rembrandt ügy (2011)</a>
 bla bla bla
 
-<a name="id_957">Daniel Silva: A rablás (2015)</a>
+#### <a name="id_957">Daniel Silva: A rablás (2015)</a>
 bla bla bla
 
-<a name="id_816">Daniel Silva: Bűnjel (1998)</a>
+#### <a name="id_816">Daniel Silva: Bűnjel (1998)</a>
 bla bla bla
 
-<a name="id_277">Darren Shan: A holtak vonulása (2010)</a>
+#### <a name="id_277">Darren Shan: A holtak vonulása (2010)</a>
 bla bla bla
 
-<a name="id_278">Darren Shan: A pokol pereme (2011)</a>
+#### <a name="id_278">Darren Shan: A pokol pereme (2011)</a>
 bla bla bla
 
-<a name="id_279">Darren Shan: A kígyók városa (2011)</a>
+#### <a name="id_279">Darren Shan: A kígyók városa (2011)</a>
 bla bla bla
 
-<a name="id_1449">David Attenborough: Egy ifjú természettudós történetei (2019)</a>
+#### <a name="id_1449">David Attenborough: Egy ifjú természettudós történetei (2019)</a>
 bla bla bla
 
-<a name="id_510">David Farland: A sötétség harcosa (101)</a>
+#### <a name="id_510">David Farland: A sötétség harcosa (101)</a>
 bla bla bla
 
-<a name="id_511">David Farland: A Pusztítás Pecsétje (101)</a>
+#### <a name="id_511">David Farland: A Pusztítás Pecsétje (101)</a>
 bla bla bla
 
-<a name="id_960">David Lagercrantz: Ami nem öl meg (2015)</a>
+#### <a name="id_960">David Lagercrantz: Ami nem öl meg (2015)</a>
 bla bla bla
 
-<a name="id_720">David Michaels: Barrakuda művelet (2009)</a>
+#### <a name="id_720">David Michaels: Barrakuda művelet (2009)</a>
 bla bla bla
 
-<a name="id_1073">Dean R. Koontz: Ticktak (1997)</a>
+#### <a name="id_1073">Dean R. Koontz: Ticktak (1997)</a>
 bla bla bla
 
-<a name="id_1069">Dean R. Koontz: A halottlátó (2005)</a>
+#### <a name="id_1069">Dean R. Koontz: A halottlátó (2005)</a>
 bla bla bla
 
-<a name="id_416">Desmond Morris: Miért csinálja…? A ló (1993)</a>
+#### <a name="id_416">Desmond Morris: Miért csinálja…? A ló (1993)</a>
 bla bla bla
 
-<a name="id_415">Desmond Morris: Miért csinálja…? A macska (1990)</a>
+#### <a name="id_415">Desmond Morris: Miért csinálja…? A macska (1990)</a>
 bla bla bla
 
-<a name="id_1413">Diana Wynne Jones: A vándorló palota (2010)</a>
+#### <a name="id_1413">Diana Wynne Jones: A vándorló palota (2010)</a>
 bla bla bla
 
-<a name="id_482">Dmitry Glukhovsky: Metró 2033 (2019)</a>
+#### <a name="id_482">Dmitry Glukhovsky: Metró 2033 (2019)</a>
 bla bla bla
 
-<a name="id_355">Dmitry Glukhovsky: Metró 2034 (2019)</a>
+#### <a name="id_355">Dmitry Glukhovsky: Metró 2034 (2019)</a>
 bla bla bla
 
-<a name="id_654">Donald James: Monstrum (1998)</a>
+#### <a name="id_654">Donald James: Monstrum (1998)</a>
 bla bla bla
 
-<a name="id_653">Donald James: A jövendőmondó (2005)</a>
+#### <a name="id_653">Donald James: A jövendőmondó (2005)</a>
 bla bla bla
 
-<a name="id_655">Donald James: Vadim (2006)</a>
+#### <a name="id_655">Donald James: Vadim (2006)</a>
 bla bla bla
 
-<a name="id_466">E. L. James: A szürke ötven árnyalata (2012)</a>
+#### <a name="id_466">E. L. James: A szürke ötven árnyalata (2012)</a>
 bla bla bla
 
-<a name="id_802">Elizabeth Gilbert: Ízek, imák, szerelmek (2020)</a>
+#### <a name="id_802">Elizabeth Gilbert: Ízek, imák, szerelmek (2020)</a>
 bla bla bla
 
-<a name="id_1199">Erich Kästner: A két Lotti (2018)</a>
+#### <a name="id_1199">Erich Kästner: A két Lotti (2018)</a>
 bla bla bla
 
-<a name="id_357">Erich Maria Remarque: Éjszaka Lisszabonban (1991)</a>
+#### <a name="id_357">Erich Maria Remarque: Éjszaka Lisszabonban (1991)</a>
 bla bla bla
 
-<a name="id_317">Erich Maria Remarque: Nyugaton a helyzet változatlan (2008)</a>
+#### <a name="id_317">Erich Maria Remarque: Nyugaton a helyzet változatlan (2008)</a>
 bla bla bla
 
-<a name="id_531">Erlend Loe: Doppler, az utak királya (2008)</a>
+#### <a name="id_531">Erlend Loe: Doppler, az utak királya (2008)</a>
 bla bla bla
 
-<a name="id_1275">Ernest Cline: Ready Player One (2021)</a>
+#### <a name="id_1275">Ernest Cline: Ready Player One (2021)</a>
 bla bla bla
 
-<a name="id_645">Fábián, Janka: A német lány (2012)</a>
+#### <a name="id_645">Fábián, Janka: A német lány (2012)</a>
 bla bla bla
 
-<a name="id_597">Fábián, Janka: Emma szerelme (2012)</a>
+#### <a name="id_597">Fábián, Janka: Emma szerelme (2012)</a>
 bla bla bla
 
-<a name="id_595">Fábián, Janka: Emma fiai (2012)</a>
+#### <a name="id_595">Fábián, Janka: Emma fiai (2012)</a>
 bla bla bla
 
-<a name="id_596">Fábián, Janka: Emma lánya (2012)</a>
+#### <a name="id_596">Fábián, Janka: Emma lánya (2012)</a>
 bla bla bla
 
-<a name="id_174">Fable, Vavyan: Halkirálynő (1990)</a>
+#### <a name="id_174">Fable, Vavyan: Halkirálynő (1990)</a>
 bla bla bla
 
-<a name="id_176">Fable, Vavyan: A pokol is elnyeli (2002)</a>
+#### <a name="id_176">Fable, Vavyan: A pokol is elnyeli (2002)</a>
 bla bla bla
 
-<a name="id_173">Fable, Vavyan: A Halkirálynő és a dzsinnek (2006)</a>
+#### <a name="id_173">Fable, Vavyan: A Halkirálynő és a dzsinnek (2006)</a>
 bla bla bla
 
-<a name="id_181">Fable, Vavyan: Ki feküdt az ágyamban? (2006)</a>
+#### <a name="id_181">Fable, Vavyan: Ki feküdt az ágyamban? (2006)</a>
 bla bla bla
 
-<a name="id_180">Fable, Vavyan: Ébredj velem! (2007)</a>
+#### <a name="id_180">Fable, Vavyan: Ébredj velem! (2007)</a>
 bla bla bla
 
-<a name="id_1152">Fable, Vavyan: Mogorva nyár (2007)</a>
+#### <a name="id_1152">Fable, Vavyan: Mogorva nyár (2007)</a>
 bla bla bla
 
-<a name="id_175">Fable, Vavyan: A Hold forró jegén (2007)</a>
+#### <a name="id_175">Fable, Vavyan: A Hold forró jegén (2007)</a>
 bla bla bla
 
-<a name="id_179">Fable, Vavyan: Apád, anyád ide lőjön! (2016)</a>
+#### <a name="id_179">Fable, Vavyan: Apád, anyád ide lőjön! (2016)</a>
 bla bla bla
 
-<a name="id_1151">Fable, Vavyan: Mesemaraton (2009)</a>
+#### <a name="id_1151">Fable, Vavyan: Mesemaraton (2009)</a>
 bla bla bla
 
-<a name="id_1163">Fable, Vavyan: Emlékfutam (2007)</a>
+#### <a name="id_1163">Fable, Vavyan: Emlékfutam (2007)</a>
 bla bla bla
 
-<a name="id_1161">Fable, Vavyan: Nászjelentés 1. (2002)</a>
+#### <a name="id_1161">Fable, Vavyan: Nászjelentés 1. (2002)</a>
 bla bla bla
 
-<a name="id_1162">Fable, Vavyan: Nászjelentés 2. (2003)</a>
+#### <a name="id_1162">Fable, Vavyan: Nászjelentés 2. (2003)</a>
 bla bla bla
 
-<a name="id_178">Fable, Vavyan: Álomhajsza (2020)</a>
+#### <a name="id_178">Fable, Vavyan: Álomhajsza (2020)</a>
 bla bla bla
 
-<a name="id_1156">Fable, Vavyan: Tündértánc I. (2000)</a>
+#### <a name="id_1156">Fable, Vavyan: Tündértánc I. (2000)</a>
 bla bla bla
 
-<a name="id_1157">Fable, Vavyan: Tündértánc II. (2001)</a>
+#### <a name="id_1157">Fable, Vavyan: Tündértánc II. (2001)</a>
 bla bla bla
 
-<a name="id_1153">Fable, Vavyan: Vis Major (2004)</a>
+#### <a name="id_1153">Fable, Vavyan: Vis Major (2004)</a>
 bla bla bla
 
-<a name="id_1164">Fable, Vavyan: Kyra Eleison (2008)</a>
+#### <a name="id_1164">Fable, Vavyan: Kyra Eleison (2008)</a>
 bla bla bla
 
-<a name="id_1154">Fable, Vavyan: Vészbejárat (2008)</a>
+#### <a name="id_1154">Fable, Vavyan: Vészbejárat (2008)</a>
 bla bla bla
 
-<a name="id_1158">Fable, Vavyan: Tíz kicsi kommandós (2008)</a>
+#### <a name="id_1158">Fable, Vavyan: Tíz kicsi kommandós (2008)</a>
 bla bla bla
 
-<a name="id_1014">Fable, Vavyan: Szamurájszív (2015)</a>
+#### <a name="id_1014">Fable, Vavyan: Szamurájszív (2015)</a>
 bla bla bla
 
-<a name="id_177">Fable, Vavyan: Álmok Tengere (2012)</a>
+#### <a name="id_177">Fable, Vavyan: Álmok Tengere (2012)</a>
 bla bla bla
 
-<a name="id_558">Fable, Vavyan: Barbárság Tengere (2012)</a>
+#### <a name="id_558">Fable, Vavyan: Barbárság Tengere (2012)</a>
 bla bla bla
 
-<a name="id_1271">Fazekas, László: Kapukulcs a kő alatt (1978)</a>
+#### <a name="id_1271">Fazekas, László: Kapukulcs a kő alatt (1978)</a>
 bla bla bla
 
-<a name="id_771">Fejős, Éva: Csajok (2016)</a>
+#### <a name="id_771">Fejős, Éva: Csajok (2016)</a>
 bla bla bla
 
-<a name="id_17">Fejős, Éva: Eper reggelire (2015)</a>
+#### <a name="id_17">Fejős, Éva: Eper reggelire (2015)</a>
 bla bla bla
 
-<a name="id_121">Fekete, István: Tüskevár (2018)</a>
+#### <a name="id_121">Fekete, István: Tüskevár (2018)</a>
 bla bla bla
 
-<a name="id_267">Fekete, István: Téli berek (2007)</a>
+#### <a name="id_267">Fekete, István: Téli berek (2007)</a>
 bla bla bla
 
-<a name="id_649">Foster, Alan Dean: A nyolcadik utas: a Halál (2015)</a>
+#### <a name="id_649">Foster, Alan Dean: A nyolcadik utas: a Halál (2015)</a>
 bla bla bla
 
-<a name="id_650">Foster, Alan Dean: A bolygó neve: Halál (2015)</a>
+#### <a name="id_650">Foster, Alan Dean: A bolygó neve: Halál (2015)</a>
 bla bla bla
 
-<a name="id_652">Foster, Alan Dean: Az út végén a halál (1992)</a>
+#### <a name="id_652">Foster, Alan Dean: Az út végén a halál (1992)</a>
 bla bla bla
 
-<a name="id_182">Frank Herbert: Dune (101)</a>
+#### <a name="id_182">Frank Herbert: Dune (101)</a>
 bla bla bla
 
-<a name="id_184">Frank Herbert: A Dűne gyermekei (2002)</a>
+#### <a name="id_184">Frank Herbert: A Dűne gyermekei (2002)</a>
 bla bla bla
 
-<a name="id_107">Frei, Tamás: A megmentő (2012)</a>
+#### <a name="id_107">Frei, Tamás: A megmentő (2012)</a>
 bla bla bla
 
-<a name="id_108">Frei, Tamás: A bankár (2012)</a>
+#### <a name="id_108">Frei, Tamás: A bankár (2012)</a>
 bla bla bla
 
-<a name="id_1493">Frei, Tamás: 2015 (2019)</a>
+#### <a name="id_1493">Frei, Tamás: 2015 (2019)</a>
 bla bla bla
 
-<a name="id_883">G. M.: Tesco titok (101)</a>
+#### <a name="id_883">G. M.: Tesco titok (101)</a>
 bla bla bla
 
-<a name="id_884">G. M.: Tesco titok 2. (101)</a>
+#### <a name="id_884">G. M.: Tesco titok 2. (101)</a>
 bla bla bla
 
-<a name="id_718">George Lucas: Csillagok háborúja (2014)</a>
+#### <a name="id_718">George Lucas: Csillagok háborúja (2014)</a>
 bla bla bla
 
-<a name="id_364">George Orwell: 1984 (2020)</a>
+#### <a name="id_364">George Orwell: 1984 (2020)</a>
 bla bla bla
 
-<a name="id_420">George R. R. Martin: Trónok harca (2016)</a>
+#### <a name="id_420">George R. R. Martin: Trónok harca (2016)</a>
 bla bla bla
 
-<a name="id_418">George R. R. Martin: Királyok csatája (2020)</a>
+#### <a name="id_418">George R. R. Martin: Királyok csatája (2020)</a>
 bla bla bla
 
-<a name="id_424">George R. R. Martin: Kardok vihara (2009)</a>
+#### <a name="id_424">George R. R. Martin: Kardok vihara (2009)</a>
 bla bla bla
 
-<a name="id_419">George R. R. Martin: Varjak lakomája (2016)</a>
+#### <a name="id_419">George R. R. Martin: Varjak lakomája (2016)</a>
 bla bla bla
 
-<a name="id_898">George R. R. Martin: Sárkányok tánca (2016)</a>
+#### <a name="id_898">George R. R. Martin: Sárkányok tánca (2016)</a>
 bla bla bla
 
-<a name="id_50">Gerald Durrell: Családom és egyéb állatfajták (2015)</a>
+#### <a name="id_50">Gerald Durrell: Családom és egyéb állatfajták (2015)</a>
 bla bla bla
 
-<a name="id_867">Gerald Durrell: Madarak, vadak, rokonok (1974)</a>
+#### <a name="id_867">Gerald Durrell: Madarak, vadak, rokonok (1974)</a>
 bla bla bla
 
-<a name="id_868">Gerald Durrell: Istenek kertje (2012)</a>
+#### <a name="id_868">Gerald Durrell: Istenek kertje (2012)</a>
 bla bla bla
 
-<a name="id_1169">Greg Bear: Alapítvány és Káosz (101)</a>
+#### <a name="id_1169">Greg Bear: Alapítvány és Káosz (101)</a>
 bla bla bla
 
-<a name="id_1168">Gregory Benford: Az Alapítvány félelme (101)</a>
+#### <a name="id_1168">Gregory Benford: Az Alapítvány félelme (101)</a>
 bla bla bla
 
-<a name="id_987">Harper Lee: Ne bántsátok a feketerigót! (2003)</a>
+#### <a name="id_987">Harper Lee: Ne bántsátok a feketerigót! (2003)</a>
 bla bla bla
 
-<a name="id_804">Havas, Henrik: Pornó I-II. (2013)</a>
+#### <a name="id_804">Havas, Henrik: Pornó I-II. (2013)</a>
 bla bla bla
 
-<a name="id_805">Havas, Henrik: Pornó I-II. (2013)</a>
+#### <a name="id_805">Havas, Henrik: Pornó I-II. (2013)</a>
 bla bla bla
 
-<a name="id_477">Havas, Henrik: Kurvaélet (2013)</a>
+#### <a name="id_477">Havas, Henrik: Kurvaélet (2013)</a>
 bla bla bla
 
-<a name="id_765">Herbert, Attila: Történelem 1. - A kezdetektől I.e 500 -ig (2010)</a>
+#### <a name="id_765">Herbert, Attila: Történelem 1. - A kezdetektől I.e 500 -ig (2010)</a>
 bla bla bla
 
-<a name="id_766">Herbert, Attila: Történelem 2. - Kr.E. 500 - Kr.U. 1000 (2010)</a>
+#### <a name="id_766">Herbert, Attila: Történelem 2. - Kr.E. 500 - Kr.U. 1000 (2010)</a>
 bla bla bla
 
-<a name="id_767">Herbert, Attila: Történelem 5 1789 -től 1914 -ig (2010)</a>
+#### <a name="id_767">Herbert, Attila: Történelem 5 1789 -től 1914 -ig (2010)</a>
 bla bla bla
 
-<a name="id_768">Herbert, Attila: Történelem 6. 1914 -től 1990 -ig (2010)</a>
+#### <a name="id_768">Herbert, Attila: Történelem 6. 1914 -től 1990 -ig (2010)</a>
 bla bla bla
 
-<a name="id_194">Herbert, Brian: Dűne-7-A Dűne vadászai (101)</a>
+#### <a name="id_194">Herbert, Brian: Dűne-7-A Dűne vadászai (101)</a>
 bla bla bla
 
-<a name="id_195">Herbert, Brian: Dűne-8-A Dűne homokférgei (101)</a>
+#### <a name="id_195">Herbert, Brian: Dűne-8-A Dűne homokférgei (101)</a>
 bla bla bla
 
-<a name="id_183">Herbert, Frank: Dűne-2-Dűne messiása (101)</a>
+#### <a name="id_183">Herbert, Frank: Dűne-2-Dűne messiása (101)</a>
 bla bla bla
 
-<a name="id_185">Herbert, Frank: Dűne-4-Dűne isten-császára (101)</a>
+#### <a name="id_185">Herbert, Frank: Dűne-4-Dűne isten-császára (101)</a>
 bla bla bla
 
-<a name="id_186">Herbert, Frank: Dűne-5-Dűne eretnekei (101)</a>
+#### <a name="id_186">Herbert, Frank: Dűne-5-Dűne eretnekei (101)</a>
 bla bla bla
 
-<a name="id_187">Herbert, Frank: Dűne-6-Dűne Káptalanház (101)</a>
+#### <a name="id_187">Herbert, Frank: Dűne-6-Dűne Káptalanház (101)</a>
 bla bla bla
 
-<a name="id_1002">Holly Smale: A lány, akit soha senki sem vett észre (2014)</a>
+#### <a name="id_1002">Holly Smale: A lány, akit soha senki sem vett észre (2014)</a>
 bla bla bla
 
-<a name="id_1003">Holly Smale: A lány, aki mindig mindent félreért (2015)</a>
+#### <a name="id_1003">Holly Smale: A lány, aki mindig mindent félreért (2015)</a>
 bla bla bla
 
-<a name="id_18">J. K. Rowling: Harry Potter és a bölcsek köve (2021)</a>
+#### <a name="id_18">J. K. Rowling: Harry Potter és a bölcsek köve (2021)</a>
 bla bla bla
 
-<a name="id_19">J. K. Rowling: Harry Potter és a Titkok Kamrája (2021)</a>
+#### <a name="id_19">J. K. Rowling: Harry Potter és a Titkok Kamrája (2021)</a>
 bla bla bla
 
-<a name="id_20">J. K. Rowling: Harry Potter és az azkabani fogoly (2016)</a>
+#### <a name="id_20">J. K. Rowling: Harry Potter és az azkabani fogoly (2016)</a>
 bla bla bla
 
-<a name="id_21">J. K. Rowling: Harry Potter és a Tűz Serlege (2020)</a>
+#### <a name="id_21">J. K. Rowling: Harry Potter és a Tűz Serlege (2020)</a>
 bla bla bla
 
-<a name="id_22">J. K. Rowling: Harry Potter és a Főnix Rendje (2021)</a>
+#### <a name="id_22">J. K. Rowling: Harry Potter és a Főnix Rendje (2021)</a>
 bla bla bla
 
-<a name="id_23">J. K. Rowling: Harry Potter és a Félvér Herceg (2020)</a>
+#### <a name="id_23">J. K. Rowling: Harry Potter és a Félvér Herceg (2020)</a>
 bla bla bla
 
-<a name="id_24">J. K. Rowling: Harry Potter és a Halál ereklyéi (2021)</a>
+#### <a name="id_24">J. K. Rowling: Harry Potter és a Halál ereklyéi (2021)</a>
 bla bla bla
 
-<a name="id_1459">J. K. Rowling: Harry Potter és az elátkozott gyermek (2021)</a>
+#### <a name="id_1459">J. K. Rowling: Harry Potter és az elátkozott gyermek (2021)</a>
 bla bla bla
 
-<a name="id_12">J. R. R. Tolkien: The Fellowship of the Ring (1966)</a>
+#### <a name="id_12">J. R. R. Tolkien: The Fellowship of the Ring (1966)</a>
 bla bla bla
 
-<a name="id_13">J. R. R. Tolkien: The two towers (1992)</a>
+#### <a name="id_13">J. R. R. Tolkien: The two towers (1992)</a>
 bla bla bla
 
-<a name="id_14">J. R. R. Tolkien: The Return of the King (2001)</a>
+#### <a name="id_14">J. R. R. Tolkien: The Return of the King (2001)</a>
 bla bla bla
 
-<a name="id_168">James Clavell: A sógun (2016)</a>
+#### <a name="id_168">James Clavell: A sógun (2016)</a>
 bla bla bla
 
-<a name="id_1027">James Clavell: A Tajpan (2020)</a>
+#### <a name="id_1027">James Clavell: A Tajpan (2020)</a>
 bla bla bla
 
-<a name="id_1028">James Clavell: Gajdzsin (2010)</a>
+#### <a name="id_1028">James Clavell: Gajdzsin (2010)</a>
 bla bla bla
 
-<a name="id_58">Jane Austen: Értelem és érzelem (1986)</a>
+#### <a name="id_58">Jane Austen: Értelem és érzelem (1986)</a>
 bla bla bla
 
-<a name="id_521">Jeff Lindsay: Drága, dolgos Dexter (2008)</a>
+#### <a name="id_521">Jeff Lindsay: Drága, dolgos Dexter (2008)</a>
 bla bla bla
 
-<a name="id_520">Jeff Lindsay: Dermedt, dacos Dexter (2008)</a>
+#### <a name="id_520">Jeff Lindsay: Dermedt, dacos Dexter (2008)</a>
 bla bla bla
 
-<a name="id_518">Jeff Lindsay: Dexter darabokban (2010)</a>
+#### <a name="id_518">Jeff Lindsay: Dexter darabokban (2010)</a>
 bla bla bla
 
-<a name="id_581">Jo Nesbø: Denevérember (2020)</a>
+#### <a name="id_581">Jo Nesbø: Denevérember (2020)</a>
 bla bla bla
 
-<a name="id_577">Jo Nesbø: Csótányok (2017)</a>
+#### <a name="id_577">Jo Nesbø: Csótányok (2017)</a>
 bla bla bla
 
-<a name="id_579">Jo Nesbø: Vörösbegy (2019)</a>
+#### <a name="id_579">Jo Nesbø: Vörösbegy (2019)</a>
 bla bla bla
 
-<a name="id_410">Jo Nesbø: Nemeszisz (2019)</a>
+#### <a name="id_410">Jo Nesbø: Nemeszisz (2019)</a>
 bla bla bla
 
-<a name="id_412">Jo Nesbø: Boszorkányszög (2019)</a>
+#### <a name="id_412">Jo Nesbø: Boszorkányszög (2019)</a>
 bla bla bla
 
-<a name="id_592">Jo Nesbø: A megváltó (2019)</a>
+#### <a name="id_592">Jo Nesbø: A megváltó (2019)</a>
 bla bla bla
 
-<a name="id_582">Jo Nesbø: Hóember (2019)</a>
+#### <a name="id_582">Jo Nesbø: Hóember (2019)</a>
 bla bla bla
 
-<a name="id_580">Jo Nesbø: Leopárd (2019)</a>
+#### <a name="id_580">Jo Nesbø: Leopárd (2019)</a>
 bla bla bla
 
-<a name="id_591">Jo Nesbø: Kísértet (2019)</a>
+#### <a name="id_591">Jo Nesbø: Kísértet (2019)</a>
 bla bla bla
 
-<a name="id_578">Jo Nesbø: Police (2013)</a>
+#### <a name="id_578">Jo Nesbø: Police (2013)</a>
 bla bla bla
 
-<a name="id_978">Jo Nesbø: Fehér éjszaka (2015)</a>
+#### <a name="id_978">Jo Nesbø: Fehér éjszaka (2015)</a>
 bla bla bla
 
-<a name="id_622">Joanne Fluke: Áfonyás muffin és gyilkosság (2007)</a>
+#### <a name="id_622">Joanne Fluke: Áfonyás muffin és gyilkosság (2007)</a>
 bla bla bla
 
-<a name="id_623">Joanne Fluke: Pikáns meglepetés és gyilkosság (2008)</a>
+#### <a name="id_623">Joanne Fluke: Pikáns meglepetés és gyilkosság (2008)</a>
 bla bla bla
 
-<a name="id_624">Joanne Fluke: Csokis tündértorta és gyilkosság (2009)</a>
+#### <a name="id_624">Joanne Fluke: Csokis tündértorta és gyilkosság (2009)</a>
 bla bla bla
 
-<a name="id_625">Joanne Fluke: Karácsonyi habcsók és gyilkosság (2009)</a>
+#### <a name="id_625">Joanne Fluke: Karácsonyi habcsók és gyilkosság (2009)</a>
 bla bla bla
 
-<a name="id_1124">Joanne Harris: Csokoládé trilógia (101)</a>
+#### <a name="id_1124">Joanne Harris: Csokoládé trilógia (101)</a>
 bla bla bla
 
-<a name="id_1125">Joanne Harris: Rúnajelek (2008)</a>
+#### <a name="id_1125">Joanne Harris: Rúnajelek (2008)</a>
 bla bla bla
 
-<a name="id_1117">Joanne Harris: Kékszeműfiú (2010)</a>
+#### <a name="id_1117">Joanne Harris: Kékszeműfiú (2010)</a>
 bla bla bla
 
-<a name="id_997">John Keegan: A második világháború (2008)</a>
+#### <a name="id_997">John Keegan: A második világháború (2008)</a>
 bla bla bla
 
-<a name="id_383">Jonas Jonasson: A százéves ember, aki kimászott az ablakon és eltűnt (2019)</a>
+#### <a name="id_383">Jonas Jonasson: A százéves ember, aki kimászott az ablakon és eltűnt (2019)</a>
 bla bla bla
 
-<a name="id_524">Joseph D'Lacey: Hús (2008)</a>
+#### <a name="id_524">Joseph D'Lacey: Hús (2008)</a>
 bla bla bla
 
-<a name="id_374">Jurányi, Zsolt: Az alvilág zsoldjában (2015)</a>
+#### <a name="id_374">Jurányi, Zsolt: Az alvilág zsoldjában (2015)</a>
 bla bla bla
 
-<a name="id_1597">Kalapos, Éva: Egy új élet (2013)</a>
+#### <a name="id_1597">Kalapos, Éva: Egy új élet (2013)</a>
 bla bla bla
 
-<a name="id_788">Karin Slaughter: Nadragulya (2008)</a>
+#### <a name="id_788">Karin Slaughter: Nadragulya (2008)</a>
 bla bla bla
 
-<a name="id_599">Karin Slaughter: Bőr (2012)</a>
+#### <a name="id_599">Karin Slaughter: Bőr (2012)</a>
 bla bla bla
 
-<a name="id_1488">Karin Slaughter: Összetörve (2021)</a>
+#### <a name="id_1488">Karin Slaughter: Összetörve (2021)</a>
 bla bla bla
 
-<a name="id_157">Kathy Reichs: A holtak beszélnek (2008)</a>
+#### <a name="id_157">Kathy Reichs: A holtak beszélnek (2008)</a>
 bla bla bla
 
-<a name="id_1198">Kati Hiekkapelto: Kolibri (2014)</a>
+#### <a name="id_1198">Kati Hiekkapelto: Kolibri (2014)</a>
 bla bla bla
 
-<a name="id_1641">Ken Follett: Fall of Giants (2010)</a>
+#### <a name="id_1641">Ken Follett: Fall of Giants (2010)</a>
 bla bla bla
 
-<a name="id_427">Kovács, András Péter: Médialom (2011)</a>
+#### <a name="id_427">Kovács, András Péter: Médialom (2011)</a>
 bla bla bla
 
-<a name="id_1200">Kristó Nagy, István: Bölcsességek könyve I-II. – Aforizmák, szállóigék (2004)</a>
+#### <a name="id_1200">Kristó Nagy, István: Bölcsességek könyve I-II. – Aforizmák, szállóigék (2004)</a>
 bla bla bla
 
-<a name="id_1201">Kristó Nagy, István: Bölcsességek könyve I-II. – Aforizmák, szállóigék (2004)</a>
+#### <a name="id_1201">Kristó Nagy, István: Bölcsességek könyve I-II. – Aforizmák, szállóigék (2004)</a>
 bla bla bla
 
-<a name="id_488">L. M. Montgomery: Anne otthonra talál (2011)</a>
+#### <a name="id_488">L. M. Montgomery: Anne otthonra talál (2011)</a>
 bla bla bla
 
-<a name="id_483">L. M. Montgomery: Anne az élet iskolájában (2005)</a>
+#### <a name="id_483">L. M. Montgomery: Anne az élet iskolájában (2005)</a>
 bla bla bla
 
-<a name="id_490">L. M. Montgomery: Anne válaszúton (2011)</a>
+#### <a name="id_490">L. M. Montgomery: Anne válaszúton (2011)</a>
 bla bla bla
 
-<a name="id_489">L. M. Montgomery: Anne új vizekre evez (2011)</a>
+#### <a name="id_489">L. M. Montgomery: Anne új vizekre evez (2011)</a>
 bla bla bla
 
-<a name="id_486">L. M. Montgomery: Anne férjhez megy (2007)</a>
+#### <a name="id_486">L. M. Montgomery: Anne férjhez megy (2007)</a>
 bla bla bla
 
-<a name="id_484">L. M. Montgomery: Anne családja körében (2012)</a>
+#### <a name="id_484">L. M. Montgomery: Anne családja körében (2012)</a>
 bla bla bla
 
-<a name="id_485">L. M. Montgomery: Anne és a Szivárvány-völgy (2008)</a>
+#### <a name="id_485">L. M. Montgomery: Anne és a Szivárvány-völgy (2008)</a>
 bla bla bla
 
-<a name="id_487">L. M. Montgomery: Anne gyermekei a háborúban (2009)</a>
+#### <a name="id_487">L. M. Montgomery: Anne gyermekei a háborúban (2009)</a>
 bla bla bla
 
-<a name="id_493">L. M. Montgomery: A tűzpróba (2006)</a>
+#### <a name="id_493">L. M. Montgomery: A tűzpróba (2006)</a>
 bla bla bla
 
-<a name="id_494">L. M. Montgomery: Barátságok (2007)</a>
+#### <a name="id_494">L. M. Montgomery: Barátságok (2007)</a>
 bla bla bla
 
-<a name="id_495">L. M. Montgomery: Bagolykacaj (2008)</a>
+#### <a name="id_495">L. M. Montgomery: Bagolykacaj (2008)</a>
 bla bla bla
 
-<a name="id_496">L. M. Montgomery: Forgószél (2009)</a>
+#### <a name="id_496">L. M. Montgomery: Forgószél (2009)</a>
 bla bla bla
 
-<a name="id_497">L. M. Montgomery: Szerelmek (2010)</a>
+#### <a name="id_497">L. M. Montgomery: Szerelmek (2010)</a>
 bla bla bla
 
-<a name="id_492">L. M. Montgomery: A Mesélő Lány (1999)</a>
+#### <a name="id_492">L. M. Montgomery: A Mesélő Lány (1999)</a>
 bla bla bla
 
-<a name="id_491">L. M. Montgomery: Az arany út (2000)</a>
+#### <a name="id_491">L. M. Montgomery: Az arany út (2000)</a>
 bla bla bla
 
-<a name="id_1360">Lackfi, János: Milyenek a magyarok? (2017)</a>
+#### <a name="id_1360">Lackfi, János: Milyenek a magyarok? (2017)</a>
 bla bla bla
 
-<a name="id_935">Lackfi, János: Milyenek MÉG a magyarok? (2013)</a>
+#### <a name="id_935">Lackfi, János: Milyenek MÉG a magyarok? (2013)</a>
 bla bla bla
 
-<a name="id_1681">Lars Kepler: A hipnotizőr (2009)</a>
+#### <a name="id_1681">Lars Kepler: A hipnotizőr (2009)</a>
 bla bla bla
 
-<a name="id_674">Lars Kepler: A Paganini-szerződés (2019)</a>
+#### <a name="id_674">Lars Kepler: A Paganini-szerződés (2019)</a>
 bla bla bla
 
-<a name="id_1677">Lars Kepler: A tűz tanúja (2011)</a>
+#### <a name="id_1677">Lars Kepler: A tűz tanúja (2011)</a>
 bla bla bla
 
-<a name="id_1678">Lars Kepler: A Bosszúálló (2011)</a>
+#### <a name="id_1678">Lars Kepler: A Bosszúálló (2011)</a>
 bla bla bla
 
-<a name="id_1680">Lars Kepler: Lesben (2018)</a>
+#### <a name="id_1680">Lars Kepler: Lesben (2018)</a>
 bla bla bla
 
-<a name="id_1679">Lars Kepler: Nyúlvadász (2019)</a>
+#### <a name="id_1679">Lars Kepler: Nyúlvadász (2019)</a>
 bla bla bla
 
-<a name="id_1683">Lars Kepler: Lázár (2020)</a>
+#### <a name="id_1683">Lars Kepler: Lázár (2020)</a>
 bla bla bla
 
-<a name="id_1682">Lars Kepler: Tükörember (2020)</a>
+#### <a name="id_1682">Lars Kepler: Tükörember (2020)</a>
 bla bla bla
 
-<a name="id_1206">Lee Child: Eltűnt ellenség (2011)</a>
+#### <a name="id_1206">Lee Child: Eltűnt ellenség (2011)</a>
 bla bla bla
 
-<a name="id_392">Lee Child: Csak egy lövés (2012)</a>
+#### <a name="id_392">Lee Child: Csak egy lövés (2012)</a>
 bla bla bla
 
-<a name="id_1498">Leiner, Laura: Együtt (2021)</a>
+#### <a name="id_1498">Leiner, Laura: Együtt (2021)</a>
 bla bla bla
 
-<a name="id_1497">Leiner, Laura: Egyedül (2020)</a>
+#### <a name="id_1497">Leiner, Laura: Egyedül (2020)</a>
 bla bla bla
 
-<a name="id_1496">Leiner, Laura: Barátok (2021)</a>
+#### <a name="id_1496">Leiner, Laura: Barátok (2021)</a>
 bla bla bla
 
-<a name="id_1495">Leiner, Laura: Remény (2021)</a>
+#### <a name="id_1495">Leiner, Laura: Remény (2021)</a>
 bla bla bla
 
-<a name="id_1519">Leiner, Laura: Ketten (2021)</a>
+#### <a name="id_1519">Leiner, Laura: Ketten (2021)</a>
 bla bla bla
 
-<a name="id_1482">Leiner, Laura: Útvesztő (2016)</a>
+#### <a name="id_1482">Leiner, Laura: Útvesztő (2016)</a>
 bla bla bla
 
-<a name="id_1499">Leiner, Laura: Örökké (2016)</a>
+#### <a name="id_1499">Leiner, Laura: Örökké (2016)</a>
 bla bla bla
 
-<a name="id_1500">Leiner, Laura: Örökké (2016)</a>
+#### <a name="id_1500">Leiner, Laura: Örökké (2016)</a>
 bla bla bla
 
-<a name="id_1474">Leiner, Laura: Késtél (2016)</a>
+#### <a name="id_1474">Leiner, Laura: Késtél (2016)</a>
 bla bla bla
 
-<a name="id_1487">Leiner, Laura: Valahol (2016)</a>
+#### <a name="id_1487">Leiner, Laura: Valahol (2016)</a>
 bla bla bla
 
-<a name="id_1480">Leiner, Laura: Egyszer (2017)</a>
+#### <a name="id_1480">Leiner, Laura: Egyszer (2017)</a>
 bla bla bla
 
-<a name="id_1476">Leiner, Laura: Ég veled (2017)</a>
+#### <a name="id_1476">Leiner, Laura: Ég veled (2017)</a>
 bla bla bla
 
-<a name="id_1477">Leiner, Laura: Maradj velem (2018)</a>
+#### <a name="id_1477">Leiner, Laura: Maradj velem (2018)</a>
 bla bla bla
 
-<a name="id_1485">Leiner, Laura: Emlékezz rám (2019)</a>
+#### <a name="id_1485">Leiner, Laura: Emlékezz rám (2019)</a>
 bla bla bla
 
-<a name="id_1486">Leiner, Laura: Bízz bennem (2020)</a>
+#### <a name="id_1486">Leiner, Laura: Bízz bennem (2020)</a>
 bla bla bla
 
-<a name="id_1479">Leiner, Laura: Higgy nekem (2021)</a>
+#### <a name="id_1479">Leiner, Laura: Higgy nekem (2021)</a>
 bla bla bla
 
-<a name="id_1561">Leiner, Laura: Állj mellém (2021)</a>
+#### <a name="id_1561">Leiner, Laura: Állj mellém (2021)</a>
 bla bla bla
 
-<a name="id_1502">Leiner, Laura: Remek! (2018)</a>
+#### <a name="id_1502">Leiner, Laura: Remek! (2018)</a>
 bla bla bla
 
-<a name="id_1475">Leiner, Laura: Ez is Remek!! (2020)</a>
+#### <a name="id_1475">Leiner, Laura: Ez is Remek!! (2020)</a>
 bla bla bla
 
-<a name="id_687">Liza Marklund: Studio 69 (2003)</a>
+#### <a name="id_687">Liza Marklund: Studio 69 (2003)</a>
 bla bla bla
 
-<a name="id_899">Luc Besson: Arthur és a villangók (2006)</a>
+#### <a name="id_899">Luc Besson: Arthur és a villangók (2006)</a>
 bla bla bla
 
-<a name="id_298">Mark Logue: A király beszéde (2011)</a>
+#### <a name="id_298">Mark Logue: A király beszéde (2011)</a>
 bla bla bla
 
-<a name="id_1010">Marlo Morgan: Vidd hírét az Igazaknak (2020)</a>
+#### <a name="id_1010">Marlo Morgan: Vidd hírét az Igazaknak (2020)</a>
 bla bla bla
 
-<a name="id_1214">Martin Cruz Smith: Gorkij Park (1991)</a>
+#### <a name="id_1214">Martin Cruz Smith: Gorkij Park (1991)</a>
 bla bla bla
 
-<a name="id_432">Meg Cabot: A neveletlen hercegnő naplója 1. (2002)</a>
+#### <a name="id_432">Meg Cabot: A neveletlen hercegnő naplója 1. (2002)</a>
 bla bla bla
 
-<a name="id_433">Meg Cabot: Reflektorfényben (2002)</a>
+#### <a name="id_433">Meg Cabot: Reflektorfényben (2002)</a>
 bla bla bla
 
-<a name="id_434">Meg Cabot: A Szerelmes Hercegnő (2003)</a>
+#### <a name="id_434">Meg Cabot: A Szerelmes Hercegnő (2003)</a>
 bla bla bla
 
-<a name="id_435">Meg Cabot: Mia Genoviában (2003)</a>
+#### <a name="id_435">Meg Cabot: Mia Genoviában (2003)</a>
 bla bla bla
 
-<a name="id_436">Meg Cabot: Talpig Rózsaszínben (2004)</a>
+#### <a name="id_436">Meg Cabot: Talpig Rózsaszínben (2004)</a>
 bla bla bla
 
-<a name="id_437">Meg Cabot: Hajrá Hercegnő! (2005)</a>
+#### <a name="id_437">Meg Cabot: Hajrá Hercegnő! (2005)</a>
 bla bla bla
 
-<a name="id_751">Michael Crichton: Az Androméda-törzs (2020)</a>
+#### <a name="id_751">Michael Crichton: Az Androméda-törzs (2020)</a>
 bla bla bla
 
-<a name="id_757">Michael Crichton: Őslénypark (1993)</a>
+#### <a name="id_757">Michael Crichton: Őslénypark (1993)</a>
 bla bla bla
 
-<a name="id_760">Michael Crichton: Szörnyek szigete (1996)</a>
+#### <a name="id_760">Michael Crichton: Szörnyek szigete (1996)</a>
 bla bla bla
 
-<a name="id_1492">Michael Ende: Gombos ​Jim és Lukács, a masiniszta (2015)</a>
+#### <a name="id_1492">Michael Ende: Gombos ​Jim és Lukács, a masiniszta (2015)</a>
 bla bla bla
 
-<a name="id_525">Michael Moorcock: Harcikutya (2008)</a>
+#### <a name="id_525">Michael Moorcock: Harcikutya (2008)</a>
 bla bla bla
 
-<a name="id_679">Mika Waltari: Cselszövők (1990)</a>
+#### <a name="id_679">Mika Waltari: Cselszövők (1990)</a>
 bla bla bla
 
-<a name="id_685">Mika Waltari: Palmu felügyelő tévedése (1969)</a>
+#### <a name="id_685">Mika Waltari: Palmu felügyelő tévedése (1969)</a>
 bla bla bla
 
-<a name="id_1368">Moldova, György: Az utolsó töltény 9. (2007)</a>
+#### <a name="id_1368">Moldova, György: Az utolsó töltény 9. (2007)</a>
 bla bla bla
 
-<a name="id_1366">Moldova, György: Az utolsó töltény 10. (2010)</a>
+#### <a name="id_1366">Moldova, György: Az utolsó töltény 10. (2010)</a>
 bla bla bla
 
-<a name="id_1367">Moldova, György: Az utolsó töltény 11. (2013)</a>
+#### <a name="id_1367">Moldova, György: Az utolsó töltény 11. (2013)</a>
 bla bla bla
 
-<a name="id_1400">Moldova, György: Az utolsó töltény 12. (2015)</a>
+#### <a name="id_1400">Moldova, György: Az utolsó töltény 12. (2015)</a>
 bla bla bla
 
-<a name="id_344">Moldova, György: Harcolj vagy menekülj! (2010)</a>
+#### <a name="id_344">Moldova, György: Harcolj vagy menekülj! (2010)</a>
 bla bla bla
 
-<a name="id_345">Moldova, György: Harcolj vagy menekülj! (2010)</a>
+#### <a name="id_345">Moldova, György: Harcolj vagy menekülj! (2010)</a>
 bla bla bla
 
-<a name="id_1399">Moldova, György: Kegyelemkenyér 1. (2017)</a>
+#### <a name="id_1399">Moldova, György: Kegyelemkenyér 1. (2017)</a>
 bla bla bla
 
-<a name="id_371">Moldova, György: Kádár János 2. (2012)</a>
+#### <a name="id_371">Moldova, György: Kádár János 2. (2012)</a>
 bla bla bla
 
-<a name="id_370">Moldova, György: Kádár János (2007)</a>
+#### <a name="id_370">Moldova, György: Kádár János (2007)</a>
 bla bla bla
 
-<a name="id_114">Müller, Péter: Sorsról és életről (2012)</a>
+#### <a name="id_114">Müller, Péter: Sorsról és életről (2012)</a>
 bla bla bla
 
-<a name="id_1234">Náray, Tamás: Zarah (2020)</a>
+#### <a name="id_1234">Náray, Tamás: Zarah (2020)</a>
 bla bla bla
 
-<a name="id_1233">Náray, Tamás: Zarah öröksége (2020)</a>
+#### <a name="id_1233">Náray, Tamás: Zarah öröksége (2020)</a>
 bla bla bla
 
-<a name="id_1235">Náray, Tamás: Zarah álma (2020)</a>
+#### <a name="id_1235">Náray, Tamás: Zarah álma (2020)</a>
 bla bla bla
 
-<a name="id_890">Neil Gaiman: Shoggoth Különleges (101)</a>
+#### <a name="id_890">Neil Gaiman: Shoggoth Különleges (101)</a>
 bla bla bla
 
-<a name="id_682">Ninni Schulman: Lány a hóban (2014)</a>
+#### <a name="id_682">Ninni Schulman: Lány a hóban (2014)</a>
 bla bla bla
 
-<a name="id_503">P. G. Wodehouse: Forduljon Psmithhez! (2005)</a>
+#### <a name="id_503">P. G. Wodehouse: Forduljon Psmithhez! (2005)</a>
 bla bla bla
 
-<a name="id_507">P. G. Wodehouse: Nyári zivatar (2000)</a>
+#### <a name="id_507">P. G. Wodehouse: Nyári zivatar (2000)</a>
 bla bla bla
 
-<a name="id_501">P. G. Wodehouse: Egy pelikán Blandingsben (2007)</a>
+#### <a name="id_501">P. G. Wodehouse: Egy pelikán Blandingsben (2007)</a>
 bla bla bla
 
-<a name="id_945">P. G. Wodehouse: Halihó, Jeeves! (2007)</a>
+#### <a name="id_945">P. G. Wodehouse: Halihó, Jeeves! (2007)</a>
 bla bla bla
 
-<a name="id_502">P. G. Wodehouse: Folytassa, Jeeves! (2004)</a>
+#### <a name="id_502">P. G. Wodehouse: Folytassa, Jeeves! (2004)</a>
 bla bla bla
 
-<a name="id_943">P. G. Wodehouse: Gáz van, Jeeves! (2004)</a>
+#### <a name="id_943">P. G. Wodehouse: Gáz van, Jeeves! (2004)</a>
 bla bla bla
 
-<a name="id_508">P. G. Wodehouse: Psmith a pénzvilágban (1998)</a>
+#### <a name="id_508">P. G. Wodehouse: Psmith a pénzvilágban (1998)</a>
 bla bla bla
 
-<a name="id_1029">Patrick Rothfuss: A bölcs ember félelme (2014)</a>
+#### <a name="id_1029">Patrick Rothfuss: A bölcs ember félelme (2014)</a>
 bla bla bla
 
-<a name="id_264">Paulo Coelho: Veronika meg akar halni (2016)</a>
+#### <a name="id_264">Paulo Coelho: Veronika meg akar halni (2016)</a>
 bla bla bla
 
-<a name="id_589">Peter Freund: Laura és Aventerra titkai (2003)</a>
+#### <a name="id_589">Peter Freund: Laura és Aventerra titkai (2003)</a>
 bla bla bla
 
-<a name="id_586">Peter Freund: Laura és a Hét Hold pecsétje (2004)</a>
+#### <a name="id_586">Peter Freund: Laura és a Hét Hold pecsétje (2004)</a>
 bla bla bla
 
-<a name="id_590">Peter Freund: Laura és az Ezüstszfinx rejtvénye (2005)</a>
+#### <a name="id_590">Peter Freund: Laura és az Ezüstszfinx rejtvénye (2005)</a>
 bla bla bla
 
-<a name="id_587">Peter Freund: Laura és a sárkánykirályok átka (2006)</a>
+#### <a name="id_587">Peter Freund: Laura és a sárkánykirályok átka (2006)</a>
 bla bla bla
 
-<a name="id_588">Peter Freund: Laura és a Tűzkígyó gyűrűje (2007)</a>
+#### <a name="id_588">Peter Freund: Laura és a Tűzkígyó gyűrűje (2007)</a>
 bla bla bla
 
-<a name="id_1301">Peter Freund: Laura és a Fény Labirintusa (2008)</a>
+#### <a name="id_1301">Peter Freund: Laura és a Fény Labirintusa (2008)</a>
 bla bla bla
 
-<a name="id_1646">Péter Kende: Az igazi Orbán (2006)</a>
+#### <a name="id_1646">Péter Kende: Az igazi Orbán (2006)</a>
 bla bla bla
 
-<a name="id_1222">Peter S. Caledonian: Hát-társ (2019)</a>
+#### <a name="id_1222">Peter S. Caledonian: Hát-társ (2019)</a>
 bla bla bla
 
-<a name="id_1219">Philip Pullman: Északi fény (2007)</a>
+#### <a name="id_1219">Philip Pullman: Északi fény (2007)</a>
 bla bla bla
 
-<a name="id_1220">Philip Pullman: A titokzatos kés (2017)</a>
+#### <a name="id_1220">Philip Pullman: A titokzatos kés (2017)</a>
 bla bla bla
 
-<a name="id_1221">Philip Pullman: A borostyán látcső (2017)</a>
+#### <a name="id_1221">Philip Pullman: A borostyán látcső (2017)</a>
 bla bla bla
 
-<a name="id_1670">Raana Raas: Az Ogfák Vöröse (2005)</a>
+#### <a name="id_1670">Raana Raas: Az Ogfák Vöröse (2005)</a>
 bla bla bla
 
-<a name="id_1671">Raana Raas: Kiszakadtak (2007)</a>
+#### <a name="id_1671">Raana Raas: Kiszakadtak (2007)</a>
 bla bla bla
 
-<a name="id_1672">Raana Raas: Árulás (2008)</a>
+#### <a name="id_1672">Raana Raas: Árulás (2008)</a>
 bla bla bla
 
-<a name="id_1673">Raana Raas: Hazatérők (2009)</a>
+#### <a name="id_1673">Raana Raas: Hazatérők (2009)</a>
 bla bla bla
 
-<a name="id_1674">Raana Raas: Elágazó utak (2011)</a>
+#### <a name="id_1674">Raana Raas: Elágazó utak (2011)</a>
 bla bla bla
 
-<a name="id_1675">Raana Raas: Ellenállók (2012)</a>
+#### <a name="id_1675">Raana Raas: Ellenállók (2012)</a>
 bla bla bla
 
-<a name="id_1676">Raana Raas: Menekülők (2017)</a>
+#### <a name="id_1676">Raana Raas: Menekülők (2017)</a>
 bla bla bla
 
-<a name="id_428">Rachel Vincent: Stray – Kóborok (2012)</a>
+#### <a name="id_428">Rachel Vincent: Stray – Kóborok (2012)</a>
 bla bla bla
 
-<a name="id_1009">Rebecca Shaw: Az új lelkész (2014)</a>
+#### <a name="id_1009">Rebecca Shaw: Az új lelkész (2014)</a>
 bla bla bla
 
-<a name="id_824">Rejtő, Jenő: A három testőr Afrikában (101)</a>
+#### <a name="id_824">Rejtő, Jenő: A három testőr Afrikában (101)</a>
 bla bla bla
 
-<a name="id_131">Rejtő, Jenő: A tizennégy karátos autó (2014)</a>
+#### <a name="id_131">Rejtő, Jenő: A tizennégy karátos autó (2014)</a>
 bla bla bla
 
-<a name="id_138">Rejtő, Jenő: Bradley Tamás visszaüt (2005)</a>
+#### <a name="id_138">Rejtő, Jenő: Bradley Tamás visszaüt (2005)</a>
 bla bla bla
 
-<a name="id_139">Rejtő, Jenő: Csontbrigád (2011)</a>
+#### <a name="id_139">Rejtő, Jenő: Csontbrigád (2011)</a>
 bla bla bla
 
-<a name="id_135">Rejtő, Jenő: Az előretolt helyőrség (2010)</a>
+#### <a name="id_135">Rejtő, Jenő: Az előretolt helyőrség (2010)</a>
 bla bla bla
 
-<a name="id_145">Rejtő, Jenő: Menni vagy meghalni (2014)</a>
+#### <a name="id_145">Rejtő, Jenő: Menni vagy meghalni (2014)</a>
 bla bla bla
 
-<a name="id_149">Rejtő, Jenő: Piszkos Fred, a kapitány (2014)</a>
+#### <a name="id_149">Rejtő, Jenő: Piszkos Fred, a kapitány (2014)</a>
 bla bla bla
 
-<a name="id_148">Rejtő, Jenő: Piszkos Fred közbelép (Fülig Jimmy őszintre sajnálatára) (2014)</a>
+#### <a name="id_148">Rejtő, Jenő: Piszkos Fred közbelép (Fülig Jimmy őszintre sajnálatára) (2014)</a>
 bla bla bla
 
-<a name="id_825">Rejtő, Jenő: Az elveszett cirkáló (101)</a>
+#### <a name="id_825">Rejtő, Jenő: Az elveszett cirkáló (101)</a>
 bla bla bla
 
-<a name="id_130">Rejtő, Jenő: A megkerült cirkáló (2011)</a>
+#### <a name="id_130">Rejtő, Jenő: A megkerült cirkáló (2011)</a>
 bla bla bla
 
-<a name="id_1509">Richelle Mead: A szukkubusz dala (2012)</a>
+#### <a name="id_1509">Richelle Mead: A szukkubusz dala (2012)</a>
 bla bla bla
 
-<a name="id_1653">Rick Riordan: A csontlabirintus (2008)</a>
+#### <a name="id_1653">Rick Riordan: A csontlabirintus (2008)</a>
 bla bla bla
 
-<a name="id_1656">Rick Riordan: Az elrejtett orákulum (2021)</a>
+#### <a name="id_1656">Rick Riordan: Az elrejtett orákulum (2021)</a>
 bla bla bla
 
-<a name="id_1655">Rick Riordan: A lángoló Labirintus (2021)</a>
+#### <a name="id_1655">Rick Riordan: A lángoló Labirintus (2021)</a>
 bla bla bla
 
-<a name="id_1663">Rick Riordan: Az elveszett hős (2010)</a>
+#### <a name="id_1663">Rick Riordan: Az elveszett hős (2010)</a>
 bla bla bla
 
-<a name="id_1652">Rick Riordan: Neptunus fia (2011)</a>
+#### <a name="id_1652">Rick Riordan: Neptunus fia (2011)</a>
 bla bla bla
 
-<a name="id_1657">Rick Riordan: Percy Jackson görög hősei (2020)</a>
+#### <a name="id_1657">Rick Riordan: Percy Jackson görög hősei (2020)</a>
 bla bla bla
 
-<a name="id_1650">Rick Riordan: Az Olimposz vére (2020)</a>
+#### <a name="id_1650">Rick Riordan: Az Olimposz vére (2020)</a>
 bla bla bla
 
-<a name="id_1658">Rick Riordan: Tűztrónus (2019)</a>
+#### <a name="id_1658">Rick Riordan: Tűztrónus (2019)</a>
 bla bla bla
 
-<a name="id_1654">Rick Riordan: A kígyó árnyéka (2012)</a>
+#### <a name="id_1654">Rick Riordan: A kígyó árnyéka (2012)</a>
 bla bla bla
 
-<a name="id_1649">Rick Riordan: A villámtolvaj (2008)</a>
+#### <a name="id_1649">Rick Riordan: A villámtolvaj (2008)</a>
 bla bla bla
 
-<a name="id_1661">Rick Riordan: A szörnyek tengere (2006)</a>
+#### <a name="id_1661">Rick Riordan: A szörnyek tengere (2006)</a>
 bla bla bla
 
-<a name="id_1648">Rick Riordan: A titán átka (2007)</a>
+#### <a name="id_1648">Rick Riordan: A titán átka (2007)</a>
 bla bla bla
 
-<a name="id_1659">Rick Riordan: The Battle of the Labyrinth (2009)</a>
+#### <a name="id_1659">Rick Riordan: The Battle of the Labyrinth (2009)</a>
 bla bla bla
 
-<a name="id_1662">Rick Riordan: Az utolsó olimposzi (2009)</a>
+#### <a name="id_1662">Rick Riordan: Az utolsó olimposzi (2009)</a>
 bla bla bla
 
-<a name="id_1593">Roald Dahl: Charlie and the Chocolate Factory (2010)</a>
+#### <a name="id_1593">Roald Dahl: Charlie and the Chocolate Factory (2010)</a>
 bla bla bla
 
-<a name="id_1594">Roald Dahl: Charlie and the Great Glass Elevator (2007)</a>
+#### <a name="id_1594">Roald Dahl: Charlie and the Great Glass Elevator (2007)</a>
 bla bla bla
 
-<a name="id_40">Robert Ludlum: Bourne Hatalma (2006)</a>
+#### <a name="id_40">Robert Ludlum: Bourne Hatalma (2006)</a>
 bla bla bla
 
-<a name="id_33">Robert Ludlum: A Hádész faktor (2006)</a>
+#### <a name="id_33">Robert Ludlum: A Hádész faktor (2006)</a>
 bla bla bla
 
-<a name="id_37">Robert Ludlum: A Párizs opció (2005)</a>
+#### <a name="id_37">Robert Ludlum: A Párizs opció (2005)</a>
 bla bla bla
 
-<a name="id_30">Robert Ludlum: A Bourne-rejtély (2005)</a>
+#### <a name="id_30">Robert Ludlum: A Bourne-rejtély (2005)</a>
 bla bla bla
 
-<a name="id_32">Robert Ludlum: Bourne ultimátuma (2006)</a>
+#### <a name="id_32">Robert Ludlum: Bourne ultimátuma (2006)</a>
 bla bla bla
 
-<a name="id_35">Robert Ludlum: Matarese klán (1979)</a>
+#### <a name="id_35">Robert Ludlum: Matarese klán (1979)</a>
 bla bla bla
 
-<a name="id_36">Robert Ludlum: Matarese Klán(2) (101)</a>
+#### <a name="id_36">Robert Ludlum: Matarese Klán(2) (101)</a>
 bla bla bla
 
-<a name="id_330">Robert Merle: Francia história (2010)</a>
+#### <a name="id_330">Robert Merle: Francia história (2010)</a>
 bla bla bla
 
-<a name="id_329">Robert Merle: Csikóéveink (2018)</a>
+#### <a name="id_329">Robert Merle: Csikóéveink (2018)</a>
 bla bla bla
 
-<a name="id_338">Robert Merle: Szenvedélyes szeretet (1993)</a>
+#### <a name="id_338">Robert Merle: Szenvedélyes szeretet (1993)</a>
 bla bla bla
 
-<a name="id_324">Robert Merle: A pirkadat (1998)</a>
+#### <a name="id_324">Robert Merle: A pirkadat (1998)</a>
 bla bla bla
 
-<a name="id_332">Robert Merle: Libben a szoknya (2011)</a>
+#### <a name="id_332">Robert Merle: Libben a szoknya (2011)</a>
 bla bla bla
 
-<a name="id_323">Robert Merle: A gyermekkirály (2011)</a>
+#### <a name="id_323">Robert Merle: A gyermekkirály (2011)</a>
 bla bla bla
 
-<a name="id_328">Robert Merle: Az élet rózsái (2011)</a>
+#### <a name="id_328">Robert Merle: Az élet rózsái (2011)</a>
 bla bla bla
 
-<a name="id_333">Robert Merle: Liliom és bíbor (2011)</a>
+#### <a name="id_333">Robert Merle: Liliom és bíbor (2011)</a>
 bla bla bla
 
-<a name="id_341">Robert Merle: Veszedelem és dicsőség (2011)</a>
+#### <a name="id_341">Robert Merle: Veszedelem és dicsőség (2011)</a>
 bla bla bla
 
-<a name="id_327">Robert Merle: Ármány és cselszövés (2011)</a>
+#### <a name="id_327">Robert Merle: Ármány és cselszövés (2011)</a>
 bla bla bla
 
-<a name="id_337">Robert Merle: Pallos és szerelem (2011)</a>
+#### <a name="id_337">Robert Merle: Pallos és szerelem (2011)</a>
 bla bla bla
 
-<a name="id_103">Robin Cook: Vakság (2011)</a>
+#### <a name="id_103">Robin Cook: Vakság (2011)</a>
 bla bla bla
 
-<a name="id_95">Robin Cook: Kromoszóma (2015)</a>
+#### <a name="id_95">Robin Cook: Kromoszóma (2015)</a>
 bla bla bla
 
-<a name="id_106">Robin Cook: Vektor (1999)</a>
+#### <a name="id_106">Robin Cook: Vektor (1999)</a>
 bla bla bla
 
-<a name="id_89">Robin Cook: Fertőzés (2007)</a>
+#### <a name="id_89">Robin Cook: Fertőzés (2007)</a>
 bla bla bla
 
-<a name="id_104">Robin Cook: Válság (2006)</a>
+#### <a name="id_104">Robin Cook: Válság (2006)</a>
 bla bla bla
 
-<a name="id_971">Roderick Gordon: Az alagutak rejtélye (2007)</a>
+#### <a name="id_971">Roderick Gordon: Az alagutak rejtélye (2007)</a>
 bla bla bla
 
-<a name="id_974">Roderick Gordon: Földmély titka (2008)</a>
+#### <a name="id_974">Roderick Gordon: Földmély titka (2008)</a>
 bla bla bla
 
-<a name="id_522">Salinger, Richárd: Omyno (2011)</a>
+#### <a name="id_522">Salinger, Richárd: Omyno (2011)</a>
 bla bla bla
 
-<a name="id_1005">Samantha Shannon: Csontszüret (2013)</a>
+#### <a name="id_1005">Samantha Shannon: Csontszüret (2013)</a>
 bla bla bla
 
-<a name="id_1693">Sarah J. Maas: Föld és vér háza (2020)</a>
+#### <a name="id_1693">Sarah J. Maas: Föld és vér háza (2020)</a>
 bla bla bla
 
-<a name="id_1694">Sarah J. Maas: Ég és lélegzet háza (2022)</a>
+#### <a name="id_1694">Sarah J. Maas: Ég és lélegzet háza (2022)</a>
 bla bla bla
 
-<a name="id_1698">Sarah J. Maas: Tüskék és rózsák udvara (2018)</a>
+#### <a name="id_1698">Sarah J. Maas: Tüskék és rózsák udvara (2018)</a>
 bla bla bla
 
-<a name="id_1699">Sarah J. Maas: Köd és harag udvara (2016)</a>
+#### <a name="id_1699">Sarah J. Maas: Köd és harag udvara (2016)</a>
 bla bla bla
 
-<a name="id_1700">Sarah J. Maas: Szárnyak és pusztulás udvara (2017)</a>
+#### <a name="id_1700">Sarah J. Maas: Szárnyak és pusztulás udvara (2017)</a>
 bla bla bla
 
-<a name="id_1696">Sarah J. Maas: Fagy és csillagfény udvara (2018)</a>
+#### <a name="id_1696">Sarah J. Maas: Fagy és csillagfény udvara (2018)</a>
 bla bla bla
 
-<a name="id_1697">Sarah J. Maas: Ezüst lángok udvara (2021)</a>
+#### <a name="id_1697">Sarah J. Maas: Ezüst lángok udvara (2021)</a>
 bla bla bla
 
-<a name="id_1685">Sarah J. Maas: Az orgyilkos pengéje és más történetek (2016)</a>
+#### <a name="id_1685">Sarah J. Maas: Az orgyilkos pengéje és más történetek (2016)</a>
 bla bla bla
 
-<a name="id_1686">Sarah J. Maas: Üvegtrón (2012)</a>
+#### <a name="id_1686">Sarah J. Maas: Üvegtrón (2012)</a>
 bla bla bla
 
-<a name="id_1689">Sarah J. Maas: Éjkorona (2013)</a>
+#### <a name="id_1689">Sarah J. Maas: Éjkorona (2013)</a>
 bla bla bla
 
-<a name="id_1692">Sarah J. Maas: A tűz örököse (2014)</a>
+#### <a name="id_1692">Sarah J. Maas: A tűz örököse (2014)</a>
 bla bla bla
 
-<a name="id_1691">Sarah J. Maas: Árnyak királynője (2015)</a>
+#### <a name="id_1691">Sarah J. Maas: Árnyak királynője (2015)</a>
 bla bla bla
 
-<a name="id_1690">Sarah J. Maas: Viharok birodalma (2016)</a>
+#### <a name="id_1690">Sarah J. Maas: Viharok birodalma (2016)</a>
 bla bla bla
 
-<a name="id_1688">Sarah J. Maas: A hajnal tornya (2017)</a>
+#### <a name="id_1688">Sarah J. Maas: A hajnal tornya (2017)</a>
 bla bla bla
 
-<a name="id_1687">Sarah J. Maas: Felperzselt királyság (2018)</a>
+#### <a name="id_1687">Sarah J. Maas: Felperzselt királyság (2018)</a>
 bla bla bla
 
-<a name="id_573">Stephen King: Minden haláli (2004)</a>
+#### <a name="id_573">Stephen King: Minden haláli (2004)</a>
 bla bla bla
 
-<a name="id_556">Stephen King: A búra alatt (2014)</a>
+#### <a name="id_556">Stephen King: A búra alatt (2014)</a>
 bla bla bla
 
-<a name="id_557">Stephen King: A búra alatt (2014)</a>
+#### <a name="id_557">Stephen King: A búra alatt (2014)</a>
 bla bla bla
 
-<a name="id_539">Stephen King: A harcos (2016)</a>
+#### <a name="id_539">Stephen King: A harcos (2016)</a>
 bla bla bla
 
-<a name="id_540">Stephen King: A hármak elhívatása (2013)</a>
+#### <a name="id_540">Stephen King: A hármak elhívatása (2013)</a>
 bla bla bla
 
-<a name="id_845">Stephen King: Puszta földek (2004)</a>
+#### <a name="id_845">Stephen King: Puszta földek (2004)</a>
 bla bla bla
 
-<a name="id_846">Stephen King: Varázsló és üveg (2014)</a>
+#### <a name="id_846">Stephen King: Varázsló és üveg (2014)</a>
 bla bla bla
 
-<a name="id_847">Stephen King: Callai farkasok (2015)</a>
+#### <a name="id_847">Stephen King: Callai farkasok (2015)</a>
 bla bla bla
 
-<a name="id_542">Stephen King: Susannah dala (2005)</a>
+#### <a name="id_542">Stephen King: Susannah dala (2005)</a>
 bla bla bla
 
-<a name="id_541">Stephen King: A Setét Torony (2009)</a>
+#### <a name="id_541">Stephen King: A Setét Torony (2009)</a>
 bla bla bla
 
-<a name="id_1268">Stephen King: Átfúj a szél a kulcslyukon (2014)</a>
+#### <a name="id_1268">Stephen King: Átfúj a szél a kulcslyukon (2014)</a>
 bla bla bla
 
-<a name="id_549">Stephen King: A talizmán (2007)</a>
+#### <a name="id_549">Stephen King: A talizmán (2007)</a>
 bla bla bla
 
-<a name="id_118">Stephen King: Az 1-2. (1995)</a>
+#### <a name="id_118">Stephen King: Az 1-2. (1995)</a>
 bla bla bla
 
-<a name="id_119">Stephen King: Az 1-2. (1995)</a>
+#### <a name="id_119">Stephen King: Az 1-2. (1995)</a>
 bla bla bla
 
-<a name="id_931">Stephen King: Aki kapja, marja (2020)</a>
+#### <a name="id_931">Stephen King: Aki kapja, marja (2020)</a>
 bla bla bla
 
-<a name="id_553">Stephen King: Végítélet I-II. (2001)</a>
+#### <a name="id_553">Stephen King: Végítélet I-II. (2001)</a>
 bla bla bla
 
-<a name="id_1213">Stephenie Meyer: Alkonyat (101)</a>
+#### <a name="id_1213">Stephenie Meyer: Alkonyat (101)</a>
 bla bla bla
 
-<a name="id_795">Stephenie Meyer: New Moon – Újhold (2011)</a>
+#### <a name="id_795">Stephenie Meyer: New Moon – Újhold (2011)</a>
 bla bla bla
 
-<a name="id_794">Stephenie Meyer: Eclipse – Napfogyatkozás (2011)</a>
+#### <a name="id_794">Stephenie Meyer: Eclipse – Napfogyatkozás (2011)</a>
 bla bla bla
 
-<a name="id_793">Stephenie Meyer: Breaking Dawn – Hajnalhasadás (2013)</a>
+#### <a name="id_793">Stephenie Meyer: Breaking Dawn – Hajnalhasadás (2013)</a>
 bla bla bla
 
-<a name="id_29">Stieg Larsson: A tetovált lány (2019)</a>
+#### <a name="id_29">Stieg Larsson: A tetovált lány (2019)</a>
 bla bla bla
 
-<a name="id_26">Stieg Larsson: A lány, aki a tűzzel játszik (2019)</a>
+#### <a name="id_26">Stieg Larsson: A lány, aki a tűzzel játszik (2019)</a>
 bla bla bla
 
-<a name="id_27">Stieg Larsson: A kártyavár összedől (2019)</a>
+#### <a name="id_27">Stieg Larsson: A kártyavár összedől (2019)</a>
 bla bla bla
 
-<a name="id_1456">Sue Townsend: Adrian Mole és a tömegpusztító fegyverek (2010)</a>
+#### <a name="id_1456">Sue Townsend: Adrian Mole és a tömegpusztító fegyverek (2010)</a>
 bla bla bla
 
-<a name="id_81">Suzanne Collins: Az éhezők viadala (2021)</a>
+#### <a name="id_81">Suzanne Collins: Az éhezők viadala (2021)</a>
 bla bla bla
 
-<a name="id_82">Suzanne Collins: Futótűz (2020)</a>
+#### <a name="id_82">Suzanne Collins: Futótűz (2020)</a>
 bla bla bla
 
-<a name="id_83">Suzanne Collins: A kiválasztott (2020)</a>
+#### <a name="id_83">Suzanne Collins: A kiválasztott (2020)</a>
 bla bla bla
 
-<a name="id_1344">Szabó, Magda: Egy czitrom hajával (2018)</a>
+#### <a name="id_1344">Szabó, Magda: Egy czitrom hajával (2018)</a>
 bla bla bla
 
-<a name="id_462">Szergej Lukjanyenko: Alkonyi őrség (2008)</a>
+#### <a name="id_462">Szergej Lukjanyenko: Alkonyi őrség (2008)</a>
 bla bla bla
 
-<a name="id_457">Szergej Lukjanyenko: Utolsó őrség (2008)</a>
+#### <a name="id_457">Szergej Lukjanyenko: Utolsó őrség (2008)</a>
 bla bla bla
 
-<a name="id_458">Szergej Lukjanyenko: Új Őrség (2012)</a>
+#### <a name="id_458">Szergej Lukjanyenko: Új Őrség (2012)</a>
 bla bla bla
 
-<a name="id_461">Szergej Lukjanyenko: Éjszakai őrség (2006)</a>
+#### <a name="id_461">Szergej Lukjanyenko: Éjszakai őrség (2006)</a>
 bla bla bla
 
-<a name="id_459">Szergej Lukjanyenko: Nappali őrség (2007)</a>
+#### <a name="id_459">Szergej Lukjanyenko: Nappali őrség (2007)</a>
 bla bla bla
 
-<a name="id_696">Terry Pratchett: A mágia színe (2008)</a>
+#### <a name="id_696">Terry Pratchett: A mágia színe (2008)</a>
 bla bla bla
 
-<a name="id_695">Terry Pratchett: A mágia fénye (2009)</a>
+#### <a name="id_695">Terry Pratchett: A mágia fénye (2009)</a>
 bla bla bla
 
-<a name="id_694">Terry Pratchett: Egyenjogú rítusok (2010)</a>
+#### <a name="id_694">Terry Pratchett: Egyenjogú rítusok (2010)</a>
 bla bla bla
 
-<a name="id_762">Terry Pratchett: Mort, a halál kisinasa (101)</a>
+#### <a name="id_762">Terry Pratchett: Mort, a halál kisinasa (101)</a>
 bla bla bla
 
-<a name="id_697">Terry Pratchett: Bűbájos bajok (1999)</a>
+#### <a name="id_697">Terry Pratchett: Bűbájos bajok (1999)</a>
 bla bla bla
 
-<a name="id_689">Terry Pratchett: Vészbanyák (2011)</a>
+#### <a name="id_689">Terry Pratchett: Vészbanyák (2011)</a>
 bla bla bla
 
-<a name="id_699">Terry Pratchett: Erik (1996)</a>
+#### <a name="id_699">Terry Pratchett: Erik (1996)</a>
 bla bla bla
 
-<a name="id_690">Terry Pratchett: Vége a mesének (2011)</a>
+#### <a name="id_690">Terry Pratchett: Vége a mesének (2011)</a>
 bla bla bla
 
-<a name="id_761">Terry Pratchett: Kisistenek (2013)</a>
+#### <a name="id_761">Terry Pratchett: Kisistenek (2013)</a>
 bla bla bla
 
-<a name="id_691">Terry Pratchett: Hölgyek és urak (2007)</a>
+#### <a name="id_691">Terry Pratchett: Hölgyek és urak (2007)</a>
 bla bla bla
 
-<a name="id_698">Terry Pratchett: Érdekes idők (2010)</a>
+#### <a name="id_698">Terry Pratchett: Érdekes idők (2010)</a>
 bla bla bla
 
-<a name="id_692">Terry Pratchett: Maszkabál (2010)</a>
+#### <a name="id_692">Terry Pratchett: Maszkabál (2010)</a>
 bla bla bla
 
-<a name="id_700">Terry Pratchett: Kallódó kontinens (2012)</a>
+#### <a name="id_700">Terry Pratchett: Kallódó kontinens (2012)</a>
 bla bla bla
 
-<a name="id_693">Terry Pratchett: Carpe Jugulum (101)</a>
+#### <a name="id_693">Terry Pratchett: Carpe Jugulum (101)</a>
 bla bla bla
 
-<a name="id_1017">Tersánszky, Józsi Jenő: A tiroli kocsmáros (101)</a>
+#### <a name="id_1017">Tersánszky, Józsi Jenő: A tiroli kocsmáros (101)</a>
 bla bla bla
 
-<a name="id_1012">Tersánszky, Józsi Jenő: A tiroli kocsmáros (2016)</a>
+#### <a name="id_1012">Tersánszky, Józsi Jenő: A tiroli kocsmáros (2016)</a>
 bla bla bla
 
-<a name="id_617">Thomas Enger: Hegek (2014)</a>
+#### <a name="id_617">Thomas Enger: Hegek (2014)</a>
 bla bla bla
 
-<a name="id_1031">Thomas Harris: A vörös sárkány (2018)</a>
+#### <a name="id_1031">Thomas Harris: A vörös sárkány (2018)</a>
 bla bla bla
 
-<a name="id_1032">Thomas Harris: A bárányok hallgatnak (2019)</a>
+#### <a name="id_1032">Thomas Harris: A bárányok hallgatnak (2019)</a>
 bla bla bla
 
-<a name="id_1030">Tom Clancy: Vadászat a Vörös Októberre (2019)</a>
+#### <a name="id_1030">Tom Clancy: Vadászat a Vörös Októberre (2019)</a>
 bla bla bla
 
-<a name="id_1011">Tom Wood: Az ellenség (2013)</a>
+#### <a name="id_1011">Tom Wood: Az ellenség (2013)</a>
 bla bla bla
 
-<a name="id_839">Vlagyimir Szorokin: A jég (2019)</a>
+#### <a name="id_839">Vlagyimir Szorokin: A jég (2019)</a>
 bla bla bla
 
-<a name="id_840">Vlagyimir Szorokin: Bro útja (2019)</a>
+#### <a name="id_840">Vlagyimir Szorokin: Bro útja (2019)</a>
 bla bla bla
 
-<a name="id_838">Vlagyimir Szorokin: 23000 (2019)</a>
+#### <a name="id_838">Vlagyimir Szorokin: 23000 (2019)</a>
 bla bla bla
 
-<a name="id_842">Vlagyimir Szorokin: Az opricsnyik egy napja (2019)</a>
+#### <a name="id_842">Vlagyimir Szorokin: Az opricsnyik egy napja (2019)</a>
 bla bla bla
 
-<a name="id_841">Vlagyimir Szorokin: Cukor Kreml (2009)</a>
+#### <a name="id_841">Vlagyimir Szorokin: Cukor Kreml (2009)</a>
 bla bla bla
 
-<a name="id_460">Vlagyimir Vasziljev: Káosz-Őrség (2008)</a>
+#### <a name="id_460">Vlagyimir Vasziljev: Káosz-Őrség (2008)</a>
 bla bla bla
 
-<a name="id_320">W. E. B. Griffin: Hadnagyok (2005)</a>
+#### <a name="id_320">W. E. B. Griffin: Hadnagyok (2005)</a>
 bla bla bla
 
-<a name="id_321">W. E. B. Griffin: Különleges kommandósok I-II. (2005)</a>
+#### <a name="id_321">W. E. B. Griffin: Különleges kommandósok I-II. (2005)</a>
 bla bla bla
 
