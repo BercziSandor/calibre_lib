@@ -2016,7 +2016,7 @@ Sorozatok:
 
 Joona Linna:
 
-- 1 (2009) - A hipnotizőr [részletek](#id_1681)
+- 1 (2009) - A hipnotizőr [részletek](#id_1681) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/A%20hipnotizor%20%281681%29/A%20hipnotizor%20-%20Lars%20Kepler.epub)
 - 2 (2019) - A Paganini-szerződés [részletek](#id_674) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/A%20Paganini-szerzodes%20%28674%29/A%20Paganini-szerzodes%20-%20Lars%20Kepler.epub)
 - 3 (2011) - A tűz tanúja [részletek](#id_1677) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/A%20tuz%20tanuja%20%281677%29/A%20tuz%20tanuja%20-%20Lars%20Kepler.epub)
 - 4 (2011) - A Bosszúálló [részletek](#id_1678)
