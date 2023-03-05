@@ -1,0 +1,4494 @@
+# Könyvek
+
+1. [Szerzők szerint](#szerzők-szerint)
+
+## Szerzők szerint
+
+### A. G. Hawk
+
+- (2015) - Időtlenségbe zárva [details](#id_949) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/A.%20G.%20Hawk/Idotlensegbe%20zarva%20%28949%29/Idotlensegbe%20zarva%20-%20A.%20G.%20Hawk.epub)
+
+### Aaron F. Loacher
+
+- (1998) - Időjárőr [details](#id_999) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aaron%20F.%20Loacher/Idojaror%20%28999%29/Idojaror%20-%20Aaron%20F.%20Loacher.epub)
+
+### Abe Kóbó
+
+Sorozatok:
+
+Kozmosz (KFK):
+
+- 4 (2008) - A negyedik jégkorszak [details](#id_948) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Abe%20Kobo/A%20negyedik%20jegkorszak%20%28948%29/A%20negyedik%20jegkorszak%20-%20Abe%20Kobo.epub)
+
+### Achim Lucchesi
+
+- (101) - "Die Bombe is' eh im Koffer" - Geschichten aus dem Handgepäck [details](#id_605) [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Achim%20Lucchesi/_Die%20Bombe%20is%27%20eh%20im%20Koffer_%20-%20Gesc%20%28605%29/_Die%20Bombe%20is%27%20eh%20im%20Koffer_%20-%20%20-%20Achim%20Lucchesi.pdf)
+
+### Adams, Douglas
+
+Sorozatok:
+
+Galaxis utikalauz stopposoknak:
+
+- 1 (101) - Galaxis útikalauz stopposoknak [details](#id_197) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Adams%2C%20Douglas/Galaxis%20utikalauz%20stopposoknak%20%28197%29/Galaxis%20utikalauz%20stopposoknak%20-%20Adams%2C%20Douglas.epub)
+- 2 (101) - Vendéglő a Világ Végén [details](#id_199) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Adams%2C%20Douglas/Vendeglo%20a%20Vilag%20Vegen%20%28199%29/Vendeglo%20a%20Vilag%20Vegen%20-%20Adams%2C%20Douglas.epub)
+- 3 (101) - Az Élet, a Világmindenség meg Minden [details](#id_196) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Adams%2C%20Douglas/Az%20Elet%2C%20a%20Vilagmindenseg%20meg%20Minden%20%28196%29/Az%20Elet%2C%20a%20Vilagmindenseg%20meg%20M%20-%20Adams%2C%20Douglas.epub)
+- 4 (101) - Viszlát, és kösz a halakat! [details](#id_200) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Adams%2C%20Douglas/Viszlat%2C%20es%20kosz%20a%20halakat%21%20%28200%29/Viszlat%2C%20es%20kosz%20a%20halakat%21%20-%20Adams%2C%20Douglas.epub)
+- 5 (101) - Jobbára ártalmatlan [details](#id_198) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Adams%2C%20Douglas/Jobbara%20artalmatlan%20%28198%29/Jobbara%20artalmatlan%20-%20Adams%2C%20Douglas.epub)
+
+### Agatha Christie
+
+Sorozatok:
+
+A titkos ellenfél:
+
+- 1 (2015) - A titkos ellenfél [details](#id_236) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titkos%20ellenfel%20%28236%29/A%20titkos%20ellenfel%20-%20Agatha%20Christie.epub)
+- 2 (2015) - A titkos ellenfél [details](#id_237) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titkos%20ellenfel%20%28237%29/A%20titkos%20ellenfel%20-%20Agatha%20Christie.epub)
+
+Battle főfelügyelő:
+
+- 5 (2008) - Éjféltájt [details](#id_66) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Ejfeltajt%20%2866%29/Ejfeltajt%20-%20Agatha%20Christie.epub)
+
+Hercule:
+
+- 1 (2020) - Az álmok háza [details](#id_241) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20almok%20haza%20%28241%29/Az%20almok%20haza%20-%20Agatha%20Christie.epub)
+
+Hercule Poirot:
+
+- 4 (2018) - Az Ackroyd-gyilkosság [details](#id_63) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20Ackroyd-gyilkossag%20%2863%29/Az%20Ackroyd-gyilkossag%20-%20Agatha%20Christie.epub)
+- 5 (1993) - A titokzatos Négyes [details](#id_238) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20Negyes%20%28238%29/A%20titokzatos%20Negyes%20-%20Agatha%20Christie.epub)
+- 8 (2011) - Ház a sziklán [details](#id_249) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Haz%20a%20sziklan%20%28249%29/Haz%20a%20sziklan%20-%20Agatha%20Christie.epub)
+- 12 (2010) - Halál a felhők között [details](#id_69) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Halal%20a%20felhok%20kozott%20%2869%29/Halal%20a%20felhok%20kozott%20-%20Agatha%20Christie.epub)
+- 17 (2018) - Halál a Níluson [details](#id_75) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Halal%20a%20Niluson%20%2875%29/Halal%20a%20Niluson%20-%20Agatha%20Christie.epub)
+- 23 (2018) - Nyaraló gyilkosok [details](#id_73) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Nyaralo%20gyilkosok%20%2873%29/Nyaralo%20gyilkosok%20-%20Agatha%20Christie.epub)
+- 25 (2011) - Hétvégi gyilkosság [details](#id_251) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Hetvegi%20gyilkossag%20%28251%29/Hetvegi%20gyilkossag%20-%20Agatha%20Christie.epub)
+- 28 (2011) - Mrs. McGinty meghalt [details](#id_252) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Mrs.%20McGinty%20meghalt%20%28252%29/Mrs.%20McGinty%20meghalt%20-%20Agatha%20Christie.epub)
+- 29 (2018) - Temetni veszélyes [details](#id_78) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Temetni%20veszelyes%20%2878%29/Temetni%20veszelyes%20-%20Agatha%20Christie.epub)
+- 35 (2009) - A harmadik lány [details](#id_234) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20harmadik%20lany%20%28234%29/A%20harmadik%20lany%20-%20Agatha%20Christie.epub)
+- 37 (2012) - A titokzatos stylesi eset / Függöny [details](#id_239) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20stylesi%20eset%20_%20Fuggony%20%28239%29/A%20titokzatos%20stylesi%20eset%20_%20Fug%20-%20Agatha%20Christie.epub)
+- 38 (1994) - Poirot bravúrjai I. [details](#id_257) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Poirot%20bravurjai%20I_%20%28257%29/Poirot%20bravurjai%20I_%20-%20Agatha%20Christie.epub)
+
+Miss Marple:
+
+- 1 (2011) - Gyilkosság a paplakban [details](#id_68) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Gyilkossag%20a%20paplakban%20%2868%29/Gyilkossag%20a%20paplakban%20-%20Agatha%20Christie.epub)
+- 2 (2007) - Tizenhárom rejtély [details](#id_259) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Tizenharom%20rejtely%20%28259%29/Tizenharom%20rejtely%20-%20Agatha%20Christie.epub)
+- 3 (1969) - Holttest a könyvtárszobában [details](#id_71) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Holttest%20a%20konyvtarszobaban%20%2871%29/Holttest%20a%20konyvtarszobaban%20-%20Agatha%20Christie.epub)
+- 4 (2009) - Nem zörög a haraszt [details](#id_311) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Nem%20zorog%20a%20haraszt%20%28311%29/Nem%20zorog%20a%20haraszt%20-%20Agatha%20Christie.epub)
+- 8 (2020) - Paddington 16.50 [details](#id_74) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Paddington%2016.50%20%2874%29/Paddington%2016.50%20-%20Agatha%20Christie.epub)
+- 10 (2020) - Rejtély az Antillákon [details](#id_76) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Rejtely%20az%20Antillakon%20%2876%29/Rejtely%20az%20Antillakon%20-%20Agatha%20Christie.epub)
+- 12 (2011) - Nemezis [details](#id_72) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Nemezis%20%2872%29/Nemezis%20-%20Agatha%20Christie.epub)
+- 13 (2018) - Szunnyadó gyilkosság [details](#id_77) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Szunnyado%20gyilkossag%20%2877%29/Szunnyado%20gyilkossag%20-%20Agatha%20Christie.epub)
+
+Race ezredes:
+
+- 4 (2010) - Gyöngyöző cián [details](#id_247) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Gyongyozo%20cian%20%28247%29/Gyongyozo%20cian%20-%20Agatha%20Christie.epub)
+
+Tommy és Tuppence:
+
+- 2 (1997) - No. 16 [details](#id_254) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/No.%2016%20%28254%29/No.%2016%20-%20Agatha%20Christie.epub)
+- 4 (2015) - Balhüvelykem bizsereg [details](#id_242) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Balhuvelykem%20bizsereg%20%28242%29/Balhuvelykem%20bizsereg%20-%20Agatha%20Christie.epub)
+
+Egyéb könyvek:
+
+- (1996) - Parker Pyne nyomoz [details](#id_255) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Parker%20Pyne%20nyomoz%20%28255%29/Parker%20Pyne%20nyomoz%20-%20Agatha%20Christie.epub)
+- (2010) - Három vak egér [details](#id_70) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Harom%20vak%20eger%20%2870%29/Harom%20vak%20eger%20-%20Agatha%20Christie.epub)
+- (2012) - Ellopott gyilkosság [details](#id_67) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Ellopott%20gyilkossag%20%2867%29/Ellopott%20gyilkossag%20-%20Agatha%20Christie.epub)
+- (2013) - Eljöttek Bagdadba [details](#id_65) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Eljottek%20Bagdadba%20%2865%29/Eljottek%20Bagdadba%20-%20Agatha%20Christie.epub)
+- (2016) - Tíz kicsi néger [details](#id_79) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Tiz%20kicsi%20neger%20%2879%29/Tiz%20kicsi%20neger%20-%20Agatha%20Christie.epub)
+- (2018) - A ferde ház [details](#id_64) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20ferde%20haz%20%2864%29/A%20ferde%20haz%20-%20Agatha%20Christie.epub)
+- (2018) - A vád tanúja [details](#id_240) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20vad%20tanuja%20%28240%29/A%20vad%20tanuja%20-%20Agatha%20Christie.epub)
+- (2018) - És eljő a halál… [details](#id_312) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Es%20eljo%20a%20halal__%20%28312%29/Es%20eljo%20a%20halal__%20-%20Agatha%20Christie.epub)
+
+### Akunyin, Borisz
+
+Sorozatok:
+
+A Magiszter Kalandjai:
+
+- 1 (2012) - A cár könyvtára [details](#id_1108) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/A%20car%20konyvtara%20%281108%29/A%20car%20konyvtara%20-%20Akunyin%2C%20Borisz.epub)
+- 2 (2014) - Magiszter-2-Ajánlott ​olvasmányok [details](#id_1109) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Magiszter-2-Ajanlott%20%20olvasmanyok%20%281109%29/Magiszter-2-Ajanlott%20%20olvasmany%20-%20Akunyin%2C%20Borisz.epub)
+
+Fandorin:
+
+- 1 (2015) - Azazel [details](#id_915) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Azazel%20%28915%29/Azazel%20-%20Akunyin%2C%20Borisz.epub)
+- 2 (2003) - Török csel [details](#id_917) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Torok%20csel%20%28917%29/Torok%20csel%20-%20Akunyin%2C%20Borisz.epub)
+- 3 (2004) - Leviathan [details](#id_910) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Leviathan%20%28910%29/Leviathan%20-%20Akunyin%2C%20Borisz.epub)
+- 4 (2007) - Akhilleusz halála [details](#id_913) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Akhilleusz%20halala%20%28913%29/Akhilleusz%20halala%20-%20Akunyin%2C%20Borisz.epub)
+- 5 (2008) - Különleges megbízatások [details](#id_911) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Kulonleges%20megbizatasok%20%28911%29/Kulonleges%20megbizatasok%20-%20Akunyin%2C%20Borisz.epub)
+- 6 (2009) - Az államtanácsos [details](#id_912) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Az%20allamtanacsos%20%28912%29/Az%20allamtanacsos%20-%20Akunyin%2C%20Borisz.epub)
+- 7 (101) - A koronázás [details](#id_914) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/A%20koronazas%20%28914%29/A%20koronazas%20-%20Akunyin%2C%20Borisz.epub)
+- 8 (2010) - A halál szerelmese [details](#id_916) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/A%20halal%20szerelmese%20%28916%29/A%20halal%20szerelmese%20-%20Akunyin%2C%20Borisz.epub)
+- 9 (2010) - Halál szeretője [details](#id_963) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Halal%20szeretoje%20%28963%29/Halal%20szeretoje%20-%20Akunyin%2C%20Borisz.epub)
+- 10 (2011) - A ​gyémántszekér I-II. [details](#id_1110) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/A%20%20gyemantszeker%20I-II_%20%281110%29/A%20%20gyemantszeker%20I-II_%20-%20Akunyin%2C%20Borisz.epub)
+- 11 (2013) - Színház ​az egész világ [details](#id_1107) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Szinhaz%20%20az%20egesz%20vilag%20%281107%29/Szinhaz%20%20az%20egesz%20vilag%20-%20Akunyin%2C%20Borisz.epub)
+- 12 (2015) - A fekete város [details](#id_1111) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/A%20fekete%20varos%20%281111%29/A%20fekete%20varos%20-%20Akunyin%2C%20Borisz.epub)
+
+Egyéb könyvek:
+
+- (2008) - Temetői történetek [details](#id_714) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Temetoi%20tortenetek%20%28714%29/Temetoi%20tortenetek%20-%20Akunyin%2C%20Borisz.epub)
+
+### Alan Glynn
+
+- (2011) - Csúcshatás [details](#id_295) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Alan%20Glynn/Csucshatas%20%28295%29/Csucshatas%20-%20Alan%20Glynn.epub)
+
+### Albert, Györgyi
+
+- (2005) - Miért pont én? [details](#id_530) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Albert%2C%20Gyorgyi/Miert%20pont%20en_%20%28530%29/Miert%20pont%20en_%20-%20Albert%2C%20Gyorgyi.epub)
+
+### Aldous Huxley
+
+- (2007) - Moksha a tudat határai [details](#id_947) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aldous%20Huxley/Moksha%20a%20tudat%20hatarai%20%28947%29/Moksha%20a%20tudat%20hatarai%20-%20Aldous%20Huxley.epub)
+
+### Alex Garland
+
+- (2000) - A Part [details](#id_1269) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Alex%20Garland/A%20Part%20%281269%29/A%20Part%20-%20Alex%20Garland.epub)
+
+### Alexander McCall Smith
+
+Sorozatok:
+
+No. 1. Női Nyomozóiroda:
+
+- 1 (2003) - Az első női detektív iroda [details](#id_921) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Alexander%20McCall%20Smith/Az%20elso%20noi%20detektiv%20iroda%20%28Az%20Elso%20%28921%29/Az%20elso%20noi%20detektiv%20iroda%20-%20Alexander%20McCall%20Smith.epub)
+- 2 (2003) - Zsiráfkönnyek [details](#id_920) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Alexander%20McCall%20Smith/Zsirafkonnyek%20%28920%29/Zsirafkonnyek%20-%20Alexander%20McCall%20Smith.epub)
+- 3 (2003) - Erkölcstan szép lányoknak [details](#id_918) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Alexander%20McCall%20Smith/Erkolcstan%20Szep%20Lanyoknak%20%28918%29/Erkolcstan%20szep%20lanyoknak%20-%20Alexander%20McCall%20Smith.epub)
+- 4 (2004) - Kalahári gépíróiskola férfiak részére [details](#id_919) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Alexander%20McCall%20Smith/Kalahari%20gepiroiskola%20ferfiak%20resze%20%28919%29/Kalahari%20gepiroiskola%20ferfiak%20r%20-%20Alexander%20McCall%20Smith.epub)
+
+### Alexandra Fischer-Hunold
+
+Sorozatok:
+
+Sódervári Sherlock báró:
+
+- 1 (2010) - Kincsvadász kísértet [details](#id_1414)
+- 2 (2011) - Szörnyűséges születésnap [details](#id_1415)
+- 3 (2011) - A dilinyós tűzbarát [details](#id_1416)
+- 4 (2011) - Malaclopás a Kedvenckertben [details](#id_1417)
+
+### Allan Pease
+
+- (2011) - Szó-beszéd [details](#id_3) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Allan%20Pease/Szo-beszed%20%283%29/Szo-beszed%20-%20Allan%20Pease.epub)
+
+### Amanda Silver
+
+- (1995) - A kéz, amely a bölcsőt ringatja [details](#id_952) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Amanda%20Silver/A%20kez%2C%20amely%20a%20bolcsot%20ringatja%20%28952%29/A%20kez%2C%20amely%20a%20bolcsot%20ringatja%20-%20Amanda%20Silver.epub)
+
+### Amélie Poinssot
+
+- (2020) - Orbán Viktor fejében [details](#id_1644) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Amelie%20Poinssot/Orban%20Viktor%20fejeben%20%281644%29/Orban%20Viktor%20fejeben%20-%20Amelie%20Poinssot.epub)
+
+### Andrea Schacht
+
+Sorozatok:
+
+Almut Bossart:
+
+- 1 (2004) - A sötét tükör [details](#id_951) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Andrea%20Schacht/A%20sotet%20tukor%20%28951%29/A%20sotet%20tukor%20-%20Andrea%20Schacht.epub)
+
+### Ann Aguirre
+
+Sorozatok:
+
+Razorland-trilógia:
+
+- 1 (2014) - Menedék [details](#id_1518) [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Ann%20Aguirre/Menedek%20%281518%29/Menedek%20-%20Ann%20Aguirre.pdf)
+
+### Anna Gavalda
+
+- (2010) - Kis kiruccanás [details](#id_1427) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/Kis%20kiruccanas%20%281427%29/Kis%20kiruccanas%20-%20Anna%20Gavalda.epub)
+- (2015) - Billie [details](#id_959) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/Billie%20%28959%29/Billie%20-%20Anna%20Gavalda.epub)
+- (2016) - Együtt lehetnénk [details](#id_1306) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/Egyutt%20lehetnenk%20%281306%29/Egyutt%20lehetnenk%20-%20Anna%20Gavalda.epub)
+- (2018) - 35 kiló remény [details](#id_1308) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/35%20kilo%20remeny%20%281308%29/35%20kilo%20remeny%20-%20Anna%20Gavalda.epub)
+- (2018) - Csak azt szeretném, ha valaki várna rám valahol [details](#id_1305) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/Csak%20azt%20szeretnem%2C%20ha%20valaki%20varna%20%281305%29/Csak%20azt%20szeretnem%2C%20ha%20valaki%20v%20-%20Anna%20Gavalda.epub)
+- (2018) - Vigaszág [details](#id_15) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/Vigaszag%20%2815%29/Vigaszag%20-%20Anna%20Gavalda.epub)
+- (2019) - Életre kelni [details](#id_1303) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/Eletre%20kelni%20%281303%29/Eletre%20kelni%20-%20Anna%20Gavalda.epub)
+- (2019) - Szerettem őt [details](#id_1304) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/Szerettem%20ot%20%281304%29/Szerettem%20ot%20-%20Anna%20Gavalda.epub)
+
+### Anne Holt
+
+- (2013) - 1222 [details](#id_958) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Anne%20Holt/1222%20%28958%29/1222%20-%20Anne%20Holt.epub)
+
+### Antal, Balázs
+
+- (2003) - Öreg [details](#id_1203) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Antal%2C%20Balazs/Oreg%20%281203%29/Oreg%20-%20Antal%2C%20Balazs.epub)
+
+### Anthony E. Zuiker
+
+- (101) - 26 – sötét kezdetek [details](#id_666) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Anthony%20E.%20Zuiker/26%20-%20sotet%20kezdetek%20%28666%29/26%20-%20sotet%20kezdetek%20-%20Anthony%20E.%20Zuiker.epub)
+
+### Arne Dahl
+
+Sorozatok:
+
+Berger & Blom:
+
+- 1 (2016) - Valaki figyel [details](#id_1664) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Arne%20Dahl/Valaki%20figyel%20%281664%29/Valaki%20figyel%20-%20Arne%20Dahl.epub)
+- 2 (2017) - Hajsza [details](#id_1666) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Arne%20Dahl/Hajsza%20%281666%29/Hajsza%20-%20Arne%20Dahl.epub)
+
+Misterioso:
+
+- 1 (1998) - Misterioso [details](#id_1667) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Arne%20Dahl/Misterioso%20%281667%29/Misterioso%20-%20Arne%20Dahl.epub)
+- 2 (2017) - Rossz vér [details](#id_1668) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Arne%20Dahl/Rossz%20ver%20%281668%29/Rossz%20ver%20-%20Arne%20Dahl.epub)
+
+### Árpa Attila
+
+- (2003) - Ha én ezt a klubról egyszer elmesélem [details](#id_517) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Arpa%20Attila/Ha%20en%20ezt%20a%20klubrol%20egyszer%20elmeselem%20%28517%29/Ha%20en%20ezt%20a%20klubrol%20egyszer%20elm%20-%20Arpa%20Attila.epub)
+
+### Arthur Golden
+
+- (2001) - Egy gésa emlékiratai [details](#id_280) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Arthur%20Golden/Egy%20gesa%20emlekiratai%20%28280%29/Egy%20gesa%20emlekiratai%20-%20Arthur%20Golden%20%28Case%20Conflict%29.epub)
+
+### Arthur Ransome
+
+Sorozatok:
+
+Fecskék és Fruskák:
+
+- 2 (2008) - Fecske-völgy [details](#id_422) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Arthur%20Ransome/Fecske-volgy%20%28422%29/Fecske-volgy%20-%20Arthur%20Ransome.epub)
+- 3 (2011) - A kincskeresők [details](#id_423) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Arthur%20Ransome/A%20Kincskeresok%20%28423%29/A%20kincskeresok%20-%20Arthur%20Ransome.epub)
+- 4 (2012) - Téli szünidő [details](#id_429) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Arthur%20Ransome/Teli%20szunido%20%28429%29/Teli%20szunido%20-%20Arthur%20Ransome.epub)
+- 6 (2016) - Galambposta [details](#id_431) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Arthur%20Ransome/Galambposta%20%28431%29/Galambposta%20-%20Arthur%20Ransome.epub)
+- 7 (1998) - Nem akartunk tengerre szállni [details](#id_430) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Arthur%20Ransome/Nem%20akartunk%20tengerre%20szallni%20%28430%29/Nem%20akartunk%20tengerre%20szallni%20-%20Arthur%20Ransome.epub)
+
+### Arto Paasilinna
+
+- (1983) - A nyúl éve [details](#id_634) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Arto%20Paasilinna/A%20nyul%20eve%20%28634%29/A%20nyul%20eve%20-%20Arto%20Paasilinna.epub)
+
+### Åsa Larsson
+
+- (2012) - Kristálytemplom [details](#id_681) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Asa%20Larsson/Kristalytemplom%20%28681%29/Kristalytemplom%20-%20Asa%20Larsson.epub)
+
+### Åsa Schwarz
+
+Sorozatok:
+
+Nova Barakel:
+
+- 1 (2011) - Nefilim [details](#id_683) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Asa%20Schwarz/Nefilim%20%28683%29/Nefilim%20-%20Asa%20Schwarz.epub)
+- 2 (2011) - Halott angyal [details](#id_684) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Asa%20Schwarz/Halott%20angyal%20%28684%29/Halott%20angyal%20-%20Asa%20Schwarz.epub)
+
+### Asher Jay
+
+- (2011) - Tizenhárom okom volt... – KEMÉNYTÁBLA [details](#id_786)
+
+### Asimov, Isaac
+
+Sorozatok:
+
+Alapítvány-Birodalom-Robot:
+
+- 1 (1993) - Robottörténetek I-II. [details](#id_1172) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Asimov%2C%20Isaac/Robottortenetek%20I-II_%20%281172%29/Robottortenetek%20I-II_%20-%20Asimov%2C%20Isaac.epub)
+
+Egyéb könyvek:
+
+- (1987) - A robbanó Napok [details](#id_1188) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Asimov%2C%20Isaac/A%20robbano%20Napok%20%281188%29/A%20robbano%20Napok%20-%20Asimov%2C%20Isaac.epub)
+- (1992) - Útikalauz [details](#id_1171) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Asimov%2C%20Isaac/Utikalauz%20%281171%29/Utikalauz%20-%20Asimov%2C%20Isaac.epub)
+
+### Aszlányi, Károly
+
+- (101) - Az Északi Park felfedezése [details](#id_851) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Az%20Eszaki%20Park%20felfedezese%20%28851%29/Az%20Eszaki%20Park%20felfedezese%20-%20Aszlanyi%2C%20Karoly.epub)
+- (2007) - Sok hűhó Emmiért [details](#id_853) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Sok%20huho%20Emmiert%20%28853%29/Sok%20huho%20Emmiert%20-%20Aszlanyi%2C%20Karoly.epub)
+- (2010) - Pénz a láthatáron [details](#id_852) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Penz%20a%20lathataron%20%28852%29/Penz%20a%20lathataron%20-%20Aszlanyi%2C%20Karoly.epub)
+- (2011) - Brentford rendet csinál [details](#id_854) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Brentford%20rendet%20csinal%20%28854%29/Brentford%20rendet%20csinal%20-%20Aszlanyi%2C%20Karoly.epub)
+- (2011) - Haybodyt nem lehet agyonütni [details](#id_855) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Haybodyt%20nem%20lehet%20agyonutni%20%28855%29/Haybodyt%20nem%20lehet%20agyonutni%20-%20Aszlanyi%2C%20Karoly.epub)
+- (2011) - Hét pofon [details](#id_850) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Het%20pofon%20%28850%29/Het%20pofon%20-%20Aszlanyi%2C%20Karoly.epub)
+- (2012) - Kalandos vakáció [details](#id_787) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Kalandos%20vakacio%20%28787%29/Kalandos%20vakacio%20-%20Aszlanyi%2C%20Karoly.epub)
+
+### Augusten Burroughs
+
+- (2008) - Farkas az asztalnál [details](#id_977) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Augusten%20Burroughs/Farkas%20az%20asztalnal%20%28977%29/Farkas%20az%20asztalnal%20-%20Augusten%20Burroughs.epub)
+- (2010) - Kiszáradva [details](#id_968) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Augusten%20Burroughs/Kiszaradva%20%28968%29/Kiszaradva%20-%20Augusten%20Burroughs.epub)
+
+### Aurelius, Marcus
+
+- (1983) - Marcus Aurelius elmélkedései [details](#id_856) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aurelius%2C%20Marcus/Marcus%20Aurelius%20elmelkedesei%20%28856%29/Marcus%20Aurelius%20elmelkedesei%20-%20Aurelius%2C%20Marcus.epub)
+
+### Badár, Sándor
+
+- (2010) - Jappán [details](#id_1710) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Badar%2C%20Sandor/Jappan%20%281710%29/Jappan%20-%20Badar%2C%20Sandor.epub)
+- (2015) - Ámerika avagy a véredény nyomában [details](#id_1709) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Badar%2C%20Sandor/Amerika%20avagy%20a%20veredeny%20nyomaban%20%281709%29/Amerika%20avagy%20a%20veredeny%20nyomab%20-%20Badar%2C%20Sandor.epub)
+
+### Bálint, Ágnes
+
+Sorozatok:
+
+Szeleburdi család:
+
+- 1 (2018) - Szeleburdi család [details](#id_161) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Balint%2C%20Agnes/Szeleburdi%20csalad%20%28161%29/Szeleburdi%20csalad%20-%20Balint%2C%20Agnes.epub)
+
+Egyéb könyvek:
+
+- (2015) - Az elvarázsolt egérkisasszony [details](#id_534) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Balint%2C%20Agnes/Az%20elvarazsolt%20egerkisasszony%20%28534%29/Az%20elvarazsolt%20egerkisasszony%20-%20Balint%2C%20Agnes.epub)
+
+### Barbara Pease
+
+Sorozatok:
+
+Hétköznapi pszichológia:
+
+- 50 (2014) - Miért hazudik a férfi? Miért sír a nő? [details](#id_5) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Barbara%20Pease/Miert%20hazudik%20a%20ferfi_%20Miert%20sir%20a%20n%20%285%29/Miert%20hazudik%20a%20ferfi_%20Miert%20si%20-%20Barbara%20Pease.epub)
+
+Egyéb könyvek:
+
+- (2011) - A férfinak szex kell, a nőnek szerelem [details](#id_576) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Barbara%20Pease/A%20ferfinak%20szex%20kell%2C%20a%20nonek%20szere%20%28576%29/A%20ferfinak%20szex%20kell%2C%20a%20nonek%20s%20-%20Barbara%20Pease.epub)
+- (2019) - A testbeszéd enciklopédiája [details](#id_294) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Barbara%20Pease/A%20testbeszed%20enciklopediaja%20%28294%29/A%20testbeszed%20enciklopediaja%20-%20Barbara%20Pease.epub)
+
+### Beck, Judit
+
+- (2003) - Nagy drogkönyv [details](#id_646) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Beck%2C%20Judit/Nagy%20drogkonyv%20%28646%29/Nagy%20drogkonyv%20-%20Beck%2C%20Judit.epub)
+
+### Berg, Judit
+
+Sorozatok:
+
+Rumini:
+
+- 1 (101) - Rumini [details](#id_467) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Rumini%20%28467%29/Rumini%20-%20Berg%2C%20Judit.epub)
+- 2 (2020) - Rumini Zúzmaragyarmaton [details](#id_567) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Rumini%20Zuzmaragyarmaton%20%28567%29/Rumini%20Zuzmaragyarmaton%20-%20Berg%2C%20Judit.epub)
+- 3 (2019) - Rumini és a négy jogar [details](#id_570) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Rumini%20es%20a%20negy%20jogar%20%28570%29/Rumini%20es%20a%20negy%20jogar%20-%20Berg%2C%20Judit.epub)
+
+Egyéb könyvek:
+
+- (2012) - Micsoda Idő! [details](#id_479) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Micsoda%20Ido%21%20%28479%29/Micsoda%20Ido%21%20-%20Berg%2C%20Judit.epub)
+- (2016) - Alma [details](#id_1274) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Alma%20%281274%29/Alma%20-%20Berg%2C%20Judit.epub)
+
+### Bertrice Small
+
+Sorozatok:
+
+Csatorna:
+
+- 1 (2009) - Titkos örömök [details](#id_769) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bertrice%20Small/Titkos%20oromok%20%28769%29/Titkos%20oromok%20-%20Bertrice%20Small.epub)
+
+### Bödőcs, Tibor
+
+- (2019) - Meg se kínáltak [details](#id_1556) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bodocs%2C%20Tibor/Meg%20se%20kinaltak%20%281556%29/Meg%20se%20kinaltak%20-%20Bodocs%2C%20Tibor.epub)
+- (2021) - Addig se iszik [details](#id_1428) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bodocs%2C%20Tibor/Addig%20se%20iszik%20%281428%29/Addig%20se%20iszik%20-%20Bodocs%2C%20Tibor.epub)
+- (2021) - Mulat a Manézs [details](#id_1557) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bodocs%2C%20Tibor/Mulat%20a%20Manezs%20%281557%29/Mulat%20a%20Manezs%20-%20Bodocs%2C%20Tibor.epub)
+
+### Bohumil Hrabal
+
+Sorozatok:
+
+Európa Zsebkönyvek:
+
+- 1 (2008) - Őfelsége pincére voltam [details](#id_446) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Ofelsege%20pincere%20voltam%20%28446%29/Ofelsege%20pincere%20voltam%20-%20Bohumil%20Hrabal.epub)
+
+Házimurik:
+
+- 1 (2012) - Házimurik [details](#id_445) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Hazimurik%20%28445%29/Hazimurik%20-%20Bohumil%20Hrabal.epub)
+- 2 (2009) - Vita nuova [details](#id_453) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Vita%20nuova%20%28453%29/Vita%20nuova%20-%20Bohumil%20Hrabal.epub)
+- 3 (2013) - Foghíjak [details](#id_442) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Foghijak%20%28442%29/Foghijak%20-%20Bohumil%20Hrabal.epub)
+
+Kisvárosi történetek:
+
+- 1 (2017) - Sörgyári capriccio [details](#id_448) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Sorgyari%20capriccio%20%28448%29/Sorgyari%20capriccio%20-%20Bohumil%20Hrabal.epub)
+- 2 (2009) - Díszgyász [details](#id_440) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Diszgyasz%20%28440%29/Diszgyasz%20-%20Bohumil%20Hrabal.epub)
+
+Egyéb könyvek:
+
+- (101) - Háromlábú ló az ügetőpályán [details](#id_444) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Haromlabu%20lo%20az%20ugetopalyan%20%28444%29/Haromlabu%20lo%20az%20ugetopalyan%20-%20Bohumil%20Hrabal.epub)
+- (2005) - A városka, ahol megállt az idő [details](#id_439) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/A%20varoska%2C%20ahol%20megallt%20az%20ido%20%28439%29/A%20varoska%2C%20ahol%20megallt%20az%20ido%20-%20Bohumil%20Hrabal.epub)
+- (2005) - Véres történetek és legendák [details](#id_452) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Veres%20tortenetek%20es%20legendak%20%28452%29/Veres%20tortenetek%20es%20legendak%20-%20Bohumil%20Hrabal.epub)
+- (2006) - Egy osztályismétlő emlékezései [details](#id_969) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Egy%20osztalyismetlo%20emlekezesei%20%28969%29/Egy%20osztalyismetlo%20emlekezesei%20-%20Bohumil%20Hrabal.epub)
+- (2006) - Rózsalovag [details](#id_447) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Rozsalovag%20%28447%29/Rozsalovag%20-%20Bohumil%20Hrabal.epub)
+- (2007) - Szigorúan ellenőrzött vonatok [details](#id_449) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Szigoruan%20ellenorzott%20vonatok%20%28449%29/Szigoruan%20ellenorzott%20vonatok%20-%20Bohumil%20Hrabal.epub)
+- (2007) - Tükrök árulása [details](#id_451) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Tukrok%20arulasa%20%28451%29/Tukrok%20arulasa%20-%20Bohumil%20Hrabal.epub)
+- (2014) - Gyöngéd barbárok [details](#id_443) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Gyonged%20barbarok%20%28443%29/Gyonged%20barbarok%20-%20Bohumil%20Hrabal.epub)
+- (2014) - Táncórák idősebbeknek és haladóknak [details](#id_450) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Tancorak%20idosebbeknek%20es%20haladoknak%20%28450%29/Tancorak%20idosebbeknek%20es%20halado%20-%20Bohumil%20Hrabal.epub)
+
+### Bolgár György
+
+- (2018) - Orbán-mesék [details](#id_1647) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bolgar%20Gyorgy/Orban-mesek%20%281647%29/Orban-mesek%20-%20Bolgar%20Gyorgy.epub)
+
+### Börge Hellström
+
+- (2014) - Három másodperc [details](#id_680) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Borge%20Hellstrom/Harom%20masodperc%20%28680%29/Harom%20masodperc%20-%20Borge%20Hellstrom.epub)
+
+### Boris Vian
+
+- (1979) - Tajtékos napok [details](#id_1511) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boris%20Vian/Tajtekos%20napok%20%281511%29/Tajtekos%20napok%20-%20Boris%20Vian.epub)
+
+### Böszörményi, Gyula
+
+Sorozatok:
+
+Ambrózy báró esetei:
+
+- 1 (2014) - Leányrablás Budapesten [details](#id_1572) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Leanyrablas%20Budapesten%20%281572%29/Leanyrablas%20Budapesten%20-%20Boszormenyi%2C%20Gyula.epub)
+- 2 (2021) - A Rudnay-gyilkosságok [details](#id_1573) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/A%20Rudnay-gyilkossagok%20%281573%29/A%20Rudnay-gyilkossagok%20-%20Boszormenyi%2C%20Gyula.epub)
+- 2.5 (2021) - Beretva és tőr [details](#id_1577) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Beretva%20es%20tor%20%281577%29/Beretva%20es%20tor%20-%20Boszormenyi%2C%20Gyula.epub)
+- 3 (101) - Ármány ​és kézfogó [details](#id_1565) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Armany%20%20es%20kezfogo%20%281565%29/Armany%20%20es%20kezfogo%20-%20Boszormenyi%2C%20Gyula.epub)
+- 3.5 (2017) - Bitó és borostyán [details](#id_1578)
+- 4 (2022) - Nász és téboly [details](#id_1583)
+- 5 (2020) - Szer'usz világ [details](#id_1575)
+- 6 (2021) - A Barnum-rejtély [details](#id_1574) [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/A%20Barnum-rejtely%20%281574%29/A%20Barnum-rejtely%20-%20Boszormenyi%2C%20Gyula.pdf)
+
+Gergő-regények:
+
+- 1 (2018) - Gergő és az álomfogók [details](#id_1568) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Gergo%20es%20az%20alomfogok%20%281568%29/Gergo%20es%20az%20alomfogok%20-%20Boszormenyi%2C%20Gyula.epub)
+- 2 (2012) - Gergő és a bűbájketrec [details](#id_1566)
+- 3 (2012) - Gergő és a táltosviadal [details](#id_1567)
+- 4 (2013) - Gergő és az álomvámpírok 1 [details](#id_1569) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Gergo%20es%20az%20alomvampirok%201%20%281569%29/Gergo%20es%20az%20alomvampirok%201%20-%20Boszormenyi%2C%20Gyula.epub)
+- 5 (2013) - Gergő és az álomvámpírok 2 [details](#id_1570) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Gergo%20es%20az%20alomvampirok%202%20%281570%29/Gergo%20es%20az%20alomvampirok%202%20-%20Boszormenyi%2C%20Gyula.epub)
+
+Jonatán kalandjai:
+
+- 1 (2006) - Az elveszett történet [details](#id_1576) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Az%20elveszett%20tortenet%20%281576%29/Az%20elveszett%20tortenet%20-%20Boszormenyi%2C%20Gyula.epub)
+- 2 (2007) - A Gutenberg Lovagrend [details](#id_1563) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/A%20Gutenberg%20Lovagrend%20%281563%29/A%20Gutenberg%20Lovagrend%20-%20Boszormenyi%2C%20Gyula.epub)
+- 3 (2008) - Árnyvadászok [details](#id_1564) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Arnyvadaszok%20%281564%29/Arnyvadaszok%20-%20Boszormenyi%2C%20Gyula.epub)
+
+Lúzer Rádió:
+
+- 1 (2016) - Lúzer Rádió, Budapest! [details](#id_1581)
+
+Monyákos Tuba-történetek:
+
+- 1 (2007) - Monyákos Tuba a Lidérc Árvák Fészkében [details](#id_1582)
+- 2 (2021) - Monyákos Tuba és a csatornalidércek [details](#id_1571)
+- 3 (2010) - Monyákos Tuba, a pipamocsok-lidérc élettörténete [details](#id_1588) [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Monyakos%20Tuba%2C%20a%20pipamocsok-liderc%20%281588%29/Monyakos%20Tuba%2C%20a%20pipamocsok-lid%20-%20Boszormenyi%20Gyula.pdf)
+
+Mysterious:
+
+- 1 (2004) - Ütközet a Meridim felett [details](#id_1587)
+
+Rémálom könyvek:
+
+- 1 (2009) - 3… 2… 1… [details](#id_1585)
+
+Rúvel hegy:
+
+- 1 (2005) - Rúvel hegyi legenda [details](#id_1589) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Ruvel%20hegyi%20legenda%20%281589%29/Ruvel%20hegyi%20legenda%20-%20Boszormenyi%2C%20Gyula.epub)
+
+Zsófi-regények:
+
+- 1 (2008) - Zsófi és az ősboszorkány [details](#id_1584)
+
+Egyéb könyvek:
+
+- (2003) - Dávid király asszonya [details](#id_1579)
+
+### Böszörményi Gyula
+
+Sorozatok:
+
+Ambrózy báró esetei:
+
+- 3.5 (2017) - Bitó és borostyán [details](#id_1578) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Bito%20es%20borostyan%20%281578%29/Bito%20es%20borostyan%20-%20Boszormenyi%2C%20Gyula.epub)
+- 4 (2022) - Nász és téboly [details](#id_1583) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Nasz%20es%20teboly%20%281583%29/Nasz%20es%20teboly%20-%20Boszormenyi%2C%20Gyula.epub)
+- 5 (2020) - Szer'usz világ [details](#id_1575) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Szer%27usz%20vilag%20%281575%29/Szer%27usz%20vilag%20-%20Boszormenyi%2C%20Gyula.epub)
+
+Gergő-regények:
+
+- 2 (2012) - Gergő és a bűbájketrec [details](#id_1566) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Gergo%20es%20a%20bubajketrec%20%281566%29/Gergo%20es%20a%20bubajketrec%20-%20Boszormenyi%2C%20Gyula.epub)
+- 3 (2012) - Gergő és a táltosviadal [details](#id_1567) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Gergo%20es%20a%20taltosviadal%20%281567%29/Gergo%20es%20a%20taltosviadal%20-%20Boszormenyi%2C%20Gyula.epub)
+- 4 (2008) - Gergő és az álomvámpírok [details](#id_1586) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Gergo%20es%20az%20alomvampirok%20%281586%29/Gergo%20es%20az%20alomvampirok%20-%20Boszormenyi%2C%20Gyula.epub)
+
+Lúzer Rádió:
+
+- 1 (2016) - Lúzer Rádió, Budapest! [details](#id_1581) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Luzer%20Radio%2C%20Budapest%21%20%281581%29/Luzer%20Radio%2C%20Budapest%21%20-%20Boszormenyi%2C%20Gyula.epub)
+
+Monyákos Tuba-történetek:
+
+- 1 (2007) - Monyákos Tuba a Lidérc Árvák Fészkében [details](#id_1582) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Monyakos%20Tuba%20a%20Liderc%20Arvak%20Feszke%20%281582%29/Monyakos%20Tuba%20a%20Liderc%20Arvak%20Fe%20-%20Boszormenyi%2C%20Gyula.epub)
+- 2 (2021) - Monyákos Tuba és a csatornalidércek [details](#id_1571) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Monyakos%20Tuba%20es%20a%20csatornalidercek%20%281571%29/Monyakos%20Tuba%20es%20a%20csatornalide%20-%20Boszormenyi%2C%20Gyula.epub)
+
+Mysterious:
+
+- 1 (2004) - Ütközet a Meridim felett [details](#id_1587) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Utkozet%20a%20Meridim%20felett%20%281587%29/Utkozet%20a%20Meridim%20felett%20-%20Boszormenyi%2C%20Gyula.epub)
+
+Rémálom könyvek:
+
+- 1 (2009) - 3… 2… 1… [details](#id_1585)
+
+Zsófi-regények:
+
+- 1 (2008) - Zsófi és az ősboszorkány [details](#id_1584) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Zsofi%20es%20az%20osboszorkany%20%281584%29/Zsofi%20es%20az%20osboszorkany%20-%20Boszormenyi%2C%20Gyula.epub)
+
+Egyéb könyvek:
+
+- (2003) - Dávid király asszonya [details](#id_1579) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/David%20kiraly%20asszonya%20%281579%29/David%20kiraly%20asszonya%20-%20Boszormenyi%2C%20Gyula.epub)
+
+### Bret Easton Ellis
+
+- (2002) - Amerikai psycho [details](#id_1446) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bret%20Easton%20Ellis/Amerikai%20Psycho%20%281446%29/Amerikai%20psycho%20-%20Bret%20Easton%20Ellis.epub)
+- (2007) - Az informátorok [details](#id_1447) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bret%20Easton%20Ellis/Az%20informatorok%20%281447%29/Az%20informatorok%20-%20Bret%20Easton%20Ellis.epub)
+- (2010) - Nullánál is kevesebb [details](#id_1273) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bret%20Easton%20Ellis/Nullanal%20is%20kevesebb%20%281273%29/Nullanal%20is%20kevesebb%20-%20Bret%20Easton%20Ellis.epub)
+
+### Brian Cox
+
+- (101) - A természet erői [details](#id_1517) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Brian%20Cox%2C%20Andrew%20Cohen/A%20termeszet%20eroi%20%281517%29/A%20termeszet%20eroi%20-%20Brian%20Cox%2C%20Andrew%20Cohen.epub)
+- (2012) - E=mc² (De miért olyan nagy ügy ez?) [details](#id_1516) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Brian%20Cox/E%3Dmc2%20%28De%20miert%20olyan%20nagy%20ugy%20ez_%29%20%281516%29/E%3Dmc2%20%28De%20miert%20olyan%20nagy%20ugy%20-%20Brian%20Cox.epub)
+
+### Brian Innes
+
+- (1998) - A kínzás és kínvallatás története [details](#id_1448) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Brian%20Innes/A%20kinzas%20es%20kinvallatas%20tortenete%20%281448%29/A%20kinzas%20es%20kinvallatas%20tortene%20-%20Brian%20Innes.epub)
+
+### Bud Spencer
+
+Sorozatok:
+
+Bud Spencer önéletrajza:
+
+- 1 (2016) - Különben dühbe jövök [details](#id_1212) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bud%20Spencer/Kulonben%20duhbe%20jovok%20%281212%29/Kulonben%20duhbe%20jovok%20-%20Bud%20Spencer.epub)
+
+Egyéb könyvek:
+
+- (2015) - Eszem, tehát vagyok [details](#id_966) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bud%20Spencer/Eszem%2C%20tehat%20vagyok%20%28966%29/Eszem%2C%20tehat%20vagyok%20-%20Bud%20Spencer.epub)
+
+### C. S. Lewis
+
+Sorozatok:
+
+Narnia krónikái:
+
+- 1 (2017) - A varázsló unokaöccse [details](#id_1278)
+- 2 (2017) - Az oroszlán, a boszorkány és a ruhásszekrény [details](#id_1279)
+- 3 (2015) - A ló és kis gazdája [details](#id_1283)
+- 4 (2017) - Caspian herceg [details](#id_1284)
+- 5 (2015) - A Hajnalvándor útja [details](#id_1282)
+- 6 (2019) - Az ezüsttrón [details](#id_1281)
+- 7 (2015) - A végső ütközet [details](#id_1280)
+
+### Carl Gustav Jung
+
+- (2010) - Gondolatok a szexualitásról és a szerelemről [details](#id_770) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Carl%20Gustav%20Jung/Gondolatok%20a%20szexualitasrol%20es%20a%20sz%20%28770%29/Gondolatok%20a%20szexualitasrol%20es%20-%20Carl%20Gustav%20Jung.epub)
+
+### Cassandra Clare
+
+Sorozatok:
+
+A Végzet Ereklyéi:
+
+- 1 (2020) - Csontváros [details](#id_635) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Cassandra%20Clare/Csontvaros%20%28635%29/Csontvaros%20-%20Cassandra%20Clare.epub)
+- 2 (2020) - Hamuváros [details](#id_636) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Cassandra%20Clare/Hamuvaros%20%28636%29/Hamuvaros%20-%20Cassandra%20Clare.epub)
+- 3 (2018) - Üvegváros [details](#id_637) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Cassandra%20Clare/Uvegvaros%20%28637%29/Uvegvaros%20-%20Cassandra%20Clare.epub)
+- 4 (2018) - Bukott angyalok városa [details](#id_638) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Cassandra%20Clare/Bukott%20angyalok%20varosa%20%28638%29/Bukott%20angyalok%20varosa%20-%20Cassandra%20Clare.epub)
+- 5 (2018) - Elveszett lelkek városa [details](#id_639) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Cassandra%20Clare/Elveszett%20lelkek%20varosa%20%28639%29/Elveszett%20lelkek%20varosa%20-%20Cassandra%20Clare.epub)
+
+Pokoli szerkezetek:
+
+- 1 (2020) - Az angyal [details](#id_640) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Cassandra%20Clare/Az%20angyal%20%28640%29/Az%20angyal%20-%20Cassandra%20Clare.epub)
+
+### Catherine Aird
+
+- (1983) - Gyilkosság a kolostorban [details](#id_1215) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Catherine%20Aird/Gyilkossag%20a%20kolostorban%20%281215%29/Gyilkossag%20a%20kolostorban%20-%20Catherine%20Aird.epub)
+
+### Catherynne M. Valente
+
+Sorozatok:
+
+Tündérföld:
+
+- 1 (2013) - A lány, aki körülhajózta Tündérföldet [details](#id_659) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Catherynne%20M.%20Valente/A%20lany%2C%20aki%20korulhajozta%20Tunderfold%20%28659%29/A%20lany%2C%20aki%20korulhajozta%20Tunder%20-%20Catherynne%20M.%20Valente.epub)
+
+### Celia Rees
+
+Sorozatok:
+
+Bűbájos Mary:
+
+- 1 (2003) - Bűbájos Mary [details](#id_979) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Celia%20Rees/Bubajos%20Mary%20%28979%29/Bubajos%20Mary%20-%20Celia%20Rees.epub)
+
+### Charles Cumming
+
+Sorozatok:
+
+Thomas Kell:
+
+- 1 (2015) - Egy idegen ország [details](#id_967) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Charles%20Cumming/Egy%20idegen%20orszag%20%28967%29/Egy%20idegen%20orszag%20-%20Charles%20Cumming.epub)
+
+### Chuck Palahniuk
+
+Sorozatok:
+
+Kárhozott:
+
+- 2 (2014) - Halálraítélt [details](#id_1600) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Chuck%20Palahniuk/Halalraitelt%20%281600%29/Halalraitelt%20-%20Chuck%20Palahniuk.epub)
+
+Egyéb könyvek:
+
+- (2007) - Cigányút [details](#id_662) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Chuck%20Palahniuk/Ciganyut%20%28662%29/Ciganyut%20-%20Chuck%20Palahniuk.epub)
+- (2010) - Altató [details](#id_663) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Chuck%20Palahniuk/Altato%20%28663%29/Altato%20-%20Chuck%20Palahniuk.epub)
+- (2018) - Harcosok klubja [details](#id_660) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Chuck%20Palahniuk/Harcosok%20klubja%20%28660%29/Harcosok%20klubja%20-%20Chuck%20Palahniuk.epub)
+
+### Cixin Liu
+
+Sorozatok:
+
+A háromtest-trilógia:
+
+- 1 (2020) - A háromtest-probléma [details](#id_1451)
+
+### Cline, Ernest
+
+- (2020) - Ready Player Two: A Novel [details](#id_1708) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Cline%2C%20Ernest/Ready%20Player%20Two_%20A%20Novel%20%281708%29/Ready%20Player%20Two_%20A%20Novel%20-%20Cline%2C%20Ernest.epub)
+- (2021) - Ready Player Two [details](#id_1707) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Cline%2C%20Ernest/Ready%20Player%20Two%20%281707%29/Ready%20Player%20Two%20-%20Cline%2C%20Ernest.epub)
+
+### Cornelius Ryan
+
+- (1999) - A leghosszabb nap [details](#id_1455) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Cornelius%20Ryan/A%20leghosszabb%20nap%20%281455%29/A%20leghosszabb%20nap%20-%20Cornelius%20Ryan.epub)
+
+### Csáki, Judit
+
+- (2015) - Alföldi Róbert Magánügy [details](#id_961) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csaki%2C%20Judit/Alfoldi%20Robert%20Maganugy%20%28961%29/Alfoldi%20Robert%20Maganugy%20-%20Csaki%2C%20Judit.epub)
+
+### Csányi, Vilmos
+
+- (2003) - Az emberi természet [details](#id_308) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Az%20Emberi%20Termeszet%20%28308%29/Az%20emberi%20termeszet%20-%20Csanyi%2C%20Vilmos.epub)
+
+### Csehov, Anton Pavlovics
+
+- (2013) - Három nővér [details](#id_1420) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csehov%2C%20Anton%20Pavlovics/Harom%20nover%20%281420%29/Harom%20nover%20-%20Csehov%2C%20Anton%20Pavlovics.epub)
+
+### Cserna-Szabó, András
+
+- (2022) - Zerkó [details](#id_1704)
+
+### Csernus, Imre
+
+- (2008) - A nő [details](#id_16) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csernus%2C%20Imre/A%20no%20%2816%29/A%20no%20-%20Csernus%2C%20Imre.epub)
+- (2010) - Felnőtt Húsleves [details](#id_378) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csernus%2C%20Imre/Felnott%20Husleves%20%28378%29/Felnott%20Husleves%20-%20Csernus%2C%20Imre.epub)
+
+### Csukás, István
+
+Sorozatok:
+
+Pom Pom:
+
+- 1 (2004) - Pom Pom meséi [details](#id_799) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csukas%2C%20Istvan/Pom%20Pom%20mesei%20%28799%29/Pom%20Pom%20mesei%20-%20Csukas%2C%20Istvan.epub)
+
+Egyéb könyvek:
+
+- (2019) - Vakáció a halott utcában [details](#id_1412) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csukas%2C%20Istvan/Vakacio%20a%20halott%20utcaban%20%281412%29/Vakacio%20a%20halott%20utcaban%20-%20Csukas%2C%20Istvan.epub)
+
+### Dan Brown
+
+Sorozatok:
+
+Robert Langdon:
+
+- 2 (2004) - The Da Vinci Code [details](#id_1639) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dan%20Brown/The%20Da%20Vinci%20Code%20%281639%29/The%20Da%20Vinci%20Code%20-%20Dan%20Brown.epub)
+- 5 (2017) - Origin [details](#id_1637) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dan%20Brown/Origin%20%281637%29/Origin%20-%20Dan%20Brown.epub)
+
+Egyéb könyvek:
+
+- (101) - Diabolus [details](#id_1636) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dan%20Brown/Diabolus%20%281636%29/Diabolus%20-%20Dan%20Brown.epub)
+- (2009) - Digital Fortress [details](#id_1643) [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Dan%20Brown/Digital%20Fortress%20%281643%29/Digital%20Fortress%20-%20Dan%20Brown.pdf)
+- (2012) - Az elveszett jelkép [details](#id_1638) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dan%20Brown/Az%20elveszett%20jelkep%20%281638%29/Az%20elveszett%20jelkep%20-%20Dan%20Brown.epub)
+
+### Daniel C. Dennett
+
+- (1996) - Micsoda elmék [details](#id_631) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Daniel%20C.%20Dennett/Micsoda%20elmek%20%28631%29/Micsoda%20elmek%20-%20Daniel%20C.%20Dennett.epub)
+
+### Daniel Silva
+
+Sorozatok:
+
+Gabriel Allon:
+
+- 2 (2002) - Az angol bérgyilkos [details](#id_819) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Daniel%20Silva/Az%20angol%20bergyilkos%20%28819%29/Az%20angol%20bergyilkos%20-%20Daniel%20Silva.epub)
+- 4 (2004) - Az utolsó esély [details](#id_818) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Daniel%20Silva/Az%20utolso%20esely%20%28818%29/Az%20utolso%20esely%20-%20Daniel%20Silva.epub)
+- 5 (2006) - A bosszú [details](#id_808) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Daniel%20Silva/A%20bosszu%20%28808%29/A%20bosszu%20-%20Daniel%20Silva.epub)
+- 6 (2010) - A Moszad ügynöke a Vatikánban [details](#id_811) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Daniel%20Silva/A%20Moszad%20ugynoke%20a%20Vatikanban%20%28811%29/A%20Moszad%20ugynoke%20a%20Vatikanban%20-%20Daniel%20Silva.epub)
+- 7 (2010) - A Moszad ügynöke [details](#id_810) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Daniel%20Silva/A%20Moszad%20ugynoke%20%28810%29/A%20Moszad%20ugynoke%20-%20Daniel%20Silva.epub)
+- 8 (2010) - A Moszad ügynöke Moszkvában [details](#id_814) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Daniel%20Silva/A%20Moszad%20ugynoke%20Moszkvaban%20%28814%29/A%20Moszad%20ugynoke%20Moszkvaban%20-%20Daniel%20Silva.epub)
+- 9 (2010) - A Moszad ügynöke és az oligarcha [details](#id_813) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Daniel%20Silva/A%20Moszad%20ugynoke%20es%20az%20oligarcha%20%28813%29/A%20Moszad%20ugynoke%20es%20az%20oligarch%20-%20Daniel%20Silva.epub)
+- 10 (2011) - A Moszad ügynöke és a Rembrandt ügy [details](#id_812) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Daniel%20Silva/A%20Moszad%20ugynoke%20es%20a%20Rembrandt%20ugy%20%28812%29/A%20Moszad%20ugynoke%20es%20a%20Rembrandt%20-%20Daniel%20Silva.epub)
+- 14 (2015) - A rablás [details](#id_957) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Daniel%20Silva/A%20rablas%20%28957%29/A%20rablas%20-%20Daniel%20Silva.epub)
+
+Michael Osbourne:
+
+- 1 (1998) - Bűnjel [details](#id_816) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Daniel%20Silva/Bunjel%20%28816%29/Bunjel%20-%20Daniel%20Silva.epub)
+
+Egyéb könyvek:
+
+- (101) - A Gyóntató - 2003 [details](#id_809) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Daniel%20Silva/A%20Gyontato%20-%202003%20%28809%29/A%20Gyontato%20-%202003%20-%20Daniel%20Silva.epub)
+- (101) - Hidegvérrel - 2000 [details](#id_817) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Daniel%20Silva/Hidegverrel%20-%202000%20%28817%29/Hidegverrel%20-%202000%20-%20Daniel%20Silva.epub)
+- (1997) - Az időzített kém [details](#id_815) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Daniel%20Silva/Az%20idozitett%20kem%20%28815%29/Az%20idozitett%20kem%20-%20Daniel%20Silva.epub)
+
+### Darren Shan
+
+Sorozatok:
+
+Város-trilógia:
+
+- 1 (2010) - A holtak vonulása [details](#id_277) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Darren%20Shan/A%20holtak%20vonulasa%20%28277%29/A%20holtak%20vonulasa%20-%20Darren%20Shan.epub)
+- 2 (2011) - A pokol pereme [details](#id_278) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Darren%20Shan/A%20Pokol%20Pereme%20%28278%29/A%20pokol%20pereme%20-%20Darren%20Shan.epub)
+- 3 (2011) - A kígyók városa [details](#id_279)
+
+### David Attenborough
+
+Sorozatok:
+
+Zoo Quest:
+
+- 1 (2019) - Egy ifjú természettudós történetei [details](#id_1449) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/David%20Attenborough/Egy%20ifju%20termeszettudos%20tortenetei%20%281449%29/Egy%20ifju%20termeszettudos%20tortene%20-%20David%20Attenborough.epub)
+
+### David Farland
+
+Sorozatok:
+
+Farkasok szövetsége:
+
+- 1 (101) - A sötétség harcosa [details](#id_510) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/David%20Farland/A%20sotetseg%20harcosa%20%28510%29/A%20sotetseg%20harcosa%20-%20David%20Farland.epub)
+- 2 (101) - A Pusztítás Pecsétje [details](#id_511) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/David%20Farland/A%20Pusztitas%20Pecsetje%20%28511%29/A%20Pusztitas%20Pecsetje%20-%20David%20Farland.epub)
+
+### David Lagercrantz
+
+Sorozatok:
+
+Millennium:
+
+- 4 (2015) - Ami nem öl meg [details](#id_960) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/David%20Lagercrantz/Ami%20nem%20ol%20meg%20%28960%29/Ami%20nem%20ol%20meg%20-%20David%20Lagercrantz.epub)
+
+### David Michaels
+
+Sorozatok:
+
+Tom Clancy's Splinter Cell:
+
+- 2 (2009) - Barrakuda művelet [details](#id_720) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/David%20Michaels/Barrakuda%20muvelet%20%28720%29/Barrakuda%20muvelet%20-%20David%20Michaels.epub)
+
+### David Mitchell
+
+- (2012) - Felhőatlasz [details](#id_454) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/David%20Mitchell/Felhoatlasz%20%28454%29/Felhoatlasz%20-%20David%20Mitchell.epub)
+
+### David Taylor
+
+- (1990) - Hogyan lettem állatkerti orvos [details](#id_473) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/David%20Taylor/Hogyan%20lettem%20allatkerti%20orvos%20%28473%29/Hogyan%20lettem%20allatkerti%20orvos%20-%20David%20Taylor.epub)
+
+### David Vann
+
+- (2015) - Akvárium [details](#id_946) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/David%20Vann/Akvarium%20%28946%29/Akvarium%20-%20David%20Vann.epub)
+
+### David Walliams
+
+- (2020) - Gengszter nagyi [details](#id_1218) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/David%20Walliams/Gengszter%20nagyi%20%281218%29/Gengszter%20nagyi%20-%20David%20Walliams.epub)
+
+### de Sade, Márki
+
+- (2012) - Szodoma százhúsz napja [details](#id_1216) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/de%20Sade%2C%20Marki/Szodoma%20szazhusz%20napja%20%281216%29/Szodoma%20szazhusz%20napja%20-%20de%20Sade%2C%20Marki.epub)
+
+### Dean R. Koontz
+
+Sorozatok:
+
+BB Fiction:
+
+- 1 (1997) - Ticktak [details](#id_1073) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Ticktak%20%281073%29/Ticktak%20-%20Dean%20R.%20Koontz.epub)
+
+Odd Thomas:
+
+- 1 (2005) - A halottlátó [details](#id_1069) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20halottlato%20%281069%29/A%20halottlato%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub)
+
+Egyéb könyvek:
+
+- (1990) - A rossz hely [details](#id_1510) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20Rossz%20Hely%20%281510%29/A%20rossz%20hely%20-%20Dean%20R.%20Koontz.epub)
+- (1990) - Rettegés [details](#id_1076) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Retteges%20%281076%29/Retteges%20-%20Dean%20R.%20Koontz.epub)
+- (1997) - Az éjszaka hangjai [details](#id_1092) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Az%20ejszaka%20hangjai%20%281092%29/Az%20ejszaka%20hangjai%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub)
+- (1997) - Téli hold [details](#id_1075) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Teli%20hold%20%281075%29/Teli%20hold%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub)
+- (2000) - Égi jel [details](#id_1090) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Egi%20jel%20%281090%29/Egi%20jel%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub)
+- (2001) - A rettegés ajtaja [details](#id_1087) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20retteges%20ajtaja%20%281087%29/A%20retteges%20ajtaja%20-%20Dean%20R.%20Koontz.epub)
+- (2001) - A Szeme Sarkából 1-2. [details](#id_1099) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20Szeme%20Sarkabol%201-2_%20%281099%29/A%20Szeme%20Sarkabol%201-2_%20-%20Dean%20R.%20Koontz.epub)
+- (2001) - A szív sötét folyói [details](#id_1098) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20sziv%20sotet%20folyoi%20%281098%29/A%20sziv%20sotet%20folyoi%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub)
+- (2001) - A túlélő [details](#id_1097) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20tulelo%20%281097%29/A%20tulelo%20-%20Dean%20R.%20Koontz.epub)
+- (2001) - Kulcs az éjfélhez [details](#id_1082) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Kulcs%20az%20ejfelhez%20%281082%29/Kulcs%20az%20ejfelhez%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub)
+- (2001) - Látomás [details](#id_1081) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Latomas%20%281081%29/Latomas%20-%20Dean%20R.%20Koontz.epub)
+- (2001) - Maszk [details](#id_1101) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Maszk%20%281101%29/Maszk%20-%20Dean%20R.%20Koontz.epub)
+- (2001) - Végsőkig [details](#id_1071) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Vegsokig%20%281071%29/Vegsokig%20-%20Dean%20R.%20Koontz.epub)
+- (2002) - A visszatérő [details](#id_1095) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20visszatero%20%281095%29/A%20visszatero%20-%20Dean%20R.%20Koontz.epub)
+- (2002) - Menekülés [details](#id_1080) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Menekules%20%281080%29/Menekules%20-%20Dean%20R.%20Koontz.epub)
+- (2003) - Amnézia [details](#id_1094) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Amnezia%20%281094%29/Amnezia%20-%20Dean%20R.%20Koontz.epub)
+- (2004) - A Hold fényénél [details](#id_1074) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20Hold%20Fenyenel%20%281074%29/A%20Hold%20fenyenel%20-%20Dean%20R.%20Koontz.epub)
+- (2004) - Az arc [details](#id_1093) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Az%20arc%20%281093%29/Az%20arc%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub)
+- (2004) - Hideglelés [details](#id_1085) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Hidegleles%20%281085%29/Hidegleles%20-%20Dean%20R.%20Koontz.epub)
+- (2004) - Idegenek [details](#id_1086) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Idegenek%20%281086%29/Idegenek%20-%20Dean%20R.%20Koontz.epub)
+- (2005) - Az eljövetel [details](#id_1091) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Az%20eljovetel%20%281091%29/Az%20eljovetel%20-%20Dean%20R.%20Koontz.epub)
+- (2005) - Hideg tűz [details](#id_1089) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Hideg%20tuz%20%281089%29/Hideg%20tuz%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub)
+- (2005) - Virrasztók [details](#id_1070) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Virrasztok%20%281070%29/Virrasztok%20-%20Dean%20R.%20Koontz.epub)
+- (2006) - A Tékozló Fiú [details](#id_1096) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20Tekozlo%20Fiu%20%281096%29/A%20Tekozlo%20Fiu%20-%20Dean%20R.%20Koontz.epub)
+- (2006) - Jégcsapda [details](#id_1083) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Jegcsapda%20%281083%29/Jegcsapda%20-%20Dean%20R.%20Koontz.epub)
+- (2006) - Mr. Murder [details](#id_1079) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Mr.%20Murder%20%281079%29/Mr.%20Murder%20-%20Dean%20R.%20Koontz.epub)
+- (2007) - A sötétség szeme [details](#id_1100) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20sotetseg%20szeme%20%281100%29/A%20sotetseg%20szeme%20-%20Dean%20R.%20Koontz.epub)
+- (2007) - Összetörve [details](#id_1078) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Osszetorve%20%281078%29/Osszetorve%20-%20Dean%20R.%20Koontz.epub)
+- (2008) - Kényszerjátszma [details](#id_1084) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Kenyszerjatszma%20%281084%29/Kenyszerjatszma%20-%20Dean%20R.%20Koontz.epub)
+- (2008) - Váltságdíj [details](#id_1072) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Valtsagdij%20%281072%29/Valtsagdij%20-%20Dean%20R.%20Koontz.epub)
+- (2009) - Pokoli hordák [details](#id_1077) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Pokoli%20hordak%20%281077%29/Pokoli%20hordak%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub)
+
+### Demecs, Istvan
+
+- (101) - Öt szokás, ami javítja az egészségedet [details](#id_470) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Demecs%2C%20Istvan/Ot%20szokas%2C%20ami%20javitja%20az%20egeszsegedet%20%28470%29/Ot%20szokas%2C%20ami%20javitja%20az%20egesz%20-%20Demecs%2C%20Istvan.epub)
+
+### Desmond Morris
+
+Sorozatok:
+
+Miért csinálja...?:
+
+- 1 (1993) - Miért csinálja…? A ló [details](#id_416) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Desmond%20Morris/Miert%20csinalja_._%20A%20lo%20%28416%29/Miert%20csinalja_._%20A%20lo%20-%20Desmond%20Morris.epub)
+- 2 (1990) - Miért csinálja…? A macska [details](#id_415) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Desmond%20Morris/Miert%20csinalja_._%20A%20macska%20%28415%29/Miert%20csinalja_._%20A%20macska%20-%20Desmond%20Morris.epub)
+
+Egyéb könyvek:
+
+- (1989) - A csupasz majom [details](#id_536)
+
+### Diana Wynne Jones
+
+Sorozatok:
+
+Palota:
+
+- 1 (2010) - A vándorló palota [details](#id_1413) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Diana%20Wynne%20Jones/A%20vandorlo%20palota%20%281413%29/A%20vandorlo%20palota%20-%20Diana%20Wynne%20Jones.epub)
+
+### Dmitry Glukhovsky
+
+Sorozatok:
+
+Metró 2033:
+
+- 1 (2019) - Metró 2033 [details](#id_482) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dmitry%20Glukhovsky/Metro%202033%20%28482%29/Metro%202033%20-%20Dmitry%20Glukhovsky.epub)
+- 2 (2019) - Metró 2034 [details](#id_355) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dmitry%20Glukhovsky/Metro%202034%20%28355%29/Metro%202034%20-%20Dmitry%20Glukhovsky.epub)
+
+### Domokos, Lászlóné
+
+- (101) - Kezdők és haladók mindentudó szakácskönyve [details](#id_608) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Domokos%2C%20Laszlone/Kezdok%20es%20haladok%20mindentudo%20szakac%20%28608%29/Kezdok%20es%20haladok%20mindentudo%20sz%20-%20Domokos%2C%20Laszlone.epub)
+
+### Donald James
+
+Sorozatok:
+
+Vadim-trilógia:
+
+- 1 (1998) - Monstrum [details](#id_654) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Donald%20James/Monstrum%20%28654%29/Monstrum%20-%20Donald%20James.epub)
+- 2 (2005) - A jövendőmondó [details](#id_653) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Donald%20James/A%20jovendomondo%20%28653%29/A%20jovendomondo%20-%20Donald%20James.epub)
+- 3 (2006) - Vadim [details](#id_655) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Donald%20James/Vadim%20%28655%29/Vadim%20-%20Donald%20James.epub)
+
+### Dosztojevszkij, Fjodor Mihajlovics
+
+- (2020) - Bűn és bűnhődés [details](#id_346) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dosztojevszkij%2C%20Fjodor%20Mihajlovics/Bun%20es%20bunhodes%20%28346%29/Bun%20es%20bunhodes%20-%20Dosztojevszkij%2C%20Fjodor%20Mihajlov.epub)
+
+### Dragomán, György
+
+- (2015) - A pusztítás könyve [details](#id_1192) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dragoman%2C%20Gyorgy/A%20pusztitas%20konyve%20%281192%29/A%20pusztitas%20konyve%20-%20Dragoman%2C%20Gyorgy.epub)
+- (2016) - Oroszlánkórus [details](#id_1191) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dragoman%2C%20Gyorgy/Oroszlankorus%20%281191%29/Oroszlankorus%20-%20Dragoman%2C%20Gyorgy.epub)
+- (2017) - A fehér király [details](#id_1193) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dragoman%2C%20Gyorgy/A%20feher%20kiraly%20%281193%29/A%20feher%20kiraly%20-%20Dragoman%2C%20Gyorgy.epub)
+- (2018) - Rendszerújra [details](#id_1223) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dragoman%2C%20Gyorgy/Rendszerujra%20%281223%29/Rendszerujra%20-%20Dragoman%2C%20Gyorgy.epub)
+- (2020) - Máglya [details](#id_1194) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dragoman%2C%20Gyorgy/Maglya%20%281194%29/Maglya%20-%20Dragoman%2C%20Gyorgy.epub)
+
+### E. L. James
+
+Sorozatok:
+
+Árnyalat:
+
+- 1 (2012) - A szürke ötven árnyalata [details](#id_466) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/E.%20L.%20James/A%20szurke%20otven%20arnyalata%20%28466%29/A%20szurke%20otven%20arnyalata%20-%20E.%20L.%20James.epub)
+
+### Elin Hilderbrand
+
+- (2014) - Mezítláb [details](#id_995) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Elin%20Hilderbrand/Mezitlab%20%28995%29/Mezitlab%20-%20Elin%20Hilderbrand.epub)
+
+### Elizabeth Adler
+
+- (2001) - Toszkánai nyár [details](#id_1211) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Elizabeth%20Adler/Toszkanai%20nyar%20%281211%29/Toszkanai%20nyar%20-%20Elizabeth%20Adler.epub)
+
+### Elizabeth Gilbert
+
+Sorozatok:
+
+Eat, Pray, Love:
+
+- 1 (2020) - Ízek, imák, szerelmek [details](#id_802) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Elizabeth%20Gilbert/Izek%2C%20imak%2C%20szerelmek%20%28802%29/Izek%2C%20imak%2C%20szerelmek%20-%20Elizabeth%20Gilbert.epub)
+
+### Elizabeth Hand
+
+- (1996) - 12 majom [details](#id_779) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Elizabeth%20Hand/12%20Majom%20%28779%29/12%20majom%20-%20Elizabeth%20Hand.epub)
+
+### Elizabeth Kim
+
+- (2006) - Tízezer könnycsepp [details](#id_1513) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Elizabeth%20Kim/Tizezer%20konnycsepp%20%281513%29/Tizezer%20konnycsepp%20-%20Elizabeth%20Kim.epub)
+
+### Emma Donoghue
+
+- (2015) - A szoba [details](#id_356) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Emma%20Donoghue/A%20szoba%20%28356%29/A%20szoba%20-%20Emma%20Donoghue.epub)
+
+### Eric Berne
+
+- (1998) - Szex a szerelemben [details](#id_905) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Eric%20Berne/Szex%20a%20szerelemben%20%28905%29/Szex%20a%20szerelemben%20-%20Eric%20Berne.epub)
+- (2013) - Emberi játszmák [details](#id_291) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Eric%20Berne/Emberi%20Jatszmak%20%28291%29/Emberi%20jatszmak%20-%20Eric%20Berne.epub)
+- (2019) - Sorskönyv [details](#id_292) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Eric%20Berne/Sorskonyv%20%28292%29/Sorskonyv%20-%20Eric%20Berne.epub)
+
+### Erich Fromm
+
+- (1994) - Birtokolni vagy létezni? [details](#id_2) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Erich%20Fromm/Birtokolni%20vagy%20letezni_%20%282%29/Birtokolni%20vagy%20letezni_%20-%20Erich%20Fromm.epub)
+- (1996) - Férfi és nő [details](#id_290) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Erich%20Fromm/Ferfi%20es%20no%20%28290%29/Ferfi%20es%20no%20-%20Erich%20Fromm.epub)
+- (1998) - Az Önmagáért való Ember [details](#id_314) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Erich%20Fromm/Az%20Onmagaert%20valo%20Ember%20%28314%29/Az%20Onmagaert%20valo%20Ember%20-%20Erich%20Fromm.epub)
+- (2012) - A szeretet művészete [details](#id_288) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Erich%20Fromm/A%20szeretet%20muveszete%20%28288%29/A%20szeretet%20muveszete%20-%20Erich%20Fromm.epub)
+
+### Erich Kästner
+
+Sorozatok:
+
+Pöttyös:
+
+- 1 (2018) - A két Lotti [details](#id_1199) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Erich%20Kastner/A%20ket%20Lotti%20%281199%29/A%20ket%20Lotti%20-%20Erich%20Kastner.epub)
+
+Egyéb könyvek:
+
+- (2019) - A repülő osztály [details](#id_964) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Erich%20Kastner/A%20repulo%20osztaly%20%28964%29/A%20repulo%20osztaly%20-%20Erich%20Kastner.epub)
+- (2020) - Három ember a hóban [details](#id_667) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Erich%20Kastner/Harom%20ember%20a%20hoban%20%28667%29/Harom%20ember%20a%20hoban%20-%20Erich%20Kastner.epub)
+
+### Erich Maria Remarque
+
+Sorozatok:
+
+Eroica könyvek:
+
+- 1 (1991) - Éjszaka Lisszabonban [details](#id_357) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Erich%20Maria%20Remarque/Ejszaka%20Lisszabonban%20%28357%29/Ejszaka%20Lisszabonban%20-%20Erich%20Maria%20Remarque.epub)
+
+Nyugaton a helyzet változatlan:
+
+- 1 (2008) - Nyugaton a helyzet változatlan [details](#id_317) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Erich%20Maria%20Remarque/Nyugaton%20a%20helyzet%20valtozatlan%20%28317%29/Nyugaton%20a%20helyzet%20valtozatlan%20-%20Erich%20Maria%20Remarque.epub)
+
+Egyéb könyvek:
+
+- (2015) - Szerelem és halál órája [details](#id_313) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Erich%20Maria%20Remarque/Szerelem%20es%20halal%20oraja%20%28313%29/Szerelem%20es%20halal%20oraja%20-%20Erich%20Maria%20Remarque.epub)
+
+### Erlend Loe
+
+Sorozatok:
+
+Doppler:
+
+- 2 (2008) - Doppler, az utak királya [details](#id_531) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Erlend%20Loe/Doppler%2C%20az%20utak%20kiralya%20%28531%29/Doppler%2C%20az%20utak%20kiralya%20-%20Erlend%20Loe.epub)
+
+Egyéb könyvek:
+
+- (2017) - Naiv.Szuper. [details](#id_532) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Erlend%20Loe/Naiv.Szuper_%20%28532%29/Naiv.Szuper_%20-%20Erlend%20Loe.epub)
+
+### Ernest Cline
+
+Sorozatok:
+
+Ready Player One:
+
+- 1 (2021) - Ready Player One [details](#id_1275) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ernest%20Cline/Ready%20Player%20One%20%281275%29/Ready%20Player%20One%20-%20Ernest%20Cline.epub)
+
+### Ernest Hemingway
+
+- (101) - Novellák [details](#id_1026) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ernest%20Hemingway/Novellak%20%281026%29/Novellak%20-%20Ernest%20Hemingway.epub)
+- (2020) - Akiért a harang szól [details](#id_1196) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ernest%20Hemingway/Akiert%20a%20harang%20szol%20%281196%29/Akiert%20a%20harang%20szol%20-%20Ernest%20Hemingway.epub)
+- (2020) - Az öreg halász és a tenger [details](#id_1025) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ernest%20Hemingway/Az%20oreg%20halasz%20es%20a%20tenger%20%281025%29/Az%20oreg%20halasz%20es%20a%20tenger%20-%20Ernest%20Hemingway.epub)
+
+### Esterházy, Péter
+
+- (2001) - Hrabal könyve [details](#id_1021) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Esterhazy%2C%20Peter/Hrabal%20konyve%20%281021%29/Hrabal%20konyve%20-%20Esterhazy%2C%20Peter.epub)
+- (2004) - Termelési-regény [details](#id_1022) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Esterhazy%2C%20Peter/Termelesi-regeny%20%281022%29/Termelesi-regeny%20-%20Esterhazy%2C%20Peter.epub)
+- (2004) - Termelési-regény: kisssregény : regény [details](#id_1512)
+- (2016) - A szív segédigéi [details](#id_1020) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Esterhazy%2C%20Peter/A%20sziv%20segedigei%20%281020%29/A%20sziv%20segedigei%20-%20Esterhazy%2C%20Peter.epub)
+- (2016) - Ki szavatol a lady biztonságáért? [details](#id_1023) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Esterhazy%2C%20Peter/Ki%20szavatol%20a%20lady%20biztonsagaert_%20%281023%29/Ki%20szavatol%20a%20lady%20biztonsagaer%20-%20Esterhazy%2C%20Peter.epub)
+- (2018) - Egy nő [details](#id_1019) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Esterhazy%2C%20Peter/Egy%20no%20%281019%29/Egy%20no%20-%20Esterhazy%2C%20Peter.epub)
+
+### Eva-Maria Zurhorst
+
+- (2015) - Szeresd önmagad, és mindegy, kivel élsz [details](#id_513) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Eva-Maria%20Zurhorst/Szeresd%20onmagad%2C%20es%20mindegy%2C%20kivel%20elsz%20%28513%29/Szeresd%20onmagad%2C%20es%20mindegy%2C%20ki%20-%20Eva-Maria%20Zurhorst.epub)
+
+### Fábián, Janka
+
+Sorozatok:
+
+A német lány:
+
+- 1 (2012) - A német lány [details](#id_645) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fabian%2C%20Janka/A%20nemet%20lany%20%28645%29/A%20nemet%20lany%20-%20Fabian%2C%20Janka.epub)
+
+Emma:
+
+- 1 (2012) - Emma szerelme [details](#id_597) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fabian%2C%20Janka/Emma%20szerelme%20%28597%29/Emma%20szerelme%20-%20Fabian%2C%20Janka.epub)
+- 2 (2012) - Emma fiai [details](#id_595) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fabian%2C%20Janka/Emma%20fiai%20%28595%29/Emma%20fiai%20-%20Fabian%2C%20Janka.epub)
+- 3 (2012) - Emma lánya [details](#id_596) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fabian%2C%20Janka/Emma%20lanya%20%28596%29/Emma%20lanya%20-%20Fabian%2C%20Janka.epub)
+
+Egyéb könyvek:
+
+- (2012) - Az angyalos ház [details](#id_594) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fabian%2C%20Janka/Az%20angyalos%20haz%20%28594%29/Az%20angyalos%20haz%20-%20Fabian%2C%20Janka.epub)
+- (2012) - Karácsony a Ligetben [details](#id_643) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fabian%2C%20Janka/Karacsony%20a%20Ligetben%20%28643%29/Karacsony%20a%20Ligetben%20-%20Fabian%2C%20Janka.epub)
+- (2013) - Adél és Aliz [details](#id_633) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fabian%2C%20Janka/Adel%20es%20Aliz%20%28633%29/Adel%20es%20Aliz%20-%20Fabian%2C%20Janka.epub)
+
+### Fable, Vavyan
+
+Sorozatok:
+
+Halkiralynö:
+
+- 1 (1990) - Halkirálynő [details](#id_174) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Halkiralyno%20%28174%29/Halkiralyno%20-%20Fable%2C%20Vavyan.epub)
+
+Halkirálynő:
+
+- 0 (2002) - A pokol is elnyeli [details](#id_176) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/A%20pokol%20is%20elnyeli%20%28176%29/A%20pokol%20is%20elnyeli%20-%20Fable%2C%20Vavyan.epub)
+- 2 (2006) - A Halkirálynő és a dzsinnek [details](#id_173) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/A%20Halkiralyno%20es%20a%20dzsinnek%20%28173%29/A%20Halkiralyno%20es%20a%20dzsinnek%20-%20Fable%2C%20Vavyan.epub)
+- 3 (2006) - Ki feküdt az ágyamban? [details](#id_181) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Ki%20fekudt%20az%20agyamban_%20%28181%29/Ki%20fekudt%20az%20agyamban_%20-%20Fable%2C%20Vavyan.epub)
+- 4 (2007) - Ébredj velem! [details](#id_180) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Ebredj%20velem%21%20%28180%29/Ebredj%20velem%21%20-%20Fable%2C%20Vavyan.epub)
+- 4.5 (2007) - Mogorva nyár [details](#id_1152)
+- 6 (2007) - A Hold forró jegén [details](#id_175) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/A%20Hold%20forro%20jegen%20%28175%29/A%20Hold%20forro%20jegen%20-%20Fable%2C%20Vavyan.epub)
+- 7 (2016) - Apád, anyád ide lőjön! [details](#id_179) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Apad%2C%20anyad%20ide%20lojon%21%20%28179%29/Apad%2C%20anyad%20ide%20lojon%21%20-%20Fable%2C%20Vavyan.epub)
+
+Mesemaraton:
+
+- 1 (2009) - Mesemaraton [details](#id_1151)
+- 2 (2007) - Emlékfutam [details](#id_1163)
+
+Nászjelentés:
+
+- 1 (2002) - Nászjelentés 1. [details](#id_1161)
+- 2 (2003) - Nászjelentés 2. [details](#id_1162)
+
+Seym és Lilia:
+
+- 1 (2020) - Álomhajsza [details](#id_178) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Alomhajsza%20%28178%29/Alomhajsza%20-%20Fable%2C%20Vavyan.epub)
+
+Tündértánc:
+
+- 1 (2000) - Tündértánc I. [details](#id_1156)
+- 2 (2001) - Tündértánc II. [details](#id_1157)
+
+Vis Major:
+
+- 1 (2004) - Vis Major [details](#id_1153)
+- 2 (2008) - Kyra Eleison [details](#id_1164)
+- 4 (2008) - Vészbejárat [details](#id_1154)
+- 5 (2008) - Tíz kicsi kommandós [details](#id_1158)
+- 7 (2015) - Szamurájszív [details](#id_1014) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Szamurajsziv%20%281014%29/Szamurajsziv%20-%20Fable%2C%20Vavyan.epub)
+
+Álmok Tengere:
+
+- 1 (2012) - Álmok Tengere [details](#id_177) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Almok%20Tengere%20%28177%29/Almok%20Tengere%20-%20Fable%2C%20Vavyan.epub)
+- 2 (2012) - Barbárság Tengere [details](#id_558) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Barbarsag%20Tengere%20%28558%29/Barbarsag%20Tengere%20-%20Fable%2C%20Vavyan.epub)
+
+Egyéb könyvek:
+
+- (101) - Hajsza [details](#id_1147)
+- (1995) - My fair lord [details](#id_803) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/My%20fair%20lord%20%28803%29/My%20fair%20lord%20-%20Fable%2C%20Vavyan.epub)
+- (1996) - Fattyúdal [details](#id_1146)
+- (1998) - Jégtánc [details](#id_1149)
+- (1999) - Démontangó [details](#id_881) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Demontango%20%28881%29/Demontango%20-%20Fable%2C%20Vavyan.epub)
+- (1999) - Vakvágta [details](#id_1155)
+- (2001) - Halálnak halálával [details](#id_1148)
+- (2008) - Kedves, mint egy kéjgyilkos [details](#id_1150)
+- (2009) - Sárkánykönny [details](#id_1160)
+- (2010) - A halál zsoldjában [details](#id_701) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/A%20halal%20zsoldjaban%20%28701%29/A%20halal%20zsoldjaban%20-%20Fable%2C%20Vavyan.epub)
+- (2011) - Szennyből az angyal [details](#id_1159)
+- (2012) - Ezüstegér [details](#id_1145)
+- (2013) - Édes, mint a bűn [details](#id_1144)
+
+### Fazekas, László
+
+Sorozatok:
+
+Villantó:
+
+- 2 (1978) - Kapukulcs a kő alatt [details](#id_1271) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fazekas%2C%20Laszlo/Kapukulcs%20a%20ko%20alatt%20%281271%29/Kapukulcs%20a%20ko%20alatt%20-%20Fazekas%2C%20Laszlo.epub)
+
+### Fejős, Éva
+
+Sorozatok:
+
+Csajok:
+
+- 1 (2016) - Csajok [details](#id_771)
+
+Hotel Bali:
+
+- 2 (2015) - Eper reggelire [details](#id_17) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fejos%2C%20Eva/Eper%20reggelire%20%2817%29/Eper%20reggelire%20-%20Fejos%2C%20Eva.epub)
+
+Egyéb könyvek:
+
+- (2012) - Éjszaka Bangkokban [details](#id_773) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fejos%2C%20Eva/Ejszaka%20Bangkokban%20%28773%29/Ejszaka%20Bangkokban%20-%20Fejos%2C%20Eva.epub)
+- (2012) - Holtodiglan [details](#id_426) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fejos%2C%20Eva/Holtodiglan%20%28426%29/Holtodiglan%20-%20Fejos%2C%20Eva.epub)
+- (2017) - Szeretlek, Bangkok [details](#id_774) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fejos%2C%20Eva/Szeretlek%2C%20Bangkok%20%28774%29/Szeretlek%2C%20Bangkok%20-%20Fejos%2C%20Eva.epub)
+
+### Fekete, Barbara
+
+- (2008) - A Hiszti – Szülők Kézikönyve [details](#id_8) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Barbara/A%20Hiszti%20-%20Szulok%20Kezikonyve%20%288%29/A%20Hiszti%20-%20Szulok%20Kezikonyve%20-%20Fekete%2C%20Barbara.epub)
+
+### Fekete, István
+
+Sorozatok:
+
+Tüskevár:
+
+- 1 (2018) - Tüskevár [details](#id_121) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Tuskevar%20%28121%29/Tuskevar%20-%20Fekete%2C%20Istvan.epub)
+- 2 (2007) - Téli berek [details](#id_267) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Teli%20berek%20%28267%29/Teli%20berek%20-%20Fekete%2C%20Istvan.epub)
+
+Egyéb könyvek:
+
+- (1987) - Kele / Vuk [details](#id_122) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Kele%20_%20Vuk%20%28122%29/Kele%20_%20Vuk%20-%20Fekete%2C%20Istvan.epub)
+- (1989) - Karácsonyi látogatók [details](#id_731) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Karacsonyi%20latogatok%20%28731%29/Karacsonyi%20latogatok%20-%20Fekete%2C%20Istvan.epub)
+- (1994) - Derengő hajnal: regény [details](#id_727) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Derengo%20hajnal_%20regeny%20%28727%29/Derengo%20hajnal_%20regeny%20-%20Fekete%2C%20Istvan.epub)
+- (1995) - Regi Karacsony: Elbeszelesek (Uj Ember Konyvek) (Hungarian Edition) [details](#id_737) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Regi%20Karacsony_%20Elbeszelesek%20%28Uj%20Em%20%28737%29/Regi%20Karacsony_%20Elbeszelesek%20%28U%20-%20Fekete%2C%20Istvan.epub)
+- (2001) - Kittenberger Kálmán élete [details](#id_734) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Kittenberger%20Kalman%20elete%20%28734%29/Kittenberger%20Kalman%20elete%20-%20Fekete%2C%20Istvan.epub)
+- (2002) - Képzelet és valóság [details](#id_733) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Kepzelet%20es%20valosag%20%28733%29/Kepzelet%20es%20valosag%20-%20Fekete%2C%20Istvan.epub)
+- (2003) - 21 nap [details](#id_315) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/21%20nap%20%28315%29/21%20nap%20-%20Fekete%2C%20Istvan.epub)
+- (2006) - Gyeplő nélkül [details](#id_728) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Gyeplo%20nelkul%20%28728%29/Gyeplo%20nelkul%20-%20Fekete%2C%20Istvan.epub)
+- (2010) - Ballagó idő [details](#id_724) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Ballago%20ido%20%28724%29/Ballago%20ido%20-%20Fekete%2C%20Istvan.epub)
+- (2010) - Hajnal Badányban [details](#id_729) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Hajnal%20Badanyban%20%28729%29/Hajnal%20Badanyban%20-%20Fekete%2C%20Istvan.epub)
+- (2010) - Őszi vásár [details](#id_736) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Oszi%20vasar%20%28736%29/Oszi%20vasar%20-%20Fekete%2C%20Istvan.epub)
+- (2013) - A koppányi aga testamentuma [details](#id_723) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/A%20koppanyi%20aga%20testamentuma%20%28723%29/A%20koppanyi%20aga%20testamentuma%20-%20Fekete%2C%20Istvan.epub)
+- (2013) - Hú [details](#id_730) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Hu%20%28730%29/Hu%20-%20Fekete%2C%20Istvan.epub)
+- (2015) - Csí és más elbeszélések [details](#id_726) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Csi%20es%20mas%20elbeszelesek%20%28726%29/Csi%20es%20mas%20elbeszelesek%20-%20Fekete%2C%20Istvan.epub)
+- (2015) - Lutra [details](#id_735) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Lutra%20%28735%29/Lutra%20-%20Fekete%2C%20Istvan.epub)
+- (2020) - Bogáncs [details](#id_266) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Bogancs%20%28266%29/Bogancs%20-%20Fekete%2C%20Istvan.epub)
+- (2021) - Zsellérek [details](#id_741) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Zsellerek%20%28741%29/Zsellerek%20-%20Fekete%2C%20Istvan.epub)
+
+### Fodor, Sándor
+
+- (2015) - Csipike [details](#id_391) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fodor%2C%20Sandor/Csipike%20%28391%29/Csipike%20-%20Fodor%2C%20Sandor.epub)
+
+### Foster, Alan Dean
+
+Sorozatok:
+
+Alien:
+
+- 1 (2015) - A nyolcadik utas: a Halál [details](#id_649) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Foster%2C%20Alan%20Dean/A%20nyolcadik%20utas_%20a%20Halal%20%28649%29/A%20nyolcadik%20utas_%20a%20Halal%20-%20Foster%2C%20Alan%20Dean.epub)
+- 2 (2015) - A bolygó neve: Halál [details](#id_650) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Foster%2C%20Alan%20Dean/A%20bolygo%20neve_%20Halal%20%28650%29/A%20bolygo%20neve_%20Halal%20-%20Foster%2C%20Alan%20Dean.epub)
+- 3 (1992) - Az út végén a halál [details](#id_652) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Foster%2C%20Alan%20Dean/Az%20ut%20vegen%20a%20halal%20%28652%29/Az%20ut%20vegen%20a%20halal%20-%20Foster%2C%20Alan%20Dean.epub)
+
+### Frank Herbert
+
+Sorozatok:
+
+A Dűne:
+
+- 1 (101) - Dune [details](#id_182) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Frank%20Herbert/Dune%20%28182%29/Dune%20-%20Frank%20Herbert.epub)
+- 3 (2002) - A Dűne gyermekei [details](#id_184) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Frank%20Herbert/A%20Dune%20gyermekei%20%28184%29/A%20Dune%20gyermekei%20-%20Frank%20Herbert.epub)
+
+### Frank W. Abagnale
+
+- (2003) - Kapj el, ha tudsz [details](#id_669) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Frank%20W.%20Abagnale/Kapj%20el%2C%20ha%20tudsz%20%28669%29/Kapj%20el%2C%20ha%20tudsz%20-%20Frank%20W.%20Abagnale.epub)
+
+### Fred Vogelstein
+
+- (2013) - Dogfight: How Apple and Google Went to War and Started a Revolution [details](#id_642) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fred%20Vogelstein/Dogfight_%20How%20Apple%20and%20Google%20Went%20%28642%29/Dogfight_%20How%20Apple%20and%20Google%20-%20Fred%20Vogelstein.epub)
+
+### Frederick Forsyth
+
+- (1990) - Profi munka [details](#id_775) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Frederick%20Forsyth/Profi%20munka%20%28775%29/Profi%20munka%20-%20Frederick%20Forsyth.epub)
+- (2000) - A negyedik jegyzőkönyv [details](#id_44)
+- (2006) - Az ördög alternatívája [details](#id_43) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Frederick%20Forsyth/Az%20ordog%20alternativaja%20%2843%29/Az%20ordog%20alternativaja%20-%20Frederick%20Forsyth.epub)
+
+### Frei, Tamás
+
+Sorozatok:
+
+André:
+
+- 1 (2012) - A megmentő [details](#id_107) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Frei%2C%20Tamas/A%20megmento%20%28107%29/A%20megmento%20-%20Frei%2C%20Tamas.epub)
+- 2 (2012) - A bankár [details](#id_108) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Frei%2C%20Tamas/A%20bankar%20%28108%29/A%20bankar%20-%20Frei%2C%20Tamas.epub)
+- 3 (2019) - 2015 [details](#id_1493) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Frei%2C%20Tamas/2015%20%281493%29/2015%20-%20Frei%2C%20Tamas.epub)
+
+Egyéb könyvek:
+
+- (2001) - Egy riporter dossziéja [details](#id_1463) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Frei%2C%20Tamas/Egy%20riporter%20dosszieja%20%281463%29/Egy%20riporter%20dosszieja%20-%20Frei%2C%20Tamas.epub)
+- (2012) - A bankár [details](#id_972) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Frei%2C%20Tamas/A%20bankar%20%28972%29/A%20bankar%20-%20Frei%2C%20Tamas.epub)
+- (2015) - Agrárbárók [details](#id_1465) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Frei%2C%20Tamas/Agrarbarok%20%281465%29/Agrarbarok%20-%20Frei%2C%20Tamas.epub)
+- (2019) - Bábel [details](#id_1466) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Frei%2C%20Tamas/Babel%20%281466%29/Babel%20-%20Frei%2C%20Tamas.epub)
+
+### G. M.
+
+Sorozatok:
+
+Tesco titok:
+
+- 1 (101) - Tesco titok [details](#id_883)
+- 2 (101) - Tesco titok 2. [details](#id_884)
+
+### Gabriel García Márquez
+
+- (1994) - Száz év magány [details](#id_223) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gabriel%20Garcia%20Marquez/Szaz%20ev%20magany%20%28223%29/Szaz%20ev%20magany%20-%20Gabriel%20Garcia%20Marquez.epub)
+- (2017) - Szerelem a kolera idején [details](#id_342) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gabriel%20Garcia%20Marquez/Szerelem%20a%20kolera%20idejen%20%28342%29/Szerelem%20a%20kolera%20idejen%20-%20Gabriel%20Garcia%20Marquez.epub)
+
+### Gárdonyi, Géza
+
+- (2014) - Isten rabjai [details](#id_619) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gardonyi%2C%20Geza/Isten%20rabjai%20%28619%29/Isten%20rabjai%20-%20Gardonyi%2C%20Geza.epub)
+- (2019) - Egri csillagok [details](#id_1603) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gardonyi%2C%20Geza/Egri%20csillagok%20%281603%29/Egri%20csillagok%20-%20Gardonyi%2C%20Geza.epub)
+
+### Gary Chapman
+
+- (2018) - Egymásra hangolva [details](#id_379) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gary%20Chapman/Egymasra%20Hangolva%20%28379%29/Egymasra%20hangolva%20-%20Gary%20Chapman.epub)
+
+### Georg Klein
+
+- (2015) - Szilárd Leó tízparancsolata [details](#id_981) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Georg%20Klein/Szilard%20Leo%20tizparancsolata%20%28981%29/Szilard%20Leo%20tizparancsolata%20-%20Georg%20Klein.epub)
+
+### George Lucas
+
+Sorozatok:
+
+Csillagok háborúja:
+
+- 4 (2014) - Csillagok háborúja [details](#id_718) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20Lucas/Csillagok%20haboruja%20%28718%29/Csillagok%20haboruja%20-%20George%20Lucas.epub)
+
+### George Mikes
+
+- (1987) - Papucsban [details](#id_406) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20Mikes/Papucsban%20%28406%29/Papucsban%20-%20George%20Mikes.epub)
+- (2009) - Hogyan legyünk szegények [details](#id_985) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20Mikes/Hogyan%20legyunk%20szegenyek%20%28985%29/Hogyan%20legyunk%20szegenyek%20-%20George%20Mikes.epub)
+
+### George Orwell
+
+Sorozatok:
+
+Európa Diákkönyvtár:
+
+- 1 (2020) - 1984 [details](#id_364) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20Orwell/1984%20%28364%29/1984%20-%20George%20Orwell.epub)
+
+### George R. R. Martin
+
+Sorozatok:
+
+A tűz és jég dala:
+
+- 1 (2016) - Trónok harca [details](#id_420) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Tronok%20harca%20%28420%29/Tronok%20harca%20-%20George%20R.%20R.%20Martin.epub)
+- 2 (2020) - Királyok csatája [details](#id_418) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Kiralyok%20csataja%20%28418%29/Kiralyok%20csataja%20-%20George%20R.%20R.%20Martin.epub)
+- 3 (2009) - Kardok vihara [details](#id_424) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Kardok%20vihara%20%28424%29/Kardok%20vihara%20-%20George%20R.%20R.%20Martin.epub)
+- 4 (2016) - Varjak lakomája [details](#id_419) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Varjak%20lakomaja%20%28419%29/Varjak%20lakomaja%20-%20George%20R.%20R.%20Martin.epub)
+- 5 (2016) - Sárkányok tánca [details](#id_898) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Sarkanyok%20tanca%20%28898%29/Sarkanyok%20tanca%20-%20George%20R.%20R.%20Martin.epub)
+
+### Gerald Durrell
+
+Sorozatok:
+
+Korfu-trilógia:
+
+- 1 (2015) - Családom és egyéb állatfajták [details](#id_50) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Csaladom%20es%20egyeb%20allatfajtak%20%2850%29/Csaladom%20es%20egyeb%20allatfajtak%20-%20Gerald%20Durrell.epub)
+- 2 (1974) - Madarak, vadak, rokonok [details](#id_867) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Madarak%2C%20vadak%2C%20rokonok%20%28867%29/Madarak%2C%20vadak%2C%20rokonok%20-%20Gerald%20Durrell.epub)
+- 3 (2012) - Istenek kertje [details](#id_868) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Istenek%20kertje%20%28868%29/Istenek%20kertje%20-%20Gerald%20Durrell.epub)
+
+Egyéb könyvek:
+
+- (1978) - A halak jelleme [details](#id_879) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/A%20halak%20jelleme%20%28879%29/A%20halak%20jelleme%20-%20Gerald%20Durrell.epub)
+- (1982) - Vadállatok bolondja [details](#id_864) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Vadallatok%20bolondja%20%28864%29/Vadallatok%20bolondja%20-%20Gerald%20Durrell.epub)
+- (1988) - Vadak a vadonban [details](#id_866) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Vadak%20a%20vadonban%20%28866%29/Vadak%20a%20vadonban%20-%20Gerald%20Durrell.epub)
+- (1990) - Hogyan lőjünk amatőr természetbúvárt? [details](#id_869) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Hogyan%20lojunk%20amator%20termeszetbuvar%20%28869%29/Hogyan%20lojunk%20amator%20termeszetb%20-%20Gerald%20Durrell.epub)
+- (1992) - Noé bárkáján [details](#id_870) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Noe%20barkajan%20%28870%29/Noe%20barkajan%20-%20Gerald%20Durrell.epub)
+- (1994) - Szamártolvajok [details](#id_874) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Szamartolvajok%20%28874%29/Szamartolvajok%20-%20Gerald%20Durrell.epub)
+- (1995) - Férjhez adjuk a mamát [details](#id_872) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Ferjhez%20adjuk%20a%20mamat%20%28872%29/Ferjhez%20adjuk%20a%20mamat%20-%20Gerald%20Durrell.epub)
+- (1996) - Állatkert a kastély körül [details](#id_310) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Allatkert%20a%20kastely%20korul%20%28310%29/Allatkert%20a%20kastely%20korul%20-%20Gerald%20Durrell.epub)
+- (2000) - A bafuti kopók [details](#id_862) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/A%20bafuti%20kopok%20%28862%29/A%20bafuti%20kopok%20-%20Gerald%20Durrell.epub)
+- (2003) - Vadászat felvevőgéppel [details](#id_863) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Vadaszat%20felvevogeppel%20%28863%29/Vadaszat%20felvevogeppel%20-%20Gerald%20Durrell.epub)
+- (2004) - A hahagáj [details](#id_865) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/A%20hahagaj%20%28865%29/A%20hahagaj%20-%20Gerald%20Durrell.epub)
+- (2010) - Állatkert a poggyászomban [details](#id_49) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Allatkert%20a%20poggyaszomban%20%2849%29/Allatkert%20a%20poggyaszomban%20-%20Gerald%20Durrell.epub)
+- (2011) - Aranydenevérek, rózsaszín galambok [details](#id_875) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Aranydeneverek%2C%20rozsaszin%20galambok%20%28875%29/Aranydeneverek%2C%20rozsaszin%20galam%20-%20Gerald%20Durrell.epub)
+- (2012) - A részeg erdő [details](#id_878) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/A%20reszeg%20erdo%20%28878%29/A%20reszeg%20erdo%20-%20Gerald%20Durrell.epub)
+- (2013) - A susogó táj [details](#id_871) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/A%20susogo%20taj%20%28871%29/A%20susogo%20taj%20-%20Gerald%20Durrell.epub)
+- (2014) - Életem értelme [details](#id_873) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Eletem%20ertelme%20%28873%29/Eletem%20ertelme%20-%20Gerald%20Durrell.epub)
+
+### Gerlóczy, Márton
+
+- (2003) - Igazolt hiányzás [details](#id_1470) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerloczy%2C%20Marton/Igazolt%20hianyzas%20%281470%29/Igazolt%20hianyzas%20-%20Gerloczy%2C%20Marton.epub)
+- (2016) - Elvonókúra [details](#id_1468)
+- (2017) - Mikecs Anna: Altató [details](#id_1469) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerloczy%2C%20Marton/Mikecs%20Anna_%20Altato%20%281469%29/Mikecs%20Anna_%20Altato%20-%20Gerloczy%2C%20Marton.epub)
+
+### Graham Chapman
+
+- (2006) - Monty Python – Brian élete [details](#id_271) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Graham%20Chapman/Monty%20Python%20-%20Brian%20elete%20%28271%29/Monty%20Python%20-%20Brian%20elete%20-%20Graham%20Chapman.epub)
+
+### Grecsó, Krisztián
+
+- (2016) - Jelmezbál [details](#id_1228) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Grecso%2C%20Krisztian/Jelmezbal%20%281228%29/Jelmezbal%20-%20Grecso%2C%20Krisztian.epub)
+- (2017) - Harminc év napsütés [details](#id_1227) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Grecso%2C%20Krisztian/Harminc%20ev%20napsutes%20%281227%29/Harminc%20ev%20napsutes%20-%20Grecso%2C%20Krisztian.epub)
+- (2018) - Megyek utánad [details](#id_1230) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Grecso%2C%20Krisztian/Megyek%20utanad%20%281230%29/Megyek%20utanad%20-%20Grecso%2C%20Krisztian.epub)
+- (2018) - Megyek utánad [details](#id_990) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Grecso%2C%20Krisztian/Megyek%20utanad%20%28990%29/Megyek%20utanad%20-%20Grecso%2C%20Krisztian.epub)
+- (2019) - Mellettem elférsz [details](#id_1231) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Grecso%2C%20Krisztian/Mellettem%20elfersz%20%281231%29/Mellettem%20elfersz%20-%20Grecso%2C%20Krisztian.epub)
+- (2019) - Mellettem elférsz [details](#id_989) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Grecso%2C%20Krisztian/Mellettem%20elfersz%20%28989%29/Mellettem%20elfersz%20-%20Grecso%2C%20Krisztian.epub)
+- (2019) - Pletykaanyu [details](#id_1229) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Grecso%2C%20Krisztian/Pletykaanyu%20%281229%29/Pletykaanyu%20-%20Grecso%2C%20Krisztian.epub)
+- (2019) - Vera [details](#id_1224) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Grecso%2C%20Krisztian/Vera%20%281224%29/Vera%20-%20Grecso%2C%20Krisztian.epub)
+- (2020) - Isten hozott [details](#id_1226) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Grecso%2C%20Krisztian/Isten%20hozott%20%281226%29/Isten%20hozott%20-%20Grecso%2C%20Krisztian.epub)
+- (2020) - Magamról többet [details](#id_1225) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Grecso%2C%20Krisztian/Magamrol%20tobbet%20%281225%29/Magamrol%20tobbet%20-%20Grecso%2C%20Krisztian.epub)
+
+### Greg Bear
+
+Sorozatok:
+
+Alapítvány:
+
+- 5 (101) - Alapítvány és Káosz [details](#id_1169)
+
+### Greg Iles
+
+- (2002) - Huszonnégy óra [details](#id_780) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Greg%20Iles/Huszonnegy%20ora%20%28780%29/Huszonnegy%20ora%20-%20Greg%20Iles.epub)
+
+### Gregory Benford
+
+Sorozatok:
+
+Alapítvány:
+
+- 7 (101) - Az Alapítvány félelme [details](#id_1168)
+
+### Günter Grass
+
+- (2004) - Ráklépésben [details](#id_358) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gunter%20Grass/Raklepesben%20%28358%29/Raklepesben%20-%20Gunter%20Grass.epub)
+
+### Guy de Maupassant
+
+- (2010) - Az örökség: kisregények és válogatott elbeszélések [details](#id_710) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Guy%20de%20Maupassant/Az%20orokseg_%20kisregenyek%20es%20valogato%20%28710%29/Az%20orokseg_%20kisregenyek%20es%20valo%20-%20Guy%20de%20Maupassant.epub)
+
+### Gyurkovics, Tibor
+
+- (1985) - Kudi, a levegőember [details](#id_1276) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gyurkovics%2C%20Tibor/Kudi%2C%20a%20levegoember%20%281276%29/Kudi%2C%20a%20levegoember%20-%20Gyurkovics%2C%20Tibor.epub)
+
+### Richard Haack
+
+- (1994) - Kémek könyve [details](#id_377) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Haack%2C%20Richard/Kemek%20konyve%20%28377%29/Kemek%20konyve%20-%20Haack%2C%20Richard%20%28Case%20Conflict%29.epub)
+
+### Hahner, Péter
+
+- (2014) - 100 történelmi tévhit [details](#id_512) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Hahner%2C%20Peter/100%20tortenelmi%20tevhit%20%28512%29/100%20tortenelmi%20tevhit%20-%20Hahner%2C%20Peter.epub)
+
+### Hamvas Béla
+
+- (2015) - Scientia sacra [details](#id_777) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Hamvas%20Bela/Scientia%20sacra%20%28777%29/Scientia%20sacra%20-%20Hamvas%20Bela.epub)
+- (2017) - A bor filozófiája [details](#id_776) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Hamvas%20Bela/A%20bor%20filozofiaja%20%28776%29/A%20bor%20filozofiaja%20-%20Hamvas%20Bela.epub)
+
+### Harper Lee
+
+Sorozatok:
+
+Ne bántsátok a feketerigót!:
+
+- 1 (2003) - Ne bántsátok a feketerigót! [details](#id_987) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Harper%20Lee/Ne%20bantsatok%20a%20feketerigot%21%20%28987%29/Ne%20bantsatok%20a%20feketerigot%21%20-%20Harper%20Lee.epub)
+
+### Havas, Henrik
+
+Sorozatok:
+
+Pornó:
+
+- 1 (2013) - Pornó I-II. [details](#id_804) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Havas%2C%20Henrik/Porno%20I-II_%20%28804%29/Porno%20I-II_%20-%20Havas%2C%20Henrik.epub)
+- 2 (2013) - Pornó I-II. [details](#id_805) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Havas%2C%20Henrik/Porno%20I-II_%20%28805%29/Porno%20I-II_%20-%20Havas%2C%20Henrik.epub)
+
+Tények és titkok:
+
+- 1 (2013) - Kurvaélet [details](#id_477) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Havas%2C%20Henrik/Kurvaelet%20%28477%29/Kurvaelet%20-%20Havas%2C%20Henrik.epub)
+
+### Hegedűs, Hubert
+
+- (1965) - Matrózéveim [details](#id_160) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Hegedus%2C%20Hubert/Matrozeveim%20%28160%29/Matrozeveim%20-%20Hegedus%2C%20Hubert.epub)
+
+### Henryk Sienkiewicz
+
+- (2013) - Sivatagon és vadonban [details](#id_382) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Henryk%20Sienkiewicz/Sivatagon%20es%20vadonban%20%28382%29/Sivatagon%20es%20vadonban%20-%20Henryk%20Sienkiewicz.epub)
+- (2018) - Quo vadis? [details](#id_386) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Henryk%20Sienkiewicz/Quo%20vadis_%20%28386%29/Quo%20vadis_%20-%20Henryk%20Sienkiewicz.epub)
+
+### Herbert, Attila
+
+Sorozatok:
+
+Történelem könyv:
+
+- 1 (2010) - Történelem 1. - A kezdetektől I.e 500 -ig [details](#id_765) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Attila/Tortenelem%201.%20-%20A%20kezdetektol%20I.e%205%20%28765%29/Tortenelem%201.%20-%20A%20kezdetektol%20I%20-%20Herbert%2C%20Attila.epub)
+- 2 (2010) - Történelem 2. - Kr.E. 500 - Kr.U. 1000 [details](#id_766) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Attila/Tortenelem%202.%20-%20Kr.E.%20500%20-%20Kr.U.%201%20%28766%29/Tortenelem%202.%20-%20Kr.E.%20500%20-%20Kr.%20-%20Herbert%2C%20Attila.epub)
+- 5 (2010) - Történelem 5 1789 -től 1914 -ig [details](#id_767) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Attila/Tortenelem%205%201789%20-tol%201914%20-ig%20%28767%29/Tortenelem%205%201789%20-tol%201914%20-ig%20-%20Herbert%2C%20Attila.epub)
+- 6 (2010) - Történelem 6. 1914 -től 1990 -ig [details](#id_768) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Attila/Tortenelem%206.%201914%20-tol%201990%20-ig%20%28768%29/Tortenelem%206.%201914%20-tol%201990%20-i%20-%20Herbert%2C%20Attila.epub)
+
+### Herbert, Brian
+
+Sorozatok:
+
+Düne:
+
+- 7 (101) - Dűne-7-A Dűne vadászai [details](#id_194) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Brian/Dune-7-A%20Dune%20vadaszai%20%28194%29/Dune-7-A%20Dune%20vadaszai%20-%20Herbert%2C%20Brian.epub)
+- 8 (101) - Dűne-8-A Dűne homokférgei [details](#id_195) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Brian/Dune-8-A%20Dune%20homokfergei%20%28195%29/Dune-8-A%20Dune%20homokfergei%20-%20Herbert%2C%20Brian.epub)
+
+Egyéb könyvek:
+
+- (101) - Dűne Előj.1-Az Atreides-ház [details](#id_188) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Brian/Dune%20Eloj.1-Az%20Atreides-haz%20%28188%29/Dune%20Eloj.1-Az%20Atreides-haz%20-%20Herbert%2C%20Brian.epub)
+- (101) - Dűne Előj.2-A Harkonnen-ház [details](#id_189) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Brian/Dune%20Eloj.2-A%20Harkonnen-haz%20%28189%29/Dune%20Eloj.2-A%20Harkonnen-haz%20-%20Herbert%2C%20Brian.epub)
+- (101) - Dűne Előj.3-A Corrino-ház [details](#id_190) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Brian/Dune%20Eloj.3-A%20Corrino-haz%20%28190%29/Dune%20Eloj.3-A%20Corrino-haz%20-%20Herbert%2C%20Brian.epub)
+- (101) - Dűne legend-1-A butleri dzsihad [details](#id_191) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Brian/Dune%20legend-1-A%20butleri%20dzsihad%20%28191%29/Dune%20legend-1-A%20butleri%20dzsihad%20-%20Herbert%2C%20Brian.epub)
+- (101) - Dűne legend-2-A gépirtó hadjárat [details](#id_192) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Brian/Dune%20legend-2-A%20gepirto%20hadjarat%20%28192%29/Dune%20legend-2-A%20gepirto%20hadjara%20-%20Herbert%2C%20Brian.epub)
+- (101) - Dűne legend-3-A corrini csata [details](#id_193) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Brian/Dune%20legend-3-A%20corrini%20csata%20%28193%29/Dune%20legend-3-A%20corrini%20csata%20-%20Herbert%2C%20Brian.epub)
+
+### Herbert, Frank
+
+Sorozatok:
+
+Düne:
+
+- 2 (101) - Dűne-2-Dűne messiása [details](#id_183) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Frank/Dune-2-Dune%20messiasa%20%28183%29/Dune-2-Dune%20messiasa%20-%20Herbert%2C%20Frank.epub)
+- 4 (101) - Dűne-4-Dűne isten-császára [details](#id_185) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Frank/Dune-4-Dune%20isten-csaszara%20%28185%29/Dune-4-Dune%20isten-csaszara%20-%20Herbert%2C%20Frank.epub)
+- 5 (101) - Dűne-5-Dűne eretnekei [details](#id_186) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Frank/Dune-5-Dune%20eretnekei%20%28186%29/Dune-5-Dune%20eretnekei%20-%20Herbert%2C%20Frank.epub)
+- 6 (101) - Dűne-6-Dűne Káptalanház [details](#id_187) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Frank/Dune-6-Dune%20Kaptalanhaz%20%28187%29/Dune-6-Dune%20Kaptalanhaz%20-%20Herbert%2C%20Frank.epub)
+
+Egyéb könyvek:
+
+- (101) - Védett nők [details](#id_702) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Frank/Vedett%20nok%20%28702%29/Vedett%20nok%20-%20Herbert%2C%20Frank.epub)
+
+### Heribert Illig
+
+- (2007) - Kitalált középkor [details](#id_1599) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Heribert%20Illig/Kitalalt%20kozepkor%20%281599%29/Kitalalt%20kozepkor%20-%20Heribert%20Illig.epub)
+
+### Hermann Hesse
+
+- (2014) - Narziss és Goldmund [details](#id_401) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Hermann%20Hesse/Narziss%20es%20Goldmund%20%28401%29/Narziss%20es%20Goldmund%20-%20Hermann%20Hesse.epub)
+- (2015) - A pusztai farkas [details](#id_400) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Hermann%20Hesse/A%20pusztai%20farkas%20%28400%29/A%20pusztai%20farkas%20-%20Hermann%20Hesse.epub)
+- (2018) - Demian [details](#id_399) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Hermann%20Hesse/Demian%20%28399%29/Demian%20-%20Hermann%20Hesse.epub)
+
+### Hernádi, Gyula
+
+- (1994) - Egri csillagok háborúja [details](#id_1197) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Hernadi%2C%20Gyula/Egri%20csillagok%20haboruja%20%281197%29/Egri%20csillagok%20haboruja%20-%20Hernadi%2C%20Gyula.epub)
+
+### Hevesi, Krisztina
+
+- (2014) - Szextrém [details](#id_986) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Hevesi%2C%20Krisztina/Szextrem%20%28986%29/Szextrem%20-%20Hevesi%2C%20Krisztina.epub)
+
+### Holly Hill
+
+- (2007) - Luxusnyalánkság [details](#id_284) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Holly%20Hill/Luxusnyalanksag%20%28284%29/Luxusnyalanksag%20-%20Holly%20Hill.epub)
+
+### Holly Smale
+
+Sorozatok:
+
+Geek girl:
+
+- 1 (2014) - A lány, akit soha senki sem vett észre [details](#id_1002) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Holly%20Smale/A%20lany%2C%20akit%20soha%20senki%20sem%20vett%20es%20%281002%29/A%20lany%2C%20akit%20soha%20senki%20sem%20vet%20-%20Holly%20Smale.epub)
+- 2 (2015) - A lány, aki mindig mindent félreért [details](#id_1003) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Holly%20Smale/A%20lany%2C%20aki%20mindig%20mindent%20felreert%20%281003%29/A%20lany%2C%20aki%20mindig%20mindent%20felr%20-%20Holly%20Smale.epub)
+
+### Hugh Laurie
+
+- (2019) - A balek [details](#id_162) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Hugh%20Laurie/A%20balek%20%28162%29/A%20balek%20-%20Hugh%20Laurie.epub)
+
+### Hyeonseo Lee
+
+- (2015) - A lány hét névvel [details](#id_988) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Hyeonseo%20Lee/A%20lany%20het%20nevvel%20%28988%29/A%20lany%20het%20nevvel%20-%20Hyeonseo%20Lee.epub)
+
+### Ian Stewart
+
+- (1997) - A természet számai [details](#id_781) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ian%20Stewart/A%20termeszet%20szamai%20%28781%29/A%20termeszet%20szamai%20-%20Ian%20Stewart.epub)
+
+### Ian V. Hogg
+
+- (1999) - A II. világháború német titkos fegyverei [details](#id_1454) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ian%20V.%20Hogg/A%20II.%20vilaghaboru%20nemet%20titkos%20fegy%20%281454%29/A%20II.%20vilaghaboru%20nemet%20titkos%20-%20Ian%20V.%20Hogg.epub)
+
+### Imre, Viktória Anna
+
+- (2017) - Kísértés Rt. [details](#id_632) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Imre%2C%20Viktoria%20Anna/Kisertes%20Rt_%20%28632%29/Kisertes%20Rt_%20-%20Imre%2C%20Viktoria%20Anna.epub)
+
+### Ismeretlen
+
+- (101) - Az Őrtorony betanítási eljárása [details](#id_156) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ismeretlen/Az%20Ortorony%20betanitasi%20eljarasa%20%28156%29/Az%20Ortorony%20betanitasi%20eljarasa%20-%20Ismeretlen.epub)
+- (101) - Kató mint asszony [details](#id_472) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ismeretlen/Kato%20mint%20asszony%20%28472%29/Kato%20mint%20asszony%20-%20Ismeretlen.epub)
+
+### Ismeretlen szerző
+
+- (101) - Rumini 3 [details](#id_1425) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ismeretlen%20szerzo/Rumini%203%20%281425%29/Rumini%203%20-%20Ismeretlen%20szerzo.epub)
+
+### J. D. Salinger
+
+- (2012) - Zabhegyező [details](#id_561) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/J.%20D.%20Salinger/Zabhegyezo%20%28561%29/Zabhegyezo%20-%20J.%20D.%20Salinger.epub)
+- (2020) - Rozsban a fogó [details](#id_1409) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/J.%20D.%20Salinger/Rozsban%20a%20fogo%20%281409%29/Rozsban%20a%20fogo%20-%20J.%20D.%20Salinger.epub)
+
+### J. K. Rowling
+
+Sorozatok:
+
+Harry Potter:
+
+- 1 (2021) - Harry Potter és a bölcsek köve [details](#id_18) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20bolcsek%20kove%20%2818%29/Harry%20Potter%20es%20a%20bolcsek%20kove%20-%20J.%20K.%20Rowling.epub)
+- 2 (2021) - Harry Potter és a Titkok Kamrája [details](#id_19) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20Titkok%20Kamraja%20%2819%29/Harry%20Potter%20es%20a%20Titkok%20Kamraj%20-%20J.%20K.%20Rowling.epub)
+- 3 (2016) - Harry Potter és az azkabani fogoly [details](#id_20) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/J.%20K.%20Rowling/Harry%20Potter%20es%20az%20azkabani%20fogoly%20%2820%29/Harry%20Potter%20es%20az%20azkabani%20fog%20-%20J.%20K.%20Rowling.epub)
+- 4 (2020) - Harry Potter és a Tűz Serlege [details](#id_21) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20Tuz%20Serlege%20%2821%29/Harry%20Potter%20es%20a%20Tuz%20Serlege%20-%20J.%20K.%20Rowling.epub)
+- 5 (2021) - Harry Potter és a Főnix Rendje [details](#id_22) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20Fonix%20Rendje%20%2822%29/Harry%20Potter%20es%20a%20Fonix%20Rendje%20-%20J.%20K.%20Rowling.epub)
+- 6 (2020) - Harry Potter és a Félvér Herceg [details](#id_23) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20Felver%20Herceg%20%2823%29/Harry%20Potter%20es%20a%20Felver%20Herceg%20-%20J.%20K.%20Rowling.epub)
+- 7 (2021) - Harry Potter és a Halál ereklyéi [details](#id_24) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20Halal%20ereklyei%20%2824%29/Harry%20Potter%20es%20a%20Halal%20ereklye%20-%20J.%20K.%20Rowling.epub)
+- 8 (2021) - Harry Potter és az elátkozott gyermek [details](#id_1459) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/J.%20K.%20Rowling/Harry%20Potter%20es%20az%20elatkozott%20gyerm%20%281459%29/Harry%20Potter%20es%20az%20elatkozott%20g%20-%20J.%20K.%20Rowling.epub)
+
+### J. R. R. Tolkien
+
+Sorozatok:
+
+A gyűrűk Ura:
+
+- 1 (1966) - The Fellowship of the Ring [details](#id_12) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/J.%20R.%20R.%20Tolkien/The%20Fellowship%20of%20the%20Ring%20%2812%29/The%20Fellowship%20of%20the%20Ring%20-%20J.%20R.%20R.%20Tolkien.epub)
+- 2 (1992) - The two towers [details](#id_13) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/J.%20R.%20R.%20Tolkien/The%20two%20towers%20%2813%29/The%20two%20towers%20-%20J.%20R.%20R.%20Tolkien.epub)
+- 3 (2001) - The Return of the King [details](#id_14) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/J.%20R.%20R.%20Tolkien/The%20Return%20of%20the%20King%20%2814%29/The%20Return%20of%20the%20King%20-%20J.%20R.%20R.%20Tolkien.epub)
+
+Egyéb könyvek:
+
+- (2018) - A szilmarilok [details](#id_60) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/J.%20R.%20R.%20Tolkien/A%20szilmarilok%20%2860%29/A%20szilmarilok%20-%20J.%20R.%20R.%20Tolkien.epub)
+- (2019) - A hobbit [details](#id_61) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/J.%20R.%20R.%20Tolkien/A%20hobbit%20%2861%29/A%20hobbit%20-%20J.%20R.%20R.%20Tolkien.epub)
+- (2019) - Húrin gyermekei [details](#id_53) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/J.%20R.%20R.%20Tolkien/Hurin%20gyermekei%20%2853%29/Hurin%20gyermekei%20-%20J.%20R.%20R.%20Tolkien.epub)
+- (2020) - J. R. R. Tolkien meséi [details](#id_62) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/J.%20R.%20R.%20Tolkien/J.%20R.%20R.%20Tolkien%20mesei%20%2862%29/J.%20R.%20R.%20Tolkien%20mesei%20-%20J.%20R.%20R.%20Tolkien.epub)
+
+### James Clavell
+
+Sorozatok:
+
+Ázsia-saga:
+
+- 1 (2016) - A sógun [details](#id_168) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Clavell/A%20Sogun%20%28168%29/A%20sogun%20-%20James%20Clavell.epub)
+- 2 (2020) - A Tajpan [details](#id_1027) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Clavell/A%20Tajpan%20%281027%29/A%20Tajpan%20-%20James%20Clavell.epub)
+- 3 (2010) - Gajdzsin [details](#id_1028) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Clavell/Gajdzsin%20%281028%29/Gajdzsin%20-%20James%20Clavell.epub)
+
+### James Herriot
+
+- (1983) - Egy állatorvos történetei [details](#id_926) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Herriot/Egy%20allatorvos%20tortenetei%20%28926%29/Egy%20allatorvos%20tortenetei%20-%20James%20Herriot.epub)
+- (2005) - Az állatorvos is nős ember [details](#id_1270) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Herriot/Az%20allatorvos%20is%20nos%20ember%20%281270%29/Az%20allatorvos%20is%20nos%20ember%20-%20James%20Herriot.epub)
+- (2013) - Kutyák a rendelőmben [details](#id_782) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Herriot/Kutyak%20a%20rendelomben%20%28782%29/Kutyak%20a%20rendelomben%20-%20James%20Herriot.epub)
+- (2014) - Minden élő az ég alatt [details](#id_925) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Herriot/Minden%20elo%20az%20eg%20alatt%20%28925%29/Minden%20elo%20az%20eg%20alatt%20-%20James%20Herriot.epub)
+- (2015) - A repülő állatorvos [details](#id_929) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Herriot/A%20repulo%20allatorvos%20%28929%29/A%20repulo%20allatorvos%20-%20James%20Herriot.epub)
+- (2016) - Kutyák a rendelőmben 2. [details](#id_924) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Herriot/Kutyak%20a%20rendelomben%202_%20%28924%29/Kutyak%20a%20rendelomben%202_%20-%20James%20Herriot.epub)
+- (2018) - Állatorvosi pályám kezdetén… [details](#id_927) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Herriot/Allatorvosi%20palyam%20kezdeten__%20%28927%29/Allatorvosi%20palyam%20kezdeten__%20-%20James%20Herriot.epub)
+
+### James Joyce
+
+- (1914) - Dublini emberek [details](#id_455) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Joyce/Dublini%20emberek%20%28455%29/Dublini%20emberek%20-%20James%20Joyce.epub)
+- (1916) - Ifjúkori önarckép [details](#id_456) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Joyce/Ifjukori%20onarckep%20%28456%29/Ifjukori%20onarckep%20-%20James%20Joyce.epub)
+- (1922) - Ulysses [details](#id_1473) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Joyce/Ulysses%20%281473%29/Ulysses%20-%20James%20Joyce.epub)
+
+### James Lecesne
+
+- (2013) - Trevor [details](#id_1272) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Lecesne/Trevor%20%281272%29/Trevor%20-%20James%20Lecesne.epub)
+
+### James Ramsey Ullman
+
+- (1963) - A Himalája fia [details](#id_953) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Ramsey%20Ullman/A%20Himalaja%20fia%20%28953%29/A%20Himalaja%20fia%20-%20James%20Ramsey%20Ullman.epub)
+
+### Jan Fennell
+
+- (101) - Kutyapszichológia [details](#id_475) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jan%20Fennell/Kutyapszichologia%20%28475%29/Kutyapszichologia%20-%20Jan%20Fennell.epub)
+
+### Jane Austen
+
+Sorozatok:
+
+A világirodalom remekei:
+
+- 1 (1986) - Értelem és érzelem [details](#id_58) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Austen/Ertelem%20es%20erzelem%20%2858%29/Ertelem%20es%20erzelem%20-%20Jane%20Austen.epub)
+
+Egyéb könyvek:
+
+- (1975) - Büszkeség és Balítélet [details](#id_56) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Austen/Buszkeseg%20es%20Balitelet%20%2856%29/Buszkeseg%20es%20Balitelet%20-%20Jane%20Austen.epub)
+- (1983) - A Klastrom Titka [details](#id_54) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Austen/A%20Klastrom%20Titka%20%2854%29/A%20Klastrom%20Titka%20-%20Jane%20Austen.epub)
+- (2010) - A Mansfieldi Kastély [details](#id_55) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Austen/A%20Mansfieldi%20Kastely%20%2855%29/A%20Mansfieldi%20Kastely%20-%20Jane%20Austen.epub)
+- (2010) - Emma [details](#id_57) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Austen/Emma%20%2857%29/Emma%20-%20Jane%20Austen.epub)
+- (2010) - Meggyőző érvek [details](#id_59) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Austen/Meggyozo%20ervek%20%2859%29/Meggyozo%20ervek%20-%20Jane%20Austen.epub)
+- (2015) - Meggyőző érvek [details](#id_996) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Austen/Meggyozo%20ervek%20%28996%29/Meggyozo%20ervek%20-%20Jane%20Austen.epub)
+
+### Jane Goodall
+
+- (1980) - Az ember árnyékában [details](#id_402) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Goodall/Az%20ember%20arnyekaban%20%28402%29/Az%20ember%20arnyekaban%20-%20Jane%20Goodall.epub)
+
+### Jared Diamond
+
+- (1997) - Miért élvezet a szex? [details](#id_908) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jared%20Diamond/Miert%20elvezet%20a%20szex_%20%28908%29/Miert%20elvezet%20a%20szex_%20-%20Jared%20Diamond.epub)
+
+### Jean-Christophe Grangé
+
+- (2011) - Bíbor folyók [details](#id_621)
+
+### Jean-Pierre Montcassen
+
+- (2010) - A sivatag hercegnője [details](#id_627) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jean-Pierre%20Montcassen/A%20sivatag%20hercegnoje%20%28627%29/A%20sivatag%20hercegnoje%20-%20Jean-Pierre%20Montcassen.epub)
+
+### Jeff Lindsay
+
+Sorozatok:
+
+Dexter:
+
+- 2 (2008) - Drága, dolgos Dexter [details](#id_521) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jeff%20Lindsay/Draga%2C%20dolgos%20Dexter%20%28521%29/Draga%2C%20dolgos%20Dexter%20-%20Jeff%20Lindsay.epub)
+- 3 (2008) - Dermedt, dacos Dexter [details](#id_520) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jeff%20Lindsay/Dermedt%2C%20dacos%20Dexter%20%28520%29/Dermedt%2C%20dacos%20Dexter%20-%20Jeff%20Lindsay.epub)
+- 4 (2010) - Dexter darabokban [details](#id_518) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jeff%20Lindsay/Dexter%20darabokban%20%28518%29/Dexter%20darabokban%20-%20Jeff%20Lindsay.epub)
+
+### Jevgenyij Zamjatyin
+
+- (2008) - Mi [details](#id_607) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jevgenyij%20Zamjatyin/Mi%20%28607%29/Mi%20-%20Jevgenyij%20Zamjatyin.epub)
+
+### Jo Nesbø
+
+Sorozatok:
+
+Harry Hole:
+
+- 1 (2020) - Denevérember [details](#id_581) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Deneverember%20%28581%29/Deneverember%20-%20Jo%20Nesbo.epub)
+- 2 (2017) - Csótányok [details](#id_577) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Csotanyok%20%28577%29/Csotanyok%20-%20Jo%20Nesbo.epub)
+- 3 (2019) - Vörösbegy [details](#id_579)
+- 4 (2019) - Nemeszisz [details](#id_410) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Nemeszisz%20%28410%29/Nemeszisz%20-%20Jo%20Nesbo.epub)
+- 5 (2019) - Boszorkányszög [details](#id_412) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Boszorkanyszog%20%28412%29/Boszorkanyszog%20-%20Jo%20Nesbo.epub)
+- 6 (2019) - A megváltó [details](#id_592) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20megvalto%20%28592%29/A%20megvalto%20-%20Jo%20Nesbo.epub)
+- 7 (2019) - Hóember [details](#id_582) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Hoember%20%28582%29/Hoember%20-%20Jo%20Nesbo.epub)
+- 8 (2019) - Leopárd [details](#id_580) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Leopard%20%28580%29/Leopard%20-%20Jo%20Nesbo.epub)
+- 9 (2019) - Kísértet [details](#id_591) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Kisertet%20%28591%29/Kisertet%20-%20Jo%20Nesbo.epub)
+- 10 (2013) - Police [details](#id_578) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Police%20%28578%29/Police%20-%20Jo%20Nesbo.epub)
+
+Vér a havon:
+
+- 2 (2015) - Fehér éjszaka [details](#id_978) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Feher%20ejszaka%20%28978%29/Feher%20ejszaka%20-%20Jo%20Nesbo.epub)
+
+Egyéb könyvek:
+
+- (101) - A nagy aranyrablás [details](#id_1705) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20nagy%20aranyrablas%20%281705%29/A%20nagy%20aranyrablas%20-%20Jo%20Nesbo.epub)
+- (2019) - Fejvadászok [details](#id_411) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Fejvadaszok%20%28411%29/Fejvadaszok%20-%20Jo%20Nesbo.epub)
+
+### Joanne Fluke
+
+Sorozatok:
+
+Hannah Swensen titokzatos esetei:
+
+- 3 (2007) - Áfonyás muffin és gyilkosság [details](#id_622) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Afonyas%20muffin%20es%20gyilkossag%20%28622%29/Afonyas%20muffin%20es%20gyilkossag%20-%20Joanne%20Fluke.epub)
+- 4 (2008) - Pikáns meglepetés és gyilkosság [details](#id_623) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Pikans%20meglepetes%20es%20gyilkossag%20%28623%29/Pikans%20meglepetes%20es%20gyilkossag%20-%20Joanne%20Fluke.epub)
+- 5 (2009) - Csokis tündértorta és gyilkosság [details](#id_624) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Csokis%20tundertorta%20es%20gyilkossag%20%28624%29/Csokis%20tundertorta%20es%20gyilkossa%20-%20Joanne%20Fluke.epub)
+- 6 (2009) - Karácsonyi habcsók és gyilkosság [details](#id_625) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Karacsonyi%20habcsok%20es%20gyilkossag%20%28625%29/Karacsonyi%20habcsok%20es%20gyilkossa%20-%20Joanne%20Fluke.epub)
+
+### Joanne Harris
+
+Sorozatok:
+
+Csokoládé:
+
+- 4 (101) - Csokoládé trilógia [details](#id_1124) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Csokolade%20trilogia%20%281124%29/Csokolade%20trilogia%20-%20Joanne%20Harris.epub)
+
+Rúnajelek:
+
+- 1 (2008) - Rúnajelek [details](#id_1125) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Runajelek%20%281125%29/Runajelek%20-%20Joanne%20Harris.epub)
+
+St. Oswald:
+
+- 1 (2010) - Kékszeműfiú [details](#id_1117) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Kekszemufiu%20%281117%29/Kekszemufiu%20-%20Joanne%20Harris.epub)
+
+Egyéb könyvek:
+
+- (2005) - Szent bolondok [details](#id_1120) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Szent%20bolondok%20%281120%29/Szent%20bolondok%20-%20Joanne%20Harris.epub)
+- (2008) - Bársony és keserű mandula [details](#id_1121) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Barsony%20es%20keseru%20mandula%20%281121%29/Barsony%20es%20keseru%20mandula%20-%20Joanne%20Harris.epub)
+- (2009) - Aludj kislány [details](#id_1126) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Aludj%20kislany%20%281126%29/Aludj%20kislany%20-%20Joanne%20Harris.epub)
+- (2010) - Szederbor [details](#id_1127) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Szederbor%20%281127%29/Szederbor%20-%20Joanne%20Harris.epub)
+- (2018) - Ötnegyed narancs [details](#id_1123) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Otnegyed%20narancs%20%281123%29/Otnegyed%20narancs%20-%20Joanne%20Harris.epub)
+- (2018) - Partvidékiek [details](#id_1128) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Partvidekiek%20%281128%29/Partvidekiek%20-%20Joanne%20Harris.epub)
+
+### Jodi Picoult
+
+- (2012) - Szívtől szívig [details](#id_351) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jodi%20Picoult/Szivtol%20szivig%20%28351%29/Szivtol%20szivig%20-%20Jodi%20Picoult.epub)
+- (2020) - Tizenkilenc perc [details](#id_348) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jodi%20Picoult/Tizenkilenc%20perc%20%28348%29/Tizenkilenc%20perc%20-%20Jodi%20Picoult.epub)
+- (2021) - A nővérem húga [details](#id_350) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jodi%20Picoult/A%20noverem%20huga%20%28350%29/A%20noverem%20huga%20-%20Jodi%20Picoult.epub)
+- (2021) - Elrabolt az apám [details](#id_349) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jodi%20Picoult/Elrabolt%20az%20apam%20%28349%29/Elrabolt%20az%20apam%20-%20Jodi%20Picoult.epub)
+
+### Joe Quirk
+
+- (2009) - Prűdek és paráznák [details](#id_1524) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joe%20Quirk/Prudek%20es%20paraznak%20%281524%29/Prudek%20es%20paraznak%20-%20Joe%20Quirk.epub)
+
+### Johanna Spyri
+
+- (2007) - Heidi [details](#id_983) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Johanna%20Spyri/Heidi%20%28983%29/Heidi%20-%20Johanna%20Spyri.epub)
+
+### John Cure
+
+- (2015) - A gonosz új arca [details](#id_956) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/John%20Cure/A%20gonosz%20uj%20arca%20%28956%29/A%20gonosz%20uj%20arca%20-%20John%20Cure.epub)
+
+### John Keegan
+
+Sorozatok:
+
+The Times:
+
+- 1 (2008) - A második világháború [details](#id_997) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/John%20Keegan/A%20masodik%20vilaghaboru%20%28997%29/A%20masodik%20vilaghaboru%20-%20John%20Keegan.epub)
+
+### John le Carré
+
+- (2014) - Egy tökéletes kém [details](#id_1000) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/John%20le%20Carre/Egy%20tokeletes%20kem%20%281000%29/Egy%20tokeletes%20kem%20-%20John%20le%20Carre.epub)
+
+### John Nada
+
+- (101) - Ébresztőfilm [details](#id_1033) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/John%20Nada/Ebresztofilm%20%281033%29/Ebresztofilm%20%28Wake%20up%20call%29%20-%20John%20Nada.epub)
+
+### John Williams
+
+- (2014) - Stoner [details](#id_1004) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/John%20Williams/Stoner%20%281004%29/Stoner%20-%20John%20Williams.epub)
+
+### Jon Krakauer
+
+- (2008) - Út a vadonba [details](#id_797) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jon%20Krakauer/Ut%20a%20vadonba%20%28797%29/Ut%20a%20vadonba%20-%20Jon%20Krakauer.epub)
+
+### Jonas Jonasson
+
+Sorozatok:
+
+A százéves ember aki...:
+
+- 1 (2019) - A százéves ember, aki kimászott az ablakon és eltűnt [details](#id_383) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jonas%20Jonasson/A%20szazeves%20ember%2C%20aki%20kimaszott%20az%20%28383%29/A%20szazeves%20ember%2C%20aki%20kimaszott%20-%20Jonas%20Jonasson.epub)
+
+Egyéb könyvek:
+
+- (2015) - Gyilkos-Anders és barátai (meg akik nem azok) [details](#id_984) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jonas%20Jonasson/Gyilkos-Anders%20es%20baratai%20%28meg%20akik%20%28984%29/Gyilkos-Anders%20es%20baratai%20%28meg%20-%20Jonas%20Jonasson.epub)
+- (2020) - Az analfabéta, aki tudott számolni [details](#id_668) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jonas%20Jonasson/Az%20analfabeta%2C%20aki%20tudott%20szamolni%20%28668%29/Az%20analfabeta%2C%20aki%20tudott%20szamo%20-%20Jonas%20Jonasson.epub)
+
+### Jonathan Barker
+
+- (2003) - A terrorizmus [details](#id_885)
+
+### Jorge Bucay
+
+- (2011) - Nyitott szemmel szeretni [details](#id_385) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jorge%20Bucay/Nyitott%20szemmel%20szeretni%20%28385%29/Nyitott%20szemmel%20szeretni%20-%20Jorge%20Bucay.epub)
+
+### Jorge Luis Borges
+
+- (1972) - Körkörös romok [details](#id_1207) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jorge%20Luis%20Borges/Korkoros%20romok%20%281207%29/Korkoros%20romok%20-%20Jorge%20Luis%20Borges.epub)
+
+### Joseph D'Lacey
+
+Sorozatok:
+
+Bloody Good Books:
+
+- 1 (2008) - Hús [details](#id_524) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joseph%20D%27Lacey/Hus%20%28524%29/Hus%20-%20Joseph%20D%27Lacey.epub)
+
+### Joseph Heywood
+
+- (1990) - Hozd el nekem Hitlert! [details](#id_404) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joseph%20Heywood/Hozd%20el%20nekem%20Hitlert%21%20%28404%29/Hozd%20el%20nekem%20Hitlert%21%20-%20Joseph%20Heywood.epub)
+
+### Jostein Gaarder
+
+- (2016) - A kártya titka [details](#id_1410) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jostein%20Gaarder/A%20kartya%20titka%20%281410%29/A%20kartya%20titka%20-%20Jostein%20Gaarder.epub)
+- (2016) - Anna világa [details](#id_1411)
+
+### Jurányi, Zsolt
+
+Sorozatok:
+
+Az alvilág zsoldjában:
+
+- 1 (2015) - Az alvilág zsoldjában [details](#id_374) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Juranyi%2C%20Zsolt/Az%20alvilag%20zsoldjaban%20%28374%29/Az%20alvilag%20zsoldjaban%20-%20Juranyi%2C%20Zsolt.epub)
+
+### Justin Pollard
+
+- (2011) - Feltalálósdi [details](#id_1008) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Justin%20Pollard/Feltalalosdi%20%281008%29/Feltalalosdi%20-%20Justin%20Pollard.epub)
+
+### Kalapos, Éva
+
+Sorozatok:
+
+D.A.C.:
+
+- 1 (2013) - Egy új élet [details](#id_1597) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kalapos%2C%20Eva/Egy%20uj%20elet%20%281597%29/Egy%20uj%20elet%20-%20Kalapos%2C%20Eva.epub)
+
+### Karen Joy Fowler
+
+- (2009) - A Jane Austen könyvklub [details](#id_629) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Karen%20Joy%20Fowler/A%20Jane%20Austen%20konyvklub%20%28629%29/A%20Jane%20Austen%20konyvklub%20-%20Karen%20Joy%20Fowler.epub)
+
+### Karin Alvtegen
+
+- (2014) - A kitaszított [details](#id_673) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Karin%20Alvtegen/A%20kitaszitott%20%28673%29/A%20kitaszitott%20-%20Karin%20Alvtegen.epub)
+- (2014) - Árnyak [details](#id_676) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Karin%20Alvtegen/Arnyak%20%28676%29/Arnyak%20-%20Karin%20Alvtegen.epub)
+
+### Karin Slaughter
+
+Sorozatok:
+
+Grant County:
+
+- 1 (2008) - Nadragulya [details](#id_788) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Karin%20Slaughter/Nadragulya%20%28788%29/Nadragulya%20-%20Karin%20Slaughter.epub)
+- 6 (2012) - Bőr [details](#id_599) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Karin%20Slaughter/Bor%20%28599%29/Bor%20-%20Karin%20Slaughter.epub)
+
+Will Trent:
+
+- 2 (2021) - Összetörve [details](#id_1488) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Karin%20Slaughter/Osszetorve%20%281488%29/Osszetorve%20-%20Karin%20Slaughter.epub)
+
+### Kárpáti, Andor
+
+- (2002) - Kurvajó! [details](#id_670) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Karpati%2C%20Andor/Kurvajo%21%20%28670%29/Kurvajo%21%20-%20Karpati%2C%20Andor.epub)
+
+### Kathy Reichs
+
+Sorozatok:
+
+Temperance Brennan:
+
+- 1 (2008) - A holtak beszélnek [details](#id_157) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kathy%20Reichs/A%20holtak%20beszelnek%20%28157%29/A%20holtak%20beszelnek%20-%20Kathy%20Reichs.epub)
+
+### Kati Hiekkapelto
+
+Sorozatok:
+
+Fekete Anna:
+
+- 1 (2014) - Kolibri [details](#id_1198) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kati%20Hiekkapelto/Kolibri%20%281198%29/Kolibri%20-%20Kati%20Hiekkapelto.epub)
+
+### Katie Fforde
+
+- (2019) - Szerelmes levelek [details](#id_1208) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Katie%20Fforde/Szerelmes%20levelek%20%281208%29/Szerelmes%20levelek%20-%20Katie%20Fforde.epub)
+
+### Kazuo Ishiguro
+
+- (2018) - Ne engedj el… [details](#id_158) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kazuo%20Ishiguro/Ne%20engedj%20el__%20%28158%29/Ne%20engedj%20el__%20-%20Kazuo%20Ishiguro.epub)
+
+### Ken Follett
+
+Sorozatok:
+
+The Century Trilogy:
+
+- 1 (2010) - Fall of Giants [details](#id_1641) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ken%20Follett/Fall%20of%20Giants%20%281641%29/Fall%20of%20Giants%20-%20Ken%20Follett.epub)
+
+Egyéb könyvek:
+
+- (2011) - The Third Twin [details](#id_1640) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ken%20Follett/The%20Third%20Twin%20%281640%29/The%20Third%20Twin%20-%20Ken%20Follett.epub)
+- (2012) - Az ördög műve [details](#id_807) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ken%20Follett/Az%20ordog%20muve%20%28807%29/Az%20ordog%20muve%20-%20Ken%20Follett.epub)
+
+### Thomas Keneally
+
+- (2006) - Schindler listája [details](#id_318) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Keneally%2C%20Thomas/Schindler%20listaja%20%28318%29/Schindler%20listaja%20-%20Keneally%2C%20Thomas%20%28Case%20Conflict%29.epub)
+
+### Kenneth Roberts
+
+- (1992) - Északnyugati átjáró [details](#id_745) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kenneth%20Roberts/Eszaknyugati%20atjaro%20%28745%29/Eszaknyugati%20atjaro%20-%20Kenneth%20Roberts.epub)
+
+### Kepes, András
+
+- (2017) - Tövispuszta [details](#id_109) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kepes%2C%20Andras/Tovispuszta%20%28109%29/Tovispuszta%20-%20Kepes%2C%20Andras.epub)
+- (2018) - Istenek és emberek [details](#id_1232) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kepes%2C%20Andras/Istenek%20es%20emberek%20%281232%29/Istenek%20es%20emberek%20-%20Kepes%2C%20Andras.epub)
+
+### Kertész, Erzsébet
+
+- (2002) - Fiút vártak, lány született [details](#id_1418) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kertesz%2C%20Erzsebet/Fiut%20vartak%2C%20lany%20szuletett%20%281418%29/Fiut%20vartak%2C%20lany%20szuletett%20-%20Kertesz%2C%20Erzsebet.epub)
+
+### Kertész, Imre
+
+- (2016) - Sorstalanság – filmforgatókönyv [details](#id_319) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kertesz%2C%20Imre/Sorstalansag%20-%20filmforgatokonyv%20%28319%29/Sorstalansag%20-%20filmforgatokonyv%20-%20Kertesz%2C%20Imre.epub)
+
+### Kicsi, Sándor András
+
+- (2012) - Tűrömfű és jajlapi [details](#id_384) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kicsi%2C%20Sandor%20Andras/Turomfu%20es%20jajlapi%20%28384%29/Turomfu%20es%20jajlapi%20-%20Kicsi%2C%20Sandor%20Andras.epub)
+
+### Kivaghy, Krisztián
+
+- (2003) - A manipuláció tudománya [details](#id_293) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kivaghy%2C%20Krisztian/A%20manipulacio%20tudomanya%20%28293%29/A%20manipulacio%20tudomanya%20-%20Kivaghy%2C%20Krisztian.epub)
+
+### Kjell Eriksson
+
+- (2013) - Burundi hercegnője [details](#id_677) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kjell%20Eriksson/Burundi%20hercegnoje%20%28677%29/Burundi%20hercegnoje%20-%20Kjell%20Eriksson.epub)
+
+### Kondor, Vilmos
+
+- (2015) - A bűntől keletre [details](#id_980) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kondor%2C%20Vilmos/A%20buntol%20keletre%20%28980%29/A%20buntol%20keletre%20-%20Kondor%2C%20Vilmos.epub)
+
+### Konrad Lorenz
+
+- (2017) - Ember és kutya [details](#id_474) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Konrad%20Lorenz/Ember%20es%20kutya%20%28474%29/Ember%20es%20kutya%20-%20Konrad%20Lorenz.epub)
+
+### Kopátsy, Sándor
+
+- (2002) - Az Orbán jelenség [details](#id_1645) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kopatsy%2C%20Sandor/Az%20Orban%20jelenseg%20%281645%29/Az%20Orban%20jelenseg%20-%20Kopatsy%2C%20Sandor.epub)
+
+### Kordos, Szabolcs
+
+- (2013) - Luxushotel, Hungary [details](#id_159) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kordos%2C%20Szabolcs/Luxushotel%2C%20Hungary%20%28159%29/Luxushotel%2C%20Hungary%20-%20Kordos%2C%20Szabolcs.epub)
+
+### Kormos, Anett
+
+- (2010) - Dumaszínház [details](#id_585) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kormos%2C%20Anett/Dumaszinhaz%20%28585%29/Dumaszinhaz%20-%20Kormos%2C%20Anett.epub)
+
+### Kovács, András Péter
+
+Sorozatok:
+
+Multigáz-trilógia:
+
+- 2 (2011) - Médialom [details](#id_427) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kovacs%2C%20Andras%20Peter/Medialom%20%28427%29/Medialom%20-%20Kovacs%2C%20Andras%20Peter.epub)
+
+### Kovács, Zoltán
+
+- (2012) - Üstökös - Nikola Tesla [details](#id_764) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kovacs%2C%20Zoltan/Ustokos%20-%20Nikola%20Tesla%20%28764%29/Ustokos%20-%20Nikola%20Tesla%20-%20Kovacs%2C%20Zoltan.epub)
+
+### Králig, Helga
+
+- (2010) - Állati egypercesek [details](#id_928) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kralig%2C%20Helga/Allati%20egypercesek%20%28928%29/Allati%20egypercesek%20-%20Kralig%2C%20Helga.epub)
+
+### Krekó, Péter
+
+- (2021) - Tömegparanoia 2.0 [details](#id_1515) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kreko%2C%20Peter/Tomegparanoia%202.0%20%281515%29/Tomegparanoia%202.0%20-%20Kreko%2C%20Peter.epub)
+
+### Kristó Nagy, István
+
+Sorozatok:
+
+Bölcsességek könyve:
+
+- 1 (2004) - Bölcsességek könyve I-II. – Aforizmák, szállóigék [details](#id_1200)
+- 2 (2004) - Bölcsességek könyve I-II. – Aforizmák, szállóigék [details](#id_1201)
+
+### Krusovszky, Dénes
+
+- (2014) - A fiúk országa [details](#id_1521) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Krusovszky%2C%20Denes/A%20fiuk%20orszaga%20%281521%29/A%20fiuk%20orszaga%20-%20Krusovszky%2C%20Denes.epub)
+- (2018) - Akik már nem leszünk sosem [details](#id_1520) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Krusovszky%2C%20Denes/Akik%20mar%20nem%20leszunk%20sosem%20%281520%29/Akik%20mar%20nem%20leszunk%20sosem%20-%20Krusovszky%2C%20Denes.epub)
+
+### Kulcsár, Zsuzsanna
+
+- (1968) - Inkvizíció és boszorkánypörök [details](#id_982) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kulcsar%2C%20Zsuzsanna/Inkvizicio%20es%20boszorkanyporok%20%28982%29/Inkvizicio%20es%20boszorkanyporok%20-%20Kulcsar%2C%20Zsuzsanna.epub)
+
+### Vonnegut, Kurt
+
+- (101) - Az ötös számú vágóhíd [details](#id_1631) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Az%20otos%20szamu%20vagohid%20%281631%29/Az%20otos%20szamu%20vagohid%20-%20Vonnegut%2C%20Kurt.epub)
+- (101) - Ördögcsapda [details](#id_1632) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Ordogcsapda%20%281632%29/Ordogcsapda%20-%20Vonnegut%2C%20Kurt.epub)
+- (101) - Beszámoló a Barnhouse-effektusról [details](#id_747) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vonnegut%2C%20Kurt/Beszamolo%20a%20Barnhouse-effektusrol%20%28747%29/Beszamolo%20a%20Barnhouse-effektusr%20-%20Vonnegut%2C%20Kurt.epub)
+- (1951) - Gépzongora [details](#id_1618) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut%20Jr_/Gepzongora%20%281618%29/Gepzongora%20-%20Vonnegut%2C%20Kurt.epub)
+- (1962) - Harrison Bergeron [details](#id_748) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Harrison%20Bergeron%20%28748%29/Harrison%20Bergeron%20-%20Kurt%20Vonnegut.epub)
+- (1969) - Slaughterhouse-Five [details](#id_1620) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut%20Jr_/Slaughterhouse-Five%20%281620%29/Slaughterhouse-Five%20-%20Vonnegut%2C%20Kurt.epub)
+- (1972) - Utópia 14 [details](#id_1623) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Utopia%2014%20%281623%29/Utopia%2014%20-%20Vonnegut%2C%20Kurt.epub)
+- (1980) - Virágvasárnap [details](#id_1627) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut%20Jr_/Viragvasarnap%20%281627%29/Viragvasarnap%20-%20Vonnegut%2C%20Kurt.epub)
+- (1981) - Mesterlövész [details](#id_1622) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut%20Jr_/Mesterlovesz%20%281622%29/Mesterlovesz%20-%20Vonnegut%2C%20Kurt.epub)
+- (1982) - Halálnál is rosszabb [details](#id_1628) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut%20Jr_/Halalnal%20is%20rosszabb%20%281628%29/Halalnal%20is%20rosszabb%20-%20Vonnegut%2C%20Kurt.epub)
+- (1984) - Galápagos [details](#id_1619) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut%20Jr_/Galapagos%20%281619%29/Galapagos%20-%20Vonnegut%2C%20Kurt.epub)
+- (1987) - Bluebeard [details](#id_1702) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vonnegut%2C%20Kurt/Bluebeard%20%281702%29/Bluebeard%20-%20Vonnegut%2C%20Kurt.epub)
+- (1992) - Cat's Cradle [details](#id_1615)
+- (1999) - Breakfast of Champions [details](#id_1614) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Breakfast%20of%20Champions%20%281614%29/Breakfast%20of%20Champions%20-%20Vonnegut%2C%20Kurt.epub)
+- (1999) - Deadeye Dick [details](#id_1616) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Deadeye%20Dick%20%281616%29/Deadeye%20Dick%20-%20Vonnegut%2C%20Kurt.epub)
+- (1999) - A hamvaskék sárkány [details](#id_1701) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vonnegut%2C%20Kurt/A%20hamvaskek%20sarkany%20%281701%29/A%20hamvaskek%20sarkany%20-%20Vonnegut%2C%20Kurt.epub)
+- (2007) - Isten hozott a majomházban! [details](#id_750) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Isten%20hozott%20a%20majomhazban%21%20%28750%29/Isten%20hozott%20a%20majomhazban%21%20-%20Kurt%20Vonnegut.epub)
+- (2007) - The Sirens of Titan: A Novel [details](#id_1621) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/The%20Sirens%20of%20Titan_%20A%20Novel%20%281621%29/The%20Sirens%20of%20Titan_%20A%20Novel%20-%20Vonnegut%2C%20Kurt.epub)
+- (2008) - Börtöntöltelék [details](#id_1613) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Bortontoltelek%20%281613%29/Bortontoltelek%20-%20Vonnegut%2C%20Kurt.epub)
+- (2010) - A repülő macska [details](#id_1607) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/A%20repulo%20macska%20%281607%29/A%20repulo%20macska%20-%20Vonnegut%2C%20Kurt.epub)
+- (2010) - Mesterlövész / Deadeye Dick [details](#id_1131) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Mesterlovesz%20_%20Deadeye%20Dick%20%281131%29/Mesterlovesz%20_%20Deadeye%20Dick%20-%20Vonnegut%2C%20Kurt.epub)
+- (2010) - Slapstick [details](#id_1625) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Slapstick%20%281625%29/Slapstick%20-%20Vonnegut%2C%20Kurt.epub)
+- (2011) - Kékszakáll / Bluebeard [details](#id_1633) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Kekszakall%20_%20Bluebeard%20%281633%29/Kekszakall%20_%20Bluebeard%20-%20Vonnegut%2C%20Kurt.epub)
+- (2011) - Éden a folyónál [details](#id_1624) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut%20Jr_/Eden%20a%20folyonal%20%281624%29/Eden%20a%20folyonal%20-%20Vonnegut%2C%20Kurt.epub)
+- (2011) - Míg a halandók alszanak [details](#id_1617) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut%20Jr_/Mig%20a%20halandok%20alszanak%20%281617%29/Mig%20a%20halandok%20alszanak%20-%20Vonnegut%2C%20Kurt.epub)
+- (2012) - A hazátlan ember [details](#id_1606) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/A%20hazatlan%20ember%20%281606%29/A%20hazatlan%20ember%20-%20Vonnegut%2C%20Kurt.epub)
+- (2012) - Az ötös számú vágóhíd [details](#id_1610) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Az%20otos%20szamu%20vagohid%20%281610%29/Az%20otos%20szamu%20vagohid%20-%20Vonnegut%2C%20Kurt.epub)
+- (2012) - Hókusz-pókusz [details](#id_1635) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vonnegut%2C%20Kurt/Hokusz-pokusz%20%281635%29/Hokusz-pokusz%20-%20Vonnegut%2C%20Kurt.epub)
+- (2014) - Áldja meg az isten, Mr. Rosewater [details](#id_1609) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Aldja%20meg%20az%20isten%2C%20Mr.%20Rosewater%20%281609%29/Aldja%20meg%20az%20isten%2C%20Mr.%20Rosewat%20-%20Vonnegut%2C%20Kurt.epub)
+- (2014) - Bajnokok ​reggelije [details](#id_1139) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vonnegut%2C%20Kurt/Bajnokok%20%20reggelije%20%281139%29/Bajnokok%20%20reggelije%20-%20Vonnegut%2C%20Kurt.epub)
+- (2016) - Éj anyánk [details](#id_1626) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Ej%20anyank%20%281626%29/Ej%20anyank%20-%20Vonnegut%2C%20Kurt.epub)
+- (2018) - Áldja meg az Isten, Dr. Kevorkian! [details](#id_1608) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Aldja%20meg%20az%20Isten%2C%20Dr.%20Kevorkian%21%20%281608%29/Aldja%20meg%20az%20Isten%2C%20Dr.%20Kevorki%20-%20Vonnegut%2C%20Kurt.epub)
+- (2021) - Időomlás [details](#id_1634) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Idoomlas%20%281634%29/Idoomlas%20-%20Vonnegut%2C%20Kurt.epub)
+- (2022) - Börleszk [details](#id_1612) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Borleszk%20%281612%29/Borleszk%20-%20Vonnegut%2C%20Kurt.epub)
+- (2022) - Macskabölcső [details](#id_1630) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Macskabolcso%20%281630%29/Macskabolcso%20-%20Vonnegut%2C%20Kurt.epub)
+- (2022) - A Titán szirénjei [details](#id_1604) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vonnegut%2C%20Kurt/A%20Titan%20szirenjei%20%281604%29/A%20Titan%20szirenjei%20-%20Vonnegut%2C%20Kurt.epub)
+
+### L. M. Montgomery
+
+Sorozatok:
+
+Anne:
+
+- 1 (2011) - Anne otthonra talál [details](#id_488) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/L.%20M.%20Montgomery/Anne%20otthonra%20talal%20%28488%29/Anne%20otthonra%20talal%20-%20L.%20M.%20Montgomery.epub)
+- 2 (2005) - Anne az élet iskolájában [details](#id_483) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/L.%20M.%20Montgomery/Anne%20az%20elet%20iskolajaban%20%28483%29/Anne%20az%20elet%20iskolajaban%20-%20L.%20M.%20Montgomery.epub)
+- 3 (2011) - Anne válaszúton [details](#id_490) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/L.%20M.%20Montgomery/Anne%20valaszuton%20%28490%29/Anne%20valaszuton%20-%20L.%20M.%20Montgomery.epub)
+- 4 (2011) - Anne új vizekre evez [details](#id_489) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/L.%20M.%20Montgomery/Anne%20uj%20vizekre%20evez%20%28489%29/Anne%20uj%20vizekre%20evez%20-%20L.%20M.%20Montgomery.epub)
+- 5 (2007) - Anne férjhez megy [details](#id_486) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/L.%20M.%20Montgomery/Anne%20ferjhez%20megy%20%28486%29/Anne%20ferjhez%20megy%20-%20L.%20M.%20Montgomery.epub)
+- 6 (2012) - Anne családja körében [details](#id_484) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/L.%20M.%20Montgomery/Anne%20csaladja%20koreben%20%28484%29/Anne%20csaladja%20koreben%20-%20L.%20M.%20Montgomery.epub)
+- 7 (2008) - Anne és a Szivárvány-völgy [details](#id_485) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/L.%20M.%20Montgomery/Anne%20es%20a%20Szivarvany-volgy%20%28485%29/Anne%20es%20a%20Szivarvany-volgy%20-%20L.%20M.%20Montgomery.epub)
+- 8 (2009) - Anne gyermekei a háborúban [details](#id_487) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/L.%20M.%20Montgomery/Anne%20gyermekei%20a%20haboruban%20%28487%29/Anne%20gyermekei%20a%20haboruban%20-%20L.%20M.%20Montgomery.epub)
+
+Emily:
+
+- 1 (2006) - A tűzpróba [details](#id_493) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/L.%20M.%20Montgomery/A%20tuzproba%20%28493%29/A%20tuzproba%20-%20L.%20M.%20Montgomery.epub)
+- 2 (2007) - Barátságok [details](#id_494) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/L.%20M.%20Montgomery/Baratsagok%20%28494%29/Baratsagok%20-%20L.%20M.%20Montgomery.epub)
+- 3 (2008) - Bagolykacaj [details](#id_495) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/L.%20M.%20Montgomery/Bagolykacaj%20%28495%29/Bagolykacaj%20-%20L.%20M.%20Montgomery.epub)
+- 4 (2009) - Forgószél [details](#id_496) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/L.%20M.%20Montgomery/Forgoszel%20%28496%29/Forgoszel%20-%20L.%20M.%20Montgomery.epub)
+- 5 (2010) - Szerelmek [details](#id_497) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/L.%20M.%20Montgomery/Szerelmek%20%28497%29/Szerelmek%20-%20L.%20M.%20Montgomery.epub)
+
+Váratlan utazás:
+
+- 1 (1999) - A Mesélő Lány [details](#id_492) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/L.%20M.%20Montgomery/A%20Meselo%20Lany%20%28492%29/A%20Meselo%20Lany%20-%20L.%20M.%20Montgomery%20%28Case%20Conflict%29.epub)
+- 2 (2000) - Az arany út [details](#id_491) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/L.%20M.%20Montgomery/Az%20arany%20ut%20%28491%29/Az%20arany%20ut%20-%20L.%20M.%20Montgomery.epub)
+
+Egyéb könyvek:
+
+- (2008) - Avonlea-i krónikák [details](#id_265)
+
+### Lackfi, János
+
+Sorozatok:
+
+Milyenek a magyarok?:
+
+- 1 (2017) - Milyenek a magyarok? [details](#id_1360) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lackfi%2C%20Janos/Milyenek%20a%20magyarok_%20%281360%29/Milyenek%20a%20magyarok_%20-%20Lackfi%2C%20Janos.epub)
+- 2 (2013) - Milyenek MÉG a magyarok? [details](#id_935) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lackfi%2C%20Janos/Milyenek%20MEG%20a%20magyarok_%20%28935%29/Milyenek%20MEG%20a%20magyarok_%20-%20Lackfi%2C%20Janos.epub)
+
+Egyéb könyvek:
+
+- (2011) - A legnehezebb kabát [details](#id_934) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lackfi%2C%20Janos/A%20legnehezebb%20kabat%20%28934%29/A%20legnehezebb%20kabat%20-%20Lackfi%2C%20Janos.epub)
+
+### Lars Kepler
+
+Sorozatok:
+
+Joona Linna:
+
+- 1 (2009) - A hipnotizőr [details](#id_1681)
+- 2 (2019) - A Paganini-szerződés [details](#id_674) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/A%20Paganini-szerzodes%20%28674%29/A%20Paganini-szerzodes%20-%20Lars%20Kepler.epub)
+- 3 (2011) - A tűz tanúja [details](#id_1677) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/A%20tuz%20tanuja%20%281677%29/A%20tuz%20tanuja%20-%20Lars%20Kepler.epub)
+- 4 (2011) - A Bosszúálló [details](#id_1678)
+- 5 (2018) - Lesben [details](#id_1680)
+- 6 (2019) - Nyúlvadász [details](#id_1679)
+- 7 (2020) - Lázár [details](#id_1683) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/Lazar%20%281683%29/Lazar%20-%20Lars%20Kepler.epub)
+- 8 (2020) - Tükörember [details](#id_1682) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/Tukorember%20%281682%29/Tukorember%20-%20Lars%20Kepler.epub)
+
+### Laura D.
+
+- (2008) - Szex és tandíj [details](#id_904) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Laura%20D_/Szex%20es%20tandij%20%28904%29/Szex%20es%20tandij%20-%20Laura%20D_.epub)
+
+### Lawrence Block
+
+- (101) - A betörő, aki zabot hegyezett I. [details](#id_626) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lawrence%20Block/A%20betoro%2C%20aki%20zabot%20hegyezett%20I_%20%28626%29/A%20betoro%2C%20aki%20zabot%20hegyezett%20I%20-%20Lawrence%20Block.epub)
+
+### Lee Child
+
+Sorozatok:
+
+Jack Reacher:
+
+- 8 (2011) - Eltűnt ellenség [details](#id_1206) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lee%20Child/Eltunt%20ellenseg%20%281206%29/Eltunt%20ellenseg%20-%20Lee%20Child.epub)
+- 9 (2012) - Csak egy lövés [details](#id_392) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lee%20Child/Csak%20egy%20loves%20%28392%29/Csak%20egy%20loves%20-%20Lee%20Child.epub)
+
+### Leiner, Laura
+
+Sorozatok:
+
+A Szent Johanna Gimi:
+
+- 2 (2021) - Együtt [details](#id_1498) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leiner%2C%20Laura/Egyutt%20%281498%29/Egyutt%20-%20Leiner%2C%20Laura.epub)
+- 3 (2020) - Egyedül [details](#id_1497) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leiner%2C%20Laura/Egyedul%20%281497%29/Egyedul%20-%20Leiner%2C%20Laura.epub)
+- 4 (2021) - Barátok [details](#id_1496) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leiner%2C%20Laura/Baratok%20%281496%29/Baratok%20-%20Leiner%2C%20Laura.epub)
+- 5 (2021) - Remény [details](#id_1495) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leiner%2C%20Laura/Remeny%20%281495%29/Remeny%20-%20Leiner%2C%20Laura.epub)
+- 6 (2021) - Ketten [details](#id_1519) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leiner%2C%20Laura/Ketten%20%281519%29/Ketten%20-%20Leiner%2C%20Laura.epub)
+- 7 (2016) - Útvesztő [details](#id_1482) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leiner%2C%20Laura/Utveszto%20%281482%29/Utveszto%20-%20Leiner%2C%20Laura.epub)
+- 8.1 (2016) - Örökké [details](#id_1499) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leiner%2C%20Laura/Orokke%20%281499%29/Orokke%20-%20Leiner%2C%20Laura.epub)
+- 8.2 (2016) - Örökké [details](#id_1500) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leiner%2C%20Laura/Orokke%20%281500%29/Orokke%20-%20Leiner%2C%20Laura.epub)
+
+Bexi:
+
+- 1 (2016) - Késtél [details](#id_1474) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leiner%2C%20Laura/Kestel%20%281474%29/Kestel%20-%20Leiner%2C%20Laura.epub)
+- 5 (2016) - Valahol [details](#id_1487) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leiner%2C%20Laura/Valahol%20%281487%29/Valahol%20-%20Leiner%2C%20Laura.epub)
+- 6 (2017) - Egyszer [details](#id_1480) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leiner%2C%20Laura/Egyszer%20%281480%29/Egyszer%20-%20Leiner%2C%20Laura.epub)
+
+Iskolák versenye:
+
+- 11 (2017) - Ég veled [details](#id_1476) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leiner%2C%20Laura/Eg%20veled%20%281476%29/Eg%20veled%20-%20Leiner%2C%20Laura.epub)
+- 12 (2018) - Maradj velem [details](#id_1477) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leiner%2C%20Laura/Maradj%20velem%20%281477%29/Maradj%20velem%20-%20Leiner%2C%20Laura.epub)
+- 13 (2019) - Emlékezz rám [details](#id_1485) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leiner%2C%20Laura/Emlekezz%20ram%20%281485%29/Emlekezz%20ram%20-%20Leiner%2C%20Laura.epub)
+- 21 (2020) - Bízz bennem [details](#id_1486) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leiner%2C%20Laura/Bizz%20bennem%20%281486%29/Bizz%20bennem%20-%20Leiner%2C%20Laura.epub)
+- 22 (2021) - Higgy nekem [details](#id_1479) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leiner%2C%20Laura/Higgy%20nekem%20%281479%29/Higgy%20nekem%20-%20Leiner%2C%20Laura.epub)
+- 23 (2021) - Állj mellém [details](#id_1561) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leiner%2C%20Laura/Allj%20mellem%20%281561%29/Allj%20mellem%20-%20Leiner%2C%20Laura.epub)
+
+Remek!:
+
+- 1 (2018) - Remek! [details](#id_1502) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leiner%2C%20Laura/Remek%21%20%281502%29/Remek%21%20-%20Leiner%2C%20Laura.epub)
+- 2 (2020) - Ez is Remek!! [details](#id_1475) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leiner%2C%20Laura/Ez%20is%20Remek%21%21%20%281475%29/Ez%20is%20Remek%21%21%20-%20Leiner%2C%20Laura.epub)
+
+Egyéb könyvek:
+
+- (2016) - Bábel [details](#id_644) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leiner%2C%20Laura/Babel%20%28644%29/Babel%20-%20Leiner%2C%20Laura.epub)
+- (2019) - Mindig karácsony [details](#id_1494) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leiner%2C%20Laura/Mindig%20karacsony%20%281494%29/Mindig%20karacsony%20-%20Leiner%2C%20Laura.epub)
+- (2020) - Közhelyek [details](#id_1481) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leiner%2C%20Laura/Kozhelyek%20%281481%29/Kozhelyek%20-%20Leiner%2C%20Laura.epub)
+
+### Léo Taxil
+
+- (1995) - A szórakoztató Biblia [details](#id_950) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leo%20Taxil/A%20szorakoztato%20Biblia%20%28950%29/A%20szorakoztato%20Biblia%20-%20Leo%20Taxil.epub)
+
+### Leslie M. Lecron
+
+- (1998) - Az önhipnózis technikája és felhasználása a mindennapi életben [details](#id_7) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leslie%20M.%20Lecron/Az%20onhipnozis%20technikaja%20es%20felhaszn%20%287%29/Az%20onhipnozis%20technikaja%20es%20fel%20-%20Leslie%20M.%20Lecron.epub)
+
+### Leslie Valley
+
+- (2003) - Tökéletes alibi [details](#id_628) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leslie%20Valley/Tokeletes%20alibi%20%28628%29/Tokeletes%20alibi%20-%20Leslie%20Valley.epub)
+
+### Lev Tolsztoj
+
+- (2017) - Anna Karenina [details](#id_778) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lev%20Tolsztoj/Anna%20Karenina%20%28778%29/Anna%20Karenina%20-%20Lev%20Tolsztoj.epub)
+- (2020) - Háború és béke [details](#id_563) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lev%20Tolsztoj/Haboru%20es%20beke%20%28563%29/Haboru%20es%20beke%20-%20Lev%20Tolsztoj.epub)
+
+### Lily Blake
+
+- (2012) - Hófehér és a Vadász [details](#id_618) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lily%20Blake/Hofeher%20es%20a%20vadasz%20%28618%29/Hofeher%20es%20a%20Vadasz%20-%20Lily%20Blake.epub)
+
+### Liza Marklund
+
+Sorozatok:
+
+Annika Bengtzon:
+
+- 1 (2003) - Studio 69 [details](#id_687) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Liza%20Marklund/Studio%2069%20%28687%29/Studio%2069%20-%20Liza%20Marklund.epub)
+
+### Ljudmila Ulickaja
+
+- (2013) - Örökbecsű limlom [details](#id_1294) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Orokbecsu%20limlom%20%281294%29/Orokbecsu%20limlom%20-%20Ljudmila%20Ulickaja.epub)
+- (2015) - Kukockij esetei [details](#id_1295) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Kukockij%20esetei%20%281295%29/Kukockij%20esetei%20-%20Ljudmila%20Ulickaja.epub)
+- (2016) - Elsők és utolsók [details](#id_1287) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Elsok%20es%20utolsok%20%281287%29/Elsok%20es%20utolsok%20-%20Ljudmila%20Ulickaja.epub)
+- (2016) - Jákob lajtorjája [details](#id_1296) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Jakob%20lajtorjaja%20%281296%29/Jakob%20lajtorjaja%20-%20Ljudmila%20Ulickaja.epub)
+- (2016) - Odaadó hívetek, Surik [details](#id_1291) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Odaado%20hivetek%2C%20Surik%20%281291%29/Odaado%20hivetek%2C%20Surik%20-%20Ljudmila%20Ulickaja.epub)
+- (2016) - Szonyecska [details](#id_1289) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Szonyecska%20%281289%29/Szonyecska%20-%20Ljudmila%20Ulickaja.epub)
+- (2017) - A mi Urunk népe [details](#id_1297) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/A%20mi%20Urunk%20nepe%20%281297%29/A%20mi%20Urunk%20nepe%20-%20Ljudmila%20Ulickaja.epub)
+- (2017) - Médea és gyermekei [details](#id_1293) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Medea%20es%20gyermekei%20%281293%29/Medea%20es%20gyermekei%20-%20Ljudmila%20Ulickaja.epub)
+- (2018) - Daniel Stein, tolmács [details](#id_1285) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Daniel%20Stein%2C%20tolmacs%20%281285%29/Daniel%20Stein%2C%20tolmacs%20-%20Ljudmila%20Ulickaja.epub)
+- (2018) - Imágó [details](#id_1298) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Imago%20%281298%29/Imago%20-%20Ljudmila%20Ulickaja.epub)
+- (2018) - Vidám temetés [details](#id_1288) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Vidam%20temetes%20%281288%29/Vidam%20temetes%20-%20Ljudmila%20Ulickaja.epub)
+- (2020) - A lélek testéről [details](#id_1292) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/A%20lelek%20testerol%20%281292%29/A%20lelek%20testerol%20-%20Ljudmila%20Ulickaja.epub)
+- (2020) - Életművésznők [details](#id_1286) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Eletmuvesznok%20%281286%29/Eletmuvesznok%20-%20Ljudmila%20Ulickaja.epub)
+
+### Luc Besson
+
+Sorozatok:
+
+Arthur és a villangók:
+
+- 1 (2006) - Arthur és a villangók [details](#id_899) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Luc%20Besson/Arthur%20es%20a%20villangok%20%28899%29/Arthur%20es%20a%20villangok%20-%20Luc%20Besson.epub)
+
+### Maj Sjöwall
+
+- (101) - Roseanna [details](#id_686) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Maj%20Sjowall/Roseanna%20%28686%29/Roseanna%20-%20Maj%20Sjowall.epub)
+- (1975) - A svéd, akinek nyoma veszett [details](#id_675) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Maj%20Sjowall/A%20sved%2C%20akinek%20nyoma%20veszett%20%28675%29/A%20sved%2C%20akinek%20nyoma%20veszett%20-%20Maj%20Sjowall.epub)
+
+### Majtényi, Zoltán
+
+- (1990) - A furfangos Thyl [details](#id_998) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Majtenyi%2C%20Zoltan/A%20furfangos%20Thyl%20%28998%29/A%20furfangos%20Thyl%20-%20Majtenyi%2C%20Zoltan.epub)
+
+### Makrai, Tibor István
+
+- (101) - Túlélőiskola [details](#id_593) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Makrai%2C%20Tibor%20Istvan/Tuleloiskola%20%28593%29/Tuleloiskola%20-%20Makrai%2C%20Tibor%20Istvan.epub)
+
+### Márai, Sándor
+
+- (2018) - Füves könyv [details](#id_1419) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Marai%2C%20Sandor/Fuves%20konyv%20%281419%29/Fuves%20konyv%20-%20Marai%2C%20Sandor.epub)
+
+### Mario Puzo
+
+- (2017) - A Keresztapa [details](#id_283) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mario%20Puzo/A%20Keresztapa%20%28283%29/A%20Keresztapa%20-%20Mario%20Puzo.epub)
+
+### Mark A Gabriel
+
+- (2015) - Islam and Terrorism (Revised and Updated Edition): The Truth About ISIS, the Middle East and Islamic Jihad [details](#id_906) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mark%20A%20Gabriel/Islam%20and%20Terrorism%20%28Revised%20and%20Up%20%28906%29/Islam%20and%20Terrorism%20%28Revised%20an%20-%20Mark%20A%20Gabriel.epub)
+
+### Mark Logue
+
+Sorozatok:
+
+A király beszéde:
+
+- 1 (2011) - A király beszéde [details](#id_298) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mark%20Logue/A%20Kiraly%20Beszede%20%28298%29/A%20kiraly%20beszede%20-%20Mark%20Logue.epub)
+
+### Mark Twain
+
+- (1971) - Élet a Mississippin [details](#id_937) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mark%20Twain/Elet%20a%20Mississippin%20%28937%29/Elet%20a%20Mississippin%20-%20Mark%20Twain.epub)
+- (2013) - Megszelídítem a kerékpárt [details](#id_936) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mark%20Twain/Megszeliditem%20a%20kerekpart%20%28936%29/Megszeliditem%20a%20kerekpart%20-%20Mark%20Twain.epub)
+
+### Marlo Morgan
+
+Sorozatok:
+
+Vidd hírét az Igazaknak:
+
+- 1 (2020) - Vidd hírét az Igazaknak [details](#id_1010) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Marlo%20Morgan/Vidd%20hiret%20az%20Igazaknak%20%281010%29/Vidd%20hiret%20az%20Igazaknak%20-%20Marlo%20Morgan.epub)
+
+### Martin Cruz Smith
+
+Sorozatok:
+
+Arkagyij Renko:
+
+- 1 (1991) - Gorkij Park [details](#id_1214) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Martin%20Cruz%20Smith/Gorkij%20Park%20%281214%29/Gorkij%20Park%20-%20Martin%20Cruz%20Smith.epub)
+
+### Martin Rees
+
+- (2001) - Csak hat szám [details](#id_800)
+
+### Mátéffy, Éva
+
+- (2003) - Ruby [details](#id_606) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mateffy%2C%20Eva/Ruby%20%28606%29/Ruby%20-%20Mateffy%2C%20Eva.epub)
+
+### Matti Rönkä
+
+- (2010) - A határjáró [details](#id_671) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Matti%20Ronka/A%20hatarjaro%20%28671%29/A%20hatarjaro%20-%20Matti%20Ronka.epub)
+
+### Maya Banks
+
+- (2010) - Vénuszdombi mesék [details](#id_285) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Maya%20Banks/Venuszdombi%20mesek%20%28285%29/Venuszdombi%20mesek%20-%20Maya%20Banks.epub)
+
+### Meg Cabot
+
+Sorozatok:
+
+A neveletlen hercegnö naploja:
+
+- 1 (2002) - A neveletlen hercegnő naplója 1. [details](#id_432) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Meg%20Cabot/A%20neveletlen%20hercegno%20naploja%201_%20%28432%29/A%20neveletlen%20hercegno%20naploja%201%20-%20Meg%20Cabot.epub)
+- 2 (2002) - Reflektorfényben [details](#id_433) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Meg%20Cabot/Reflektorfenyben%20%28433%29/Reflektorfenyben%20-%20Meg%20Cabot.epub)
+- 3 (2003) - A Szerelmes Hercegnő [details](#id_434) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Meg%20Cabot/A%20Szerelmes%20Hercegno%20%28434%29/A%20Szerelmes%20Hercegno%20-%20Meg%20Cabot.epub)
+- 4 (2003) - Mia Genoviában [details](#id_435) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Meg%20Cabot/Mia%20Genoviaban%20%28435%29/Mia%20Genoviaban%20-%20Meg%20Cabot.epub)
+- 5 (2004) - Talpig Rózsaszínben [details](#id_436) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Meg%20Cabot/Talpig%20Rozsaszinben%20%28436%29/Talpig%20Rozsaszinben%20-%20Meg%20Cabot.epub)
+- 6 (2005) - Hajrá Hercegnő! [details](#id_437) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Meg%20Cabot/Hajra%20Hercegno%21%20%28437%29/Hajra%20Hercegno%21%20-%20Meg%20Cabot.epub)
+
+### Megyesi, Zoltán
+
+- (1999) - Titkosírások [details](#id_413) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Megyesi%2C%20Zoltan/Titkosirasok%20%28413%29/Titkosirasok%20-%20Megyesi%2C%20Zoltan.epub)
+
+### Michael Blake
+
+- (1993) - Farkasokkal táncoló [details](#id_721) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Blake/Farkasokkal%20tancolo%20%28721%29/Farkasokkal%20tancolo%20-%20Michael%20Blake.epub)
+
+### Michael Crichton
+
+Sorozatok:
+
+Androméda:
+
+- 1 (2020) - Az Androméda-törzs [details](#id_751) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Az%20Andromeda-torzs%20%28751%29/Az%20Andromeda-torzs%20-%20Michael%20Crichton.epub)
+
+Jurassic Park:
+
+- 1 (1993) - Őslénypark [details](#id_757) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Oslenypark%20%28757%29/Oslenypark%20-%20Michael%20Crichton.epub)
+- 2 (1996) - Szörnyek szigete [details](#id_760) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Szornyek%20szigete%20%28760%29/Szornyek%20szigete%20-%20Michael%20Crichton.epub)
+
+Egyéb könyvek:
+
+- (1993) - Ködsárkányok [details](#id_755) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Kodsarkanyok%20%28755%29/Kodsarkanyok%20-%20Michael%20Crichton.epub)
+- (1998) - Az átprogramozott ember [details](#id_752) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Az%20atprogramozott%20ember%20%28752%29/Az%20atprogramozott%20ember%20-%20Michael%20Crichton.epub)
+- (1998) - Repülő koporsó [details](#id_759) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Repulo%20koporso%20%28759%29/Repulo%20koporso%20-%20Michael%20Crichton.epub)
+- (2001) - Idővonal [details](#id_754) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Idovonal%20%28754%29/Idovonal%20-%20Michael%20Crichton.epub)
+- (2004) - Préda / Viharos szerelem / Hajsza Tokióban / Utcagyerekek [details](#id_758) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Preda%20_%20Viharos%20szerelem%20_%20Hajsza%20T%20%28758%29/Preda%20_%20Viharos%20szerelem%20_%20Hajs%20-%20Michael%20Crichton.epub)
+- (2016) - A Gömb [details](#id_753) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/A%20gomb%20%28753%29/A%20Gomb%20-%20Michael%20Crichton.epub)
+- (2020) - Kongó [details](#id_756) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Kongo%20%28756%29/Kongo%20-%20Michael%20Crichton.epub)
+
+### Michael Ende
+
+Sorozatok:
+
+Gombos Jim:
+
+- 1 (2015) - Gombos ​Jim és Lukács, a masiniszta [details](#id_1492) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Ende/Gombos%20%20Jim%20es%20Lukacs%2C%20a%20masiniszta%20%281492%29/Gombos%20%20Jim%20es%20Lukacs%2C%20a%20masini%20-%20Michael%20Ende.epub)
+
+Egyéb könyvek:
+
+- (1985) - A végtelen történet [details](#id_353) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Ende/A%20vegtelen%20tortenet%20%28353%29/A%20vegtelen%20tortenet%20-%20Michael%20Ende.epub)
+- (1985) - Momo [details](#id_1430) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Ende/Momo%20%281430%29/Momo%20-%20Michael%20Ende.epub)
+
+### Michael Moorcock
+
+Sorozatok:
+
+Von Bek:
+
+- 1 (2008) - Harcikutya [details](#id_525) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Moorcock/Harcikutya%20%28525%29/Harcikutya%20-%20Michael%20Moorcock.epub)
+
+### Mieshelle Nagelschneider
+
+- (2016) - Macskákkal suttogó [details](#id_1437) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mieshelle%20Nagelschneider/Macskakkal%20suttogo%20%281437%29/Macskakkal%20suttogo%20-%20Mieshelle%20Nagelschneider.epub)
+
+### Mihail Bulgakov
+
+- (2020) - A Mester és Margarita [details](#id_275) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mihail%20Bulgakov/A%20Mester%20es%20Margarita%20%28275%29/A%20Mester%20es%20Margarita%20-%20Mihail%20Bulgakov.epub)
+
+### Mika Waltari
+
+Sorozatok:
+
+Palmu felügyelő:
+
+- 1 (1990) - Cselszövők [details](#id_679) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mika%20Waltari/Cselszovok%20%28679%29/Cselszovok%20-%20Mika%20Waltari.epub)
+- 2 (1969) - Palmu felügyelő tévedése [details](#id_685) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mika%20Waltari/Palmu%20felugyelo%20tevedese%20%28685%29/Palmu%20felugyelo%20tevedese%20-%20Mika%20Waltari.epub)
+
+### Moldova, György
+
+Sorozatok:
+
+Az utolsó töltény:
+
+- 9 (2007) - Az utolsó töltény 9. [details](#id_1368) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%209_%20%281368%29/Az%20utolso%20tolteny%209_%20-%20Moldova%2C%20Gyorgy.epub)
+- 10 (2010) - Az utolsó töltény 10. [details](#id_1366) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%2010_%20%281366%29/Az%20utolso%20tolteny%2010_%20-%20Moldova%2C%20Gyorgy.epub)
+- 11 (2013) - Az utolsó töltény 11. [details](#id_1367) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%2011_%20%281367%29/Az%20utolso%20tolteny%2011_%20-%20Moldova%2C%20Gyorgy.epub)
+- 12 (2015) - Az utolsó töltény 12. [details](#id_1400) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%2012_%20%281400%29/Az%20utolso%20tolteny%2012_%20-%20Moldova%2C%20Gyorgy.epub)
+
+Harcolj, vagy menekülj:
+
+- 1 (2010) - Harcolj vagy menekülj! [details](#id_344) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Harcolj%20vagy%20menekulj%21%20%28344%29/Harcolj%20vagy%20menekulj%21%20-%20Moldova%2C%20Gyorgy.epub)
+- 2 (2010) - Harcolj vagy menekülj! [details](#id_345) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Harcolj%20vagy%20menekulj%21%20%28345%29/Harcolj%20vagy%20menekulj%21%20-%20Moldova%2C%20Gyorgy.epub)
+
+Kegyelemkenyér:
+
+- 1 (2017) - Kegyelemkenyér 1. [details](#id_1399) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Kegyelemkenyer%201_%20%281399%29/Kegyelemkenyer%201_%20-%20Moldova%2C%20Gyorgy.epub)
+
+Kádár János:
+
+- 2 (2012) - Kádár János 2. [details](#id_371) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Kadar%20Janos%202_%20%28371%29/Kadar%20Janos%202_%20-%20Moldova%2C%20Gyorgy.epub)
+- 3 (2007) - Kádár János [details](#id_370) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Kadar%20Janos%20%28370%29/Kadar%20Janos%20-%20Moldova%2C%20Gyorgy.epub)
+
+Egyéb könyvek:
+
+- (101) - A népet le kell váltani [details](#id_1395) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/A%20nepet%20le%20kell%20valtani%20%281395%29/A%20nepet%20le%20kell%20valtani%20-%20Moldova%2C%20Gyorgy.epub)
+- (101) - A pénz szaga [details](#id_1383) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/A%20penz%20szaga%20%281383%29/A%20penz%20szaga%20-%20Moldova%2C%20Gyorgy.epub)
+- (101) - A Puskás-ügy [details](#id_1401) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/A%20Puskas-ugy%20%281401%29/A%20Puskas-ugy%20-%20Moldova%2C%20Gyorgy.epub)
+- (101) - Az új császár új ruhája [details](#id_1397) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Az%20uj%20csaszar%20uj%20ruhaja%20%281397%29/Az%20uj%20csaszar%20uj%20ruhaja%20-%20Moldova%2C%20Gyorgy.epub)
+- (101) - Az utóvéd [details](#id_1372) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Az%20utoved%20%281372%29/Az%20utoved%20-%20Moldova%2C%20Gyorgy.epub)
+- (101) - Kádár János 2. [details](#id_1406) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Kadar%20Janos%202_%20%281406%29/Kadar%20Janos%202_%20-%20Moldova%2C%20Gyorgy.epub)
+- (1977) - Akar velem beszélgetni? [details](#id_1364) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Akar%20velem%20beszelgetni_%20%281364%29/Akar%20velem%20beszelgetni_%20-%20Moldova%2C%20Gyorgy.epub)
+- (1978) - A beszélő disznó [details](#id_1382) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/A%20beszelo%20diszno%20%281382%29/A%20beszelo%20diszno%20-%20Moldova%2C%20Gyorgy.epub)
+- (1980) - Magyar atom [details](#id_1363) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Magyar%20atom%20%281363%29/Magyar%20atom%20-%20Moldova%2C%20Gyorgy.epub)
+- (1982) - Égi szekér [details](#id_1371) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Egi%20szeker%20%281371%29/Egi%20szeker%20-%20Moldova%2C%20Gyorgy.epub)
+- (1986) - Méhednek gyümölcse [details](#id_1374) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Mehednek%20gyumolcse%20%281374%29/Mehednek%20gyumolcse%20-%20Moldova%2C%20Gyorgy.epub)
+- (1987) - Az Őrség panasza [details](#id_403) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Az%20Orseg%20panasza%20%28403%29/Az%20Orseg%20panasza%20-%20Moldova%2C%20Gyorgy.epub)
+- (1988) - Ki ölte meg a Holt-tengert? [details](#id_1373) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Ki%20olte%20meg%20a%20Holt-tengert_%20%281373%29/Ki%20olte%20meg%20a%20Holt-tengert_%20-%20Moldova%2C%20Gyorgy.epub)
+- (1989) - Lopni tudni kell [details](#id_1390) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Lopni%20tudni%20kell%20%281390%29/Lopni%20tudni%20kell%20-%20Moldova%2C%20Gyorgy.epub)
+- (1989) - Magányos pavilon / Az elbocsátott légió [details](#id_1375) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Maganyos%20pavilon%20_%20Az%20elbocsatott%20l%20%281375%29/Maganyos%20pavilon%20_%20Az%20elbocsato%20-%20Moldova%2C%20Gyorgy.epub)
+- (1990) - Akit szerettek a nők [details](#id_1388) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Akit%20szerettek%20a%20nok%20%281388%29/Akit%20szerettek%20a%20nok%20-%20Moldova%2C%20Gyorgy.epub)
+- (1991) - A néma súgó [details](#id_1384) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/A%20nema%20sugo%20%281384%29/A%20nema%20sugo%20-%20Moldova%2C%20Gyorgy.epub)
+- (1992) - A bal oroszlán [details](#id_939) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/A%20bal%20oroszlan%20%28939%29/A%20bal%20oroszlan%20-%20Moldova%2C%20Gyorgy.epub)
+- (1992) - A félelem kapuja [details](#id_1402) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/A%20felelem%20kapuja%20%281402%29/A%20felelem%20kapuja%20-%20Moldova%2C%20Gyorgy.epub)
+- (1993) - Bűn az élet… [details](#id_1369) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Bun%20az%20elet__%20%281369%29/Bun%20az%20elet__%20-%20Moldova%2C%20Gyorgy.epub)
+- (1994) - A jog zsoldosai [details](#id_1381)
+- (1994) - A jog zsoldosai [details](#id_352) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/A%20jog%20zsoldosai%20%28352%29/A%20jog%20zsoldosai%20-%20Moldova%2C%20Gyorgy.epub)
+- (1995) - Magyarország szennybemenetele [details](#id_1392) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Magyarorszag%20szennybemenetele%20%281392%29/Magyarorszag%20szennybemenetele%20-%20Moldova%2C%20Gyorgy.epub)
+- (1996) - A Balaton elrablása [details](#id_1380) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/A%20Balaton%20elrablasa%20%281380%29/A%20Balaton%20elrablasa%20-%20Moldova%2C%20Gyorgy.epub)
+- (1998) - Ég a Duna! [details](#id_1370) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Eg%20a%20Duna%21%20%281370%29/Eg%20a%20Duna%21%20-%20Moldova%2C%20Gyorgy.epub)
+- (1999) - A város hercege [details](#id_1385) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/A%20varos%20hercege%20%281385%29/A%20varos%20hercege%20-%20Moldova%2C%20Gyorgy.epub)
+- (2000) - Európa hátsó udvara [details](#id_1404) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Europa%20hatso%20udvara%20%281404%29/Europa%20hatso%20udvara%20-%20Moldova%2C%20Gyorgy.epub)
+- (2001) - A végtelen vonal [details](#id_1386) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/A%20vegtelen%20vonal%20%281386%29/A%20vegtelen%20vonal%20-%20Moldova%2C%20Gyorgy.epub)
+- (2005) - A napló [details](#id_993) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/A%20naplo%20%28993%29/A%20naplo%20-%20Moldova%2C%20Gyorgy.epub)
+- (2007) - Az Elátkozott Hivatal [details](#id_1365) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Az%20Elatkozott%20Hivatal%20%281365%29/Az%20Elatkozott%20Hivatal%20-%20Moldova%2C%20Gyorgy.epub)
+- (2007) - Kádár János [details](#id_1407) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Kadar%20Janos%20%281407%29/Kadar%20Janos%20-%20Moldova%2C%20Gyorgy.epub)
+- (2007) - Negyven prédikátor [details](#id_1405)
+- (2007) - Sötét angyal [details](#id_1378)
+- (2010) - Kis aljasságok lányaimnak [details](#id_1408) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Kis%20aljassagok%20lanyaimnak%20%281408%29/Kis%20aljassagok%20lanyaimnak%20-%20Moldova%2C%20Gyorgy.epub)
+- (2011) - Keserű pohár I. [details](#id_1389)
+- (2011) - Keserű pohár I. [details](#id_1391) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Keseru%20pohar%20I_%20%281391%29/Keseru%20pohar%20I_%20-%20Moldova%2C%20Gyorgy.epub)
+- (2011) - Per Kádár sírjáért [details](#id_1393) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Per%20Kadar%20sirjaert%20%281393%29/Per%20Kadar%20sirjaert%20-%20Moldova%2C%20Gyorgy.epub)
+- (2013) - A beszélő disznó / Józsi rendszert vált / Én, I. Viktor [details](#id_938) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/A%20beszelo%20diszno%20_%20Jozsi%20rendszert%20%28938%29/A%20beszelo%20diszno%20_%20Jozsi%20rendsz%20-%20Moldova%2C%20Gyorgy.epub)
+- (2013) - Ferencvárosi koktél [details](#id_1379) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Ferencvarosi%20koktel%20%281379%29/Ferencvarosi%20koktel%20-%20Moldova%2C%20Gyorgy.epub)
+- (2014) - A nagy októberi összefogás [details](#id_1362) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/A%20nagy%20oktoberi%20osszefogas%20%281362%29/A%20nagy%20oktoberi%20osszefogas%20-%20Moldova%2C%20Gyorgy.epub)
+- (2014) - Zsidómentes övezet [details](#id_1394) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Zsidomentes%20ovezet%20%281394%29/Zsidomentes%20ovezet%20-%20Moldova%2C%20Gyorgy.epub)
+- (2018) - Akit a mozdony füstje megcsapott… [details](#id_1377) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Akit%20a%20mozdony%20fustje%20megcsapott__%20%281377%29/Akit%20a%20mozdony%20fustje%20megcsapot%20-%20Moldova%2C%20Gyorgy.epub)
+- (2019) - Az Úr jó vitéze [details](#id_1387)
+- (2019) - Előttünk az özönvíz [details](#id_1396) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Elottunk%20az%20ozonviz%20%281396%29/Elottunk%20az%20ozonviz%20-%20Moldova%2C%20Gyorgy.epub)
+
+### Molnár, Ferenc
+
+- (2020) - A Pál utcai fiúk [details](#id_1558) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Molnar%2C%20Ferenc/A%20Pal%20utcai%20fiuk%20%281558%29/A%20Pal%20utcai%20fiuk%20-%20Molnar%2C%20Ferenc.epub)
+
+### Mózes, István Miklós
+
+- (2008) - 1200 találós kérdés a magyar folklór világából [details](#id_897) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mozes%2C%20Istvan%20Miklos/1200%20talalos%20kerdes%20a%20magyar%20folklo%20%28897%29/1200%20talalos%20kerdes%20a%20magyar%20fo%20-%20Mozes%2C%20Istvan%20Miklos.epub)
+
+### Müller, Péter
+
+Sorozatok:
+
+Útravaló:
+
+- 1 (2012) - Sorsról és életről [details](#id_114) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Muller%2C%20Peter/Sorsrol%20es%20eletrol%20%28114%29/Sorsrol%20es%20eletrol%20-%20Muller%2C%20Peter.epub)
+
+Egyéb könyvek:
+
+- (2007) - Boldogság [details](#id_112) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Muller%2C%20Peter/Boldogsag%20%28112%29/Boldogsag%20-%20Muller%2C%20Peter.epub)
+- (2007) - Kígyó és kereszt [details](#id_113) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Muller%2C%20Peter/Kigyo%20es%20kereszt%20%28113%29/Kigyo%20es%20kereszt%20-%20Muller%2C%20Peter.epub)
+- (2008) - Örömkönyv [details](#id_110) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Muller%2C%20Peter/Oromkonyv%20%28110%29/Oromkonyv%20-%20Muller%2C%20Peter.epub)
+- (2009) - Gondviselés [details](#id_270) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Muller%2C%20Peter/Gondviseles%20%28270%29/Gondviseles%20-%20Muller%2C%20Peter.epub)
+- (2011) - Titkos tanítások [details](#id_116) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Muller%2C%20Peter/Titkos%20tanitasok%20%28116%29/Titkos%20tanitasok%20-%20Muller%2C%20Peter.epub)
+- (2014) - Benső mosoly [details](#id_111) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Muller%2C%20Peter/Benso%20mosoly%20%28111%29/Benso%20mosoly%20-%20Muller%2C%20Peter.epub)
+- (2016) - Szeretetkönyv [details](#id_115) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Muller%2C%20Peter/Szeretetkonyv%20%28115%29/Szeretetkonyv%20-%20Muller%2C%20Peter.epub)
+- (2018) - Varázskő [details](#id_117) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Muller%2C%20Peter/Varazsko%20%28117%29/Varazsko%20-%20Muller%2C%20Peter.epub)
+
+### Murakami Haruki
+
+- (2007) - Birkakergető nagy kaland [details](#id_526) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Murakami%20Haruki/Birkakergeto%20nagy%20kaland%20%28526%29/Birkakergeto%20nagy%20kaland%20-%20Murakami%20Haruki.epub)
+- (2012) - Miről beszélek, amikor futásról beszélek? [details](#id_471) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Murakami%20Haruki/Mirol%20beszelek%2C%20amikor%20futasrol%20beszelek_%20%28471%29/Mirol%20beszelek%2C%20amikor%20futasrol%20-%20Murakami%20Haruki.epub)
+
+### Nagy, Szilvia
+
+- (2015) - Egyetemista lány támogatót keres [details](#id_389) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Nagy%2C%20Szilvia/Egyetemista%20lany%20tamogatot%20keres%20%28389%29/Egyetemista%20lany%20tamogatot%20kere%20-%20Nagy%2C%20Szilvia.epub)
+
+### Náray, Tamás
+
+Sorozatok:
+
+Zarah:
+
+- 1 (2020) - Zarah [details](#id_1234) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Naray%2C%20Tamas/Zarah%20%281234%29/Zarah%20-%20Naray%2C%20Tamas.epub)
+- 2 (2020) - Zarah öröksége [details](#id_1233) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Naray%2C%20Tamas/Zarah%20oroksege%20%281233%29/Zarah%20oroksege%20-%20Naray%2C%20Tamas.epub)
+- 3 (2020) - Zarah álma [details](#id_1235) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Naray%2C%20Tamas/Zarah%20alma%20%281235%29/Zarah%20alma%20-%20Naray%2C%20Tamas.epub)
+
+### Neil Boyd
+
+- (1997) - Egek, mitévő legyek? [details](#id_922) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Boyd/Egek%2C%20mitevo%20legyek_%20%28922%29/Egek%2C%20mitevo%20legyek_%20-%20Neil%20Boyd.epub)
+- (1999) - Atyák pácban [details](#id_923) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Boyd/Atyak%20pacban%20%28923%29/Atyak%20pacban%20-%20Neil%20Boyd.epub)
+
+### Neil Gaiman
+
+Sorozatok:
+
+Novellák:
+
+- 1 (101) - Shoggoth Különleges [details](#id_890) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Shoggoth%20Kulonleges%20%28890%29/Shoggoth%20Kulonleges%20-%20Neil%20Gaiman.epub)
+
+Egyéb könyvek:
+
+- (101) - 27 képtelen történet [details](#id_665) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/27%20keptelen%20tortenet%20%28665%29/27%20keptelen%20tortenet%20-%20Neil%20Gaiman.epub)
+- (101) - Góliát [details](#id_887)
+- (101) - Hó, tükör, almák [details](#id_888) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Ho%2C%20tukor%2C%20almak%20%28888%29/Ho%2C%20tukor%2C%20almak%20-%20Neil%20Gaiman.epub)
+- (101) - Mátrix [details](#id_889)
+- (2001) - Amerikai Istenek [details](#id_224) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Amerikai%20Istenek%20%28224%29/Amerikai%20Istenek%20-%20Neil%20Gaiman.epub)
+- (2012) - Ne ess pánikba! [details](#id_1706) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Ne%20ess%20panikba%21%20%281706%29/Ne%20ess%20panikba%21%20-%20Neil%20Gaiman.epub)
+- (2013) - Óceán az út végén [details](#id_1433) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Ocean%20az%20ut%20vegen%20%281433%29/Ocean%20az%20ut%20vegen%20-%20Neil%20Gaiman.epub)
+- (2014) - Anansi fiúk [details](#id_1432) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Anansi%20fiuk%20%281432%29/Anansi%20fiuk%20-%20Neil%20Gaiman.epub)
+- (2015) - Coraline (angol) [details](#id_1431) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Coraline%20%28angol%29%20%281431%29/Coraline%20%28angol%29%20-%20Neil%20Gaiman.epub)
+- (2015) - Felkavaró tartalom [details](#id_976) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Felkavaro%20tartalom%20%28976%29/Felkavaro%20tartalom%20-%20Neil%20Gaiman.epub)
+- (2017) - Északi mitológia [details](#id_1435) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Eszaki%20mitologia%20%281435%29/Eszaki%20mitologia%20-%20Neil%20Gaiman.epub)
+- (2017) - Törékeny holmik [details](#id_1436) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Torekeny%20holmik%20%281436%29/Torekeny%20holmik%20-%20Neil%20Gaiman.epub)
+- (2017) - Tükör és füst [details](#id_1434) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Tukor%20es%20fust%20%281434%29/Tukor%20es%20fust%20-%20Neil%20Gaiman.epub)
+- (2018) - Sosehol [details](#id_222) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Sosehol%20%28222%29/Sosehol%20-%20Neil%20Gaiman.epub)
+- (2019) - Csillagpor [details](#id_886) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Csillagpor%20%28886%29/Csillagpor%20-%20Neil%20Gaiman.epub)
+- (2020) - A temető könyve [details](#id_1424) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/A%20temeto%20konyve%20%281424%29/A%20temeto%20konyve%20-%20Neil%20Gaiman.epub)
+
+### Nemere, István
+
+- (1993) - Szélhámosok könyve [details](#id_1015) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Nemere%2C%20Istvan/Szelhamosok%20konyve%20%281015%29/Szelhamosok%20konyve%20-%20Nemere%2C%20Istvan.epub)
+
+### Nick Hornby
+
+- (101) - Pop, csajok satöbbi [details](#id_704) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Nick%20Hornby/Pop%2C%20csajok%20satobbi%20%28704%29/Pop%2C%20csajok%20satobbi%20-%20Nick%20Hornby.epub)
+- (2002) - Hogy legyünk jók? [details](#id_304) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Nick%20Hornby/Hogy%20legyunk%20jok_%20%28304%29/Hogy%20legyunk%20jok_%20-%20Nick%20Hornby.epub)
+- (2008) - Betoncsók [details](#id_708) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Nick%20Hornby/Betoncsok%20%28708%29/Betoncsok%20-%20Nick%20Hornby.epub)
+- (2009) - A Meztelen Juliet [details](#id_709) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Nick%20Hornby/A%20Meztelen%20Juliet%20%28709%29/A%20Meztelen%20Juliet%20-%20Nick%20Hornby.epub)
+- (2014) - Fociláz [details](#id_703) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Nick%20Hornby/Focilaz%20%28703%29/Focilaz%20-%20Nick%20Hornby.epub)
+- (2015) - Hosszú út lefelé [details](#id_705) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Nick%20Hornby/Hosszu%20ut%20lefele%20%28705%29/Hosszu%20ut%20lefele%20-%20Nick%20Hornby.epub)
+- (2016) - Egy fiúról [details](#id_707) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Nick%20Hornby/Egy%20fiurol%20%28707%29/Egy%20fiurol%20-%20Nick%20Hornby.epub)
+
+### Ninni Schulman
+
+Sorozatok:
+
+Hagfors:
+
+- 1 (2014) - Lány a hóban [details](#id_682) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ninni%20Schulman/Lany%20a%20hoban%20%28682%29/Lany%20a%20hoban%20-%20Ninni%20Schulman.epub)
+
+### Noam Chomsky
+
+- (2005) - Hatalom és terror [details](#id_343) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Noam%20Chomsky/Hatalom%20es%20terror%20%28343%29/Hatalom%20es%20terror%20-%20Noam%20Chomsky.epub)
+
+### Nógrádi, György
+
+- (2015) - 40 év alatt a Föld körül [details](#id_991) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Nogradi%2C%20Gyorgy/40%20ev%20alatt%20a%20Fold%20korul%20%28991%29/40%20ev%20alatt%20a%20Fold%20korul%20-%20Nogradi%2C%20Gyorgy.epub)
+
+### Okszana Zabuzsko
+
+- (1999) - Terepvizsgálatok az ukránok szexuális életéről [details](#id_468) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Okszana%20Zabuzsko/Terepvizsgalatok%20az%20ukranok%20szexualis%20eleterol%20%28468%29/Terepvizsgalatok%20az%20ukranok%20sze%20-%20Okszana%20Zabuzsko.epub)
+
+### Örkény, István
+
+- (1979) - „Rózsakiállítás” [details](#id_515) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Orkeny%2C%20Istvan/%2C%2CRozsakiallitas_%20%28515%29/%2C%2CRozsakiallitas_%20-%20Orkeny%2C%20Istvan.epub)
+- (2004) - Válogatott egyperces novellák [details](#id_516) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Orkeny%2C%20Istvan/Valogatott%20egyperces%20novellak%20%28516%29/Valogatott%20egyperces%20novellak%20-%20Orkeny%2C%20Istvan.epub)
+- (2018) - Egyperces novellák [details](#id_514) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Orkeny%2C%20Istvan/Egyperces%20novellak%20%28514%29/Egyperces%20novellak%20-%20Orkeny%2C%20Istvan.epub)
+
+### Orvos-Tóth, Noémi
+
+- (2019) - Örökölt sors [details](#id_1290) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Orvos-Toth%2C%20Noemi/Orokolt%20sors%20%281290%29/Orokolt%20sors%20-%20Orvos-Toth%2C%20Noemi.epub)
+
+### Őszentsége A XIV. Dalai Láma
+
+- (2005) - Száműzetésben – szabadon [details](#id_610) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Oszentsege%20A%20XIV.%20Dalai%20Lama/Szamuzetesben%20-%20szabadon%20%28610%29/Szamuzetesben%20-%20szabadon%20-%20Oszentsege%20A%20XIV.%20Dalai%20Lama.epub)
+
+### P. G. Wodehouse
+
+Sorozatok:
+
+Blandings kastély:
+
+- 2 (2005) - Forduljon Psmithhez! [details](#id_503) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Forduljon%20Psmithhez%21%20%28503%29/Forduljon%20Psmithhez%21%20-%20P.%20G.%20Wodehouse.epub)
+- 4 (2000) - Nyári zivatar [details](#id_507) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Nyari%20zivatar%20%28507%29/Nyari%20zivatar%20-%20P.%20G.%20Wodehouse.epub)
+- 11 (2007) - Egy pelikán Blandingsben [details](#id_501) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Egy%20pelikan%20Blandingsben%20%28501%29/Egy%20pelikan%20Blandingsben%20-%20P.%20G.%20Wodehouse.epub)
+
+Jeeves:
+
+- 2 (2007) - Halihó, Jeeves! [details](#id_945) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Haliho%2C%20Jeeves%21%20%28945%29/Haliho%2C%20Jeeves%21%20-%20P.%20G.%20Wodehouse.epub)
+- 3 (2004) - Folytassa, Jeeves! [details](#id_502) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Folytassa%2C%20Jeeves%21%20%28502%29/Folytassa%2C%20Jeeves%21%20-%20P.%20G.%20Wodehouse.epub)
+- 7 (2004) - Gáz van, Jeeves! [details](#id_943) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Gaz%20van%2C%20Jeeves%21%20%28943%29/Gaz%20van%2C%20Jeeves%21%20-%20P.%20G.%20Wodehouse.epub)
+
+Psmith:
+
+- 2 (1998) - Psmith a pénzvilágban [details](#id_508) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Psmith%20a%20penzvilagban%20%28508%29/Psmith%20a%20penzvilagban%20-%20P.%20G.%20Wodehouse.epub)
+
+Egyéb könyvek:
+
+- (1988) - Kirabol a komornyikom [details](#id_506) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Kirabol%20a%20komornyikom%20%28506%29/Kirabol%20a%20komornyikom%20-%20P.%20G.%20Wodehouse.epub)
+- (2002) - Az életművész [details](#id_500) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Az%20eletmuvesz%20%28500%29/Az%20eletmuvesz%20-%20P.%20G.%20Wodehouse.epub)
+- (2004) - Rengeteg pénz [details](#id_509) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Rengeteg%20penz%20%28509%29/Rengeteg%20penz%20-%20P.%20G.%20Wodehouse.epub)
+- (2004) - Rengeteg pénz [details](#id_944) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Rengeteg%20penz%20%28944%29/Rengeteg%20penz%20-%20P.%20G.%20Wodehouse.epub)
+- (2007) - Hübele Sámuel [details](#id_504) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Hubele%20Samuel%20%28504%29/Hubele%20Samuel%20-%20P.%20G.%20Wodehouse.epub)
+- (2012) - Karikacsapás [details](#id_505) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Karikacsapas%20%28505%29/Karikacsapas%20-%20P.%20G.%20Wodehouse.epub)
+- (2013) - Csirkék és szerelem [details](#id_942) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Csirkek%20es%20szerelem%20%28942%29/Csirkek%20es%20szerelem%20-%20P.%20G.%20Wodehouse.epub)
+- (2015) - Blandings és vidéke [details](#id_941) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Blandings%20es%20videke%20%28941%29/Blandings%20es%20videke%20-%20P.%20G.%20Wodehouse.epub)
+
+### Pál, Ferenc
+
+- (2018) - A függőségtől az intimitásig [details](#id_664) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Pal%2C%20Ferenc/A%20fuggosegtol%20az%20intimitasig%20%28664%29/A%20fuggosegtol%20az%20intimitasig%20-%20Pal%2C%20Ferenc.epub)
+
+### Pam Johnson-Bennett
+
+- (2018) - Gondolkodj macskául [details](#id_1438) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Pam%20Johnson-Bennett/Gondolkodj%20macskaul%20%281438%29/Gondolkodj%20macskaul%20-%20Pam%20Johnson-Bennett.epub)
+
+### Pasquale Festa Campanile
+
+- (1989) - A szerelmes boszorkány [details](#id_975) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Pasquale%20Festa%20Campanile/A%20szerelmes%20boszorkany%20%28975%29/A%20szerelmes%20boszorkany%20-%20Pasquale%20Festa%20Campanile.epub)
+
+### Patrick Rothfuss
+
+Sorozatok:
+
+A királygyilkos krónikája:
+
+- 2 (2014) - A bölcs ember félelme [details](#id_1029) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Patrick%20Rothfuss/A%20bolcs%20ember%20felelme%20%281029%29/A%20bolcs%20ember%20felelme%20-%20Patrick%20Rothfuss.epub)
+
+### Patrick Süskind
+
+- (2006) - A parfüm [details](#id_408) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Patrick%20Suskind/A%20parfum%20%28408%29/A%20parfum%20-%20Patrick%20Suskind.epub)
+
+### Paul Watzlawick
+
+- (1989) - A helyzet reménytelen, de nem súlyos [details](#id_954) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Paul%20Watzlawick/A%20helyzet%20remenytelen%2C%20de%20nem%20sulyo%20%28954%29/A%20helyzet%20remenytelen%2C%20de%20nem%20s%20-%20Paul%20Watzlawick.epub)
+
+### Paulo Coelho
+
+Sorozatok:
+
+És a hetedik:
+
+- 1 (2016) - Veronika meg akar halni [details](#id_264) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Paulo%20Coelho/Veronika%20meg%20akar%20halni%20%28264%29/Veronika%20meg%20akar%20halni%20-%20Paulo%20Coelho.epub)
+
+Egyéb könyvek:
+
+- (2013) - A zarándoklat [details](#id_260) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Paulo%20Coelho/A%20zarandoklat%20%28260%29/A%20zarandoklat%20-%20Paulo%20Coelho.epub)
+- (2020) - Az alkimista [details](#id_261) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Paulo%20Coelho/Az%20alkimista%20%28261%29/Az%20alkimista%20-%20Paulo%20Coelho.epub)
+- (2020) - Tizenegy perc [details](#id_263) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Paulo%20Coelho/Tizenegy%20perc%20%28263%29/Tizenegy%20perc%20-%20Paulo%20Coelho.epub)
+
+### Peter Freund
+
+Sorozatok:
+
+Laura:
+
+- 1 (2003) - Laura és Aventerra titkai [details](#id_589) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Peter%20Freund/Laura%20es%20Aventerra%20titkai%20%28589%29/Laura%20es%20Aventerra%20titkai%20-%20Peter%20Freund.epub)
+- 2 (2004) - Laura és a Hét Hold pecsétje [details](#id_586) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Peter%20Freund/Laura%20es%20a%20Het%20Hold%20pecsetje%20%28586%29/Laura%20es%20a%20Het%20Hold%20pecsetje%20-%20Peter%20Freund.epub)
+- 3 (2005) - Laura és az Ezüstszfinx rejtvénye [details](#id_590) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Peter%20Freund/Laura%20es%20az%20Ezustszfinx%20rejtvenye%20%28590%29/Laura%20es%20az%20Ezustszfinx%20rejtven%20-%20Peter%20Freund.epub)
+- 4 (2006) - Laura és a sárkánykirályok átka [details](#id_587) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Peter%20Freund/Laura%20es%20a%20sarkanykiralyok%20atka%20%28587%29/Laura%20es%20a%20sarkanykiralyok%20atka%20-%20Peter%20Freund.epub)
+- 5 (2007) - Laura és a Tűzkígyó gyűrűje [details](#id_588) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Peter%20Freund/Laura%20es%20a%20Tuzkigyo%20gyuruje%20%28588%29/Laura%20es%20a%20Tuzkigyo%20gyuruje%20-%20Peter%20Freund.epub)
+- 6 (2008) - Laura és a Fény Labirintusa [details](#id_1301) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Peter%20Freund/Laura%20es%20a%20Feny%20Labirintusa%20%281301%29/Laura%20es%20a%20Feny%20Labirintusa%20-%20Peter%20Freund.epub)
+
+### Péter Kende
+
+Sorozatok:
+
+A Viktor:
+
+- 2 (2006) - Az igazi Orbán [details](#id_1646) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Peter%20Kende/Az%20igazi%20Orban%20%281646%29/Az%20igazi%20Orban%20-%20Peter%20Kende.epub)
+
+### Peter S. Caledonian
+
+Sorozatok:
+
+Túlélés Magyaroknak:
+
+- 1 (2019) - Hát-társ [details](#id_1222) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Peter%20S.%20Caledonian/Hat-tars%20%281222%29/Hat-tars%20-%20Peter%20S.%20Caledonian.epub)
+
+### Philip Carlo
+
+- (2012) - A Jeges [details](#id_529) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Philip%20Carlo/A%20Jeges%20%28529%29/A%20Jeges%20-%20Philip%20Carlo.epub)
+
+### Philip Pullman
+
+Sorozatok:
+
+Az Úr Sötét Anyagai:
+
+- 1 (2007) - Északi fény [details](#id_1219) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Philip%20Pullman/Eszaki%20feny%20%281219%29/Eszaki%20feny%20-%20Philip%20Pullman.epub)
+- 2 (2017) - A titokzatos kés [details](#id_1220) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Philip%20Pullman/A%20titokzatos%20kes%20%281220%29/A%20titokzatos%20kes%20-%20Philip%20Pullman.epub)
+- 3 (2017) - A borostyán látcső [details](#id_1221) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Philip%20Pullman/A%20borostyan%20latcso%20%281221%29/A%20borostyan%20latcso%20-%20Philip%20Pullman.epub)
+
+### Philip Roth
+
+- (2020) - Összeesküvés Amerika ellen [details](#id_1453) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Philip%20Roth/Osszeeskuves%20Amerika%20ellen%20%281453%29/Osszeeskuves%20Amerika%20ellen%20-%20Philip%20Roth.epub)
+
+### Philippe Pozzo Di Borgo
+
+- (2017) - Életrevalók [details](#id_1267) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Philippe%20Pozzo%20Di%20Borgo/Eletrevalok%20%281267%29/Eletrevalok%20-%20Philippe%20Pozzo%20Di%20Borgo.epub)
+
+### Polcz Alaine
+
+- (2009) - Világjáték [details](#id_1505)
+- (2018) - Főzzünk örömmel! [details](#id_1506) [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Fozzunk%20orommel%21%20%281506%29/Fozzunk%20orommel%21%20-%20Polcz%20Alaine.pdf)
+- (2021) - Asszony a fronton [details](#id_1443) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Asszony%20a%20fronton%20%281443%29/Asszony%20a%20fronton%20-%20Polcz%20Alaine.epub)
+
+### Polcz, Alaine
+
+- (2001) - Ideje a meghalásnak [details](#id_1440) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Ideje%20a%20meghalasnak%20%281440%29/Ideje%20a%20meghalasnak%20-%20Polcz%2C%20Alaine.epub)
+- (2007) - Meghalok én is? [details](#id_1441) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Meghalok%20en%20is_%20%281441%29/Meghalok%20en%20is_%20-%20Polcz%2C%20Alaine.epub)
+- (2007) - Rend és rendetlenség [details](#id_1442) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Rend%20es%20rendetlenseg%20%281442%29/Rend%20es%20rendetlenseg%20-%20Polcz%2C%20Alaine.epub)
+- (2013) - Kit siratok? Mit siratok? [details](#id_1504) [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Kit%20siratok_%20Mit%20siratok_%20%281504%29/Kit%20siratok_%20Mit%20siratok_%20-%20Polcz%2C%20Alaine.pdf)
+- (2016) - Macskaregény [details](#id_1439) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Macskaregeny%20%281439%29/Macskaregeny%20-%20Polcz%2C%20Alaine.epub)
+
+### Popper, Péter
+
+- (2010) - Lélekrágcsálók [details](#id_763) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Popper%2C%20Peter/Lelekragcsalok%20%28763%29/Lelekragcsalok%20-%20Popper%2C%20Peter.epub)
+
+### Poul Örum
+
+- (1980) - Csak az igazat [details](#id_678) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Poul%20Orum/Csak%20az%20igazat%20%28678%29/Csak%20az%20igazat%20-%20Poul%20Orum.epub)
+
+### Raana Raas
+
+Sorozatok:
+
+Csodaidők:
+
+- 1 (2005) - Az Ogfák Vöröse [details](#id_1670) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Raana%20Raas/Az%20Ogfak%20Vorose%20%281670%29/Az%20Ogfak%20Vorose%20-%20Raana%20Raas.epub)
+- 2 (2007) - Kiszakadtak [details](#id_1671) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Raana%20Raas/Kiszakadtak%20%281671%29/Kiszakadtak%20-%20Raana%20Raas.epub)
+- 3 (2008) - Árulás [details](#id_1672) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Raana%20Raas/Arulas%20%281672%29/Arulas%20-%20Raana%20Raas.epub)
+- 4 (2009) - Hazatérők [details](#id_1673) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Raana%20Raas/Hazaterok%20%281673%29/Hazaterok%20-%20Raana%20Raas.epub)
+
+Időcsodák:
+
+- 1 (2011) - Elágazó utak [details](#id_1674) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Raana%20Raas/Elagazo%20utak%20%281674%29/Elagazo%20utak%20-%20Raana%20Raas.epub)
+- 2 (2012) - Ellenállók [details](#id_1675) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Raana%20Raas/Ellenallok%20%281675%29/Ellenallok%20-%20Raana%20Raas.epub)
+- 3 (2017) - Menekülők [details](#id_1676) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Raana%20Raas/Menekulok%20%281676%29/Menekulok%20-%20Raana%20Raas.epub)
+
+### Rachel Vincent
+
+Sorozatok:
+
+Vérmacskák:
+
+- 1 (2012) - Stray – Kóborok [details](#id_428) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rachel%20Vincent/Stray%20-%20Koborok%20%28428%29/Stray%20-%20Koborok%20-%20Rachel%20Vincent.epub)
+
+### Rebecca Shaw
+
+Sorozatok:
+
+Turnham Malpas:
+
+- 1 (2014) - Az új lelkész [details](#id_1009) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rebecca%20Shaw/Az%20uj%20lelkesz%20%281009%29/Az%20uj%20lelkesz%20-%20Rebecca%20Shaw.epub)
+
+### Rejtő, Jenő
+
+Sorozatok:
+
+Légiós regények:
+
+- 1 (101) - A három testőr Afrikában [details](#id_824) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/A%20harom%20testor%20Afrikaban%20%28824%29/A%20harom%20testor%20Afrikaban%20-%20Rejto%2C%20Jeno.epub)
+- 2 (2014) - A tizennégy karátos autó [details](#id_131) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/A%20tizennegy%20karatos%20auto%20%28131%29/A%20tizennegy%20karatos%20auto%20-%20Rejto%2C%20Jeno.epub)
+- 3 (2005) - Bradley Tamás visszaüt [details](#id_138) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Bradley%20Tamas%20visszaut%20%28138%29/Bradley%20Tamas%20visszaut%20-%20Rejto%2C%20Jeno.epub)
+- 4 (2011) - Csontbrigád [details](#id_139) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Csontbrigad%20%28139%29/Csontbrigad%20-%20Rejto%2C%20Jeno.epub)
+- 5 (2010) - Az előretolt helyőrség [details](#id_135) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Az%20eloretolt%20helyorseg%20%28135%29/Az%20eloretolt%20helyorseg%20-%20Rejto%2C%20Jeno.epub)
+- 7 (2014) - Menni vagy meghalni [details](#id_145) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Menni%20vagy%20meghalni%20%28145%29/Menni%20vagy%20meghalni%20-%20Rejto%2C%20Jeno.epub)
+
+Piszkos Fred és barátai:
+
+- 1 (2014) - Piszkos Fred, a kapitány [details](#id_149) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Piszkos%20Fred%2C%20a%20kapitany%20%28149%29/Piszkos%20Fred%2C%20a%20kapitany%20-%20Rejto%2C%20Jeno.epub)
+- 2 (2014) - Piszkos Fred közbelép (Fülig Jimmy őszintre sajnálatára) [details](#id_148) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Piszkos%20Fred%20kozbelep%20%28Fulig%20Jimmy%20%20%28148%29/Piszkos%20Fred%20kozbelep%20%28Fulig%20Ji%20-%20Rejto%2C%20Jeno.epub)
+- 3 (101) - Az elveszett cirkáló [details](#id_825) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Az%20elveszett%20cirkalo%20%28825%29/Az%20elveszett%20cirkalo%20-%20Rejto%2C%20Jeno.epub)
+- 4 (2011) - A megkerült cirkáló [details](#id_130) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/A%20megkerult%20cirkalo%20%28130%29/A%20megkerult%20cirkalo%20-%20Rejto%2C%20Jeno.epub)
+
+Egyéb könyvek:
+
+- (1986) - Vanek úr Párizsban [details](#id_153) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Vanek%20ur%20Parizsban%20%28153%29/Vanek%20ur%20Parizsban%20-%20Rejto%2C%20Jeno.epub)
+- (1989) - Vesztegzár a Grand Hotelben ; A Szőke Ciklon [details](#id_125) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Vesztegzar%20a%20Grand%20Hotelben%20%3B%20A%20Szo%20%28125%29/Vesztegzar%20a%20Grand%20Hotelben%20%3B%20A%20-%20Rejto%2C%20Jeno.epub)
+- (1989) - Vesztegzár a Grand Hotelben ; A Szőke Ciklon [details](#id_154) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Vesztegzar%20a%20Grand%20Hotelben%20%3B%20A%20Szo%20%28154%29/Vesztegzar%20a%20Grand%20Hotelben%20%3B%20A%20-%20Rejto%2C%20Jeno.epub)
+- (1991) - A pokol zsoldosai / Az utolsó szó jogán [details](#id_136) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/A%20pokol%20zsoldosai%20_%20Az%20utolso%20szo%20j%20%28136%29/A%20pokol%20zsoldosai%20_%20Az%20utolso%20s%20-%20Rejto%2C%20Jeno.epub)
+- (1993) - Trópusi Pokol/Az Ellopott Század/Vissza a Pokolba! [details](#id_155) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Tropusi%20Pokol_Az%20Ellopott%20Szazad_Vissza%20a%20Pokolba%21%20%28155%29/Tropusi%20Pokol_Az%20Ellopott%20Szaza%20-%20Rejto%2C%20Jeno.epub)
+- (1994) - Texas Bill, a Fenegyerek [details](#id_151) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Texas%20Bill%2C%20a%20Fenegyerek%20%28151%29/Texas%20Bill%2C%20a%20Fenegyerek%20-%20Rejto%2C%20Jeno.epub)
+- (1997) - Egy görbe éjszaka + Szerencsés utat + Aki mer, az nyer [details](#id_141) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Egy%20gorbe%20ejszaka%20_%20Szerencses%20utat%20%28141%29/Egy%20gorbe%20ejszaka%20_%20Szerencses%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub)
+- (2003) - Bedekker csavargók számára [details](#id_137) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Bedekker%20csavargok%20szamara%20%28137%29/Bedekker%20csavargok%20szamara%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub)
+- (2008) - A Láthatatlan Légió [details](#id_129) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/A%20Lathatatlan%20Legio%20%28129%29/A%20Lathatatlan%20Legio%20-%20Rejto%2C%20Jeno.epub)
+- (2009) - A Néma Revolverek Városa és más történetek – Rejtõ Jenõ összes mûvei [details](#id_823) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/A%20Nema%20Revolverek%20Varosa%20es%20mas%20tor%20%28823%29/A%20Nema%20Revolverek%20Varosa%20es%20mas%20-%20Rejto%2C%20Jeno.epub)
+- (2010) - Pokol a hegyek között [details](#id_150) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Pokol%20a%20hegyek%20kozott%20%28150%29/Pokol%20a%20hegyek%20kozott%20-%20Rejto%2C%20Jeno.epub)
+- (2010) - Tigrisvér [details](#id_152) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Tigrisver%20%28152%29/Tigrisver%20-%20Rejto%2C%20Jeno.epub)
+- (2010) - Halálsziget: kisregények [details](#id_142) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Halalsziget_%20kisregenyek%20%28142%29/Halalsziget_%20kisregenyek%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub)
+- (2012) - Pipacs, a fenegyerek / Az elsikkasztott pénztáros - Hangoskönyv [details](#id_147) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Pipacs%2C%20a%20fenegyerek%20_%20Az%20elsikkasz%20%28147%29/Pipacs%2C%20a%20fenegyerek%20_%20Az%20elsik%20-%20Rejto%2C%20Jeno.epub)
+- (2014) - A pokol zsoldosai [details](#id_124) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/A%20pokol%20zsoldosai%20%28124%29/A%20pokol%20zsoldosai%20-%20Rejto%2C%20Jeno.epub)
+- (2014) - Nincs kegyelem [details](#id_146) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Nincs%20kegyelem%20%28146%29/Nincs%20kegyelem%20-%20Rejto%2C%20Jeno.epub)
+- (2014) - A drótnélküli gyilkosság [details](#id_127) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20drotnelkuli%20gyilkossag%20%28127%29/A%20drotnelkuli%20gyilkossag%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub)
+- (2018) - Az ellopott futár [details](#id_133) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Az%20ellopott%20futar%20%28133%29/Az%20ellopott%20futar%20-%20Rejto%2C%20Jeno.epub)
+- (2018) - A boszorkánymester [details](#id_126) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20boszorkanymester%20%28126%29/A%20boszorkanymester%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub)
+- (2018) - A fehér folt [details](#id_123) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20feher%20folt%20%28123%29/A%20feher%20folt%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub)
+- (2018) - Legény a talpán [details](#id_144) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Legeny%20a%20talpan%20%28144%29/Legeny%20a%20talpan%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub)
+- (2019) - Az ellopott század [details](#id_134) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Az%20ellopott%20szazad%20%28134%29/Az%20ellopott%20szazad%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub)
+- (2019) - Egy bolond száz bajt csinál [details](#id_140) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Egy%20bolond%20szaz%20bajt%20csinal%20%28140%29/Egy%20bolond%20szaz%20bajt%20csinal%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub)
+- (2019) - Jó üzlet a halál [details](#id_143) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Jo%20uzlet%20a%20halal%20%28143%29/Jo%20uzlet%20a%20halal%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub)
+
+### Réti, László
+
+- (2016) - Az ellenkező nem [details](#id_1703) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Reti%2C%20Laszlo/Az%20ellenkezo%20nem%20%281703%29/Az%20ellenkezo%20nem%20-%20Reti%2C%20Laszlo.epub)
+
+### Rhonda Byrne
+
+- (2006) - A titok [details](#id_647) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rhonda%20Byrne/A%20titok%20%28647%29/A%20titok%20-%20Rhonda%20Byrne.epub)
+- (2009) - Az Erő [details](#id_281) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rhonda%20Byrne/Az%20Ero%20%28281%29/Az%20Ero%20-%20Rhonda%20Byrne.epub)
+- (2011) - A varázslat [details](#id_286) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rhonda%20Byrne/A%20varazslat%20%28286%29/A%20varazslat%20-%20Rhonda%20Byrne.epub)
+- (2012) - Határtalan gondolatok [details](#id_648)
+
+### Richard Condon
+
+- (2004) - A mandzsúriai jelölt [details](#id_598) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Richard%20Condon/A%20mandzsuriai%20jelolt%20%28598%29/A%20mandzsuriai%20jelolt%20-%20Richard%20Condon.epub)
+
+### Richard Dawkins
+
+- (1989) - A hódító gén [details](#id_359) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Richard%20Dawkins/A%20hodito%20gen%20%28359%29/A%20hodito%20gen%20-%20Richard%20Dawkins.epub)
+- (1996) - Folyam az Édenkertből [details](#id_362) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Richard%20Dawkins/Folyam%20az%20Edenkertbol%20%28362%29/Folyam%20az%20Edenkertbol%20-%20Richard%20Dawkins.epub)
+- (2005) - Az Ördög Káplánja [details](#id_361) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Richard%20Dawkins/Az%20Ordog%20Kaplanja%20%28361%29/Az%20Ordog%20Kaplanja%20-%20Richard%20Dawkins.epub)
+- (2011) - Az önző gén [details](#id_360) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Richard%20Dawkins/Az%20onzo%20gen%20%28360%29/Az%20onzo%20gen%20-%20Richard%20Dawkins.epub)
+- (2017) - Isteni téveszme [details](#id_363) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Richard%20Dawkins/Isteni%20teveszme%20%28363%29/Isteni%20teveszme%20-%20Richard%20Dawkins.epub)
+
+### Richard P. Feynman
+
+- (2019) - „Tréfál, Feynman úr?” [details](#id_820) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Richard%20P.%20Feynman/%2C%2CTrefal%2C%20Feynman%20ur__%20%28820%29/%2C%2CTrefal%2C%20Feynman%20ur__%20-%20Richard%20P.%20Feynman.epub)
+
+### Richelle Mead
+
+Sorozatok:
+
+Georgina Kincaid:
+
+- 1 (2012) - A szukkubusz dala [details](#id_1509) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Richelle%20Mead/A%20szukkubusz%20dala%20%281509%29/A%20szukkubusz%20dala%20-%20Richelle%20Mead.epub)
+
+### Rick Riordan
+
+Sorozatok:
+
+A 39 kulcs:
+
+- 1 (2008) - A csontlabirintus [details](#id_1653) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rick%20Riordan/A%20csontlabirintus%20%281653%29/A%20csontlabirintus%20-%20Rick%20Riordan.epub)
+
+Apollón próbái:
+
+- 1 (2021) - Az elrejtett orákulum [details](#id_1656) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rick%20Riordan/Az%20elrejtett%20orakulum%20%281656%29/Az%20elrejtett%20orakulum%20-%20Rick%20Riordan.epub)
+- 3 (2021) - A lángoló Labirintus [details](#id_1655) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rick%20Riordan/A%20langolo%20Labirintus%20%281655%29/A%20langolo%20Labirintus%20-%20Rick%20Riordan.epub)
+
+Az Olimposz hősei:
+
+- 1 (2010) - Az elveszett hős [details](#id_1663) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rick%20Riordan/Az%20elveszett%20hos%20%281663%29/Az%20elveszett%20hos%20-%20Rick%20Riordan.epub)
+- 2 (2011) - Neptunus fia [details](#id_1652) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rick%20Riordan/Neptunus%20fia%20%281652%29/Neptunus%20fia%20-%20Rick%20Riordan.epub)
+- 4.1 (2020) - Percy Jackson görög hősei [details](#id_1657) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rick%20Riordan/Percy%20Jackson%20gorog%20hosei%20%281657%29/Percy%20Jackson%20gorog%20hosei%20-%20Rick%20Riordan.epub)
+- 5 (2020) - Az Olimposz vére [details](#id_1650) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rick%20Riordan/Az%20Olimposz%20vere%20%281650%29/Az%20Olimposz%20vere%20-%20Rick%20Riordan.epub)
+
+Kane krónikák:
+
+- 2 (2019) - Tűztrónus [details](#id_1658) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rick%20Riordan/Tuztronus%20%281658%29/Tuztronus%20-%20Rick%20Riordan.epub)
+- 3 (2012) - A kígyó árnyéka [details](#id_1654) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rick%20Riordan/A%20kigyo%20arnyeka%20%281654%29/A%20kigyo%20arnyeka%20-%20Rick%20Riordan.epub)
+
+Percy Jackson és az olimposziak:
+
+- 1 (2008) - A villámtolvaj [details](#id_1649) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rick%20Riordan/A%20villamtolvaj%20%281649%29/A%20villamtolvaj%20-%20Rick%20Riordan.epub)
+- 2 (2006) - A szörnyek tengere [details](#id_1661) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rick%20Riordan/A%20szornyek%20tengere%20%281661%29/A%20szornyek%20tengere%20-%20Rick%20Riordan.epub)
+- 3 (2007) - A titán átka [details](#id_1648) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rick%20Riordan/A%20titan%20atka%20%281648%29/A%20titan%20atka%20-%20Rick%20Riordan.epub)
+- 4 (2009) - The Battle of the Labyrinth [details](#id_1659) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rick%20Riordan/The%20Battle%20of%20the%20Labyrinth%20%281659%29/The%20Battle%20of%20the%20Labyrinth%20-%20Rick%20Riordan.epub)
+- 5 (2009) - Az utolsó olimposzi [details](#id_1662) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rick%20Riordan/Az%20utolso%20olimposzi%20%281662%29/Az%20utolso%20olimposzi%20-%20Rick%20Riordan.epub)
+
+Egyéb könyvek:
+
+- (2013) - Percy Jackson és a görög istenek [details](#id_1660) [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Rick%20Riordan/Percy%20Jackson%20es%20a%20gorog%20istenek%20%281660%29/Percy%20Jackson%20es%20a%20gorog%20istene%20-%20Rick%20Riordan.pdf)
+
+### Roald Dahl
+
+Sorozatok:
+
+Charlie Bucket:
+
+- 1 (2010) - Charlie and the Chocolate Factory [details](#id_1593) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Roald%20Dahl/Charlie%20and%20the%20Chocolate%20Factory%20%281593%29/Charlie%20and%20the%20Chocolate%20Facto%20-%20Roald%20Dahl.epub)
+- 2 (2007) - Charlie and the Great Glass Elevator [details](#id_1594) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Roald%20Dahl/Charlie%20and%20the%20Great%20Glass%20Elevato%20%281594%29/Charlie%20and%20the%20Great%20Glass%20Ele%20-%20Roald%20Dahl.epub)
+
+Egyéb könyvek:
+
+- (1990) - Szofi és a HABÓ [details](#id_537) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Roald%20Dahl/Szofi%20es%20a%20HABO%20%28537%29/Szofi%20es%20a%20HABO%20-%20Roald%20Dahl.epub)
+- (2002) - Roald Dahl összes meghökkentő meséje 2. [details](#id_1596) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Roald%20Dahl/Roald%20Dahl%20osszes%20meghokkento%20mesej%20%281596%29/Roald%20Dahl%20osszes%20meghokkento%20m%20-%20Roald%20Dahl.epub)
+- (2004) - Roald Dahl összes meghökkentő meséje 1. [details](#id_1595) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Roald%20Dahl/Roald%20Dahl%20osszes%20meghokkento%20mesej%20%281595%29/Roald%20Dahl%20osszes%20meghokkento%20m%20-%20Roald%20Dahl.epub)
+- (2017) - Boszorkányok [details](#id_1602) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Roald%20Dahl/Boszorkanyok%20%281602%29/Boszorkanyok%20-%20Roald%20Dahl.epub)
+- (2017) - Fantasztikus Róka úr [details](#id_1601) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Roald%20Dahl/Fantasztikus%20Roka%20ur%20%281601%29/Fantasztikus%20Roka%20ur%20-%20Roald%20Dahl.epub)
+
+### Robert Fulghum
+
+- (2008) - Már lángolt, amikor ráfeküdtem [details](#id_1277)
+- (2012) - Már az óvodában megtanultam mindent, amit tudni érdemes [details](#id_1302)
+
+### Robert Leeson
+
+- (1990) - A neveletlen dzsinn [details](#id_1007) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Leeson/A%20neveletlen%20dzsinn%20%281007%29/A%20neveletlen%20dzsinn%20-%20Robert%20Leeson.epub)
+
+### Robert Louis Stevenson
+
+- (2020) - Dr. Jekyll és Mr. Hyde különös esete [details](#id_615) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Louis%20Stevenson/Dr.%20Jekyll%20es%20Mr.%20Hyde%20kulonos%20eset%20%28615%29/Dr.%20Jekyll%20es%20Mr.%20Hyde%20kulonos%20-%20Robert%20Louis%20Stevenson.epub)
+
+### Robert Ludlum
+
+Sorozatok:
+
+Bourne:
+
+- 1 (2006) - Bourne Hatalma [details](#id_40) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Bourne%20Hatalma%20%2840%29/Bourne%20Hatalma%20-%20Robert%20Ludlum.epub)
+
+Covert-One:
+
+- 1 (2006) - A Hádész faktor [details](#id_33) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/A%20Hadesz%20faktor%20%2833%29/A%20Hadesz%20faktor%20-%20Robert%20Ludlum.epub)
+- 3 (2005) - A Párizs opció [details](#id_37) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/A%20Parizs%20opcio%20%2837%29/A%20Parizs%20opcio%20-%20Robert%20Ludlum.epub)
+
+Fantom/Bourne:
+
+- 1 (2005) - A Bourne-rejtély [details](#id_30) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/A%20Bourne-Rejtely%20%2830%29/A%20Bourne-rejtely%20-%20Robert%20Ludlum.epub)
+- 3 (2006) - Bourne ultimátuma [details](#id_32) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Bourne%20ultimatuma%20%2832%29/Bourne%20ultimatuma%20-%20Robert%20Ludlum%20%28Case%20Conflict%29.epub)
+
+Matarese Klán:
+
+- 1 (1979) - Matarese klán [details](#id_35) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Matarese%20klan%20%2835%29/Matarese%20klan%20-%20Robert%20Ludlum.epub)
+- 2 (101) - Matarese Klán(2) [details](#id_36) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Matarese%20Klan%282%29%20%2836%29/Matarese%20Klan%282%29%20-%20Robert%20Ludlum.epub)
+
+Egyéb könyvek:
+
+- (1988) - Csak tanú ne maradjon! [details](#id_772) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Csak%20tanu%20ne%20maradjon%21%20%28772%29/Csak%20tanu%20ne%20maradjon%21%20-%20Robert%20Ludlum.epub)
+- (2000) - A Skorpió illúzió I-II. [details](#id_38) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/A%20Skorpio%20illuzio%20I-II_%20%2838%29/A%20Skorpio%20illuzio%20I-II_%20-%20Robert%20Ludlum.epub)
+- (2000) - A Skorpió illúzió I-II. [details](#id_39) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/A%20Skorpio%20illuzio%20I-II_%20%2839%29/A%20Skorpio%20illuzio%20I-II_%20-%20Robert%20Ludlum.epub)
+- (2001) - Holcroft szövetség [details](#id_34) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Holcroft%20szovetseg%20%2834%29/Holcroft%20szovetseg%20-%20Robert%20Ludlum.epub)
+- (2004) - Parsifal mozaik [details](#id_41) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Parsifal%20mozaik%20%2841%29/Parsifal%20mozaik%20-%20Robert%20Ludlum.epub)
+- (2004) - Parsifal mozaik [details](#id_42) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Parsifal%20mozaik%20%2842%29/Parsifal%20mozaik%20-%20Robert%20Ludlum.epub)
+- (2005) - A Chancellor kézirat [details](#id_801) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/A%20Chancellor%20kezirat%20%28801%29/A%20Chancellor%20kezirat%20-%20Robert%20Ludlum.epub)
+
+### Robert Merle
+
+Sorozatok:
+
+Francia história:
+
+- 1 (2010) - Francia história [details](#id_330) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Francia%20historia%20%28330%29/Francia%20historia%20-%20Robert%20Merle.epub)
+- 2 (2018) - Csikóéveink [details](#id_329) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Csikoeveink%20%28329%29/Csikoeveink%20-%20Robert%20Merle.epub)
+- 5 (1993) - Szenvedélyes szeretet [details](#id_338) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Szenvedelyes%20szeretet%20%28338%29/Szenvedelyes%20szeretet%20-%20Robert%20Merle.epub)
+- 6 (1998) - A pirkadat [details](#id_324) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/A%20pirkadat%20%28324%29/A%20pirkadat%20-%20Robert%20Merle.epub)
+- 7 (2011) - Libben a szoknya [details](#id_332) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Libben%20a%20szoknya%20%28332%29/Libben%20a%20szoknya%20-%20Robert%20Merle.epub)
+- 8 (2011) - A gyermekkirály [details](#id_323) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/A%20gyermekkiraly%20%28323%29/A%20gyermekkiraly%20-%20Robert%20Merle.epub)
+- 9 (2011) - Az élet rózsái [details](#id_328) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Az%20elet%20rozsai%20%28328%29/Az%20elet%20rozsai%20-%20Robert%20Merle.epub)
+- 10 (2011) - Liliom és bíbor [details](#id_333) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Liliom%20es%20bibor%20%28333%29/Liliom%20es%20bibor%20-%20Robert%20Merle.epub)
+- 11 (2011) - Veszedelem és dicsőség [details](#id_341) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Veszedelem%20es%20dicsoseg%20%28341%29/Veszedelem%20es%20dicsoseg%20-%20Robert%20Merle.epub)
+- 12 (2011) - Ármány és cselszövés [details](#id_327) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Armany%20es%20cselszoves%20%28327%29/Armany%20es%20cselszoves%20-%20Robert%20Merle.epub)
+- 13 (2011) - Pallos és szerelem [details](#id_337) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Pallos%20es%20szerelem%20%28337%29/Pallos%20es%20szerelem%20-%20Robert%20Merle.epub)
+
+Egyéb könyvek:
+
+- (1961) - Két nap az élet [details](#id_331) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Ket%20nap%20az%20elet%20%28331%29/Ket%20nap%20az%20elet%20-%20Robert%20Merle.epub)
+- (1981) - Madrapur [details](#id_334) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Madrapur%20%28334%29/Madrapur%20-%20Robert%20Merle.epub)
+- (1983) - Védett férfiak [details](#id_340) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Vedett%20ferfiak%20%28340%29/Vedett%20ferfiak%20-%20Robert%20Merle.epub)
+- (1988) - A sziget [details](#id_325) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/A%20sziget%20%28325%29/A%20sziget%20-%20Robert%20Merle.epub)
+- (1993) - Állati elmék [details](#id_326) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Allati%20elmek%20%28326%29/Allati%20elmek%20-%20Robert%20Merle.epub)
+- (2005) - Majomábécé [details](#id_335) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Majomabece%20%28335%29/Majomabece%20-%20Robert%20Merle.epub)
+- (2005) - Üvegfal mögött [details](#id_339) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Uvegfal%20mogott%20%28339%29/Uvegfal%20mogott%20-%20Robert%20Merle.epub)
+- (2007) - A bálvány [details](#id_322) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/A%20balvany%20%28322%29/A%20balvany%20-%20Robert%20Merle.epub)
+- (2018) - Malevil [details](#id_336) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Malevil%20%28336%29/Malevil%20-%20Robert%20Merle.epub)
+
+### Robin Cook
+
+Sorozatok:
+
+Jack Stapleton & Laurie Montgomery:
+
+- 1 (2011) - Vakság [details](#id_103) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Vaksag%20%28103%29/Vaksag%20-%20Robin%20Cook.epub)
+- 3 (2015) - Kromoszóma [details](#id_95) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Kromoszoma%20%2895%29/Kromoszoma%20-%20Robin%20Cook.epub)
+- 4 (1999) - Vektor [details](#id_106) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Vektor%20%28106%29/Vektor%20-%20Robin%20Cook.epub)
+- 5 (2007) - Fertőzés [details](#id_89) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Fertozes%20%2889%29/Fertozes%20-%20Robin%20Cook.epub)
+- 6 (2006) - Válság [details](#id_104) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Valsag%20%28104%29/Valsag%20-%20Robin%20Cook.epub)
+
+Egyéb könyvek:
+
+- (2000) - Szöktetés [details](#id_102) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Szoktetes%20%28102%29/Szoktetes%20-%20Robin%20Cook.epub)
+- (2003) - Szélütés [details](#id_100) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Szelutes%20%28100%29/Szelutes%20-%20Robin%20Cook.epub)
+- (2006) - Invázió [details](#id_92) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Invazio%20%2892%29/Invazio%20-%20Robin%20Cook.epub)
+- (2006) - Műhiba [details](#id_97) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Muhiba%20%2897%29/Muhiba%20-%20Robin%20Cook.epub)
+- (2007) - Életjel [details](#id_88) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Eletjel%20%2888%29/Eletjel%20-%20Robin%20Cook.epub)
+- (2007) - Haláltusa [details](#id_91) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Halaltusa%20%2891%29/Halaltusa%20-%20Robin%20Cook.epub)
+- (2007) - Járvány [details](#id_93) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Jarvany%20%2893%29/Jarvany%20-%20Robin%20Cook.epub)
+- (2007) - Szfinx [details](#id_101) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Szfinx%20%28101%29/Szfinx%20-%20Robin%20Cook.epub)
+- (2009) - A gyötrelem éve [details](#id_84) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/A%20gyotrelem%20eve%20%2884%29/A%20gyotrelem%20eve%20-%20Robin%20Cook.epub)
+- (2009) - Agy [details](#id_85) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Agy%20%2885%29/Agy%20-%20Robin%20Cook.epub)
+- (2010) - Agymosás [details](#id_86) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Agymosas%20%2886%29/Agymosas%20-%20Robin%20Cook.epub)
+- (2010) - Akár az Isten [details](#id_87) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Akar%20az%20Isten%20%2887%29/Akar%20az%20Isten%20-%20Robin%20Cook.epub)
+- (2010) - Kóma [details](#id_94) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Koma%20%2894%29/Koma%20-%20Robin%20Cook.epub)
+- (2010) - Láz [details](#id_96) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Laz%20%2896%29/Laz%20-%20Robin%20Cook.epub)
+- (2012) - Mutáció [details](#id_98) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Mutacio%20%2898%29/Mutacio%20-%20Robin%20Cook.epub)
+- (2014) - Halálos kockázat [details](#id_90) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Halalos%20kockazat%20%2890%29/Halalos%20kockazat%20-%20Robin%20Cook.epub)
+- (2015) - Végzetes megoldás [details](#id_105) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Vegzetes%20megoldas%20%28105%29/Vegzetes%20megoldas%20-%20Robin%20Cook.epub)
+- (2017) - Sokk [details](#id_99) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Sokk%20%2899%29/Sokk%20-%20Robin%20Cook.epub)
+
+### Roderick Gordon
+
+Sorozatok:
+
+Alagutak:
+
+- 1 (2007) - Az alagutak rejtélye [details](#id_971) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Roderick%20Gordon/Az%20alagutak%20rejtelye%20%28971%29/Az%20alagutak%20rejtelye%20-%20Roderick%20Gordon.epub)
+- 2 (2008) - Földmély titka [details](#id_974) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Roderick%20Gordon/Foldmely%20Titka%20%28974%29/Foldmely%20Titka%20-%20Roderick%20Gordon.epub)
+
+### Roger Ford
+
+- (2007) - Németország titkos fegyverei a II. világháborúban [details](#id_1444) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Roger%20Ford/Nemetorszag%20titkos%20fegyverei%20a%20II.%20%281444%29/Nemetorszag%20titkos%20fegyverei%20a%20-%20Roger%20Ford.epub)
+
+### S. J. Watson
+
+- (2012) - Mielőtt elalszom [details](#id_994) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/S.%20J.%20Watson/Mielott%20elalszom%20%28994%29/Mielott%20elalszom%20-%20S.%20J.%20Watson.epub)
+
+### Salinger, Richárd
+
+Sorozatok:
+
+Omyno:
+
+- 1 (2011) - Omyno [details](#id_522) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Salinger%2C%20Richard/Omyno%20%28522%29/Omyno%20-%20Salinger%2C%20Richard.epub)
+
+### Salman Rushdie
+
+- (2019) - Fúriadüh [details](#id_1452)
+
+### Samantha Shannon
+
+Sorozatok:
+
+Csontszüret:
+
+- 1 (2013) - Csontszüret [details](#id_1005) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Samantha%20Shannon/Csontszuret%20%281005%29/Csontszuret%20-%20Samantha%20Shannon.epub)
+
+### Sarah J. Maas
+
+Sorozatok:
+
+Crescent City:
+
+- 1 (2020) - Föld és vér háza [details](#id_1693) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Sarah%20J.%20Maas/Fold%20es%20ver%20haza%20%281693%29/Fold%20es%20ver%20haza%20-%20Sarah%20J.%20Maas.epub)
+- 2 (2022) - Ég és lélegzet háza [details](#id_1694) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Sarah%20J.%20Maas/Eg%20es%20lelegzet%20haza%20%281694%29/Eg%20es%20lelegzet%20haza%20-%20Sarah%20J.%20Maas.epub)
+
+Tüskék és rózsák udvara:
+
+- 1 (2018) - Tüskék és rózsák udvara [details](#id_1698) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Sarah%20J.%20Maas/Tuskek%20es%20rozsak%20udvara%20%281698%29/Tuskek%20es%20rozsak%20udvara%20-%20Sarah%20J.%20Maas.epub)
+- 2 (2016) - Köd és harag udvara [details](#id_1699) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Sarah%20J.%20Maas/Kod%20es%20harag%20udvara%20%281699%29/Kod%20es%20harag%20udvara%20-%20Sarah%20J.%20Maas.epub)
+- 3 (2017) - Szárnyak és pusztulás udvara [details](#id_1700) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Sarah%20J.%20Maas/Szarnyak%20es%20pusztulas%20udvara%20%281700%29/Szarnyak%20es%20pusztulas%20udvara%20-%20Sarah%20J.%20Maas.epub)
+- 3.1 (2018) - Fagy és csillagfény udvara [details](#id_1696) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Sarah%20J.%20Maas/Fagy%20es%20csillagfeny%20udvara%20%281696%29/Fagy%20es%20csillagfeny%20udvara%20-%20Sarah%20J.%20Maas.epub)
+- 4 (2021) - Ezüst lángok udvara [details](#id_1697) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Sarah%20J.%20Maas/Ezust%20langok%20udvara%20%281697%29/Ezust%20langok%20udvara%20-%20Sarah%20J.%20Maas.epub)
+
+Üvegtrón:
+
+- 0.5 (2016) - Az orgyilkos pengéje és más történetek [details](#id_1685) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Sarah%20J.%20Maas/Az%20orgyilkos%20pengeje%20es%20mas%20tortene%20%281685%29/Az%20orgyilkos%20pengeje%20es%20mas%20tor%20-%20Sarah%20J.%20Maas.epub)
+- 1 (2012) - Üvegtrón [details](#id_1686) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Sarah%20J.%20Maas/Uvegtron%20%281686%29/Uvegtron%20-%20Sarah%20J.%20Maas.epub)
+- 2 (2013) - Éjkorona [details](#id_1689) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Sarah%20J.%20Maas/Ejkorona%20%281689%29/Ejkorona%20-%20Sarah%20J.%20Maas.epub)
+- 3 (2014) - A tűz örököse [details](#id_1692) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Sarah%20J.%20Maas/A%20tuz%20orokose%20%281692%29/A%20tuz%20orokose%20-%20Sarah%20J.%20Maas.epub)
+- 4 (2015) - Árnyak királynője [details](#id_1691) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Sarah%20J.%20Maas/Arnyak%20kiralynoje%20%281691%29/Arnyak%20kiralynoje%20-%20Sarah%20J.%20Maas.epub)
+- 5 (2016) - Viharok birodalma [details](#id_1690) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Sarah%20J.%20Maas/Viharok%20birodalma%20%281690%29/Viharok%20birodalma%20-%20Sarah%20J.%20Maas.epub)
+- 6 (2017) - A hajnal tornya [details](#id_1688) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Sarah%20J.%20Maas/A%20hajnal%20tornya%20%281688%29/A%20hajnal%20tornya%20-%20Sarah%20J.%20Maas.epub)
+- 7 (2018) - Felperzselt királyság [details](#id_1687) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Sarah%20J.%20Maas/Felperzselt%20kiralysag%20%281687%29/Felperzselt%20kiralysag%20-%20Sarah%20J.%20Maas.epub)
+
+Egyéb könyvek:
+
+- (2018) - Macskanő - Lélektolvaj [details](#id_1684) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Sarah%20J.%20Maas/Macskano%20-%20Lelektolvaj%20%281684%29/Macskano%20-%20Lelektolvaj%20-%20Sarah%20J.%20Maas.epub)
+
+### Sebastian Haffner
+
+- (2008) - A Német Birodalom hét főbűne az első világháborúban [details](#id_1445) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Sebastian%20Haffne/A%20Nemet%20Birodalom%20het%20fobune%20az%20els%20%281445%29/A%20Nemet%20Birodalom%20het%20fobune%20az%20-%20Sebastian%20Haffne.epub)
+
+### Simon Kernick
+
+- (2014) - Rossz időben, rossz helyen [details](#id_1006) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Simon%20Kernick/Rossz%20idoben%2C%20rossz%20helyen%20%281006%29/Rossz%20idoben%2C%20rossz%20helyen%20-%20Simon%20Kernick.epub)
+
+### Simona Vinci
+
+- (2001) - Szégyentelenek [details](#id_609) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Simona%20Vinci/Szegyentelenek%20%28609%29/Szegyentelenek%20-%20Simona%20Vinci.epub)
+
+### Søren Sveistrup
+
+- (2019) - A gesztenyeember [details](#id_1490) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Soren%20Sveistrup/A%20gesztenyeember%20%281490%29/A%20gesztenyeember%20-%20Soren%20Sveistrup.epub)
+
+### Spitzer, Gyöngyi (Soma Mamagésa)
+
+- (2012) - Tiszta Szex [details](#id_6) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Spitzer%2C%20Gyongyi%20%28soma%20Mamagesa%29/Tiszta%20Szex%20%286%29/Tiszta%20Szex%20-%20Spitzer%2C%20Gyongyi%20%28Soma%20Mamagesa.epub)
+
+### Stefan Niemayer
+
+- (2013) - Titkos kísérletek a náci birodalomban [details](#id_806) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stefan%20Niemayer/Titkos%20kiserletek%20a%20naci%20birodalomb%20%28806%29/Titkos%20kiserletek%20a%20naci%20biroda%20-%20Stefan%20Niemayer.epub)
+
+### Stendhal
+
+- (2014) - Napóleon élete [details](#id_992) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stendhal/Napoleon%20elete%20%28992%29/Napoleon%20elete%20-%20Stendhal.epub)
+- (2018) - Vörös és fekete [details](#id_562) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stendhal/Voros%20es%20fekete%20%28562%29/Voros%20es%20fekete%20-%20Stendhal.epub)
+
+### Stephen E. Ambrose
+
+- (2001) - Az elit alakulat [details](#id_316) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20E.%20Ambrose/Az%20elit%20alakulat%20%28316%29/Az%20elit%20alakulat%20-%20Stephen%20E.%20Ambrose.epub)
+
+### Stephen Hawking
+
+- (2015) - Az idő még rövidebb története [details](#id_390) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20Hawking/Az%20ido%20meg%20rovidebb%20tortenete%20%28390%29/Az%20ido%20meg%20rovidebb%20tortenete%20-%20Stephen%20Hawking.epub)
+- (2019) - Az idő rövid története [details](#id_1166) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20Hawking/Az%20ido%20rovid%20tortenete%20%281166%29/Az%20ido%20rovid%20tortenete%20-%20Stephen%20Hawking.epub)
+
+### Stephen King
+
+Sorozatok:
+
+A Setét:
+
+- 1 (2004) - Minden haláli [details](#id_573) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Minden%20halali%20%28573%29/Minden%20halali%20-%20Stephen%20King.epub)
+
+A búra alatt:
+
+- 1 (2014) - A búra alatt [details](#id_556) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20bura%20alatt%20%28556%29/A%20bura%20alatt%20-%20Stephen%20King.epub)
+- 2 (2014) - A búra alatt [details](#id_557) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20bura%20alatt%20%28557%29/A%20bura%20alatt%20-%20Stephen%20King.epub)
+
+A setét torony:
+
+- 1 (2016) - A harcos [details](#id_539) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20harcos%20%28539%29/A%20harcos%20-%20Stephen%20King.epub)
+- 2 (2013) - A hármak elhívatása [details](#id_540) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20harmak%20elhivatasa%20%28540%29/A%20harmak%20elhivatasa%20-%20Stephen%20King.epub)
+- 3 (2004) - Puszta földek [details](#id_845) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Puszta%20foldek%20%28845%29/Puszta%20foldek%20-%20Stephen%20King.epub)
+- 4 (2014) - Varázsló és üveg [details](#id_846) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Varazslo%20es%20uveg%20%28846%29/Varazslo%20es%20uveg%20-%20Stephen%20King.epub)
+- 5 (2015) - Callai farkasok [details](#id_847) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Callai%20farkasok%20%28847%29/Callai%20farkasok%20-%20Stephen%20King.epub)
+- 6 (2005) - Susannah dala [details](#id_542) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Susannah%20dala%20%28542%29/Susannah%20dala%20-%20Stephen%20King.epub)
+- 7 (2009) - A Setét Torony [details](#id_541) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20Setet%20Torony%20%28541%29/A%20Setet%20Torony%20-%20Stephen%20King.epub)
+- 8 (2014) - Átfúj a szél a kulcslyukon [details](#id_1268) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Atfuj%20a%20szel%20a%20kulcslyukon%20%281268%29/Atfuj%20a%20szel%20a%20kulcslyukon%20-%20Stephen%20King.epub)
+
+A talizmán:
+
+- 1 (2007) - A talizmán [details](#id_549) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20talizman%20%28549%29/A%20talizman%20-%20Stephen%20King.epub)
+
+Az:
+
+- 1 (1995) - Az 1-2. [details](#id_118) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Az%201-2_%20%28118%29/Az%201-2_%20-%20Stephen%20King.epub)
+- 2 (1995) - Az 1-2. [details](#id_119) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Az%201-2_%20%28119%29/Az%201-2_%20-%20Stephen%20King.epub)
+
+Bill Hodges:
+
+- 2 (2020) - Aki kapja, marja [details](#id_931) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Aki%20kapja%2C%20marja%20%28931%29/Aki%20kapja%2C%20marja%20-%20Stephen%20King.epub)
+
+Végítélet:
+
+- 1 (2001) - Végítélet I-II. [details](#id_553) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Vegitelet%20I-II_%20%28553%29/Vegitelet%20I-II_%20-%20Stephen%20King.epub)
+
+Egyéb könyvek:
+
+- (101) - Dans macabre [details](#id_930) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Dans%20macabre%20%28930%29/Dans%20macabre%20-%20Stephen%20King.epub)
+- (1989) - Ezüst pisztolygolyók [details](#id_572) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Ezust%20pisztolygolyok%20%28572%29/Ezust%20pisztolygolyok%20-%20Stephen%20King.epub)
+- (1992) - A rémkoppantók [details](#id_535) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20remkoppantok%20%28535%29/A%20remkoppantok%20-%20Stephen%20King.epub)
+- (1998) - Sorvadj el! [details](#id_469) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Sorvadj%20el%21%20%28469%29/Sorvadj%20el%21%20-%20Stephen%20King.epub)
+- (2002) - Csontkollekció [details](#id_571) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Csontkollekcio%20%28571%29/Csontkollekcio%20-%20Stephen%20King.epub)
+- (2006) - A sárkány szeme [details](#id_547) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20sarkany%20szeme%20%28547%29/A%20sarkany%20szeme%20-%20Stephen%20King.epub)
+- (2007) - Christine [details](#id_551) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Christine%20%28551%29/Christine%20-%20Stephen%20King.epub)
+- (2008) - Lisey története [details](#id_546) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Lisey%20tortenete%20%28546%29/Lisey%20tortenete%20-%20Stephen%20King.epub)
+- (2009) - Blaze [details](#id_550) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Blaze%20%28550%29/Blaze%20-%20Stephen%20King.epub)
+- (2011) - A mobil [details](#id_548) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20mobil%20%28548%29/A%20mobil%20-%20Stephen%20King.epub)
+- (2012) - Duma Key [details](#id_554) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Duma%20Key%20%28554%29/Duma%20Key%20-%20Stephen%20King.epub)
+- (2014) - 11/22/63 [details](#id_523) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/11_22_63%20%28523%29/11_22_63%20-%20Stephen%20King.epub)
+- (2015) - Sherlock Holmes lehetetlen kalandjai [details](#id_933) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Sherlock%20Holmes%20lehetetlen%20kalandja%20%28933%29/Sherlock%20Holmes%20lehetetlen%20kala%20-%20Stephen%20King.epub)
+- (2018) - A hosszú menetelés [details](#id_932) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20hosszu%20meneteles%20%28932%29/A%20hosszu%20meneteles%20-%20Stephen%20King.epub)
+- (2020) - Az [details](#id_555) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Az%20%28555%29/Az%20-%20Stephen%20King.epub)
+- (2020) - Csipkerózsikák [details](#id_1204) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Csipkerozsikak%20%281204%29/Csipkerozsikak%20-%20Stephen%20King.epub)
+
+### Stephenie Meyer
+
+Sorozatok:
+
+Twilight saga:
+
+- 0 (101) - Alkonyat [details](#id_1213) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephenie%20Meyer/Alkonyat%20%281213%29/Alkonyat%20-%20Stephenie%20Meyer.epub)
+- 1 (2011) - New Moon – Újhold [details](#id_795) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephenie%20Meyer/New%20Moon%20-%20Ujhold%20%28795%29/New%20Moon%20-%20Ujhold%20-%20Stephenie%20Meyer.epub)
+- 2 (2011) - Eclipse – Napfogyatkozás [details](#id_794) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephenie%20Meyer/Eclipse%20-%20Napfogyatkozas%20%28794%29/Eclipse%20-%20Napfogyatkozas%20-%20Stephenie%20Meyer.epub)
+- 3 (2013) - Breaking Dawn – Hajnalhasadás [details](#id_793) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephenie%20Meyer/Breaking%20Dawn%20-%20Hajnalhasadas%20%28793%29/Breaking%20Dawn%20-%20Hajnalhasadas%20-%20Stephenie%20Meyer.epub)
+
+Egyéb könyvek:
+
+- (2013) - A burok [details](#id_163) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephenie%20Meyer/A%20burok%20%28163%29/A%20burok%20-%20Stephenie%20Meyer.epub)
+
+### Stewart Brand
+
+- (2001) - Amíg világ a világ [details](#id_1217) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stewart%20Brand/Amig%20vilag%20a%20vilag%20%281217%29/Amig%20vilag%20a%20vilag%20-%20Stewart%20Brand.epub)
+
+### Stieg Larsson
+
+Sorozatok:
+
+Millennium:
+
+- 1 (2019) - A tetovált lány [details](#id_29) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stieg%20Larsson/A%20tetovalt%20lany%20%2829%29/A%20tetovalt%20lany%20-%20Stieg%20Larsson.epub)
+- 2 (2019) - A lány, aki a tűzzel játszik [details](#id_26) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stieg%20Larsson/A%20Lany%2C%20Aki%20a%20Tuzzel%20Jatszik%20%2826%29/A%20lany%2C%20aki%20a%20tuzzel%20jatszik%20-%20Stieg%20Larsson.epub)
+- 3 (2019) - A kártyavár összedől [details](#id_27) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stieg%20Larsson/A%20kartyavar%20osszedol%20%2827%29/A%20kartyavar%20osszedol%20-%20Stieg%20Larsson.epub)
+
+### Sue Townsend
+
+Sorozatok:
+
+Adrian Mole:
+
+- 6 (2010) - Adrian Mole és a tömegpusztító fegyverek [details](#id_1456) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Sue%20Townsend/Adrian%20Mole%20es%20a%20tomegpusztito%20fegy%20%281456%29/Adrian%20Mole%20es%20a%20tomegpusztito%20-%20Sue%20Townsend.epub)
+
+### Suki Kim
+
+- (2015) - Nélküled mi sem vagyunk [details](#id_1457) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Suki%20Kim/Nelkuled%20mi%20sem%20vagyunk%20%281457%29/Nelkuled%20mi%20sem%20vagyunk%20-%20Suki%20Kim.epub)
+
+### Suzanne Collins
+
+Sorozatok:
+
+Az éhezők viadala trilógia:
+
+- 1 (2021) - Az éhezők viadala [details](#id_81) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Suzanne%20Collins/Az%20ehezok%20viadala%20%2881%29/Az%20ehezok%20viadala%20-%20Suzanne%20Collins.epub)
+- 2 (2020) - Futótűz [details](#id_82) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Suzanne%20Collins/Futotuz%20%2882%29/Futotuz%20-%20Suzanne%20Collins.epub)
+- 3 (2020) - A kiválasztott [details](#id_83) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Suzanne%20Collins/A%20kivalasztott%20%2883%29/A%20kivalasztott%20-%20Suzanne%20Collins.epub)
+
+### Szabó Magda
+
+- (2016) - A pillanat [details](#id_1336) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%20Magda/A%20pillanat%20%281336%29/A%20pillanat%20-%20Szabo%20Magda.epub)
+
+### Szabó T., Anna
+
+- (2017) - A Fűszermadár [details](#id_1238) [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%20T.%2C%20Anna/A%20Fuszermadar%20%281238%29/A%20Fuszermadar%20-%20Szabo%20T.%2C%20Anna.pdf)
+- (2018) - Törésteszt [details](#id_1236) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%20T.%2C%20Anna/Toresteszt%20%281236%29/Toresteszt%20-%20Szabo%20T.%2C%20Anna.epub)
+
+### Szabó, Magda
+
+Sorozatok:
+
+Szabó Magda ízei:
+
+- 2 (2018) - Egy czitrom hajával [details](#id_1344) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Egy%20czitrom%20hajaval%20%281344%29/Egy%20czitrom%20hajaval%20-%20Szabo%2C%20Magda.epub)
+
+Egyéb könyvek:
+
+- (101) - A szemlélők [details](#id_1340) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/A%20szemlelok%20%281340%29/A%20szemlelok%20-%20Szabo%2C%20Magda.epub)
+- (1965) - Hullámok kergetése [details](#id_1359) [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Hullamok%20kergetese%20%281359%29/Hullamok%20kergetese%20-%20Szabo%2C%20Magda.pdf)
+- (1965) - Pilátus [details](#id_463) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Pilatus%20%28463%29/Pilatus%20-%20Szabo%2C%20Magda.epub)
+- (1976) - Ókút [details](#id_464) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Okut%20%28464%29/Okut%20-%20Szabo%2C%20Magda.epub)
+- (1983) - Megmaradt Szobotkának [details](#id_476) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Megmaradt%20Szobotkanak%20%28476%29/Megmaradt%20Szobotkanak%20-%20Szabo%2C%20Magda.epub)
+- (1987) - Az ajtó [details](#id_1357) [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Az%20ajto%20%281357%29/Az%20ajto%20-%20Szabo%2C%20Magda.pdf)
+- (2008) - Abigél [details](#id_1338) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Abigel%20%281338%29/Abigel%20-%20Szabo%2C%20Magda.epub)
+- (2008) - Születésnap [details](#id_1337) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Szuletesnap%20%281337%29/Szuletesnap%20-%20Szabo%2C%20Magda.epub)
+- (2012) - Liber Mortis [details](#id_1341) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Liber%20Mortis%20%281341%29/Liber%20Mortis%20-%20Szabo%2C%20Magda.epub)
+- (2012) - Régimódi történet [details](#id_1356)
+- (2014) - A Danaida [details](#id_1350) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/A%20Danaida%20%281350%29/A%20Danaida%20-%20Szabo%2C%20Magda.epub)
+- (2014) - Tündér Lala [details](#id_1354)
+- (2015) - Álarcosbál [details](#id_1352)
+- (2015) - Katalin utca [details](#id_1353)
+- (2016) - Az őz [details](#id_1348) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Az%20oz%20%281348%29/Az%20oz%20-%20Szabo%2C%20Magda.epub)
+- (2016) - Freskó [details](#id_1347) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Fresko%20%281347%29/Fresko%20-%20Szabo%2C%20Magda.epub)
+- (2016) - Für Elise [details](#id_1339) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Fur%20Elise%20%281339%29/Fur%20Elise%20-%20Szabo%2C%20Magda.epub)
+- (2016) - Mondják meg Zsófikának [details](#id_1346) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Mondjak%20meg%20Zsofikanak%20%281346%29/Mondjak%20meg%20Zsofikanak%20-%20Szabo%2C%20Magda.epub)
+- (2016) - Ókút [details](#id_1349)
+- (2017) - Magdaléna [details](#id_1342) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Magdalena%20%281342%29/Magdalena%20-%20Szabo%2C%20Magda.epub)
+- (2017) - Zeusz küszöbén [details](#id_1343) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Zeusz%20kuszoben%20%281343%29/Zeusz%20kuszoben%20-%20Szabo%2C%20Magda.epub)
+- (2019) - Csigaház [details](#id_1345) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Csigahaz%20%281345%29/Csigahaz%20-%20Szabo%2C%20Magda.epub)
+- (2020) - Pilátus [details](#id_1351) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Pilatus%20%281351%29/Pilatus%20-%20Szabo%2C%20Magda.epub)
+
+### Szalai, Vivien
+
+- (2011) - Stohl – Őszintén [details](#id_407) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szalai%2C%20Vivien/Stohl%20-%20Oszinten%20%28407%29/Stohl%20-%20Oszinten%20-%20Szalai%2C%20Vivien.epub)
+
+### Szepesi, Nikolett
+
+- (2013) - Én, a szexmániás [details](#id_661) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szepesi%2C%20Nikolett/En%2C%20a%20szexmanias%20%28661%29/En%2C%20a%20szexmanias%20-%20Szepesi%2C%20Nikolett.epub)
+
+### Szerb, Antal
+
+- (1985) - Utas és holdvilág [details](#id_387) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szerb%2C%20Antal/Utas%20es%20holdvilag%20%28387%29/Utas%20es%20holdvilag%20-%20Szerb%2C%20Antal.epub)
+- (1996) - A Legszebb Kutyatörténetek Gerald Durrell Válogatásában [details](#id_272) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szerb%2C%20Antal/A%20Legszebb%20Kutyatortenetek%20Gerald%20Durrell%20Valogatasaban%20%28272%29/A%20Legszebb%20Kutyatortenetek%20Gera%20-%20Szerb%2C%20Antal.epub)
+
+### Szerdahelyi Szabolcs
+
+- (1988) - Szex-tusa [details](#id_903) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szerdahelyi%20Szabolcs/Szex-tusa%20%28903%29/Szex-tusa%20-%20Szerdahelyi%20Szabolcs.epub)
+
+### Szergej Kuznyecov
+
+- (2013) - Pillangóbőr [details](#id_527) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szergej%20Kuznyecov/Pillangobor%20%28527%29/Pillangobor%20-%20Szergej%20Kuznyecov.epub)
+
+### Szergej Lukjanyenko
+
+Sorozatok:
+
+Örség:
+
+- 3 (2008) - Alkonyi őrség [details](#id_462) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szergej%20Lukjanyenko/Alkonyi%20orseg%20%28462%29/Alkonyi%20orseg%20-%20Szergej%20Lukjanyenko.epub)
+- 4 (2008) - Utolsó őrség [details](#id_457) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szergej%20Lukjanyenko/Utolso%20orseg%20%28457%29/Utolso%20orseg%20-%20Szergej%20Lukjanyenko.epub)
+- 5 (2012) - Új Őrség [details](#id_458) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szergej%20Lukjanyenko/Uj%20Orseg%20%28458%29/Uj%20Orseg%20-%20Szergej%20Lukjanyenko.epub)
+
+Őrség:
+
+- 1 (2006) - Éjszakai őrség [details](#id_461) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szergej%20Lukjanyenko/Ejszakai%20orseg%20%28461%29/Ejszakai%20orseg%20-%20Szergej%20Lukjanyenko.epub)
+- 2 (2007) - Nappali őrség [details](#id_459) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szergej%20Lukjanyenko/Nappali%20orseg%20%28459%29/Nappali%20orseg%20-%20Szergej%20Lukjanyenko.epub)
+
+### Szilágyi Vilmos
+
+- (1994) - Intimkapcsolat kézikönyve [details](#id_1523) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szilagyi%20Vilmos/Intimkapcsolat%20kezikonyve%20%281523%29/Intimkapcsolat%20kezikonyve%20-%20Szilagyi%20Vilmos.epub)
+
+### Tari, Annamária
+
+- (2011) - Z generáció [details](#id_1016) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Tari%2C%20Annamaria/Z%20generacio%20%281016%29/Z%20generacio%20-%20Tari%2C%20Annamaria.epub)
+
+### Tarjányi, Péter
+
+- (2008) - Meglátni és megveretni [details](#id_478) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Tarjanyi%2C%20Peter/Meglatni%20es%20megveretni%20%28478%29/Meglatni%20es%20megveretni%20-%20Tarjanyi%2C%20Peter.epub)
+
+### Terebess, Gábor
+
+- (1986) - Ezerízű Kína [details](#id_973) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terebess%2C%20Gabor/Ezerizu%20Kina%20%28973%29/Ezerizu%20Kina%20-%20Terebess%2C%20Gabor.epub)
+
+### Terry Pratchett
+
+Sorozatok:
+
+Korongvilág:
+
+- 1 (2008) - A mágia színe [details](#id_696) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/A%20magia%20szine%20%28696%29/A%20magia%20szine%20-%20Terry%20Pratchett.epub)
+- 2 (2009) - A mágia fénye [details](#id_695) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/A%20magia%20fenye%20%28695%29/A%20magia%20fenye%20-%20Terry%20Pratchett.epub)
+- 3 (2010) - Egyenjogú rítusok [details](#id_694) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Egyenjogu%20ritusok%20%28694%29/Egyenjogu%20ritusok%20-%20Terry%20Pratchett.epub)
+- 4 (101) - Mort, a halál kisinasa [details](#id_762) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Mort%2C%20a%20halal%20kisinasa%20%28762%29/Mort%2C%20a%20halal%20kisinasa%20-%20Terry%20Pratchett.epub)
+- 5 (1999) - Bűbájos bajok [details](#id_697) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Bubajos%20bajok%20%28697%29/Bubajos%20bajok%20-%20Terry%20Pratchett.epub)
+- 6 (2011) - Vészbanyák [details](#id_689) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Veszbanyak%20%28689%29/Veszbanyak%20-%20Terry%20Pratchett.epub)
+- 9 (1996) - Erik [details](#id_699) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Erik%20%28699%29/Erik%20-%20Terry%20Pratchett.epub)
+- 12 (2011) - Vége a mesének [details](#id_690) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Vege%20a%20mesenek%20%28690%29/Vege%20a%20mesenek%20-%20Terry%20Pratchett.epub)
+- 13 (2013) - Kisistenek [details](#id_761) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Kisistenek%20%28761%29/Kisistenek%20-%20Terry%20Pratchett.epub)
+- 14 (2007) - Hölgyek és urak [details](#id_691) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Holgyek%20es%20urak%20%28691%29/Holgyek%20es%20urak%20-%20Terry%20Pratchett.epub)
+- 17 (2010) - Érdekes idők [details](#id_698) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Erdekes%20idok%20%28698%29/Erdekes%20idok%20-%20Terry%20Pratchett.epub)
+- 18 (2010) - Maszkabál [details](#id_692) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Maszkabal%20%28692%29/Maszkabal%20-%20Terry%20Pratchett.epub)
+- 22 (2012) - Kallódó kontinens [details](#id_700) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Kallodo%20kontinens%20%28700%29/Kallodo%20kontinens%20-%20Terry%20Pratchett.epub)
+- 23 (101) - Carpe Jugulum [details](#id_693) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Carpe%20Jugulum%20%28693%29/Carpe%20Jugulum%20-%20Terry%20Pratchett.epub)
+
+Egyéb könyvek:
+
+- (1990) - Elveszett Próféciák [details](#id_896) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Elveszett%20Profeciak%20%28896%29/Elveszett%20Profeciak%20-%20Terry%20Pratchett.epub)
+
+### Tersánszky, Józsi Jenő
+
+Sorozatok:
+
+A tiroli kocsmáros:
+
+- 1 (101) - A tiroli kocsmáros [details](#id_1017) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Tersanszky%2C%20Jozsi%20Jeno/A%20tiroli%20kocsmaros%20%281017%29/A%20tiroli%20kocsmaros%20-%20Tersanszky%2C%20Jozsi%20Jeno.epub)
+- 2 (2016) - A tiroli kocsmáros [details](#id_1012) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Tersanszky%2C%20Jozsi%20Jeno/A%20tiroli%20kocsmaros%20%281012%29/A%20tiroli%20kocsmaros%20-%20Tersanszky%2C%20Jozsi%20Jeno.epub)
+
+Egyéb könyvek:
+
+- (1976) - A havasi selyemfiú [details](#id_611) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Tersanszky%2C%20Jozsi%20Jeno/A%20havasi%20selyemfiu%20%28611%29/A%20havasi%20selyemfiu%20-%20Tersanszky%2C%20Jozsi%20Jeno.epub)
+- (1982) - Viszontlátásra, drága… / Legenda a nyúlpaprikásról [details](#id_613) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Tersanszky%2C%20Jozsi%20Jeno/Viszontlatasra%2C%20draga_.%20_%20Legenda%20a%20%28613%29/Viszontlatasra%2C%20draga_.%20_%20Legen%20-%20Tersanszky%2C%20Jozsi%20Jeno.epub)
+- (2013) - Legenda a nyúlpaprikásról [details](#id_612) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Tersanszky%2C%20Jozsi%20Jeno/Legenda%20a%20nyulpaprikasrol%20%28612%29/Legenda%20a%20nyulpaprikasrol%20-%20Tersanszky%2C%20Jozsi%20Jeno.epub)
+
+### Thomas Enger
+
+Sorozatok:
+
+Henning Juul:
+
+- 1 (2014) - Hegek [details](#id_617) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Thomas%20Enger/Hegek%20%28617%29/Hegek%20-%20Thomas%20Enger.epub)
+
+### Thomas Harris
+
+Sorozatok:
+
+Hannibal:
+
+- 1 (2018) - A vörös sárkány [details](#id_1031) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Thomas%20Harris/A%20voros%20sarkany%20%281031%29/A%20voros%20sarkany%20-%20Thomas%20Harris.epub)
+- 2 (2019) - A bárányok hallgatnak [details](#id_1032) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Thomas%20Harris/A%20baranyok%20hallgatnak%20%281032%29/A%20baranyok%20hallgatnak%20-%20Thomas%20Harris.epub)
+
+### Thomas Mann
+
+- (2014) - József és testvérei [details](#id_1491) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Thomas%20Mann/Jozsef%20es%20testverei%20%281491%29/Jozsef%20es%20testverei%20-%20Thomas%20Mann.epub)
+
+### Tom Clancy
+
+Sorozatok:
+
+Jack Ryan-univerzum:
+
+- 4 (2019) - Vadászat a Vörös Októberre [details](#id_1030) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Tom%20Clancy/Vadaszat%20a%20voros%20oktoberre%20%281030%29/Vadaszat%20a%20Voros%20Oktoberre%20-%20Tom%20Clancy.epub)
+
+### Tom Harper
+
+- (2012) - Titkok könyve [details](#id_614) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Tom%20Harper/Titkok%20konyve%20%28614%29/Titkok%20konyve%20-%20Tom%20Harper.epub)
+
+### Tom Wood
+
+Sorozatok:
+
+Victor:
+
+- 2 (2013) - Az ellenség [details](#id_1011) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Tom%20Wood/Az%20ellenseg%20%281011%29/Az%20ellenseg%20-%20Tom%20Wood.epub)
+
+### Torai, Gábor
+
+- (2012) - Tedd rendbe az életed! [details](#id_47) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Torai%2C%20Gabor/Tedd%20rendbe%20az%20eleted%21%20%2847%29/Tedd%20rendbe%20az%20eleted%21%20-%20Torai%2C%20Gabor.epub)
+
+### Tvrtko, Vujity
+
+- (101) - 12 pokoli történet [details](#id_715) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Tvrtko%2C%20Vujity/12%20pokoli%20tortenet%20%28715%29/12%20pokoli%20tortenet%20-%20Tvrtko%2C%20Vujity.epub)
+
+### Umann, Kornél
+
+- (101) - Tippek vízitúrázóknak [details](#id_656) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Umann%2C%20Kornel/Tippek%20viziturazoknak%20%28656%29/Tippek%20viziturazoknak%20-%20Umann%2C%20Kornel.epub)
+
+### Umberto Eco
+
+- (2003) - A Foucault-inga [details](#id_1024) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Umberto%20Eco/A%20Foucault-inga%20%281024%29/A%20Foucault-inga%20-%20Umberto%20Eco.epub)
+- (2020) - A rózsa neve [details](#id_789) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Umberto%20Eco/A%20rozsa%20neve%20%28789%29/A%20rozsa%20neve%20-%20Umberto%20Eco.epub)
+
+### Valérie Tasso
+
+- (2008) - A szex antikézikönyve [details](#id_907) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Valerie%20Tasso/A%20szex%20antikezikonyve%20%28907%29/A%20szex%20antikezikonyve%20-%20Valerie%20Tasso.epub)
+
+### Vámos, Miklós
+
+- (1997) - 135 lehetetlen történet [details](#id_601) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vamos%2C%20Miklos/135%20lehetetlen%20tortenet%20%28601%29/135%20lehetetlen%20tortenet%20-%20Vamos%2C%20Miklos.epub)
+- (2006) - Hogy volt [details](#id_1013) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vamos%2C%20Miklos/Hogy%20volt%20%281013%29/Hogy%20volt%20-%20Vamos%2C%20Miklos.epub)
+- (2011) - Zenga zének [details](#id_604) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vamos%2C%20Miklos/Zenga%20zenek%20%28604%29/Zenga%20zenek%20-%20Vamos%2C%20Miklos.epub)
+- (2012) - Anya csak egy van [details](#id_603) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vamos%2C%20Miklos/Anya%20csak%20egy%20van%20%28603%29/Anya%20csak%20egy%20van%20-%20Vamos%2C%20Miklos.epub)
+- (2014) - A New York–Budapest metró [details](#id_602) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vamos%2C%20Miklos/A%20New%20York-Budapest%20metro%20%28602%29/A%20New%20York-Budapest%20metro%20-%20Vamos%2C%20Miklos.epub)
+
+### Vass, Virág
+
+- (2011) - Krásznájá Moszkva [details](#id_306) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vass%2C%20Virag/Krasznaja%20Moszkva%20%28306%29/Krasznaja%20Moszkva%20-%20Vass%2C%20Virag.epub)
+- (2013) - Sokszor csókol, India! [details](#id_309) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vass%2C%20Virag/Sokszor%20csokol%2C%20India%21%20%28309%29/Sokszor%20csokol%2C%20India%21%20-%20Vass%2C%20Virag.epub)
+
+### Vekerdy, Tamás
+
+- (2016) - Gyerekek, óvodák, iskolák [details](#id_616) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vekerdy%2C%20Tamas/Gyerekek%2C%20ovodak%2C%20iskolak%20%28616%29/Gyerekek%2C%20ovodak%2C%20iskolak%20-%20Vekerdy%2C%20Tamas.epub)
+
+### Viktor Pelevin
+
+- (1999) - A rovarok élete [details](#id_837) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20rovarok%20elete%20%28837%29/A%20rovarok%20elete%20-%20Viktor%20Pelevin.epub)
+- (2004) - A tervhivatal hercege – Elbeszélések [details](#id_835) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20tervhivatal%20hercege%20-%20Elbeszelese%20%28835%29/A%20tervhivatal%20hercege%20-%20Elbesze%20-%20Viktor%20Pelevin.epub)
+- (2004) - Kristályvilág [details](#id_830) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Kristalyvilag%20%28830%29/Kristalyvilag%20-%20Viktor%20Pelevin.epub)
+- (2005) - A hunok harmóniája [details](#id_826) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20hunok%20harmoniaja%20%28826%29/A%20hunok%20harmoniaja%20-%20Viktor%20Pelevin.epub)
+- (2006) - A Metamor Szent Könyve [details](#id_836)
+- (2007) - A Sárga Nyíl [details](#id_828) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20Sarga%20Nyil%20%28828%29/A%20Sarga%20Nyil%20-%20Viktor%20Pelevin.epub)
+- (2008) - Empire 'V' [details](#id_829) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Empire%20%27V%27%20%28829%29/Empire%20%27V%27%20-%20Viktor%20Pelevin.epub)
+- (2010) - P5 – Pindosztán politikai pigmeusai – Pá, pederaszták [details](#id_832) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/P5%20-%20Pindosztan%20politikai%20pigmeusai%20%28832%29/P5%20-%20Pindosztan%20politikai%20pigme%20-%20Viktor%20Pelevin.epub)
+- (2011) - A rettenet sisakja [details](#id_827) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20rettenet%20sisakja%20%28827%29/A%20rettenet%20sisakja%20-%20Viktor%20Pelevin.epub)
+- (2013) - Az agyag géppuska [details](#id_834) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Az%20agyag%20geppuska%20%28834%29/Az%20agyag%20geppuska%20-%20Viktor%20Pelevin.epub)
+- (2019) - Generation P [details](#id_831) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Generation%20P%20%28831%29/Generation%20P%20-%20Viktor%20Pelevin.epub)
+
+### Vlagyimir Szorokin
+
+Sorozatok:
+
+Jég-trilógia:
+
+- 1 (2019) - A jég [details](#id_839) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/A%20jeg%20%28839%29/A%20jeg%20-%20Vlagyimir%20Szorokin.epub)
+- 2 (2019) - Bro útja [details](#id_840) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/Bro%20utja%20%28840%29/Bro%20utja%20-%20Vlagyimir%20Szorokin.epub)
+- 3 (2019) - 23000 [details](#id_838) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/23000%20%28838%29/23000%20-%20Vlagyimir%20Szorokin.epub)
+
+Kreml:
+
+- 1 (2019) - Az opricsnyik egy napja [details](#id_842) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/Az%20opricsnyik%20egy%20napja%20%28842%29/Az%20opricsnyik%20egy%20napja%20-%20Vlagyimir%20Szorokin.epub)
+- 2 (2009) - Cukor Kreml [details](#id_841) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/Cukor%20Kreml%20%28841%29/Cukor%20Kreml%20-%20Vlagyimir%20Szorokin.epub)
+
+Egyéb könyvek:
+
+- (2004) - Kékháj [details](#id_843) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/Kekhaj%20%28843%29/Kekhaj%20-%20Vlagyimir%20Szorokin.epub)
+
+### Vlagyimir Vasziljev
+
+Sorozatok:
+
+Őrség:
+
+- 5 (2008) - Káosz-Őrség [details](#id_460) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Vasziljev/Kaosz-Orseg%20%28460%29/Kaosz-Orseg%20-%20Vlagyimir%20Vasziljev.epub)
+
+### W. E. B. Griffin
+
+Sorozatok:
+
+A háború katonái:
+
+- 1 (2005) - Hadnagyok [details](#id_320) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/W.%20E.%20B.%20Griffin/Hadnagyok%20%28320%29/Hadnagyok%20-%20W.%20E.%20B.%20Griffin.epub)
+- 9 (2005) - Különleges kommandósok I-II. [details](#id_321) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/W.%20E.%20B.%20Griffin/Kulonleges%20kommandosok%20I-II_%20%28321%29/Kulonleges%20kommandosok%20I-II_%20-%20W.%20E.%20B.%20Griffin.epub)
+
+### Wass, Albert
+
+- (2002) - Halálos köd Holtember Partján [details](#id_204) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wass%2C%20Albert/Halalos%20kod%20Holtember%20Partjan%20%28204%29/Halalos%20kod%20Holtember%20Partjan%20-%20Wass%2C%20Albert.epub)
+- (2002) - Rézkígyó / Hagyaték [details](#id_201) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wass%2C%20Albert/Rezkigyo%20_%20Hagyatek%20%28201%29/Rezkigyo%20_%20Hagyatek%20-%20Wass%2C%20Albert.epub)
+- (2003) - A költő és a macska / Te és a világ [details](#id_210) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wass%2C%20Albert/A%20kolto%20es%20a%20macska%20_%20Te%20es%20a%20vilag%20%28210%29/A%20kolto%20es%20a%20macska%20_%20Te%20es%20a%20v%20-%20Wass%2C%20Albert.epub)
+- (2003) - A titokzatos őzbak [details](#id_202) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wass%2C%20Albert/A%20titokzatos%20ozbak%20%28202%29/A%20titokzatos%20ozbak%20-%20Wass%2C%20Albert.epub)
+- (2003) - Ember az országút szélén [details](#id_221) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wass%2C%20Albert/Ember%20az%20orszagut%20szelen%20%28221%29/Ember%20az%20orszagut%20szelen%20-%20Wass%2C%20Albert.epub)
+- (2003) - Magukrahagyottak [details](#id_203) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wass%2C%20Albert/Magukrahagyottak%20%28203%29/Magukrahagyottak%20-%20Wass%2C%20Albert.epub)
+- (2010) - A funtineli boszorkány III. [details](#id_207) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wass%2C%20Albert/A%20funtineli%20boszorkany%20III_%20%28207%29/A%20funtineli%20boszorkany%20III_%20-%20Wass%2C%20Albert.epub)
+- (2010) - A funtineli boszorkány II. [details](#id_209) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wass%2C%20Albert/A%20funtineli%20boszorkany%20II_%20%28209%29/A%20funtineli%20boszorkany%20II_%20-%20Wass%2C%20Albert.epub)
+- (2010) - A funtineli boszorkány I. [details](#id_208) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wass%2C%20Albert/A%20funtineli%20boszorkany%20I_%20%28208%29/A%20funtineli%20boszorkany%20I_%20-%20Wass%2C%20Albert.epub)
+- (2010) - Kard és kasza I-II [details](#id_212) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wass%2C%20Albert/Kard%20es%20kasza%20I-II%20%28212%29/Kard%20es%20kasza%20I-II%20-%20Wass%2C%20Albert.epub)
+- (2011) - A kastély árnyékában [details](#id_219) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wass%2C%20Albert/A%20kastely%20arnyekaban%20%28219%29/A%20kastely%20arnyekaban%20-%20Wass%2C%20Albert.epub)
+- (2011) - Átoksori kísértetek [details](#id_205) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wass%2C%20Albert/Atoksori%20kisertetek%20%28205%29/Atoksori%20kisertetek%20-%20Wass%2C%20Albert.epub)
+- (2011) - Az Antikrisztus és a pásztorok [details](#id_215) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wass%2C%20Albert/Az%20Antikrisztus%20es%20a%20pasztorok%20%28215%29/Az%20Antikrisztus%20es%20a%20pasztorok%20-%20Wass%2C%20Albert.epub)
+- (2011) - Elvásik a veres csillag [details](#id_211) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wass%2C%20Albert/Elvasik%20a%20veres%20csillag%20%28211%29/Elvasik%20a%20veres%20csillag%20-%20Wass%2C%20Albert.epub)
+- (2011) - Elvész a nyom [details](#id_217) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wass%2C%20Albert/Elvesz%20a%20nyom%20%28217%29/Elvesz%20a%20nyom%20-%20Wass%2C%20Albert.epub)
+- (2011) - Farkasverem [details](#id_214) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wass%2C%20Albert/Farkasverem%20%28214%29/Farkasverem%20-%20Wass%2C%20Albert.epub)
+- (2011) - Jönnek! / Adjátok vissza a hegyeimet! [details](#id_220) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wass%2C%20Albert/Jonnek%21%20_%20Adjatok%20vissza%20a%20hegyeime%20%28220%29/Jonnek%21%20_%20Adjatok%20vissza%20a%20hegy%20-%20Wass%2C%20Albert.epub)
+- (2011) - Mire a fák megnőnek [details](#id_213) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wass%2C%20Albert/Mire%20a%20fak%20megnonek%20%28213%29/Mire%20a%20fak%20megnonek%20-%20Wass%2C%20Albert.epub)
+- (2011) - Tizenhárom almafa [details](#id_216) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wass%2C%20Albert/Tizenharom%20almafa%20%28216%29/Tizenharom%20almafa%20-%20Wass%2C%20Albert.epub)
+- (2012) - Csaba [details](#id_218) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wass%2C%20Albert/Csaba%20%28218%29/Csaba%20-%20Wass%2C%20Albert.epub)
+
+### Władysław Szpilman
+
+- (2010) - A zongorista [details](#id_170) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wladyslaw%20Szpilman/A%20zongorista%20%28170%29/A%20zongorista%20-%20Wladyslaw%20Szpilman.epub)
+
+### Wm. Paul Young
+
+- (2020) - A viskó [details](#id_962) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wm.%20Paul%20Young/A%20visko%20%28962%29/A%20visko%20-%20Wm.%20Paul%20Young.epub)
+
+### Yann Martel
+
+- (2002) - Life of Pi [details](#id_1526) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yann%20Martel/Life%20of%20Pi%20%281526%29/Life%20of%20Pi%20-%20Yann%20Martel.epub)
+- (2014) - Pi élete [details](#id_1458) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yann%20Martel/Pi%20elete%20%281458%29/Pi%20elete%20-%20Yann%20Martel.epub)
+
+---<a href="#id_948">Abe Kóbó: A negyedik jégkorszak (2008)</a>
+
+<a href="#id_197">Adams, Douglas: Galaxis útikalauz stopposoknak (101)</a>
+
+<a href="#id_199">Adams, Douglas: Vendéglő a Világ Végén (101)</a>
+
+<a href="#id_196">Adams, Douglas: Az Élet, a Világmindenség meg Minden (101)</a>
+
+<a href="#id_200">Adams, Douglas: Viszlát, és kösz a halakat! (101)</a>
+
+<a href="#id_198">Adams, Douglas: Jobbára ártalmatlan (101)</a>
+
+<a href="#id_236">Agatha Christie: A titkos ellenfél (2015)</a>
+
+<a href="#id_237">Agatha Christie: A titkos ellenfél (2015)</a>
+
+<a href="#id_66">Agatha Christie: Éjféltájt (2008)</a>
+
+<a href="#id_241">Agatha Christie: Az álmok háza (2020)</a>
+
+<a href="#id_63">Agatha Christie: Az Ackroyd-gyilkosság (2018)</a>
+
+<a href="#id_238">Agatha Christie: A titokzatos Négyes (1993)</a>
+
+<a href="#id_249">Agatha Christie: Ház a sziklán (2011)</a>
+
+<a href="#id_69">Agatha Christie: Halál a felhők között (2010)</a>
+
+<a href="#id_75">Agatha Christie: Halál a Níluson (2018)</a>
+
+<a href="#id_73">Agatha Christie: Nyaraló gyilkosok (2018)</a>
+
+<a href="#id_251">Agatha Christie: Hétvégi gyilkosság (2011)</a>
+
+<a href="#id_252">Agatha Christie: Mrs. McGinty meghalt (2011)</a>
+
+<a href="#id_78">Agatha Christie: Temetni veszélyes (2018)</a>
+
+<a href="#id_234">Agatha Christie: A harmadik lány (2009)</a>
+
+<a href="#id_239">Agatha Christie: A titokzatos stylesi eset / Függöny (2012)</a>
+
+<a href="#id_257">Agatha Christie: Poirot bravúrjai I. (1994)</a>
+
+<a href="#id_68">Agatha Christie: Gyilkosság a paplakban (2011)</a>
+
+<a href="#id_259">Agatha Christie: Tizenhárom rejtély (2007)</a>
+
+<a href="#id_71">Agatha Christie: Holttest a könyvtárszobában (1969)</a>
+
+<a href="#id_311">Agatha Christie: Nem zörög a haraszt (2009)</a>
+
+<a href="#id_74">Agatha Christie: Paddington 16.50 (2020)</a>
+
+<a href="#id_76">Agatha Christie: Rejtély az Antillákon (2020)</a>
+
+<a href="#id_72">Agatha Christie: Nemezis (2011)</a>
+
+<a href="#id_77">Agatha Christie: Szunnyadó gyilkosság (2018)</a>
+
+<a href="#id_247">Agatha Christie: Gyöngyöző cián (2010)</a>
+
+<a href="#id_254">Agatha Christie: No. 16 (1997)</a>
+
+<a href="#id_242">Agatha Christie: Balhüvelykem bizsereg (2015)</a>
+
+<a href="#id_1108">Akunyin, Borisz: A cár könyvtára (2012)</a>
+
+<a href="#id_1109">Akunyin, Borisz: Magiszter-2-Ajánlott ​olvasmányok (2014)</a>
+
+<a href="#id_915">Akunyin, Borisz: Azazel (2015)</a>
+
+<a href="#id_917">Akunyin, Borisz: Török csel (2003)</a>
+
+<a href="#id_910">Akunyin, Borisz: Leviathan (2004)</a>
+
+<a href="#id_913">Akunyin, Borisz: Akhilleusz halála (2007)</a>
+
+<a href="#id_911">Akunyin, Borisz: Különleges megbízatások (2008)</a>
+
+<a href="#id_912">Akunyin, Borisz: Az államtanácsos (2009)</a>
+
+<a href="#id_914">Akunyin, Borisz: A koronázás (101)</a>
+
+<a href="#id_916">Akunyin, Borisz: A halál szerelmese (2010)</a>
+
+<a href="#id_963">Akunyin, Borisz: Halál szeretője (2010)</a>
+
+<a href="#id_1110">Akunyin, Borisz: A ​gyémántszekér I-II. (2011)</a>
+
+<a href="#id_1107">Akunyin, Borisz: Színház ​az egész világ (2013)</a>
+
+<a href="#id_1111">Akunyin, Borisz: A fekete város (2015)</a>
+
+<a href="#id_921">Alexander McCall Smith: Az első női detektív iroda (2003)</a>
+
+<a href="#id_920">Alexander McCall Smith: Zsiráfkönnyek (2003)</a>
+
+<a href="#id_918">Alexander McCall Smith: Erkölcstan szép lányoknak (2003)</a>
+
+<a href="#id_919">Alexander McCall Smith: Kalahári gépíróiskola férfiak részére (2004)</a>
+
+<a href="#id_1414">Alexandra Fischer-Hunold: Kincsvadász kísértet (2010)</a>
+
+<a href="#id_1415">Alexandra Fischer-Hunold: Szörnyűséges születésnap (2011)</a>
+
+<a href="#id_1416">Alexandra Fischer-Hunold: A dilinyós tűzbarát (2011)</a>
+
+<a href="#id_1417">Alexandra Fischer-Hunold: Malaclopás a Kedvenckertben (2011)</a>
+
+<a href="#id_951">Andrea Schacht: A sötét tükör (2004)</a>
+
+<a href="#id_1518">Ann Aguirre: Menedék (2014)</a>
+
+<a href="#id_1664">Arne Dahl: Valaki figyel (2016)</a>
+
+<a href="#id_1666">Arne Dahl: Hajsza (2017)</a>
+
+<a href="#id_1667">Arne Dahl: Misterioso (1998)</a>
+
+<a href="#id_1668">Arne Dahl: Rossz vér (2017)</a>
+
+<a href="#id_422">Arthur Ransome: Fecske-völgy (2008)</a>
+
+<a href="#id_423">Arthur Ransome: A kincskeresők (2011)</a>
+
+<a href="#id_429">Arthur Ransome: Téli szünidő (2012)</a>
+
+<a href="#id_431">Arthur Ransome: Galambposta (2016)</a>
+
+<a href="#id_430">Arthur Ransome: Nem akartunk tengerre szállni (1998)</a>
+
+<a href="#id_683">Åsa Schwarz: Nefilim (2011)</a>
+
+<a href="#id_684">Åsa Schwarz: Halott angyal (2011)</a>
+
+<a href="#id_1172">Asimov, Isaac: Robottörténetek I-II. (1993)</a>
+
+<a href="#id_161">Bálint, Ágnes: Szeleburdi család (2018)</a>
+
+<a href="#id_5">Barbara Pease: Miért hazudik a férfi? Miért sír a nő? (2014)</a>
+
+<a href="#id_467">Berg, Judit: Rumini (101)</a>
+
+<a href="#id_567">Berg, Judit: Rumini Zúzmaragyarmaton (2020)</a>
+
+<a href="#id_570">Berg, Judit: Rumini és a négy jogar (2019)</a>
+
+<a href="#id_769">Bertrice Small: Titkos örömök (2009)</a>
+
+<a href="#id_446">Bohumil Hrabal: Őfelsége pincére voltam (2008)</a>
+
+<a href="#id_445">Bohumil Hrabal: Házimurik (2012)</a>
+
+<a href="#id_453">Bohumil Hrabal: Vita nuova (2009)</a>
+
+<a href="#id_442">Bohumil Hrabal: Foghíjak (2013)</a>
+
+<a href="#id_448">Bohumil Hrabal: Sörgyári capriccio (2017)</a>
+
+<a href="#id_440">Bohumil Hrabal: Díszgyász (2009)</a>
+
+<a href="#id_1572">Böszörményi, Gyula: Leányrablás Budapesten (2014)</a>
+
+<a href="#id_1573">Böszörményi, Gyula: A Rudnay-gyilkosságok (2021)</a>
+
+<a href="#id_1577">Böszörményi, Gyula: Beretva és tőr (2021)</a>
+
+<a href="#id_1565">Böszörményi, Gyula: Ármány ​és kézfogó (101)</a>
+
+<a href="#id_1578">Böszörményi, Gyula: Bitó és borostyán (2017)</a>
+
+<a href="#id_1583">Böszörményi, Gyula: Nász és téboly (2022)</a>
+
+<a href="#id_1575">Böszörményi, Gyula: Szer'usz világ (2020)</a>
+
+<a href="#id_1574">Böszörményi, Gyula: A Barnum-rejtély (2021)</a>
+
+<a href="#id_1568">Böszörményi, Gyula: Gergő és az álomfogók (2018)</a>
+
+<a href="#id_1566">Böszörményi, Gyula: Gergő és a bűbájketrec (2012)</a>
+
+<a href="#id_1567">Böszörményi, Gyula: Gergő és a táltosviadal (2012)</a>
+
+<a href="#id_1569">Böszörményi, Gyula: Gergő és az álomvámpírok 1 (2013)</a>
+
+<a href="#id_1570">Böszörményi, Gyula: Gergő és az álomvámpírok 2 (2013)</a>
+
+<a href="#id_1576">Böszörményi, Gyula: Az elveszett történet (2006)</a>
+
+<a href="#id_1563">Böszörményi, Gyula: A Gutenberg Lovagrend (2007)</a>
+
+<a href="#id_1564">Böszörményi, Gyula: Árnyvadászok (2008)</a>
+
+<a href="#id_1581">Böszörményi, Gyula: Lúzer Rádió, Budapest! (2016)</a>
+
+<a href="#id_1582">Böszörményi, Gyula: Monyákos Tuba a Lidérc Árvák Fészkében (2007)</a>
+
+<a href="#id_1571">Böszörményi, Gyula: Monyákos Tuba és a csatornalidércek (2021)</a>
+
+<a href="#id_1588">Böszörményi, Gyula: Monyákos Tuba, a pipamocsok-lidérc élettörténete (2010)</a>
+
+<a href="#id_1587">Böszörményi, Gyula: Ütközet a Meridim felett (2004)</a>
+
+<a href="#id_1585">Böszörményi, Gyula: 3… 2… 1… (2009)</a>
+
+<a href="#id_1589">Böszörményi, Gyula: Rúvel hegyi legenda (2005)</a>
+
+<a href="#id_1584">Böszörményi, Gyula: Zsófi és az ősboszorkány (2008)</a>
+
+<a href="#id_1578">Böszörményi Gyula: Bitó és borostyán (2017)</a>
+
+<a href="#id_1583">Böszörményi Gyula: Nász és téboly (2022)</a>
+
+<a href="#id_1575">Böszörményi Gyula: Szer'usz világ (2020)</a>
+
+<a href="#id_1566">Böszörményi Gyula: Gergő és a bűbájketrec (2012)</a>
+
+<a href="#id_1567">Böszörményi Gyula: Gergő és a táltosviadal (2012)</a>
+
+<a href="#id_1586">Böszörményi Gyula: Gergő és az álomvámpírok (2008)</a>
+
+<a href="#id_1581">Böszörményi Gyula: Lúzer Rádió, Budapest! (2016)</a>
+
+<a href="#id_1582">Böszörményi Gyula: Monyákos Tuba a Lidérc Árvák Fészkében (2007)</a>
+
+<a href="#id_1571">Böszörményi Gyula: Monyákos Tuba és a csatornalidércek (2021)</a>
+
+<a href="#id_1587">Böszörményi Gyula: Ütközet a Meridim felett (2004)</a>
+
+<a href="#id_1585">Böszörményi Gyula: 3… 2… 1… (2009)</a>
+
+<a href="#id_1584">Böszörményi Gyula: Zsófi és az ősboszorkány (2008)</a>
+
+<a href="#id_1212">Bud Spencer: Különben dühbe jövök (2016)</a>
+
+<a href="#id_1278">C. S. Lewis: A varázsló unokaöccse (2017)</a>
+
+<a href="#id_1279">C. S. Lewis: Az oroszlán, a boszorkány és a ruhásszekrény (2017)</a>
+
+<a href="#id_1283">C. S. Lewis: A ló és kis gazdája (2015)</a>
+
+<a href="#id_1284">C. S. Lewis: Caspian herceg (2017)</a>
+
+<a href="#id_1282">C. S. Lewis: A Hajnalvándor útja (2015)</a>
+
+<a href="#id_1281">C. S. Lewis: Az ezüsttrón (2019)</a>
+
+<a href="#id_1280">C. S. Lewis: A végső ütközet (2015)</a>
+
+<a href="#id_635">Cassandra Clare: Csontváros (2020)</a>
+
+<a href="#id_636">Cassandra Clare: Hamuváros (2020)</a>
+
+<a href="#id_637">Cassandra Clare: Üvegváros (2018)</a>
+
+<a href="#id_638">Cassandra Clare: Bukott angyalok városa (2018)</a>
+
+<a href="#id_639">Cassandra Clare: Elveszett lelkek városa (2018)</a>
+
+<a href="#id_640">Cassandra Clare: Az angyal (2020)</a>
+
+<a href="#id_659">Catherynne M. Valente: A lány, aki körülhajózta Tündérföldet (2013)</a>
+
+<a href="#id_979">Celia Rees: Bűbájos Mary (2003)</a>
+
+<a href="#id_967">Charles Cumming: Egy idegen ország (2015)</a>
+
+<a href="#id_1600">Chuck Palahniuk: Halálraítélt (2014)</a>
+
+<a href="#id_1451">Cixin Liu: A háromtest-probléma (2020)</a>
+
+<a href="#id_799">Csukás, István: Pom Pom meséi (2004)</a>
+
+<a href="#id_1639">Dan Brown: The Da Vinci Code (2004)</a>
+
+<a href="#id_1637">Dan Brown: Origin (2017)</a>
+
+<a href="#id_819">Daniel Silva: Az angol bérgyilkos (2002)</a>
+
+<a href="#id_818">Daniel Silva: Az utolsó esély (2004)</a>
+
+<a href="#id_808">Daniel Silva: A bosszú (2006)</a>
+
+<a href="#id_811">Daniel Silva: A Moszad ügynöke a Vatikánban (2010)</a>
+
+<a href="#id_810">Daniel Silva: A Moszad ügynöke (2010)</a>
+
+<a href="#id_814">Daniel Silva: A Moszad ügynöke Moszkvában (2010)</a>
+
+<a href="#id_813">Daniel Silva: A Moszad ügynöke és az oligarcha (2010)</a>
+
+<a href="#id_812">Daniel Silva: A Moszad ügynöke és a Rembrandt ügy (2011)</a>
+
+<a href="#id_957">Daniel Silva: A rablás (2015)</a>
+
+<a href="#id_816">Daniel Silva: Bűnjel (1998)</a>
+
+<a href="#id_277">Darren Shan: A holtak vonulása (2010)</a>
+
+<a href="#id_278">Darren Shan: A pokol pereme (2011)</a>
+
+<a href="#id_279">Darren Shan: A kígyók városa (2011)</a>
+
+<a href="#id_1449">David Attenborough: Egy ifjú természettudós történetei (2019)</a>
+
+<a href="#id_510">David Farland: A sötétség harcosa (101)</a>
+
+<a href="#id_511">David Farland: A Pusztítás Pecsétje (101)</a>
+
+<a href="#id_960">David Lagercrantz: Ami nem öl meg (2015)</a>
+
+<a href="#id_720">David Michaels: Barrakuda művelet (2009)</a>
+
+<a href="#id_1073">Dean R. Koontz: Ticktak (1997)</a>
+
+<a href="#id_1069">Dean R. Koontz: A halottlátó (2005)</a>
+
+<a href="#id_416">Desmond Morris: Miért csinálja…? A ló (1993)</a>
+
+<a href="#id_415">Desmond Morris: Miért csinálja…? A macska (1990)</a>
+
+<a href="#id_1413">Diana Wynne Jones: A vándorló palota (2010)</a>
+
+<a href="#id_482">Dmitry Glukhovsky: Metró 2033 (2019)</a>
+
+<a href="#id_355">Dmitry Glukhovsky: Metró 2034 (2019)</a>
+
+<a href="#id_654">Donald James: Monstrum (1998)</a>
+
+<a href="#id_653">Donald James: A jövendőmondó (2005)</a>
+
+<a href="#id_655">Donald James: Vadim (2006)</a>
+
+<a href="#id_466">E. L. James: A szürke ötven árnyalata (2012)</a>
+
+<a href="#id_802">Elizabeth Gilbert: Ízek, imák, szerelmek (2020)</a>
+
+<a href="#id_1199">Erich Kästner: A két Lotti (2018)</a>
+
+<a href="#id_357">Erich Maria Remarque: Éjszaka Lisszabonban (1991)</a>
+
+<a href="#id_317">Erich Maria Remarque: Nyugaton a helyzet változatlan (2008)</a>
+
+<a href="#id_531">Erlend Loe: Doppler, az utak királya (2008)</a>
+
+<a href="#id_1275">Ernest Cline: Ready Player One (2021)</a>
+
+<a href="#id_645">Fábián, Janka: A német lány (2012)</a>
+
+<a href="#id_597">Fábián, Janka: Emma szerelme (2012)</a>
+
+<a href="#id_595">Fábián, Janka: Emma fiai (2012)</a>
+
+<a href="#id_596">Fábián, Janka: Emma lánya (2012)</a>
+
+<a href="#id_174">Fable, Vavyan: Halkirálynő (1990)</a>
+
+<a href="#id_176">Fable, Vavyan: A pokol is elnyeli (2002)</a>
+
+<a href="#id_173">Fable, Vavyan: A Halkirálynő és a dzsinnek (2006)</a>
+
+<a href="#id_181">Fable, Vavyan: Ki feküdt az ágyamban? (2006)</a>
+
+<a href="#id_180">Fable, Vavyan: Ébredj velem! (2007)</a>
+
+<a href="#id_1152">Fable, Vavyan: Mogorva nyár (2007)</a>
+
+<a href="#id_175">Fable, Vavyan: A Hold forró jegén (2007)</a>
+
+<a href="#id_179">Fable, Vavyan: Apád, anyád ide lőjön! (2016)</a>
+
+<a href="#id_1151">Fable, Vavyan: Mesemaraton (2009)</a>
+
+<a href="#id_1163">Fable, Vavyan: Emlékfutam (2007)</a>
+
+<a href="#id_1161">Fable, Vavyan: Nászjelentés 1. (2002)</a>
+
+<a href="#id_1162">Fable, Vavyan: Nászjelentés 2. (2003)</a>
+
+<a href="#id_178">Fable, Vavyan: Álomhajsza (2020)</a>
+
+<a href="#id_1156">Fable, Vavyan: Tündértánc I. (2000)</a>
+
+<a href="#id_1157">Fable, Vavyan: Tündértánc II. (2001)</a>
+
+<a href="#id_1153">Fable, Vavyan: Vis Major (2004)</a>
+
+<a href="#id_1164">Fable, Vavyan: Kyra Eleison (2008)</a>
+
+<a href="#id_1154">Fable, Vavyan: Vészbejárat (2008)</a>
+
+<a href="#id_1158">Fable, Vavyan: Tíz kicsi kommandós (2008)</a>
+
+<a href="#id_1014">Fable, Vavyan: Szamurájszív (2015)</a>
+
+<a href="#id_177">Fable, Vavyan: Álmok Tengere (2012)</a>
+
+<a href="#id_558">Fable, Vavyan: Barbárság Tengere (2012)</a>
+
+<a href="#id_1271">Fazekas, László: Kapukulcs a kő alatt (1978)</a>
+
+<a href="#id_771">Fejős, Éva: Csajok (2016)</a>
+
+<a href="#id_17">Fejős, Éva: Eper reggelire (2015)</a>
+
+<a href="#id_121">Fekete, István: Tüskevár (2018)</a>
+
+<a href="#id_267">Fekete, István: Téli berek (2007)</a>
+
+<a href="#id_649">Foster, Alan Dean: A nyolcadik utas: a Halál (2015)</a>
+
+<a href="#id_650">Foster, Alan Dean: A bolygó neve: Halál (2015)</a>
+
+<a href="#id_652">Foster, Alan Dean: Az út végén a halál (1992)</a>
+
+<a href="#id_182">Frank Herbert: Dune (101)</a>
+
+<a href="#id_184">Frank Herbert: A Dűne gyermekei (2002)</a>
+
+<a href="#id_107">Frei, Tamás: A megmentő (2012)</a>
+
+<a href="#id_108">Frei, Tamás: A bankár (2012)</a>
+
+<a href="#id_1493">Frei, Tamás: 2015 (2019)</a>
+
+<a href="#id_883">G. M.: Tesco titok (101)</a>
+
+<a href="#id_884">G. M.: Tesco titok 2. (101)</a>
+
+<a href="#id_718">George Lucas: Csillagok háborúja (2014)</a>
+
+<a href="#id_364">George Orwell: 1984 (2020)</a>
+
+<a href="#id_420">George R. R. Martin: Trónok harca (2016)</a>
+
+<a href="#id_418">George R. R. Martin: Királyok csatája (2020)</a>
+
+<a href="#id_424">George R. R. Martin: Kardok vihara (2009)</a>
+
+<a href="#id_419">George R. R. Martin: Varjak lakomája (2016)</a>
+
+<a href="#id_898">George R. R. Martin: Sárkányok tánca (2016)</a>
+
+<a href="#id_50">Gerald Durrell: Családom és egyéb állatfajták (2015)</a>
+
+<a href="#id_867">Gerald Durrell: Madarak, vadak, rokonok (1974)</a>
+
+<a href="#id_868">Gerald Durrell: Istenek kertje (2012)</a>
+
+<a href="#id_1169">Greg Bear: Alapítvány és Káosz (101)</a>
+
+<a href="#id_1168">Gregory Benford: Az Alapítvány félelme (101)</a>
+
+<a href="#id_987">Harper Lee: Ne bántsátok a feketerigót! (2003)</a>
+
+<a href="#id_804">Havas, Henrik: Pornó I-II. (2013)</a>
+
+<a href="#id_805">Havas, Henrik: Pornó I-II. (2013)</a>
+
+<a href="#id_477">Havas, Henrik: Kurvaélet (2013)</a>
+
+<a href="#id_765">Herbert, Attila: Történelem 1. - A kezdetektől I.e 500 -ig (2010)</a>
+
+<a href="#id_766">Herbert, Attila: Történelem 2. - Kr.E. 500 - Kr.U. 1000 (2010)</a>
+
+<a href="#id_767">Herbert, Attila: Történelem 5 1789 -től 1914 -ig (2010)</a>
+
+<a href="#id_768">Herbert, Attila: Történelem 6. 1914 -től 1990 -ig (2010)</a>
+
+<a href="#id_194">Herbert, Brian: Dűne-7-A Dűne vadászai (101)</a>
+
+<a href="#id_195">Herbert, Brian: Dűne-8-A Dűne homokférgei (101)</a>
+
+<a href="#id_183">Herbert, Frank: Dűne-2-Dűne messiása (101)</a>
+
+<a href="#id_185">Herbert, Frank: Dűne-4-Dűne isten-császára (101)</a>
+
+<a href="#id_186">Herbert, Frank: Dűne-5-Dűne eretnekei (101)</a>
+
+<a href="#id_187">Herbert, Frank: Dűne-6-Dűne Káptalanház (101)</a>
+
+<a href="#id_1002">Holly Smale: A lány, akit soha senki sem vett észre (2014)</a>
+
+<a href="#id_1003">Holly Smale: A lány, aki mindig mindent félreért (2015)</a>
+
+<a href="#id_18">J. K. Rowling: Harry Potter és a bölcsek köve (2021)</a>
+
+<a href="#id_19">J. K. Rowling: Harry Potter és a Titkok Kamrája (2021)</a>
+
+<a href="#id_20">J. K. Rowling: Harry Potter és az azkabani fogoly (2016)</a>
+
+<a href="#id_21">J. K. Rowling: Harry Potter és a Tűz Serlege (2020)</a>
+
+<a href="#id_22">J. K. Rowling: Harry Potter és a Főnix Rendje (2021)</a>
+
+<a href="#id_23">J. K. Rowling: Harry Potter és a Félvér Herceg (2020)</a>
+
+<a href="#id_24">J. K. Rowling: Harry Potter és a Halál ereklyéi (2021)</a>
+
+<a href="#id_1459">J. K. Rowling: Harry Potter és az elátkozott gyermek (2021)</a>
+
+<a href="#id_12">J. R. R. Tolkien: The Fellowship of the Ring (1966)</a>
+
+<a href="#id_13">J. R. R. Tolkien: The two towers (1992)</a>
+
+<a href="#id_14">J. R. R. Tolkien: The Return of the King (2001)</a>
+
+<a href="#id_168">James Clavell: A sógun (2016)</a>
+
+<a href="#id_1027">James Clavell: A Tajpan (2020)</a>
+
+<a href="#id_1028">James Clavell: Gajdzsin (2010)</a>
+
+<a href="#id_58">Jane Austen: Értelem és érzelem (1986)</a>
+
+<a href="#id_521">Jeff Lindsay: Drága, dolgos Dexter (2008)</a>
+
+<a href="#id_520">Jeff Lindsay: Dermedt, dacos Dexter (2008)</a>
+
+<a href="#id_518">Jeff Lindsay: Dexter darabokban (2010)</a>
+
+<a href="#id_581">Jo Nesbø: Denevérember (2020)</a>
+
+<a href="#id_577">Jo Nesbø: Csótányok (2017)</a>
+
+<a href="#id_579">Jo Nesbø: Vörösbegy (2019)</a>
+
+<a href="#id_410">Jo Nesbø: Nemeszisz (2019)</a>
+
+<a href="#id_412">Jo Nesbø: Boszorkányszög (2019)</a>
+
+<a href="#id_592">Jo Nesbø: A megváltó (2019)</a>
+
+<a href="#id_582">Jo Nesbø: Hóember (2019)</a>
+
+<a href="#id_580">Jo Nesbø: Leopárd (2019)</a>
+
+<a href="#id_591">Jo Nesbø: Kísértet (2019)</a>
+
+<a href="#id_578">Jo Nesbø: Police (2013)</a>
+
+<a href="#id_978">Jo Nesbø: Fehér éjszaka (2015)</a>
+
+<a href="#id_622">Joanne Fluke: Áfonyás muffin és gyilkosság (2007)</a>
+
+<a href="#id_623">Joanne Fluke: Pikáns meglepetés és gyilkosság (2008)</a>
+
+<a href="#id_624">Joanne Fluke: Csokis tündértorta és gyilkosság (2009)</a>
+
+<a href="#id_625">Joanne Fluke: Karácsonyi habcsók és gyilkosság (2009)</a>
+
+<a href="#id_1124">Joanne Harris: Csokoládé trilógia (101)</a>
+
+<a href="#id_1125">Joanne Harris: Rúnajelek (2008)</a>
+
+<a href="#id_1117">Joanne Harris: Kékszeműfiú (2010)</a>
+
+<a href="#id_997">John Keegan: A második világháború (2008)</a>
+
+<a href="#id_383">Jonas Jonasson: A százéves ember, aki kimászott az ablakon és eltűnt (2019)</a>
+
+<a href="#id_524">Joseph D'Lacey: Hús (2008)</a>
+
+<a href="#id_374">Jurányi, Zsolt: Az alvilág zsoldjában (2015)</a>
+
+<a href="#id_1597">Kalapos, Éva: Egy új élet (2013)</a>
+
+<a href="#id_788">Karin Slaughter: Nadragulya (2008)</a>
+
+<a href="#id_599">Karin Slaughter: Bőr (2012)</a>
+
+<a href="#id_1488">Karin Slaughter: Összetörve (2021)</a>
+
+<a href="#id_157">Kathy Reichs: A holtak beszélnek (2008)</a>
+
+<a href="#id_1198">Kati Hiekkapelto: Kolibri (2014)</a>
+
+<a href="#id_1641">Ken Follett: Fall of Giants (2010)</a>
+
+<a href="#id_427">Kovács, András Péter: Médialom (2011)</a>
+
+<a href="#id_1200">Kristó Nagy, István: Bölcsességek könyve I-II. – Aforizmák, szállóigék (2004)</a>
+
+<a href="#id_1201">Kristó Nagy, István: Bölcsességek könyve I-II. – Aforizmák, szállóigék (2004)</a>
+
+<a href="#id_488">L. M. Montgomery: Anne otthonra talál (2011)</a>
+
+<a href="#id_483">L. M. Montgomery: Anne az élet iskolájában (2005)</a>
+
+<a href="#id_490">L. M. Montgomery: Anne válaszúton (2011)</a>
+
+<a href="#id_489">L. M. Montgomery: Anne új vizekre evez (2011)</a>
+
+<a href="#id_486">L. M. Montgomery: Anne férjhez megy (2007)</a>
+
+<a href="#id_484">L. M. Montgomery: Anne családja körében (2012)</a>
+
+<a href="#id_485">L. M. Montgomery: Anne és a Szivárvány-völgy (2008)</a>
+
+<a href="#id_487">L. M. Montgomery: Anne gyermekei a háborúban (2009)</a>
+
+<a href="#id_493">L. M. Montgomery: A tűzpróba (2006)</a>
+
+<a href="#id_494">L. M. Montgomery: Barátságok (2007)</a>
+
+<a href="#id_495">L. M. Montgomery: Bagolykacaj (2008)</a>
+
+<a href="#id_496">L. M. Montgomery: Forgószél (2009)</a>
+
+<a href="#id_497">L. M. Montgomery: Szerelmek (2010)</a>
+
+<a href="#id_492">L. M. Montgomery: A Mesélő Lány (1999)</a>
+
+<a href="#id_491">L. M. Montgomery: Az arany út (2000)</a>
+
+<a href="#id_1360">Lackfi, János: Milyenek a magyarok? (2017)</a>
+
+<a href="#id_935">Lackfi, János: Milyenek MÉG a magyarok? (2013)</a>
+
+<a href="#id_1681">Lars Kepler: A hipnotizőr (2009)</a>
+
+<a href="#id_674">Lars Kepler: A Paganini-szerződés (2019)</a>
+
+<a href="#id_1677">Lars Kepler: A tűz tanúja (2011)</a>
+
+<a href="#id_1678">Lars Kepler: A Bosszúálló (2011)</a>
+
+<a href="#id_1680">Lars Kepler: Lesben (2018)</a>
+
+<a href="#id_1679">Lars Kepler: Nyúlvadász (2019)</a>
+
+<a href="#id_1683">Lars Kepler: Lázár (2020)</a>
+
+<a href="#id_1682">Lars Kepler: Tükörember (2020)</a>
+
+<a href="#id_1206">Lee Child: Eltűnt ellenség (2011)</a>
+
+<a href="#id_392">Lee Child: Csak egy lövés (2012)</a>
+
+<a href="#id_1498">Leiner, Laura: Együtt (2021)</a>
+
+<a href="#id_1497">Leiner, Laura: Egyedül (2020)</a>
+
+<a href="#id_1496">Leiner, Laura: Barátok (2021)</a>
+
+<a href="#id_1495">Leiner, Laura: Remény (2021)</a>
+
+<a href="#id_1519">Leiner, Laura: Ketten (2021)</a>
+
+<a href="#id_1482">Leiner, Laura: Útvesztő (2016)</a>
+
+<a href="#id_1499">Leiner, Laura: Örökké (2016)</a>
+
+<a href="#id_1500">Leiner, Laura: Örökké (2016)</a>
+
+<a href="#id_1474">Leiner, Laura: Késtél (2016)</a>
+
+<a href="#id_1487">Leiner, Laura: Valahol (2016)</a>
+
+<a href="#id_1480">Leiner, Laura: Egyszer (2017)</a>
+
+<a href="#id_1476">Leiner, Laura: Ég veled (2017)</a>
+
+<a href="#id_1477">Leiner, Laura: Maradj velem (2018)</a>
+
+<a href="#id_1485">Leiner, Laura: Emlékezz rám (2019)</a>
+
+<a href="#id_1486">Leiner, Laura: Bízz bennem (2020)</a>
+
+<a href="#id_1479">Leiner, Laura: Higgy nekem (2021)</a>
+
+<a href="#id_1561">Leiner, Laura: Állj mellém (2021)</a>
+
+<a href="#id_1502">Leiner, Laura: Remek! (2018)</a>
+
+<a href="#id_1475">Leiner, Laura: Ez is Remek!! (2020)</a>
+
+<a href="#id_687">Liza Marklund: Studio 69 (2003)</a>
+
+<a href="#id_899">Luc Besson: Arthur és a villangók (2006)</a>
+
+<a href="#id_298">Mark Logue: A király beszéde (2011)</a>
+
+<a href="#id_1010">Marlo Morgan: Vidd hírét az Igazaknak (2020)</a>
+
+<a href="#id_1214">Martin Cruz Smith: Gorkij Park (1991)</a>
+
+<a href="#id_432">Meg Cabot: A neveletlen hercegnő naplója 1. (2002)</a>
+
+<a href="#id_433">Meg Cabot: Reflektorfényben (2002)</a>
+
+<a href="#id_434">Meg Cabot: A Szerelmes Hercegnő (2003)</a>
+
+<a href="#id_435">Meg Cabot: Mia Genoviában (2003)</a>
+
+<a href="#id_436">Meg Cabot: Talpig Rózsaszínben (2004)</a>
+
+<a href="#id_437">Meg Cabot: Hajrá Hercegnő! (2005)</a>
+
+<a href="#id_751">Michael Crichton: Az Androméda-törzs (2020)</a>
+
+<a href="#id_757">Michael Crichton: Őslénypark (1993)</a>
+
+<a href="#id_760">Michael Crichton: Szörnyek szigete (1996)</a>
+
+<a href="#id_1492">Michael Ende: Gombos ​Jim és Lukács, a masiniszta (2015)</a>
+
+<a href="#id_525">Michael Moorcock: Harcikutya (2008)</a>
+
+<a href="#id_679">Mika Waltari: Cselszövők (1990)</a>
+
+<a href="#id_685">Mika Waltari: Palmu felügyelő tévedése (1969)</a>
+
+<a href="#id_1368">Moldova, György: Az utolsó töltény 9. (2007)</a>
+
+<a href="#id_1366">Moldova, György: Az utolsó töltény 10. (2010)</a>
+
+<a href="#id_1367">Moldova, György: Az utolsó töltény 11. (2013)</a>
+
+<a href="#id_1400">Moldova, György: Az utolsó töltény 12. (2015)</a>
+
+<a href="#id_344">Moldova, György: Harcolj vagy menekülj! (2010)</a>
+
+<a href="#id_345">Moldova, György: Harcolj vagy menekülj! (2010)</a>
+
+<a href="#id_1399">Moldova, György: Kegyelemkenyér 1. (2017)</a>
+
+<a href="#id_371">Moldova, György: Kádár János 2. (2012)</a>
+
+<a href="#id_370">Moldova, György: Kádár János (2007)</a>
+
+<a href="#id_114">Müller, Péter: Sorsról és életről (2012)</a>
+
+<a href="#id_1234">Náray, Tamás: Zarah (2020)</a>
+
+<a href="#id_1233">Náray, Tamás: Zarah öröksége (2020)</a>
+
+<a href="#id_1235">Náray, Tamás: Zarah álma (2020)</a>
+
+<a href="#id_890">Neil Gaiman: Shoggoth Különleges (101)</a>
+
+<a href="#id_682">Ninni Schulman: Lány a hóban (2014)</a>
+
+<a href="#id_503">P. G. Wodehouse: Forduljon Psmithhez! (2005)</a>
+
+<a href="#id_507">P. G. Wodehouse: Nyári zivatar (2000)</a>
+
+<a href="#id_501">P. G. Wodehouse: Egy pelikán Blandingsben (2007)</a>
+
+<a href="#id_945">P. G. Wodehouse: Halihó, Jeeves! (2007)</a>
+
+<a href="#id_502">P. G. Wodehouse: Folytassa, Jeeves! (2004)</a>
+
+<a href="#id_943">P. G. Wodehouse: Gáz van, Jeeves! (2004)</a>
+
+<a href="#id_508">P. G. Wodehouse: Psmith a pénzvilágban (1998)</a>
+
+<a href="#id_1029">Patrick Rothfuss: A bölcs ember félelme (2014)</a>
+
+<a href="#id_264">Paulo Coelho: Veronika meg akar halni (2016)</a>
+
+<a href="#id_589">Peter Freund: Laura és Aventerra titkai (2003)</a>
+
+<a href="#id_586">Peter Freund: Laura és a Hét Hold pecsétje (2004)</a>
+
+<a href="#id_590">Peter Freund: Laura és az Ezüstszfinx rejtvénye (2005)</a>
+
+<a href="#id_587">Peter Freund: Laura és a sárkánykirályok átka (2006)</a>
+
+<a href="#id_588">Peter Freund: Laura és a Tűzkígyó gyűrűje (2007)</a>
+
+<a href="#id_1301">Peter Freund: Laura és a Fény Labirintusa (2008)</a>
+
+<a href="#id_1646">Péter Kende: Az igazi Orbán (2006)</a>
+
+<a href="#id_1222">Peter S. Caledonian: Hát-társ (2019)</a>
+
+<a href="#id_1219">Philip Pullman: Északi fény (2007)</a>
+
+<a href="#id_1220">Philip Pullman: A titokzatos kés (2017)</a>
+
+<a href="#id_1221">Philip Pullman: A borostyán látcső (2017)</a>
+
+<a href="#id_1670">Raana Raas: Az Ogfák Vöröse (2005)</a>
+
+<a href="#id_1671">Raana Raas: Kiszakadtak (2007)</a>
+
+<a href="#id_1672">Raana Raas: Árulás (2008)</a>
+
+<a href="#id_1673">Raana Raas: Hazatérők (2009)</a>
+
+<a href="#id_1674">Raana Raas: Elágazó utak (2011)</a>
+
+<a href="#id_1675">Raana Raas: Ellenállók (2012)</a>
+
+<a href="#id_1676">Raana Raas: Menekülők (2017)</a>
+
+<a href="#id_428">Rachel Vincent: Stray – Kóborok (2012)</a>
+
+<a href="#id_1009">Rebecca Shaw: Az új lelkész (2014)</a>
+
+<a href="#id_824">Rejtő, Jenő: A három testőr Afrikában (101)</a>
+
+<a href="#id_131">Rejtő, Jenő: A tizennégy karátos autó (2014)</a>
+
+<a href="#id_138">Rejtő, Jenő: Bradley Tamás visszaüt (2005)</a>
+
+<a href="#id_139">Rejtő, Jenő: Csontbrigád (2011)</a>
+
+<a href="#id_135">Rejtő, Jenő: Az előretolt helyőrség (2010)</a>
+
+<a href="#id_145">Rejtő, Jenő: Menni vagy meghalni (2014)</a>
+
+<a href="#id_149">Rejtő, Jenő: Piszkos Fred, a kapitány (2014)</a>
+
+<a href="#id_148">Rejtő, Jenő: Piszkos Fred közbelép (Fülig Jimmy őszintre sajnálatára) (2014)</a>
+
+<a href="#id_825">Rejtő, Jenő: Az elveszett cirkáló (101)</a>
+
+<a href="#id_130">Rejtő, Jenő: A megkerült cirkáló (2011)</a>
+
+<a href="#id_1509">Richelle Mead: A szukkubusz dala (2012)</a>
+
+<a href="#id_1653">Rick Riordan: A csontlabirintus (2008)</a>
+
+<a href="#id_1656">Rick Riordan: Az elrejtett orákulum (2021)</a>
+
+<a href="#id_1655">Rick Riordan: A lángoló Labirintus (2021)</a>
+
+<a href="#id_1663">Rick Riordan: Az elveszett hős (2010)</a>
+
+<a href="#id_1652">Rick Riordan: Neptunus fia (2011)</a>
+
+<a href="#id_1657">Rick Riordan: Percy Jackson görög hősei (2020)</a>
+
+<a href="#id_1650">Rick Riordan: Az Olimposz vére (2020)</a>
+
+<a href="#id_1658">Rick Riordan: Tűztrónus (2019)</a>
+
+<a href="#id_1654">Rick Riordan: A kígyó árnyéka (2012)</a>
+
+<a href="#id_1649">Rick Riordan: A villámtolvaj (2008)</a>
+
+<a href="#id_1661">Rick Riordan: A szörnyek tengere (2006)</a>
+
+<a href="#id_1648">Rick Riordan: A titán átka (2007)</a>
+
+<a href="#id_1659">Rick Riordan: The Battle of the Labyrinth (2009)</a>
+
+<a href="#id_1662">Rick Riordan: Az utolsó olimposzi (2009)</a>
+
+<a href="#id_1593">Roald Dahl: Charlie and the Chocolate Factory (2010)</a>
+
+<a href="#id_1594">Roald Dahl: Charlie and the Great Glass Elevator (2007)</a>
+
+<a href="#id_40">Robert Ludlum: Bourne Hatalma (2006)</a>
+
+<a href="#id_33">Robert Ludlum: A Hádész faktor (2006)</a>
+
+<a href="#id_37">Robert Ludlum: A Párizs opció (2005)</a>
+
+<a href="#id_30">Robert Ludlum: A Bourne-rejtély (2005)</a>
+
+<a href="#id_32">Robert Ludlum: Bourne ultimátuma (2006)</a>
+
+<a href="#id_35">Robert Ludlum: Matarese klán (1979)</a>
+
+<a href="#id_36">Robert Ludlum: Matarese Klán(2) (101)</a>
+
+<a href="#id_330">Robert Merle: Francia história (2010)</a>
+
+<a href="#id_329">Robert Merle: Csikóéveink (2018)</a>
+
+<a href="#id_338">Robert Merle: Szenvedélyes szeretet (1993)</a>
+
+<a href="#id_324">Robert Merle: A pirkadat (1998)</a>
+
+<a href="#id_332">Robert Merle: Libben a szoknya (2011)</a>
+
+<a href="#id_323">Robert Merle: A gyermekkirály (2011)</a>
+
+<a href="#id_328">Robert Merle: Az élet rózsái (2011)</a>
+
+<a href="#id_333">Robert Merle: Liliom és bíbor (2011)</a>
+
+<a href="#id_341">Robert Merle: Veszedelem és dicsőség (2011)</a>
+
+<a href="#id_327">Robert Merle: Ármány és cselszövés (2011)</a>
+
+<a href="#id_337">Robert Merle: Pallos és szerelem (2011)</a>
+
+<a href="#id_103">Robin Cook: Vakság (2011)</a>
+
+<a href="#id_95">Robin Cook: Kromoszóma (2015)</a>
+
+<a href="#id_106">Robin Cook: Vektor (1999)</a>
+
+<a href="#id_89">Robin Cook: Fertőzés (2007)</a>
+
+<a href="#id_104">Robin Cook: Válság (2006)</a>
+
+<a href="#id_971">Roderick Gordon: Az alagutak rejtélye (2007)</a>
+
+<a href="#id_974">Roderick Gordon: Földmély titka (2008)</a>
+
+<a href="#id_522">Salinger, Richárd: Omyno (2011)</a>
+
+<a href="#id_1005">Samantha Shannon: Csontszüret (2013)</a>
+
+<a href="#id_1693">Sarah J. Maas: Föld és vér háza (2020)</a>
+
+<a href="#id_1694">Sarah J. Maas: Ég és lélegzet háza (2022)</a>
+
+<a href="#id_1698">Sarah J. Maas: Tüskék és rózsák udvara (2018)</a>
+
+<a href="#id_1699">Sarah J. Maas: Köd és harag udvara (2016)</a>
+
+<a href="#id_1700">Sarah J. Maas: Szárnyak és pusztulás udvara (2017)</a>
+
+<a href="#id_1696">Sarah J. Maas: Fagy és csillagfény udvara (2018)</a>
+
+<a href="#id_1697">Sarah J. Maas: Ezüst lángok udvara (2021)</a>
+
+<a href="#id_1685">Sarah J. Maas: Az orgyilkos pengéje és más történetek (2016)</a>
+
+<a href="#id_1686">Sarah J. Maas: Üvegtrón (2012)</a>
+
+<a href="#id_1689">Sarah J. Maas: Éjkorona (2013)</a>
+
+<a href="#id_1692">Sarah J. Maas: A tűz örököse (2014)</a>
+
+<a href="#id_1691">Sarah J. Maas: Árnyak királynője (2015)</a>
+
+<a href="#id_1690">Sarah J. Maas: Viharok birodalma (2016)</a>
+
+<a href="#id_1688">Sarah J. Maas: A hajnal tornya (2017)</a>
+
+<a href="#id_1687">Sarah J. Maas: Felperzselt királyság (2018)</a>
+
+<a href="#id_573">Stephen King: Minden haláli (2004)</a>
+
+<a href="#id_556">Stephen King: A búra alatt (2014)</a>
+
+<a href="#id_557">Stephen King: A búra alatt (2014)</a>
+
+<a href="#id_539">Stephen King: A harcos (2016)</a>
+
+<a href="#id_540">Stephen King: A hármak elhívatása (2013)</a>
+
+<a href="#id_845">Stephen King: Puszta földek (2004)</a>
+
+<a href="#id_846">Stephen King: Varázsló és üveg (2014)</a>
+
+<a href="#id_847">Stephen King: Callai farkasok (2015)</a>
+
+<a href="#id_542">Stephen King: Susannah dala (2005)</a>
+
+<a href="#id_541">Stephen King: A Setét Torony (2009)</a>
+
+<a href="#id_1268">Stephen King: Átfúj a szél a kulcslyukon (2014)</a>
+
+<a href="#id_549">Stephen King: A talizmán (2007)</a>
+
+<a href="#id_118">Stephen King: Az 1-2. (1995)</a>
+
+<a href="#id_119">Stephen King: Az 1-2. (1995)</a>
+
+<a href="#id_931">Stephen King: Aki kapja, marja (2020)</a>
+
+<a href="#id_553">Stephen King: Végítélet I-II. (2001)</a>
+
+<a href="#id_1213">Stephenie Meyer: Alkonyat (101)</a>
+
+<a href="#id_795">Stephenie Meyer: New Moon – Újhold (2011)</a>
+
+<a href="#id_794">Stephenie Meyer: Eclipse – Napfogyatkozás (2011)</a>
+
+<a href="#id_793">Stephenie Meyer: Breaking Dawn – Hajnalhasadás (2013)</a>
+
+<a href="#id_29">Stieg Larsson: A tetovált lány (2019)</a>
+
+<a href="#id_26">Stieg Larsson: A lány, aki a tűzzel játszik (2019)</a>
+
+<a href="#id_27">Stieg Larsson: A kártyavár összedől (2019)</a>
+
+<a href="#id_1456">Sue Townsend: Adrian Mole és a tömegpusztító fegyverek (2010)</a>
+
+<a href="#id_81">Suzanne Collins: Az éhezők viadala (2021)</a>
+
+<a href="#id_82">Suzanne Collins: Futótűz (2020)</a>
+
+<a href="#id_83">Suzanne Collins: A kiválasztott (2020)</a>
+
+<a href="#id_1344">Szabó, Magda: Egy czitrom hajával (2018)</a>
+
+<a href="#id_462">Szergej Lukjanyenko: Alkonyi őrség (2008)</a>
+
+<a href="#id_457">Szergej Lukjanyenko: Utolsó őrség (2008)</a>
+
+<a href="#id_458">Szergej Lukjanyenko: Új Őrség (2012)</a>
+
+<a href="#id_461">Szergej Lukjanyenko: Éjszakai őrség (2006)</a>
+
+<a href="#id_459">Szergej Lukjanyenko: Nappali őrség (2007)</a>
+
+<a href="#id_696">Terry Pratchett: A mágia színe (2008)</a>
+
+<a href="#id_695">Terry Pratchett: A mágia fénye (2009)</a>
+
+<a href="#id_694">Terry Pratchett: Egyenjogú rítusok (2010)</a>
+
+<a href="#id_762">Terry Pratchett: Mort, a halál kisinasa (101)</a>
+
+<a href="#id_697">Terry Pratchett: Bűbájos bajok (1999)</a>
+
+<a href="#id_689">Terry Pratchett: Vészbanyák (2011)</a>
+
+<a href="#id_699">Terry Pratchett: Erik (1996)</a>
+
+<a href="#id_690">Terry Pratchett: Vége a mesének (2011)</a>
+
+<a href="#id_761">Terry Pratchett: Kisistenek (2013)</a>
+
+<a href="#id_691">Terry Pratchett: Hölgyek és urak (2007)</a>
+
+<a href="#id_698">Terry Pratchett: Érdekes idők (2010)</a>
+
+<a href="#id_692">Terry Pratchett: Maszkabál (2010)</a>
+
+<a href="#id_700">Terry Pratchett: Kallódó kontinens (2012)</a>
+
+<a href="#id_693">Terry Pratchett: Carpe Jugulum (101)</a>
+
+<a href="#id_1017">Tersánszky, Józsi Jenő: A tiroli kocsmáros (101)</a>
+
+<a href="#id_1012">Tersánszky, Józsi Jenő: A tiroli kocsmáros (2016)</a>
+
+<a href="#id_617">Thomas Enger: Hegek (2014)</a>
+
+<a href="#id_1031">Thomas Harris: A vörös sárkány (2018)</a>
+
+<a href="#id_1032">Thomas Harris: A bárányok hallgatnak (2019)</a>
+
+<a href="#id_1030">Tom Clancy: Vadászat a Vörös Októberre (2019)</a>
+
+<a href="#id_1011">Tom Wood: Az ellenség (2013)</a>
+
+<a href="#id_839">Vlagyimir Szorokin: A jég (2019)</a>
+
+<a href="#id_840">Vlagyimir Szorokin: Bro útja (2019)</a>
+
+<a href="#id_838">Vlagyimir Szorokin: 23000 (2019)</a>
+
+<a href="#id_842">Vlagyimir Szorokin: Az opricsnyik egy napja (2019)</a>
+
+<a href="#id_841">Vlagyimir Szorokin: Cukor Kreml (2009)</a>
+
+<a href="#id_460">Vlagyimir Vasziljev: Káosz-Őrség (2008)</a>
+
+<a href="#id_320">W. E. B. Griffin: Hadnagyok (2005)</a>
+
+<a href="#id_321">W. E. B. Griffin: Különleges kommandósok I-II. (2005)</a>
+
