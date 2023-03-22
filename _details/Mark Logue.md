@@ -1,9 +1,10 @@
 # <a name="id_298">Mark Logue: A király beszéde (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Mark%20Logue/A%20Kiraly%20Beszede%20%28298%29/cover.jpg" alt="cover" width="300"/>
 
-Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mark%20Logue/A%20Kiraly%20Beszede%20%28298%29/A%20kiraly%20beszede%20-%20Mark%20Logue.epub)
+## Letöltés:
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mark%20Logue/A%20Kiraly%20Beszede%20%28298%29/A%20kiraly%20beszede%20-%20Mark%20Logue.epub)
 
-Összefoglalás:
+## Összefoglalás:
 <div>
 <p>A ​20. század első évtizedeiben valaki megmentette a brit királyi családot – nem a miniszterelnök és nem is a canterburyi érsek, hanem egy Lionel Logue nevű, szinte ismeretlen, autodidakta beszédtanár, akit a harmincas években az egyik újság elhíresült cikke úgy nevezett, hogy „a sarlatán, aki megmentett egy királyt”.<br>Logue nem született brit arisztokratának, de még csak angolnak sem – tősgyökeres ausztrál közember volt. Mégis ennek a barátságos társasági embernek sikerült minden külső segítség nélkül az egyik legnagyszerűbb brit királyt faragnia az ideges, kevés beszédű yorki hercegből, miután annak fivére, VIII. Edward 1936-ban leköszönt a trónról, mert beleszeretett Mrs. Simpsonba.<br>Lionel Logue és a leendő VI. György király nem mindennapi kapcsolatának mindeddig ismeretlen történetét Logue unokája írta meg, kizárólag nagyapja, Lionel naplójegyzetei és archív dokumentumok alapján. Rendkívüli megvilágításban tárul elénk a két férfi meghitt barátsága és az a kulcsszerep, melyet a király felesége, a néhai anyakirálynő, Erzsébet királyné játszott kettejük összeboronálásában, aminek az volt a célja, hogy megmentse férje hírnevét és trónját.<br>A király beszéde – Hogyan mentette meg egyetlen ember a brit monarchiát megdöbbentő bepillantást enged egy privát világba. Soha ilyen személyes képet nem rajzoltak még a brit monarchiáról – annak legmélyebb válsága idején – egy ausztrál közember szemszögéből nézve, aki büszke volt rá, hogy szolgálhatja – és megmentheti – királyát.</p></div>
 

@@ -1,86 +1,96 @@
 # <a name="id_1717">Csányi, Vilmos: Hiedelmeink (101)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Hiedelmeink%20%281717%29/cover.jpg" alt="cover" width="300"/>
 
-Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Hiedelmeink%20%281717%29/Hiedelmeink%20-%20Csanyi%2C%20Vilmos.epub)
+## Letöltés:
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Hiedelmeink%20%281717%29/Hiedelmeink%20-%20Csanyi%2C%20Vilmos.epub)
 
-Összefoglalás:
+## Összefoglalás:
 <div>
 <p>A hiedelmek egész életünket behálózzák: hiszünk ideológiákban, politikai pártokban, hiszünk Istenben, szellemekben, angyalokban és ördögökben is. Vannak egyszerű hiedelmek, mint például hogy hány percig kell a lágy tojást főzni, vagy mely gyógymódok hatásosak. Ugyanakkor a hiedelmek rendkívül összetettek is lehetnek: mi az élet értelme? Miért éppen úgy jó a társadalom szerkezete, ahogy van?<br>Csányi Vilmos és szerzőtársa, Tóth Balázs hiedelmeink keletkezését és működését mutatják be. Bebizonyítják, hogy hiedelmeink által ismerjük meg és formáljuk saját képünkre a világot, és hogy még a valóság olyan alappillérei is hiedelmek, mint hogy mit jelent az „én”. A biológia, a pszichológia és a kultúra egyéb területeiről vett szemléletes példák segítenek megérteni, hogy a hiedelmek megalkotására való képesség az egyik legfontosabb emberi adottságunk.</p></div>
 
 # <a name="id_1716">Csányi, Vilmos: Íme, az ember (101)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Ime%2C%20az%20ember%20%281716%29/cover.jpg" alt="cover" width="300"/>
 
-Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Ime%2C%20az%20ember%20%281716%29/Ime%2C%20az%20ember%20-%20Csanyi%2C%20Vilmos.epub)
+## Letöltés:
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Ime%2C%20az%20ember%20%281716%29/Ime%2C%20az%20ember%20-%20Csanyi%2C%20Vilmos.epub)
 
 # <a name="id_1713">Csányi, Vilmos: Segítség, kutyás lettem! (101)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Segitseg%2C%20kutyas%20lettem%21%20%281713%29/cover.jpg" alt="cover" width="300"/>
 
-Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Segitseg%2C%20kutyas%20lettem%21%20%281713%29/Segitseg%2C%20kutyas%20lettem%21%20-%20Csanyi%2C%20Vilmos.epub)
+## Letöltés:
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Segitseg%2C%20kutyas%20lettem%21%20%281713%29/Segitseg%2C%20kutyas%20lettem%21%20-%20Csanyi%2C%20Vilmos.epub)
 
-Összefoglalás:
+## Összefoglalás:
 <div>
 <p>A Segítség, kutyás lettem! valódi segítség mindazoknak, akiknek kutyájuk van, vagy épp kutyát szeretnének. A tudós kutyabarát, Csányi Vilmos nemcsak azt osztja meg velünk, hogy mit tegyünk és mit ne, de elmagyarázza, hogy miért. Megtudhatjuk, mit tudnak, mit éreznek és mit próbálnak elmondani nekünk a kutyák, akik veleszületett emberszeretettel jönnek a világra s talán már félig-meddig maguk is emberek. A sok-sok csodálatos, kutyaszeretettel megírt történetben felbukkannak kutyaismerőseink, Bukfenc és Jeromos is.<br>Csányi Vilmos Széchenyi-díjas biológus, biokémikus, etológus, egyetemi tanár, a Magyar Tudományos Akadémia rendes tagja. Kutatási területe az állati és emberi viselkedés, valamint a biológiai és a kulturális evolúció kérdései. A Libri Kiadónál megjelent: A kutyák szőrös gyerekek; Jeromos, a barátom.</p></div>
 
 # <a name="id_308">Csányi, Vilmos: Az emberi természet (2003)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Az%20Emberi%20Termeszet%20%28308%29/cover.jpg" alt="cover" width="300"/>
 
-Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Az%20Emberi%20Termeszet%20%28308%29/Az%20emberi%20termeszet%20-%20Csanyi%2C%20Vilmos.epub)
+## Letöltés:
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Az%20Emberi%20Termeszet%20%28308%29/Az%20emberi%20termeszet%20-%20Csanyi%2C%20Vilmos.epub)
 
-Összefoglalás:
+## Összefoglalás:
 <p class="description">A modern társadalomban élő ember egyre jobban érdelkődik az emberi természet és a társadalom kialakulásának, működésének tudományos vizsgálata iránt, mert ilyen módon szeretne választ kapni a saját problémáira és szűkebb-tágabb közösségének megoldatlan kérdéseire. Ma már sok tudományág foglalkozik az emberi viselkedéssel- sokféleképpen. Valamiféle szintézisre van szükség, amelyhez az egyes részterületek információi hozzákapcsolhatók.</p>
 
 # <a name="id_1714">Csányi, Vilmos: Marci, a beszélő kutya (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Marci%2C%20a%20beszelo%20kutya%20%281714%29/cover.jpg" alt="cover" width="300"/>
 
-Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Marci%2C%20a%20beszelo%20kutya%20%281714%29/Marci%2C%20a%20beszelo%20kutya%20-%20Csanyi%2C%20Vilmos.epub)
+## Letöltés:
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Marci%2C%20a%20beszelo%20kutya%20%281714%29/Marci%2C%20a%20beszelo%20kutya%20-%20Csanyi%2C%20Vilmos.epub)
 
-Összefoglalás:
+## Összefoglalás:
 <div>
 <p>Csányi Vilmos új regénye az idei Budapesti Könyvfesztivál egyik szenzációjának ígérkezik. A Marci, a beszélő kutya a modernkori tudományos világ fergeteges szatírája természetesen a honi viszonyaink távlatából. Ám regény egyben finom humorral átszőtt, megrendítő történet a kutya-ember viszonyáról is, amely mindvégig lebilincseli olvasóit.</p></div>
 
 # <a name="id_1711">Csányi, Vilmos: A globális elme. Elmélkedések a világról (2018)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/A%20globalis%20elme.%20Elmelkedesek%20a%20vil%20%281711%29/cover.jpg" alt="cover" width="300"/>
 
-Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/A%20globalis%20elme.%20Elmelkedesek%20a%20vil%20%281711%29/A%20globalis%20elme.%20Elmelkedesek%20a%20-%20Csanyi%2C%20Vilmos.epub)
+## Letöltés:
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/A%20globalis%20elme.%20Elmelkedesek%20a%20vil%20%281711%29/A%20globalis%20elme.%20Elmelkedesek%20a%20-%20Csanyi%2C%20Vilmos.epub)
 
-Összefoglalás:
+## Összefoglalás:
 <div>
 <p>Csányi Vilmos, biokémikus, etológus, az állati és emberi viselkedés, a biológiai és kulturális evolúció kérdéskörének kutatója, amolyan 21. századi polihisztorként, számos ismeretterjesztő könyvvel ajándékozta már meg a széles olvasóközönséget. Ezekben a munkáiban, élvezetes stílusban, a tudományos szakszövegeket a „civilek” számára is közérthető módon „lefordítva” ismertette meg olvasóival a minket körülvevő világ természettudományos, kulturális, társadalmi vonulatát, érdekességeit. A mostani kötetében is így van ez, amikor ennek a nagytudású, széles látókörű tudósnak, írónak izgalmas életműve stációival ismerkedhet meg az olvasó, aki nemcsak természettudományos ismereteket kap a kötet nyomán, de a művészetekről, filozófiáról, oktatásról, és a minket körülvevő világ szinte valamennyi szegmenséről bővítheti majd tudását. Szinte lehetetlenség számba venni azt a szerteágazó gondolatiságot, amelyek egy-egy fejezetcím alatt megfogalmazódnak (Embernek lenni; Gondolat, viselkedés, szerkesztett gondolat; A globális elme; Tudomány és művészet; Hogyan neveljük gyermeket?; A hatalom természete; Gondolatok a viselkedésről, az agyról és az elméről; Az enciklopédista tévedése; A modern társadalom egyszemélyes közösségek populációja; Barátokról stb.). A szerző, már túl a nyolcvanadik életévén, fiatalos lelkesedéssel vágyik a világ valamennyi újdonságának megismerésére, és ez a fajta töretlen kíváncsiság az, amely az olvasót is inspirálja arra, hogy magáévá tegye Csányi világlátását: soha nem késő tanulni és kérdezni, annak érdekében, hogy megismerjük és befogadhassuk a világ fejlődésére adható válaszokat, hiszen a változás rejti magában a jövőt...</p></div>
 
 # <a name="id_1719">Csányi, Vilmos: A kutyák szőrös gyerekek (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/A%20kutyak%20szoros%20gyerekek%20%281719%29/cover.jpg" alt="cover" width="300"/>
 
-Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/A%20kutyak%20szoros%20gyerekek%20%281719%29/A%20kutyak%20szoros%20gyerekek%20-%20Csanyi%2C%20Vilmos.epub)
+## Letöltés:
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/A%20kutyak%20szoros%20gyerekek%20%281719%29/A%20kutyak%20szoros%20gyerekek%20-%20Csanyi%2C%20Vilmos.epub)
 
-Összefoglalás:
+## Összefoglalás:
 <div>
 <p>Csányi Vilmos könyve nemcsak két családi kutya életét mutatja be, hanem azt is, hogy hogyan lehet a kutyalélek rejtelmeit tudományos vizsgálatok tárgyává tenni. Azoknak szól, akik a tudományos könyvek szigorúsága és unalma nélkül pillantanának be a kutyaetológia világába. Az első kiadást sokan megszerették, azóta angol, német, olasz, szlovák és orosz nyelven is megjelent a kötet. Az új kiadás tartalmaz néhány új, érdekes tényt is, amelyet az ELTE etológia tanszékének kutatói fedeztek fel az utóbbi években. Módszereiket átvették külföldi laboratóriumok, és ma már a tudományos közösség is elhiszi, hogy egyben s másban a kutya az emberre hasonlít. Tehát nem csupán hangzatos cím, hanem kutatási eredmények támasztják alá azt, hogy a kutyák szőrös gyerekek. CSÁNYI VILMOS etológus, akadémikus, író. Eredetileg vegyészként kezdett dolgozni, majd ő maga szervezte meg az ELTE-n az etológia tanszéket, amelynek vezetője is lett. Kutatásai középpontjában kezdetben a halak, a későbbiekben a kutya és az ember viselkedése, a biológiai és a kulturális evolúció kérdései állnak. Számos kötete jelent meg négylábú társainkról, illetve az ember viselkedéséről, hiedelmeiről és gondolkodásáról. Emellett szépíróként is sikeres.</p></div>
 
 # <a name="id_1720">Csányi, Vilmos: Ironikus etológia (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Ironikus%20etologia%20%281720%29/cover.jpg" alt="cover" width="300"/>
 
-Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Ironikus%20etologia%20%281720%29/Ironikus%20etologia%20-%20Csanyi%2C%20Vilmos.epub) 
+## Letöltés:
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Ironikus%20etologia%20%281720%29/Ironikus%20etologia%20-%20Csanyi%2C%20Vilmos.epub) 
  [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Ironikus%20etologia%20%281720%29/Ironikus%20etologia%20-%20Csanyi%2C%20Vilmos.pdf)
 
-Összefoglalás:
+## Összefoglalás:
 <div>
 <p>„Az evolúció legképtelenebb, sületlen, hagymázos ötlete minden kétséget kizáróan az ember, becenevén a Homo sapiens. Öt-hatmillió éve a bioszféra üde színfolt lehetett a bolygón sokféle állattal és növénnyel, amelyek között persze szép számmal voltak mulatságosak, netán bolondosak is, mint azt példáim igazolták, de az ökológiai rendszer kiegyensúlyozott volt, és úgy tűnhetett, hogy megalapozott, tartós jövője sok százmillió évre biztosítva van. És ekkor a rendszer finom, olajozott kerekei közé por, homok, autóroncsok, kátrány, mindent feloldó savak és lúgos, enzimes mosópor került. Recsegés, ropogás, pattognak a fogaskerekek, égett fémszag, füst és korom. Mi történt?<br>Egy csimpánzméretű, a fák ágai között kiegyensúlyozottan élő derék majom megőrült…”</p></div>
 
 # <a name="id_1718">Csányi, Vilmos: Jeromos, a barátom - A kutyák szerint a világ (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Jeromos%2C%20a%20baratom%20-%20A%20kutyak%20szeri%20%281718%29/cover.jpg" alt="cover" width="300"/>
 
-Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Jeromos%2C%20a%20baratom%20-%20A%20kutyak%20szeri%20%281718%29/Jeromos%2C%20a%20baratom%20-%20A%20kutyak%20s%20-%20Csanyi%2C%20Vilmos.epub)
+## Letöltés:
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Jeromos%2C%20a%20baratom%20-%20A%20kutyak%20szeri%20%281718%29/Jeromos%2C%20a%20baratom%20-%20A%20kutyak%20s%20-%20Csanyi%2C%20Vilmos.epub)
 
-Összefoglalás:
+## Összefoglalás:
 <div>
 <p>Jeromos sok olvasónak régi ismerőse, megfigyelések tárgya, tudományos eredmények előmozdítója, de ami a legfontosabb: a szerző barátja. Ez a kis könyv e barátság történetét és epizódjait eleveníti fel, és közben az emberi lét legfontosabb kérdéseit próbálja megválaszolni. Mitől lesz valamiből valaki? Mikortól lesz a jelek együttese nyelv? A kötet még a kutyátlanok kedvét is meghozza a kutyatartáshoz, a kutyásoknak pedig segít, hogy igazi barátságba kerülhessenek velük, hogy ők is átélhessék, mennyi mindent elmondanak a kutyák, ha megadjuk nekik a lehetőséget. CSÁNYI VILMOS etológus, akadémikus, író. Eredetileg vegyészként kezdett dolgozni, majd ő maga szervezte meg az ELTE-n az etológia tanszéket, amelynek vezetője is lett. Kutatásai középpontjában a kutya és az ember viselkedése, a biológiai és a kulturális evolúció kérdései állnak. Számos kötete jelent meg négylábú társainkról, illetve az ember viselkedéséről, hiedelmeiről és gondolkodásáról. Emellett szépíróként is sikeres.</p></div>
 
 # <a name="id_1712">Csányi, Vilmos: Drága barátaim, kedves majmok (2021)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Draga%20barataim%2C%20kedves%20majmok%20%281712%29/cover.jpg" alt="cover" width="300"/>
 
-Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Draga%20barataim%2C%20kedves%20majmok%20%281712%29/Draga%20barataim%2C%20kedves%20majmok%20-%20Csanyi%2C%20Vilmos.epub)
+## Letöltés:
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Draga%20barataim%2C%20kedves%20majmok%20%281712%29/Draga%20barataim%2C%20kedves%20majmok%20-%20Csanyi%2C%20Vilmos.epub)
 
-Összefoglalás:
+## Összefoglalás:
 <div>
 <p>Csányi ​Vilmos ismét tudományos alapossággal, mégis végtelenül szórakoztatóan, humorral, személyes történetekkel fűszerezve járja körül az ember viselkedését, motivációit, kevéssé ismert tulajdonságait.<br>Hogy krízis idején hogyan reagálunk, milyen válaszaink vannak például a világjárványra, miként viseljük a hónapokig tartó bezártságot, próbáljuk elviselni a személyes találkozások hiányát – viselkedésmódjainkat alapvetően meghatározza, hogyan éltek valaha őseink.<br>Korábban egy domináns személy vezette, néhány száz főből álló csoportban éltünk, amelynek tagjaival folyamatosan együttműködtünk. A legfontosabb célkitűzésünk egykor az volt, hogy magát a csoportot életben tartsuk. Nem úgy a másik csoport tagjait, akikkel konfliktusban álltunk. Ma már nem léteznek ezek a csoportok, megatársadalmakban élünk, egyszemélyes csoportként – és ez erős hatással van a mindennapjainkra.<br>Korábbi, vándorló, gyűjtögető-vadászó életmódunk idején azt tanultuk, hogy döntéseinket gyorsan, csak a közvetlen következményeket figyelembe véve hozzuk meg. Inkább választottuk azt a megoldást, amely közeli jóval kecsegtetett és ködös, távoli rosszal, mint a közeli, pici rosszat és távoli, megfoghatatlan, de hatalmas jót. Ezért nehéz rávenni ma az embereket arra, hogy gondoljanak a klímaváltozásra, ne irtsák ki az esőerdőket, korlátozzák a szén-dioxid-kibocsátásukat, és egyáltalán: foglalkozzanak a távoli jövővel.</p>
 <p><br>CSÁNYI VILMOS etológus, akadémikus, író. Eredetileg vegyészként kezdett dolgozni, majd ő maga szervezte meg az ELTE-n az etológia tanszéket, amelynek vezetője is lett. Kutatásai középpontjában a kutya és az ember viselkedése, a biológiai és a kulturális evolúció kérdései állnak. Számos kötete jelent meg négylábú társainkról, illetve az ember viselkedéséről, hiedelmeiről és gondolkodásáról. Emellett szépíróként is sikeres.</p></div>
@@ -88,9 +98,10 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2
 # <a name="id_1715">Csányi, Vilmos: Édes Janka (2021)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Edes%20Janka%20%281715%29/cover.jpg" alt="cover" width="300"/>
 
-Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Edes%20Janka%20%281715%29/Edes%20Janka%20-%20Csanyi%2C%20Vilmos.epub)
+## Letöltés:
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Edes%20Janka%20%281715%29/Edes%20Janka%20-%20Csanyi%2C%20Vilmos.epub)
 
-Összefoglalás:
+## Összefoglalás:
 <div>
 <p>Csányi Vilmos etológusprofesszor Bukfenc és Jeromos után végre megírta harmadik kutyája, Janka történetét is. Az érdekes és sokszor kacagtató epizódokból egy kíváncsi, érzelemgazdag, társas interakciókra alkalmas élőlény képe rajzolódik ki előttünk, akinek sajátos elgondolása van a világról. Janka husky őseit meg nem hazudtoló módon szabad kutya, aki nem pusztán eligazodik az őt körülvevő környezetben, hanem igyekszik azt saját ízlésének megfelelően formálni is.<br>Csányi egy vérbeli tudós kíváncsiságával és nyitottságával jegyzi le kutyája kalandjait, hogy aztán bravúros könnyedséggel vezessen be bennünket az etológia kulisszái mögé, s világítson rá a megfigyeltek mögött rejlő tudományos magyarázatokra.<br>László Bandy rajzaival.</p></div>
 

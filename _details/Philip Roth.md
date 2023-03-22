@@ -1,9 +1,10 @@
 # <a name="id_1453">Philip Roth: Összeesküvés Amerika ellen (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Philip%20Roth/Osszeeskuves%20Amerika%20ellen%20%281453%29/cover.jpg" alt="cover" width="300"/>
 
-Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Philip%20Roth/Osszeeskuves%20Amerika%20ellen%20%281453%29/Osszeeskuves%20Amerika%20ellen%20-%20Philip%20Roth.epub)
+## Letöltés:
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Philip%20Roth/Osszeeskuves%20Amerika%20ellen%20%281453%29/Osszeeskuves%20Amerika%20ellen%20-%20Philip%20Roth.epub)
 
-Összefoglalás:
+## Összefoglalás:
 <div>
 <p>Antiszemitizmus, ​a megfélemlítés légköre, zsidóüldözés, kitelepítések, fasizálódás az 1940-es évek Amerikájában? Igen – legalábbis Philip Roth új regényében, amely a „mi lett volna, ha” jegyében vizsgálja az adott korszakot. Mi lett volna, ha 1940-ben F. D. Roosevelttel szemben Charles Augustus Lindbergh, a repüléstörténet egyik legismertebb alakja, amerikai nemzeti hős nyerte volna a választásokat? Az a Lindbergh, akinek náciszimpátiája és antiszemitizmusa nem fikció, hanem dokumentált történelmi tény? Nos, akkor ebben a képzeletbeli Amerikában felülkerekedtek volna az izolacionisták, az „európai” háborúba való beavatkozást ellenzők, a Lindbergh-adminisztráció lepaktált volna Hitlerrel, és az amerikai zsidóság, ha nem is európai sorstársaiéhoz fogható, de lelkileg és egzisztenciálisan is megnyomorító üldöztetéseket szenvedett volna el. Roth ezt a nyomasztó légkört egy érezhetően önéletrajzi elemekkel átszőtt családregényben ábrázolja A kortárs amerikai próza nagymesterének gondolatébresztő kirándulása a történelmi fikció terepén igazi meglepetést kínál az olvasónak. 1997-ben Philip Roth elnyerte a Pulitzer-díjat Amerikai pasztorál című regényével. 1998-ban átvehette a Nemzeti Művészeti Érdemrendet a Fehér Házban, 2002-ben pedig megkapta az Amerikai Művészeti és Irodalmi Akadémia legmagasabb kitüntetését, a Szépirodalmi Aranyérmet, amelyet korábban a többi közt olyan íróknak ítéltek oda, mint John Dos Passos, William Faulkner és Saul Bellow. Kétszer nyerte el a Nemzeti Könyvdíjat, a PEN/Faulkner Díjat és a Kritikusok Országos Szövetségének Díját. 2005-ben Philip Roth lett a harmadik élő amerikai író, akinek átfogó életműkiadása jelenik meg a Library of America sorozatban. A nyolc kötetből az utolsó 2013-ban fog megjelenni.</p></div>
 

@@ -1,27 +1,30 @@
 # <a name="id_168">James Clavell: A sógun (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/James%20Clavell/A%20Sogun%20%28168%29/cover.jpg" alt="cover" width="300"/>
 
-Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Clavell/A%20Sogun%20%28168%29/A%20sogun%20-%20James%20Clavell.epub)
+## Letöltés:
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Clavell/A%20Sogun%20%28168%29/A%20sogun%20-%20James%20Clavell.epub)
 
-Összefoglalás:
+## Összefoglalás:
 <div>
 <p>Európai ​- németalföldi – hajó bukdácsol Japán partjai felé, rettenetes viharban. Megkerülte az egész ismert (és még nem ismert) világot, s mire szokatlan irányból, kelet felől érkezve megfeneklik Izu-félsziget sziklazátonyain, a legénységből alig tucatnyian maradnak életben. A japánok azonmód fogságba vetik őket, vezetőjükkel, az angol kalandorral, Blackthorne főnavigátorral együtt.<br>Az európai naptár az 1600. esztendőt mutatja. A holland tengerészek – noha ők ezt természetesen nem tudják – baljósabb időpontban nem is érkezhettek volna. Két éve, 1598-ban halt meg Nippon katonai diktátora, a taikó, s azóta az országot az egész 16. századon át dúló polgárháborúk utolsó felvonása zajlik: a kisebb-nagyobb szamurájseregekkel rendelkező főurak, a daimjó-k a végső, nagy csatára készülnek, hogy egyszer s mindenkorra eldőljön, ki, melyik család birtokolja majd évszázadokon át a sóguni címet, ki lesz a szamurájok, az egész ország teljhatalmú ura. Cselvetések, árulások, orgyilkosságok feszültséggel teli, ismeretlen világába csöppen a tucatnyi protestáns európai – és talán még a „vad” japánoknál is nagyobb veszély leselkedik rájuk a katolikus portugálok és spanyolok képében. Ezek ugyanis már több mint ötven esztendeje jelen vannak a japán kikötővárosokban, s nemcsak vallási, hanem kereskedelmi monopóliumukat is féltik az „eretnek kalózoktól”, ahogy Blackthorne-t és társait nevezik. Ami lesz a sorsa az Erasmus hajósainak, miféle rafinált eszközökkel és módszerekkel küzdenek egymás és sokszor az európaiak ellen is a japán hadvezérek, hogyan kell japán módra íjjal célba lőni, a teát szertartásos módon megfőzni és felszolgálni, harakirit elkövetni, hogyan támadnak a nindzsák – minderről és még számtalan egyéb érdekességről olvashatunk ebben a vérbeli történelmi regényben. Legtöbben azonban mégis egy rendkívüli formátumú, zseniális japán hadvezérről és politikusról tudunk meg – s egy nem kevésbé rendkívüli európairól, akiből a szamuráj lett.</p></div>
 
 # <a name="id_1027">James Clavell: A Tajpan (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/James%20Clavell/A%20Tajpan%20%281027%29/cover.jpg" alt="cover" width="300"/>
 
-Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Clavell/A%20Tajpan%20%281027%29/A%20Tajpan%20-%20James%20Clavell.epub)
+## Letöltés:
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Clavell/A%20Tajpan%20%281027%29/A%20Tajpan%20-%20James%20Clavell.epub)
 
-Összefoglalás:
+## Összefoglalás:
 <div>
 <p>Nagy-Britannia ​1841. január 26-án felségterületévé, kolóniájává nyilvánítja Hongkong apró, kopár sziklaszigetét. A jelenlévő nemzetközi kereskedő-kalandorok és katonák között nem egy akad, aki fitymálja az értéktelennek látszó új birtokot. A hatalmas termetű, kiváló hajósnak és ragyogó vezetőnek számító Dirk Struan azonban pontosan tudja, mire való ez a hely. Hongkong a Távol-Kelet legbiztonságosabb kikötőjévé lesz, bázisa annak a hatalmas arányú kereskedelemnek, amit a roppant méretű és hihetetlen erőforrásokkal rendelkező kínai birodalommal lehet lebonyolítani. <br>Ezüst, fűszerek, selyem, jáde és legfőképp a tea… A több évszázados, korhadó mandzsu birodalom alatt elgyöngült Kína rengeteg kincset rejt azok számára, akik elég bátrak és könyörtelenek, hogy elvegyék tőle. <br>Ám a sikernek ára van. <br>Halálos veszedelmek leselkednek Dirk Struanra és családjára. Ellenségei – európaiak és kínaiak – semmitől sem riadnak vissza. Igaz, ő sem válogat az eszközökben. Pénzzel, fortéllyal – vagy éppen korbáccsal – juttatja érvényre akaratát és becsvágyát. Csak így lehet belőle kínai elnevezéssel Tajpan, sárgák és fehérek megkérdőjelezhetetlen főnöke, az üzlet és az emberek ura, a virágzó település vezetője. Kalózok és kínai titkos társaságok, ópiumháborúk és politikai intrikák, tengeri kalandok és viharos szerelmek… <br>Az olvasó A sógun világhírű szerzőjének e „hongkongi regényében” sem fog csalódni.</p></div>
 
 # <a name="id_1028">James Clavell: Gajdzsin (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/James%20Clavell/Gajdzsin%20%281028%29/cover.jpg" alt="cover" width="300"/>
 
-Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Clavell/Gajdzsin%20%281028%29/Gajdzsin%20-%20James%20Clavell.epub)
+## Letöltés:
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Clavell/Gajdzsin%20%281028%29/Gajdzsin%20-%20James%20Clavell.epub)
 
-Összefoglalás:
+## Összefoglalás:
 <div>
 <p>Japán, ​1862. Az ország az erőteljes amerikai nyomásra már megnyitotta kapuit a külföld előtt – de épp csak résnyire. Az „Istenek Földjén” zűrzavar uralkodik: az egyre inkább elszegényedő szamurájok egy csoportja szeretné megfosztani hatalmától a sógunt. Japán irányítását ismét a Mennyek Fiára, a császárra akarják bízni, akinek kezéből annak idején az első sógun kiragadta a kormánypálcát. Az ország nagyurai, daimjói közül is sokan úgy gondolják, hogy a sogunátus intézménye megérett a változtatásokra, de ezeket a változtatásokat maguk szeretnék végrehajtani – a sóguni cím birtokában. <br>És mindeközben ott vannak az országban – Jokohamában – a gajdzsinok, a gyűlölt idegenek, az egymással is rivalizáló britek, oroszok, franciák, poroszok, akiknek nagyon komoly gazdasági érdekük fűződik ahhoz, hogy a titokzatos Japán, amelyről az európaiaknak még csak nagyon homályos ismereteik vannak, teljesen feltárulkozzon előttük, s lehetővé tegye a szabadkereskedelmet. A jokohamai európai kolónia hajótulajdonos-kereskedői között ismerős nevekkel is találkozhatunk: itt van Malcolm Struan, A tajpanban megismert legendás Dirk Struan unokája, itt van az ugyancyak A tajpanból és A Nemes Házból megismert Tess Struan, akit most még senki sem mer Boszorkány Struannak nevezni, itt van a régi esküdt ellenség, Tyler Brock és famíliája… Mindenki mindenkivel és mindenki mindenki ellen – ahogy a pillanatnyi érdek diktálja. <br>És mindez egy aprólékos, művészi gonddal megfestett környezetben, olyan filmszerűen láttatóan, izgalmasan és érdekesen elénk tárva, ahogyan csak a régi Japánt és a Távol-Keletet töviről-hegyire ismerő James Clavell írhatta meg.</p></div>
 

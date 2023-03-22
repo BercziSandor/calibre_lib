@@ -1,8 +1,9 @@
 # <a name="id_659">Catherynne M. Valente: A lány, aki körülhajózta Tündérföldet (2013)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Catherynne%20M.%20Valente/A%20lany%2C%20aki%20korulhajozta%20Tunderfold%20%28659%29/cover.jpg" alt="cover" width="300"/>
 
-Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Catherynne%20M.%20Valente/A%20lany%2C%20aki%20korulhajozta%20Tunderfold%20%28659%29/A%20lany%2C%20aki%20korulhajozta%20Tunder%20-%20Catherynne%20M.%20Valente.epub)
+## Letöltés:
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Catherynne%20M.%20Valente/A%20lany%2C%20aki%20korulhajozta%20Tunderfold%20%28659%29/A%20lany%2C%20aki%20korulhajozta%20Tunder%20-%20Catherynne%20M.%20Valente.epub)
 
-Összefoglalás:
+## Összefoglalás:
 <p class="description">Szeptember egy kislány, aki kalandokra vágyik. Amikor a Zöld Szél és egy Leopárd Tündérföldre invitálja, természetesen elfogadja a meghívást. (Te talán nem tennéd?) Tündérföldön azonban nagy a zűrzavar, és egy tizenkét éves kislányra, egy könyvszerető sárkánygyíkra és egy Szombat nevű, különös és majdnem emberi kisfiúra hárul a feladat, hogy legyőzzék a gonosz Márkinőt, és helyreállítsák a rendet.<br>Catherynne M. Valente részletekben kezdte el közölni Szeptember kalandjait az interneten; a történet rengeteg rajongót és az évtized legjobb netes írásművének kijáró Culture-Geek díjat hozta el számára.<br>„Őrült, ínyenc hancúrozás ez a mese – tele furcsaságokkal, szeszéllyel és örömmel.” – Holly Black, a Spiderwick krónikák írója</p>
 
