@@ -633,9 +633,22 @@ A háromtest-trilógia:
 
 - (2015) - Alföldi Róbert Magánügy [details](#id_961) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csaki%2C%20Judit/Alfoldi%20Robert%20Maganugy%20%28961%29/Alfoldi%20Robert%20Maganugy%20-%20Csaki%2C%20Judit.epub)
 
+### Csányi Vilmos
+
+- (2020) - Ironikus etológia [details](#id_1720) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%20Vilmos/Ironikus%20etologia%20%281720%29/Ironikus%20etologia%20-%20Csanyi%20Vilmos.epub)
+
 ### Csányi, Vilmos
 
+- (101) - Hiedelmeink [details](#id_1717) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Hiedelmeink%20%281717%29/Hiedelmeink%20-%20Csanyi%2C%20Vilmos.epub)
+- (101) - Íme, az ember [details](#id_1716) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Ime%2C%20az%20ember%20%281716%29/Ime%2C%20az%20ember%20-%20Csanyi%2C%20Vilmos.epub)
+- (101) - Segítség, kutyás lettem! [details](#id_1713) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Segitseg%2C%20kutyas%20lettem%21%20%281713%29/Segitseg%2C%20kutyas%20lettem%21%20-%20Csanyi%2C%20Vilmos.epub)
 - (2003) - Az emberi természet [details](#id_308) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Az%20Emberi%20Termeszet%20%28308%29/Az%20emberi%20termeszet%20-%20Csanyi%2C%20Vilmos.epub)
+- (2015) - Marci, a beszélő kutya [details](#id_1714) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Marci%2C%20a%20beszelo%20kutya%20%281714%29/Marci%2C%20a%20beszelo%20kutya%20-%20Csanyi%2C%20Vilmos.epub)
+- (2018) - A globális elme. Elmélkedések a világról [details](#id_1711) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/A%20globalis%20elme.%20Elmelkedesek%20a%20vil%20%281711%29/A%20globalis%20elme.%20Elmelkedesek%20a%20-%20Csanyi%2C%20Vilmos.epub)
+- (2020) - A kutyák szőrös gyerekek [details](#id_1719) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/A%20kutyak%20szoros%20gyerekek%20%281719%29/A%20kutyak%20szoros%20gyerekek%20-%20Csanyi%2C%20Vilmos.epub)
+- (2020) - Jeromos, a barátom - A kutyák szerint a világ [details](#id_1718)
+- (2021) - Drága barátaim, kedves majmok [details](#id_1712) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Draga%20barataim%2C%20kedves%20majmok%20%281712%29/Draga%20barataim%2C%20kedves%20majmok%20-%20Csanyi%2C%20Vilmos.epub)
+- (2021) - Édes Janka [details](#id_1715) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Edes%20Janka%20%281715%29/Edes%20Janka%20-%20Csanyi%2C%20Vilmos.epub)
 
 ### Csehov, Anton Pavlovics
 

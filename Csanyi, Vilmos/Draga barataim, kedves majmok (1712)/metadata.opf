@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1712</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5120cd3-116d-4f44-93f8-1b5fe8417459</dc:identifier>
+        <dc:title>Drága barátaim, kedves majmok</dc:title>
+        <dc:creator opf:file-as="Csányi, Vilmos" opf:role="aut">Csányi, Vilmos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-24T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Csányi ​Vilmos ismét tudományos alapossággal, mégis végtelenül szórakoztatóan, humorral, személyes történetekkel fűszerezve járja körül az ember viselkedését, motivációit, kevéssé ismert tulajdonságait.&lt;br&gt;Hogy krízis idején hogyan reagálunk, milyen válaszaink vannak például a világjárványra, miként viseljük a hónapokig tartó bezártságot, próbáljuk elviselni a személyes találkozások hiányát – viselkedésmódjainkat alapvetően meghatározza, hogyan éltek valaha őseink.&lt;br&gt;Korábban egy domináns személy vezette, néhány száz főből álló csoportban éltünk, amelynek tagjaival folyamatosan együttműködtünk. A legfontosabb célkitűzésünk egykor az volt, hogy magát a csoportot életben tartsuk. Nem úgy a másik csoport tagjait, akikkel konfliktusban álltunk. Ma már nem léteznek ezek a csoportok, megatársadalmakban élünk, egyszemélyes csoportként – és ez erős hatással van a mindennapjainkra.&lt;br&gt;Korábbi, vándorló, gyűjtögető-vadászó életmódunk idején azt tanultuk, hogy döntéseinket gyorsan, csak a közvetlen következményeket figyelembe véve hozzuk meg. Inkább választottuk azt a megoldást, amely közeli jóval kecsegtetett és ködös, távoli rosszal, mint a közeli, pici rosszat és távoli, megfoghatatlan, de hatalmas jót. Ezért nehéz rávenni ma az embereket arra, hogy gondoljanak a klímaváltozásra, ne irtsák ki az esőerdőket, korlátozzák a szén-dioxid-kibocsátásukat, és egyáltalán: foglalkozzanak a távoli jövővel.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;CSÁNYI VILMOS etológus, akadémikus, író. Eredetileg vegyészként kezdett dolgozni, majd ő maga szervezte meg az ELTE-n az etológia tanszéket, amelynek vezetője is lett. Kutatásai középpontjában a kutya és az ember viselkedése, a biológiai és a kulturális evolúció kérdései állnak. Számos kötete jelent meg négylábú társainkról, illetve az ember viselkedéséről, hiedelmeiről és gondolkodásáról. Emellett szépíróként is sikeres.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Open Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789635720705</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">csanyi-vilmos-draga-barataim-kedves-majmok</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>biológia</dc:subject>
+        <dc:subject>humánetológia</dc:subject>
+        <dc:subject>kultúra</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>társadalom</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Csányi, Vilmos&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-22T11:01:33.620281+00:00"/>
+        <meta name="calibre:title_sort" content="Drága barátaim, kedves majmok"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

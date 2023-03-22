@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1717</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ae1fc27-48e1-4e7f-adeb-b23ebb72bc90</dc:identifier>
+        <dc:title>Hiedelmeink</dc:title>
+        <dc:creator opf:file-as="Balázs, Tóth &amp; Vilmos, Csányi" opf:role="aut">Csányi, Vilmos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A hiedelmek egész életünket behálózzák: hiszünk ideológiákban, politikai pártokban, hiszünk Istenben, szellemekben, angyalokban és ördögökben is. Vannak egyszerű hiedelmek, mint például hogy hány percig kell a lágy tojást főzni, vagy mely gyógymódok hatásosak. Ugyanakkor a hiedelmek rendkívül összetettek is lehetnek: mi az élet értelme? Miért éppen úgy jó a társadalom szerkezete, ahogy van?&lt;br&gt;Csányi Vilmos és szerzőtársa, Tóth Balázs hiedelmeink keletkezését és működését mutatják be. Bebizonyítják, hogy hiedelmeink által ismerjük meg és formáljuk saját képünkre a világot, és hogy még a valóság olyan alappillérei is hiedelmek, mint hogy mit jelent az „én”. A biológia, a pszichológia és a kultúra egyéb területeiről vett szemléletes példák segítenek megérteni, hogy a hiedelmek megalkotására való képesség az egyik legfontosabb emberi adottságunk.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>+</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">toth-balazs-csanyi-vilmos-hiedelmeink</dc:identifier>
+        <dc:language>hun</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Csányi, Vilmos&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-03-22T11:05:59.132703+00:00"/>
+        <meta name="calibre:title_sort" content="Hiedelmeink"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

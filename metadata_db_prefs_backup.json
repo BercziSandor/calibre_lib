@@ -13,6 +13,14 @@
   "check_library_ignore_names": "",
   "gui_view_history": [
     [
+      1714,
+      "Marci, a besz\u00e9l\u0151 kutya"
+    ],
+    [
+      1720,
+      "Ironikus etol\u00f3gia"
+    ],
+    [
       1605,
       "A hamvask\u00e9k s\u00e1rk\u00e1ny"
     ],
@@ -63,22 +71,48 @@
     [
       1458,
       "Pi \u00e9lete"
-    ],
-    [
-      1526,
-      "Life of Pi"
-    ],
-    [
-      1209,
-      "Advanced Bash Scripting Guide"
     ]
   ],
   "plugboards": {},
   "tag_browser_hidden_categories": [],
   "library_view books view state": {
+    "column_alignment": {
+      "pubdate": "center",
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "#formats": 12,
+      "authors": 1,
+      "languages": 5,
+      "last_modified": 11,
+      "ondevice": 0,
+      "pubdate": 4,
+      "publisher": 10,
+      "rating": 8,
+      "series": 2,
+      "size": 7,
+      "tags": 9,
+      "timestamp": 6,
+      "title": 3
+    },
+    "column_sizes": {
+      "#formats": 170,
+      "authors": 245,
+      "languages": 84,
+      "last_modified": 91,
+      "pubdate": 95,
+      "publisher": 61,
+      "rating": 45,
+      "series": 180,
+      "size": 76,
+      "tags": 226,
+      "timestamp": 110,
+      "title": 217
+    },
     "hidden_columns": [],
-    "last_modified_injected": true,
     "languages_injected": true,
+    "last_modified_injected": true,
     "sort_history": [
       [
         "series",
@@ -96,41 +130,7 @@
         "timestamp",
         false
       ]
-    ],
-    "column_positions": {
-      "ondevice": 0,
-      "title": 3,
-      "authors": 1,
-      "timestamp": 6,
-      "size": 7,
-      "rating": 8,
-      "tags": 9,
-      "series": 2,
-      "publisher": 10,
-      "pubdate": 4,
-      "last_modified": 11,
-      "languages": 5,
-      "#formats": 12
-    },
-    "column_sizes": {
-      "title": 217,
-      "authors": 245,
-      "timestamp": 110,
-      "size": 76,
-      "rating": 45,
-      "tags": 226,
-      "series": 180,
-      "publisher": 61,
-      "pubdate": 95,
-      "last_modified": 91,
-      "languages": 84,
-      "#formats": 170
-    },
-    "column_alignment": {
-      "pubdate": "center",
-      "size": "center",
-      "timestamp": "center"
-    }
+    ]
   },
   "field_metadata": {
     "#formats": {

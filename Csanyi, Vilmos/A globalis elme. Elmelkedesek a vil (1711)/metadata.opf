@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1711</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9b0bd1c-203a-4233-bc27-951c0402b52c</dc:identifier>
+        <dc:title>A globális elme. Elmélkedések a világról</dc:title>
+        <dc:creator opf:file-as="Csányi, Vilmos" opf:role="aut">Csányi, Vilmos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Csányi Vilmos, biokémikus, etológus, az állati és emberi viselkedés, a biológiai és kulturális evolúció kérdéskörének kutatója, amolyan 21. századi polihisztorként, számos ismeretterjesztő könyvvel ajándékozta már meg a széles olvasóközönséget. Ezekben a munkáiban, élvezetes stílusban, a tudományos szakszövegeket a „civilek” számára is közérthető módon „lefordítva” ismertette meg olvasóival a minket körülvevő világ természettudományos, kulturális, társadalmi vonulatát, érdekességeit. A mostani kötetében is így van ez, amikor ennek a nagytudású, széles látókörű tudósnak, írónak izgalmas életműve stációival ismerkedhet meg az olvasó, aki nemcsak természettudományos ismereteket kap a kötet nyomán, de a művészetekről, filozófiáról, oktatásról, és a minket körülvevő világ szinte valamennyi szegmenséről bővítheti majd tudását. Szinte lehetetlenség számba venni azt a szerteágazó gondolatiságot, amelyek egy-egy fejezetcím alatt megfogalmazódnak (Embernek lenni; Gondolat, viselkedés, szerkesztett gondolat; A globális elme; Tudomány és művészet; Hogyan neveljük gyermeket?; A hatalom természete; Gondolatok a viselkedésről, az agyról és az elméről; Az enciklopédista tévedése; A modern társadalom egyszemélyes közösségek populációja; Barátokról stb.). A szerző, már túl a nyolcvanadik életévén, fiatalos lelkesedéssel vágyik a világ valamennyi újdonságának megismerésére, és ez a fajta töretlen kíváncsiság az, amely az olvasót is inspirálja arra, hogy magáévá tegye Csányi világlátását: soha nem késő tanulni és kérdezni, annak érdekében, hogy megismerjük és befogadhassuk a világ fejlődésére adható válaszokat, hiszen a változás rejti magában a jövőt...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Libri</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789634334620</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">43360809</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">CT4GyAEACAAJ</dc:identifier>
+        <dc:language>hun</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Csányi, Vilmos&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-03-22T10:57:47.966468+00:00"/>
+        <meta name="calibre:title_sort" content="globális elme. Elmélkedések a világról, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
