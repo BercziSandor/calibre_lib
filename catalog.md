@@ -3438,7 +3438,9 @@ A háború katonái:
 - (2002) - Life of Pi [details](#id_1526) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yann%20Martel/Life%20of%20Pi%20%281526%29/Life%20of%20Pi%20-%20Yann%20Martel.epub)
 - (2014) - Pi élete [details](#id_1458) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yann%20Martel/Pi%20elete%20%281458%29/Pi%20elete%20-%20Yann%20Martel.epub)
 
----### Részletek#### <a name="id_948">Abe Kóbó: A negyedik jégkorszak (2008)</a>
+---
+### Részletek
+#### <a name="id_948">Abe Kóbó: A negyedik jégkorszak (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Abe%20Kobo/A%20negyedik%20jegkorszak%20%28948%29/cover.jpg" alt="cover" width="300"/>
 
 <div>
