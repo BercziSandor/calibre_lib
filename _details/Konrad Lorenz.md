@@ -1,6 +1,7 @@
 #### <a name="id_474">Konrad Lorenz: Ember és kutya (2017)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Konrad%20Lorenz/Ember%20es%20kutya%20%28474%29/cover.jpg" alt="cover" width="300"/>
 
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Konrad%20Lorenz/Ember%20es%20kutya%20%28474%29/Ember%20es%20kutya%20-%20Konrad%20Lorenz.epub)
 <div>
 <p>A ​világhírű tudós – aki kitűnő humorú írónak bizonyul ebben a könyvében is – hosszú évek tapasztalatait írja meg nagyszerűen felépített kis kutyatörténeteiben. Mint etológus arra keres feleletet, mi az ami az emberi és állati magatartásformákat megkülönbözteti és ugyanakkor arra is – mi az ami összekapcsolja őket. Könyvében arról is ír röviden, hogyan alakult ki az ember és kutya évezredes kapcsolata, de sokkal inkább foglalkoztatja a kutya és gazdája mai helyes „együttélési” szabályainak sok kérdése. Tanácsai arra vonatkoznak ki milyen kutyát válasszon, milyen szoktatási módszereket tekinthetünk emberhez és állathoz méltónak, milyen tapasztalatai vannak az egyes kutyafajtákkal kapcsolatban.<br>A sok kitűnő etológiai és természeti megfigyelés ellenére sem szakkönyvet tart a kezében az olvasó. Nagyszerűen felépített, szórakoztató, irodalmi igényeket is kielégítő olvasmány ez, melynek minden sorából az élőlények iránti szeretet, gyengédség és tisztelet árad. Egyszerű stílusa, árnyalt, sokszínű humora bizonyára éppúgy megragad majd mindenkit, mint ahogyan ez előző könyvénél, a Salamon király gyűrűjé-nél történt.</p></div>
 

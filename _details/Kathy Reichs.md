@@ -1,6 +1,7 @@
 #### <a name="id_157">Kathy Reichs: A holtak beszélnek (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kathy%20Reichs/A%20holtak%20beszelnek%20%28157%29/cover.jpg" alt="cover" width="300"/>
 
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kathy%20Reichs/A%20holtak%20beszelnek%20%28157%29/A%20holtak%20beszelnek%20-%20Kathy%20Reichs.epub)
 <div>
 <p>Reichs ​hősnője, dr. Temperance Brennan törvényszéki antropológus. Hullaházban, exhumáláson, bűnügyi laborban, zsaruk közt tölti mindennapjait. Brennan túl van már egy váláson, lánya több gondot okoz, mint örömet.<br>Amikor egy építkezésen előkerült emberi maradványok vizsgálatához hívják, abban bízik, hogy csak egy régészeti leletet talál. De a helyszínen műanyag zsákokba csomagolt, oszladozó tetem darabjai várják. Így már tudja oda a hétvégéje. Azt megint csak – mint annyiszor már – a boncteremben fogja tölteni.<br>Azonban Tempének más is eszébe jut a nejlonzsákokba külön-külön becsomagolt testrészekről. Kísértetiesen emlékeztetik a tizenhat évesen meggyilkolt Chantale Trottier esetére, akit régebben szintén precízen földarabolva és szemeteszsákokba csomagolva találtak a föld alatt elásva.<br>A két gyilkosság összefügg, gondolja, de kollegái nem hiszik.<br>És ekkor előveszi teljes szakmai eszköztárát: a különleges röntgenfelvételeket, a csont-, fog- és harapásnyomok vizsgálatát, hogy meggyőzze a kételkedőket, mielőtt újból lecsap a gyilkos.<br>Hiszen bárki lehet a következő áldozat…</p></div>
 
