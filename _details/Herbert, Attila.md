@@ -2,6 +2,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Attila/Tortenelem%201.%20-%20A%20kezdetektol%20I.e%205%20%28765%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Attila/Tortenelem%201.%20-%20A%20kezdetektol%20I.e%205%20%28765%29/Tortenelem%201.%20-%20A%20kezdetektol%20I%20-%20Herbert%2C%20Attila.epub)
+
 Összefoglalás:
 
 
@@ -9,6 +10,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Attila/Tortenelem%202.%20-%20Kr.E.%20500%20-%20Kr.U.%201%20%28766%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Attila/Tortenelem%202.%20-%20Kr.E.%20500%20-%20Kr.U.%201%20%28766%29/Tortenelem%202.%20-%20Kr.E.%20500%20-%20Kr.%20-%20Herbert%2C%20Attila.epub)
+
 Összefoglalás:
 
 
@@ -16,6 +18,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Attila/Tortenelem%205%201789%20-tol%201914%20-ig%20%28767%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Attila/Tortenelem%205%201789%20-tol%201914%20-ig%20%28767%29/Tortenelem%205%201789%20-tol%201914%20-ig%20-%20Herbert%2C%20Attila.epub)
+
 Összefoglalás:
 
 
@@ -23,6 +26,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Attila/Tortenelem%206.%201914%20-tol%201990%20-ig%20%28768%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Herbert%2C%20Attila/Tortenelem%206.%201914%20-tol%201990%20-ig%20%28768%29/Tortenelem%206.%201914%20-tol%201990%20-i%20-%20Herbert%2C%20Attila.epub)
+
 Összefoglalás:
 
 

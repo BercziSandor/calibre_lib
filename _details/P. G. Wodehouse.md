@@ -2,6 +2,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Forduljon%20Psmithhez%21%20%28503%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Forduljon%20Psmithhez%21%20%28503%29/Forduljon%20Psmithhez%21%20-%20P.%20G.%20Wodehouse.epub)
+
 Összefoglalás:
 Forduljon ​Psmithhez!!!
 Psmith Majd Segít!
@@ -26,6 +27,7 @@ Minderről pedig P.G. Wodehouse rendkívül mulatságos, kitűnően megszerkeszt
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Nyari%20zivatar%20%28507%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Nyari%20zivatar%20%28507%29/Nyari%20zivatar%20-%20P.%20G.%20Wodehouse.epub)
+
 Összefoglalás:
 Egy ​bizonyos kritikus – mert ilyen emberek fájdalom, léteznek – azt a megjegyzést tette legutóbbi regényemre, hogy abban az összes régi Wodehouse-figurák szerepelnek, csak éppen a nevük más. Az illetőt azóta talán már felfalták a medvék… ha viszont esetleg még életben volna, akkor sem tehetne hasonló megjegyzést a Nyári zivatar című regényre. Magasrendű intelligenciám segítségével túljártam a fickó eszén: ebbe a regénybe ugyanis beletettem az összes régi Wodehouse-figurát – változatlan néven… Lord Emsworth, a Kiváló Baxter, Beach, a komornyik és még sokan mások mind felléptek már a Forduljon Psmithhez lapjain… Az az igazság, hogy nem tudok elszakadni a blandingsi kastélytól. Ez a hely delejes hatással van rám. Le-leruccanok Shropdhire-be, bekukkantok a legújabb hírekért, és mindig találok is valamit, ami érdekel. Annak reményében, hogy olvasóimat is érdekelni fogja, ezen a régi helyszínen felfedeztem egy kis pletykát, aminek a Nyári zivatar címet adtam – írja könyéről a több tucatnyi szellemes, szórakoztató regény nemrégiben elhunyt kitűnő angol szerzője, P. G. Wodehouse. Két szerelmespár is szerepel a regény lapjain; megismerkedünk Galahad Threepwooddal, a nem is kissé ütődött Lord Emsworth viharos múltú öccsével; Lady Constance, ha lehet, még undokabb, mint a Psmith hasábjain, és természetesen még jobban felsül… vitathatóan rokonszenves ismerőseink sorát gyarapítja Percy Pilbeam, a peches kopó, és végül – de egyáltalán nem utoljára – tanúi vagyunk a fő bonyodalomnak: Blandings Császárnője elrablásának. A pompás cím egy díjnyertes kocát rejt – ugyanezt a kocát rejti ezenkívül egy, két, illetve több tettes, a legkülönfélébb rejtekhelyeken –, de csitt, ne áruljunk el titkokat. Csupán annyit még, hogy a mulattató regény helyszínét, epizódjait, figuráit Hegedűs István szellemes illusztrációi keltik életre.
 
@@ -33,6 +35,7 @@ Egy ​bizonyos kritikus – mert ilyen emberek fájdalom, léteznek – azt a m
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Egy%20pelikan%20Blandingsben%20%28501%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Egy%20pelikan%20Blandingsben%20%28501%29/Egy%20pelikan%20Blandingsben%20-%20P.%20G.%20Wodehouse.epub)
+
 Összefoglalás:
 <div>
 <p>„Hosszú, ​elkeseredett harcot kellett vívni az elemekkel. Nem várt nehézségek tornyosultak elénk. Gyanús sarkokon kellett befordulnunk. De most már minden megoldódott, és én úgy érzem magam, mintha egy színdarab ért volna végéhez, olyasfajta, amilyet franciák tudnak a legjobban írni: kissé szentimentális, egyszerre könnyes és mosolygós. Amint e pohár borral a kezemben üldögélek, végigperegnek előttem az elmúlt események. És most pohárköszöntő kívánkozik ide, lezárásul. Igyunk a Pelikán Klubra, amelynek óvó szárnyai alatt megtanultam megőrizni lélekjelenlétemet, és állni a sarat minden helyzetben, ezenkívül mindig egy hajszálnyival gyorsabban gondolkozni, mint az ellenfelem. Ürítsük poharunkat a Pelikán Klubra” – emeli fel poharát Mr. Galahad Threepwood, Lord Emsworth viharos múltú öccse, a család fekete báránya, egy személyben Blandings jó szelleme, aki minden nehézségen felülkerekedik, a blandingsi kastély mohlepte falai közt dúló viharokat lecsendesíti, a szerető szíveket összeboronálja P. G. Wodehouse-nak, Blandings örökbecsű krónikásának ebben a szívvidító regényben.</p></div>
@@ -41,6 +44,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Haliho%2C%20Jeeves%21%20%28945%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Haliho%2C%20Jeeves%21%20%28945%29/Haliho%2C%20Jeeves%21%20-%20P.%20G.%20Wodehouse.epub)
+
 Összefoglalás:
 Bertram Wooster Londonban és New Yorkban számtalan furcsánál furcsább szituációba kerül a pöttöm Bingó, Agatha néni, valamint más barátok és rokonok elképesztő kalandjai révén, amelyekbôl többnyire az inasok inasa, Jeeves találja meg a ki vezető utat. Pöttöm Bingó állandóan szerelmi lázban ég, hőseink ékszerrablásokba bonyolódnak, Bertie kénytelen szerelmes regények női írójának kiadni magát. Agatha néni pártfogoltját, a „tökfej Cyril”-t pedig a világot jelentő deszkáktól kell megszabadítani. Az események a forrpontot is elérik, amikor a lóversenypályákra vezet hőseink útja, meg a vidéki Anglia falvaiba, ahol nem csak a tiszteletesek prédikációinak időtartamára kötnek fergeteges körülmények között fogadásokat, hanem más, különleges versenyszámokra is.
 
@@ -48,6 +52,7 @@ Bertram Wooster Londonban és New Yorkban számtalan furcsánál furcsább szitu
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Folytassa%2C%20Jeeves%21%20%28502%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Folytassa%2C%20Jeeves%21%20%28502%29/Folytassa%2C%20Jeeves%21%20-%20P.%20G.%20Wodehouse.epub)
+
 Összefoglalás:
 Attól kezdve, hogy Jeeves belép Bertie Wooster életébe, és rendkívül hatékonyan kikúrálja másnaposságából, Bertie el sem tudja képzelni, hogyan is tudott létezni nélküle azelőtt. Jeeves minden téren nélkülözhetetlenné válik: szerencsétlen Bertie-t megszabadítja számtalan nagynénjének karmai közül, valamint a rámenős lányoktól és a hívatlan vendégektől. A csodával határos módon képes mindenkit kihúzni a csávából. Egyszóval Jeeves a komornyikok gyöngye.
 
@@ -55,6 +60,7 @@ Attól kezdve, hogy Jeeves belép Bertie Wooster életébe, és rendkívül hat�
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Gaz%20van%2C%20Jeeves%21%20%28943%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Gaz%20van%2C%20Jeeves%21%20%28943%29/Gaz%20van%2C%20Jeeves%21%20-%20P.%20G.%20Wodehouse.epub)
+
 Összefoglalás:
 Bertie Wooster kényes küldetésben jár Totleigh Towersban, számos korábbi viszontagsága színhelyén: Dahlia nénikéje megbízásából egy XVIII. századbeli műtárgyat, egy ezüsttehénkét készül elemelni házigazdájától, a félelmetes Sir Watkyn Bassett-től. Spode, Sir Watkyn gorilla termetű barátja azonban megneszeli a tervet, és figyelmezteti Bertie-t, hogy meg ne merjen próbálkozni a dologgal, mert ha rajtakapja, laposra veri. E korántsem kecsegtető kilátások közepette lát hősünk munkához, és hajmeresztőbbnél hajmeresztőbb kalamajkákba keveredik. Ám az ördögien leleményes Jeeves a legrázósabb helyzetekből is talál kivezető utat.
 
@@ -62,6 +68,7 @@ Bertie Wooster kényes küldetésben jár Totleigh Towersban, számos korábbi v
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Psmith%20a%20penzvilagban%20%28508%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Psmith%20a%20penzvilagban%20%28508%29/Psmith%20a%20penzvilagban%20-%20P.%20G.%20Wodehouse.epub)
+
 Összefoglalás:
 A Forduljon Psmithhez közkedvelt hősével, a magát minden helyzetben feltaláló, csodálatos ékesszólással megáldott világfival ezúttal életének egy korábbi szakaszában találkozunk: atyja úgy találja helyesnek, ha a fiú a középiskola elvégzése után nem koptatja tovább az iskolapadot, hanem belecsöppen az élet sűrűjébe. Psmith egy londoni bankban ismerkedik a pénzvilággal – méghozzá hűséges „magántitkárának és belső tanácsadójának”, Mike Jacksonnak, a szelíd lelkű krikettfenoménnak a társaságában. Mike-ot nem atyai szeszély, hanem az anyagi kényszer viszi a pénzvilág rögös útjaira, és hogy sértetlenül mászik ki minden csávából, amelybe tapasztalatlansággal párosult jólelkűsége sodorja, azt természetesen csakis a zseniális Psmithnek köszönheti.
 
@@ -69,6 +76,7 @@ A Forduljon Psmithhez közkedvelt hősével, a magát minden helyzetben feltalá
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Kirabol%20a%20komornyikom%20%28506%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Kirabol%20a%20komornyikom%20%28506%29/Kirabol%20a%20komornyikom%20-%20P.%20G.%20Wodehouse.epub)
+
 Összefoglalás:
 Rabolnak-e bankot a komornyikok?, teszi fel a kérdést a könyv egyik szereplője. Mire azonban megkapjuk a választ, sok víz folyik le a vadregényes Papsajt Villa kerti csapján, és sokan megfordulnak a Bond Bankház patinás épületében. Ez utóbbiak nagyrészt azonos céllal: hogy egy jól időzített bankrablással megmentsék a céget a csúfos csődtől. Igaz, a látogatók között akad hamisítatlan bankrabló, sőt egész rablóbanda is, de minderről illetlenség lenne többet elárulni. A zseniális Horace Appleby, a rendíthetetlen Ada Cootes kisasszony, a peches ifjú bankigazgató, Mike Bond, és szívszerelme, a talpraesett Jill számos hajmeresztő, lélegzetelállító, vérfagyasztó – no és természetesen fergetegesen mulatságos kaland során jut le a szokásostól némiképp eltérő happy endig.
 
@@ -76,6 +84,7 @@ Rabolnak-e bankot a komornyikok?, teszi fel a kérdést a könyv egyik szereplő
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Az%20eletmuvesz%20%28500%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Az%20eletmuvesz%20%28500%29/Az%20eletmuvesz%20-%20P.%20G.%20Wodehouse.epub)
+
 Összefoglalás:
 <div>
 <p>A címben szereplő életművész, Stanley Featherstonehaugh Ukridge, ellentétben Wodehouse léhűtő és ütődött ijfú arisztokratáival, agyafúrt észkombájn – de nem kevésbé léhűtő. Szervezőképességét és egyéb zseniális adottságait fantasztikusnál fantasztikusabb tervekre pazarolja – kutyaiskolát nyit; vasöklű, ám hitbuzgó rakodómunkásból igyekszik profi bokszolót nevelni; bajba jutott leánykák hosszú sorának nyújt baráti segítséget, és így tovább – és, amikor minden kötél szakad, mit tehet mást: jobb sorsra érdemes író barátjától, Jummy Corcorantől kölcsönöz (annak tudatával és beleegyezésével vagy anélkül) pénzt, paripát, fegyvert – vagy amire történetesen szüksége van az éppen aktuális kutyaszorítóban…<br>Az életművésznek és barátjának kalandjairól szóló összefüggő elbeszéléssorozatot Révbíró Tamás fordította.</p></div>
@@ -84,6 +93,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Rengeteg%20penz%20%28509%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Rengeteg%20penz%20%28509%29/Rengeteg%20penz%20-%20P.%20G.%20Wodehouse.epub)
+
 Összefoglalás:
 Mit ​tegyen egy londoni fiatalember, ha nincs pénze? Mit tegyen két londoni fiatalember, ha nincs pénze? Mit tegyen két londoni fiatalember, ha nincs pénze, és szerelmes? Mit tegyen két londoni fiatalember, ha nincs pénze, szerelmes, és történetesen a más menyasszonyába szerelmes? Mit tegyen két londoni fiatalember, ha nincs pénze, szerelmes, történetesen a más menyasszonyába szerelmes, és a Gondviselés kifürkésztehetetlen akaratából a világ legremekebb tőzsdetippje kerül a birtokába? Mit tegyen két londoni fiatalmeber, ha nincs pénze, szerelmes, a más menyasszonyába szerelmes, a világ legremekebb tőzsdetippje kerül a birtokába, körülményei azonban megakadályozzák a tipp felhasználásában?… P. G. Wodehouse ezúttal nem az angol arisztokrácia vidéki birtokain, hanem a londoni pénzvilágban és környékén bukdácsoltatja végig hőseit kacagtatónál kacagtatóbb kalandokon, a tőle megszokott kiapadhatatlan humorral. Szerb Antal immár klasszikus fordítása ma is élvezetes olvasmányt kínál mindazoknak, akik már ismerik és szeretik az angol humornak ezt a modern klasszikusát – és azoknak is, akik ezúttal ismerik meg P. G. Wodehouse (1881-1975) nevét és írásait.
 
@@ -91,6 +101,7 @@ Mit ​tegyen egy londoni fiatalember, ha nincs pénze? Mit tegyen két londoni 
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Rengeteg%20penz%20%28944%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Rengeteg%20penz%20%28944%29/Rengeteg%20penz%20-%20P.%20G.%20Wodehouse.epub)
+
 Összefoglalás:
 Mit ​tegyen egy londoni fiatalember, ha nincs pénze? Mit tegyen két londoni fiatalember, ha nincs pénze? Mit tegyen két londoni fiatalember, ha nincs pénze, és szerelmes? Mit tegyen két londoni fiatalember, ha nincs pénze, szerelmes, és történetesen a más menyasszonyába szerelmes? Mit tegyen két londoni fiatalember, ha nincs pénze, szerelmes, történetesen a más menyasszonyába szerelmes, és a Gondviselés kifürkésztehetetlen akaratából a világ legremekebb tőzsdetippje kerül a birtokába? Mit tegyen két londoni fiatalmeber, ha nincs pénze, szerelmes, a más menyasszonyába szerelmes, a világ legremekebb tőzsdetippje kerül a birtokába, körülményei azonban megakadályozzák a tipp felhasználásában?… P. G. Wodehouse ezúttal nem az angol arisztokrácia vidéki birtokain, hanem a londoni pénzvilágban és környékén bukdácsoltatja végig hőseit kacagtatónál kacagtatóbb kalandokon, a tőle megszokott kiapadhatatlan humorral. Szerb Antal immár klasszikus fordítása ma is élvezetes olvasmányt kínál mindazoknak, akik már ismerik és szeretik az angol humornak ezt a modern klasszikusát – és azoknak is, akik ezúttal ismerik meg P. G. Wodehouse (1881-1975) nevét és írásait.
 
@@ -98,6 +109,7 @@ Mit ​tegyen egy londoni fiatalember, ha nincs pénze? Mit tegyen két londoni 
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Hubele%20Samuel%20%28504%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Hubele%20Samuel%20%28504%29/Hubele%20Samuel%20-%20P.%20G.%20Wodehouse.epub)
+
 Összefoglalás:
 Sam Shotter amerikai fiatalember egy újságkivágás alapján beleszeret egy lányba, akinek még a nevét sem tudja: átkel az óceánon, és megtalálja. Egy nagystílű bűnöző, mielőtt külföldre menekülne a bűnüldöző szervek elől, egy kertvárosi villában rejti el utolsó zsákmányát. Volt cinkosai egymást kijátszva próbálják a hatalmas összeget megkaparintani. Fordulatos, izgalmas, mindvégig humoros olvasmány P. G. Wodehouse könyve.
 
@@ -105,6 +117,7 @@ Sam Shotter amerikai fiatalember egy újságkivágás alapján beleszeret egy l�
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Karikacsapas%20%28505%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Karikacsapas%20%28505%29/Karikacsapas%20-%20P.%20G.%20Wodehouse.epub)
+
 Összefoglalás:
 Végy egy Amerikából Angliába származott sonkakirályt, egy nem-is-olyan-gazdag (de annál gőgösebb) szépasszonyt, egy tehetséges (de még annál is pimaszabb) festőművészt, egy bájdús leánykát, aki egyeseket kék szemű egérre, másokat ellenben kínai porcelánfigurára emlékeztet, egy kisportolt komornyikot és bronzvörös menyasszonyát, egy tenorista ambíciókat dédelgető, amúgy elég bugyuta arisztokratát, egy lapátfülű amerikai bokszolót, akiből nagyralátó neje angol urat akar faragni – helyezd mindezeket egy ódon angol kastély mohlepte falai közé, és már indulhat is a hamisítatlan Wodehouse-regény, amely ezúttal sem okoz csalódást a híres angol mulattató magyar híveinek, akik Barabás András szellemes fordításában élvezhetik a Karikacsapást!
 
@@ -112,6 +125,7 @@ Végy egy Amerikából Angliába származott sonkakirályt, egy nem-is-olyan-gaz
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Csirkek%20es%20szerelem%20%28942%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Csirkek%20es%20szerelem%20%28942%29/Csirkek%20es%20szerelem%20-%20P.%20G.%20Wodehouse.epub)
+
 Összefoglalás:
 <div>
 <p>Az életművész, polgári nevén Stanley Featherstonehaugh Ukridge korán felbukkant P. G. Wodehouse életművében, és már akkor úgy viselkedett, mint egy természeti csapás. Hajmeresztő vállalkozásainak sorában a dorsetshire-i csirkefarm kimagasló helyet foglal el, mert a környék kereskedői több mint száz évvel később is elszörnyednek a neve hallatán.<br>A Révbíró Tamás által fordított, magyar nyelven először megjelenő regényben fontos szerepet kap néhány remek Wodehouse-figura, például egy angol író, egy kék szemű ír leány és apja, a dublini professzor; szerepel egy pénzért mindenre kapható csónakos, szerepel továbbá egy rendületlenül higgadt bérenc, annak felesége és kutyája, valamint szerepelni nem szerepel ugyan, de levelet ír egy helybeli leányzó – bár ne tenné, mert nagy bajt okoz vele…</p></div>
@@ -120,6 +134,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Blandings%20es%20videke%20%28941%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Blandings%20es%20videke%20%28941%29/Blandings%20es%20videke%20-%20P.%20G.%20Wodehouse.epub)
+
 Összefoglalás:
 <div>
 <p>A Blandings-kastély repkényes falai ritkán szikráznak olyan fényesen, mint ezekben a csodálatos történetekben – de a hullámzó parkokban kígyók lapulnak, és csak azt várják, hogy bokán harapják Clarence-t, Emsworth szórakozott, kilencedik grófját, akkor, amikor a legkevésbé számít rá.<br>Például Blandings Császárnője, aki a Hízó kategória első díjáért indul a Shropshire-i Mezőgazdasági Vásáron, elveszti étvágyát… aztán ott a vita a főkertésszel, MacAllisterrel… de mindkét problémát megoldja egy bájosan lázadó kislány érkezése Londonból. Legelőször azonban az úritök őrzőjének kínos problémájával kell megbirkózni.<br>Végül átugorva egy óceánt és egy kontinenst, Wodehouse és Mr. Mulliner megismertet minket néhány elképesztő történettel Hollywood aranykorából.</p></div>

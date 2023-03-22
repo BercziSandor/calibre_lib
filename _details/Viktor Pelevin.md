@@ -2,6 +2,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20rovarok%20elete%20%28837%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20rovarok%20elete%20%28837%29/A%20rovarok%20elete%20-%20Viktor%20Pelevin.epub)
+
 Összefoglalás:
 Ez a könyv -amely most ÚJ BORÍTÓVAL jelent meg- volt az ELSŐ magyarul megjelent regénye az 1962-ben született Viktor Pelevinnek, az új orosz írónemzedék fenegyerekének. Gogoli hagyományban gyökerező regényeit és novelláit folyamatosan közlik a folyóiratok, műveit eddig tizenöt nyelvre fordították le. A SZERZŐ 2001-ben a KÖNYVFESZTIVÁL DÍSZVENDÉGE volt.
 Egy krími üdülőhelyen alkoholmérgezést kap a helyi lakosság véréből próbát venni érkezett amerikai szúnyog, hasist szívnak és megvilágosodnak a keleti filozófiáról értekező, nonkonformista éjjeli lepkék, a ganajtúró bogár saját példájával teszi világossá a fia számára, mi az élet értelme, a hangyalány romantikus szerelemről álmodik, de sivár magány lesz a sorsa, egyetlen lánya is elhagyja. És közben ragyognak a csillagok, hullámzik a tenger, születnek és meghalnak a rovaremberek.
@@ -10,6 +11,7 @@ Egy krími üdülőhelyen alkoholmérgezést kap a helyi lakosság véréből pr
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20tervhivatal%20hercege%20-%20Elbeszelese%20%28835%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20tervhivatal%20hercege%20-%20Elbeszelese%20%28835%29/A%20tervhivatal%20hercege%20-%20Elbesze%20-%20Viktor%20Pelevin.epub)
+
 Összefoglalás:
 <p class="description">"Pelevin New Yorktól Moszkváig ma a legolvasottabb orosz író, sõt, az egyik legnépszerûbb európai író."Háy János<br>"Nyugodtan rábízhatjuk magunkat Pelevin mesélõkéjére."<br>Podmaniczky Szilárd<br>"Ott lenni Pelevinnél nem idõfecsérlés, mert elragad a talált világok karneválja, mert hihetetlen bátor ez a fickó, nem pöcsöl a mondatokkal, nem érdekli tetszik-e vagy nem, hogy elvárásoknak megfelel-e vagy nem. Az érdekli, hogy odategye, amit oda akar."<br>Háy János<br>Részlet a könyvbõl:<br>Loading<br>Apró emberi alak szalad a folyosón. Nagy szeretettel rajzolták meg, kissé talán szentimentálisan. Ha megnyomjuk az „Up" billentyût, felugrik, homorít, egy pillanatra megáll a levegõben, és próbál elkapni valamit a feje fölött. Ha a „Down"-t nyomjuk meg, leguggol, és igyekszik felemelni valamit a földrõl. Ha a „Right"-ot nyomjuk meg, jobbra szalad. Ha a „Left"-et, balra. Egyszóval különbözõ billentyûk segítségével lehet irányítani, de ez a négy a legfontosabb.<br>A folyosó, amelyben az emberke szalad, változó. Többnyire valamilyen kõtárna, de néha gyönyörûséges galériává változik, falán keleti díszítésekkel és magas, keskeny ablakokkal. Fáklyák égnek a falon a zsákutcának bizonyuló folyosók végén, a mély aknák fölött átívelõ ingatag hidakon pedig kivont karddal ellenségek állnak - ezekkel harcba száll a kis figura, ha megnyomjuk a „Shift" billentyût. Ha egyszerre több billentyût nyomunk meg, a figura felugrik, hajladozik, vagy inogva egyensúlyoz peremeken, akár nekifutásból át tud ugrani az aknák fölött, melyek alján éles nyársak meredeznek. A játéknak sok szintje van, az alacsonyabbról fel lehet jutni a magasabbra, a magasabbról pedig visszahullani az alacsonyabbra -<br>közben változnak a folyosók, változnak a csapdák, máshogy néznek ki a korsók, amelyekbõl az emberke iszik, hogy fölfrissítse életerejét, de egyébként minden változatlan: az emberke a kõfalak és fáklyák közt szalad, a földön koponyák, a falakon rajzok. <br>A játék célja, hogy eljusson az utolsó szintre, ahol a hercegnõ várja, de ehhez sok idõt kell a játéknak szentelni. Ahhoz, hogy sikeresek legyünk, el kell felejteni, hogy billentyûket nyomogatunk, és át kell változnunk az emberkévé - csak ekkor leszünk olyan ügyesek, hogy képesek legyünk vívni, átugrani a keskeny folyosókon csattogó pengéken, átszökellni az aknák fölött, és végigszaladni a beomló kõlapokon, amelyek csak egy pillanatra tartják meg a test súlyát, bár nincs semmiféle teste a figurának, súlya még kevésbé, mint ahogy, ha jobban belegondolunk, a beszakadó kõlapoknak sincs, bármilyen meggyõzõnek tûnjék is a koppanás, amelyet zuhanásukkal keltenek.</p>
 
@@ -17,6 +19,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%2
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Kristalyvilag%20%28830%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Kristalyvilag%20%28830%29/Kristalyvilag%20-%20Viktor%20Pelevin.epub)
+
 Összefoglalás:
 Ott lenni Pelevinnél nem időfecsérlés, mert elragad a talált világok karneválja, mert hihetetlen bátor ez a fickó, nem pöcsöl a mondatokkal, nem érdekli tetszik-e vagy nem, hogy elvárásoknak megfelel-e vagy nem. Az érdekli, hogy odategye, amit oda akar.
 
@@ -24,6 +27,7 @@ Ott lenni Pelevinnél nem időfecsérlés, mert elragad a talált világok karne
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20hunok%20harmoniaja%20%28826%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20hunok%20harmoniaja%20%28826%29/A%20hunok%20harmoniaja%20-%20Viktor%20Pelevin.epub)
+
 Összefoglalás:
 Minden azzal kezdődött, hogy egyszer napközben Vera életében először nem a létezés értelmén gondolkodott el, mint előtte szinte mindig, hanem a titkán. Ennek az lett az eredménye, hogy beleejtette a rongyot a sötét, szappanos vízzel teli vödörbe, és egy halk „ah” vagy valami „ah”-hoz hasonló hagyta el a torkát. A gondolat váratlan és elviselhetetlen volt, és ami a legfontosabb, semmihez sem kapcsolódott, amit maga körül láthatott – egyszerűen csak az eszébe jutott hirtelen, ott volt a fejében hívatlanul, és ebből a gondolatból az a következtetés adódott, hogy az értelem keresésére fordított szellemi munka sok-sok éve mind elpocsékolt idő volt, mert, lám csak, nem az a lényeg, hanem a titok.
 
@@ -40,6 +44,7 @@ Pelevin új regénye – a szerzőtől meglepő módon – a szerelemről szól.
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20Sarga%20Nyil%20%28828%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20Sarga%20Nyil%20%28828%29/A%20Sarga%20Nyil%20-%20Viktor%20Pelevin.epub)
+
 Összefoglalás:
 A ​Sárga Nyíl mintha egy tömegtársbérletben játszódna. Aztán kiderül, hogy minden egy végtelen hosszúságú, nem tudni, mikor, hogyan keletkezett, hová (talán egy lerombolt híd felé?) száguldó vonaton történik.
 A főhős – egyike azon keveseknek, akik egyáltalán felfogják, hogy egy vonaton utaznak – élve akar leszállni róla. Tudja, hogy ez lehetetlen, s mégis ezt akarja, „mert bármi mást akarni egyszerűen őrültség”. És egyszer, ismeretlen okból, váratlanul megáll a vonat…
@@ -50,6 +55,7 @@ A Hírek Nepálból és a Buldózeristák napja visszavarázsol minket a kései 
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Empire%20%27V%27%20%28829%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Empire%20%27V%27%20%28829%29/Empire%20%27V%27%20-%20Viktor%20Pelevin.epub)
+
 Összefoglalás:
 Roman ​Storkinnak keze-lába egy bordásfalhoz van kötözve, és nem tudja, mi történt vele – csak azt, hogy egy álarcos őrülttel tartózkodik egy szobában. Ráadásul egy perverz őrülttel, aki közli vele, hogy ő vámpír, Brahmának hívják, és hősünket választotta ki, hogy az utódjává változtassa.
 Szegény Roman eddig egy áruházban dolgozott, és reménye sem volt rá, hogy belekóstoljon a „glamourba”, a színes magazinokban ábrázolt édes életbe. Egyszer, szomorúan kóborolva Moszkvában, meglátott egy feliratot: „Reális esély bekerülni az elitbe. 06. 22. 18.40 – 18.55. Második esély nem lesz.” Ostoba viccnek gondolta, de azért bement. Épp annyi idő volt. És ki tudja…
@@ -60,6 +66,7 @@ Romannak – immár II. Rama néven – sok mindent meg kell tanulnia, hogy igaz
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/P5%20-%20Pindosztan%20politikai%20pigmeusai%20%28832%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/P5%20-%20Pindosztan%20politikai%20pigmeusai%20%28832%29/P5%20-%20Pindosztan%20politikai%20pigme%20-%20Viktor%20Pelevin.epub)
+
 Összefoglalás:
 Figyelem! ​A könyv a harci NLP technikáinak felhasználásával készült.
 Based on true story
@@ -72,6 +79,7 @@ S mindezen kalandok mögött ott van annak az új orosz valóságnak a képe, am
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20rettenet%20sisakja%20%28827%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20rettenet%20sisakja%20%28827%29/A%20rettenet%20sisakja%20-%20Viktor%20Pelevin.epub)
+
 Összefoglalás:
 „Miért ​van a Minótaurosznak bikafeje? És mi jár az eszében, milyen az észjárása? Thészeusz bent van-e a labirintusban? Sokan állították, hogy birtokában vannak az igazságnak. Ám mindezidáig senki nem találta meg a labirintusból kivezető utat. Úgyhogy kellemes sétát. És ha összefutnának a Minótaurosszal, semmiképp ne mondják, hogy MÚÚÚÚÚ! Az ilyesmi kimondottan sértő.” Az agyag géppuska és A rovarok élete szerzőjének új kötete a Minótaurosz és a labirintus témájának merészen XXI. századi feldolgozása. Helyszíne nem más, mint a kibertér, melyben egy maroknyi csoport tagjai egy nap arra ébrednek, hogy megmagyarázhatatlan módon egy internetes útvesztőben találják magukat. Csak számítógép útján tudnak érintkezni egymással, egy közös csevegőszobában, és felfedezéseiket így megosztva próbálnak értelmet találni a különös helyzetben. Egy idő után többen kimerészkednek szobájukból, ám odakint félelmetes és riasztó tapasztalatok várnak rájuk… melyek középpontjában a Rettenet Sisakja áll. Vajon beletörődnek-e, hogy az áradó információ világában a megismerés végső soron hiú remény?
 
@@ -79,6 +87,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%2
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Az%20agyag%20geppuska%20%28834%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Az%20agyag%20geppuska%20%28834%29/Az%20agyag%20geppuska%20-%20Viktor%20Pelevin.epub)
+
 Összefoglalás:
 Az ​elmúlt évek orosz irodalmának legnagyobb világsikere Az agyag géppuska, s az orosz Playboy szerint ez a XX. század második felének legjobb orosz regénye. Főhőse, Pjotr Puszta egy elmegyógyintézet lakója valamikor a kilencvenes években, s „hamis személyisége” szerint valójában a tizenhetes forradalom után, a polgárháborús Oroszországban él, éspedig ő Csapajev híres komisszárja, Petyka. A két valóságszint a regényben egyenlő mértékben valós (vagy virtuális): hol az elmegyógyintézeti ápoltak között vagyunk, hol a polgárháborús frontokon, ahol Csapajev és Petyka mély filozófiai beszélgetéseket folytat (a regénybeli Csapajev ugyanis nem annyira egy vörös hadvezér, mint inkább keleti guru). A mintegy számítógépes virtuális valóságokat létrehozó mű azonban a részleteiben vaskosan s gyakran parodisztikusan realista: Pelevin remekül ábrázolja mind a polgárháború Oroszországát, mind az elmegyógyintézet világát, ahol Pjotr a többi beteg hallucinációit is végighallgatja, s ezek betétnovellaként szerepelnek a műben – az egyik ilyen például egy mexikói szappanoperahős, Maria és Arnold Schwarzenegger szürreális kalandjait meséli el.
 
@@ -86,6 +95,7 @@ Az ​elmúlt évek orosz irodalmának legnagyobb világsikere Az agyag géppusk
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Generation%20P%20%28831%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Generation%20P%20%28831%29/Generation%20P%20-%20Viktor%20Pelevin.epub)
+
 Összefoglalás:
 Babilen ​Tatarszkij a szovjet rendszer utolsó éveiben eredetileg költőnek készül, de amikor egyszercsak eltűnik a világból az „örökkévalóság” fogalma (s így mindenféle költészet értelmetlenné válik), a villámgyors meggazdagodással kecsegtető orosz reklámbizniszben talál munkát. Mivel a regénybeli Oroszországban már régóta nem termelnek semmit, külföldi termékekhez kell megtalálnia az orosz kulturális sajátosságokhoz legjobban illő jelképeket és szövegeket. S miközben Tatarszkij próbálja kiismerni a bizarr posztkommunista világot, melyet átszőnek a maffiakapcsolatok, még különösebb jelenségekkel kerül kapcsolatba: hol Che Guevara szelleme tart neki előadást a modern reklám filozófiájáról, hol az ókori Babilon mítoszai elevenednek meg kábítószeres hallucinációi során, s fejtik ki hatásukat mai világunkban. Tatarszkij végül ahhoz a céghez kerül, amely az orosz politikai életet „gyártja” – annak vezetői ugyanis, Jelcin, Lebegy, Zjuganov és a többiek már csak számítógépes animációval alkotott virtuális lények, csak a tömegmédiumokban léteznek, s mellesleg nagy nyugati cégek hatékony reklámfigurái. S ugyanakkor hasztalan minden erőfeszítés, hogy Tatarszkij – vagy bárki más – megtudja, milyen érdekek mozgatják ezt a világot, s kik döntenek arról, hogy milyen valóságot kell kreálni. Csak a szörnyű sejtelem lebeg minden fölött, hogy ez immár a világvége kezdete, mely „egyszerű tévéadás lesz”. S mint Che Guevara szelleme mondja: az isteni kegyelem „abban nyilvánul meg, hogy krematóriumok helyett televízióitok és szupermarketjeitek vannak”.
 

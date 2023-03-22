@@ -2,6 +2,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Lily%20Blake/Hofeher%20es%20a%20vadasz%20%28618%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lily%20Blake/Hofeher%20es%20a%20vadasz%20%28618%29/Hofeher%20es%20a%20Vadasz%20-%20Lily%20Blake.epub)
+
 Összefoglalás:
 <div>
 <p>SORSA ​ELRENDELTETETT… VÉGEZ VELE A KIRÁLYNŐ, VAGY A VADÁSZ HARCOST NEVEL BELŐLE.<br>Tíz évvel ezelőtt a gyönyörű, ám gonosz Ravenna esküvője éjszakáján meggyilkolta férjét, a királyt. Ám a királyság irányítása kezdi felemészteni erejét. Hogy szépsége és varázsereje megmaradjon, egy fiatal, tiszta szívre van szüksége. A király lányáéra, akit mindvégig rabságban tartott.<br>Ravenna megparancsolja, hogy vigyék elébe a kastélyban fogolyként élő Hófehért, ám a lánynak sikerül megszöknie, és a Sötét Erdőben keres menedéket. Az Erdőt azonban varázserővel bíró növények és veszedelmes állatok lakják, ezért Ravenna az egyetlen olyan embert küldi a hercegnő nyomába, aki korábban már visszatért onnan – Ericet, a sok sorscsapást megélt Vadászt.<br>A minden reményét elvesztett férfi, beleegyezik, hogy visszahozza a lányt. Ám amikor rátalál zsákmányára, elbizonytalanodik. Ölje meg?<br>Vagy képezze ki olyan harcossá, amilyet még nem látott a királyság?<br>A LEGENDÁS MESÉNEK EBBEN A LÉLEGZETELÁLLÍTÓ, ÚJ FELDOLGOZÁSÁBAN HÓFEHÉRNEK MAGÁNAK KELL MEGTALÁLNIA A BOLDOGULÁS ÚTJÁT.</p></div>

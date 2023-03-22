@@ -2,6 +2,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Frederick%20Forsyth/Profi%20munka%20%28775%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Frederick%20Forsyth/Profi%20munka%20%28775%29/Profi%20munka%20-%20Frederick%20Forsyth.epub)
+
 Összefoglalás:
 <p class="description">A milliomos sikerember szenvedélyes szerelemre gyullad, és elhatározza, hogy megöleti az asszony férjét… Az Írországban tanuló indiai diák rettenetes bosszúra készül az őt gúnyoló és megalázó ír munkavezető ellen… A jámbor banktisztviselő és papucs férj életét gyökeresen megváltoztatja egy tengeri horgászat… Az ártatlanul megrágalmazott hiába keres törvényes úton elégtételt, fortéllyal segít hát magán… A törvényszéki bíró meglepő körülmények között találkozik vonatbeli útitársával és kártyapartnerével… Egy dúsgazdag, rákbeteg üzletember páratlan leleménnyel juttatja vagyonát az arra legérdemesebbeknek… A fiatal ír házaspár kocsija lerobban a francia hegyvidéken, és alkalmi szállásukon megrázó élmény vár rájuk… A lebontásra ítélt ház falában mumifikálódott női holttestre bukkannak… Frederick Forsyth, A sakál napja és más nagyszabású politikai krimik világhírű írója e kötetében bebizonyítja, hogy az elbeszélés műfajának is felülmúlhatatlan mestere. Pergő és izgalmas meseszövés, a történések feszültsége és drámaisága, a mindig váratlan és meglepő, hihetetlenül szellemes megoldás elbűvöli és sokkolja az olvasót, és nemcsak a krimik borzongató izgalmát, hanem a remekbe szabott írásmű szellemi élvezetét is kínálja neki.</p>
 
@@ -16,6 +17,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Frederic
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Frederick%20Forsyth/Az%20ordog%20alternativaja%20%2843%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Frederick%20Forsyth/Az%20ordog%20alternativaja%20%2843%29/Az%20ordog%20alternativaja%20-%20Frederick%20Forsyth.epub)
+
 Összefoglalás:
 <p class="description">„Jó tíz napja repült ide Londonból, hogy átvegye megbízatását. Ezalatt az évszázad egyik legnagyobb kémkedési ügyét csípte meg, az egyetlen olyan ügynököt futtatva, aki valaha is a Kreml szívében működött… Még három hét, és az asszony kijut innen, a biztonságot jelentő Londonba. Ő is abbahagyja, visszavonul a szolgálattól, s új életet kezd az egyetlen emberrel, akit szeret…” Egyszerre kémtörténet, politikai krimi és a tiszta szándékaiban is gyilkos terrorizmus kórképe, de mindenekelőtt letehetetlen, szuperizgalmas regény. Valóság és fikció ötvöződik benne, dörögnek a fegyverek Oroszország szívében és az Északi-tengeren. KGB-ügynökök és nyugati biztonsági emberek viaskodnak egymással, pillanatokon és ördögi cselvetéseken múlik a világ sorsa, de a zseniális, piszkos trükk beválik, csak egy ember válik boldogtalanná…</p>
 

@@ -2,6 +2,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jostein%20Gaarder/A%20kartya%20titka%20%281410%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jostein%20Gaarder/A%20kartya%20titka%20%281410%29/A%20kartya%20titka%20-%20Jostein%20Gaarder.epub)
+
 Összefoglalás:
 <p>Jostein ​Gaarder nevét a Sofie világa című, gyerekeknek írt filozófiatörténete tette világszerte ismertté. A kártya titka is filozófiai kérdéseket boncolgat, s elsősorban arra keresi a választ, hogy kik vagyunk valójában, és honnan jöttünk. A regény kamasz hőse, Hans Thomas Görögország felé utazik édesapjával, hogy megkeressék a fiú édesanyját, aki elhagyta őket. Az utazás egyik állomásán a városka öreg pékmestere négy zsömlét ad Hans Thomasnak, aki az egyik zsömlében titokzatos könyvet talál. A zsömlekönyv rejtélyes családregény, s Hans Thomas lassan rájön, hogy a saját családtörténetét olvassa. Megtudja, hogy kik voltak a nagyszülei, hogyan találtak egymásra szülei, s miért hagyta el őket az édesanyja. Különös kártyajáték folyik: 52 kártyalap elevenedik meg, hogy Hans Thomas megérthesse, ki is ő valójában, s ki az a titokzatos Joker, aki „túl sokat gondolkodik, s túl sokat tud”. Miközben a fiú maga is résztvevője, szereplője lesz a családregénynek, útjuk is a végéhez ér: de vajon sikerül-e hazavinni a gyönyörű mamát? Ő vajon tudja-e, hogy kicsoda is tulajdonképpen, s tudja-e már Apa, Hans Thomas, s tudjuk-e mi is, mindannyian?</p>
 
