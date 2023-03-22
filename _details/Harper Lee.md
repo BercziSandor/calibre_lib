@@ -1,10 +1,10 @@
 # <a name="id_987">Harper Lee: Ne bántsátok a feketerigót! (2003)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Harper%20Lee/Ne%20bantsatok%20a%20feketerigot%21%20%28987%29/cover.jpg" alt="cover" width="300"/>
 
-## Letöltés:
+### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Harper%20Lee/Ne%20bantsatok%20a%20feketerigot%21%20%28987%29/Ne%20bantsatok%20a%20feketerigot%21%20-%20Harper%20Lee.epub)
 
-## Összefoglalás:
+### Összefoglalás
 <div>
 <p>A ​Ne bántsátok a feketerigót! írónőjét feltételezhetően nem kis mértékben ihlették személyes élményei regénye megírásakor. Ezt nemcsak abból a tényből következtethetjük, hogy a regény cselekménye Alabama államban játszódik le, ahol a szerző maga is született, hanem más életrajzi adatokból is. Mint az eseményeket elbeszélő regénybeli leánykának, az írónőnek is ügyvéd volt az édesapja. Harper Lee gyermek- és ifjúkorát szülőföldjén töltötte, ahol valóban realitás mindaz, amit regényében ábrázol, és ez a valóság vérlázító. A regénybeli alabamai kisvárosban ugyanis feltűnésszámba megy az olyan megnyilvánulás, amely a négerek legelemibb jogainak elismerését célozza, különcnek számít az olyan ember, aki síkra mer szállni a színesbőrűek érdekei mellett. A regény egyik legnagyobb érdeme éppen abban van, hogy sikerül erős érzelmi hozzáállást kiváltania az emberi egyenjogúság megvalósítását célző eszme mellett. Harper Lee a középiskola elvégzése után jogtudományt tanul. Egy évig Oxfordban diákoskodik ösztöndíjasként, aztán Alabamában folytatja tovább tanulmányait. Mint az egyetem folyóiratának szerkesztője, itt kerül először kapcsolatba az irodalommal. Tanulmányai befejezése után New Yorkba költözik, de nem folytat ügyvédi gyakorlatot, hanem különböző szerkesztőségekben dolgozik, sőt egy időben tisztviselői munkát vállal egy légiforgalmi társaságnál. A Ne bántsátok a feketerigót! 1960-ban jelent meg, a következő évben Pulitzer-díjjal tüntették ki. A regényt számos nyelvre lefordították, s talán nem érdektelen az sem, hogy a belőle készült film is hatalmas sikert aratott.</p></div>
 

@@ -1,10 +1,10 @@
 # <a name="id_1523">Szilágyi Vilmos: Intimkapcsolat kézikönyve (1994)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szilagyi%20Vilmos/Intimkapcsolat%20kezikonyve%20%281523%29/cover.jpg" alt="cover" width="300"/>
 
-## Letöltés:
+### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szilagyi%20Vilmos/Intimkapcsolat%20kezikonyve%20%281523%29/Intimkapcsolat%20kezikonyve%20-%20Szilagyi%20Vilmos.epub)
 
-## Összefoglalás:
+### Összefoglalás
 <div>
 <p>Buda ​Béla előszavával jelent meg magyar nyelven és magyar szerzőtől a napjainkig legigényesebb könyv a szexkultúráról, és a szexuális nehézségekről.<br>A könyv tematikáját, témáit illetve átfogó, széles körű. Szakmailag igényes, tudományosan megalapozott. Ezért nem csak az érdeklődő laikusoknak, de szakembereknek is ajánlom. A szerző fellép a téves képzetek és előítéletek ellen. Túllép ezen akkor, amikor erkölcsi kérdésekbe bonyolódik például a Szerelemmel – vagy anélkül? és a Nyitott partnerkapcsolatok fejezetekben. Ez utóbbiakban nem csak tudományos ismereteket, hanem személyes értékítéleteket közvetít.<br>Szexuális kultúránk gazdagítása mellett tör lándzsát, amikor szót emel a közösülés-központúság ellen. A hangsúly kerüljön át a pettingre és előjátékra!<br>Megérthetjük, miért tanult készség a női orgazmus elérése. Miért fontos az önkielégítés és annak módja. A férfiaknál is találkozunk előítéletekkel, pl. a hímvessző méretét illetőleg. Újszerű információkat kapunk a nő hüvelyi G foltjának ingerelhetőségéről. Részletes leírást olvashatunk a petting technikájáról.<br>Megtudhatjuk, hogy a férfiak többszörös orgazmusa kultúránkban idegen, mert egyfajta szellemi, vallási ráhangolódást feltételez. A féltékenység a szerző értelmezésében mindig kóros.<br>A nyitott partnerkapcsolatok kérdésében már két könyvet is írt Szilágyi Vilmos, szakmai és laikus körökben egyaránt nagy felbolydulást keltve. A mi zsidó-keresztény alapokon nyugvó kultúránk nehezen fogadja el a külső parakapcsolatokat, a paráználkodást.<br>Külön szakasz foglalkozik a szexuális funkciózavarok értékelésével és kezelésével. Ez az egyik legmodernebb, leghatékonyabb része a könyvnek.<br>A gyakorlatomban, sok kliensemnek, kollégáim között sok érdeklődőnek ajánlom ezt az igazán színvonalas könyvet a szexkultúra témakörében.<br>Molnár Tamás<br>szexuálpszichológus</p></div>
 

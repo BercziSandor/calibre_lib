@@ -1,10 +1,10 @@
 # <a name="id_379">Gary Chapman: Egymásra hangolva (2018)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gary%20Chapman/Egymasra%20Hangolva%20%28379%29/cover.jpg" alt="cover" width="300"/>
 
-## Letöltés:
+### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gary%20Chapman/Egymasra%20Hangolva%20%28379%29/Egymasra%20hangolva%20-%20Gary%20Chapman.epub)
 
-## Összefoglalás:
+### Összefoglalás
 <div>
 <p>„A ​szeretet nyelve egyetemes. Ám ahányan vagyunk, annyiféle nyelvjárást beszélünk.”<br>Gary Chapman<br>Gary Chapman amerikai pszichológus nevét az általa alkotott „szeretetnyelvek” fogalma tette világhírűvé. Legismertebb könyve, melynek témája a szeretet kommunikációja a házasságban, több mint tízmillió példányban kelt el világszerte.<br>Chapman család- és párterapeutaként szerzett több évtizedes tapasztalata alapján arra a felismerésre jutott, hogy a szeretetet ugyanúgy tanuljuk, mint az anyanyelvünket, és a szeretetközlés alapvetően ötféle kommunikációs csatornán keresztül történik. A szeretet kifejezésének ez az öt módja: elismerő szavak, minőségi idő, ajándékozás, szívességek, testi érintés.<br>Mindannyian azon a nyelven fogadjuk be és fejezzük ki a szeretetet, amelyre neveltetésünk és személyes hajlamaink nyomán a legfogékonyabbá váltunk. Ezért fordul gyakran elő, hogy az üzenet küldője és befogadója nem érti meg egymást. Ilyenkor panaszolja a férj, hogy hiába vesz virágot a feleségének, csak egy erőltetett mosoly a válasz. „Talán már nem szeret?” – teszi fel magának a kérdést, holott csak arról van szó, hogy szeretetközlése nem ért célba, mert a felesége nem az ajándékok, hanem a minőségi idő nyelvén ért.<br>Mi tehát a megoldás? Aki nem riad vissza egy kis nyelvtanulástól, könnyen ráhangolódhat társa, családtagja, barátai szeretetnyelvére.<br>Fedezze fel szeretetnyelvét a könyvben található teszt kitöltésével.</p></div>
 

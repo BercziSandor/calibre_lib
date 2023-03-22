@@ -1,19 +1,19 @@
 # <a name="id_1521">Krusovszky, Dénes: A fiúk országa (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Krusovszky%2C%20Denes/A%20fiuk%20orszaga%20%281521%29/cover.jpg" alt="cover" width="300"/>
 
-## Letöltés:
+### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Krusovszky%2C%20Denes/A%20fiuk%20orszaga%20%281521%29/A%20fiuk%20orszaga%20-%20Krusovszky%2C%20Denes.epub)
 
-## Összefoglalás:
+### Összefoglalás
 <div>
 <p>Krusovszky Dénest, a fiatal generáció kiemelkedő alkotóját eddig költőként ismerhettük. A fiúk országa az első novelláskötete: nem szárnypróbálgatás egy új műfajban, nem egyszeri kaland, mert a szerző máris kész prózaíróként lép elénk. Pontos történeteket alkot fiúkról és férfiakról. Problémaérzékeny, éles a tekintete: legyen szó egy család széthullásáról, a párkapcsolatok dinamikájáról, a művészi ambíciók és a polgári élet összeegyeztetésének nehézségeiről. Nem a kényelmes utat választja. Nem fűzi fel a történeteit egyetlen szálra. Minden egyes írásában új világokat fedez fel, a járt utat járatlanra cserélve. Novellái intellektuálisak, higgadtak, érzékenyek. Lélektani látleletek, önmagukkal is vívódó emberekről. Gyönyörről, szorongásról, szerelemről, halálról. Közelmúltról és jelenről, hazai és idegen tájakról.</p></div>
 
 # <a name="id_1520">Krusovszky, Dénes: Akik már nem leszünk sosem (2018)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Krusovszky%2C%20Denes/Akik%20mar%20nem%20leszunk%20sosem%20%281520%29/cover.jpg" alt="cover" width="300"/>
 
-## Letöltés:
+### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Krusovszky%2C%20Denes/Akik%20mar%20nem%20leszunk%20sosem%20%281520%29/Akik%20mar%20nem%20leszunk%20sosem%20-%20Krusovszky%2C%20Denes.epub)
 
-## Összefoglalás:
+### Összefoglalás
 Krusovszky Dénes nemzedékének egyik legjelentősebb költője. Első regénye generációkon és országhatárokon átívelő történet. 1990-ben Iowa City határában egy férfi halálos autóbalesetet szenved. 2013-ban egy fiatalember egy veszekedés utáni hajnalon hirtelen felindulásból elindul Budapestről kamaszkora kisvárosa felé. 1986-ban egy tüdőbénult beteg és ápolója egy vidéki szanatóriumban magnóra veszi a férfi vallomását gyerekkora sorsdöntő pillanatáról. 1956. október 26-án egy kisváros forradalmi tüntetése váratlanul pogromba fordul. 2013 nyarán egy lakodalmi éjszaka különös fordulatot vesz, 2017-ben pedig a mozaikkockák mintha összeállni látszanának, még ha a kép, amit kiadnak, nem is feltétlenül az, amire szemlélői számítanak. Az Akik már nem leszünk sosem nemcsak a személyes és a társadalmi emlékezetről, de a továbbélésről is szól. Hogyan határozzák meg jelenünket a talán nem is ismert múltbeli történetek, és hogyan tudunk velük együtt felelős, szabad felnőtteké válni.
 

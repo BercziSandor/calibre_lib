@@ -1,10 +1,10 @@
 # <a name="id_1290">Orvos-Tóth, Noémi: Örökölt sors (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Orvos-Toth%2C%20Noemi/Orokolt%20sors%20%281290%29/cover.jpg" alt="cover" width="300"/>
 
-## Letöltés:
+### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Orvos-Toth%2C%20Noemi/Orokolt%20sors%20%281290%29/Orokolt%20sors%20-%20Orvos-Toth%2C%20Noemi.epub)
 
-## Összefoglalás:
+### Összefoglalás
 <div>
 <p>Amikor ​elkezdjük kutatni elakadásaink, szorongásaink, elhibázott párkapcsolataink, ismétlődő kudarcaink okát, gyakran kiderül, hogy saját életünk történései nem adnak megfelelő magyarázatot. Ilyenkor érdemes a tágabb perspektívát is megvizsgálni, és szüleink, nagyszüleink vagy akár a még korábbi generációk életeseményeit is feltárni.<br>A legtöbb esetben döbbenten tapasztaljuk majd – amit a modern kutatások eredményei is igazolnak –, hogy felmenőink traumái, feldolgozatlan félelmei, kapcsolati törései még a halálukkal sem enyésznek el, hanem bennünk élnek tovább. Az egykori háborús üldöztetés a mi életünkben depresszió formájában jelentkezik, a kitelepítés traumája állandó bizalmatlanságban, az árván maradt dédmama kötődési vesztesége párkapcsolati kudarcokban, az öngyilkos nagypapa eltitkolt története pánikzavarban – hogy csak néhány lehetséges példát említsek.<br>Számomra ma már egyértelmű, hogy egyetlen ember sorsa sem érthető meg transzgenerációs szemlélet nélkül. Ha szeretnénk megszabadulni kínzó tüneteinktől, vagy megváltoztatni zavaró viselkedési és érzelmi mintáinkat, fel kell tárnunk családunk múltját.<br>Ez gyakran nem egyszerű feladat, mert sok titkot, kimondatlan feszültséget hurcolunk magunkkal, és adunk tovább generációról generációra. A tabutémák pedig megakadályozzák, hogy egészségesen és őszintén kapcsolódjunk egymáshoz és önmagunkhoz.<br>Ebben a könyvben szeretném végigvezetni az olvasót egy transzgenerációs önismereti úton, hogy saját életében tetten érhesse és helyrehozhassa a múltból megörökölt negatív érzelmi viszonyulásokat és viselkedési mintákat.</p></div>
 
