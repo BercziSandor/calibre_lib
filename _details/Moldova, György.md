@@ -64,9 +64,6 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Kadar%20Janos%202_%20%28371%29/Kadar%20Janos%202_%20-%20Moldova%2C%20Gyorgy.epub)
 
-Összefoglalás:
-
-
 #### <a name="id_370">Moldova, György: Kádár János (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Kadar%20Janos%20%28370%29/cover.jpg" alt="cover" width="300"/>
 
@@ -124,9 +121,6 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Kadar%20Janos%202_%20%281406%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Kadar%20Janos%202_%20%281406%29/Kadar%20Janos%202_%20-%20Moldova%2C%20Gyorgy.epub)
-
-Összefoglalás:
-
 
 #### <a name="id_1364">Moldova, György: Akar velem beszélgetni? (1977)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Akar%20velem%20beszelgetni_%20%281364%29/cover.jpg" alt="cover" width="300"/>

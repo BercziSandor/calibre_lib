@@ -96,24 +96,15 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Vesztegzar%20a%20Grand%20Hotelben%20%3B%20A%20Szo%20%28125%29/Vesztegzar%20a%20Grand%20Hotelben%20%3B%20A%20-%20Rejto%2C%20Jeno.epub)
 
-Összefoglalás:
-
-
 #### <a name="id_154">Rejtő, Jenő: Vesztegzár a Grand Hotelben ; A Szőke Ciklon (1989)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Vesztegzar%20a%20Grand%20Hotelben%20%3B%20A%20Szo%20%28154%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Vesztegzar%20a%20Grand%20Hotelben%20%3B%20A%20Szo%20%28154%29/Vesztegzar%20a%20Grand%20Hotelben%20%3B%20A%20-%20Rejto%2C%20Jeno.epub)
 
-Összefoglalás:
-
-
 #### <a name="id_136">Rejtő, Jenő: A pokol zsoldosai / Az utolsó szó jogán (1991)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/A%20pokol%20zsoldosai%20_%20Az%20utolso%20szo%20j%20%28136%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/A%20pokol%20zsoldosai%20_%20Az%20utolso%20szo%20j%20%28136%29/A%20pokol%20zsoldosai%20_%20Az%20utolso%20s%20-%20Rejto%2C%20Jeno.epub)
-
-Összefoglalás:
-
 
 #### <a name="id_155">Rejtő, Jenő: Trópusi Pokol/Az Ellopott Század/Vissza a Pokolba! (1993)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Tropusi%20Pokol_Az%20Ellopott%20Szazad_Vissza%20a%20Pokolba%21%20%28155%29/cover.jpg" alt="cover" width="300"/>
@@ -128,17 +119,11 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Texas%20Bill%2C%20a%20Fenegyerek%20%28151%29/Texas%20Bill%2C%20a%20Fenegyerek%20-%20Rejto%2C%20Jeno.epub)
 
-Összefoglalás:
-
-
 #### <a name="id_141">Rejtő, Jenő: Egy görbe éjszaka + Szerencsés utat + Aki mer, az nyer (1997)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Egy%20gorbe%20ejszaka%20_%20Szerencses%20utat%20%28141%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Egy%20gorbe%20ejszaka%20_%20Szerencses%20utat%20%28141%29/Egy%20gorbe%20ejszaka%20_%20Szerencses%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub) 
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Egy%20gorbe%20ejszaka%20_%20Szerencses%20utat%20%28141%29/Egy%20gorbe%20ejszaka%20_%20Szerencses%20-%20Rejto%2C%20Jeno.epub)
-
-Összefoglalás:
-
 
 #### <a name="id_137">Rejtő, Jenő: Bedekker csavargók számára (2003)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Bedekker%20csavargok%20szamara%20%28137%29/cover.jpg" alt="cover" width="300"/>

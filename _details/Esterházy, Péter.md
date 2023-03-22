@@ -19,9 +19,6 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Esterhaz
 #### <a name="id_1512">Esterházy, Péter: Termelési-regény: kisssregény : regény (2004)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Esterhazy%2C%20Peter/Termelesi-regeny_%20kisssregeny%20_%20reg%20%281512%29/cover.jpg" alt="cover" width="300"/>
 
-Összefoglalás:
-
-
 #### <a name="id_1020">Esterházy, Péter: A szív segédigéi (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Esterhazy%2C%20Peter/A%20sziv%20segedigei%20%281020%29/cover.jpg" alt="cover" width="300"/>
 

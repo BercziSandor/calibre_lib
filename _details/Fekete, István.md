@@ -40,17 +40,11 @@ Olvadásszagú tavaszban hazalátogat szülőfalujába a már húsz éve távol 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Derengo%20hajnal_%20regeny%20%28727%29/Derengo%20hajnal_%20regeny%20-%20Fekete%2C%20Istvan.epub) 
  [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Derengo%20hajnal_%20regeny%20%28727%29/Derengo%20hajnal_%20regeny%20-%20Fekete%2C%20Istvan.pdf)
 
-Összefoglalás:
-
-
 #### <a name="id_737">Fekete, István: Regi Karacsony: Elbeszelesek (Uj Ember Konyvek) (Hungarian Edition) (1995)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Regi%20Karacsony_%20Elbeszelesek%20%28Uj%20Em%20%28737%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Regi%20Karacsony_%20Elbeszelesek%20%28Uj%20Em%20%28737%29/Regi%20Karacsony_%20Elbeszelesek%20%28U%20-%20Fekete%2C%20Istvan.epub) 
  [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Regi%20Karacsony_%20Elbeszelesek%20%28Uj%20Em%20%28737%29/Regi%20Karacsony_%20Elbeszelesek%20%28U%20-%20Fekete%2C%20Istvan.pdf)
-
-Összefoglalás:
-
 
 #### <a name="id_734">Fekete, István: Kittenberger Kálmán élete (2001)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Kittenberger%20Kalman%20elete%20%28734%29/cover.jpg" alt="cover" width="300"/>

@@ -264,9 +264,6 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%2
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Ellopott%20gyilkossag%20%2867%29/Ellopott%20gyilkossag%20-%20Agatha%20Christie.epub)
 
-Összefoglalás:
-
-
 #### <a name="id_65">Agatha Christie: Eljöttek Bagdadba (2013)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Eljottek%20Bagdadba%20%2865%29/cover.jpg" alt="cover" width="300"/>
 

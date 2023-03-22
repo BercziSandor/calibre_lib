@@ -3,9 +3,6 @@
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ismeretlen/Az%20Ortorony%20betanitasi%20eljarasa%20%28156%29/Az%20Ortorony%20betanitasi%20eljarasa%20-%20Ismeretlen.epub)
 
-Összefoglalás:
-
-
 #### <a name="id_472">Ismeretlen: Kató mint asszony (101)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ismeretlen/Kato%20mint%20asszony%20%28472%29/cover.jpg" alt="cover" width="300"/>
 

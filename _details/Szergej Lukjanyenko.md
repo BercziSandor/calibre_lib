@@ -19,9 +19,6 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szergej%
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szergej%20Lukjanyenko/Uj%20Orseg%20%28458%29/Uj%20Orseg%20-%20Szergej%20Lukjanyenko.epub)
 
-Összefoglalás:
-
-
 #### <a name="id_461">Szergej Lukjanyenko: Éjszakai őrség (2006)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szergej%20Lukjanyenko/Ejszakai%20orseg%20%28461%29/cover.jpg" alt="cover" width="300"/>
 

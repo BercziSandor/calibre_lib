@@ -3,6 +3,3 @@
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Torai%2C%20Gabor/Tedd%20rendbe%20az%20eleted%21%20%2847%29/Tedd%20rendbe%20az%20eleted%21%20-%20Torai%2C%20Gabor.epub)
 
-Összefoglalás:
-
-

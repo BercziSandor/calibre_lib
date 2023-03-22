@@ -18,9 +18,6 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20V
 #### <a name="id_747">Vonnegut, Kurt: Beszámoló a Barnhouse-effektusról (101)</a>
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vonnegut%2C%20Kurt/Beszamolo%20a%20Barnhouse-effektusrol%20%28747%29/Beszamolo%20a%20Barnhouse-effektusr%20-%20Vonnegut%2C%20Kurt.epub)
 
-Összefoglalás:
-
-
 #### <a name="id_1618">Vonnegut, Kurt: Gépzongora (1951)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut%20Jr_/Gepzongora%20%281618%29/cover.jpg" alt="cover" width="300"/>
 
@@ -35,9 +32,6 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20V
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Harrison%20Bergeron%20%28748%29/Harrison%20Bergeron%20-%20Kurt%20Vonnegut.epub) 
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Harrison%20Bergeron%20%28748%29/Harrison%20Bergeron%20-%20Vonnegut%2C%20Kurt.epub)
-
-Összefoglalás:
-
 
 #### <a name="id_1620">Vonnegut, Kurt: Slaughterhouse-Five (1969)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut%20Jr_/Slaughterhouse-Five%20%281620%29/cover.jpg" alt="cover" width="300"/>
@@ -236,9 +230,6 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20V
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Vonnegut%2C%20Kurt/Hokusz-pokusz%20%281635%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vonnegut%2C%20Kurt/Hokusz-pokusz%20%281635%29/Hokusz-pokusz%20-%20Vonnegut%2C%20Kurt.epub)
-
-Összefoglalás:
-
 
 #### <a name="id_1609">Vonnegut, Kurt: Áldja meg az isten, Mr. Rosewater (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Aldja%20meg%20az%20isten%2C%20Mr.%20Rosewater%20%281609%29/cover.jpg" alt="cover" width="300"/>

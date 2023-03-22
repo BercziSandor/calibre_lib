@@ -29,9 +29,6 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C
 
 Letöltés: [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Kit%20siratok_%20Mit%20siratok_%20%281504%29/Kit%20siratok_%20Mit%20siratok_%20-%20Polcz%2C%20Alaine.pdf)
 
-Összefoglalás:
-
-
 #### <a name="id_1439">Polcz, Alaine: Macskaregény (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Macskaregeny%20%281439%29/cover.jpg" alt="cover" width="300"/>
 

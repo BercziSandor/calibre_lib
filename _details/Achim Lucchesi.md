@@ -4,6 +4,3 @@
 Letöltés: [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Achim%20Lucchesi/_Die%20Bombe%20is%27%20eh%20im%20Koffer_%20-%20Gesc%20%28605%29/_Die%20Bombe%20is%27%20eh%20im%20Koffer_%20-%20%20-%20Achim%20Lucchesi.pdf) 
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Achim%20Lucchesi/_Die%20Bombe%20is%27%20eh%20im%20Koffer_%20-%20Gesc%20%28605%29/_Die%20Bombe%20is%27%20eh%20im%20Koffer_%20-%20-%20Achim%20Lucchesi.epub)
 
-Összefoglalás:
-
-

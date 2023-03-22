@@ -154,9 +154,6 @@ eszközön történő túlutazás, továbbá családelhanyago­lás okozta káro
 </div>
 
 #### <a name="id_1162">Fable, Vavyan: Nászjelentés 2. (2003)</a>
-Összefoglalás:
-
-
 #### <a name="id_178">Fable, Vavyan: Álomhajsza (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Alomhajsza%20%28178%29/cover.jpg" alt="cover" width="300"/>
 
@@ -302,9 +299,6 @@ Mesélőkönyv szabadságról és szerelemről, harcosokkal, tündérekkel, var�
 A Világ Lelke legyen velünk.
 
 #### <a name="id_1147">Fable, Vavyan: Hajsza (101)</a>
-Összefoglalás:
-
-
 #### <a name="id_803">Fable, Vavyan: My fair lord (1995)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/My%20fair%20lord%20%28803%29/cover.jpg" alt="cover" width="300"/>
 

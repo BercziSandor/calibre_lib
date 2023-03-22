@@ -12,9 +12,6 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Ime%2C%20az%20ember%20%281716%29/Ime%2C%20az%20ember%20-%20Csanyi%2C%20Vilmos.epub)
 
-Összefoglalás:
-
-
 #### <a name="id_1713">Csányi, Vilmos: Segítség, kutyás lettem! (101)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Segitseg%2C%20kutyas%20lettem%21%20%281713%29/cover.jpg" alt="cover" width="300"/>
 

@@ -94,9 +94,6 @@ A Susannah dala ott ér véget, hogy közeleg a szülés ideje... és a Dixie Ma
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Atfuj%20a%20szel%20a%20kulcslyukon%20%281268%29/Atfuj%20a%20szel%20a%20kulcslyukon%20-%20Stephen%20King.epub)
 
-Összefoglalás:
-
-
 #### <a name="id_549">Stephen King: A talizmán (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20talizman%20%28549%29/cover.jpg" alt="cover" width="300"/>
 
@@ -145,9 +142,6 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Dans%20macabre%20%28930%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Dans%20macabre%20%28930%29/Dans%20macabre%20-%20Stephen%20King.epub)
-
-Összefoglalás:
-
 
 #### <a name="id_572">Stephen King: Ezüst pisztolygolyók (1989)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Ezust%20pisztolygolyok%20%28572%29/cover.jpg" alt="cover" width="300"/>

@@ -57,9 +57,6 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Haromlabu%20lo%20az%20ugetopalyan%20%28444%29/Haromlabu%20lo%20az%20ugetopalyan%20-%20Bohumil%20Hrabal.epub)
 
-Összefoglalás:
-
-
 #### <a name="id_439">Bohumil Hrabal: A városka, ahol megállt az idő (2005)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/A%20varoska%2C%20ahol%20megallt%20az%20ido%20%28439%29/cover.jpg" alt="cover" width="300"/>
 

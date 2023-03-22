@@ -53,9 +53,6 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%2
 #### <a name="id_36">Robert Ludlum: Matarese Klán(2) (101)</a>
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Matarese%20Klan%282%29%20%2836%29/Matarese%20Klan%282%29%20-%20Robert%20Ludlum.epub)
 
-Összefoglalás:
-
-
 #### <a name="id_772">Robert Ludlum: Csak tanú ne maradjon! (1988)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Csak%20tanu%20ne%20maradjon%21%20%28772%29/cover.jpg" alt="cover" width="300"/>
 

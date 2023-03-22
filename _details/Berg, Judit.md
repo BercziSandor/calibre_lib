@@ -58,9 +58,6 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Micsoda%20Ido%21%20%28479%29/Micsoda%20Ido%21%20-%20Berg%2C%20Judit.epub)
 
-Összefoglalás:
-
-
 #### <a name="id_1274">Berg, Judit: Alma (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Alma%20%281274%29/cover.jpg" alt="cover" width="300"/>
 

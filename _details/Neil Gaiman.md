@@ -3,9 +3,6 @@
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Shoggoth%20Kulonleges%20%28890%29/Shoggoth%20Kulonleges%20-%20Neil%20Gaiman.epub)
 
-Összefoglalás:
-
-
 #### <a name="id_665">Neil Gaiman: 27 képtelen történet (101)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/27%20keptelen%20tortenet%20%28665%29/cover.jpg" alt="cover" width="300"/>
 
@@ -17,22 +14,13 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20G
 #### <a name="id_887">Neil Gaiman: Góliát (101)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Goliat%20%28887%29/cover.jpg" alt="cover" width="300"/>
 
-Összefoglalás:
-
-
 #### <a name="id_888">Neil Gaiman: Hó, tükör, almák (101)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Ho%2C%20tukor%2C%20almak%20%28888%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Ho%2C%20tukor%2C%20almak%20%28888%29/Ho%2C%20tukor%2C%20almak%20-%20Neil%20Gaiman.epub)
 
-Összefoglalás:
-
-
 #### <a name="id_889">Neil Gaiman: Mátrix (101)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Matrix%20%28889%29/cover.jpg" alt="cover" width="300"/>
-
-Összefoglalás:
-
 
 #### <a name="id_224">Neil Gaiman: Amerikai Istenek (2001)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Amerikai%20Istenek%20%28224%29/cover.jpg" alt="cover" width="300"/>

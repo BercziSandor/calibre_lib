@@ -81,16 +81,10 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszorme
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Gergo%20es%20az%20alomvampirok%201%20%281569%29/Gergo%20es%20az%20alomvampirok%201%20-%20Boszormenyi%2C%20Gyula.epub)
 
-Összefoglalás:
-
-
 #### <a name="id_1570">Böszörményi, Gyula: Gergő és az álomvámpírok 2 (2013)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Gergo%20es%20az%20alomvampirok%202%20%281570%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Gergo%20es%20az%20alomvampirok%202%20%281570%29/Gergo%20es%20az%20alomvampirok%202%20-%20Boszormenyi%2C%20Gyula.epub)
-
-Összefoglalás:
-
 
 #### <a name="id_1576">Böszörményi, Gyula: Az elveszett történet (2006)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Az%20elveszett%20tortenet%20%281576%29/cover.jpg" alt="cover" width="300"/>
@@ -137,9 +131,6 @@ Marcel 13 éves, mikor a családjával a „Nyócker” színes, zajos, rémiszt
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Monyakos%20Tuba%2C%20a%20pipamocsok-liderc%20%281588%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Monyakos%20Tuba%2C%20a%20pipamocsok-liderc%20%281588%29/Monyakos%20Tuba%2C%20a%20pipamocsok-lid%20-%20Boszormenyi%20Gyula.pdf)
-
-Összefoglalás:
-
 
 #### <a name="id_1587">Böszörményi, Gyula: Ütközet a Meridim felett (2004)</a>
 Összefoglalás:

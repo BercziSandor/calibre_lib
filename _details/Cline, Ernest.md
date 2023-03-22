@@ -11,6 +11,3 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Cline%2C
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Cline%2C%20Ernest/Ready%20Player%20Two%20%281707%29/Ready%20Player%20Two%20-%20Cline%2C%20Ernest.epub)
 
-Összefoglalás:
-
-

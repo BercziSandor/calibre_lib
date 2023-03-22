@@ -3,9 +3,6 @@
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephenie%20Meyer/Alkonyat%20%281213%29/Alkonyat%20-%20Stephenie%20Meyer.epub)
 
-Összefoglalás:
-
-
 #### <a name="id_795">Stephenie Meyer: New Moon – Újhold (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephenie%20Meyer/New%20Moon%20-%20Ujhold%20%28795%29/cover.jpg" alt="cover" width="300"/>
 
