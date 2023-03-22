@@ -1,7 +1,7 @@
 #### <a name="id_318">Thomas Keneally: Schindler listája (2006)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Keneally%2C%20Thomas/Schindler%20listaja%20%28318%29/cover.jpg" alt="cover" width="300"/>
 
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Keneally%2C%20Thomas/Schindler%20listaja%20%28318%29/Schindler%20listaja%20-%20Keneally%2C%20Thomas%20%28Case%20Conflict%29.epub) 
+Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Keneally%2C%20Thomas/Schindler%20listaja%20%28318%29/Schindler%20listaja%20-%20Keneally%2C%20Thomas%20%28Case%20Conflict%29.epub) 
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Keneally%2C%20Thomas/Schindler%20listaja%20%28318%29/Schindler%20listaja%20-%20Keneally%2C%20Thomas.epub) 
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Keneally%2C%20Thomas/Schindler%20listaja%20%28318%29/Schindler%20listaja%20-%20Thomas%20Keneally.epub)
 <div>

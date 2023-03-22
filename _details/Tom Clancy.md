@@ -1,7 +1,7 @@
 #### <a name="id_1030">Tom Clancy: Vadászat a Vörös Októberre (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Tom%20Clancy/Vadaszat%20a%20voros%20oktoberre%20%281030%29/cover.jpg" alt="cover" width="300"/>
 
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Tom%20Clancy/Vadaszat%20a%20voros%20oktoberre%20%281030%29/Vadaszat%20a%20Voros%20Oktoberre%20-%20Tom%20Clancy.epub)
+Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Tom%20Clancy/Vadaszat%20a%20voros%20oktoberre%20%281030%29/Vadaszat%20a%20Voros%20Oktoberre%20-%20Tom%20Clancy.epub)
 <div>
 <p>Az ​Egyesült Államok tengeralattjáró-haderejének parancsnoksága szokatlan mozgolódást észlel az Atlanti-óceánon. Ramiusz, a litván származású hajóskapitány ugyanis úgy dönt, hogy bosszút áll a szovjet rezsimen, amely a felesége halálát okozta, és átszökik az Egyesült Államokba. Az USA hírszerzése támadásként értelmezi a gépóriás mozgását, és beindítja ellene hadigépezetét, miközben a szökést sejtő oroszok is üldözőbe veszik az áruló tengeralattjárót. Bár a rettenthetetlen parancsnok nagy körültekintéssel tervezte meg a menekülést, minden leleményességét össze kell szednie, hogy kivághassa magát a kettős szorításból. Itt lép a képbe a fiatal Jack Ryan, aki felismeri a hajóskapitány szándékait, és pontosan tudja: az évszázad legnagyobb hírszerzési fogása lenne, ha az amerikaiak idejében megtalálnák és védett kikötőbe vezetnék a Vörös Októbert…<br>Tom Clancy a katonai-politikai thriller nagymestere. A Vadászat a Vörös Októberre a szerző első regénye, amelyből a nagy sikerű, Oscar-díjas akciófilm készült Sean Connery főszereplésével. A történet Marko Alekszandrovics Ramiusz kapitány és Jack Ryan CIA-ügynök összefonódó kalandjait mutatja be.</p></div>
 

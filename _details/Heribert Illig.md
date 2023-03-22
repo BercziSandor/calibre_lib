@@ -1,7 +1,7 @@
 #### <a name="id_1599">Heribert Illig: Kitalált középkor (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Heribert%20Illig/Kitalalt%20kozepkor%20%281599%29/cover.jpg" alt="cover" width="300"/>
 
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Heribert%20Illig/Kitalalt%20kozepkor%20%281599%29/Kitalalt%20kozepkor%20-%20Heribert%20Illig.epub)
+Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Heribert%20Illig/Kitalalt%20kozepkor%20%281599%29/Kitalalt%20kozepkor%20-%20Heribert%20Illig.epub)
 <div>
 <p>"Az ​1991-re kidolgozott tézisem, amelyet azóta minden tudományos fórumon képviselek, röviden a következő. Az európai történelem VII., VIII., és IX., százada művileg beiktatott, minden valóságot és reális történést nélkülöző időszak. Ennek megfelelően maradék nélkül törlendő, majd az előtte és utána lévő történések közvetlenül, vagy kis eltéréssel összekapcsolandók. A kérdéses időközt már ekkor pontosan behatároltam: a betoldott, vagy kitalált időszak 614. augusztus végétől 911. szeptember elejéig tart.” <br>(Heribert Illig)<br>Megdöbbentő? A szerző Németországban hatalmas vihart kavart könyvének tézisét azóta sem tudták megcáfolni a középkorkutatók. Merthogy Illig úr rendkívül alapos munkával bizonyítja be: kik, hogyan, hol és mikor követték el minden idők legnagyobb történelemhamisítását. Naptárunk szerint elmúlt 2000. Valójában alig jutottunk túl 1700-on. Habár ez a lebilincselő történelmi krimi arra is rávilágít, csínján kell bánnunk az olyan szavakkal, mint például a „valójában”. Hiszen az is kiderül: nem csupán Nagy Károly és kora kitalált, de időszámításunkhoz is kapcsolódik jó néhány meglepő rejtély.</p></div>
 
