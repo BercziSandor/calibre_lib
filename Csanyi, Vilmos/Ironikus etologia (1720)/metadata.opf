@@ -4,7 +4,7 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">1720</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">3b4ccb95-e2b6-4a5e-b133-ce6509158512</dc:identifier>
         <dc:title>Ironikus etológia</dc:title>
-        <dc:creator opf:file-as="Vilmos, Csányi" opf:role="aut">Csányi Vilmos</dc:creator>
+        <dc:creator opf:file-as="Csányi, Vilmos" opf:role="aut">Csányi, Vilmos</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-05-13T13:25:39+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -13,9 +13,9 @@
         <dc:identifier opf:scheme="MOLY_HU">csanyi-vilmos-ironikus-etologia</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>etológia</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Csányi Vilmos&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Csányi, Vilmos&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-03-22T11:16:18.692045+00:00"/>
+        <meta name="calibre:timestamp" content="2023-03-22T11:16:18+00:00"/>
         <meta name="calibre:title_sort" content="Ironikus etológia"/>
         <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, PDF&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
