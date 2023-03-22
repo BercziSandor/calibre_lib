@@ -1,4 +1,4 @@
-# <a name="id_751">Michael Crichton: Az Androméda-törzs (2020)</a>
+# <a name="id_751">Michael Crichton: Az Androméda-törzs (Androméda 1) (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Az%20Andromeda-torzs%20%28751%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -13,7 +13,7 @@ A hadsereg titkos laboratóriumában, a Nevadai-sivatag alatt sokemeletnyi mély
 Michael Crichton ezzel a regénnyel új műfajt teremtett: a techno-thrillert. Az elképzelt távoli bolygókon, galaxisokban játszódó hihetetlen űrhajóskalandoktól a valóságos földi veszedelmek és tudományos fenyegetések felé terelte olvasói figyelmét, akkora sikerrel, hogy 1969-es megjelenésekor sokan tényirodalomként olvasták Az Androméda-törzset. Az azóta megismert újabb és újabb vírusok és világjárványok azt mutatják, Crichton fantáziája nem járt messze a valóságtól…
 
 
-# <a name="id_757">Michael Crichton: Őslénypark (1993)</a>
+# <a name="id_757">Michael Crichton: Őslénypark (Jurassic Park 1) (1993)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Oslenypark%20%28757%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -28,7 +28,7 @@ John Hammond amerikai milliomos egy déltengeri dzsungelszigeten „őslénypark
 De hiába a számítógépes tervezés, a tökéletesnek hitt biztonsági rendszer, az ősállatkert avatása előtti napokban a szigeten elszabadul a pokol. A meddőnek hitt őslények ugyanis szaporodnak és kisméretű agyuk is meglepően ravasznak bizonyul…
 
 
-# <a name="id_760">Michael Crichton: Szörnyek szigete (1996)</a>
+# <a name="id_760">Michael Crichton: Szörnyek szigete (Jurassic Park 2) (1996)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Szornyek%20szigete%20%28760%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

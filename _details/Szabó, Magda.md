@@ -1,4 +1,4 @@
-# <a name="id_1344">Szabó, Magda: Egy czitrom hajával (2018)</a>
+# <a name="id_1344">Szabó, Magda: Egy czitrom hajával (Szabó Magda ízei 2) (2018)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Egy%20czitrom%20hajaval%20%281344%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -12,7 +12,7 @@ gasztronómia, magyar nyelvű, magyar szerző, recept, sorozat része, szakácsk
 <p>Szabó ​Magda még halála után bő tíz évvel is tartogat meglepetést számunkra. Hagyatékából előkerült egy újabb, jócskán megtépázott, rongyos-rojtos szélű, pluszlapokkal kiegészített kézírásos receptfüzet. Míg az előző, szintén az örökség részeként megjelent Egy meszely az fél icce című kötetben a receptúrák szorosabban kötődtek az írónő családjához, a most nyilvánosságra kerülők más okból lehettek fontosak számára.<br>Vajon miért őrizhette meg az írónő a több mint száz éve írott recepteket? Alighanem az érdekelte, hogy a látszólag hétköznapi „művekben”, vagyis a receptekben, mennyi minden megelevenedik a múlt szokásaiból, napi történéseiből, ha értő szemmel olvassuk őket. Hiszen milyen izgalmas összevetni, mi maradt meg és mi hullott ki az idő rostáján a régen használt kifejezésekből, az alapanyagokból, a mértékegységekből és az akkoriban készülő ételleírásokból.<br>Nem is gondolnánk, mi mindenről „mesélhet” a Napóleon-torta, a császármorzsa vagy a bolygó hollandi – ezek ugyanis annak idején ismert és népszerű fogások voltak. Igaz, hogy iccében, meszelyben, fontban, latban, verdungban megadott hozzávalókból készültek, de némi számolgatással mi is kreálhatunk belőlük olyan ételeket, amelyek a mai terített asztalnak is díszére válnak, és mindenki jóízűen fogyaszthatja őket. Bátran válogathatunk a puszedlik, piskóták, kiflik, stanglik és perecek közül, és bizonyosan rábukkanunk számos, ízlésünknek megfelelő receptre a kötet olvasása közben. Ne lepődjünk meg azon sem, ha manapság divatos ínyencségekre találunk – ilyen a churros vagy a profiterol –, csak ne ezen a néven keressük!<br>Jó böngészést és jó sütés-főzést! Reméljük, sok érdekességet tartogat az olvasóknak a régmúltnak ezekről a szakadozott papírlapokról átmentett üzenete!</p></div>
 
 
-# <a name="id_1340">Szabó, Magda: A szemlélők (101)</a>
+# <a name="id_1340">Szabó, Magda: A szemlélők </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/A%20szemlelok%20%281340%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

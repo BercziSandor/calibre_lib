@@ -1,4 +1,4 @@
-# <a name="id_1172">Asimov, Isaac: Robottörténetek I-II. (1993)</a>
+# <a name="id_1172">Asimov, Isaac: Robottörténetek I-II. (Alapítvány-Birodalom-Robot 1) (1993)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Asimov%2C%20Isaac/Robottortenetek%20I-II_%20%281172%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

@@ -1,4 +1,4 @@
-# <a name="id_174">Fable, Vavyan: Halkirálynő (1990)</a>
+# <a name="id_174">Fable, Vavyan: Halkirálynő (Halkiralynö 1) (1990)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Halkiralyno%20%28174%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -14,7 +14,7 @@ akció, humoros, kalandregény, kortárs, krimi, regény, action & adventure
 </p><p class="description">„Fable – a csodák csodája – amerikaibb az amerikainál (a Hemmettől Chandlerig terjedő stílusnál). Melynek jellemzője a laza (ön)gunyorosság, a könnyed, gyors, felszínes, de hatásos valóságelemzés, a legmélyebb érzések némi cinikus fölénnyel kezelése (csupán az érzelgősség és nem az érzés elhárítása céljából). Fő vonalakban ezekből táplálkozik az a sajátos atmoszférát teremtő lendület, mely Fablenak is sajátja.”</p></div>
 
 
-# <a name="id_176">Fable, Vavyan: A pokol is elnyeli (2002)</a>
+# <a name="id_176">Fable, Vavyan: A pokol is elnyeli (Halkirálynő (2002)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/A%20pokol%20is%20elnyeli%20%28176%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -27,7 +27,7 @@ magyar szerző, magyar nyelvű, kalandregény, rendőr, krimi, humoros, nyár, r
 Patrick Wyne, az akciócsoport fáradt vezetője éppen aludni készül, amikor váratlan látogatója érkezik: Joy Smith. A lányról csak annyit lehet tudni, hogy nem az, akinek kiadja magát, viszont remekül rajzol, s ha kell, verekedni is tud. Ennek aztán nagy hasznát veszi, mert rövidesen többen is üldözni kezdik. A titokzatos lány a kommandósok segítségét kéri egy már-már hihetetlen ügyben: meggyilkolt barátjáért akar bosszút állni, akit egy embertelen orvosi kísérletnek vetettek alá, és valami emberrablásról is mesél. Joy gyönyörű nő, Wyne viszont esendő férfi. Kötélnek áll tehát, és vele tartanak a társai is. A sötét história hajmeresztő kalandokban folytatódik, s számos meglepetést tartogat. Amikor már-már úgy tűnik, vége a hosszú „szafárinak”, nem késlekedik a fordulat: hosszú üldözés veszi kezdetét. (Patrick Wyne-t és akciócsoportját a Halkirálynő sorozatból ismerhetik az olvasók. E regény egy korábbi akciójukat meséli el, amelyben a kommandónak jutott a főszerep.)
 
 
-# <a name="id_173">Fable, Vavyan: A Halkirálynő és a dzsinnek (2006)</a>
+# <a name="id_173">Fable, Vavyan: A Halkirálynő és a dzsinnek (Halkirálynő 2) (2006)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/A%20Halkiralyno%20es%20a%20dzsinnek%20%28173%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -40,7 +40,7 @@ magyar szerző, romantikus, magyar nyelvű, rendőr, krimi, humoros, regény, so
 A ​Halkirálynő és a kommandó hőseit újra veszély fenyegeti. Denisa, a roppant nőies, képzetten szájaló-verekedő zsarulány, valamint szerelmese, a férfiasan konok Belloq, másképpen Mogorva, nagystílű terv végrehajtásának útjában állnak. Mindez úgy kezdődik, hogy Denisa egy gyilkossági ügy felderítésén fáradozva, Line egyik kórházába jut. Gyógyszerkísérletekről, visszaélésekről értesül. Egy fiatal orvos különös balesetéről, reanimálásáról beszélnek neki, felkeltve gyanúját, hogy gyilkosság történt. Itt csaknem zsákutcába jut, mígnem felismeri végre: egy szervezett ölőcsapat terveit keresztezi. A bűnözők a vezetőjüket akarják kiszabadítani a börtönből. A gengszterek hadat üzennek Denisának és az akciócsoportnak. Pozíciójuk megerősítése érdekében – többek között – egy titokzatos fegyvert is bevetnek. Kuszálódnak a szálak, kirobban a háború. Az idő rövidsége miatt Justitia segítsége sem elég. Denisa nem válogathat a módszereiben. Hajmeresztő kalandba bocsátkozik. A rivális banda vezérével, a Kokókirállyal beszél meg találkát, és szövetséget ajánl neki. A vesszőfutás, móka-zokogás csak ezután kezdődik.
 
 
-# <a name="id_181">Fable, Vavyan: Ki feküdt az ágyamban? (2006)</a>
+# <a name="id_181">Fable, Vavyan: Ki feküdt az ágyamban? (Halkirálynő 3) (2006)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Ki%20fekudt%20az%20agyamban_%20%28181%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -56,7 +56,7 @@ Denisa aznap éjjel felszed a kocsijába egy sebesült férfit. Hazaviszi, ápol
 Kérdezik mások is, gorombán. Denisa öt napot kap, hogy válasszal szolgáljon. Közben törheti a fejét Martin másik kérdésén is: Nem tudod, hol a határ zsaru és gengszter között?
 
 
-# <a name="id_180">Fable, Vavyan: Ébredj velem! (2007)</a>
+# <a name="id_180">Fable, Vavyan: Ébredj velem! (Halkirálynő 4) (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Ebredj%20velem%21%20%28180%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -73,7 +73,7 @@ Ekkor már a kocsi csomagtartófedelén állok, abban a boldog tudatban, hogy Cy
 Látom a fickó arcát: őrült nagyra tágult szempár, a pupilla zöldesen felizzik, a szájon torz fintor…"
 
 
-# <a name="id_1152">Fable, Vavyan: Mogorva nyár (2007)</a>
+# <a name="id_1152">Fable, Vavyan: Mogorva nyár (Halkirálynő 4.5) (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Mogorva%20nyar%20%281152%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
@@ -83,7 +83,7 @@ akció, bűnüldözés, dzsungel, fegyverek, humoros, kortárs, krimi, magyar ny
 Belloq ​és akciócsoportos társai különleges kiképzési programról hazatérve tudatják Denisával, hogy egy dél-amerikai országba utaznak nyaralni. Festői helyre érkeznek, ottlétük az első napokban valóban nyaralásnak látszik, ám hamarosan támadás éri őket, s a dzsungelen át kell menekülniük. „Kicipzározom a puttonyt. Ők persze dögösebbek: a hét zsákon egyszerre reccsennek a fémfogak. Három másodperc alatt alsónadrágra vetkőznek. No, akkor én is. További három másodpercig tart, amíg előhúzzák a káprázatosan összehajtogatott ruhacsomagot. Éjfekete kezeslábas bomlik ki előttem, különös anyaggal bélelt, állig galléros modell, gyanítom, hogy lőhatlan. A Nagyszerűek gyorsan végeznek felöltésével, nekem Leon segít, hogy megtaláljam az elrejtett műanyag cipzárt, a szigeteléssel bevont kapcsokat. Ebben a cuccban zajtalanul kúszhatunk, mászhatunk, egyetlen alkatrésze sem csikordul, zörren meg soha. Pilótasapka-féle sisak következik, minden oldalról zárt, bélelt modell, Batman is valami hasonlóban szuper. Nem tudom, az övé golyóálló-e, a mienk biztosan az, feltéve persze, hogy nem túl nagy erejű vagy robbanó lövedéket kapunk a fejünkbe. Fresson végigmér bennünket, lerántja a sapkát és elröhinti magát. – Mint egy Batman-kommandó! Máris leszögezem, hogy nem vagyok hajlandó kívül hordani az alsógatyámat, mint az a marha!”
 
 
-# <a name="id_175">Fable, Vavyan: A Hold forró jegén (2007)</a>
+# <a name="id_175">Fable, Vavyan: A Hold forró jegén (Halkirálynő 6) (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/A%20Hold%20forro%20jegen%20%28175%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -96,7 +96,7 @@ magyar szerző, romantikus, magyar nyelvű, rendőr, krimi, humoros, regény, so
 "Denisa Wry-nak mintha nem volna elég, hogy zsaruként – meggyilkolt lányra lel egy kísérteties házban; – és lemészárolt gladiátorra bukkan a huszadik század végén; – ezenközben mélységesen belekeveredik egy különös betörő rejtelmes ügyeibe. Ráadásul: – egy hisztérikus teherautósofőr rosszvoltából kórházba kerül; – ám onnan hamarost megszökik; – népes családja összejövetelt rendez, kultiváld a kakás-mamást! jeligére; – társa, Laco szexkórság áldozata lesz; – akit helyettesítvén Zsötem, a tesztoszteron-túltengéses, újonc zsaru szakad a nyakába; – miáltal gyakori összeveretésben részesülnek; – cserben hagyott kezelőorvosa is mániákusan üzenget érte. Az égnek hála, segítség is kínálkozik: – Daniel Belloq (alias Mogorva); – a furabogár barátok (Cyd, Dalia, Quasimodo); – valamint a Fellini-kedvence alkatú jós és léleklátó asszony, Ramona személyében.
 
 
-# <a name="id_179">Fable, Vavyan: Apád, anyád ide lőjön! (2016)</a>
+# <a name="id_179">Fable, Vavyan: Apád, anyád ide lőjön! (Halkirálynő 7) (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Apad%2C%20anyad%20ide%20lojon%21%20%28179%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -109,7 +109,7 @@ magyar szerző, romantikus, depresszió, magyar nyelvű, krimi, humoros, regény
 A ​halkirálynő nevében! Az előrahaladottan állapotos zsarulány, Denisa Wry és szintén viselős – amúgy harcművész és kegyszerűrus – barátnője horrorszerű bűnténybe keveredik, méghozzá életük kritikus napján. Ahelyett, hogy a szülőkádban vajúdnának, motoros hajszában vesznek részt a hóesésben, aztán lambadáznak a kórházban, tovább még egy alaposan kiérdemelt eljegyzési gyűrű is eltűnik – és mily rejtelmes módon! A gólyinváziító követően Denisa gyermekágyi depresszióba süllyed, ám gyógyulása érdekében megfogadja a bölcs krízisteraputa tanácsát. Ebből következően az akciózsaru Daniel Belloq társaságában éjjelente sírkertet, szellemvasutat, hírhedett kocsmákat látogat. Egyébként sincs otthon maradásuk. Hajlékukban go-go görlök, Chippendale-táncosok, halottkémek és pszicophaták adják egymás markába a kilincset, jórészt a szintén kopó foglalkozású, nőbolond fivérnek, Martinnak köszönhetően, aki viszont a háztetőre menekül a problémák elől, és a kéményen extrém-vasal, de később majd új hobbit fejleszt ki magának. Tetézetképpen a szomszédban lakó regényírónál gyakorta vijjog a tűzriasztó, ugyanis a habókos fickó folyton szanaszét feledi a pipáját. Ám a latorvadász párnak nincs ideje kétségbeesésre, miként alvásra sem. Belloq a rendőrgyilkos smasszernőt üldözi. Denisa a nőgyógyászokat öldöklő fanatikus nyomában jár. Mígnem felfigyelnek arra, hogy az ő nyomukban is lopakodnak néhányan. Jöhet a mondóka: kapd el, vagy ő kap el!
 
 
-# <a name="id_1151">Fable, Vavyan: Mesemaraton (2009)</a>
+# <a name="id_1151">Fable, Vavyan: Mesemaraton (Mesemaraton 1) (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Mesemaraton%20%281151%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
@@ -120,7 +120,7 @@ VIGYÁZAT: ​NEM MESEKÖNYV!
 Burleszk, paródia, karikatúra ÉS kalandregény. Hella Postor, a vagány, idős milliomosnő éjjel-nappal tequilát iszik, s közben lovasversenyt szervez fantasztikus terepen, mesés fődíjjal (egymillió fabatka). Szinte a rajt előtt belebotlik Athénába, fiatalkori önmaga hasonmásába. Nagylelkűen meghívja őt és Don Jarrat-t a Mesemaratonra. Ha egymásra találnak, öröklik hatalmas vagyonát. A kiszemelt vőlegénynek van egy szépséghibája: maffiózó. És éppen bajban van egy eltűnt heroinszállítmány miatt. A verseket mormogó és bohócságát mindinkább föladó Athéna az öreg hölgy testőréhez vonzódik: Michel Redfordhoz, aki öltözzön bár navaho törzsfőnöknek vagy pirosbabos szoknyás nőimitátornak, szívdobogtatóbb fickó. Rossz Arcot, Don Jarrat vérszomjas gorilláját is fölajzza, ezért olykor menekülni, olykor támadni kényszerül. Ott van a versenyen Fabre Chant, a mozisztár és három bohókás játékzsoldosa, a lila bugyigókról álmodó Gille Barry, a hamvas apródokra vadászó Lady Norris – és Daler Canev, aki időnként átmenetileg elhalálozik, s ha mégsem, megbokrosodik a lova. Kísérőik: FBI-ügynökök, filmesek, bérgyilkosok. Szerelmek, hajszák, kalandok. Képtelenségek. Gegek. Buszon, villamoson, metrón olvasni nem tanácsos. Feltűnő. Evés közben végzetes lehet.
 
 
-# <a name="id_1163">Fable, Vavyan: Emlékfutam (2007)</a>
+# <a name="id_1163">Fable, Vavyan: Emlékfutam (Mesemaraton 2) (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Emlekfutam%20%281163%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
@@ -130,7 +130,7 @@ humoros, kalandregény, krimi, magyar nyelvű, magyar szerző, paródia, regény
 Hella ​Postor, a dúsgazdag öreg hölgy a hajdani Mesemaraton nevű lovasverseny iránti nosztalgiából újabb tusát szervez, Emlékfutam néven. Szívesen látná az egykori résztvevőket, ám néhányuk még nem töltötte le életfogytiglanját. Szabadlábon lévő kedvencei – Michel és Athéna Redford – immár utódot nevelnek, lovat tenyésztenek. Az indulók között találjuk Braydent, az eskető szándékú maffiások elől szökő lóidomárt. A könyvírás miatti depresszióban szenvedő, vezekelni vágyó, magyar gyökerű Allegrát. A fojtogató szeretetű családja által hajszolt, hetvenéves guminőt, Bizsut. A kudarcos frigyéből kiválóban lévő férjet, valamint annak sportos múltú, harcias exnejét; ők futamhosszat lakoltatják-kesergetik egymást. A versenyen leljük Szeplőtelenkét, a Hogyan legyünk szüzek? című nyomtatott gyöngyszem médiacsinnadrattára éhes szerzőjét. Továbbá bogarasokat, fétisimádókat, ex- és szextrémeket, sírlényeket – valamint az őket kergető/kísérő priuszosokat, házastársakat, médiásokat, vámpírvadászt, dilidokit. A veszélyes történet főleg lovon, kísértethotelben és asztal alatt játszódik.
 
 
-# <a name="id_1161">Fable, Vavyan: Nászjelentés 1. (2002)</a>
+# <a name="id_1161">Fable, Vavyan: Nászjelentés 1. (Nászjelentés 1) (2002)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Naszjelentes%201_%20%281161%29/cover.jpg" alt="cover" width="300"/>
 
 ### Összefoglalás
@@ -201,8 +201,8 @@ eszközön történő túlutazás, továbbá családelhanyago­lás okozta káro
 </div>
 
 
-# <a name="id_1162">Fable, Vavyan: Nászjelentés 2. (2003)</a>
-# <a name="id_178">Fable, Vavyan: Álomhajsza (2020)</a>
+# <a name="id_1162">Fable, Vavyan: Nászjelentés 2. (Nászjelentés 2) (2003)</a>
+# <a name="id_178">Fable, Vavyan: Álomhajsza (Seym és Lilia 1) (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Alomhajsza%20%28178%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -215,7 +215,7 @@ magyar szerző, magyar nyelvű, humoros, regény, sorozat része, fantasy, kort�
 Amint ​tudomást szerzünk a KÉK KRISTÁLY létezéséről, azonnal szenvedélyesen érdekeltté válunk abban, hogy az el is juthasson rendeltetési helyére. Sok, nagyon sok függ ettől: talán nem kevesebb, mint az emberi élet szépsége. Fénylő és sötétlő birodalmak, szörnyecskék és monstrumok, tündérek és fenevadak, harcosok és filmesek között vezeti hőseit biztos, de gyengéd kézzel VAVYAN FABLE ebben a különös, egymásba illeszkedő, egymást tükröző, egymást kiegészítő ikerregényben. A Szerző, a tőle már jól ismert pazar játékossággal, plasztikus megjelenítő erővel, de a még tőle is szokatlan érzelmi komolysággal hívja meg olvasóját a szerteágazó, elbűvölően gazdag mese-álomvilágba. Varázsol, de nem csal. Hiszen az álom: igaz! Mi álmodjuk magunkról, egymásról. A varázsos, groteszk, fura-bájos, bizarr, pikáns, lebegő, súlyos, gyengéd, horrorszerű, kuncogtató, józan, szárnyaló, görnyesztő, trillázóan gunyorkás és szívmélyien komoly FANTASY-TÖRTÉNET minden ere, patakocskája és folyama – s velük az Olvasó is – eléri végül a Tengert. A szeretet tengerét.
 
 
-# <a name="id_1156">Fable, Vavyan: Tündértánc I. (2000)</a>
+# <a name="id_1156">Fable, Vavyan: Tündértánc I. (Tündértánc 1) (2000)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Tundertanc%20I_%20%281156%29/cover.jpg" alt="cover" width="300"/>
 
 ### Összefoglalás
@@ -256,7 +256,7 @@ TÜNDÉRTÁNC-lépéseket!<p></p></p>
 </div>
 
 
-# <a name="id_1157">Fable, Vavyan: Tündértánc II. (2001)</a>
+# <a name="id_1157">Fable, Vavyan: Tündértánc II. (Tündértánc 2) (2001)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Tundertanc%20II_%20%281157%29/cover.jpg" alt="cover" width="300"/>
 
 ### Összefoglalás
@@ -297,7 +297,7 @@ TÜNDÉRTÁNC-lépéseket!<p></p></p>
 </div>
 
 
-# <a name="id_1153">Fable, Vavyan: Vis Major (2004)</a>
+# <a name="id_1153">Fable, Vavyan: Vis Major (Vis Major 1) (2004)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Vis%20Major%20%281153%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
@@ -307,7 +307,7 @@ akció, humoros, kortárs, krimi, magyar nyelvű, magyar szerző, női főszerep
 A boldog-boldogtalan őslakók által csak Fertő Cityként emlegetett nagyváros éjszakájában tort ül a bűn. És mintha ez nem volna épp elég: jut belőle a nappalokra is. A helyi rendfenntartókat nem véletlenül emlegetik egy napon a középkor szent őrültjeivel. Ehhez a küzdelemhez gyomor kell, idegek. Meg stukker. Meg könyökütés. Mindezen földi jókkal felfegyverezve, oldalán a hirtelen, szőke Kyra Emettel járja a nagyváros dzsungelét a modern szamuráj, Vis Major. A bűnüldözés leghatékonyabb fegyvere ő a húszas kaliberű smasszerpuska óta. Egy-jobb napjain két-lépéssel mindig a rosszfiúk előtt jár. Rendszerint győz. Utcahosszal… Egy regény, melynek tempójával csak egy Ferrari Testrossa, élvezeti értékével viszont az égvilágon semmi sem versenyezhet.
 
 
-# <a name="id_1164">Fable, Vavyan: Kyra Eleison (2008)</a>
+# <a name="id_1164">Fable, Vavyan: Kyra Eleison (Vis Major 2) (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Kyra%20Eleison%20%281164%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
@@ -317,7 +317,7 @@ akció, humoros, kortárs, krimi, magyar nyelvű, magyar szerző, regény, soroz
 „…Talán ​órák is tovatellettek, mire demilitarizáltam az atlétát. Minthogy a kérő szó mit sem ért, kénytelen voltam tettleg érvelni. Elvettem tőle a saját fegyverét, meg a találtat, de még a rojtosra rágott fogpiszkálót is kiszedtem a szája sarkából, mielőtt rádöbbent volna, hogy azzal is harcolhat. Időközben a mérkőző pasasok a medencében kötöttek ki, s a vádliig érő vízben pozdorjázták egymást, meg-megbotolva a fenéken elrejtett csövekben. A bejárat felől zsarumobilok közeledtek üvöltő szirénával, a másik irányból az óriáskerekes ember érkezett, homlokán redőkkel, kezében cipőmmel. Az eső, akárha az estémet siratná, dühödten rázendített, lila villámok cikáztak körülöttünk, pofonok dörögtek a szökőkútban, az égbolt üvöltött rá feleletül. A kollégák négyfelől robogtak a márvánnyal borított dísztérre, hogy közrefogják a medencét. A vijjogó kocsik kormányozhatatlanná váltak a síkos kövön. Előlük menekülvén a vízbe ugrottam, és megint elveszett a cipőm. Az egyik zsarumobil a pánikszerű fékezéstől két kerékre billent, és siklórepülésbe kezdett. Felém tartott, nőttön-nőtt.”
 
 
-# <a name="id_1154">Fable, Vavyan: Vészbejárat (2008)</a>
+# <a name="id_1154">Fable, Vavyan: Vészbejárat (Vis Major 4) (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Veszbejarat%20%281154%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
@@ -327,7 +327,7 @@ akció, fekete humor, kortárs, krimi, magyar nyelvű, magyar szerző, regény, 
 Vis ​Major és Kyra Emett, a Fertő City utcáin járőröző zsarupáros megest lendületben. Mindketten azt remélik karácsony közeledtével némileg alábbhagy a bűnözés a pszicho városban, és egymással is foglalkozhatnak valahára. Végképp szakíthatnak vagy ölelődzhetnek; összeköltözhetnek, esetleg megfojthatják egymást. Ám nem csak ők érzik furcsául magukat. A mitikusan behavazott, vakítóan teliholdas, ünnep előtti éjszakák másokat is megbolondítanak. Sorozatgyilkos tombol az utcákon. Bús pasasok vetik magukat a folyóba a Halálpillérről. Válófélben lévő nő indul a férje ügyvédjéhez, csőre töltött flintával. Ámoklovas vágtázik a körúton. Bérgyilkos nők végeznek áldozatukkal, majd lelövik az arra járó zsarukat is. Maffiások élik világukat. Nincs nyugalom, áhitat. Akció akciót követ. Ők pedig éjhosszat gonosztevőket kergetnek, olykor mezítláb is. Szépségátalakító plasztikai verésekben részesülnek, Kyra sajátos mikulással konfrontál. A cinikus Vis Major ezt merészeli mondani: A szerelem abszolút keresztényies dolog. Házasság formájában magában hordja a büntetést is. Zaklatott életvitelük közepette még egy talált gyermekkel, a kutyával, a papagájjal, valamint önnön vágyaik tisztázásával is törődniük kellene. Míg nem késő.
 
 
-# <a name="id_1158">Fable, Vavyan: Tíz kicsi kommandós (2008)</a>
+# <a name="id_1158">Fable, Vavyan: Tíz kicsi kommandós (Vis Major 5) (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Tiz%20kicsi%20kommandos%20%281158%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
@@ -337,7 +337,7 @@ akció, humoros, kortárs, krimi, magyar nyelvű, magyar szerző, regény, roman
 Vis ​Major és Kyra Emett, minden idők leghatékonyabb akciózsaru párosa tovább kergeti a bűnt Fertő City utcáin! Mintha az egész megapolisz megbolydult volna! Feltűnést hajszoló gyilkosok, drogambulanciákat támadó nindzsák, bomlott elméjű szektások, pszichotikus gaztevők hemzsegnek Fertő Cityben, szüntelen mozgásban tartva Vis Majort és társait. Mindezt tetézendő, egy sajtóangyal is velük tart bűnüldöző útjaikon. Ám a lakosság zömét legfőképpen a nemiség érdekli. Mindenki folytól erről cseveg. Megtörhetetlen hőseink magánélete sem felhőtlen. Kyra neheztel, amiért a szamuráj – Vis Major – megnősült. Még fel sem eszmél a traumából, midőn hozzáköltözik válságos nővére, Taria. A szívválságot kiváltó pasas is vele tart, s pontról pontra megfogadják a kapcsolatterapeuta furcsa utasításait. Kyra ettől bealél. Transzparenst készít lepedőből, Le a családdal! szövegűt. Ráadásul még egy mosómackó is betanyázik a kertbe. Vis Major gyereket nevel, a Hátrányos Helyzetű Apák Túlélőkönyvét írja, s könnyelműen törli az interneten kapott lánclevelet. Bokszeralsóban szerepel egy falinaptárban, miáltal sikítozó rajongótáborra tesz szert. Neje nem tud főzni-mosni, viszont a takarításhoz sem konyít. Munkatársnője feldobja őt szexuális zaklatás miatt. A szamurájt megdöbbenti a felismerés: a Megszakított Lánclevél Átka sújtott le rá! Lehet, hogy hőseink mégis megtörnek?!
 
 
-# <a name="id_1014">Fable, Vavyan: Szamurájszív (2015)</a>
+# <a name="id_1014">Fable, Vavyan: Szamurájszív (Vis Major 7) (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Szamurajsziv%20%281014%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -354,7 +354,7 @@ A Halkirálynő és a Vis Major sorozat hősei közösen mélymerülnek a téli 
 Vigyázat! Csak erős szívűeknek!
 
 
-# <a name="id_177">Fable, Vavyan: Álmok Tengere (2012)</a>
+# <a name="id_177">Fable, Vavyan: Álmok Tengere (Álmok Tengere 1) (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Almok%20Tengere%20%28177%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -367,7 +367,7 @@ magyar szerző, magyar nyelvű, mágia, regény, sorozat része, kaland, fantasy
 Egy réges-régen varázsálomba süllyesztett, legendás király, akit visszasír a nép. Egy hős Viador, aki hitvesztettségéért hosszú raboskodással fizet. Egy nyelves-szájas, komédiás lány, legendabéli hősök rajongója. Egy kényszermunkára ítélt óriás, akit a hajtókerékről vágnak le. Egy megalázó fogságból szabadított, mogorva sárkány. Két szökött harcszolga, egyikük férfi, másikuk nő. Velük vannak az istenek és a magasabb mágia. Mindenki más ellenség. Egy varázsos történet bátorságról, hitről, barátságról, szerelemről, bűvöletről, kalandról és birodalmárokról! Ahogyan még senki más nem írta meg. A mesélőkönyv. Mesejó!
 
 
-# <a name="id_558">Fable, Vavyan: Barbárság Tengere (2012)</a>
+# <a name="id_558">Fable, Vavyan: Barbárság Tengere (Álmok Tengere 2) (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Barbarsag%20Tengere%20%28558%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -384,7 +384,7 @@ Mesélőkönyv szabadságról és szerelemről, harcosokkal, tündérekkel, var�
 A Világ Lelke legyen velünk.
 
 
-# <a name="id_1147">Fable, Vavyan: Hajsza (101)</a>
+# <a name="id_1147">Fable, Vavyan: Hajsza </a>
 # <a name="id_803">Fable, Vavyan: My fair lord (1995)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/My%20fair%20lord%20%28803%29/cover.jpg" alt="cover" width="300"/>
 

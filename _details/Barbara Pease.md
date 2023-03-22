@@ -1,4 +1,4 @@
-# <a name="id_5">Barbara Pease: Miért hazudik a férfi? Miért sír a nő? (2014)</a>
+# <a name="id_5">Barbara Pease: Miért hazudik a férfi? Miért sír a nő? (Hétköznapi pszichológia 50) (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Barbara%20Pease/Miert%20hazudik%20a%20ferfi_%20Miert%20sir%20a%20n%20%285%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

@@ -1,4 +1,4 @@
-# <a name="id_1631">Vonnegut, Kurt: Az ötös számú vágóhíd (101)</a>
+# <a name="id_1631">Vonnegut, Kurt: Az ötös számú vágóhíd </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Az%20otos%20szamu%20vagohid%20%281631%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -9,7 +9,7 @@
 <p>Az ​ötös számú vágóhíd a világirodalom egyik legjelentősebb, egyszersmind legkülönösebb háborúellenes műve, melyet 1969-es megjelenése óta széleskörű kultusz övez. Kurt Vonnegut részben személyes tapasztalatait felhasználva, sci-fi elemekkel (időutazással és repülő csészealjakkal) színesítve, szarkasztikus humor és kíméletlenül őszinte társadalomkritika mentén dolgozta fel a XX. századi Európa egyik legvéresebb eseményének, Drezda 1945-ös bombázásának tragédiáját.<br>A történet főszereplője, Billy Pilgrim a második világháború káoszában váratlanul „elszabadul az időben”. Hősünk szakadatlanul ingázik múlt és jövő, tébolyult valóság és burjánzó fantázia, képtelen karakterek és abszurd szituációk között – kalandos útja Drezda romjaitól a háború utáni Amerikán át egészen távoli Tralfamador bolygóig vezet, ahol Billy megtanulja, hogy a halál jelentéktelen, a szabad akarat pedig merő illúzió.<br>Vonnegut megkerülhetetlen klasszikusa ezúttal képregényként elevenedik meg, Ryan North szöveghű adaptálásában, valamint Albert Monteys olykor apokaliptikusan komor, máskor pszichedelikusan harsány, de mindig lenyűgöző rajzain keresztül.</p></div>
 
 
-# <a name="id_1632">Vonnegut, Kurt: Ördögcsapda (101)</a>
+# <a name="id_1632">Vonnegut, Kurt: Ördögcsapda </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Ordogcsapda%20%281632%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -19,7 +19,7 @@
 <P>Kurt Vonnegut</P> <P>1922. november 11. – 2007. Április 11.</P> <P>&nbsp;</P> <P>„Hogyan viselkedjünk Apokalipszis idején? Talán az a legfontosabb, hogy ilyenkor legyünk az átlagosnál figyelmesebbek egymás iránt. Másfelől ne vegyünk mindent túl komolyan. A tréfa segít.”</P> <P>&nbsp;</P> <P>Kurt Vonnegut 12 olyan írását tartalmazza ez a gyűjtemény, amelyek még soha, sehol nem jelentek meg. Valamennyit áthatja a szerző erőszakkal szembeni kérlelhetetlen elutasítása éppúgy, mint lesújtó véleménye az emberiség pusztítás iránti olthatatlan szenvedélyről. A legtöbb írásnak még a keletkezési dátumát sem ismerjük, de bármikor születtek is, mindegyikben felfedezhetjük Vonnegut lenyűgöző tehetségét, a csak rá jellemző abszurd világlátást.</P> <P>A novellák között találunk szívszorító visszaemlékezést Drezda lebombázásáról, keserűen mulatságos történetet három, hadifogságban sínylődő közlegényről, akik a hazatérés utáni első otthoni ebédről ábrándoznak. És szó esik arról is, hogy milyen iszonytatóan nehéz megvédeni gyermekeinket az agresszió kísértéseitől.</P> <P>A kötet meglepetéseket is tartogat az Olvasó számára. Például a fiatal Vonnegut levelét, amelyet 1945-ben a frontról írt családjának, hogy értesítse őket: hadifogságba esett Németországban. Vagy az idős Mester utolsó beszédét, amelyet halála miatt már nem tudott elmondani, így azt fia olvasta fel a Vonnegut-év megnyitóünnepségén. Az a Mark, akinek a kötethez írott bevezetője még közelebb hozza az Olvasóhoz az Apát, akibe „az egész világ fülig szerelmes”.</P> <P>Az <I>Ördögcsapda </I>mindent elmond a korról, amelyben élünk, ugyanakkor árnyaltabbá teszi Vonnegut portréját is. A novellákat olvasva és a könyvet illusztráló különös képzőművészeti alkotásokon eltöprengve jobban megismerjük az írót, a szülőt, a művészt, a humanistát.</P> <P>Kurt Vonnegut nem hagyott el bennünket. Üzenete most is az elevenünkbe vág: kevés dolog törékenyebb az emberi méltóságnál.</P> <P>&nbsp;</P> <P>„A fenébe! Egyszerre fogom mindenkinek a pártját. Mert értem, mitől olyanok, amilyenek.”</P>
 
 
-# <a name="id_747">Vonnegut, Kurt: Beszámoló a Barnhouse-effektusról (101)</a>
+# <a name="id_747">Vonnegut, Kurt: Beszámoló a Barnhouse-effektusról </a>
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vonnegut%2C%20Kurt/Beszamolo%20a%20Barnhouse-effektusrol%20%28747%29/Beszamolo%20a%20Barnhouse-effektusr%20-%20Vonnegut%2C%20Kurt.epub)
 

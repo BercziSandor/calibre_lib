@@ -1,4 +1,4 @@
-# <a name="id_1368">Moldova, György: Az utolsó töltény 9. (2007)</a>
+# <a name="id_1368">Moldova, György: Az utolsó töltény 9. (Az utolsó töltény 9) (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%209_%20%281368%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -12,7 +12,7 @@
 <p>„Valamikor 2001 nyarán vesszük fel újra a fonalat, már túlestem a szívinfarktust követő szanatóriumi kezelésen, Balatonfüredről hazatértem Budapestre. Rendszeresen dolgoztam és a mozgásban sem korlátoztak orvosi előírások. A júniusi könyvhéten kilátogattam a Vörösmarty térre, itt váratlanul összetalálkoztam Lendvai Ildikóval – Medgyessy Péterrel sétálgatott a sátrak között. A politikus asszony, ahogy észrevett, odajött hozzám és elnézést kért, amiért akarata ellenére közrejátszott az anginás rohamom kiváltásában.”</p></div>
 
 
-# <a name="id_1366">Moldova, György: Az utolsó töltény 10. (2010)</a>
+# <a name="id_1366">Moldova, György: Az utolsó töltény 10. (Az utolsó töltény 10) (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%2010_%20%281366%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -26,7 +26,7 @@
 <p>Önéletrajzi ​töredékek<br>"Már beszéltem gyerekkori felháborodásomról, amiért apám ilyen gyalázatos világot hagyott rám. Meg voltam győződve, hogy módjában állt volna változtatni ezen, csak a tehetetlenségén és a gyávaságán múlott, hogy az élet nem vált jobbá. Ez a téveszmém mára eloszlott, be kell látni, hogy az én generációm is csak a nyomort és a terror fenyegető árnyékát hagyományozza gyerekeire és unokáira.<br>Bár az egymást követő nemzedékek sorsában az ínség és a szenvedés folyamata megállíthatatlannak tűnik, azzal próbálom vigasztalni magam, hogy mindig is megkíséreltem ellenállni mindenféle rendű-rangú Hatalom erőszakos próbálkozásainak. Azzal erősítem a lelkemet, hogy egyetlen olyan sort sem írtam le, melyben elárultam volna a megalázottak és kizsákmányoltak ügyét.<br>Belátom, hogy ez a keserves munkám sem oldott meg semmit, de talán fenntartotta a reményt, hogy jöhet valaki, aki egyszer majd valóban igazságot, felszabadulást hoz a veszteseknek:<br>– »Exoriare aliquis nostris ex ossibus ultor« – támad majd bosszúálló a mi csontjainkból!”</p></div>
 
 
-# <a name="id_1367">Moldova, György: Az utolsó töltény 11. (2013)</a>
+# <a name="id_1367">Moldova, György: Az utolsó töltény 11. (Az utolsó töltény 11) (2013)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%2011_%20%281367%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -40,7 +40,7 @@
 <p>A sorozat előző kötetét Moldova György 2010-ben zárta le. Az életműsorozat 11. kötetében a 2010. utáni eseményeket írja le az író. Az előző köteteknek megfelelően ír a megjelent munkáiról. az azóta megjelent könyveiről és a sorozat többi kötetének megfelelően a jelenkori politikai és társadalmi jelenségekről.</p></div>
 
 
-# <a name="id_1400">Moldova, György: Az utolsó töltény 12. (2015)</a>
+# <a name="id_1400">Moldova, György: Az utolsó töltény 12. (Az utolsó töltény 12) (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%2012_%20%281400%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -54,7 +54,7 @@ magyar nyelvű, magyar szerző, memoár, életrajz
 <p>Itt az ideje elbúcsúznom az önéletrajzi sorozatom olvasóitól. Köszönöm, hogy ilyen hosszan megtiszteltek a figyelmükkel! Tizenkét évvel kezdtem el „Az utolsó töltény”-t, az eltelt időszak alatt közel háromezer oldalt vetettem papírra, leírtam minden fontosat ami történt velem.Túl sok említenivaló már aligha adódik.<br>Nem tudom, hogy mennyi maradt még hátra, biztosan csak annyit mondhatok, hogy az élettől már elment a kedvem, a halálhoz még nem jött meg. Az egyetlen amit tehetek, folytatom a munkát.</p></div>
 
 
-# <a name="id_344">Moldova, György: Harcolj vagy menekülj! (2010)</a>
+# <a name="id_344">Moldova, György: Harcolj vagy menekülj! (Harcolj, vagy menekülj 1) (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Harcolj%20vagy%20menekulj%21%20%28344%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -67,7 +67,7 @@ bulvár, magyar nyelvű, magyar szerző, riport, tényfeltáró riport, tűzolt�
 A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A tűzoltók között több főiskolát, egyetemet végzett embert találunk. Izgalmas kérdés, hogy valaki orvos végzettséggel miért a tűzoltó hivatást választja. A könyvben végig követhetjük a tűzoltók munkáját, élesben a riasztástól, a tűz eloltásáig.
 
 
-# <a name="id_345">Moldova, György: Harcolj vagy menekülj! (2010)</a>
+# <a name="id_345">Moldova, György: Harcolj vagy menekülj! (Harcolj, vagy menekülj 2) (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Harcolj%20vagy%20menekulj%21%20%28345%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -80,7 +80,7 @@ bulvár, magyar nyelvű, magyar szerző, riport, tényfeltáró riport, tűzolt�
 A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A tűzoltók között több főiskolát, egyetemet végzett embert találunk. Izgalmas kérdés, hogy valaki orvos végzettséggel miért a tűzoltó hivatást választja. A könyvben végig követhetjük a tűzoltók munkáját, élesben a riasztástól, a tűz eloltásáig.
 
 
-# <a name="id_1399">Moldova, György: Kegyelemkenyér 1. (2017)</a>
+# <a name="id_1399">Moldova, György: Kegyelemkenyér 1. (Kegyelemkenyér 1) (2017)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Kegyelemkenyer%201_%20%281399%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -94,13 +94,13 @@ magyar nyelvű, magyar szerző, magyarország, nyugdíj, riport, sorozat része,
 <p>A lázálmokat kergető FIDESZ kormány – olimpia, Paks 2. – számolatlanul szórja az ország pénzét. Nincs min csodálkozni, hogy a 3 millió nyugdíjas púp a hátukon.<br>Eszükbe se jut, hogy valahogy rendezzék a több százezer nyugdíjas helyzetét, akik havonta kevesebb, mint 50 ezer Ft-ot kapnak.<br>Orbán Viktor úgy gondolja, hogy nagyobb a politikai hozadéka a karácsonyi ajándékként osztogatott Erzsébet utalványnak.<br>Moldova György a riportkönyve első kötetében bemutatja, hogy élnek a volt tanárok, bányászok nyugdíjasként.</p></div>
 
 
-# <a name="id_371">Moldova, György: Kádár János 2. (2012)</a>
+# <a name="id_371">Moldova, György: Kádár János 2. (Kádár János 2) (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Kadar%20Janos%202_%20%28371%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Kadar%20Janos%202_%20%28371%29/Kadar%20Janos%202_%20-%20Moldova%2C%20Gyorgy.epub)
 
-# <a name="id_370">Moldova, György: Kádár János (2007)</a>
+# <a name="id_370">Moldova, György: Kádár János (Kádár János 3) (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Kadar%20Janos%20%28370%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -114,7 +114,7 @@ magyar nyelvű, magyar szerző, magyarország, nyugdíj, riport, sorozat része,
 <p>Moldova György két kötetes történelmi olvasókönyve heves indulatokkal fűszerezett vitát váltott ki. Az emberek nagy része által nem ismert történelmi dokumentumok jelennek meg a könyvben, és ezek drámai megvilágításba helyeznek egy-egy eseményt. Ilyen dokumentum pl. Nagy Imre (Vologya) jelentése az orosz titkosszolgálatnak.</p></div>
 
 
-# <a name="id_1395">Moldova, György: A népet le kell váltani (101)</a>
+# <a name="id_1395">Moldova, György: A népet le kell váltani </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/A%20nepet%20le%20kell%20valtani%20%281395%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -128,7 +128,7 @@ aforizma, humoros, magyar nyelvű, magyar szerző, társadalomkritika
 <p>A válogatott aforizmákban olyan kérdésekre próbál választ keresni Moldova György, ami nagyon sok embert foglalkoztat.<br>Anyám, én nem ilyen országot akartam! – gondolják és mondják egyre többen, amikor nap, mint nap a harsogó idegengyűlöletet hallják a közmédiából. Teljes hiányát tapasztalják a szolidaritásnak.</p></div>
 
 
-# <a name="id_1383">Moldova, György: A pénz szaga (101)</a>
+# <a name="id_1383">Moldova, György: A pénz szaga </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/A%20penz%20szaga%20%281383%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -138,7 +138,7 @@ aforizma, humoros, magyar nyelvű, magyar szerző, társadalomkritika
 "A kamionos - milliomos" tartja a mondás. Moldova több mint két évet töltött a kamionok "anyósülésein". Ebből a szakmából valóban árad a pénz szaga, de egyetlen fillért sem adnak ingyen. Halál távoli országokban, balesetek és küzdelem a lerobban kocsikkal, huszonnégy órás megszakítás nélküli vezetések, hosszú várakozások határokon és a parkolókban, korai betegségek és felbomlott családi életek - ezek a kamionos életforma útjelzői. A szerző olvasmányos kalandkönyvet írt, melynek legfőbb szenzációja mégis a megismerés, a találkozás egy különös életformával.
 
 
-# <a name="id_1401">Moldova, György: A Puskás-ügy (101)</a>
+# <a name="id_1401">Moldova, György: A Puskás-ügy </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/A%20Puskas-ugy%20%281401%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -149,7 +149,7 @@ aforizma, humoros, magyar nyelvű, magyar szerző, társadalomkritika
 <p>– Emlékeztek arra a régi balesetre, mikor 1947-ben lezuhant a „Torino”, és az egész csapat meghalt, köztük kilenc olasz válogatott, mitőlünk Schubert Ernő, aki a Ganzban kezdett, majd csehszlovák válogatott lett, úgy vették meg az olaszok. Én akkoriban épp kint dekkoltam, szó volt róla, hogy leigazolok, első kézből ismerem az egész balesetet. Annyi történt, hogy Spanyolországban olcsó volt a gyémánt, a csapat tagjai vettek egy zacskóravalót. Tisztában voltak vele, hogy az olasz vámon nem tudnák áthozni, ezért Olaszország fölé érve a gép lejjebb ereszkedett, és ledobták a zacskót egy olyan körzetben, ahol a passzerok már vártak rá. Minden rendben lement, csak közben a pilóta nem figyelt a magasságra, így pont nekiment egy hegycsúcsnak, és mindenki szörnyethalt.</p></div>
 
 
-# <a name="id_1397">Moldova, György: Az új császár új ruhája (101)</a>
+# <a name="id_1397">Moldova, György: Az új császár új ruhája </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Az%20uj%20csaszar%20uj%20ruhaja%20%281397%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -163,7 +163,7 @@ kortárs, magyar nyelvű, magyar szerző, szatíra
 <p>Hektor, az ifjú császár, megdöbbenve tapasztalja, hogy az egykor egységes határvédelmi rendszer most számos kisebb részre oszlott. Mindegyik kerítésen az ország leggazdagabb birtokosának neve áll: „Hentes és Hentes gyepű”, „Simliska szegély”, „Lázár mesgye”.<br>Az átkelő pontok fölé drapériákat feszítettek ki: „Ha belépsz az országomba, tudomásul kell venned az én törvényeimet”, „Mindenki annyit ér, amennyije van”, „Ne hagyjuk, hogy Sátán György nevessen a végén”. <br>Az ország viszont egyre mélyebb nyomorba süllyed. Hektor felveszi a levegőből szőtt ruháját.</p></div>
 
 
-# <a name="id_1372">Moldova, György: Az utóvéd (101)</a>
+# <a name="id_1372">Moldova, György: Az utóvéd </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Az%20utoved%20%281372%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -177,7 +177,7 @@ kortárs, magyar nyelvű, magyar szerző, szatíra
 <p>Moldova György új regénye egy partizán története, aki súlyos sérüléseiből felépülve, egyedül őrzi- állandó harckészültségben a partizán bázist.<br>Később találkozva régi bajtársaival, egyre több konfliktusba kerül velük. Nem találja a békében a helyét.<br>Régi szerelmével visszamegy a bázisra.</p></div>
 
 
-# <a name="id_1406">Moldova, György: Kádár János 2. (101)</a>
+# <a name="id_1406">Moldova, György: Kádár János 2. </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Kadar%20Janos%202_%20%281406%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

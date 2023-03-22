@@ -1,4 +1,4 @@
-# <a name="id_720">David Michaels: Barrakuda művelet (2009)</a>
+# <a name="id_720">David Michaels: Barrakuda művelet (Tom Clancy's Splinter Cell 2) (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/David%20Michaels/Barrakuda%20muvelet%20%28720%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

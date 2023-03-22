@@ -1,4 +1,4 @@
-# <a name="id_771">Fejős, Éva: Csajok (2016)</a>
+# <a name="id_771">Fejős, Éva: Csajok (Csajok 1) (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fejos%2C%20Eva/Csajok%20%28771%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
@@ -9,7 +9,7 @@ kortárs, magyar nyelvű, magyar szerző, regény, sorozat része
 <p>Szögezzük le mindjárt: ez nem regény. Csupán egy nagyon könnyed sorozat, ha úgy tetszik: „szappanopera” olyan kérdésekről, amelyek foglalkoztatják a mai nőket, de amelyeket legfeljebb csak a legjobb barátnőikkel beszélnek meg. Három nő, egy férfi: Hanna, Móni, Flóra és Márk. Barátok. Mindannyian „vénuszlakók”, és mindannyian a fantáziám szüleményei. Csetlenek-botlanak az életben, szeretnek és viszontszeretik őket, néha csalódnak, néha szárnyalnak – mint bármelyikünk. Fejős Éva</p></div>
 
 
-# <a name="id_17">Fejős, Éva: Eper reggelire (2015)</a>
+# <a name="id_17">Fejős, Éva: Eper reggelire (Hotel Bali 2) (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fejos%2C%20Eva/Eper%20reggelire%20%2817%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

@@ -1,4 +1,4 @@
-# <a name="id_1212">Bud Spencer: Különben dühbe jövök (2016)</a>
+# <a name="id_1212">Bud Spencer: Különben dühbe jövök (Bud Spencer önéletrajza 1) (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bud%20Spencer/Kulonben%20duhbe%20jovok%20%281212%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

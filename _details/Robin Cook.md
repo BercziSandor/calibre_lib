@@ -1,4 +1,4 @@
-# <a name="id_103">Robin Cook: Vakság (2011)</a>
+# <a name="id_103">Robin Cook: Vakság (Jack Stapleton & Laurie Montgomery 1) (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Vaksag%20%28103%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -11,7 +11,7 @@ amerikai szerző, krimi, magyar nyelvű, orvosi krimi, regény, sorozat része
 Adva van egy csinos, fiatal orvosnő, két férfi – egyikük maga is orvos, másikuk Columbo-stílusú nyomozó- akik között a nő ingadozik. Értetlen, akadékoskodó felettesek, segítőkész kollégák. Meg a New York-i maffia, amely szenvtelenül teszi a dolgát: gyilkos és gyilkol. Ezúttal csak azt nem érti senki, hogy miért is? Mindent és mindenkit elborít a vakság. Laurine, a hősnő és az olvasó egyaránt úgy érezheti, lidércálomban él, ahol egy gigantikus puzzle-t kellene összeraknia, és a darabok még csak illeszkednek valahogy, de hogy az egészből mi lesz, nem tudni… egészen a végkifejletig, mely még a legrafináltabb, krimik tucatjain edződött olvasónak is tartogat meglepetést.
 
 
-# <a name="id_95">Robin Cook: Kromoszóma (2015)</a>
+# <a name="id_95">Robin Cook: Kromoszóma (Jack Stapleton & Laurie Montgomery 3) (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Kromoszoma%20%2895%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -24,7 +24,7 @@ fiction, crime
 Tökéletes ​génmanipuláció, korszakalkotó szervátültetések, plusz még a klónozásról is szót ejt az orvosi krimik szülőatyja. Mint a többi 15 könyve, a Kromoszóma is bővelkedik fordulatos eseményekben, s a történet végéig a valós világ tudományos fejlettsége előtt jár egy lépéssel. Robin Cook valószínűleg annak köszönheti sikerét, hogy beavatja az olvasót, olyan orvosi titokba, amelyekről sehol máshol nem lehet hallani. Kevin Marshall, a GenSys alkalmazásában álló sejtbiológus nyomozni kezd, mert kígyózó füstöt lát felszállni egy olyan szigetről, ahol a GenSys az általa kikísérletezett bonobó majmokat tartja. Az ő munkája az, hogy a bonobók génállományát emberire cserélje, a cég tiktos céljai érdekében. A génsebészeti úton átalakított bonobók leszármazottjai megváltoznak. De mennyire? A lehetőségek megrémítik Kevint. Ő az egész életét a kutatásnak szentelte, de nem akar olyan dolgot létrehozni, ami még az atombombánál is veszélyesebb lehet. Ezalatt New Yorkban a törvényszéki orvosszakértő és segédje egy másik ügyben kezd el nyomozni. Az ő kálváriájuk azzal kezdődik, hogy Carlo Franconi hullája eltűnik a boncteremből és néhány nappal később kifogják a megcsonkított tetemet a folyóból. Ki és miért lopta el Franconi hulláját? Van-e valamilyen kapcsolat a new yorki és a guineai eset között? A Kromószóma elképesztő sebességgel cikázik a két helyszín között.
 
 
-# <a name="id_106">Robin Cook: Vektor (1999)</a>
+# <a name="id_106">Robin Cook: Vektor (Jack Stapleton & Laurie Montgomery 4) (1999)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Vektor%20%28106%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -37,7 +37,7 @@ amerikai szerző, krimi, magyar nyelvű, orvosi krimi, regény, sorozat része
 Dr. ​Robin Cook a hajmeresztő orvosi thriller koronázatlan királya most visszatér, és ha lehet még félelmetesebb, mint valaha. A „vektor”, vagyis a könyv címe egy hordozó, amely egyik szervezetből a másikba juttatja el a fertőzést. Jack Stapleton és Laurie Montgomery kórboncnokok – az olvasó mindkettőjükkel találkozott már a Kromoszómában – nyugodtan végzik a dolgukat, mígnem egy meglepő halálesetre bukkannak. A szőnyegkereskedő Jason Papparis hulláját vizsgálva New Yorkban csak elvétve előforduló betegséggel, tüdőlépfenével találják szembe magukat. A törvényszéki orvosi intézetben felbukkan még egy különös, vagy inkább hátborzongató eset: egy Brad Cassidy nevű fiatalember hulláját megcsonkítva szállítják be, és az FBI tudja, hogy az áldozat az Árja Népi Hadsereg nevű skinheadekből rohamosztag alakító jobboldali szervezet tagja volt. Aztán újabb, kezdetben hétköznapinak tűnő haláleset történik: meghal Stepleton egyik barátjának nővére. Connic Davyov férje, Jurij, mielőtt az Egyesült Államokba érkezett, egy biológiai fegyvereket előállító oroszországi gyárban dolgozott. Jurij erősen antiszemita beállítottságú és a zsidókat okolja azért, hogy az őt mostohán kezelő új hazájában csupán taxisofőrként dolgozhat. Sikertelenségbe fulladt élete akkor kap csak értelmet, amikor megismerkedik két határozott gondolkodású férfival, Curt Rogersszel és Seve Hendersonnal, az Árja Népi Hadsereg vezetőivel. Céljaik azonosnak tűnnek, de vajon tényleg azok? És mit tehet két békés, az emberi élet védelmére fölesküdött patológus ennyi fanatikus, a legszörnyűbb tettektől sem visszariadó megszállottal szemben? Az izgalmas kérdésekre Robin Cook, a tőle megszokott lebilincselő, az olvasó figyelmét a könyv utolsó lapjáig fogva tartó stílusban válaszol.
 
 
-# <a name="id_89">Robin Cook: Fertőzés (2007)</a>
+# <a name="id_89">Robin Cook: Fertőzés (Jack Stapleton & Laurie Montgomery 5) (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Fertozes%20%2889%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -52,7 +52,7 @@ Pedig e keserû konklúzió köré felépül egy történet, tele szerelemmel, c
 Robin Cook nemhiába a kontrasztok nagymestere!
 
 
-# <a name="id_104">Robin Cook: Válság (2006)</a>
+# <a name="id_104">Robin Cook: Válság (Jack Stapleton & Laurie Montgomery 6) (2006)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robin%20Cook/Valsag%20%28104%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

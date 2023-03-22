@@ -1,4 +1,4 @@
-# <a name="id_446">Bohumil Hrabal: Őfelsége pincére voltam (2008)</a>
+# <a name="id_446">Bohumil Hrabal: Őfelsége pincére voltam (Európa Zsebkönyvek 1) (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Ofelsege%20pincere%20voltam%20%28446%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -12,7 +12,7 @@
 <p>„És ​a valósággá vált hihetetlen nem hagyott el engem, én hittem a hihetetlenben, a meglepő meglepetésben, a döbbenetben, ez volt a vezérlő csillagom…" – elmélkedik a regény hőse, aki kis pikolófiúból milliomos szállodatulajdonossá lett, majd a háború és a kommunista hatalomátvétel után vagyonát vesztve, magányos útkaparóként ismeri fel az élet halálosan keserű örömét. „Jól figyeljenek arra, amit mondok" – figyelmeztet bennünket újra és újra Hrabal; és mi figyelünk hökkenten, ámuldozva – ilyen történeteket nem tud más, csak ő, az örök csibész, a legszürreálistább realista, akinek szemében megszépül minden: mint a széttárt lábú szállodai örömlány virágokkal felcicomázott szőrdombocskája, olyan szépségesen tárulkozik ki előtte minden egyes megismételhetetlen sorsú ember. S ebben a hihetetlenül tobzódó szépségben és derűben mégis benne van a kor minden rettenete is: a nácizmusé, amely a tiszta, új német embertípus helyett borzalmas idiótát szül, és a kommunizmusé, amely a könyv lapjain fergeteges bohózatként jelenik meg.<br>Hrabal 1971-ben, tizennyolc nap alatt írta ezt a regényét, amelynek minden mondatából árad az a fajta szellemi, politikai és korántsem mellékesen erotikai szabadság, amely az akkori hatalom számára természetesen tűrhetetlen volt a modern közép-európai irodalom egyik legnagyszerűbb alkotása így csak 1989-ben jelenhetett meg legálisan az író hazájában.</p></div>
 
 
-# <a name="id_445">Bohumil Hrabal: Házimurik (2012)</a>
+# <a name="id_445">Bohumil Hrabal: Házimurik (Házimurik 1) (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Hazimurik%20%28445%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -26,7 +26,7 @@
 <p>A ​nagy közönségsikert aratott "sörgyári” könyvek mellett Hrabal írt egy másik önéletrajzi trilógiát is, amelynek köteteiben (Házimurik, Vita Nouva, Foghíjak) sajátos módon nem a szerző, hanem a feleség szólal meg első személyben, azaz: Hrabal egy "közelálló kívülálló” szemével látja és láttatja önmagát. Ez a „harmadik személyű önvallomás” újabb pszichológiai és művészi bravúr a pályán.A trilógia első kötete, a Házimurik egyfajta kettős életrajz: Hrabal és felesége hol párhuzamosan futó, hol egymásba kapcsolódó története.A negyvenes-ötvenes évek Kelet-Közép-Európájában tipikus módon mélybe lecsúszottak, perifériára sodródtak, mindent újrakezdők históriája ez, azoké, akik tizenhárom szobás családi villákból vagy legalábbis négyszobás szolgálati lakásokból indultak, és a nagy garral beharangozott új élet hajnalán silány albérleti szobákban, jószívű ismerősöknél húzták meg magukat.A tehetős polgárcsalád jogi doktorátussal rendelkező s félig-meddig önkéntes proletárrá züllött fia és a kitelepített szudétanémet nagypolgári famíliából származó leány mindent elveszített, s mégis hihetetlenül gazdag: megadatott számukra a létezés öröme, a kis dolgok nagy szeretete. És mi lehetne alkalmasabb e hrabali élet-krédónak a megfogalmazására, mint egy szerelmi történet: a két sokat próbált ember találkozik, és egymásba szeret.Amiről Hrabal ír e kisregényben, elemeiben jól ismert korábbi műveiből, s talán kissé banális is: napfény ragyog a Moldva menti fák koronájában, nyári eső mossa a málladozó vakolatú libeňi házak falát, sörisszák hahotájától hangos a kültelki kocsma, nyugdíjasok ülnek a kapu előtti kispadon, autodidakta filozófusok elmélkednek életről-halálról, forradalomról-háborúról, jogról-igazságról… vagyis maga a sokszínű élet tárul föl előttünk ahogy feltartóztathatatlanul hömpölyög, elevenen lüktet a hrabali elbeszélés árja.</p></div>
 
 
-# <a name="id_453">Bohumil Hrabal: Vita nuova (2009)</a>
+# <a name="id_453">Bohumil Hrabal: Vita nuova (Házimurik 2) (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Vita%20nuova%20%28453%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -40,7 +40,7 @@ biography & autobiography, general, crafts & hobbies, fiction, regény, irodalom
 <p>A ​Vita nuova a Házimurik folytatása. Annak az új önéletrajzi trilógiának a második kötete, amelyben Hrabal feleségének szavaival mondja el közös életük történetét. E középső résznek látszatra alig van cselekménye: az itt szereplő – 1955-től 1962-ig tartó – időszakban a történelem legfeljebb egy-egy utalás erejéig van jelen.<br>Az egymás után sorjázó képekben feltűnnek ugyan a Hrabal korábbi műveiből már ismert különc figurák – Vladimír, Hant'a, a festő Smejkal –, de nekik is legfeljebb hangulati jelentőségük van.<br>A mű szempontjából sokkal fontosabb a belső világ ábrázolása. A Vita nuová-ban ugyanis Hrabal valóban a legintimebb dolgairól vall. Arról, hogy miként válik éppen ezekben az években igazi íróvá; hogyan küzd meg – elsősorban önmagával, a saját kishitűségével, szorongásaival – az áhított írói címért; hogyan lesz „ász”, „az írás világbajnoka”.<br>Hrabal ebben a periódusban még teljesen „a maga ura”: nincsenek cenzorai, de olvasói sem. Önmaga előtt kell hát számot adnia minden belső rezdülésről, s a mélybe szállás e dantei útját olyan ritka őszinteséggel, akkora erkölcsi erővel és annyi lélektani hitellel érzékelteti, hogy könyve valóságos ön-eposszá nő.</p></div>
 
 
-# <a name="id_442">Bohumil Hrabal: Foghíjak (2013)</a>
+# <a name="id_442">Bohumil Hrabal: Foghíjak (Házimurik 3) (2013)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Foghijak%20%28442%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -54,7 +54,7 @@ biography & autobiography, general, crafts & hobbies, fiction, regény, irodalom
 <p>A ​Foghíjak, Hrabal önéletrajzi trilógiájának harmadik kötete, a beérkezés krónikája. Az író, aki addig sorra-rendre az asztalfióknak alkotta műveit, a hatvanas évek közepétől szinte egyik napról a másikra híres lesz. Egymást követik sikeresnél sikeresebb kötetei, a Szigorúan ellenőrzött vonatok című film elnyeri az Oscar-díjat, ő maga tagja lesz az írószövetségnek, s tevékenységét a megújhodó Csehszlovákia felszabadult légkörében állami díjjal jutalmazzák. Ebbe a karriertörténetbe azonban éles cezúrát von 1968. augusztus 21-e. Hrabal a felszámolás alatt álló írók listájára kerül, kéziratait visszaadják a kiadók, ráadásul aggódnia kell személyes biztonságáért is. Hrabal kegyetlenül pontos portrét rajzol önmagáról. A zseniális ötlettel felesége nevében elkészült arcmás nem kíméli jellemének legkiáltóbb torzulásait és ellentmondásait sem. Ő az, aki mindig és mindenben világbajnok akart lenni, s akit közben a legnagyobb fokú kishitűség gyötör. Aki bátorságról és szabadságról papolt, s most reszketve, felfordult gyomorral lesi, nem áll-e meg kapuja előtt egy fekete autó. Aki könyörtelen és kegyetlen tudott lenni az emberekhez, s könnyekig meghatódik egy tejet lefetyelő cirmos macskakölyök láttán. Aki epeműtétje után bebeszéli magának, hogy rákja van, és meg fog halni, de azért a tepertőről és a rozspálinkáról sem tud lemondani, sőt a nyaralójuk melletti erdő minden odvas fájában elrejt egy-egy üveget, hogy biciklitúrái során legyen mivel felvidítania magát. Öngúny és önimádat váltja szüntelenül egymást ebben a portréban, amely éppúgy csupa ellentmondás, akárcsak a háttérként felrajzolt világ, ahol csúf és szép, útszéli és fennkölt keveredik elválaszthatatlanul.</p></div>
 
 
-# <a name="id_448">Bohumil Hrabal: Sörgyári capriccio (2017)</a>
+# <a name="id_448">Bohumil Hrabal: Sörgyári capriccio (Kisvárosi történetek 1) (2017)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Sorgyari%20capriccio%20%28448%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -68,7 +68,7 @@ biography & autobiography, general, crafts & hobbies, fiction, regény, irodalom
 <p>„Ez az írásom krónika; anyámról, apámról és nagybátyámról szól. Amíg a való világban voltak, olyan erősen fogták le írógépem billentyűit, hogy nem rajzolhattam meg életük költészetének grafikonját. Ma már senki nem fogja a kezemet, s én ámulattal rá-rádöbbenek, hogy nem vagyok már fiatal, s hogy a mulasztás veszélye fenyeget, mert egyedül én adhatok hírt immár arról a sörgyárról, arról a kisvárosról, ahol megállt az idő. Chagall festészetének gaviatikus stílusa ihletett, s a külső, szembeszökő eseményeket feljegyző és montírozó poétikát a vágy belső modelljével ötvöztem, és ez a vágy tette lehetővé, hogy egy fiatalasszonnyá változzam, a képzelet zseblámpájával bevilágítsak a múltba, és megjelenítsek egy életszeletet, melyből szövegbe menthető egy gyönyörű asszony, akit elnyelt a könyörtelen idő."</p></div>
 
 
-# <a name="id_440">Bohumil Hrabal: Díszgyász (2009)</a>
+# <a name="id_440">Bohumil Hrabal: Díszgyász (Kisvárosi történetek 2) (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Diszgyasz%20%28440%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -82,7 +82,7 @@ cseh szerző, magyar nyelvű, regény, sorozat része, elbeszélés, cseh, 20. s
 <p>Bohumil Hrabal Díszgyász című kötetében – éppúgy, mint életrajzi ciklusa előző darabjában, a Sörgyári capricció-ban –, anyja, apja, nagybátyja emlékét idézi. S az álmos kisvárosét, ahol ezúttal nekilódul az idő és a történelem, hogy a családi krónika hőseit belevesse egy kegyetlen háború hétköznapi megpróbáltatásaiba, és egy „tudó tudatlan” gyermek segítségével levizsgáztassa őket tisztességből, emberségből.<br>A regény világa realitásban gyökerező, ugyanakkor hallatlanul szellemes is. Hrabal humora, a jellem- és helyzetkomikum frappáns alkalmazása, a remekbeszabott alakok szerepeltetése, és az író pszichológiai érzéke miatt a mű mindenkihez szól.</p></div>
 
 
-# <a name="id_444">Bohumil Hrabal: Háromlábú ló az ügetőpályán (101)</a>
+# <a name="id_444">Bohumil Hrabal: Háromlábú ló az ügetőpályán </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Haromlabu%20lo%20az%20ugetopalyan%20%28444%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

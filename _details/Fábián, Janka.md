@@ -1,4 +1,4 @@
-# <a name="id_645">Fábián, Janka: A német lány (2012)</a>
+# <a name="id_645">Fábián, Janka: A német lány (A német lány 1) (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fabian%2C%20Janka/A%20nemet%20lany%20%28645%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -12,7 +12,7 @@ fiction, romance, general
 <p>Sepp Weinbach, azaz Borpataky Jóska, a baranyai sváb fiatalember a német hadsereg századosaként vesz részt először Franciaország megszállásában, majd Sztálingrád ostromában. A két esemény más-más okból örökre megváltoztatja az életét. A háború után Bajorországban letelepedő férfit csakhamar utoléri a múltja, egy furcsa kislány, Rose alakjában. Rose, a hármas (magyarnémetfrancia) identitással rendelkező lány tizennyolc éves korában, a hatvanas évek elején diákként Párizsba kerül. A regény az ő boldogságkereséséről szól: vajon képes lesz-e megküzdeni a saját maga és a már csaknem húsz éve véget ért, de a lelkekben még dúló háború démonaival? Képes lesz megtalálni helyét egy családban, amelyet már a felbukkanása előtt is meglehetősen kusza viszonyok, elhallgatott titkok és fel nem dolgozott tragédiák jellemeztek? Végül pedig: többszöri próbálkozás után sikerül-e megtalálnia az igaz szerelmet? Fábián Janka hamarosan megjelenő új könyvében választ találhat a kérdésekre.</p></div>
 
 
-# <a name="id_597">Fábián, Janka: Emma szerelme (2012)</a>
+# <a name="id_597">Fábián, Janka: Emma szerelme (Emma 1) (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fabian%2C%20Janka/Emma%20szerelme%20%28597%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -26,7 +26,7 @@ fiction, historical
 <p>A tizenhárom éves Emmát apja a halála előtt fiatalkori barátja feleségére és hajdani szerelmére, Kóthay Évára bízza. A Balaton parti festői kisvárosban, ahol még jól emlékeznek Emma világszép édesanyjára és az annak idején róla terjengő pletykákra, féltékenységgel vegyes gyanakvással fogadják a fiatal lányt. Emma élete akkor bolydul fel igazán, amikor váratlanul felbukkan a család régóta Párizsban élő, gyermekorvosként nevet szerzett fia, Gábor. A lányban, aki gyerekkorában súlyos titkok tudója lett, és aki a férfit vádolja anyja haláláért, feltámad a gyűlölet. Ám a szerelmet és a gyűlöletet olykor csak egy hajszál választja el egymástól. Lehet, hogy Emmát és Gábort minden félreértés és tragédia ellenére mégis egymásnak szánta a sors?</p></div>
 
 
-# <a name="id_595">Fábián, Janka: Emma fiai (2012)</a>
+# <a name="id_595">Fábián, Janka: Emma fiai (Emma 2) (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fabian%2C%20Janka/Emma%20fiai%20%28595%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -40,7 +40,7 @@ fiction, historical
 <p>A ​romantikus családregény első kötete végén úgy búcsúztunk el Emmától és Gábortól, hogy éppen önfeledten játszottak három gyönyörű kisfiukkal a balatonkörtvélyesi házuk kertjében, és Emma már negyedik gyermeküket várta.<br>Az Emma fiai című második részben a három fiúgyermek – Tamás, Péter és Gábor, azaz Öcsi – történetével ismerkedhetünk meg. A három fiú, akik külsőleg és jellemükben is nagyon különböznek egymástól, a maguk egyéni módján és eszközeivel próbálják megtalálni a boldogságot a húszas–harmincas években. A második világháború kitörése és eseményei azonban a Kóthay családot is megtépázzák; nem maradnak el a tragédiák sem. A háború után kibontakozó új rendszer pedig baljós árnyékot vet az életben maradottak jövőbeni sorsára.<br>Az Emma szerelméhez hasonlóan a családregény második kötete is bővelkedik izgalmas, váratlan fordulatokban, valamint megható, boldog és elkeserítő pillanatokban – egyszóval igazi kikapcsolódást ígér. Ha a kedves Olvasónak tetszett az Emma szerelmének történetét elmesélő első rész, a három fiúról szóló második kötetben sem fog csalódni.<br>Hamarosan megjelenik a harmadik, befejező rész is, amely a huszadik század végéig kíséri a Kóthay család lebilincselően izgalmas, jellegzetesen magyar történetét: az Emma lánya.</p></div>
 
 
-# <a name="id_596">Fábián, Janka: Emma lánya (2012)</a>
+# <a name="id_596">Fábián, Janka: Emma lánya (Emma 3) (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fabian%2C%20Janka/Emma%20lanya%20%28596%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

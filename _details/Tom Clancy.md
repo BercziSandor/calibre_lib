@@ -1,4 +1,4 @@
-# <a name="id_1030">Tom Clancy: Vadászat a Vörös Októberre (2019)</a>
+# <a name="id_1030">Tom Clancy: Vadászat a Vörös Októberre (Jack Ryan-univerzum 4) (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Tom%20Clancy/Vadaszat%20a%20voros%20oktoberre%20%281030%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

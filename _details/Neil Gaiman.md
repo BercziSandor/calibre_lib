@@ -1,10 +1,10 @@
-# <a name="id_890">Neil Gaiman: Shoggoth Különleges (101)</a>
+# <a name="id_890">Neil Gaiman: Shoggoth Különleges (Novellák 1) </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Shoggoth%20Kulonleges%20%28890%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Shoggoth%20Kulonleges%20%28890%29/Shoggoth%20Kulonleges%20-%20Neil%20Gaiman.epub)
 
-# <a name="id_665">Neil Gaiman: 27 képtelen történet (101)</a>
+# <a name="id_665">Neil Gaiman: 27 képtelen történet </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/27%20keptelen%20tortenet%20%28665%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -17,16 +17,16 @@ science fiction
 <font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;">A legjobb kortárs angolszász szerzők vadonatúj novellái akár a képzelet legkülső határairól merítik témájukat, akár a mindennapokból, egy közös bennük: különlegesek. Vannak köztük olyanok, melyek megborzongatnak a forróbb napokon is, mások pedig megmelengetik a lelket, ha hűvös az idő. Mesék ezek egy varázslatos, néha félelmetes, néha megmosolyogtató világról, amely a mi világunk. Mesék felnőtteknek.</span></font>
 
 
-# <a name="id_887">Neil Gaiman: Góliát (101)</a>
+# <a name="id_887">Neil Gaiman: Góliát </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Goliat%20%28887%29/cover.jpg" alt="cover" width="300"/>
 
-# <a name="id_888">Neil Gaiman: Hó, tükör, almák (101)</a>
+# <a name="id_888">Neil Gaiman: Hó, tükör, almák </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Ho%2C%20tukor%2C%20almak%20%28888%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Ho%2C%20tukor%2C%20almak%20%28888%29/Ho%2C%20tukor%2C%20almak%20-%20Neil%20Gaiman.epub)
 
-# <a name="id_889">Neil Gaiman: Mátrix (101)</a>
+# <a name="id_889">Neil Gaiman: Mátrix </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Matrix%20%28889%29/cover.jpg" alt="cover" width="300"/>
 
 # <a name="id_224">Neil Gaiman: Amerikai Istenek (2001)</a>

@@ -1,4 +1,4 @@
-# <a name="id_573">Stephen King: Minden haláli (2004)</a>
+# <a name="id_573">Stephen King: Minden haláli (A Setét 1) (2004)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Minden%20halali%20%28573%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -14,7 +14,7 @@ Vagy: 1408. Ha összeadjuk a számjegyeket, 13-at kapunk, ami szerencsétlen sz�
 Vagy… de tudja mit, Kedves Olvasó? Üljön bele kedvenc karosszékébe, és olvassa el Stephen King tizennégy idegborzoló, lélegzetelállító, vérfagyasztó elbeszélését.
 
 
-# <a name="id_556">Stephen King: A búra alatt (2014)</a>
+# <a name="id_556">Stephen King: A búra alatt (A búra alatt 1) (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20bura%20alatt%20%28556%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -27,7 +27,7 @@ maine, földönkívüliek, fantasy, sci-fi, szépirodalom, amerikai egyesült á
 A világ első számú horrorírójának 2009-es nagyregénye valamikor 2012 után játszódik egy amerikai kisvárosban, amelyre fényes napvilágnál egyszer csak leereszkedik egy hatalmas bura, elszigetelve a települést nemcsak a külvilágtól, hanem alkalmasint az oxigén-utánpótlástól is. A közösség pillanatok alatt ellenségeskedő csoportokra szakad, a mikrotársadalom elkezdi felszámolni önmagát – holott elsőrendű érdeke az volna, hogy szó szerint kiutat találjon, amíg még nem késő. Ehhez persze először azt kellene megállapítaniuk, mi is ez a bura, honnan származik, mi működteti – és fel lehet-e emelni valaha is.
 
 
-# <a name="id_557">Stephen King: A búra alatt (2014)</a>
+# <a name="id_557">Stephen King: A búra alatt (A búra alatt 2) (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20bura%20alatt%20%28557%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -40,7 +40,7 @@ maine, földönkívüliek, fantasy, sci-fi, thriller, amerikai egyesült államo
 A világ első számú horrorírójának 2009-es nagyregénye valamikor 2012 után játszódik egy amerikai kisvárosban, amelyre fényes napvilágnál egyszer csak leereszkedik egy hatalmas bura, elszigetelve a települést nemcsak a külvilágtól, hanem alkalmasint az oxigén-utánpótlástól is. A közösség pillanatok alatt ellenségeskedő csoportokra szakad, a mikrotársadalom elkezdi felszámolni önmagát – holott elsőrendű érdeke az volna, hogy szó szerint kiutat találjon, amíg még nem késő. Ehhez persze először azt kellene megállapítaniuk, mi is ez a bura, honnan származik, mi működteti – és fel lehet-e emelni valaha is.
 
 
-# <a name="id_539">Stephen King: A harcos (2016)</a>
+# <a name="id_539">Stephen King: A harcos (A setét torony 1) (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20harcos%20%28539%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -57,7 +57,7 @@ A rejtélyek kulcsa, avagy a végső cél, mit rejt, és hol leledzik a titokzat
 Egy páratlan sorozat Stephen King tollából, ami utat nyit az olvasó fantáziájának, kiragadja az unalmas hétköznapok súlya alól.
 
 
-# <a name="id_540">Stephen King: A hármak elhívatása (2013)</a>
+# <a name="id_540">Stephen King: A hármak elhívatása (A setét torony 2) (2013)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20harmak%20elhivatasa%20%28540%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -70,7 +70,7 @@ Egy páratlan sorozat Stephen King tollából, ami utat nyit az olvasó fantázi
 A harcos-ban megismert Roland sebesülten, betegen, ám rendíthetetlenül halad célja, a titokzatos Setét Torony felé. Kietlen, veszélyekkel terhes vidéken visz az útja, ahol váratlanul egy ajtóba ütközik, amely az 1980-as évek New Yorkjába nyílik. A harcosnak át kell mennie ebbe a másik világba, hogy elhívja magával segítőtársait, akiket a feketébe öltözött ember cigánykártyán megjósolt neki. Így fonódik össze Roland, a harcos, Eddie Dean. a drogcsempész, Odetta Holmes, a gyönyörű, okos, ám egy balesetben megnyomorodott fekete lány, valamint Jack Mort, a gyilkos hajlamú könyvelő sorsa. A hármak elhívatása lélegzetelállító kalandokban bővelkedő, az „elmozdult világokban" játszódó könyv, amely, bár nem zárul le benne a főhősök sorsa, mégis élvezetes olvasmány.
 
 
-# <a name="id_845">Stephen King: Puszta földek (2004)</a>
+# <a name="id_845">Stephen King: Puszta földek (A setét torony 3) (2004)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Puszta%20foldek%20%28845%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -83,7 +83,7 @@ A harcos-ban megismert Roland sebesülten, betegen, ám rendíthetetlenül halad
 Roland és barátai, Eddie és Susannah Dean elszántan haladnak úti céljuk, a titokzatos Setét Torony felé. A homárszörnyekkel sikeresen megküzdöttek ugyan, ám mepróbáltatásaiknak koránt sincs vége. Új ellenséggel találják szemközt magukat, a félig gép, félig állat ősöreg óriási medvével. Elhívják Jake-et, azt a kisfiút, akit a harcos annak idején kénytelen volt feláldozni. Lud, az egykor szupercivilizált-technicizált város (talán a valahai New York?) – amelyet feltehetőleg szörnyűséges nukleáris katasztrófa pusztított el – romjai között élethalálharcot vívnak a testileg-lelkileg eltorzult, vérszomjas túlélőkkel. Kimerült, ám tántoríthatatlan hőseink folytatják útjukat. Sikerül-e elérniük a Setét Tornyot, s ott vajon mi vár rájuk?
 
 
-# <a name="id_846">Stephen King: Varázsló és üveg (2014)</a>
+# <a name="id_846">Stephen King: Varázsló és üveg (A setét torony 4) (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Varazslo%20es%20uveg%20%28846%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -96,7 +96,7 @@ Roland és barátai, Eddie és Susannah Dean elszántan haladnak úti céljuk, a
 Roland és hűséges barátai sikeresen megküzdöttek Blaine-nel, a Monóval. Egy valaha civilizált, ám mostanra elpusztult városban szálltak le a bomlott számítógépagyú egysínű vasútról. Roland elérkezettnek látja az időt, hogy pihenőjük közben elmesélje társainak múltját. Megtudjuk, miért kellett idő előtt elhagynia atyái földjét, Gileádot, s milyen küldetéssek érkezett Alain és Cuthbert barátjával a Külső Ívbe. Itt ismerte meg a gyönyörű és bátor Susan Delgadót, s egy csodaszép, szenvedélyes, ám tragikus szerelem története tárul elénk. A pihenő végeztével hőseink ismét útnak indulnak; céljuk a távolban magasodó, égbe nyúló tornyú, rejtelmes üvegpalota. Talán meglelték a Setét Tornyot? Stephen King regényfolyamának negyedik kötete – a korábbiakhoz hasonlóan – izgalmakban, kalandokban, érzelmekben bővelkedő, lebilincselő olvasmány.
 
 
-# <a name="id_847">Stephen King: Callai farkasok (2015)</a>
+# <a name="id_847">Stephen King: Callai farkasok (A setét torony 5) (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Callai%20farkasok%20%28847%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -109,7 +109,7 @@ időutazás, new york, undefined, fantasy, sci-fi, dark fantasy, magyar nyelvű,
 Roland Deschaint, aki a civilizáció pusztulása után a Setét Tornyot keresi, ká-ja délkeletnek vezérli. Társaival átvágnak Közép-Világ erdején, és eljutnak Calla Bryn Sturgis környékére, egy békés, farmerek lakta településre. A városka a Sugár árnyékában fekszik, s azon túl ott van valahol a Setét Torony. Egyik lakója, Callahan atya elmeséli, hogy Calla farkasai tízévenként lecsapnak rájuk, és elragadják minden ikerpár egyik tagját, majd fizikailag és lelkileg megnyomorítva küldik vissza. A harcos és társai a városlakókkal együtt elhatározzák, hogy szembeszállnak a pusztító robotfenevadakkal… A történet egyszerre játszódik a hetvenes évek New Yorkjában és Roland világában, és több szálon kapcsolódik King többi regényéhez.
 
 
-# <a name="id_542">Stephen King: Susannah dala (2005)</a>
+# <a name="id_542">Stephen King: Susannah dala (A setét torony 6) (2005)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Susannah%20dala%20%28542%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -126,7 +126,7 @@ Eközben Roland és Eddie 1977-ben, Maine államban bolyong, véres küzdelembe 
 A Setét Torony, minden világok pillére pedig egyre jobban inog…
 
 
-# <a name="id_541">Stephen King: A Setét Torony (2009)</a>
+# <a name="id_541">Stephen King: A Setét Torony (A setét torony 7) (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20Setet%20Torony%20%28541%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -139,13 +139,13 @@ undefined
 A Susannah dala ott ér véget, hogy közeleg a szülés ideje... és a Dixie Malacban zajló küzdelem során Callahan atya halálos sebet kap. Időközben szörnyű kínok közepette megszületik Roland és Susannah/Mia fia, Mordred, a pókká átváltozni képes rettenetes mutáns. Őrületes tempóban növekszik-fejlődik, folyton éhes, és ezt az éhet csillapítani kell: elsőként szülőanyját, Miát falja fel. Majd nekiindul, hogy a Bíbor Király parancsára elpusztítsa Rolandot is. A megfogyatkozott ka-tet rendíthetetlenül folytatja útját a Setét Torony felé. Bármennyire szereti is Roland a harcostársait, a Torony megismerésének vágya mindennél erősebb benne - bárkit és bármit képes feláldozni célja eléréséért. Véres harcok és számtalan nehézség, nélkülözés árán - miközben az író, Stephen King életét is megmentik- Roland végre ott áll a világokat mozgató Setét Torony tövében: elérkezett a végső összecsapás ideje. Le kell számolni a Bíbor Királlyal, és ezzel megmenteni a világot.
 
 
-# <a name="id_1268">Stephen King: Átfúj a szél a kulcslyukon (2014)</a>
+# <a name="id_1268">Stephen King: Átfúj a szél a kulcslyukon (A setét torony 8) (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Atfuj%20a%20szel%20a%20kulcslyukon%20%281268%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Atfuj%20a%20szel%20a%20kulcslyukon%20%281268%29/Atfuj%20a%20szel%20a%20kulcslyukon%20-%20Stephen%20King.epub)
 
-# <a name="id_549">Stephen King: A talizmán (2007)</a>
+# <a name="id_549">Stephen King: A talizmán (A talizmán 1) (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20talizman%20%28549%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -159,7 +159,7 @@ A Susannah dala ott ér véget, hogy közeleg a szülés ideje... és a Dixie Ma
 <p>1981. ​szeptember 15-én egy Jack Sawyer nevű gyermek áll a szárazföld és a víz találkozásánál, keze a farmernadrágja zsebében, tekintete a végtelen Atlanti-óceánon… Jack még nem is sejti, milyen iszonyatosan nehéz feladat vár rá: a Sors őt szemelte ki arra, hogy megküzdjön a minden szépséget elpusztító gonoszsággal, s nemcsak Amerikában, hanem egy fantasztikus másik világban, a Territóriumokban is, ebben a csodaszép, szűz, a civilizációtól érintetlen országban, ahol az emberek varázslatban élnek, de ahol most épp gonosz erők készülnek megragadni a hatalmat. Jack még csak annyit tud, hogy anyja, Lily Cavanaugh, a B kategóriájú filmek koronázatlan királynője beteg – talán halálosan beteg – egyre csak menekül valami elől.<br>A tizenkét éves Jack hamarosan nagy útra indul, hogy veszedelmes kalandok során át megszerezze a csodatévő Talizmánt, és megmentse vele anyja életét… s egyúttal az egész világot, a Territóriumokat, a Territóriumok Territóriumait, a világegyetemet! Förtelmes mutánsokkal, eleven, vérszomjas fákkal, farkasemberekkel s még ezer veszéllyel kell megküzdenie, de Jack Sawyert kemény fából faragták, s ha kell, le tudja győzni saját gyávaságát, önzését, bosszúvágyát is.<br>A hallatlanul népszerű amerikai horrorszerző és Peter Straub borzongatóan szép mesét írt, amelyből azért a hamisítatlan Stephen King-i horror sem hiányzik.</p></div>
 
 
-# <a name="id_118">Stephen King: Az 1-2. (1995)</a>
+# <a name="id_118">Stephen King: Az 1-2. (Az 1) (1995)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Az%201-2_%20%28118%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -172,7 +172,7 @@ elbeszélés, kaland, szórakoztató irodalom, szépirodalom, kísértet- és r�
 <p class="description">Heten voltak, gyerekek - mind a heten a másság számkivetettjei: Bill. A bandavezér, mert dadogott; Ben, akit kövérsége miatt csúfoltak; Richie, aki mindig előbb jártatta a száját, és csak azután gondolkodott; Stan, akit zsidósága miatt közösítettek ki a többiek; Mike, akit a bőre színe miatt; Eddie, aki félt, szorongott, és persze súlyos asztmás volt, és végül az egyetlen lány, Beverly, aki csak szegény volt, rossz ruhákban járt, és akit az apja ütött-vert, testileg-lelkileg terrorizált. Ők jöttek össze, kötöttek életre-halálra szóló barátságot és vérszövetséget, ami oly nagy erőt adott nekik, hogy még a város életét pokollá tevő, huszonhét évenként feltámadó, gyermekekkel táplálkozó, ezerarcú szörnnyel is szembe mertek szállni odalenn, a város alatti kiismerhetetlen csatornarendszer labirintusában. Meg is sebesítik Az-t, majd felnőttként, drámaian megfogyatkozva újból visszatérnek, hogy gyermekkorukban tett fogadalmukat megtartsák, s ha lehet, egyszer s mindenkorra végezzenek vele - hogy a megmaradt és az eljövendő gyerekeket soha, de soha ne tarthassa többé rettegésben Az.<br><br>Ahány oldal Stephen King terjedelmes regénye, annyi meglepő esemény, váratlan fordulat. Az író rajongói ezúttal is azt kapják, amire számos nagysikerű művének ismeretében bizton számítanak.</p>
 
 
-# <a name="id_119">Stephen King: Az 1-2. (1995)</a>
+# <a name="id_119">Stephen King: Az 1-2. (Az 2) (1995)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Az%201-2_%20%28119%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -185,7 +185,7 @@ kaland, szórakoztató irodalom, szépirodalom, tartalom szerint, akció, regén
 <p class="description">Heten voltak, gyerekek - mind a heten a másság számkivetettjei: Bill. A bandavezér, mert dadogott; Ben, akit kövérsége miatt csúfoltak; Richie, aki mindig előbb jártatta a száját, és csak azután gondolkodott; Stan, akit zsidósága miatt közösítettek ki a többiek; Mike, akit a bőre színe miatt; Eddie, aki félt, szorongott, és persze súlyos asztmás volt, és végül az egyetlen lány, Beverly, aki csak szegény volt, rossz ruhákban járt, és akit az apja ütött-vert, testileg-lelkileg terrorizált. Ők jöttek össze, kötöttek életre-halálra szóló barátságot és vérszövetséget, ami oly nagy erőt adott nekik, hogy még a város életét pokollá tevő, huszonhét évenként feltámadó, gyermekekkel táplálkozó, ezerarcú szörnnyel is szembe mertek szállni odalenn, a város alatti kiismerhetetlen csatornarendszer labirintusában. Meg is sebesítik Az-t, majd felnőttként, drámaian megfogyatkozva újból visszatérnek, hogy gyermekkorukban tett fogadalmukat megtartsák, s ha lehet, egyszer s mindenkorra végezzenek vele - hogy a megmaradt és az eljövendő gyerekeket soha, de soha ne tarthassa többé rettegésben Az.<br><br>Ahány oldal Stephen King terjedelmes regénye, annyi meglepő esemény, váratlan fordulat. Az író rajongói ezúttal is azt kapják, amire számos nagysikerű művének ismeretében bizton számítanak.</p>
 
 
-# <a name="id_931">Stephen King: Aki kapja, marja (2020)</a>
+# <a name="id_931">Stephen King: Aki kapja, marja (Bill Hodges 2) (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Aki%20kapja%2C%20marja%20%28931%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -201,7 +201,7 @@ Alighogy elrejti a pénzt és a noteszokat, Morrist nemi erőszakért bevágják
 King a Tortúra óta nem foglalkozott az olvasóval, aki addig bálványozza az írót, amíg baj nem lesz belőle. Az Aki kapja, marja nemcsak vérfagyasztó, bravúros krimi, de azt is bemutatja, hogyan formálja az irodalom az életet – jól vagy rosszul, most és mindörökké.
 
 
-# <a name="id_553">Stephen King: Végítélet I-II. (2001)</a>
+# <a name="id_553">Stephen King: Végítélet I-II. (Végítélet 1) (2001)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Vegitelet%20I-II_%20%28553%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -214,7 +214,7 @@ kaland, szórakoztató irodalom, szépirodalom, fantasztikus regények, tartalom
 <p class="description">A történelem nem szűkölködött tragikus eseményekben: mindent elsöprő árvizek, pusztító tűzvészek, határokat nem ismerő járványok tizedelték az emberiséget. Ám minden elemi csapásnál nagyobb fenyegetést jelent önmaga számára az ember. A tudomány és a technika fejlődésével már-már tökélyre fejlesztette a pusztítás eszközeit, s szinte törvényszerű, hogy előbb-utóbb kicsúszik a kezéből az ellenőrzés. Visszaélt tudásával és hatalmával, megérett a bűnhődésre...<br>... valahol a kaliforniai sivatag mélyén, egy titkos katonai laboratóriumban üzemzavar támad, s elszabadul egy gyilkos vírus. Iszonyatos sebességgel tarol végig az országon, tömegesen hullanak az emberek. Ám ismeretlen okokból néhányuk szervezete ellenáll a szörnyű kórnak, épségben vészelik át a járványt. Egyetlen közös van bennük: hasonló álmokat látnak, melyekben vagy egy idős néger asszony, vagy egy baljós sötét ember hívja őket. Felkerekednek hát a túlélők, hogy eleget tegyenek a Gondviselés, illetve a Gonosz kihívásának. Természetesen közben meg kell szervezni az életet. Vajon elég erősen munkálnak bennük a régi erkölcsi normák ahhoz, hogy újra felépítsék a társadalmat, mielőtt teljesen eluralkodik a káosz? Közösséggé tudnak-e kovácsolódni az elszórt csoportocskák, meg tudják-e őrizni emberségüket, vagy végképp széthullik a civilizáció? Mindeközben a Gonosz sem tétlenkedik, s hamarosan elkerülhetetlenné válik az összecsapás...<br>Stephen King lebilincselően izgalmas, hátborzongató epizódokban bővelkedő monumentális regényében figyelmeztet: "Emberiség, vigyázz!"<br>A könyvből négyrészes tévéfilm készült Gary Sinise és Rob Lowe főszereplésével, s maga a szerző is feltűnik a vásznon egy kisebb szerepben.</p>
 
 
-# <a name="id_930">Stephen King: Dans macabre (101)</a>
+# <a name="id_930">Stephen King: Dans macabre </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Dans%20macabre%20%28930%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

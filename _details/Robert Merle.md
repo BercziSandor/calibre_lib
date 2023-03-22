@@ -1,4 +1,4 @@
-# <a name="id_330">Robert Merle: Francia história (2010)</a>
+# <a name="id_330">Robert Merle: Francia história (Francia história 1) (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Francia%20historia%20%28330%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -11,7 +11,7 @@
 Valóságos ​írói rekordot állított fel a Magyarországon is rendkívül népszerű, világhírű francia szerző. Tizenhárom izgalmas, fordulatos regényben dolgozta fel a francia történelem egyik legmozgalmasabb, legviharosabb időszakának, a XVI. század végének és XVII. század elejének, a hugenották, az első Bourbonok, Navarrai Henrik, Medici Mária, XIII. Lajos és Richelieu korának történetét. A regényfolyam főhőse a szenvedélyes és gáláns Pierre de Siorac lovag, a reneszánsz típusú, okos, nemes lelkű és finom érzésű katona-polgár-értelmiségi arisztokrata figura, aki lépten-nyomon veszedelmes kalandokba keveredik, és mindig ott van, ahol a korabeli történelmet alakítják, és ahol „libben a szoknya”. Mert Pierre de Siorac nemcsak a királyoknak, hadvezéreknek, főpapoknak és nemesuraknak, hanem az előkelő szépasszonyoknak is nagy barátja. Nem csoda hát, hogy sokszor eszére, szívére, diplomáciai érzékére és kardjára egyaránt szüksége van, hogy kivágja magát szorult helyzetéből. A Francia história című, 13 kötetes regényfolyam első darabja.
 
 
-# <a name="id_329">Robert Merle: Csikóéveink (2018)</a>
+# <a name="id_329">Robert Merle: Csikóéveink (Francia história 2) (2018)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Csikoeveink%20%28329%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -24,7 +24,7 @@ Valóságos ​írói rekordot állított fel a Magyarországon is rendkívül n
 A ​XVI. századi Franciaországot, a hugenották viharos, vérzivataros századát felelevenítő regényfolyam második kötetében a főhős, a jóvágású, eszes, bátor, szenvedélyes és gáláns Pierre de Siorac és balkézről való szépséges öccse, akinek látása ugyancsak megdobogtatja a női szíveket, Montpellier híres egyetemére mennek tanulni. Pierre orvosnak készül, Samson gyógyszerésznek. A délfrancia város színes forgatagában, ahol sok-sok veszélyes kaland és még több „veszedelmes", ám gyönyörteljes viszony vár hőseinkre, világhírű tudósok és orgyilkosok jönnek-mennek, vad tivornyák és poétikus vagy éppen kísérteties szerelmek dúlnak, orvosnövendékek éjféli temetőkben titkon anatómiát tanulnak, miközben folyik tovább a Franciaországot megosztó áldatlan testvérharc, buzgó pápisták és derék kálvinisták gyilkolják egymást. Pierre-nek és Samsonnak, valamint az olvasónak bőven kijut hát az izgalmakból, váratlan fordulatokból, hátborzongató élményekből és szenvedélyes érzésekből e kalandregénynek is beillő, ám sokrétű és pontos történelmi ismeretek birtokában és biztos mesterségbeli tudással megírt, sodró lendületü műben.
 
 
-# <a name="id_338">Robert Merle: Szenvedélyes szeretet (1993)</a>
+# <a name="id_338">Robert Merle: Szenvedélyes szeretet (Francia história 5) (1993)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Szenvedelyes%20szeretet%20%28338%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -38,7 +38,7 @@ A ​XVI. századi Franciaországot, a hugenották viharos, vérzivataros száza
 A történelmi és irodalmi fordulatokban bővelkedő, remekbe szabott, amúgy is sodró lendületű regényt középkoriasan hátborzongató epizódok, valamint szenvedélyes természetű és nem éppen szigorú erkölcsű hősünk újabb szerelmi kalandjai élénkítik-gazdagítják.
 
 
-# <a name="id_324">Robert Merle: A pirkadat (1998)</a>
+# <a name="id_324">Robert Merle: A pirkadat (Francia história 6) (1998)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/A%20pirkadat%20%28324%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -51,7 +51,7 @@ A történelmi és irodalmi fordulatokban bővelkedő, remekbe szabott, amúgy i
 A ​XVI. századi Franciaországot, a hugenották viharos, vérzivataros századát felelevenítő, nagyszabású tizenhárom kötetes regényfolyam hatodik kötetében Pierre de Siorac márki, aki hűségével, bátorságával, leleményességével többször kitüntette magát a király szolgálatában, IV Henrik egyik legfőbb bizalmasává válik és kényesebbnél kényesebb megbízatásokat kap tőle. A királynak szüksége is van talpraesett és rettenthetetlen hősünk segítségére, hiszen hiába ismerte el III. Henrik még halála előtt törvényes örökösének, erőszakkal kell elfogadtatnia magát országában. IV Henrik ádáz ellenségei, a vakbuzgó, dölyfös Guise-ek, a pártütő nagyurak, az ármánykodó jezsuiták, az országra törő spanyolok ellen – hol nyílt sisakkal, hol összeesküvő módjára – harcolva a márkinak ismét izgalmas kalandokban van része, míg végre megszületik a békét megszilárdító nantes-i ediktum. Közben lovagiasságával elnyeri a kis Guise hercegné kegyeit, s persze több más főrangú hölgyet és tűzrőlpattant szolgálólányt is sikerrel ostromol.
 
 
-# <a name="id_332">Robert Merle: Libben a szoknya (2011)</a>
+# <a name="id_332">Robert Merle: Libben a szoknya (Francia história 7) (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Libben%20a%20szoknya%20%28332%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -64,7 +64,7 @@ A ​XVI. századi Franciaországot, a hugenották viharos, vérzivataros száza
 A ​XVI. századi Franciaországot, a hugenották viharos, vérzivataros századát felelevenítő, nagyszabású, tizenhárom kötetes regényfolyam hetedik kötetében, amelyben immár Siorac márki fia játssza a főszerepet, egyre csak libben, röpül a szoknya. Nem csoda, hiszen az ifjú Sioracról elmondhatjuk, hogy nem esett messze alma a fájától, éppoly szenvedélyes és gáláns, kalandvágyó és bátor, eszes és nemes lelkű mint édesapja. A kor pedig IV. Henrik uralkodásának utolsó három esztendeje, az 1607-től 1610-ig terjedő időszak is mintha a léhaságnak kedvezne. Egymást érik a lakomák, táncjátékok, lépten-nyomon szerelmi kalandokat hajszoló donjuanokkal, ledér főrangú hölgyekkel, felszarvazott, mégis elnéző férjekkel találkozik az ember a bálok forgatagában. De a csillogó felszín kegyetlen, véres valóságot takar: cselszövések, összeesküvések közepette a király két fronton harcol. Az országon belül a fanatikusokkal küzd, akik tűzzel-vassal pusztítják a protestánsokat, az országon kívül a Habsburgok egyeduralmi törekvéseivel kell szembeszegülnie.
 
 
-# <a name="id_323">Robert Merle: A gyermekkirály (2011)</a>
+# <a name="id_323">Robert Merle: A gyermekkirály (Francia história 8) (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/A%20gyermekkiraly%20%28323%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -83,7 +83,7 @@ Visszatérve Párizsba megkötik az üzletet Saint-Régis márkival, így Siorac
 A következő évek a hatalom megszerzéséről (a trónörökös), illetve annak megtartásáról (az anyakirályné) szólnak, s talán mondanom sem kell, az ifjú Siorac is ott van minden fontosabb eseménynél – mint a leendő uralkodó tántoríthatatlan híve.
 
 
-# <a name="id_328">Robert Merle: Az élet rózsái (2011)</a>
+# <a name="id_328">Robert Merle: Az élet rózsái (Francia história 9) (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Az%20elet%20rozsai%20%28328%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -105,7 +105,7 @@ De mit csinál mindeközben az ifjú király? Mennyire nő fel a feladathoz? Sik
 A válaszokat a következő részekben kapjuk meg, egyvalamiben azonban teljesen biztosak lehetünk: Pierre Emmanuel de Siorac továbbra is hűségesen szolgálja királyát.
 
 
-# <a name="id_333">Robert Merle: Liliom és bíbor (2011)</a>
+# <a name="id_333">Robert Merle: Liliom és bíbor (Francia história 10) (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Liliom%20es%20bibor%20%28333%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -131,7 +131,7 @@ A ​Magyarországon hallatlanul népszerű francia író, Robert Merle immáron
  Liliom és bíbor
 
 
-# <a name="id_341">Robert Merle: Veszedelem és dicsőség (2011)</a>
+# <a name="id_341">Robert Merle: Veszedelem és dicsőség (Francia história 11) (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Veszedelem%20es%20dicsoseg%20%28341%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -145,7 +145,7 @@ A ​XVI. és XVII. századi Franciaországot, a hugenották viharos, vérzivata
  Ezúttal, a tizenegyedik kötetben La Rochelle ostrománál, ennél a nagyszabású történelemformáló eseménynél, Franciaország és Anglia erőpróbájánál, amely nemcsak a francia királyság sorsát befolyásolta, hanem valamennyi, a katolicizmus és a megreformált vallás között választani kényszerülő európai országét. La Rochelle hugenotta erődítmény volt, a vallási üldözöttek bevehetetlennek hitt és kikiáltott mentsvára, hiszen a tenger felé nyitott volt, így onnan az ostromlottak bármikor segítséget remélhettek. És reméltek is 1627-ben. Ám hiába: La Rochelle-t kerek egy évig tartó ostrom után végül bevették XIII. Lajos és Richelieu seregei. A La Rochelle-i, inkább kisebb-nagyobb csetepaték, mintsem véres, kegyetlen ütközetek jellemezte ostrom kimenetelét végül egy, a hadviselésben addig még nem alkalmazott újdonság döntötte el: a roppant kőgát, amely eltorlaszolta az öböl bejáratát, s így lehetetlenné tette, hogy az angolok élelmet juttassanak el az éhező városba és katonai segítséget nyújtsanak a védőknek. Ebben a nem mindennapi ostromban vesz részt a történet narrátor-főhőse, Orbieu grófja – illetve a regény végére hercege és Franciaország pairje –, akit ismét számos dicsőséges, ám veszedelmes küldetéssel bíznak meg a hatalmasok. Közben persze arra is jut ideje, hogy a szívének oly kedves gentil sesso körül forgolódjék, és láss csodát, most először a házasság, a családalapítás gondolata is felmerül a csapodár, ám lovagias széptevőben. Merle a tőle megszokott mesterségbeli tudással rajzolja fel a sokszínű, árnyalt történelmi tablót, jellemzi hőseit, királyokat, hadvezéreket, főpapokat, nagyurakat s persze szépasszonyokat, festi a csatajeleneteket, az udvari intrikákat, szerelmi cselszövéseket.
 
 
-# <a name="id_327">Robert Merle: Ármány és cselszövés (2011)</a>
+# <a name="id_327">Robert Merle: Ármány és cselszövés (Francia história 12) (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Armany%20es%20cselszoves%20%28327%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -159,7 +159,7 @@ A ​XVI. és XVII. századi Franciaországot, a hugenották viharos, vérzivata
  Mindkét háború a király győzelmével ér véget, és mint a mesében, a jók elnyerik méltó jutalmukat, a gonoszak pedig méltó büntetésüket. Richelieu dicsősége teljében tér meg az itáliai hadjáratból, s Lajos hálából hercegi-pairi címet adományoz neki, az anyakirálynét viszont végleg száműzik Franciaországból: 1642-ben szegényen és elhagyatottan hal meg Kölnben, abban a házban, amelyet a híres festő, Rubens irgalmasságból bocsátott a rendelkezésére. Ám Robert Merle regénye nem mese, hanem maga az élő-eleven, nagybetűs Történelem, igazi tudóshoz illő pontossággal-hitelességgel és vérbeli íróhoz méltó lenyűgöző mesterségbeli tudással megrajzolva…
 
 
-# <a name="id_337">Robert Merle: Pallos és szerelem (2011)</a>
+# <a name="id_337">Robert Merle: Pallos és szerelem (Francia história 13) (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Pallos%20es%20szerelem%20%28337%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

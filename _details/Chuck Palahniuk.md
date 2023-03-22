@@ -1,4 +1,4 @@
-# <a name="id_1600">Chuck Palahniuk: Halálraítélt (2014)</a>
+# <a name="id_1600">Chuck Palahniuk: Halálraítélt (Kárhozott 2) (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Chuck%20Palahniuk/Halalraitelt%20%281600%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

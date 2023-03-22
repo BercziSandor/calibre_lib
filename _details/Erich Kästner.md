@@ -1,4 +1,4 @@
-# <a name="id_1199">Erich Kästner: A két Lotti (2018)</a>
+# <a name="id_1199">Erich Kästner: A két Lotti (Pöttyös 1) (2018)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Erich%20Kastner/A%20ket%20Lotti%20%281199%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

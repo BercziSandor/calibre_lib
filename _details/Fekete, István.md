@@ -1,4 +1,4 @@
-# <a name="id_121">Fekete, István: Tüskevár (2018)</a>
+# <a name="id_121">Fekete, István: Tüskevár (Tüskevár 1) (2018)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Tuskevar%20%28121%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -11,7 +11,7 @@ magyar szerző, gyermek főszereplő, elbeszélések, természet, tartalom szeri
 Egy vakáció története elvenedik meg a regény lapjain, mégpedig egy olyan vakációé, amilyenről minden fiú álmodik. Két pesti diák -Tutajos és Bütyök – a Kis-Balaton sás- és nádrengetegében tölti a szünidőt, Matula Gergelyt, az öreg pákászt bízzák meg a fiúk nevelésével. Gergő bácsi, aki úgy ismeri a nádak, sások, tocsogók és tavak vadregényes vidékét, mint a tenyerét, szárnya alá veszi a városi gyerekeket, és kijáratja velük a természet és valóság nehéz, de sok örömet, igaz élményt tartogató nyári iskoláját. Halászat, vadászat, egy kis híján tragikus kimenetelű nyári vihar, a török időkbeli Tüskevár felfedezése, egy leheletfinoman bontakozó gyerekszerelem – csak úgy rohannak a napok. Mire a vakáció véget ér, a két fiút szinte kicserélték, búcsújuk a berektől fájó, de nem végleges: a téli szünidőben visszajönnek. A két fiú története az író Téli berek című regényében folytatódik.
 
 
-# <a name="id_267">Fekete, István: Téli berek (2007)</a>
+# <a name="id_267">Fekete, István: Téli berek (Tüskevár 2) (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Teli%20berek%20%28267%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

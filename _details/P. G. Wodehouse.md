@@ -1,4 +1,4 @@
-# <a name="id_503">P. G. Wodehouse: Forduljon Psmithhez! (2005)</a>
+# <a name="id_503">P. G. Wodehouse: Forduljon Psmithhez! (Blandings kastély 2) (2005)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Forduljon%20Psmithhez%21%20%28503%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -28,7 +28,7 @@ Ez a hirdetés jelent meg a Morning Globe című tekintélyes napilap első olda
 Minderről pedig P.G. Wodehouse rendkívül mulatságos, kitűnően megszerkesztett és mélyen emberséges szemléletű regényt írt, amely méltán lett világhírű.
 
 
-# <a name="id_507">P. G. Wodehouse: Nyári zivatar (2000)</a>
+# <a name="id_507">P. G. Wodehouse: Nyári zivatar (Blandings kastély 4) (2000)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Nyari%20zivatar%20%28507%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -41,7 +41,7 @@ sorozat része, humoros, regény, brit szerző, general fiction, magyar nyelvű,
 Egy ​bizonyos kritikus – mert ilyen emberek fájdalom, léteznek – azt a megjegyzést tette legutóbbi regényemre, hogy abban az összes régi Wodehouse-figurák szerepelnek, csak éppen a nevük más. Az illetőt azóta talán már felfalták a medvék… ha viszont esetleg még életben volna, akkor sem tehetne hasonló megjegyzést a Nyári zivatar című regényre. Magasrendű intelligenciám segítségével túljártam a fickó eszén: ebbe a regénybe ugyanis beletettem az összes régi Wodehouse-figurát – változatlan néven… Lord Emsworth, a Kiváló Baxter, Beach, a komornyik és még sokan mások mind felléptek már a Forduljon Psmithhez lapjain… Az az igazság, hogy nem tudok elszakadni a blandingsi kastélytól. Ez a hely delejes hatással van rám. Le-leruccanok Shropdhire-be, bekukkantok a legújabb hírekért, és mindig találok is valamit, ami érdekel. Annak reményében, hogy olvasóimat is érdekelni fogja, ezen a régi helyszínen felfedeztem egy kis pletykát, aminek a Nyári zivatar címet adtam – írja könyéről a több tucatnyi szellemes, szórakoztató regény nemrégiben elhunyt kitűnő angol szerzője, P. G. Wodehouse. Két szerelmespár is szerepel a regény lapjain; megismerkedünk Galahad Threepwooddal, a nem is kissé ütődött Lord Emsworth viharos múltú öccsével; Lady Constance, ha lehet, még undokabb, mint a Psmith hasábjain, és természetesen még jobban felsül… vitathatóan rokonszenves ismerőseink sorát gyarapítja Percy Pilbeam, a peches kopó, és végül – de egyáltalán nem utoljára – tanúi vagyunk a fő bonyodalomnak: Blandings Császárnője elrablásának. A pompás cím egy díjnyertes kocát rejt – ugyanezt a kocát rejti ezenkívül egy, két, illetve több tettes, a legkülönfélébb rejtekhelyeken –, de csitt, ne áruljunk el titkokat. Csupán annyit még, hogy a mulattató regény helyszínét, epizódjait, figuráit Hegedűs István szellemes illusztrációi keltik életre.
 
 
-# <a name="id_501">P. G. Wodehouse: Egy pelikán Blandingsben (2007)</a>
+# <a name="id_501">P. G. Wodehouse: Egy pelikán Blandingsben (Blandings kastély 11) (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Egy%20pelikan%20Blandingsben%20%28501%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -55,7 +55,7 @@ angol humor, brit szerző, humoros, illusztrált, magyar nyelvű, regény, soroz
 <p>„Hosszú, ​elkeseredett harcot kellett vívni az elemekkel. Nem várt nehézségek tornyosultak elénk. Gyanús sarkokon kellett befordulnunk. De most már minden megoldódott, és én úgy érzem magam, mintha egy színdarab ért volna végéhez, olyasfajta, amilyet franciák tudnak a legjobban írni: kissé szentimentális, egyszerre könnyes és mosolygós. Amint e pohár borral a kezemben üldögélek, végigperegnek előttem az elmúlt események. És most pohárköszöntő kívánkozik ide, lezárásul. Igyunk a Pelikán Klubra, amelynek óvó szárnyai alatt megtanultam megőrizni lélekjelenlétemet, és állni a sarat minden helyzetben, ezenkívül mindig egy hajszálnyival gyorsabban gondolkozni, mint az ellenfelem. Ürítsük poharunkat a Pelikán Klubra” – emeli fel poharát Mr. Galahad Threepwood, Lord Emsworth viharos múltú öccse, a család fekete báránya, egy személyben Blandings jó szelleme, aki minden nehézségen felülkerekedik, a blandingsi kastély mohlepte falai közt dúló viharokat lecsendesíti, a szerető szíveket összeboronálja P. G. Wodehouse-nak, Blandings örökbecsű krónikásának ebben a szívvidító regényben.</p></div>
 
 
-# <a name="id_945">P. G. Wodehouse: Halihó, Jeeves! (2007)</a>
+# <a name="id_945">P. G. Wodehouse: Halihó, Jeeves! (Jeeves 2) (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Haliho%2C%20Jeeves%21%20%28945%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -68,7 +68,7 @@ angol humor, brit szerző, humoros, illusztrált, magyar nyelvű, regény, soroz
 Bertram Wooster Londonban és New Yorkban számtalan furcsánál furcsább szituációba kerül a pöttöm Bingó, Agatha néni, valamint más barátok és rokonok elképesztő kalandjai révén, amelyekbôl többnyire az inasok inasa, Jeeves találja meg a ki vezető utat. Pöttöm Bingó állandóan szerelmi lázban ég, hőseink ékszerrablásokba bonyolódnak, Bertie kénytelen szerelmes regények női írójának kiadni magát. Agatha néni pártfogoltját, a „tökfej Cyril”-t pedig a világot jelentő deszkáktól kell megszabadítani. Az események a forrpontot is elérik, amikor a lóversenypályákra vezet hőseink útja, meg a vidéki Anglia falvaiba, ahol nem csak a tiszteletesek prédikációinak időtartamára kötnek fergeteges körülmények között fogadásokat, hanem más, különleges versenyszámokra is.
 
 
-# <a name="id_502">P. G. Wodehouse: Folytassa, Jeeves! (2004)</a>
+# <a name="id_502">P. G. Wodehouse: Folytassa, Jeeves! (Jeeves 3) (2004)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Folytassa%2C%20Jeeves%21%20%28502%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -81,7 +81,7 @@ new york, sorozat része, humoros, 20. század, brit szerző, general fiction, a
 Attól kezdve, hogy Jeeves belép Bertie Wooster életébe, és rendkívül hatékonyan kikúrálja másnaposságából, Bertie el sem tudja képzelni, hogyan is tudott létezni nélküle azelőtt. Jeeves minden téren nélkülözhetetlenné válik: szerencsétlen Bertie-t megszabadítja számtalan nagynénjének karmai közül, valamint a rámenős lányoktól és a hívatlan vendégektől. A csodával határos módon képes mindenkit kihúzni a csávából. Egyszóval Jeeves a komornyikok gyöngye.
 
 
-# <a name="id_943">P. G. Wodehouse: Gáz van, Jeeves! (2004)</a>
+# <a name="id_943">P. G. Wodehouse: Gáz van, Jeeves! (Jeeves 7) (2004)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Gaz%20van%2C%20Jeeves%21%20%28943%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -94,7 +94,7 @@ Attól kezdve, hogy Jeeves belép Bertie Wooster életébe, és rendkívül hat�
 Bertie Wooster kényes küldetésben jár Totleigh Towersban, számos korábbi viszontagsága színhelyén: Dahlia nénikéje megbízásából egy XVIII. századbeli műtárgyat, egy ezüsttehénkét készül elemelni házigazdájától, a félelmetes Sir Watkyn Bassett-től. Spode, Sir Watkyn gorilla termetű barátja azonban megneszeli a tervet, és figyelmezteti Bertie-t, hogy meg ne merjen próbálkozni a dologgal, mert ha rajtakapja, laposra veri. E korántsem kecsegtető kilátások közepette lát hősünk munkához, és hajmeresztőbbnél hajmeresztőbb kalamajkákba keveredik. Ám az ördögien leleményes Jeeves a legrázósabb helyzetekből is talál kivezető utat.
 
 
-# <a name="id_508">P. G. Wodehouse: Psmith a pénzvilágban (1998)</a>
+# <a name="id_508">P. G. Wodehouse: Psmith a pénzvilágban (Psmith 2) (1998)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/P.%20G.%20Wodehouse/Psmith%20a%20penzvilagban%20%28508%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

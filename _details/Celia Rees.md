@@ -1,4 +1,4 @@
-# <a name="id_979">Celia Rees: Bűbájos Mary (2003)</a>
+# <a name="id_979">Celia Rees: Bűbájos Mary (Bűbájos Mary 1) (2003)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Celia%20Rees/Bubajos%20Mary%20%28979%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

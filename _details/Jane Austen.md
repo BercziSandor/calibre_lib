@@ -1,4 +1,4 @@
-# <a name="id_58">Jane Austen: Értelem és érzelem (1986)</a>
+# <a name="id_58">Jane Austen: Értelem és érzelem (A világirodalom remekei 1) (1986)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Austen/Ertelem%20es%20erzelem%20%2858%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

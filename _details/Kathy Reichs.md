@@ -1,4 +1,4 @@
-# <a name="id_157">Kathy Reichs: A holtak beszélnek (2008)</a>
+# <a name="id_157">Kathy Reichs: A holtak beszélnek (Temperance Brennan 1) (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kathy%20Reichs/A%20holtak%20beszelnek%20%28157%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

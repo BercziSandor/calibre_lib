@@ -1,4 +1,4 @@
-# <a name="id_12">J. R. R. Tolkien: The Fellowship of the Ring (1966)</a>
+# <a name="id_12">J. R. R. Tolkien: The Fellowship of the Ring (A gyűrűk Ura 1) (1966)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/J.%20R.%20R.%20Tolkien/The%20Fellowship%20of%20the%20Ring%20%2812%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -12,7 +12,7 @@ fantasy
 <p>Presents the epic depicting the Great War of the Ring, a struggle between good and evil in Middle-earth, following the odyssey of Frodo the hobbit and his companions on a quest to destroy the Ring of Power.</p></div>
 
 
-# <a name="id_13">J. R. R. Tolkien: The two towers (1992)</a>
+# <a name="id_13">J. R. R. Tolkien: The two towers (A gyűrűk Ura 2) (1992)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/J.%20R.%20R.%20Tolkien/The%20two%20towers%20%2813%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -26,7 +26,7 @@ angol nyelvű, angol szerző, brit szerző, kaland, regény, fantasy, irodalom, 
 <p>Hobbits ​and wizards and Sauron--oh, my! Mild-mannered Oxford scholar John Ronald Reuel Tolkien had little inkling when he published The Hobbit; Or, There and Back Again in 1937 that, once hobbits were unleashed upon the world, there would be no turning back. Hobbits are, of course, small, furry creatures who love nothing better than a leisurely life quite free from adventure. But in that first novel and the Lord of the Rings trilogy, the hobbits Bilbo and Frodo and their elfish friends get swept up into a mighty conflict with the dragon Smaug, the dark lord Sauron (who owes much to proud Satan in Paradise Lost), the monstrous Gollum, the Cracks of Doom, and the awful power of the magical Ring. The four books' characters--good and evil--are recognizably human, and the realism is deepened by the magnificent detail of the vast parallel world Tolkien devised, inspired partly by his influential Anglo-Saxon scholarship and his Christian beliefs. (He disapproved of the relative sparseness of detail in the comparable allegorical fantasy his friend C.S. Lewis dreamed up in The Chronicles of Narnia, though he knew Lewis had spun a page-turning yarn.) It has been estimated that one-tenth of all paperbacks sold can trace their ancestry to J.R.R. Tolkien. But even if we had never gotten Robert Jordan's The Path of Daggers and the whole fantasy genre Tolkien inadvertently created by bringing the hobbits so richly to life, Tolkien's epic about the Ring would have left our world enhanced by enchantment.</p></div>
 
 
-# <a name="id_14">J. R. R. Tolkien: The Return of the King (2001)</a>
+# <a name="id_14">J. R. R. Tolkien: The Return of the King (A gyűrűk Ura 3) (2001)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/J.%20R.%20R.%20Tolkien/The%20Return%20of%20the%20King%20%2814%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

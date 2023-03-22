@@ -1,4 +1,4 @@
-# <a name="id_264">Paulo Coelho: Veronika meg akar halni (2016)</a>
+# <a name="id_264">Paulo Coelho: Veronika meg akar halni (És a hetedik 1) (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Paulo%20Coelho/Veronika%20meg%20akar%20halni%20%28264%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

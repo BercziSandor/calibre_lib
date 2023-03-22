@@ -1,4 +1,4 @@
-# <a name="id_824">Rejtő, Jenő: A három testőr Afrikában (101)</a>
+# <a name="id_824">Rejtő, Jenő: A három testőr Afrikában (Légiós regények 1) </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/A%20harom%20testor%20Afrikaban%20%28824%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -11,7 +11,7 @@
 <p class="description">Vigyázat! Cselekményleírást tartalmaz.<br>Az elátkozott partból megismert együttes – Csülök, Tuskó Hopkins, Senki Alfonz és a Török Szultán – újabb sötét rejtélyek felkutatására indul. Igaz, hogy nem egy úton, hiszen Csülökék, miként a „három testőr”, az izgalmas és halálos veszélyeket ígérő kalandok során lovagi szolgálatot is teljesítenek egy francia lány, Yvonne oldalán, a Török Szultán viszont – úgy tűnik – aljas árulásaival egyre nagyobb veszélyekbe sodorja őket. De Yvonne apja, Duron tábornok megmentése és egy óriási panama leleplezése után kiderül, hogy „aljas” módszereivel a Török Szultán is csak leplezte magát, s az igazság kiderítésében, a veszedelmes kalandok sikeres kimenetelében őneki is jókora része van.</p>
 
 
-# <a name="id_131">Rejtő, Jenő: A tizennégy karátos autó (2014)</a>
+# <a name="id_131">Rejtő, Jenő: A tizennégy karátos autó (Légiós regények 2) (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/A%20tizennegy%20karatos%20auto%20%28131%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -24,7 +24,7 @@ irodalom, szórakoztató irodalom, humor
 Rejtõ Jenõt utánozhatatlan humora, mesteri mondatfûzése, egyedi, könnyed stílusa a magyar irodalom egyedülálló jelenségévé avatja. Gorcsev Iván milliomosként lép fel Vanek úrral, mint magántitkárával egyetemben, akinek munkaköri kötelessége többek között az, hogy helyettesítse fõnökét az idegenlégióban... Vanek úr aztán többször is agyvérzés közeli állapotba juttatja feletteseit, miközben Gorcsev elnyeri szerelme kezét. De hová tûnt közben a színaranyból készült, tizennégy karátos autó?
 
 
-# <a name="id_138">Rejtő, Jenő: Bradley Tamás visszaüt (2005)</a>
+# <a name="id_138">Rejtő, Jenő: Bradley Tamás visszaüt (Légiós regények 3) (2005)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Bradley%20Tamas%20visszaut%20%28138%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -38,7 +38,7 @@ Rejtõ Jenõt utánozhatatlan humora, mesteri mondatfûzése, egyedi, könnyed s
 <p class="description">A végig ötletes, mulatságos kalandok során az olvasó megismeri azt az \"igazságot\" hogy az igaz szerelmet még a forró lávafolyam sem tudja felperzselni…</p></div>
 
 
-# <a name="id_139">Rejtő, Jenő: Csontbrigád (2011)</a>
+# <a name="id_139">Rejtő, Jenő: Csontbrigád (Légiós regények 4) (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Csontbrigad%20%28139%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -51,7 +51,7 @@ fiction, action & adventure, general fiction
 <p>A Csontbrigádot Rejtő nem más műveiből ismert fortélyos stílusában írta: egyszerű bűnügyi regény ez. Az alaphelyzet egy megsértett gentleman-agreement játékára épül. Az idegenlégió viszontagságaiban megfáradt két barát – Henry Fécamp és John Carew – elhatározza, hogy egyikük a másik halála árán leszerel a légióból. A szabadító ötlet Carewé: egyikük egy már elkövetett gyilkosságot – a másik bizonyító feljelentésének segítségével – vállal magára. Az ötleten túl a felkínálkozó szabadság is az övé: a fej vagy írás játék neki kedvez. De az erkölcsi jóvátétel és a végső igazság mégis Fécampé, mivel a regény végén kiderül, hogy a játékhoz ürügyül választott gyilkosságot Carew követte el. Fécamp meghurcoltatásának voltaképpen barátja bűnös jelleme az oka, mint ahogy a főhőssel egyetemben, a Csontbrigád többi száműzöttje is emberi vétkek miatt szenved – ártatlanul.</p>
 
 
-# <a name="id_135">Rejtő, Jenő: Az előretolt helyőrség (2010)</a>
+# <a name="id_135">Rejtő, Jenő: Az előretolt helyőrség (Légiós regények 5) (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Az%20eloretolt%20helyorseg%20%28135%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -66,7 +66,7 @@ Az előretolt helyőrség című P. Howard-regény arról szól, hogy élni ugya
 Esküvővel végződik Az ellopott futár kalandsorozata is, mert a szerelem sötét verem. Különösen ha letakarják és ráülnek. De a boldogító igen kimondásáig Prücsöknek és Deboulier tábornoknak több tettestársból segítőtárssá nemtelenült alakra van szüksége: Részeges Mandarinon, Kicsit Bobon, Korn Atyán és Schulteisz, az ikreken kívül még hatvanhatra.
 
 
-# <a name="id_145">Rejtő, Jenő: Menni vagy meghalni (2014)</a>
+# <a name="id_145">Rejtő, Jenő: Menni vagy meghalni (Légiós regények 7) (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Menni%20vagy%20meghalni%20%28145%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -79,7 +79,7 @@ fiction, action & adventure
 Észak-Afrika, Marrakesh. Hat elszánt legionárius végez a francia gyarmattartók ellenségével, a rejtőzködő Muhat bejjel, és elrabolja vagyonát. Vakmerően megszöknek a Szaharát átszelő menetszázadból, s rettenetes útjuk a Kongó-vidéki őserdőkben ér véget. Évekkel később, Londonban Connor főfelügyelő és Mackenzie kapitány különös gyilkosságsorozat ügyében nyomoz. A szálak egykori legionáriusokhoz vezetnek, és előlépnek a múltbéli dráma szereplői, akiknek sorsát a háttérből egy hétpróbás nemzetközi kém irányítja. Az izgalmas regényben Rejtő krimiírói tehetségét csillogtatja. A Content 2 Connect Kiadó szerzőjének magyar nyelvű könyve.
 
 
-# <a name="id_149">Rejtő, Jenő: Piszkos Fred, a kapitány (2014)</a>
+# <a name="id_149">Rejtő, Jenő: Piszkos Fred, a kapitány (Piszkos Fred és barátai 1) (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Piszkos%20Fred%2C%20a%20kapitany%20%28149%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -92,7 +92,7 @@ krimi, humor, szórakoztató irodalom, bûnügyi, irodalom, thriller
 Rejtõ Jenõ, a "ponyva" mestere, mára már klasszikussá nemesedett. Nemzedékek számára biztosították a szórakozást jellegzetes figurái, Gorcsev Iván, Vanek úr és természetesen maga Piszkos Fred, a kapitány. A szingapúri alvilág legkoszosabb alakja ezúttal érzõ szívû atyaként mutatkozik be, aki mindent elkövet, hogy trónörökössé lett fiát az uralkodói székbe segítse. Feltûnik Fülig Jimmy is, aki bár "beugró" trónörökösnek csapnivaló, csapni viszont senki sem meri, mivel pofonok dolgában professzori katedra dukál neki. S míg az események sora kacagtató fordulatokkal rohan a végkifejlet felé, tanúi lehetünk királyi ütlegeknek csakúgy, mint a csapszékek diplomáciájának... a legjobb rejtõi hagyományok szerint.
 
 
-# <a name="id_148">Rejtő, Jenő: Piszkos Fred közbelép (Fülig Jimmy őszintre sajnálatára) (2014)</a>
+# <a name="id_148">Rejtő, Jenő: Piszkos Fred közbelép (Fülig Jimmy őszintre sajnálatára) (Piszkos Fred és barátai 2) (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Piszkos%20Fred%20kozbelep%20%28Fulig%20Jimmy%20%20%28148%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -105,7 +105,7 @@ humor
 Régi ismerősünk, Fülig Jimmy ez alkalommal egy ifjú amerikai milliomos expedíciójának lesz fontos szereplője. Legalábbis ilyesmire lehet következtetni gondosan vezetett naplószerű levelezéséből, amelyben St. Antonio főhercegnek számol be kalandjairól. Az események végső kimenetelére mégis Piszkos Fred közbelépése válik döntővé, aki a Na, mi újság, Wagner Úr nevű hajón követi válogatott legénységvel a milliomos hajóját. Az illusztris hajó legénységének és főleg a Kapitánynak lesz tehát érdeme, hogy a rég eltűnt kutató helyett egy banditát fog felfedezni az untakozó milliomos - és az is, hogy Fülig Jimmy a "kölcsönkenyér visszajár" elv alapján a küzdelmes dicsőség ünnepléséből kimarad, s ehelyett karanténba kerül.
 
 
-# <a name="id_825">Rejtő, Jenő: Az elveszett cirkáló (101)</a>
+# <a name="id_825">Rejtő, Jenő: Az elveszett cirkáló (Piszkos Fred és barátai 3) </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/Az%20elveszett%20cirkalo%20%28825%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -118,7 +118,7 @@ Régi ismerősünk, Fülig Jimmy ez alkalommal egy ifjú amerikai milliomos expe
 <p class="description">Vigyázat! Cselekményleírást tartalmaz.<br>Nincs azon semmi csodálkozni való, hogy a Brit Királyi Tengerészet történetének lapjain nem szerepel a Balmoral nevű cirkáló eltűnésének históriája, az érdemes hadihajót ugyanis az éj leple alatt kötötte el Piszkos Fred. El nem ítélhető tettét azért követte el, mert egy hajó bérlésére nála lévő pénzt elrulettezte…<br>Hajóra pedig szüksége volt, hogy elindulhasson az expedíció Indokínába egy eltűnt légionista felkutatására. Szegény Piszkos Fred, ha előre sejti, hogy egy angol hadihajó kapitányának ápoltsági szintjéig mosdatják, aligha vág bele a dologba. De ha már benne voltak, mellékesen megoldották őfelsége birodalmának gyarmatügyi kérdését, lelepleztek egy veszedelmes árulót, többször megmentették a fiatal Earl of Sudessex életét és végül teljesen váratlanul megtalálták a légionistát…</p>
 
 
-# <a name="id_130">Rejtő, Jenő: A megkerült cirkáló (2011)</a>
+# <a name="id_130">Rejtő, Jenő: A megkerült cirkáló (Piszkos Fred és barátai 4) (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Rejto%2C%20Jeno/A%20megkerult%20cirkalo%20%28130%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

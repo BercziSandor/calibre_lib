@@ -1,4 +1,4 @@
-# <a name="id_416">Desmond Morris: Miért csinálja…? A ló (1993)</a>
+# <a name="id_416">Desmond Morris: Miért csinálja…? A ló (Miért csinálja...? 1) (1993)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Desmond%20Morris/Miert%20csinalja_._%20A%20lo%20%28416%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -12,7 +12,7 @@ brit szerző, emlősök, magyar nyelvű, ismeretterjesztő, természettudomány,
 <p>Hogy ​miért csinálja a kutya és a macska, azt már tudja a magyar olvasó, ha hozzájutott az 1928-ban született híres angol etológus velük foglalkozó könyveihez. Desmond Morris, miután húsz évet töltött az emberi faj viselkedésének tanulmányozásával (A csupasz majom, Testközelben), az ember legközelebbi és leghűségesebb társait vette szemügyre, harmadjára a lovat. A hatalmas londoni állatkert egyik vezetőjeként bőséges alkalma volt a zebrák és a vadlovak tanulmányozására, majd – mint versenyló-tulajdonos – szakavatott ismerője lett olyan kérdéseknek is, hogy például miért gyorsabb az egyik ló, mint a másik, tudja-e a győztes, hogy versenyt nyert, és miért verik lovukat a zsokék. Persze megtudunk sok egyebet is: mit jelez a ló a fülével, a farkával, különféle hangjaival, testével, lábával; mennyit alszik, hogyan táplálkozik, udvarol, szül, lát, hall, barátkozik, végül pedig arról, is értesülünk, hogy ki találta fel a kengyelt, és miért hoz szerencsét a patkó. Aki szereti a lovakat, akár gazdájaként, akár csak messziről gyönyörködve benne, bizonyára haszonnal és élvezettel olvassa ezt a könyvet.</p></div>
 
 
-# <a name="id_415">Desmond Morris: Miért csinálja…? A macska (1990)</a>
+# <a name="id_415">Desmond Morris: Miért csinálja…? A macska (Miért csinálja...? 2) (1990)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Desmond%20Morris/Miert%20csinalja_._%20A%20macska%20%28415%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

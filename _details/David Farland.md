@@ -1,4 +1,4 @@
-# <a name="id_510">David Farland: A sötétség harcosa (101)</a>
+# <a name="id_510">David Farland: A sötétség harcosa (Farkasok szövetsége 1) </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/David%20Farland/A%20sotetseg%20harcosa%20%28510%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -11,7 +11,7 @@ fantasy
 A tűzszövők élő lángokként énekeltek és táncoltak. Hamarosan egy zölden világító kapu jelent meg előttük. A tűzszövők eléálltak, megidézve a lángnyelveket és a hamut. Egyikük odalépett a kapuhoz, és eltűnt az Alvilágban. Egy idő múltán egy lény körvonalai öltöttek lassan testet. Sötét férfialak, hosszú, göndör, bozontos sörénnyel. A teremtmény kibontotta csillogó szárnyát. A lángok fodrozódtak és játszottak a húsán. Szemöldökén fény vibrált végig, és ugyanez áradt belőle is, amikor a vállára ejtette szárnyait. De valahogy furcsa volt a tekintete. Amikor felpillantott, a szeméből a legsötétebb mélység rettenete sugárzott. Raj Ahten csapatainak harcedzett katonái felkiáltottak a döbbenettől, a harcikutyák visszahőköltek. és szűkölni kezdtek a rémülettől…
 
 
-# <a name="id_511">David Farland: A Pusztítás Pecsétje (101)</a>
+# <a name="id_511">David Farland: A Pusztítás Pecsétje (Farkasok szövetsége 2) </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/David%20Farland/A%20Pusztitas%20Pecsetje%20%28511%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

@@ -1,4 +1,4 @@
-# <a name="id_29">Stieg Larsson: A tetovált lány (2019)</a>
+# <a name="id_29">Stieg Larsson: A tetovált lány (Millennium 1) (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stieg%20Larsson/A%20tetovalt%20lany%20%2829%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -12,7 +12,7 @@
 <p>Negyven éve történt. Az agg milliárdos elveszítette unokahúgát, akit gyermekeként szeretett. S azóta is, évről évre, valaki – mintha az őrületbe akarná kergetni – minden születésnapján emlékezteti az idős urat arra a tragikus napra… Az évek óta tartó nyomozás új lendületet kap, amikor a férfi felfogad egy vesztes sajtóper után állás nélkül maradt, rámenősnek tűnő újságírót, hogy kísérelje meg az igazság kiderítését. Hisz sokan élnek még a rokonságból, akik akkor ott voltak. A gyilkosnak köztük kell lennie… Ugyanakkor egy jó hírű magánnyomozó iroda munkatársnője rááll az újságíróra, s szinte mindent kiderít róla, ahogyan mások sem bízhatnak abban, hogy titkuk rejtve marad a kivételes tehetségű, tetovált lány előtt.</p></div>
 
 
-# <a name="id_26">Stieg Larsson: A lány, aki a tűzzel játszik (2019)</a>
+# <a name="id_26">Stieg Larsson: A lány, aki a tűzzel játszik (Millennium 2) (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stieg%20Larsson/A%20Lany%2C%20Aki%20a%20Tuzzel%20Jatszik%20%2826%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -26,7 +26,7 @@
 <p>Tényfeltáró riport megjelentetésére készül a kérlelhetetlen szókimondásáról ismert folyóirat, a Millennium. Hogyan kerülnek Svédországba a prostitúcióra kényszerített fiatal külföldi lányok? Kik a futtatók? És mindenekelőtt: kik veszik igénybe – köztük befolyásos emberek – a rabszolgasorban tartott nők szolgáltatásait? Érthető, ha egyesek mindent megtennének, hogy a nevük kimaradjon a cikkből. A tetovált lány című regényből már megismert Lisbeth Salander is tudomást szerez a Millennium tervéről, mégpedig korábbi barátja és bajtársa, az újságíró Mikael Blomkvist számítógépéről. Így keveredik bele ez a furcsa, öntörvényű lány egy az egész országot izgalomban tartó gyilkossági ügybe. Hajtóvadászat indul ellene, de ha valakit, őt nem könnyű elkapni, pedig nem csak a rendőrség keresi…</p></div>
 
 
-# <a name="id_27">Stieg Larsson: A kártyavár összedől (2019)</a>
+# <a name="id_27">Stieg Larsson: A kártyavár összedől (Millennium 3) (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stieg%20Larsson/A%20kartyavar%20osszedol%20%2827%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

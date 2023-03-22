@@ -1,4 +1,4 @@
-# <a name="id_1017">Tersánszky, Józsi Jenő: A tiroli kocsmáros (101)</a>
+# <a name="id_1017">Tersánszky, Józsi Jenő: A tiroli kocsmáros (A tiroli kocsmáros 1) </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Tersanszky%2C%20Jozsi%20Jeno/A%20tiroli%20kocsmaros%20%281017%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -8,7 +8,7 @@
 <div> <p style="margin-bottom: 0in">Tersánszky J. Jenőt eredetisége, életigenlő szenvedélye, mindent megértő humanizmusa a magyar novella legjelentősebb mesterei, legkiválóbb művelői közé emeli. <br>Elbeszélései az ősi mesetípust képviselik irodalmunkban. Az író „derűs fatalista”-ként szemléli hőseit, szenvtelenül közvetít a megfellebbezhetetlen valóság és az olvasó között, e „szenvtelenségnek” azonban mindig morális tartalma, társadalmi célzata van: „A világ eseményei között a véletlen játékára történik ezer, ezer csodálatos és érthetetlen dolog. Ezekre adni is lehet, meg nem is. De van a dolgok között olyan, ami biztos, és amire mindig adni kell, és ez az élőlények jelleme. A cápa cápa és nem emberbarát, akárhogy mutatkozik is annak.” <br>Az „élőlények jellemének” művészi rajza teszi feledhetetlen élménnyé A tiroli kocsmáros c. kötetének darabjait is.</p><p style="margin-bottom: 0in"> </p></div>
 
 
-# <a name="id_1012">Tersánszky, Józsi Jenő: A tiroli kocsmáros (2016)</a>
+# <a name="id_1012">Tersánszky, Józsi Jenő: A tiroli kocsmáros (A tiroli kocsmáros 2) (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Tersanszky%2C%20Jozsi%20Jeno/A%20tiroli%20kocsmaros%20%281012%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

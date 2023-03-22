@@ -1,4 +1,4 @@
-# <a name="id_802">Elizabeth Gilbert: Ízek, imák, szerelmek (2020)</a>
+# <a name="id_802">Elizabeth Gilbert: Ízek, imák, szerelmek (Eat, Pray, Love 1) (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Elizabeth%20Gilbert/Izek%2C%20imak%2C%20szerelmek%20%28802%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

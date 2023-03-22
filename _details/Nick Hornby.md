@@ -1,4 +1,4 @@
-# <a name="id_704">Nick Hornby: Pop, csajok satöbbi (101)</a>
+# <a name="id_704">Nick Hornby: Pop, csajok satöbbi </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Nick%20Hornby/Pop%2C%20csajok%20satobbi%20%28704%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

@@ -1,4 +1,4 @@
-# <a name="id_182">Frank Herbert: Dune (101)</a>
+# <a name="id_182">Frank Herbert: Dune (A Dűne 1) </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Frank%20Herbert/Dune%20%28182%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -12,7 +12,7 @@ amerikai szerző, fantasy, férfi főszereplő, filmadaptáció, gyilkosság, gy
 <p>Mi mással indíthatnánk a Frank Herbert összes science fiction írását felölelő sorozatunkat, mint A Dűnével és közvetlen folytatásaival, A Dűne messiásával és A Dűne gyermekeivel? Immár fél évszázaddal ezelőtt A Dűne koncepciója, gondolatainak mélysége és sokrétűsége komolyan átformálta az olvasók sci-fivel szemben támasztott igényeit, és a mai napig követendő példaként áll a műfaj írói előtt.<br>A Dűne a jövőbelátás korlátaival, az emberiség manipulálásának morális kérdéseivel, a messiás-lét útvesztőjével, a bolygószintű környezetformálással és sok mással foglalkozik, mindezt megindító emberi érzések, egzotikus világok és izgalmas cselekmény köntösében tárva elénk. Folytatásai e gondolatokat gombolyítják tovább, mind a történelemformáló eseményekre, mind a filozófiára kíváncsi olvasó számára komoly intellektuális élményt kínálva.</p></div>
 
 
-# <a name="id_184">Frank Herbert: A Dűne gyermekei (2002)</a>
+# <a name="id_184">Frank Herbert: A Dűne gyermekei (A Dűne 3) (2002)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Frank%20Herbert/A%20Dune%20gyermekei%20%28184%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

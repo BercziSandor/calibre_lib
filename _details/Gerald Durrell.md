@@ -1,4 +1,4 @@
-# <a name="id_50">Gerald Durrell: Családom és egyéb állatfajták (2015)</a>
+# <a name="id_50">Gerald Durrell: Családom és egyéb állatfajták (Korfu-trilógia 1) (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Csaladom%20es%20egyeb%20allatfajtak%20%2850%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -11,7 +11,7 @@ családtörténet, gyermek főszereplő, travel, család, non-fiction, classics,
 Gerald Durrell könyvei az évek során rendszertelen önéletrajzi ciklussá álltak össze, melyből a Családom és egyéb állatfajták az első - a szó szoros értelmében - felhőtlen gyerekkor krónikája. Ennek a gyerekkornak ugyanis Korfu a színtere, s egy szinte hihetetlenül bohém angol családból valók a főszereplői: az íráson kívül mindenre süket és vak Larry, a fegyverekért és a vadászatért bolonduló Leslie, a nagyszerűen főző, kedvesen naiv mama, a pattanásaival bajlódó, örökösen szerelmes Margó és a tízéves kisfiú, Gerry, aki már akkor bolondja minden létező állatnak. A sete-suta, különc család valósággal vonzza magához a különös, eredeti figurákat, és barátságba keveredik a sziget legkülönbözőbb rendű és rangú lakóival. A kisfiú őszintén élvezi a majd másfél éves vakációt, a nagy fürdőzéseket, csónakázásokat, házi mulatságokat, vendégeskedéseket, s a többszöri taníttatási kísérletnek is mindig sikeresen ellenáll, hogy minden idejét dédelgetett állatainak szentelhesse, melyek között a kutyától a teknősbékán át a sirályig minden megtalálható. Az író pompás humorral és derűvel tudja érzékeltetni a gyerekszemmel látottakat, derűs órákat szerezve - minden olvasójának.
 
 
-# <a name="id_867">Gerald Durrell: Madarak, vadak, rokonok (1974)</a>
+# <a name="id_867">Gerald Durrell: Madarak, vadak, rokonok (Korfu-trilógia 2) (1974)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Madarak%2C%20vadak%2C%20rokonok%20%28867%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -25,7 +25,7 @@ családtörténet, gyermek főszereplő, ismeretterjesztő, travel, család, non
 Durrellék kalandjai folytatódnak! A Családom és egyéb állatfajták című kötettel induló Korfu-trilógia második részében a Durrell család – a pattanások sújtotta, csélcsap Margo, a fegyvermániás Leslie, a mizantróp írópalánta Lawrence, az állatbolond Gerry, valamint sokat tűrt édesanyjuk, Louisa – korfui életéből ismerhetünk meg újabb kacagtató történeteket. A kis Gerry olajfaligetekben és hófehér tengerpartokon bolyongva kutatja szenvedélyesen a természet titkait, és lelkesen hordja haza az újabb és újabb állatokat – testvérei és édesanyja nem épp töretlen örömére.
 
 
-# <a name="id_868">Gerald Durrell: Istenek kertje (2012)</a>
+# <a name="id_868">Gerald Durrell: Istenek kertje (Korfu-trilógia 3) (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Istenek%20kertje%20%28868%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

@@ -1,4 +1,4 @@
-# <a name="id_1360">Lackfi, János: Milyenek a magyarok? (2017)</a>
+# <a name="id_1360">Lackfi, János: Milyenek a magyarok? (Milyenek a magyarok? 1) (2017)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Lackfi%2C%20Janos/Milyenek%20a%20magyarok_%20%281360%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -12,7 +12,7 @@
 <p>Milyenek is a magyarok? Kevés beszédű, magányos cowboyok és kocsmai hencegők. Lepedőakrobaták és sámlin reszkető Gedeon bácsik. Hátrafelé nyilazók és cekkerben bontott csirkét cipelők. Alkoholisták. Dehogy alkoholisták, csak megisszák a magukét. Folyton panaszkodók és forrófejűek. Pacalevők és pizzafalók. Asztalsarkon búsongók, akik párszor az asztalra csaptak, és beleremegett a történelem. Valamikor nagyon tudtak focizni, most nagyon tudnak rá emlékezni. Ha meg akartak halni, mindig lerántottak magukkal egy törököt is. Ez az útikönyv elkalauzol a földönkívüliek ismerős birodalmába, kiderül belőle, hol húzódik a belga-magyar határ, kitalálták-e a magyarok az ideális társadalmat, igaz-e, hogy minden magyar tud atombombát gyártani és lóháton állva hatos fogatot hajtani.<br>Ha valaki a könyv olvastán nem tudja, sírjon vagy nevessen, nyugodtan tegye egyszerre mind a kettőt.</p></div>
 
 
-# <a name="id_935">Lackfi, János: Milyenek MÉG a magyarok? (2013)</a>
+# <a name="id_935">Lackfi, János: Milyenek MÉG a magyarok? (Milyenek a magyarok? 2) (2013)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Lackfi%2C%20Janos/Milyenek%20MEG%20a%20magyarok_%20%28935%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

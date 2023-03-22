@@ -1,4 +1,4 @@
-# <a name="id_40">Robert Ludlum: Bourne Hatalma (2006)</a>
+# <a name="id_40">Robert Ludlum: Bourne Hatalma (Bourne 1) (2006)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Bourne%20Hatalma%20%2840%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -11,7 +11,7 @@ elbeszélés, amerika, ázsia, amerikai egyesült államok, az író származás
 <p class="description">A Bourne-trilógia második kötetében ismét élethalálharcra kényszerül Jason Bourne, Robert Ludlum legkülönösebb sorsú hőse. Egy honkongi tajpan utasítására elrabolják Bourne feleségét, s ezzel kezdetét veszi a kegyelmet nem ismerő küzdelem a gyilkos gengszterek és a semmivel sem kíméletesebb titkosszolgálatok között. A tét látszólag egy asszony élete, de valójában a hatalom és a pénz körül forog minden a Távol-Kelet véres kulisszái között.<br>Jason Bourne a hajdani Fantom ismét feltűnik Ázsiában, s ahol ő megjelenik, ott eluralkodik a rettegés és arat a halál...</p>
 
 
-# <a name="id_33">Robert Ludlum: A Hádész faktor (2006)</a>
+# <a name="id_33">Robert Ludlum: A Hádész faktor (Covert-One 1) (2006)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/A%20Hadesz%20faktor%20%2833%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -24,7 +24,7 @@ amerikai egyesült államok, amerikai szerző, tartalom szerint, thriller, kalan
 Három ​ember gyors egymásutánban, érthetetlen módon meghal az Egyesült Államokban. Halálukat soha nem tapasztalt tüneteket elődidéző, ismei vírus okozza, amely előtt tehetetlenül állnak a tudósok, köztük Sophia Russell, az amerikai hadsereg fertőző betegségekkel foglalkozó kutatóintezetének munkatársa. Sophiának azonban támad egy bizonytalan ötlete, s tovább is lépne, de a vírus őt sem kíméli.Vőlegénye, Jon smith orvos-alezredes egy rég nem látott baráttól szűkszavú figyelmeztetést kap: meneküljön, mert életveszélyben van. A figyelmeztetést rögtön megmagyarázhatatlan támadások követik. Egy rejtélyes, kimeríthetetlen er-forrásokkal rendelkező erő tör az életére, az amely Sophia halálát is okozta. Smith egyszerre válik üldözötté és üldözővé. Félelem és düh hajtja, menteni igyekszik magát, s kideríteni, miért, ki miatt veszítette el szerelmét. Áthatolhatatlannak tűnő falak veszik körül, próbálkozásai kudarcot vallanának, ha nem lennének a barátai: Marty az autista számítógépes zseni és Howell , a rejtélyes öreg brit, a SAS kommandó egykori tisztje…
 
 
-# <a name="id_37">Robert Ludlum: A Párizs opció (2005)</a>
+# <a name="id_37">Robert Ludlum: A Párizs opció (Covert-One 3) (2005)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/A%20Parizs%20opcio%20%2837%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -37,7 +37,7 @@ amerikai szerző, thriller, krimi, sorozat része, amerikai, akció, kaland, ké
 A tudományos világban általánosan elterjedt vélemény szerint még évek kellenek hozzá, hogy valaki megalkosson egy működőképes, a szilikonalapúnál nagyságrendekkel gyorsabb és nagyobb erejű DNS-komputert. És mégis, a csendes-óceáni Diego Garcia amerikai támaszpont radarernyőiről teljes öt percre eltűnnek a környéken járőröző repülőgépek, és nem tud magyarázatot adni rá senki. Az USA nyugati részén leáll az áramellátás, és minden távközlési összeköttetés, ennek összes tragikus következményével. Washington kezdetben egy szokatlanul ügyes hackerre – számítógépkalózra – gyanakszik, a hivatalos közleménye is erről szól, de a szakemberek tudják, hogy csak egy DNS-számítógép képes előidézni ilyen méretű zavarokat…
 
 
-# <a name="id_30">Robert Ludlum: A Bourne-rejtély (2005)</a>
+# <a name="id_30">Robert Ludlum: A Bourne-rejtély (Fantom/Bourne 1) (2005)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/A%20Bourne-Rejtely%20%2830%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -51,7 +51,7 @@ A tudományos világban általánosan elterjedt vélemény szerint még évek ke
 <p>Egy ​francia halászhajó legénysége félhalott férfit ment ki a tengerből. Az idegen amnéziában szenved, és a testében lévő golyókon és egy csípőjébe ültetett svájci bankszámlaszámon kívül semmije sincs. Nem tudja, ki ő és honnan jött, de hamarosan kivételes tehetséget árul el az önvédelem, a keleti harcművészetek és a nyelvek terén. Mindez pedig sokatmondóan veszélyes múltat sejtet. Hősünk összezavarodottan és kimerülten hozzálát, hogy kiderítse, ki is ő valójában, és hogyan sodródott ilyen veszélybe. A zürichi széffiók tartalma, ha lehet, még az előzményeknél is zavarba ejtőbb. Duzzadó bankszámla és egy név: Jason Bourne, valamint utasítás, hogy vegye fel a kapcsolatot a Treadstone nevű New York-i céggel. Hogy mindez mit jelent, az Bourne számára is rejtély. Senkit nem ismer, őt azonban rendre felismerik, de úgy tűnik, hogy nem a jóakaróiba botlik úton-útfélen. Fokozódó paranoiája teljesen indokolt, valóban üldözik őt, sőt az életére törnek.<br>A regény korábban A FANTOM címen is megjelent.</p></div>
 
 
-# <a name="id_32">Robert Ludlum: Bourne ultimátuma (2006)</a>
+# <a name="id_32">Robert Ludlum: Bourne ultimátuma (Fantom/Bourne 3) (2006)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Bourne%20ultimatuma%20%2832%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -66,7 +66,7 @@ A tudományos világban általánosan elterjedt vélemény szerint még évek ke
 <p>David Webb már öt éve éli az egyetemi történelemtanárok nyugalmas életét családjával egy maine-i kisvárosban, amikor hirtelen megjelenik valami a múltjából, valami, ami fenyegető – pontosabban nem is valami, hanem valaki. Valaki, aki ellen David Webb tehetetlen lenne, ezért visszavedlik még egyszer Jason Bourne-ná, aki most már nem csak a feleségéért harcol, hanem kisgyermekéért is. És nagyon reméli, hogy ez a harc lesz a végső. Mindent erre az egy lapra tesz fel. Megkezdődik a gyilkos és véres hajsza két kontinensen át, két elsőosztályú bérgyilkos próbál egyedül maradni a porondon, mindkét oldalon hullanak az ártatlan (vagy éppen egyáltalán nem ártatlan) áldozatok, míg végre elérkezik a leszámolás pillanata. Jason Bourne – és szellemi atyja, Robert Ludlum – ezúttal sem tagadja meg önmagát. A Bourne-trilógia befejező kötete – ezt minden túlzás nélkül kijelenthetjük – a műfaj gyöngyszeme.</p></div>
 
 
-# <a name="id_35">Robert Ludlum: Matarese klán (1979)</a>
+# <a name="id_35">Robert Ludlum: Matarese klán (Matarese Klán 1) (1979)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Matarese%20klan%20%2835%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -80,7 +80,7 @@ thriller, mystery, suspense, adventure, crime
 <p>Korzika ​vad hegyei között egy őrült elme által kitervelt, a század elején elkövetett szörnyű tömeggyilkosság áldozatai nyugszanak. <br>Sokkoló, a két szuperhatalom közvetlen konfrontációjának veszélyével fenyegető merénylet áldozata előbb az Egyesült Államok vezérkari főnökei egyesített bizottságának elnöke, majd a szovjet rakétaprogram egyik atyja. <br>Mi köze a korzikai, Guillaume de Matarese által létrehozott, mindenki tudomása szerint már nem működő egykori politikai bérgyilkos szervezetnek az újabb gyilkosságokhoz? Miért halnak meg sorban a Matarese Tanács örökösei? Ki és miért akarja káoszba dönteni, a nukleáris katasztrófa veszélyének kitenni a világot? <br>Ahhoz, hogy a kibogozhatatlannak tűnő rejtélyek megoldódjanak, két férfira, két halálos ellenségre van szükség. Brandon Scofieldnak az amerikai, és Alekszandr Talejnyikovnak, a szovjet hírszerzés szuperügynökének nincs más választása, mint félretenni személyes bosszúvágyát, összefogni a gyűlölt ellenséggel, hogy Korzikán, a Szovjetunión, Németországon, Olaszországon, Párizson és Londonon át az Egyesült Államokba visszajutva feltárják a nemcsak őket, hanem az általuk hitt értékeket is pusztulással fenyegető világméretű összeesküvést, megoldják a „Matarese-kör” rejtélyét, s leszámoljanak kitervelőivel. Nincs más kiút számukra, mint elfogadni a tényt, hogy csak egymásra számíthatnak – ők, az ősellenségek. <br>Robert Ludlum, a politikai kalandregények mestere, legkiválóbb erényeit vonultatja fel ebben a sodró lendületű, rendkívül izgalmas történetben, amely már az első lapjain megragadja, és a szerzőre jellemző dupla csavaros végkifejletig nem is engedi lankadni az olvasó figyelmét.</p></div>
 
 
-# <a name="id_36">Robert Ludlum: Matarese Klán(2) (101)</a>
+# <a name="id_36">Robert Ludlum: Matarese Klán(2) (Matarese Klán 2) </a>
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Matarese%20Klan%282%29%20%2836%29/Matarese%20Klan%282%29%20-%20Robert%20Ludlum.epub)
 

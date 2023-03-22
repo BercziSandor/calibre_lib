@@ -1,4 +1,4 @@
-# <a name="id_799">Csukás, István: Pom Pom meséi (2004)</a>
+# <a name="id_799">Csukás, István: Pom Pom meséi (Pom Pom 1) (2004)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Csukas%2C%20Istvan/Pom%20Pom%20mesei%20%28799%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

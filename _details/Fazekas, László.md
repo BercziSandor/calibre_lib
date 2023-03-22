@@ -1,4 +1,4 @@
-# <a name="id_1271">Fazekas, László: Kapukulcs a kő alatt (1978)</a>
+# <a name="id_1271">Fazekas, László: Kapukulcs a kő alatt (Villantó 2) (1978)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fazekas%2C%20Laszlo/Kapukulcs%20a%20ko%20alatt%20%281271%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

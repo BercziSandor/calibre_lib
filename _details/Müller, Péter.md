@@ -1,4 +1,4 @@
-# <a name="id_114">Müller, Péter: Sorsról és életről (2012)</a>
+# <a name="id_114">Müller, Péter: Sorsról és életről (Útravaló 1) (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Muller%2C%20Peter/Sorsrol%20es%20eletrol%20%28114%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

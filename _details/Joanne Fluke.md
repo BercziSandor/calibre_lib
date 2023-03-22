@@ -1,4 +1,4 @@
-# <a name="id_622">Joanne Fluke: Áfonyás muffin és gyilkosság (2007)</a>
+# <a name="id_622">Joanne Fluke: Áfonyás muffin és gyilkosság (Hannah Swensen titokzatos esetei 3) (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Afonyas%20muffin%20es%20gyilkossag%20%28622%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -14,7 +14,7 @@ A szingli cukrásznő ismét kénytelen nyomozni, hiszen Connie Mac, a szár kon
 A sok fordulat és izgalom között már-már alig jut idő a sütésre, de Hannah üzlettársa, Lisa gondoskodik arról, hogy a karnevál süteményellátása nehogy veszélybe kerüljön. Így az olvasó is megismerkedhet újabb 7 nagyszerű édesség elkészítésének titkaival.
 
 
-# <a name="id_623">Joanne Fluke: Pikáns meglepetés és gyilkosság (2008)</a>
+# <a name="id_623">Joanne Fluke: Pikáns meglepetés és gyilkosság (Hannah Swensen titokzatos esetei 4) (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Pikans%20meglepetes%20es%20gyilkossag%20%28623%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -29,7 +29,7 @@ Lake Edenben a hangulat tetőfokára hág, hiszen Hannah egyik udvarlója, Norma
 A nyomozási versenyfutás pedig a legnagyobb amerikai ünnep, a július negyediki Függetlenség Napja rendezvényei és díszletei között zajlik. Nemzeti színű sütemények, fúvószenekar, felvonulási kocsik, tűzijáték – és a kacér Rhonda Scharf rejtélyes halála egy romos ház pincéjében…
 
 
-# <a name="id_624">Joanne Fluke: Csokis tündértorta és gyilkosság (2009)</a>
+# <a name="id_624">Joanne Fluke: Csokis tündértorta és gyilkosság (Hannah Swensen titokzatos esetei 5) (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Csokis%20tundertorta%20es%20gyilkossag%20%28624%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -43,7 +43,7 @@ A ​sütis krimi sorozat legújabb, 5. kötetében a szingli cukrásznő, Hanna
 Hannah-nak most mindennél fontosabb, hogy tisztázza sógorát és kiderítse, ki a tettes valójában. A Tündértorta rejtélye is tartogat további izgalmakat és nem csak azért, mert a történet során végig a receptjéből hiányzó titkos hozzávalót nyomozza Hannah és segítője Lisa…
 
 
-# <a name="id_625">Joanne Fluke: Karácsonyi habcsók és gyilkosság (2009)</a>
+# <a name="id_625">Joanne Fluke: Karácsonyi habcsók és gyilkosság (Hannah Swensen titokzatos esetei 6) (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Karacsonyi%20habcsok%20es%20gyilkossag%20%28625%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

@@ -1,4 +1,4 @@
-# <a name="id_467">Berg, Judit: Rumini (101)</a>
+# <a name="id_467">Berg, Judit: Rumini (Rumini 1) </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Rumini%20%28467%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -40,7 +40,7 @@ végén minden titokra fény derül. De vajon lesz-e pénzük, hogy még a
 bazárban is vásároljanak?</p></div>
 
 
-# <a name="id_567">Berg, Judit: Rumini Zúzmaragyarmaton (2020)</a>
+# <a name="id_567">Berg, Judit: Rumini Zúzmaragyarmaton (Rumini 2) (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Rumini%20Zuzmaragyarmaton%20%28567%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -54,7 +54,7 @@ bazárban is vásároljanak?</p></div>
 <p>Berg Judit IBBY-díjjal kitüntetett Ruminije folytatódik! A Szélkirálynő nevű hajó ezúttal Zúzmaragyarmatra indul, ahol az egerek sosem látott bonyodalmakba keverednek: eltévednek, fekete sirályok és más alattomos lények támadnak rájuk, egy időre Negró lesz a kapitány, és Rumini megint eltűnik…</p></div>
 
 
-# <a name="id_570">Berg, Judit: Rumini és a négy jogar (2019)</a>
+# <a name="id_570">Berg, Judit: Rumini és a négy jogar (Rumini 3) (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Rumini%20es%20a%20negy%20jogar%20%28570%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

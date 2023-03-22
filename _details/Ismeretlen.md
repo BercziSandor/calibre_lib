@@ -1,10 +1,10 @@
-# <a name="id_156">Ismeretlen: Az Őrtorony betanítási eljárása (101)</a>
+# <a name="id_156">Ismeretlen: Az Őrtorony betanítási eljárása </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ismeretlen/Az%20Ortorony%20betanitasi%20eljarasa%20%28156%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ismeretlen/Az%20Ortorony%20betanitasi%20eljarasa%20%28156%29/Az%20Ortorony%20betanitasi%20eljarasa%20-%20Ismeretlen.epub)
 
-# <a name="id_472">Ismeretlen: Kató mint asszony (101)</a>
+# <a name="id_472">Ismeretlen: Kató mint asszony </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ismeretlen/Kato%20mint%20asszony%20%28472%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

@@ -1,4 +1,4 @@
-# <a name="id_420">George R. R. Martin: Trónok harca (2016)</a>
+# <a name="id_420">George R. R. Martin: Trónok harca (A tűz és jég dala 1) (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Tronok%20harca%20%28420%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -13,7 +13,7 @@ A Trónok harca lebilincselő fantasy, amely klasszikus lovagkirályságot tár 
 Martin legnagyobb erőssége hogy meg tudja újítani, élettel tölti fel azt a műfajt, amit a sok populáris Tolkien-imitáció évtizedeken át klisék sorozatába fojtva ismételgetett. A jég és tűz dalának első kötete egy világteremtő fantasy eposz nagyszabású felütése.
 
 
-# <a name="id_418">George R. R. Martin: Királyok csatája (2020)</a>
+# <a name="id_418">George R. R. Martin: Királyok csatája (A tűz és jég dala 2) (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Kiralyok%20csataja%20%28418%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -29,7 +29,7 @@ Vérfertőzés és apagyilkosság, alkímia és merénylet – e kegyetlen vilá
 A Királyok csatája merész, ötletes és bámulatos képzelőerővel megalkotott regény, kápráztató szépség és határtalan bűvölet hajtja át. Hamisítatlan és felejthetetlen izgalom – elejétől a végéig.
 
 
-# <a name="id_424">George R. R. Martin: Kardok vihara (2009)</a>
+# <a name="id_424">George R. R. Martin: Kardok vihara (A tűz és jég dala 3) (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Kardok%20vihara%20%28424%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -45,7 +45,7 @@ A száműzött Daenerys királynő, a világ utolsó három sárkányának úrn�
 Ahogy a szembenálló erők a végső, gigászi összecsapásra készülnek, a civilizáció peremén barbár horda tűnik fel, amelynek célja a Hét Királyság leigázása. Rajtuk kívül azonban megjelenik a mesebeli Mások előőrse is, a feltámasztott élőhalottak természetfeletti, megállíthatatlan hadserege is. A világ jövője egy hajszálon függ, és senki sem adja fel végső győzelemre törő küldetését, míg a Hét Királyságban ki nem robban a kardok csillapíthatatlan vihara…
 
 
-# <a name="id_419">George R. R. Martin: Varjak lakomája (2016)</a>
+# <a name="id_419">George R. R. Martin: Varjak lakomája (A tűz és jég dala 4) (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Varjak%20lakomaja%20%28419%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -58,7 +58,7 @@ szépirodalom, fantasy, szórakoztató irodalom, general, fiction
 A ​XXI. század által generált digitalizáció, a modern éra által minden elérhető közelségbe került. De vajon igaz-e ez letűnt vagy kitalált korok és legendák, ködbe burkolózó hősök, emberszabású és szörnyszülött alakok tekintetében is? Már Frodó történetei is arról tanúskodtak, hogy ez a sötét középkor árnyaiból táplálkozó, ősidők mondavilágát „megéneklő” műfaj igencsak vonzza a maga elérhetetlenségével, megfoghatatlanságával a mai embert. És most itt van George R. R. Martin, aki a trilógiának indult Tűz és jég dala sorozat negyedik köteteként megjelent Varjak lakomájában újabb lenyomatát adja ezeknek az időknek. A Trónok harcában megjelenő, az ősi királyságot szétszakító kegyetlen erők, a Királyok csatájának kísértetei, vademberei, boszorkányai, a Kardok viharának a másvilágról előretörő inváziója után a ciklus negyedik kötetében Martin ismét egy sokszereplős, tabudöntögető fantasy-opusszal rukkolt elő. Az 1996-ban elindított, immár tetralógiává bővült sorozat most megjelent kötetét legjobban a könyv utószavának szerzője, Stemler Miklós foglalja össze: „Szemben a legtöbb populáris fantasyvel, ahol a közékori háttér csupán díszlet, amely előtt jobban vissza lehet mondani a Tolkientől tanult, ám teljes egészében soha el nem sajátított leckét, Westeroson a lovagi csillogás mellett jelen vannak a nyomor és a társadalmi különbségek is. Míg Tolkien elsődleges kiindulópontja az ógermán mitológia – pontosabban annak megmaradt töredékei voltak…, addig Martin inspirációit középkori eseményekből merítette, elsősorban a Rózsák háborújából.”
 
 
-# <a name="id_898">George R. R. Martin: Sárkányok tánca (2016)</a>
+# <a name="id_898">George R. R. Martin: Sárkányok tánca (A tűz és jég dala 5) (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Sarkanyok%20tanca%20%28898%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

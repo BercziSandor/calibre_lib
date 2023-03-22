@@ -1,4 +1,4 @@
-# <a name="id_357">Erich Maria Remarque: Éjszaka Lisszabonban (1991)</a>
+# <a name="id_357">Erich Maria Remarque: Éjszaka Lisszabonban (Eroica könyvek 1) (1991)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Erich%20Maria%20Remarque/Ejszaka%20Lisszabonban%20%28357%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -12,7 +12,7 @@
 <p>1942, ​Lisszabon. A város, az ország: utolsó menedéke azoknak, akik a hitlerizmus elől menekülnek zárt határokon, őrségen, rendőrkopók és nyomozók gyűrűjén át. Portugália azért menedék, mert onnan nyílik az út a biztonság felé: Amerikába. A világszerte népszerű, sok millió példányban olvasott író regénye színhelyén is életműve nagy, izgalmas és tanulságos témáját bontja ki, vizsgálja tovább: a háborúét és az emigrációét. A történet éjszakáján két német emigráns férfi beszélget. Egyiküknek vágyálma, hogy meneküljön, de nincs se vízuma, se hajójegye. Másikuknak mind a kettő megvan. Hajóra szállnia végül mégis annak lehet majd, akinek a beszélgetés kezdetén nem voltak iratai: reggelre vannak már, mert beszélgetőtársa átadja saját iratait. Az iratairól lemondó, az emigránstársát a szabadságba segítő ember képtelennek tetsző nagylelkűségét, áldozatát az a történet indokolja meg, amelyet a már nem továbbmenekülni, hanem maradni akaró menekült a lisszaboni éjszakában elmond. Hányatott élete drámáját, üldöztetései történetét, szerelmének halállal zárulásáét.</p></div>
 
 
-# <a name="id_317">Erich Maria Remarque: Nyugaton a helyzet változatlan (2008)</a>
+# <a name="id_317">Erich Maria Remarque: Nyugaton a helyzet változatlan (Nyugaton a helyzet változatlan 1) (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Erich%20Maria%20Remarque/Nyugaton%20a%20helyzet%20valtozatlan%20%28317%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

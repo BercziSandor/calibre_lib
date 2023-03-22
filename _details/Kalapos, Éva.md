@@ -1,4 +1,4 @@
-# <a name="id_1597">Kalapos, Éva: Egy új élet (2013)</a>
+# <a name="id_1597">Kalapos, Éva: Egy új élet (D.A.C. 1) (2013)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kalapos%2C%20Eva/Egy%20uj%20elet%20%281597%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

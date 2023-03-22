@@ -1,4 +1,4 @@
-# <a name="id_851">Aszlányi, Károly: Az Északi Park felfedezése (101)</a>
+# <a name="id_851">Aszlányi, Károly: Az Északi Park felfedezése </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Az%20Eszaki%20Park%20felfedezese%20%28851%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

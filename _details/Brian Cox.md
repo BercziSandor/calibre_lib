@@ -1,4 +1,4 @@
-# <a name="id_1517">Brian Cox: A természet erői (101)</a>
+# <a name="id_1517">Brian Cox: A természet erői </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Brian%20Cox%2C%20Andrew%20Cohen/A%20termeszet%20eroi%20%281517%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

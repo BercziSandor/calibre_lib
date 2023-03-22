@@ -1,4 +1,4 @@
-# <a name="id_107">Frei, Tamás: A megmentő (2012)</a>
+# <a name="id_107">Frei, Tamás: A megmentő (André 1) (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Frei%2C%20Tamas/A%20megmento%20%28107%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -12,7 +12,7 @@ fiction, thrillers, crime
 <p>Konspiráció, szerelem, hatalom, pénz, tündöklés és leszámolás – Frei Tamás kalandregénye új műfajt képvisel a magyar könyvpiacon. Igazi újdonság! A napjainkban játszódó „kőkemény” thriller kitalált szereplőkkel, de valós helyszínekre röpíti el az olvasókat. A könyv izgalmas „utazás” egy szövevényes összeesküvés kulisszái mögé. Oligarchák, miniszterelnökök, exlégiósok, Londonban élő magyar modellek és párizsi kémek a főszereplői a Teherántól Budapesten át egészen a francia fővárosig ívelő történetnek. Magyarország titkai egy bennfentes szemével! Élvezd ki és értsd meg, de aztán éld is túl! Frei Tamás televíziós újságíróként több mint 100 országban forgatott riportfilmeket. Műsorait milliók látták itthon és külföldön. Megválasztották Magyarország legjobb televíziós riporterének, Opus-díjat kapott, és tagja lett a Magyar Sajtópáholynak. Jelenleg ugyanott él, ahol a könyv magyar származású főhőse, a Megmentő. Franciaországban, Nizzában.</p></div>
 
 
-# <a name="id_108">Frei, Tamás: A bankár (2012)</a>
+# <a name="id_108">Frei, Tamás: A bankár (André 2) (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Frei%2C%20Tamas/A%20bankar%20%28108%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -26,7 +26,7 @@ fiction, thrillers, general
 <p>Jamaicán ​a rendőrségi terepjárók már dübörögnek, hogy kézre kerítsék a Magyarországról óriási vagyont „kimenekítő” és a távoli karibi szigeten bujkáló, korrupt pesti bankárt.<br>Az Országos Jelzáloghitelbank elnökének privát gépén irtózatos erejű pokolgépet rejtettek el, és csupán percek kérdése, hogy Magyarország egyik legbefolyásosabb milliárdosát a feleségével együtt a levegőbe repítsék.<br>André, a leszerelt légiós és szerelme, Adrienn e pillanatban fordul rá a genovai főutcára, de a rövid mézesheteknek egy orosz bérgyilkos vet véget, aki már a nyomukban liheg.<br>A Megmentőből megismert André sorsdöntő válaszút elé kerül; cserbenhagyja Adriennt, amint korábbi élete megkísérti? Megtalálja a bankárt, akinek kapzsi mohósága Magyarországot végveszélybe sodorja? És mindezek után vajon visszatalál önmagához, vagy a dühödt bosszú olyan helyekre hajtja, ahonnan már nincs visszaút?<br>Frei Tamás első regénye, A Megmentő, hónapokig vezette a hazai sikerlistákat. A „konspirációs akcióthriller” meghonosítójaként Frei Tamás második sikerkönyvében ismét az „itt és most”-ot tárja fel olvasóinak, torokszorító izgalmak közepette. Fordulatos érzelmi hullámvasúton repít minket az amerikai ultragazdagok csillogó villáitól az Everglades bűzös mocsaráig, a lélektelen emberrablók világvégi rejtekhelyétől a tőzsdecápák konspirációinak fehér abroszos asztaláig, a politika és bűnözés, a bosszú és leszámolás, a hatalmi és szerelmi játszmák terepére, aminek értő és érző ismerője, és amelynek a világa, egy államcsőd árnyékában, sokkal közelebb van a mai Magyarországhoz, mint gondolnánk…</p></div>
 
 
-# <a name="id_1493">Frei, Tamás: 2015 (2019)</a>
+# <a name="id_1493">Frei, Tamás: 2015 (André 3) (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Frei%2C%20Tamas/2015%20%281493%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

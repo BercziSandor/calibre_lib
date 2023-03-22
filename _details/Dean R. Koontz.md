@@ -1,4 +1,4 @@
-# <a name="id_1073">Dean R. Koontz: Ticktak (1997)</a>
+# <a name="id_1073">Dean R. Koontz: Ticktak (BB Fiction 1) (1997)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Ticktak%20%281073%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -11,7 +11,7 @@ fantasy, szórakoztató irodalom, szépirodalom, idegennyelv, idegennyelvű kön
 <p class="description">Tommy Phan családja Saigon eleste után a kommunista rémuralom elől Amerikába menekül. Tommy lelkesen ölel magához mindent, ami amerikai, vietnámi múltja azonban nyomasztja, megpróbálja elfelejteni. Aztán egy este  - már mint sikeres krimi író - egy rongybabát talál házának verandáján... És elkezdődik a rémálom. A rongybaba egyszercsak átalakul szörnnyé, és Tommy csak nehezen menekül el romhalmazzá vált házából. Vadonatúj corvette-je hamarosan ugyancsak totálkáros lesz, ráadásul ki is gyullad. És a tűzben a szörny a kétszeresére nő. Tommy tudja, hogy életéből csak órák vannak hátra. Ám megjelenik egy gyönyörű, kissé őrült nő, aki megpróbál segíteni...<br>Dean Koontz könyvének lapjait falva a hideg futkároz a hátunkon, miközben... jókat nevetünk. Koontz ugyanis hátborzongató, ugyanakkor humoros könyvet írt.</p>
 
 
-# <a name="id_1069">Dean R. Koontz: A halottlátó (2005)</a>
+# <a name="id_1069">Dean R. Koontz: A halottlátó (Odd Thomas 1) (2005)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20halottlato%20%281069%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

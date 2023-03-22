@@ -1,4 +1,4 @@
-# <a name="id_1717">Csányi, Vilmos: Hiedelmeink (101)</a>
+# <a name="id_1717">Csányi, Vilmos: Hiedelmeink </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Hiedelmeink%20%281717%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -9,7 +9,7 @@
 <p>A hiedelmek egész életünket behálózzák: hiszünk ideológiákban, politikai pártokban, hiszünk Istenben, szellemekben, angyalokban és ördögökben is. Vannak egyszerű hiedelmek, mint például hogy hány percig kell a lágy tojást főzni, vagy mely gyógymódok hatásosak. Ugyanakkor a hiedelmek rendkívül összetettek is lehetnek: mi az élet értelme? Miért éppen úgy jó a társadalom szerkezete, ahogy van?<br>Csányi Vilmos és szerzőtársa, Tóth Balázs hiedelmeink keletkezését és működését mutatják be. Bebizonyítják, hogy hiedelmeink által ismerjük meg és formáljuk saját képünkre a világot, és hogy még a valóság olyan alappillérei is hiedelmek, mint hogy mit jelent az „én”. A biológia, a pszichológia és a kultúra egyéb területeiről vett szemléletes példák segítenek megérteni, hogy a hiedelmek megalkotására való képesség az egyik legfontosabb emberi adottságunk.</p></div>
 
 
-# <a name="id_1716">Csányi, Vilmos: Íme, az ember (101)</a>
+# <a name="id_1716">Csányi, Vilmos: Íme, az ember </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Ime%2C%20az%20ember%20%281716%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -18,7 +18,7 @@
 ### Tagek
 humánetológia
 
-# <a name="id_1713">Csányi, Vilmos: Segítség, kutyás lettem! (101)</a>
+# <a name="id_1713">Csányi, Vilmos: Segítség, kutyás lettem! </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Segitseg%2C%20kutyas%20lettem%21%20%281713%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

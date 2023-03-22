@@ -1,4 +1,4 @@
-# <a name="id_1275">Ernest Cline: Ready Player One (2021)</a>
+# <a name="id_1275">Ernest Cline: Ready Player One (Ready Player One 1) (2021)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ernest%20Cline/Ready%20Player%20One%20%281275%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

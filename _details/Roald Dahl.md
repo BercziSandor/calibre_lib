@@ -1,4 +1,4 @@
-# <a name="id_1593">Roald Dahl: Charlie and the Chocolate Factory (2010)</a>
+# <a name="id_1593">Roald Dahl: Charlie and the Chocolate Factory (Charlie Bucket 1) (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Roald%20Dahl/Charlie%20and%20the%20Chocolate%20Factory%20%281593%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -12,7 +12,7 @@ juvenile fiction, classics, fantasy & magic
 <p>'The ultimate children's story' - David WalliamsGreetings to you, the lucky finder of this Gold Ticket from Mr Willy Wonka! I shake you warmly by the hand! Tremendous things are in store for you! One miraculous moment changes Charlie Bucket's life forever. A boy who only gets to eat cabbage soup for breakfast, lunch and dinner finds a Golden Ticket that will take him into Willy Wonka's magical chocolate factory. Joining him on the tour are four horrible blighters:Augustus Gloop - a great big greedy nincompoop, Veruca Salt - a spoiled brat, Violet Beauregarde - a repulsive little gum-chewer and Mike Teavee - a TV addict.With a chocolate river, crafty squirrels and mysterious Oompa Loompas, Mr Wonka's chocolate factory is the strangest, most magnificent place Charlie has ever seen. What other surprises are in store for the lucky ticket winners? Now you can listen to CHARLIE AND THE CHOCOLATE FACTORY and other Roald Dahl audiobooks read by some very famous voices, including Kate Winslet, David Walliams and Steven Fry - plus there are added squelchy soundeffects from Pinewood Studios!</p></div>
 
 
-# <a name="id_1594">Roald Dahl: Charlie and the Great Glass Elevator (2007)</a>
+# <a name="id_1594">Roald Dahl: Charlie and the Great Glass Elevator (Charlie Bucket 2) (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Roald%20Dahl/Charlie%20and%20the%20Great%20Glass%20Elevato%20%281594%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

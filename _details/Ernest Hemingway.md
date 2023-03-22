@@ -1,4 +1,4 @@
-# <a name="id_1026">Ernest Hemingway: Novellák (101)</a>
+# <a name="id_1026">Ernest Hemingway: Novellák </a>
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ernest%20Hemingway/Novellak%20%281026%29/Novellak%20-%20Ernest%20Hemingway.epub)
 

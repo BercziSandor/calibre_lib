@@ -1,4 +1,4 @@
-# <a name="id_686">Maj Sjöwall: Roseanna (101)</a>
+# <a name="id_686">Maj Sjöwall: Roseanna </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Maj%20Sjowall/Roseanna%20%28686%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

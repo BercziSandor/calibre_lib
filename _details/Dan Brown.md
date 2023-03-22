@@ -1,4 +1,4 @@
-# <a name="id_1639">Dan Brown: The Da Vinci Code (2004)</a>
+# <a name="id_1639">Dan Brown: The Da Vinci Code (Robert Langdon 2) (2004)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dan%20Brown/The%20Da%20Vinci%20Code%20%281639%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -12,7 +12,7 @@ fiction, thrillers, general
 <p>One of the bestselling novels of all time, Dan Brown's The Da Vinci Code has intrigued and thrilled millions of readers around the world. Now all the artwork, symbols, architecture, and historic locations—over 160 images—are beautifully compiled in this full-color collector's edition.A mind-bending code hidden in the works of Leonardo da Vinci.A desperate race through the cathedrals and castles of Europe.An astonishing truth concealed for centuries . . . unveiled at last.While in Paris on business, Harvard symbologist Robert Langdon receives an urgent late-night phone call. The elderly curator of the Louvre has been murdered inside the museum, a baffling cipher found near the body. As Langdon and a gifted French cryptologist, Sophie Neveu, sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.The stakes are raised when Langdon uncovers a startling link: the late curator was involved in the Priory of Sion—an actual secret society whose members included Sir Isaac Newton, Botticelli, Victor Hugo, and Da Vinci, among others. Langdon suspects they are on the hunt for a breathtaking historical secret, one that has proven through the centuries to be as enlightening as it is dangerous. In a frantic race through Paris, and beyond, Langdon and Neveu find themselves matching wits with a faceless powerbroker who appears to anticipate their every move. Unless they can decipher the labyrinthine puzzle, the Priory's secret—and an explosive ancient truth—will be lost forever. Instantly catapulted to the top of bestseller lists around the world, The Da Vinci Code is simultaneously lightning-paced, intelligent, and intricately layered with remarkable research and detail. From secrets embedded in the Mona Lisa and The Last Supper to the symbols of ancient Egypt, to the architecture of landmarks such as the Louvre, Westminster Abbey, Rosslyn Chapel, and more, this fully illustrated collector's edition delivers the complete reading experience of Dan Brown's riveting novel—from the opening pages to the unpredictable and stunning conclusion.</p></div>
 
 
-# <a name="id_1637">Dan Brown: Origin (2017)</a>
+# <a name="id_1637">Dan Brown: Origin (Robert Langdon 5) (2017)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dan%20Brown/Origin%20%281637%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -23,7 +23,7 @@ fiction, thrillers, general
 <p>Robert Langdon, Harvard professor of symbology and religious iconology, arrives at the Guggenheim Museum Bilbao to attend the unveiling of a discovery that will change the face of science forever. The evening's host is his friend and former student, Edmond Kirsch, a forty-year-old tech magnate whose dazzling inventions and audacious predictions have made him a controversial figure around the world. This evening is to be no exception: he claims he will reveal an astonishing scientific breakthrough to challenge the fundamentals of human existence. But Langdon and several hundred other guests are left reeling when the meticulously orchestrated evening is blown apart before Kirsch's precious discovery can be revealed. With his life under threat, Langdon is forced into a desperate bid to escape, along with the museum's director, Ambra Vidal. Together they flee to Barcelona on a perilous quest to locate a cryptic password that will unlock Kirsch's secret. In their path lie dark forces which will do anything to stop them. To evade a tormented enemy who is one step ahead of them at every turn, Langdon and Vidal must navigate labyrinthine passageways of hidden history and ancient religion. On a trail marked only by enigmatic symbols and elusive modern art, Langdon and Vidal uncover the clues that will bring them face-to-face with a world-shaking truth that has remained buried - until now.--Publisher's description.</p></div>
 
 
-# <a name="id_1636">Dan Brown: Diabolus (101)</a>
+# <a name="id_1636">Dan Brown: Diabolus </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dan%20Brown/Diabolus%20%281636%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

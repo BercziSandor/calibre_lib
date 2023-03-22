@@ -1,4 +1,4 @@
-# <a name="id_1009">Rebecca Shaw: Az új lelkész (2014)</a>
+# <a name="id_1009">Rebecca Shaw: Az új lelkész (Turnham Malpas 1) (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Rebecca%20Shaw/Az%20uj%20lelkesz%20%281009%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

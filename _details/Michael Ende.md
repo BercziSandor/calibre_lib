@@ -1,4 +1,4 @@
-# <a name="id_1492">Michael Ende: Gombos ​Jim és Lukács, a masiniszta (2015)</a>
+# <a name="id_1492">Michael Ende: Gombos ​Jim és Lukács, a masiniszta (Gombos Jim 1) (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Ende/Gombos%20%20Jim%20es%20Lukacs%2C%20a%20masiniszta%20%281492%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés

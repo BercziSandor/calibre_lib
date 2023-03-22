@@ -1,4 +1,4 @@
-# <a name="id_839">Vlagyimir Szorokin: A jég (2019)</a>
+# <a name="id_839">Vlagyimir Szorokin: A jég (Jég-trilógia 1) (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/A%20jeg%20%28839%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -12,7 +12,7 @@
 <p>A Mundruczó Kornél által rendezett színpadi változatban is nagy sikert aratott kultuszkönyv új kiadása. „…Ilyen ez a Szorokin. Fog egy eszmét, meg a Tunguz meteor jegét és megpördíti rajta az egész huszadik századot, de olyan pontosan és olyan elviselhetetlen kegyetlenséggel, hogy egyszerre hasít beléd az, ami szerinte lehetséges, és az, ami tényleg volt." Háy János</p></div>
 
 
-# <a name="id_840">Vlagyimir Szorokin: Bro útja (2019)</a>
+# <a name="id_840">Vlagyimir Szorokin: Bro útja (Jég-trilógia 2) (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/Bro%20utja%20%28840%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -26,7 +26,7 @@ férfi főszereplő, kortárs, magyar nyelvű, orosz szerző, regény, sorozat r
 <p>„Beszélj ​a szíveddel!” A jégkalapács végzi a dolgát. Felébreszti és szóra bírja a kiválasztottak szívét. Anyaga a Tunguz meteor nyomába eredő expedíció kitartásának köszönhetően, a vállalkozást elhagyó főhős látomásai és hányattatásai nyomán lesz hozzáférhető.<br>A Magyarországon is nagy sikert aratott „A jég” című regény szerzője, Vlagyimir Szorokin a posztmodern orosz irodalom világszerte legismertebb és sokat vitatott alakja. E regényében tovább szövi a Fény Testvériségének mondáját. A Bro útja, bár másodikként íródott, A jég történetének előzményeit mondja el. A főhős a klasszikus családregények elbeszélő modorában járja be a 20. század első felének Oroszországát, majd az űrbéli anyag érintésére szíve felébred, s ő fokozatosan átalakul. Átváltozása nyomán újonnan szerzett társaival együtt apránként elszakad a föld lakóitól, az emberektől. Az emberek világát kívülről látja, célirányosan ténykedő robotokként észleli. Ugyanakkor kitartóan kutatja közöttük a Testvériség tagjait, hogy rátaláljon a Nagy Kör megalkotásához, azaz a világharmónia megteremtéséhez szükséges huszonháromezer kiválasztottra, akik a szív hangján szólnak egymáshoz.</p></div>
 
 
-# <a name="id_838">Vlagyimir Szorokin: 23000 (2019)</a>
+# <a name="id_838">Vlagyimir Szorokin: 23000 (Jég-trilógia 3) (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/23000%20%28838%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -40,7 +40,7 @@ kortárs, magyar nyelvű, orosz szerző, regény, sorozat része
 <p>Az ​immár kultuszkönyvvé vált „Jég-trilógia” utolsó kötetének magyar fordítása lát most napvilágot. Az egyetlen számjegyből álló cím sokaságot takar, a Fény Testvériségének teljes létszámát jelöli. Tagjai a Szorokin trilógiájának első részében bemutatott ösvényen, azaz Bro útján haladnak – úgy, ahogyan a második részben, A jég című regényben is tették, hogy megleljék egymást szerte a világon. Egyben a végkifejlet felé is tartanak. Amely ezúttal egy emberrabló üldözéses rémálmán, döglött szukák barátnőinek kényszermunkáján keresztül közeleg, s két, hozzátartozóikat elveszített fiatal világméretű nyomozása kis híján fényt is derít rá. Akárcsak a lakott világot benépesítő lények mindegyike, a két fiatal is puszta eszköz a Testvériség átgondolt nagy tervében. A Testvériségében, amely utolsó tagjait gyűjti kitartó szorgalommal, emberi lények átalakításával, a remény köreinek megalkotásával. Majd amikor egybegyűlt a 23 000 kiválasztott, visszavonul mind, hogy kiküszöböljék a teremtés egyetlen, legnagyobb hibáját…</p></div>
 
 
-# <a name="id_842">Vlagyimir Szorokin: Az opricsnyik egy napja (2019)</a>
+# <a name="id_842">Vlagyimir Szorokin: Az opricsnyik egy napja (Kreml 1) (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/Az%20opricsnyik%20egy%20napja%20%28842%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -54,7 +54,7 @@ alternatív történelem, disztópia, erotikus, kortárs, magyar nyelvű, orosz 
 <p>A törzsökös nemest rögtön megkötözzük, és kipeckeljük a száját, majd könyökénél fogva kicipeljük az udvarra. Az asszonyt pedig… no, a fehérnéppel persze vidámabban kell elbánni. Így van előírva. De először a törzsökös kerül sorra. (…) Az opricsnyikok a lábánál fogva vonszolják a törzsököst a tornáctól a kapuig, utolsó útjára (…) Nagul már felmászott a kapura, ügyesen felköti a kötelet, nem először akasztja fel Oroszország ellenségeit. Mindannyian a kapu alá állunk, felemeljük a törzsökös nemest.</p></div>
 
 
-# <a name="id_841">Vlagyimir Szorokin: Cukor Kreml (2009)</a>
+# <a name="id_841">Vlagyimir Szorokin: Cukor Kreml (Kreml 2) (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/Cukor%20Kreml%20%28841%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
