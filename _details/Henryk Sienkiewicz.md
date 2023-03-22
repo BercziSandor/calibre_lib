@@ -1,4 +1,4 @@
-#### <a name="id_382">Henryk Sienkiewicz: Sivatagon és vadonban (2013)</a>
+# <a name="id_382">Henryk Sienkiewicz: Sivatagon és vadonban (2013)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Henryk%20Sienkiewicz/Sivatagon%20es%20vadonban%20%28382%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Henryk%20Sienkiewicz/Sivatagon%20es%20vadonban%20%28382%29/Sivatagon%20es%20vadonban%20-%20Henryk%20Sienkiewicz.epub)
@@ -6,7 +6,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Henryk%2
 Összefoglalás:
 <p class="description">Hőse, Stas, példaképe lehet minden fiatal fiúnak. Jól tanul, jól sportol, figyelő szemmel jár-kel a világban, ismeri és szereti a természetet, lovagias bátorsággal vigyáz védencére, Nelre. A két gyerek viszontagságai bővelkednek izgalmas fordulatokban, s miközben sorsukért aggódunk, kitárul előttünk a csodás afrikai táj, és megismerkedhetünk a fekete földrész bennszülötteinek életével. A Sivatagon és vadonban az ifjúsági irodalom örökbecsű nagy értékei között foglal helyet.</p>
 
-#### <a name="id_386">Henryk Sienkiewicz: Quo vadis? (2018)</a>
+# <a name="id_386">Henryk Sienkiewicz: Quo vadis? (2018)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Henryk%20Sienkiewicz/Quo%20vadis_%20%28386%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Henryk%20Sienkiewicz/Quo%20vadis_%20%28386%29/Quo%20vadis_%20-%20Henryk%20Sienkiewicz.epub)

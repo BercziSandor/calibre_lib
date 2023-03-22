@@ -1,4 +1,4 @@
-#### <a name="id_1523">Szilágyi Vilmos: Intimkapcsolat kézikönyve (1994)</a>
+# <a name="id_1523">Szilágyi Vilmos: Intimkapcsolat kézikönyve (1994)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szilagyi%20Vilmos/Intimkapcsolat%20kezikonyve%20%281523%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szilagyi%20Vilmos/Intimkapcsolat%20kezikonyve%20%281523%29/Intimkapcsolat%20kezikonyve%20-%20Szilagyi%20Vilmos.epub)

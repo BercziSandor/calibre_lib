@@ -1,4 +1,4 @@
-#### <a name="id_1526">Yann Martel: Life of Pi (2002)</a>
+# <a name="id_1526">Yann Martel: Life of Pi (2002)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Yann%20Martel/Life%20of%20Pi%20%281526%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yann%20Martel/Life%20of%20Pi%20%281526%29/Life%20of%20Pi%20-%20Yann%20Martel.epub)
@@ -6,7 +6,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yann%20M
 Összefoglalás:
 <div><span class="Apple-style-span" style="font-family: arial, serif; color: rgb(51, 51, 51); font-size: small; ">SUMMARY:</span><div><span class="Apple-style-span" style="font-family: arial, serif; color: rgb(51, 51, 51); font-size: small; ">After the tragic sinking of a cargo ship, one solitary lifeboat remains bobbing on the wild, blue Pacific. The only survivors from the wreck are a sixteen-year-old boy named Pi, a hyena, a zebra (with a broken leg), a female orang-utan… and a 450-pound Royal Bengal tiger. The scene is set for one of the most extraordinary works of fiction in recent years.</span></div></div>
 
-#### <a name="id_1458">Yann Martel: Pi élete (2014)</a>
+# <a name="id_1458">Yann Martel: Pi élete (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Yann%20Martel/Pi%20elete%20%281458%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yann%20Martel/Pi%20elete%20%281458%29/Pi%20elete%20-%20Yann%20Martel.epub)

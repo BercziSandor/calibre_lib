@@ -1,4 +1,4 @@
-#### <a name="id_618">Lily Blake: Hófehér és a Vadász (2012)</a>
+# <a name="id_618">Lily Blake: Hófehér és a Vadász (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Lily%20Blake/Hofeher%20es%20a%20vadasz%20%28618%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lily%20Blake/Hofeher%20es%20a%20vadasz%20%28618%29/Hofeher%20es%20a%20Vadasz%20-%20Lily%20Blake.epub)

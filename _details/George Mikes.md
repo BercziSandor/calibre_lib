@@ -1,4 +1,4 @@
-#### <a name="id_406">George Mikes: Papucsban (1987)</a>
+# <a name="id_406">George Mikes: Papucsban (1987)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/George%20Mikes/Papucsban%20%28406%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20Mikes/Papucsban%20%28406%29/Papucsban%20-%20George%20Mikes.epub)
@@ -7,7 +7,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%2
 <div>
 <p>Hogyan legyünk külföldiek Angliában? Hogyan legyünk sznobok? Hogyan legyünk görögök? Nos, ez megoldhatatlan. Viszont szórakoztató a próbálkozás. Legalábbis, ahogy Mikes összegyűjti őket, és leírja. Egyedül célszerű olvasni. Különben a jelenlévők – nevetésedet hallván – elkérik a könyvet.</p></div>
 
-#### <a name="id_985">George Mikes: Hogyan legyünk szegények (2009)</a>
+# <a name="id_985">George Mikes: Hogyan legyünk szegények (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/George%20Mikes/Hogyan%20legyunk%20szegenyek%20%28985%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20Mikes/Hogyan%20legyunk%20szegenyek%20%28985%29/Hogyan%20legyunk%20szegenyek%20-%20George%20Mikes.epub)

@@ -1,4 +1,4 @@
-#### <a name="id_721">Michael Blake: Farkasokkal táncoló (1993)</a>
+# <a name="id_721">Michael Blake: Farkasokkal táncoló (1993)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Blake/Farkasokkal%20tancolo%20%28721%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Blake/Farkasokkal%20tancolo%20%28721%29/Farkasokkal%20tancolo%20-%20Michael%20Blake.epub)

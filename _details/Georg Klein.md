@@ -1,4 +1,4 @@
-#### <a name="id_981">Georg Klein: Szilárd Leó tízparancsolata (2015)</a>
+# <a name="id_981">Georg Klein: Szilárd Leó tízparancsolata (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Georg%20Klein/Szilard%20Leo%20tizparancsolata%20%28981%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Georg%20Klein/Szilard%20Leo%20tizparancsolata%20%28981%29/Szilard%20Leo%20tizparancsolata%20-%20Georg%20Klein.epub)

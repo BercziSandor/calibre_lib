@@ -1,4 +1,4 @@
-#### <a name="id_622">Joanne Fluke: Áfonyás muffin és gyilkosság (2007)</a>
+# <a name="id_622">Joanne Fluke: Áfonyás muffin és gyilkosság (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Afonyas%20muffin%20es%20gyilkossag%20%28622%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Afonyas%20muffin%20es%20gyilkossag%20%28622%29/Afonyas%20muffin%20es%20gyilkossag%20-%20Joanne%20Fluke.epub)
@@ -9,7 +9,7 @@ A szingli cukrásznő ismét kénytelen nyomozni, hiszen Connie Mac, a szár kon
 És míg a vörös hajú nyomozónő kegyeiért Norman és Mike immár három kötet óta verseng, feltűnik az első szerelem, Greg is a városban, megnehezítve ezzel Hannah amúgy sem egyszerű magánéletét. 
 A sok fordulat és izgalom között már-már alig jut idő a sütésre, de Hannah üzlettársa, Lisa gondoskodik arról, hogy a karnevál süteményellátása nehogy veszélybe kerüljön. Így az olvasó is megismerkedhet újabb 7 nagyszerű édesség elkészítésének titkaival.
 
-#### <a name="id_623">Joanne Fluke: Pikáns meglepetés és gyilkosság (2008)</a>
+# <a name="id_623">Joanne Fluke: Pikáns meglepetés és gyilkosság (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Pikans%20meglepetes%20es%20gyilkossag%20%28623%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Pikans%20meglepetes%20es%20gyilkossag%20%28623%29/Pikans%20meglepetes%20es%20gyilkossag%20-%20Joanne%20Fluke.epub)
@@ -19,7 +19,7 @@ Lake Edenben a hangulat tetőfokára hág, hiszen Hannah egyik udvarlója, Norma
 Így aztán mindenki azért drukkol, hogy Hannah nyomozása sikeresebb legyen, és előbb hozzon eredményt, mint a rendőröké.
 A nyomozási versenyfutás pedig a legnagyobb amerikai ünnep, a július negyediki Függetlenség Napja rendezvényei és díszletei között zajlik. Nemzeti színű sütemények, fúvószenekar, felvonulási kocsik, tűzijáték – és a kacér Rhonda Scharf rejtélyes halála egy romos ház pincéjében…
 
-#### <a name="id_624">Joanne Fluke: Csokis tündértorta és gyilkosság (2009)</a>
+# <a name="id_624">Joanne Fluke: Csokis tündértorta és gyilkosság (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Csokis%20tundertorta%20es%20gyilkossag%20%28624%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Csokis%20tundertorta%20es%20gyilkossag%20%28624%29/Csokis%20tundertorta%20es%20gyilkossa%20-%20Joanne%20Fluke.epub)
@@ -28,7 +28,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%2
 A ​sütis krimi sorozat legújabb, 5. kötetében a szingli cukrásznő, Hannah Swensen napjai gyilkosság nélkül sem telnek unalmasan mostanában. Mert miközben finomabbnál finomabb süteményeket készít a Süti Édenben, szerkeszti a Lake Eden-i szakácskönyvet, főzőtanfolyamot vezet, pátyolgatja húgát, Andreát, akinek napokon belül megszületik második gyermeke. Ráadásul Lake Edenben mindenki izgatottan készül a seriff-választásra. A versengésben pedig Bill, Hannah sógora a híresen szigorú Grant seriff ellenfele. De természetesen a Süti Éden tulajdonosnője nem tudja távol tartani magát a minnesotai kisváros legújabb bűntényétől, amikor is Grant seriffet egy este holtan találják. Hiszen ki más fedezné fel a vaskalapos rendőrfőnök hulláját, ha nem éppen a szingli cukrásznő? És ki más lehetne az első számú gyanúsított, mint Bill?
 Hannah-nak most mindennél fontosabb, hogy tisztázza sógorát és kiderítse, ki a tettes valójában. A Tündértorta rejtélye is tartogat további izgalmakat és nem csak azért, mert a történet során végig a receptjéből hiányzó titkos hozzávalót nyomozza Hannah és segítője Lisa…
 
-#### <a name="id_625">Joanne Fluke: Karácsonyi habcsók és gyilkosság (2009)</a>
+# <a name="id_625">Joanne Fluke: Karácsonyi habcsók és gyilkosság (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Karacsonyi%20habcsok%20es%20gyilkossag%20%28625%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Karacsonyi%20habcsok%20es%20gyilkossag%20%28625%29/Karacsonyi%20habcsok%20es%20gyilkossa%20-%20Joanne%20Fluke.epub)

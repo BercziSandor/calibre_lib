@@ -1,4 +1,4 @@
-#### <a name="id_343">Noam Chomsky: Hatalom és terror (2005)</a>
+# <a name="id_343">Noam Chomsky: Hatalom és terror (2005)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Noam%20Chomsky/Hatalom%20es%20terror%20%28343%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Noam%20Chomsky/Hatalom%20es%20terror%20%28343%29/Hatalom%20es%20terror%20-%20Noam%20Chomsky.epub)

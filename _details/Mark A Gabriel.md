@@ -1,4 +1,4 @@
-#### <a name="id_906">Mark A Gabriel: Islam and Terrorism (Revised and Updated Edition): The Truth About ISIS, the Middle East and Islamic Jihad (2015)</a>
+# <a name="id_906">Mark A Gabriel: Islam and Terrorism (Revised and Updated Edition): The Truth About ISIS, the Middle East and Islamic Jihad (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Mark%20A%20Gabriel/Islam%20and%20Terrorism%20%28Revised%20and%20Up%20%28906%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mark%20A%20Gabriel/Islam%20and%20Terrorism%20%28Revised%20and%20Up%20%28906%29/Islam%20and%20Terrorism%20%28Revised%20an%20-%20Mark%20A%20Gabriel.epub)

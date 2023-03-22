@@ -1,4 +1,4 @@
-#### <a name="id_1455">Cornelius Ryan: A leghosszabb nap (1999)</a>
+# <a name="id_1455">Cornelius Ryan: A leghosszabb nap (1999)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Cornelius%20Ryan/A%20leghosszabb%20nap%20%281455%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Cornelius%20Ryan/A%20leghosszabb%20nap%20%281455%29/A%20leghosszabb%20nap%20-%20Cornelius%20Ryan.epub)

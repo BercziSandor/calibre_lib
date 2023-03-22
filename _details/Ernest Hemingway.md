@@ -1,7 +1,7 @@
-#### <a name="id_1026">Ernest Hemingway: Novellák (101)</a>
+# <a name="id_1026">Ernest Hemingway: Novellák (101)</a>
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ernest%20Hemingway/Novellak%20%281026%29/Novellak%20-%20Ernest%20Hemingway.epub)
 
-#### <a name="id_1196">Ernest Hemingway: Akiért a harang szól (2020)</a>
+# <a name="id_1196">Ernest Hemingway: Akiért a harang szól (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ernest%20Hemingway/Akiert%20a%20harang%20szol%20%281196%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ernest%20Hemingway/Akiert%20a%20harang%20szol%20%281196%29/Akiert%20a%20harang%20szol%20-%20Ernest%20Hemingway.epub)
@@ -10,7 +10,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ernest%2
 <div>
 <p>Robert Jordan, a fiatal amerikai, aki a spanyol polgárháborúban a köztársaságaik oldalán harcol, fontos feladatot kap: az ellenséges vonalak mögött fel kell robbantania egy hidat. Egy partizánegységhez kerül, a saját bőrén tapasztalja a polgárháború esztelen kegyetlenségét, a köztársaságiak között dúló viszályokat, az egymásra fenekedés poklát. Beleszeret Mariába, a meggyötört, megalázott lányba, már a jövőjüket tervezgetik, amikor eljön a feladat végrehajtásának ideje. A hidat sikerül felrobbantani, ám Jordan menekülés közben eltöri a lábát, kiszolgáltatott helyzetében ő marad utóvédnek. A halál előtti percekben végigfut szeme előtt egész élete, a háború, s a soha be nem teljesülő szerelem története, a fájdalmas búcsú Mariától. A megrázó regényt Hemingway a saját személyes tapasztalata alapján írta, s rá jellemző, tömör, szaggatott stílusban.</p></div>
 
-#### <a name="id_1025">Ernest Hemingway: Az öreg halász és a tenger (2020)</a>
+# <a name="id_1025">Ernest Hemingway: Az öreg halász és a tenger (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ernest%20Hemingway/Az%20oreg%20halasz%20es%20a%20tenger%20%281025%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ernest%20Hemingway/Az%20oreg%20halasz%20es%20a%20tenger%20%281025%29/Az%20oreg%20halasz%20es%20a%20tenger%20-%20Ernest%20Hemingway.epub)

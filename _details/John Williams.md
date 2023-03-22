@@ -1,4 +1,4 @@
-#### <a name="id_1004">John Williams: Stoner (2014)</a>
+# <a name="id_1004">John Williams: Stoner (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/John%20Williams/Stoner%20%281004%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/John%20Williams/Stoner%20%281004%29/Stoner%20-%20John%20Williams.epub)

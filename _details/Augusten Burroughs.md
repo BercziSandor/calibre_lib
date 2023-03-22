@@ -1,4 +1,4 @@
-#### <a name="id_977">Augusten Burroughs: Farkas az asztalnál (2008)</a>
+# <a name="id_977">Augusten Burroughs: Farkas az asztalnál (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Augusten%20Burroughs/Farkas%20az%20asztalnal%20%28977%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Augusten%20Burroughs/Farkas%20az%20asztalnal%20%28977%29/Farkas%20az%20asztalnal%20-%20Augusten%20Burroughs.epub)
@@ -7,7 +7,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Augusten
 <div>
 <p>Gyermekkorában ​Augusten Burroughs számára az apja csak egy árny volt: egy alak a lépcső tetején, egy köhintés a földszintről, egy némán cigarettázó figura a sötétben. Ahogy Augusten idősebb lett, úgy bontakozott ki előtte apjának sötét és fenyegető személyisége. Valami gonosz, titokzatos, megnevezhetetlen borzalom. Egyik szörnyű csalódás követte a másikat, és Augusten gyermekkora hamarosan véget ért. Az apa, akiről mindig álmodozott, nem létezett. Az ő apja egy távoli, közönyös figura volt, akit nem érdekelt a fia. És akkor kezdetét vette a „játék”.<br>A regényben Augusten Borroughs egy eddig fel nem derített területre lép, a kimondhatatlan érzelmek birodalmába. Kendőzetlenül beszél szeretetről és gyűlöletről, ami apa és fia kapcsolatának minden egyes pillanatát átjárja. Sokkoló őszinteséggel és döbbenetes éleslátással megírt regénye ajánlott olvasmány mindenki számára, aki tudja, mit jelent egy szülő feltétel nélküli szeretete után sóvárogni. A szívszaggató és helyenként brutális történetben mégis van valami felemelő és irracionális életigenlés.<br>A Farkas az asztalnál egy emlékirat, egy könyörtelen nyíltsággal megírt visszaemlékezés a kegyetlenségről és a remény megváltó erejéről.</p></div>
 
-#### <a name="id_968">Augusten Burroughs: Kiszáradva (2010)</a>
+# <a name="id_968">Augusten Burroughs: Kiszáradva (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Augusten%20Burroughs/Kiszaradva%20%28968%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Augusten%20Burroughs/Kiszaradva%20%28968%29/Kiszaradva%20-%20Augusten%20Burroughs.epub)

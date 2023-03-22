@@ -1,4 +1,4 @@
-#### <a name="id_474">Konrad Lorenz: Ember és kutya (2017)</a>
+# <a name="id_474">Konrad Lorenz: Ember és kutya (2017)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Konrad%20Lorenz/Ember%20es%20kutya%20%28474%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Konrad%20Lorenz/Ember%20es%20kutya%20%28474%29/Ember%20es%20kutya%20-%20Konrad%20Lorenz.epub)

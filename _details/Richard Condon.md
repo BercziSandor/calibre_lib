@@ -1,4 +1,4 @@
-#### <a name="id_598">Richard Condon: A mandzsúriai jelölt (2004)</a>
+# <a name="id_598">Richard Condon: A mandzsúriai jelölt (2004)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Richard%20Condon/A%20mandzsuriai%20jelolt%20%28598%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Richard%20Condon/A%20mandzsuriai%20jelolt%20%28598%29/A%20mandzsuriai%20jelolt%20-%20Richard%20Condon.epub)

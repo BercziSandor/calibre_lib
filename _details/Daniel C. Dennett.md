@@ -1,4 +1,4 @@
-#### <a name="id_631">Daniel C. Dennett: Micsoda elmék (1996)</a>
+# <a name="id_631">Daniel C. Dennett: Micsoda elmék (1996)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Daniel%20C.%20Dennett/Micsoda%20elmek%20%28631%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Daniel%20C.%20Dennett/Micsoda%20elmek%20%28631%29/Micsoda%20elmek%20-%20Daniel%20C.%20Dennett.epub)

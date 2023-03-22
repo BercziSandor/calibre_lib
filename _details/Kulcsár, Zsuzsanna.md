@@ -1,4 +1,4 @@
-#### <a name="id_982">Kulcsár, Zsuzsanna: Inkvizíció és boszorkánypörök (1968)</a>
+# <a name="id_982">Kulcsár, Zsuzsanna: Inkvizíció és boszorkánypörök (1968)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kulcsar%2C%20Zsuzsanna/Inkvizicio%20es%20boszorkanyporok%20%28982%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kulcsar%2C%20Zsuzsanna/Inkvizicio%20es%20boszorkanyporok%20%28982%29/Inkvizicio%20es%20boszorkanyporok%20-%20Kulcsar%2C%20Zsuzsanna.epub)

@@ -1,4 +1,4 @@
-#### <a name="id_686">Maj Sjöwall: Roseanna (101)</a>
+# <a name="id_686">Maj Sjöwall: Roseanna (101)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Maj%20Sjowall/Roseanna%20%28686%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Maj%20Sjowall/Roseanna%20%28686%29/Roseanna%20-%20Maj%20Sjowall.epub)
@@ -6,7 +6,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Maj%20Sj
 Összefoglalás:
 <div><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-color: transparent; "></p><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-color: transparent; "><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;">A svéd szerzőpáros tíz regény írt (1965-1975) Martin Beck felügyelő és kollégái eseteiből. A Roseanna volt az eső a sorban. Beck felügyelő és csapata Roseanna McGraw könyvtáros rejtélyes halálát igyekszik felderíteni…</span></font></p><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-color: transparent; "><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;">Megjelent a Rakéta Regényújság IV. évfolyamának 1-6. számaiban (1977.)</span></font></p></div>
 
-#### <a name="id_675">Maj Sjöwall: A svéd, akinek nyoma veszett (1975)</a>
+# <a name="id_675">Maj Sjöwall: A svéd, akinek nyoma veszett (1975)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Maj%20Sjowall/A%20sved%2C%20akinek%20nyoma%20veszett%20%28675%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Maj%20Sjowall/A%20sved%2C%20akinek%20nyoma%20veszett%20%28675%29/A%20sved%2C%20akinek%20nyoma%20veszett%20-%20Maj%20Sjowall.epub)

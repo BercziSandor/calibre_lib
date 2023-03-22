@@ -1,4 +1,4 @@
-#### <a name="id_664">Pál, Ferenc: A függőségtől az intimitásig (2018)</a>
+# <a name="id_664">Pál, Ferenc: A függőségtől az intimitásig (2018)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Pal%2C%20Ferenc/A%20fuggosegtol%20az%20intimitasig%20%28664%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Pal%2C%20Ferenc/A%20fuggosegtol%20az%20intimitasig%20%28664%29/A%20fuggosegtol%20az%20intimitasig%20-%20Pal%2C%20Ferenc.epub)

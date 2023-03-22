@@ -1,4 +1,4 @@
-#### <a name="id_428">Rachel Vincent: Stray – Kóborok (2012)</a>
+# <a name="id_428">Rachel Vincent: Stray – Kóborok (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Rachel%20Vincent/Stray%20-%20Koborok%20%28428%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Rachel%20Vincent/Stray%20-%20Koborok%20%28428%29/Stray%20-%20Koborok%20-%20Rachel%20Vincent.epub)

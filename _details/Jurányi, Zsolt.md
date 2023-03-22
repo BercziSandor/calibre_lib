@@ -1,4 +1,4 @@
-#### <a name="id_374">Jurányi, Zsolt: Az alvilág zsoldjában (2015)</a>
+# <a name="id_374">Jurányi, Zsolt: Az alvilág zsoldjában (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Juranyi%2C%20Zsolt/Az%20alvilag%20zsoldjaban%20%28374%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Juranyi%2C%20Zsolt/Az%20alvilag%20zsoldjaban%20%28374%29/Az%20alvilag%20zsoldjaban%20-%20Juranyi%2C%20Zsolt.epub)

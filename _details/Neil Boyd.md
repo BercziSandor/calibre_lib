@@ -1,4 +1,4 @@
-#### <a name="id_922">Neil Boyd: Egek, mitévő legyek? (1997)</a>
+# <a name="id_922">Neil Boyd: Egek, mitévő legyek? (1997)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Boyd/Egek%2C%20mitevo%20legyek_%20%28922%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Boyd/Egek%2C%20mitevo%20legyek_%20%28922%29/Egek%2C%20mitevo%20legyek_%20-%20Neil%20Boyd.epub)
@@ -6,7 +6,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20B
 Összefoglalás:
 <p class="description">Anekdoták füzérét kapja kézhez kedves olvasónk, melyeknek főhőse az író, Neil atya, és Duddleswell atya, egy kis londoni kerület plébánosa, akik állandóan harcban állnak a hívek megnyeréséért, az adományok megszerzéséért. Neil Boyd ügyesen elkerüli az egyes szám első személyben írt művek gyakori buktatóját: önmaga álszerénységgel leplezett előtérbe tolását. A történetek – melyek közt kissé pikáns is akad – sohasem sértőek, de nagyon mulatságosak.</p>
 
-#### <a name="id_923">Neil Boyd: Atyák pácban (1999)</a>
+# <a name="id_923">Neil Boyd: Atyák pácban (1999)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Boyd/Atyak%20pacban%20%28923%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Boyd/Atyak%20pacban%20%28923%29/Atyak%20pacban%20-%20Neil%20Boyd.epub)

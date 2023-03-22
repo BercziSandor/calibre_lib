@@ -1,4 +1,4 @@
-#### <a name="id_1492">Michael Ende: Gombos ​Jim és Lukács, a masiniszta (2015)</a>
+# <a name="id_1492">Michael Ende: Gombos ​Jim és Lukács, a masiniszta (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Ende/Gombos%20%20Jim%20es%20Lukacs%2C%20a%20masiniszta%20%281492%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Ende/Gombos%20%20Jim%20es%20Lukacs%2C%20a%20masiniszta%20%281492%29/Gombos%20%20Jim%20es%20Lukacs%2C%20a%20masini%20-%20Michael%20Ende.epub)
@@ -6,7 +6,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%
 Összefoglalás:
 <p class="description">Gyöngyélet Földje a világ egyik legcsodálatosabb szigetországa. Békességben élnek itt az emberek… már az a néhány, aki elfér rajta. Gyöngyélet Földje ugyanis olyan kicsi, hogy királyának, Háromnegyedtizenkettedik Alfonznak nagy gondot okoz az esetleges túlnépesedés. Egy napon egy fekete bőrű kisfiú érkezik a szigetre, s ezzel a lakosok száma az eddigi négyről ötre emelkedik! Bonyodalmak sora veszi kezdetét, végül Lukács, a masiniszta hű mozdonyával, Emmával és kis barátjával, a Gombos Jimnek elkeresztelt kisfiúval elhagyja a szigetet. Kalandos utazásuk és boldog visszatérésük vidám története ez a könyv, amelyet Michael Ende, a Momo és a Végtelen történet világhírű szerzője írt.</p>
 
-#### <a name="id_353">Michael Ende: A végtelen történet (1985)</a>
+# <a name="id_353">Michael Ende: A végtelen történet (1985)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Ende/A%20vegtelen%20tortenet%20%28353%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Ende/A%20vegtelen%20tortenet%20%28353%29/A%20vegtelen%20tortenet%20-%20Michael%20Ende.epub)
@@ -15,7 +15,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%
 <div>
 <p>TEDD ​AZT, AMIT AKARSZ<br>ez a felirata annak a medalionnak, mely a korlátlan hatalmat jelképezi Fantáziában. De hogy ez a mondat voltaképpen mit is jelent, azt Barnabás csak hosszú, fáradtságos út után tudja meg.<br>Bux Barnabás Boldizsár számára, aki nem különösebben okos vagy szép, viszont gyönyörű történeteket tud mesélni, valóra válik minden gyermek álma: egy rejtélyes könyv olvasása közben hirtelen átkerül a mesébe, s ő lesz Fantázia birodalmának legfontosabb lakója, megmentője, akinek meséi nyomán új lények és tájak keletkeznek. Barnabás előtt nincs lehetetlen ebben a birodalomban, mert nála van a mindenható medál, az AURIN, s barátja lesz Fantázia legbátrabb vitéze, Atráskó és annak fehér szerencsesárkánya. Amikor azonban Barnabás túlságosan magabiztossá válik, s a medál feliratát, „Tedd azt, amit akarsz” túlságosan saját érdekei szerint kezdi el értelmezni, lassanként rémisztővé válik az addig oly kedves képzeletbeli világ. Barnabásnak sokat kell tanulnia, és sok kalandot kell átvészelnie, hogy megtudja, hogyan lesz a fantázia hőséből a mindennapok hőse, s hogyan válhat története valóban végtelenné.<br>Bux Barnabás Boldizsár történetét már eddig is világszerte több millió felnőtt és gyermek ismerhette meg, hiszen Michael Ende örökérvényű meseregényét 1979-es megjelenése óta több mint harmincöt nyelvre fordították le, és egy csodálatos filmet is forgattak belőle.</p></div>
 
-#### <a name="id_1430">Michael Ende: Momo (1985)</a>
+# <a name="id_1430">Michael Ende: Momo (1985)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Ende/Momo%20%281430%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Ende/Momo%20%281430%29/Momo%20-%20Michael%20Ende.epub)

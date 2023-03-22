@@ -1,4 +1,4 @@
-#### <a name="id_427">Kovács, András Péter: Médialom (2011)</a>
+# <a name="id_427">Kovács, András Péter: Médialom (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kovacs%2C%20Andras%20Peter/Medialom%20%28427%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kovacs%2C%20Andras%20Peter/Medialom%20%28427%29/Medialom%20-%20Kovacs%2C%20Andras%20Peter.epub)

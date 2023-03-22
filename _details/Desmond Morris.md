@@ -1,4 +1,4 @@
-#### <a name="id_416">Desmond Morris: Miért csinálja…? A ló (1993)</a>
+# <a name="id_416">Desmond Morris: Miért csinálja…? A ló (1993)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Desmond%20Morris/Miert%20csinalja_._%20A%20lo%20%28416%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Desmond%20Morris/Miert%20csinalja_._%20A%20lo%20%28416%29/Miert%20csinalja_._%20A%20lo%20-%20Desmond%20Morris.epub)
@@ -7,7 +7,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Desmond%
 <div>
 <p>Hogy ​miért csinálja a kutya és a macska, azt már tudja a magyar olvasó, ha hozzájutott az 1928-ban született híres angol etológus velük foglalkozó könyveihez. Desmond Morris, miután húsz évet töltött az emberi faj viselkedésének tanulmányozásával (A csupasz majom, Testközelben), az ember legközelebbi és leghűségesebb társait vette szemügyre, harmadjára a lovat. A hatalmas londoni állatkert egyik vezetőjeként bőséges alkalma volt a zebrák és a vadlovak tanulmányozására, majd – mint versenyló-tulajdonos – szakavatott ismerője lett olyan kérdéseknek is, hogy például miért gyorsabb az egyik ló, mint a másik, tudja-e a győztes, hogy versenyt nyert, és miért verik lovukat a zsokék. Persze megtudunk sok egyebet is: mit jelez a ló a fülével, a farkával, különféle hangjaival, testével, lábával; mennyit alszik, hogyan táplálkozik, udvarol, szül, lát, hall, barátkozik, végül pedig arról, is értesülünk, hogy ki találta fel a kengyelt, és miért hoz szerencsét a patkó. Aki szereti a lovakat, akár gazdájaként, akár csak messziről gyönyörködve benne, bizonyára haszonnal és élvezettel olvassa ezt a könyvet.</p></div>
 
-#### <a name="id_415">Desmond Morris: Miért csinálja…? A macska (1990)</a>
+# <a name="id_415">Desmond Morris: Miért csinálja…? A macska (1990)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Desmond%20Morris/Miert%20csinalja_._%20A%20macska%20%28415%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Desmond%20Morris/Miert%20csinalja_._%20A%20macska%20%28415%29/Miert%20csinalja_._%20A%20macska%20-%20Desmond%20Morris.epub)
@@ -16,7 +16,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Desmond%
 <div>
 <p>A híres angol etológus az elmúlt húszegynehány esztendő során ugyan főleg az emberfaj (a „csupasz majom”) viselkedésformáival foglalkozott, nem hanyagolja el azonban az állatvilágot sem. Miért csinája…? könyveinek sorozatában a kutya, a macska a ló legfeltűnőbb és az embert legjobban meggondolkodtató viselkedésformáit ismerteti és magyarázza, egyaránt ember- és állatközpontú szemlélettel, szellemesen és hitelesen. Könyvéből többek között megtudhatjuk, hogy miért dorombol a macska;hogy miért fröcsköli a kandúr vizeletét a kerítésre; hogy miért játszadozik el olykor a macska áldozatával, mielőtt megölné; hogy hogyan udvarolnak a macskák; hogy mire való a macska bajsza; hogy miért nevezik a bordélyházat „macskatanyának” – és még sok-sok érdekes, tanulságos, figyelemre méltó adalékot az embernek erről a simogatni való és ledér társáról, a macskáról.</p></div>
 
-#### <a name="id_536">Desmond Morris: A csupasz majom (1989)</a>
+# <a name="id_536">Desmond Morris: A csupasz majom (1989)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Desmond%20Morris/A%20csupasz%20majom%20%28536%29/cover.jpg" alt="cover" width="300"/>
 
 Összefoglalás:

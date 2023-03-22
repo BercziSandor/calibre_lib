@@ -1,4 +1,4 @@
-#### <a name="id_619">Gárdonyi, Géza: Isten rabjai (2014)</a>
+# <a name="id_619">Gárdonyi, Géza: Isten rabjai (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gardonyi%2C%20Geza/Isten%20rabjai%20%28619%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gardonyi%2C%20Geza/Isten%20rabjai%20%28619%29/Isten%20rabjai%20-%20Gardonyi%2C%20Geza.epub)
@@ -7,7 +7,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gardonyi
 <div>
 <p>Egy XVI. századi nyelvemlék, a Margit-legenda hívta föl Gárdonyi figyelmét IV. Béla király leányának, Margit regényes élettörténetére. A Ráskai Lea másolatában megmaradt legenda föltételezett szerzője Marcellus páter, Margit gyóntatója volt, akivel a regény több jelenlétében mi is találkozhatunk. A 231 lapból álló kódex a Nyulak szigetén, a mai Margitszigeten létesített Domonkos-rendi kolostor híres lakójának életrajzát tartalmazza. Az író szorgalmasan tanulmányozza a kolostori regulákat, a rendház elhelyezkedésének, helyiségeinek rajzát, régi följegyzésekből megismeri Margit apácatársainak nevét, korát, származását. Képzelete azonban túllép a szűkös történelmi adatokon, kitölti a krónika hiátusait, fantáziája rekonstruálja a kolostor és a korabeli Magyarország mindennapjainak életét. Hosszú előkészület után egyetlen év alatt írja meg híres történelmi regényét. Az Isten rabjai első kiadása 1908 áprilisában jelent meg, és azóta az egymást követő nemzedékek kedves olvasmányává lett.</p></div>
 
-#### <a name="id_1603">Gárdonyi, Géza: Egri csillagok (2019)</a>
+# <a name="id_1603">Gárdonyi, Géza: Egri csillagok (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gardonyi%2C%20Geza/Egri%20csillagok%20%281603%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gardonyi%2C%20Geza/Egri%20csillagok%20%281603%29/Egri%20csillagok%20-%20Gardonyi%2C%20Geza.epub)

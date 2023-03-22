@@ -1,4 +1,4 @@
-#### <a name="id_1470">Gerlóczy, Márton: Igazolt hiányzás (2003)</a>
+# <a name="id_1470">Gerlóczy, Márton: Igazolt hiányzás (2003)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerloczy%2C%20Marton/Igazolt%20hianyzas%20%281470%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerloczy%2C%20Marton/Igazolt%20hianyzas%20%281470%29/Igazolt%20hianyzas%20-%20Gerloczy%2C%20Marton.epub)
@@ -9,13 +9,13 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerloczy
 <p> </p>
 <p> </p></div>
 
-#### <a name="id_1468">Gerlóczy, Márton: Elvonókúra (2016)</a>
+# <a name="id_1468">Gerlóczy, Márton: Elvonókúra (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerloczy%2C%20Marton/Elvonokura%20%281468%29/cover.jpg" alt="cover" width="300"/>
 
 Összefoglalás:
 <p class="description">Gerlóczy Márton legújabb regényében ismét visszatér A csemegepultos naplójából (201614296) és a Check-inből már megismert újlipótvárosi "íróféle", Márczy Lajos. Igaz, ezúttal nem ő a főszereplő, hanem jó barátja, egyben útitársa, egy Párizsban dolgozó magyar pincér, akinek thaiföldi kalandjairól ő számol be titkos útinaplójában. A harminchárom esztendős férfi - 2015. december 2-án, élete 12288. napján - azért utazik a távol-keleti országba, hogy végre egy szigeten található turistaparadicsomban kipihenje magát, és egyben leszokjon az alkoholról. Ez legalábbis a terv, de egy alkoholista számára ez nem is annyira egyszerű - derül ki az ötvenkilenc nap eseményeit megörökítő naplóból, amely az elvonókúra és általában a nyaralás részletein túl a naplóíró saját küzdelmét, valamint a thai sziget mindennapjait, a kiábrándult helyieket és a nyugati turisták dőzsöléseit is részletesen bemutatja. Elgondolkodtató, ugyanakkor kifejezetten szórakoztató regény - széles körben ajánlható beszerzésre.</p>
 
-#### <a name="id_1469">Gerlóczy, Márton: Mikecs Anna: Altató (2017)</a>
+# <a name="id_1469">Gerlóczy, Márton: Mikecs Anna: Altató (2017)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerloczy%2C%20Marton/Mikecs%20Anna_%20Altato%20%281469%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerloczy%2C%20Marton/Mikecs%20Anna_%20Altato%20%281469%29/Mikecs%20Anna_%20Altato%20-%20Gerloczy%2C%20Marton.epub)

@@ -1,4 +1,4 @@
-#### <a name="id_1645">Kopátsy, Sándor: Az Orbán jelenség (2002)</a>
+# <a name="id_1645">Kopátsy, Sándor: Az Orbán jelenség (2002)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kopatsy%2C%20Sandor/Az%20Orban%20jelenseg%20%281645%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kopatsy%2C%20Sandor/Az%20Orban%20jelenseg%20%281645%29/Az%20Orban%20jelenseg%20-%20Kopatsy%2C%20Sandor.epub)

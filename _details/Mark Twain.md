@@ -1,4 +1,4 @@
-#### <a name="id_937">Mark Twain: Élet a Mississippin (1971)</a>
+# <a name="id_937">Mark Twain: Élet a Mississippin (1971)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Mark%20Twain/Elet%20a%20Mississippin%20%28937%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mark%20Twain/Elet%20a%20Mississippin%20%28937%29/Elet%20a%20Mississippin%20-%20Mark%20Twain.epub)
@@ -7,7 +7,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mark%20T
 <div>
 <p>Mark Twain vonzalma a hajósélet iránt több művéből ismeretes. De, hogy ő maga mint hajókormányos hogyan élt, azt ebben a művében írja le a legrészletesebben. Beteljesült vágyairól igen mozgalmas-kalandos-humoros fejezetekben ad számot. <br>A Nagy Szennyvízcsatornát a Mississippit érett író korában ismét végigutazta, s ennek a hajóútnak ürügyén bűbájos történet-mozaikokban eleveníti fel a korabeli életet. Kifogyhatatlan mesélőkedv és kesernyés-csípős humor lengi át az egész könyvet, melynek ellenállhatatlan varázsa végig vonzásában tartja az olvasót. Ennek során aztán szondázásról, ujjlenyomatokról, viharokról, szépséges palotákról, iparkodó zsiványokról, spiritiszta szeánszokról, bűnbánó betörökről, vérbosszúról, arkangyalokról, indián legendákról és egyebekről villant fel maradandó képeket. <br>Mark Twain e kis remekművét 1883-ban írta, de teljes terjedelmében csak most kerül a magyar olvasóközönség kezébe.<br>A kötetet Raszler Károly illusztrálta.</p></div>
 
-#### <a name="id_936">Mark Twain: Megszelídítem a kerékpárt (2013)</a>
+# <a name="id_936">Mark Twain: Megszelídítem a kerékpárt (2013)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Mark%20Twain/Megszeliditem%20a%20kerekpart%20%28936%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mark%20Twain/Megszeliditem%20a%20kerekpart%20%28936%29/Megszeliditem%20a%20kerekpart%20-%20Mark%20Twain.epub)

@@ -1,4 +1,4 @@
-#### <a name="id_687">Liza Marklund: Studio 69 (2003)</a>
+# <a name="id_687">Liza Marklund: Studio 69 (2003)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Liza%20Marklund/Studio%2069%20%28687%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Liza%20Marklund/Studio%2069%20%28687%29/Studio%2069%20-%20Liza%20Marklund.epub)

@@ -1,4 +1,4 @@
-#### <a name="id_781">Ian Stewart: A természet számai (1997)</a>
+# <a name="id_781">Ian Stewart: A természet számai (1997)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ian%20Stewart/A%20termeszet%20szamai%20%28781%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ian%20Stewart/A%20termeszet%20szamai%20%28781%29/A%20termeszet%20szamai%20-%20Ian%20Stewart.epub)

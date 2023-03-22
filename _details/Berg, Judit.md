@@ -1,4 +1,4 @@
-#### <a name="id_467">Berg, Judit: Rumini (101)</a>
+# <a name="id_467">Berg, Judit: Rumini (101)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Rumini%20%28467%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Rumini%20%28467%29/Rumini%20-%20Berg%2C%20Judit.epub)
@@ -35,7 +35,7 @@ sok eszük, bátorságuk és jókedvük, és mivel Rumini sem tétlenkedik, a
 végén minden titokra fény derül. De vajon lesz-e pénzük, hogy még a 
 bazárban is vásároljanak?</p></div>
 
-#### <a name="id_567">Berg, Judit: Rumini Zúzmaragyarmaton (2020)</a>
+# <a name="id_567">Berg, Judit: Rumini Zúzmaragyarmaton (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Rumini%20Zuzmaragyarmaton%20%28567%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Rumini%20Zuzmaragyarmaton%20%28567%29/Rumini%20Zuzmaragyarmaton%20-%20Berg%2C%20Judit.epub)
@@ -44,7 +44,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%
 <div>
 <p>Berg Judit IBBY-díjjal kitüntetett Ruminije folytatódik! A Szélkirálynő nevű hajó ezúttal Zúzmaragyarmatra indul, ahol az egerek sosem látott bonyodalmakba keverednek: eltévednek, fekete sirályok és más alattomos lények támadnak rájuk, egy időre Negró lesz a kapitány, és Rumini megint eltűnik…</p></div>
 
-#### <a name="id_570">Berg, Judit: Rumini és a négy jogar (2019)</a>
+# <a name="id_570">Berg, Judit: Rumini és a négy jogar (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Rumini%20es%20a%20negy%20jogar%20%28570%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Rumini%20es%20a%20negy%20jogar%20%28570%29/Rumini%20es%20a%20negy%20jogar%20-%20Berg%2C%20Judit.epub)
@@ -53,12 +53,12 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%
 <div>
 <p>Rumini ezúttal nyugatra utazik, ahol az Arany-tenger szigetvilágát négy nemzet lakja: a hódok, kígyók, teknősök és fénylények. Eddig békében éltek egymás mellett, de az egyik nép királya aljas csellel le akarja igázni korábbi szövetségeseit.<br>Ruminiék a viszály kellős közepébe csöppennek. Hamarosan kiderül: egyetlen reményük van csak a hazajutásra: ha a hódító ellen fordulva segítenek békét hozni a Hódszövetség négy népének.<br>De mit kell tenni akkor, ha saját társaik is ellenséggé válnak?</p></div>
 
-#### <a name="id_479">Berg, Judit: Micsoda Idő! (2012)</a>
+# <a name="id_479">Berg, Judit: Micsoda Idő! (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Micsoda%20Ido%21%20%28479%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Micsoda%20Ido%21%20%28479%29/Micsoda%20Ido%21%20-%20Berg%2C%20Judit.epub)
 
-#### <a name="id_1274">Berg, Judit: Alma (2016)</a>
+# <a name="id_1274">Berg, Judit: Alma (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Alma%20%281274%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Alma%20%281274%29/Alma%20-%20Berg%2C%20Judit.epub)

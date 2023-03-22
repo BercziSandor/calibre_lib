@@ -1,4 +1,4 @@
-#### <a name="id_391">Fodor, Sándor: Csipike (2015)</a>
+# <a name="id_391">Fodor, Sándor: Csipike (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fodor%2C%20Sandor/Csipike%20%28391%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fodor%2C%20Sandor/Csipike%20%28391%29/Csipike%20-%20Fodor%2C%20Sandor.epub)

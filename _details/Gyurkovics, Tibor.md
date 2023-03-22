@@ -1,4 +1,4 @@
-#### <a name="id_1276">Gyurkovics, Tibor: Kudi, a levegőember (1985)</a>
+# <a name="id_1276">Gyurkovics, Tibor: Kudi, a levegőember (1985)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gyurkovics%2C%20Tibor/Kudi%2C%20a%20levegoember%20%281276%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gyurkovics%2C%20Tibor/Kudi%2C%20a%20levegoember%20%281276%29/Kudi%2C%20a%20levegoember%20-%20Gyurkovics%2C%20Tibor.epub)

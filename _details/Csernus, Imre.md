@@ -1,4 +1,4 @@
-#### <a name="id_16">Csernus, Imre: A nő (2008)</a>
+# <a name="id_16">Csernus, Imre: A nő (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Csernus%2C%20Imre/A%20no%20%2816%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csernus%2C%20Imre/A%20no%20%2816%29/A%20no%20-%20Csernus%2C%20Imre.epub)
@@ -6,7 +6,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csernus%
 Összefoglalás:
 <p class="description">Mitől nő egy nő? És vajon mitől jó nő? Hogyan képes egy nő - vagy akár egy férfi - megélni saját nemiségét? Tud-e jó példával szolgálni gyermekeinek? Tudja-e jól érezni magát a saját bőrében? És tesz-e valamit azért, hogy jobb legyen?<br>Ha Ön elég erős, hogy feltegye magának ezeket a kérdéseket, lapozzon bele Dr. Csernus Imre legújabb könyvébe! Bátraké a szerencse...<br>"Kimondani hangosan magamnak és a másiknak a jó és a rossz érzéseimet, majd mindennek a következményeit napról-napra következetesen vállalni: ez a fejle(szte)tt érzelmi intelligencia!"<br>Dr. Csernus Imre 1966-ban született egy vajdasági kisvárosban. Bár 10 éves korában esküt tett arra, hogy pap lesz, valahogy mégiscsak pszichiáter lett belőle, mert kiderült, hogy van bátorsága feltenni azokat a kérdéseket, amelyekre mások gondolni sem mernek.<br>"Talán mindez egy általános tévhit, hogy a nő csak akkor nő, amikor párkapcsolatban él. Lehet, hogy nem a másikhoz képest kellene meghatároznia magát? Lehet, hogy mindezt egykor a férfiak találták ki, mivel nekik így nagyon kényelmes? A pasitól lesz valaki nő?"</p>
 
-#### <a name="id_378">Csernus, Imre: Felnőtt Húsleves (2010)</a>
+# <a name="id_378">Csernus, Imre: Felnőtt Húsleves (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Csernus%2C%20Imre/Felnott%20Husleves%20%28378%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csernus%2C%20Imre/Felnott%20Husleves%20%28378%29/Felnott%20Husleves%20-%20Csernus%2C%20Imre.epub)

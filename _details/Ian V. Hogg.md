@@ -1,4 +1,4 @@
-#### <a name="id_1454">Ian V. Hogg: A II. világháború német titkos fegyverei (1999)</a>
+# <a name="id_1454">Ian V. Hogg: A II. világháború német titkos fegyverei (1999)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ian%20V.%20Hogg/A%20II.%20vilaghaboru%20nemet%20titkos%20fegy%20%281454%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ian%20V.%20Hogg/A%20II.%20vilaghaboru%20nemet%20titkos%20fegy%20%281454%29/A%20II.%20vilaghaboru%20nemet%20titkos%20-%20Ian%20V.%20Hogg.epub)

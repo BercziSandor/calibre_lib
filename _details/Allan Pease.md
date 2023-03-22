@@ -1,4 +1,4 @@
-#### <a name="id_3">Allan Pease: Szó-beszéd (2011)</a>
+# <a name="id_3">Allan Pease: Szó-beszéd (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Allan%20Pease/Szo-beszed%20%283%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Allan%20Pease/Szo-beszed%20%283%29/Szo-beszed%20-%20Allan%20Pease.epub)

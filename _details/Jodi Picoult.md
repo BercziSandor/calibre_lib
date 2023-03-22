@@ -1,4 +1,4 @@
-#### <a name="id_351">Jodi Picoult: Szívtől szívig (2012)</a>
+# <a name="id_351">Jodi Picoult: Szívtől szívig (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jodi%20Picoult/Szivtol%20szivig%20%28351%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jodi%20Picoult/Szivtol%20szivig%20%28351%29/Szivtol%20szivig%20-%20Jodi%20Picoult.epub)
@@ -7,7 +7,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jodi%20P
 E bravúros fordulatokkal tarkított, megindító regény egy gyilkosságért halálra ítélt férfi történetét dolgozza fel, aki azért küzd, hogy felajánlhassa szívét egykori áldozata szívbeteg kislányának. A kisvárosias New Hampshire államban e szándéka, és a személye körül kialakuló legendák alaposan felborzolják a kedélyeket. Egy talpraesett jogásznő és egy fiatal katolikus pap mégis a férfi ügye mellé áll – miközben az események hatására mindkettejük élete gyökeresen megváltozik.
 A népszerű írónő, a Nővérem húga és a Tizenkilenc perc szerzője, e kötetében is rendkívüli érzékenységgel foglalkozik olyan kényes témákkal, mint a szervadományozás, a halálbüntetés és a vallásos meggyőződés. A könyv több héten keresztül vezette a New York Times bestseller-listáját.
 
-#### <a name="id_348">Jodi Picoult: Tizenkilenc perc (2020)</a>
+# <a name="id_348">Jodi Picoult: Tizenkilenc perc (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jodi%20Picoult/Tizenkilenc%20perc%20%28348%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jodi%20Picoult/Tizenkilenc%20perc%20%28348%29/Tizenkilenc%20perc%20-%20Jodi%20Picoult.epub)
@@ -16,7 +16,7 @@ Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jodi%20P
 Tizenkilenc perc alatt lenyírhatod a ház előtt a füvet. Befestheted a hajad. Megnézheted egy hokimeccs első harmadát…
 Tizenkilenc perc alatt meg tudod állítani a világot, és akár le is szállhatsz róla.
 
-#### <a name="id_350">Jodi Picoult: A nővérem húga (2021)</a>
+# <a name="id_350">Jodi Picoult: A nővérem húga (2021)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jodi%20Picoult/A%20noverem%20huga%20%28350%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jodi%20Picoult/A%20noverem%20huga%20%28350%29/A%20noverem%20huga%20-%20Jodi%20Picoult.epub)
@@ -28,7 +28,7 @@ A lelki örvények egyre lejjebb húzzák a jogászból lett főállású anyát
 A krízishelyzetet a népszerű írónő felváltva láttatja a hét szereplő szemével, bravúrosan váltogatva az idősíkokat is. Miközben egy lebilincselő, gyors léptű regény fejezetein nevethet-zokoghat az olvasó, olyan hitelesen elevenedik meg előtte a kertvárosi otthon, a kórház, a tárgyalóterem és a tűzoltólaktanya világa, mintha dokumentumfilmet nézne.
 A végkifejlet pedig majdnem akkora meglepetéseket tartogat, mint egy krimi.
 
-#### <a name="id_349">Jodi Picoult: Elrabolt az apám (2021)</a>
+# <a name="id_349">Jodi Picoult: Elrabolt az apám (2021)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jodi%20Picoult/Elrabolt%20az%20apam%20%28349%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jodi%20Picoult/Elrabolt%20az%20apam%20%28349%29/Elrabolt%20az%20apam%20-%20Jodi%20Picoult.epub)

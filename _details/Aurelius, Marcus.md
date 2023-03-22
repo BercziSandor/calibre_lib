@@ -1,4 +1,4 @@
-#### <a name="id_856">Aurelius, Marcus: Marcus Aurelius elmélkedései (1983)</a>
+# <a name="id_856">Aurelius, Marcus: Marcus Aurelius elmélkedései (1983)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Aurelius%2C%20Marcus/Marcus%20Aurelius%20elmelkedesei%20%28856%29/cover.jpg" alt="cover" width="300"/>
 
 Letöltés: [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aurelius%2C%20Marcus/Marcus%20Aurelius%20elmelkedesei%20%28856%29/Marcus%20Aurelius%20elmelkedesei%20-%20Aurelius%2C%20Marcus.epub)
