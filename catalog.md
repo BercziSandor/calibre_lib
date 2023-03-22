@@ -643,7 +643,7 @@ A háromtest-trilógia:
 - (2018) - A globális elme. Elmélkedések a világról [details](#id_1711) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/A%20globalis%20elme.%20Elmelkedesek%20a%20vil%20%281711%29/A%20globalis%20elme.%20Elmelkedesek%20a%20-%20Csanyi%2C%20Vilmos.epub)
 - (2020) - A kutyák szőrös gyerekek [details](#id_1719) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/A%20kutyak%20szoros%20gyerekek%20%281719%29/A%20kutyak%20szoros%20gyerekek%20-%20Csanyi%2C%20Vilmos.epub)
 - (2020) - Ironikus etológia [details](#id_1720) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Ironikus%20etologia%20%281720%29/Ironikus%20etologia%20-%20Csanyi%2C%20Vilmos.epub)
-- (2020) - Jeromos, a barátom - A kutyák szerint a világ [details](#id_1718)
+- (2020) - Jeromos, a barátom - A kutyák szerint a világ [details](#id_1718) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Jeromos%2C%20a%20baratom%20-%20A%20kutyak%20szeri%20%281718%29/Jeromos%2C%20a%20baratom%20-%20A%20kutyak%20s%20-%20Csanyi%2C%20Vilmos.epub)
 - (2021) - Drága barátaim, kedves majmok [details](#id_1712) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Draga%20barataim%2C%20kedves%20majmok%20%281712%29/Draga%20barataim%2C%20kedves%20majmok%20-%20Csanyi%2C%20Vilmos.epub)
 - (2021) - Édes Janka [details](#id_1715) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csanyi%2C%20Vilmos/Edes%20Janka%20%281715%29/Edes%20Janka%20-%20Csanyi%2C%20Vilmos.epub)
 
