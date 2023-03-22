@@ -4,6 +4,9 @@
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Albert%2C%20Gyorgyi/Miert%20pont%20en_%20%28530%29/Miert%20pont%20en_%20-%20Albert%2C%20Gyorgyi.epub)
 
+### Tagek
+ismert ember, önéletrajz
+
 ### Összefoglalás
 <div>
 
@@ -26,4 +29,5 @@ a szuverén, autonóm ember jutalmánál, a szabadságnál nincs nagyobb jutalom
 öt éve volt. Ma sem gondolom másként. Én ebben hiszek. Csak ebben.</i><i style="mso-bidi-font-style:normal">Albert Györgyi</i></p>
 
 </div>
+
 

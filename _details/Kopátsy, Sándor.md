@@ -4,7 +4,11 @@
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kopatsy%2C%20Sandor/Az%20Orban%20jelenseg%20%281645%29/Az%20Orban%20jelenseg%20-%20Kopatsy%2C%20Sandor.epub)
 
+### Tagek
+orbán, politika
+
 ### Összefoglalás
 <div>
 <p>Orbán bukását ugyan nem tartom akkora történelmi eseménynek, amiről érdemes volna tanulmányt írni, mégis írok, mert Kossuth óta a magyar politika azért fut újra és újra történelmi tragédiákba, mert a politikai vezetésnek sikerül a közvéleménnyel elhitetni, hogy nemzeti egységre van szükség.</p></div>
+
 

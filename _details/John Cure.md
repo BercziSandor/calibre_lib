@@ -4,7 +4,11 @@
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/John%20Cure/A%20gonosz%20uj%20arca%20%28956%29/A%20gonosz%20uj%20arca%20-%20John%20Cure.epub)
 
+### Tagek
+gyilkosság, horror, krimi, magyar nyelvű, magyar szerző, misztikus, pszicho-thriller, pszichokrimi, regény, sorozatgyilkosság, szellemek, thriller, irodalom, szórakoztató irodalom
+
 ### Összefoglalás
 <div>
 <p>"A ​holtak visszatérhetnek az élők világába? <br>John Marllow, a Véres Casanova néven ismert pszichopata, brutális kegyetlenséggel erőszakol meg és mészárol le nyolc nőt. A sorozatgyilkos végül az FBI elől menekülve egy elhagyatott házban öngyilkosságot követ el. Csakhogy a vérfürdő közel húsz év múlva újra kezdetét veszi, mindössze azzal a különbséggel, hogy a különös kegyetlenséggel elkövetett szexuális indíttatású gyilkosságok áldozatait immáron az Interneten keresztül hálózza be a gonosz ragadozó. Joseph Church, a feltörekvő író régi álma válik valóra, amikor megjelenő új regénye végre nagy sikert arat, azonban ezzel egy időben a felhőtlenül boldognak látszó házassága kártyavárként omlik össze. Eddiet, a rémálmokkal küzdő kamaszfiút megtalálja az első szerelem. Felhőtlen, boldog szárnyalását viszont egy a túlvilágról érkező gonosz szellem árnyékolja be, aki egyre jobban az irányítása alá vonja a fiút. Gemsi, a fiatal és agilis nyomozónő hosszú éveket töltött az FBI fedett ügynökeként a maffiába beépülve. Mégis a legveszélyesebb küldetése most vár rá, amikor az Interneten ismerkedő sorozatgyilkosnak akar csapdát állítani. Csapatával úgy vélik, egy másolós gyilkos nyomában vannak, azt nem is sejtik, hogy a gonosz lelkek is visszatérhetnek az élők világába. John Cure új könyve az élethű szereplőivel, hátborzongató hangulatával és lebilincselő történetvezetésével ismét a misztikus pszichothrillerek legjobbjai közé tartozik."</p></div>
+
 

@@ -4,6 +4,10 @@
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Leeson/A%20neveletlen%20dzsinn%20%281007%29/A%20neveletlen%20dzsinn%20-%20Robert%20Leeson.epub)
 
+### Tagek
+angol szerző, fantasztikus, ifjúsági, magyar nyelvű, anglia, kaland, regény
+
 ### Összefoglalás
 <p class="description">Palackba zárt szellem? Ugyan már! A mi modern korunkban egy szellem (a keleti mesevilág szelleme, vagyis egy dzsinn) csakis sörösdobozból bújhat elő! Ez történt a szerző előző könyvében is, amelyet A harmadosztályú dzsinn címmel olvashattatok. Nos, ezúttal a dzsinn fiacskája kerül elő, hogy alaposan megzavarja egy angliai kisváros életét. Mi tagadás, nem tesz jót egy dzsinnek sem, ha még nem ismeri a varázslásokat. Ebből mindenféle bonyoldalom adódik – ám a szerző képes a legnagyobb varázslatra is! Könyvében a mese valóság… és a valóság mintha csak mese volna!</p>
+
 

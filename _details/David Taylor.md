@@ -4,7 +4,11 @@
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/David%20Taylor/Hogyan%20lettem%20allatkerti%20orvos%20%28473%29/Hogyan%20lettem%20allatkerti%20orvos%20-%20David%20Taylor.epub)
 
+### Tagek
+állat, brit szerző, humoros, magyar nyelvű, állatgyógyászat, állatkert, életrajz, nagy-britannia, európa, az író származása szerint, szépirodalom, elbeszélés, regény, novella, tartalom szerint, állatregények
+
 ### Összefoglalás
 <div>
 <p>David ​Taylor egyike a kevés számú független állatorvosoknak, akik egzotikus állatok gyógyítására specializálódtak; állatkertek, delfináriumok, szafari parkok állandó tanácsadója. Könyvében izgalmasan írja le a sokrétű munkája közben szerzett élményeit, tapasztalatait. Mi a teendő, ha… … a puma lenyeli a gombolyag spárgát? …az óriáskígyó szorosan egybeöleti az orvost tulajdonosával, egy sztriptíztáncosnővel? …a frissen kifogott delfinkölyök lélegzetét visszatartva próbál öngyilkos lenni? …két vadszamarat kell befogni az Amszterdam közeli, csatornákkal szabdalt óriás mezőkön? …kétezerötszáz kilométerre tizenkét, túlérett őszibarackkal teletömött zsiráf a végét járja? …véletlenül rájön, hogy lelkiismeretlen emberek hogyan használják fel a tevéket a bűn futáraiként? …megtudja, az ártalmatlan tengeritehenet azért tartják fogságban, mert könnyei növelik a férfiak szerelmi képességeit? Ilyen és még számos különös problémával kellett D. Taylornak szembenéznie, amikor vadállatok orvoslásával kezdett foglalkozni. Humoros történetei sohasem öncélúak, mindig az állatok megmentése, gyógyítása, körülményeik jobbítása a cél.</p></div>
+
 

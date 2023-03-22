@@ -4,7 +4,11 @@
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kicsi%2C%20Sandor%20Andras/Turomfu%20es%20jajlapi%20%28384%29/Turomfu%20es%20jajlapi%20-%20Kicsi%2C%20Sandor%20Andras.epub)
 
+### Tagek
+betegség, egészség, magyar nyelvű, tanulmány
+
 ### Összefoglalás
 <div>
 <p>Melyikünknek ​ne keletkezett volna pattanás a nyelvén, vagy ne ütötte volna ki ajkunkat a herpesz, ha egy étel nagyon jólesett, vagy más után ittunk közös pohárból? Mi a teendő? Íme egy „recept” a könyvből: „Az ebfing, másként finkő, éposz, papfalat, kellemetlen és fáj­dalmas pattanás. Azok nyelvén támad, akiket megszóltak, akikről rosszat beszéltek. Igaz, a baj áttehető annak a nyelvére, aki rossz beszédjével okozta: a beteg köpjön a földre, és a köpést tűvel szúrja át. Visszaháríthatod a pattanást úgy is, hogy a zsebkendődre csombékot kötsz, háromszor a tűzbe köpsz, s a csomót meg­szurkálod tűvel, mondván: Úgy égjen annak [mármint a megron­tónak] a nyelve, mint a tűz! De szokás egyszerűen elküldeni is a kis ebfingot – háromszor a földre köpve megfelelő mondóka kíséretében – a házhoz, toronyhoz, a papné vagy a cigányasszony fenekére”. Persze nem csupán ilyen humorosnak ható részletekből áll a tanulmánykötet, amelyet kezében tart kedves Olvasó! Csaknem szó szerint halálosan komoly könyv ez, jelentéstani, néprajzi, nyelvi, orvostörténeti vonatkozásokban gazdag írások tárháza betegségről, elmúlásról, amelyből éppúgy megtud­hatják, kit rejt a városligeti Fuit feliratú sír, mint azt, miért mondjuk azt, hogy „Egészségére!”, amikor valaki tüsszentett. Mélyedjen el az élet apró és nagy eseményeiben, az akár két busz- vagy metrómegálló között fölfalható érdekfeszítő írásokon. Jakab István, a szerkesztő</p></div>
+
 

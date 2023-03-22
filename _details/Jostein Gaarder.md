@@ -4,13 +4,21 @@
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jostein%20Gaarder/A%20kartya%20titka%20%281410%29/A%20kartya%20titka%20-%20Jostein%20Gaarder.epub)
 
+### Tagek
+fiction, literary, család, ifjúsági
+
 ### Összefoglalás
 <p>Jostein ​Gaarder nevét a Sofie világa című, gyerekeknek írt filozófiatörténete tette világszerte ismertté. A kártya titka is filozófiai kérdéseket boncolgat, s elsősorban arra keresi a választ, hogy kik vagyunk valójában, és honnan jöttünk. A regény kamasz hőse, Hans Thomas Görögország felé utazik édesapjával, hogy megkeressék a fiú édesanyját, aki elhagyta őket. Az utazás egyik állomásán a városka öreg pékmestere négy zsömlét ad Hans Thomasnak, aki az egyik zsömlében titokzatos könyvet talál. A zsömlekönyv rejtélyes családregény, s Hans Thomas lassan rájön, hogy a saját családtörténetét olvassa. Megtudja, hogy kik voltak a nagyszülei, hogyan találtak egymásra szülei, s miért hagyta el őket az édesanyja. Különös kártyajáték folyik: 52 kártyalap elevenedik meg, hogy Hans Thomas megérthesse, ki is ő valójában, s ki az a titokzatos Joker, aki „túl sokat gondolkodik, s túl sokat tud”. Miközben a fiú maga is résztvevője, szereplője lesz a családregénynek, útjuk is a végéhez ér: de vajon sikerül-e hazavinni a gyönyörű mamát? Ő vajon tudja-e, hogy kicsoda is tulajdonképpen, s tudja-e már Apa, Hans Thomas, s tudjuk-e mi is, mindannyian?</p>
+
 
 # <a name="id_1411">Jostein Gaarder: Anna világa (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jostein%20Gaarder/Anna%20vilaga%20%281411%29/cover.jpg" alt="cover" width="300"/>
 
+### Tagek
+21. század, álom, cli-fi, időutazás, ifjúsági, ismeretterjesztő, kamasz főszereplő, klímaváltozás, környezetvédelem, kortárs, magyar nyelvű, norvég szerző, regény
+
 ### Összefoglalás
 <div>
 <p>A ​történet főszereplője Anna és Nova. Az elbeszélés kezdetén Anna tízéves, iskolába jár, barátkozik, olvas, kirándul, észreveszi a fiúkat, vagyis hát egyet. Néhány évvel később azonban különös dolog történik vele, furcsa álmai megzavarják éjszakai nyugalmát. Álmaiban egy olyan világban találja magát, ami a reális jövőben akár valósággá is válhat.<br>2082-t írunk, és Anna egy dühös kislánnyal, Novával társalog, aki Anna jövőbeli unokája. Nova az álmokban egy olyan világban él, amelyben már nincs klasszikus tél, tavasz, nyár, ősz, hanem meleg van, sokat esik az eső, és a déli országokból özönlenek a klímamenekültek északra. Nova dühös nagyszülei generációjára, vagyis Annára, mert hagyták, hogy mindez megtörténjen. Ő már nem láthat jegesmedvéket, oroszlánokat és még számos más állatot, a körülötte létező világ problémáktól terhes. Nova számítógépére installált egy applikációt, amely üzenetet küld neki, ha egy újabb állatfaj kihal a földön.<br>Anna szülei aggódnak a kislány álmai miatt, ezért pszichiáterhez küldik, aki komolyan veszi őt. Megnyugtatja, hogy nincs semmi különös probléma az efféle álmokkal, viszont igen érdekes párbeszéd alakul ki kettejük között a klímaváltozásról. Ráadásul a leánya, Ester, klímakutató, és Szomáliában dolgozik egy nemzetközi szervezetnek. Esterről egy nap az a hír érkezik, hogy szomáliai kalózok elrabolták.<br>A rendkívül okos és érzékeny könyvben képzelet és valóság, álom és realitás keveredik. Végig érződik, hogy a szerző elkötelezett környezetvédő, és okosan hívja fel olvasói figyelmét egy valós probléma komolyságára, nem fél tudományosan igazolt adatokkal és tényekkel alátámasztani mondandóját.</p></div>
+
 

@@ -4,9 +4,13 @@
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Ofelsege%20pincere%20voltam%20%28446%29/Ofelsege%20pincere%20voltam%20-%20Bohumil%20Hrabal.epub)
 
+### Tagek
+20. század, cseh szerző, felnőtt tartalom, férfi főszereplő, filmadaptáció, groteszk, hangoskönyv, irónia, klasszikus, magyar nyelvű, szatíra, szexualitás, lélektani regények, európa, cseh köztársaság, az író származása szerint, szépirodalom, elbeszélés, regény, karriertörténetek, novella, tartalom szerint
+
 ### Összefoglalás
 <div>
 <p>„És ​a valósággá vált hihetetlen nem hagyott el engem, én hittem a hihetetlenben, a meglepő meglepetésben, a döbbenetben, ez volt a vezérlő csillagom…" – elmélkedik a regény hőse, aki kis pikolófiúból milliomos szállodatulajdonossá lett, majd a háború és a kommunista hatalomátvétel után vagyonát vesztve, magányos útkaparóként ismeri fel az élet halálosan keserű örömét. „Jól figyeljenek arra, amit mondok" – figyelmeztet bennünket újra és újra Hrabal; és mi figyelünk hökkenten, ámuldozva – ilyen történeteket nem tud más, csak ő, az örök csibész, a legszürreálistább realista, akinek szemében megszépül minden: mint a széttárt lábú szállodai örömlány virágokkal felcicomázott szőrdombocskája, olyan szépségesen tárulkozik ki előtte minden egyes megismételhetetlen sorsú ember. S ebben a hihetetlenül tobzódó szépségben és derűben mégis benne van a kor minden rettenete is: a nácizmusé, amely a tiszta, új német embertípus helyett borzalmas idiótát szül, és a kommunizmusé, amely a könyv lapjain fergeteges bohózatként jelenik meg.<br>Hrabal 1971-ben, tizennyolc nap alatt írta ezt a regényét, amelynek minden mondatából árad az a fajta szellemi, politikai és korántsem mellékesen erotikai szabadság, amely az akkori hatalom számára természetesen tűrhetetlen volt a modern közép-európai irodalom egyik legnagyszerűbb alkotása így csak 1989-ben jelenhetett meg legálisan az író hazájában.</p></div>
+
 
 # <a name="id_445">Bohumil Hrabal: Házimurik (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Hazimurik%20%28445%29/cover.jpg" alt="cover" width="300"/>
@@ -14,9 +18,13 @@
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Hazimurik%20%28445%29/Hazimurik%20-%20Bohumil%20Hrabal.epub)
 
+### Tagek
+20. század, cseh szerző, magyar nyelvű, önéletrajz, sorozat része, filozófikus regények, európa, cseh köztársaság, az író származása szerint, szépirodalom, elbeszélés, regény, novella, tartalom szerint
+
 ### Összefoglalás
 <div>
 <p>A ​nagy közönségsikert aratott "sörgyári” könyvek mellett Hrabal írt egy másik önéletrajzi trilógiát is, amelynek köteteiben (Házimurik, Vita Nouva, Foghíjak) sajátos módon nem a szerző, hanem a feleség szólal meg első személyben, azaz: Hrabal egy "közelálló kívülálló” szemével látja és láttatja önmagát. Ez a „harmadik személyű önvallomás” újabb pszichológiai és művészi bravúr a pályán.A trilógia első kötete, a Házimurik egyfajta kettős életrajz: Hrabal és felesége hol párhuzamosan futó, hol egymásba kapcsolódó története.A negyvenes-ötvenes évek Kelet-Közép-Európájában tipikus módon mélybe lecsúszottak, perifériára sodródtak, mindent újrakezdők históriája ez, azoké, akik tizenhárom szobás családi villákból vagy legalábbis négyszobás szolgálati lakásokból indultak, és a nagy garral beharangozott új élet hajnalán silány albérleti szobákban, jószívű ismerősöknél húzták meg magukat.A tehetős polgárcsalád jogi doktorátussal rendelkező s félig-meddig önkéntes proletárrá züllött fia és a kitelepített szudétanémet nagypolgári famíliából származó leány mindent elveszített, s mégis hihetetlenül gazdag: megadatott számukra a létezés öröme, a kis dolgok nagy szeretete. És mi lehetne alkalmasabb e hrabali élet-krédónak a megfogalmazására, mint egy szerelmi történet: a két sokat próbált ember találkozik, és egymásba szeret.Amiről Hrabal ír e kisregényben, elemeiben jól ismert korábbi műveiből, s talán kissé banális is: napfény ragyog a Moldva menti fák koronájában, nyári eső mossa a málladozó vakolatú libeňi házak falát, sörisszák hahotájától hangos a kültelki kocsma, nyugdíjasok ülnek a kapu előtti kispadon, autodidakta filozófusok elmélkednek életről-halálról, forradalomról-háborúról, jogról-igazságról… vagyis maga a sokszínű élet tárul föl előttünk ahogy feltartóztathatatlanul hömpölyög, elevenen lüktet a hrabali elbeszélés árja.</p></div>
+
 
 # <a name="id_453">Bohumil Hrabal: Vita nuova (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Vita%20nuova%20%28453%29/cover.jpg" alt="cover" width="300"/>
@@ -24,9 +32,13 @@
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Vita%20nuova%20%28453%29/Vita%20nuova%20-%20Bohumil%20Hrabal.epub)
 
+### Tagek
+biography & autobiography, general, crafts & hobbies, fiction, regény, irodalom, szépirodalom, önéletrajz
+
 ### Összefoglalás
 <div>
 <p>A ​Vita nuova a Házimurik folytatása. Annak az új önéletrajzi trilógiának a második kötete, amelyben Hrabal feleségének szavaival mondja el közös életük történetét. E középső résznek látszatra alig van cselekménye: az itt szereplő – 1955-től 1962-ig tartó – időszakban a történelem legfeljebb egy-egy utalás erejéig van jelen.<br>Az egymás után sorjázó képekben feltűnnek ugyan a Hrabal korábbi műveiből már ismert különc figurák – Vladimír, Hant'a, a festő Smejkal –, de nekik is legfeljebb hangulati jelentőségük van.<br>A mű szempontjából sokkal fontosabb a belső világ ábrázolása. A Vita nuová-ban ugyanis Hrabal valóban a legintimebb dolgairól vall. Arról, hogy miként válik éppen ezekben az években igazi íróvá; hogyan küzd meg – elsősorban önmagával, a saját kishitűségével, szorongásaival – az áhított írói címért; hogyan lesz „ász”, „az írás világbajnoka”.<br>Hrabal ebben a periódusban még teljesen „a maga ura”: nincsenek cenzorai, de olvasói sem. Önmaga előtt kell hát számot adnia minden belső rezdülésről, s a mélybe szállás e dantei útját olyan ritka őszinteséggel, akkora erkölcsi erővel és annyi lélektani hitellel érzékelteti, hogy könyve valóságos ön-eposszá nő.</p></div>
+
 
 # <a name="id_442">Bohumil Hrabal: Foghíjak (2013)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Foghijak%20%28442%29/cover.jpg" alt="cover" width="300"/>
@@ -34,9 +46,13 @@
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Foghijak%20%28442%29/Foghijak%20-%20Bohumil%20Hrabal.epub)
 
+### Tagek
+20. század, cseh szerző, magyar nyelvű, önéletrajz, sorozat része, elbeszélés, naplók, európa, cseh köztársaság, az író származása szerint, szépirodalom, életrajzi regények, regény, novella, tartalom szerint, memoár
+
 ### Összefoglalás
 <div>
 <p>A ​Foghíjak, Hrabal önéletrajzi trilógiájának harmadik kötete, a beérkezés krónikája. Az író, aki addig sorra-rendre az asztalfióknak alkotta műveit, a hatvanas évek közepétől szinte egyik napról a másikra híres lesz. Egymást követik sikeresnél sikeresebb kötetei, a Szigorúan ellenőrzött vonatok című film elnyeri az Oscar-díjat, ő maga tagja lesz az írószövetségnek, s tevékenységét a megújhodó Csehszlovákia felszabadult légkörében állami díjjal jutalmazzák. Ebbe a karriertörténetbe azonban éles cezúrát von 1968. augusztus 21-e. Hrabal a felszámolás alatt álló írók listájára kerül, kéziratait visszaadják a kiadók, ráadásul aggódnia kell személyes biztonságáért is. Hrabal kegyetlenül pontos portrét rajzol önmagáról. A zseniális ötlettel felesége nevében elkészült arcmás nem kíméli jellemének legkiáltóbb torzulásait és ellentmondásait sem. Ő az, aki mindig és mindenben világbajnok akart lenni, s akit közben a legnagyobb fokú kishitűség gyötör. Aki bátorságról és szabadságról papolt, s most reszketve, felfordult gyomorral lesi, nem áll-e meg kapuja előtt egy fekete autó. Aki könyörtelen és kegyetlen tudott lenni az emberekhez, s könnyekig meghatódik egy tejet lefetyelő cirmos macskakölyök láttán. Aki epeműtétje után bebeszéli magának, hogy rákja van, és meg fog halni, de azért a tepertőről és a rozspálinkáról sem tud lemondani, sőt a nyaralójuk melletti erdő minden odvas fájában elrejt egy-egy üveget, hogy biciklitúrái során legyen mivel felvidítania magát. Öngúny és önimádat váltja szüntelenül egymást ebben a portréban, amely éppúgy csupa ellentmondás, akárcsak a háttérként felrajzolt világ, ahol csúf és szép, útszéli és fennkölt keveredik elválaszthatatlanul.</p></div>
+
 
 # <a name="id_448">Bohumil Hrabal: Sörgyári capriccio (2017)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Sorgyari%20capriccio%20%28448%29/cover.jpg" alt="cover" width="300"/>
@@ -44,9 +60,13 @@
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Sorgyari%20capriccio%20%28448%29/Sorgyari%20capriccio%20-%20Bohumil%20Hrabal.epub)
 
+### Tagek
+111 híres regény, 20. század, cseh szerző, filmadaptáció, hangoskönyv, házasság, humoros, kisregény, klasszikus, magyar nyelvű, sorozat része, zsebkönyv, regény, irodalom, szépirodalom
+
 ### Összefoglalás
 <div>
 <p>„Ez az írásom krónika; anyámról, apámról és nagybátyámról szól. Amíg a való világban voltak, olyan erősen fogták le írógépem billentyűit, hogy nem rajzolhattam meg életük költészetének grafikonját. Ma már senki nem fogja a kezemet, s én ámulattal rá-rádöbbenek, hogy nem vagyok már fiatal, s hogy a mulasztás veszélye fenyeget, mert egyedül én adhatok hírt immár arról a sörgyárról, arról a kisvárosról, ahol megállt az idő. Chagall festészetének gaviatikus stílusa ihletett, s a külső, szembeszökő eseményeket feljegyző és montírozó poétikát a vágy belső modelljével ötvöztem, és ez a vágy tette lehetővé, hogy egy fiatalasszonnyá változzam, a képzelet zseblámpájával bevilágítsak a múltba, és megjelenítsek egy életszeletet, melyből szövegbe menthető egy gyönyörű asszony, akit elnyelt a könyörtelen idő."</p></div>
+
 
 # <a name="id_440">Bohumil Hrabal: Díszgyász (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Diszgyasz%20%28440%29/cover.jpg" alt="cover" width="300"/>
@@ -54,9 +74,13 @@
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Diszgyasz%20%28440%29/Diszgyasz%20-%20Bohumil%20Hrabal.epub)
 
+### Tagek
+cseh szerző, magyar nyelvű, regény, sorozat része, elbeszélés, cseh, 20. század
+
 ### Összefoglalás
 <div>
 <p>Bohumil Hrabal Díszgyász című kötetében – éppúgy, mint életrajzi ciklusa előző darabjában, a Sörgyári capricció-ban –, anyja, apja, nagybátyja emlékét idézi. S az álmos kisvárosét, ahol ezúttal nekilódul az idő és a történelem, hogy a családi krónika hőseit belevesse egy kegyetlen háború hétköznapi megpróbáltatásaiba, és egy „tudó tudatlan” gyermek segítségével levizsgáztassa őket tisztességből, emberségből.<br>A regény világa realitásban gyökerező, ugyanakkor hallatlanul szellemes is. Hrabal humora, a jellem- és helyzetkomikum frappáns alkalmazása, a remekbeszabott alakok szerepeltetése, és az író pszichológiai érzéke miatt a mű mindenkihez szól.</p></div>
+
 
 # <a name="id_444">Bohumil Hrabal: Háromlábú ló az ügetőpályán (101)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Haromlabu%20lo%20az%20ugetopalyan%20%28444%29/cover.jpg" alt="cover" width="300"/>
@@ -70,9 +94,13 @@
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/A%20varoska%2C%20ahol%20megallt%20az%20ido%20%28439%29/A%20varoska%2C%20ahol%20megallt%20az%20ido%20-%20Bohumil%20Hrabal.epub)
 
+### Tagek
+20. század, cseh szerző, kisregény, magyar nyelvű, európa, cseh köztársaság, az író származása szerint, szépirodalom, regény, novella, elbeszélés
+
 ### Összefoglalás
 <div>
 <p>Ismert ​s mégis az újdonság erejével, varázsával ható jelenetek, motívumok, szereplők köszönnek vissza a világhírű cseh író kisregényében vagy – a szerző műfaji meghatározása szerint – szövegében, amelyet a cseh irodalom értői Hrabal hetvenes években keletkezett művei közül a legjobbak közé sorolnak. Az olvasó ismét találkozhat Anyuval, Francinnal, Pepin bácsival és az Elba-parti városka többi szeretetreméltó, utánozhatatlan emberséggel életre keltett, megrajzolt lakójával. Ismét bekalandozhatjuk a sörgyárat, végigsétálhatunk a folyóparton, betérhetünk Pepin bácsival a női kiszolgálású vendéglőkbe, kószálhatunk a városkában, ahol immár végleg megállt az idő, a régi idő, a Hrabal-hősök ideje. A vidám sörgyári történetekhez képest a szerző melankolikusabb hangot üt meg a Városkában. Míg a Sörgyári capriccio egy felszabadult burleszk, addig a Városkára a nosztalgikus melankólia, helyenként a groteszk balladai hang a jellemző: szomorú és komikus, tragikus és groteszk jelenetek láncolata teremt különleges atmoszférát e megkapó hangulatú, mesterien megkomponált kamaraműben, melyben a szerző egy letűnt világot, a régmúlt aranyidőket, mindannyiunk emlékezet megszépítette gyermekkorát varázsolja örök életűvé és örök érvényűvé.</p></div>
+
 
 # <a name="id_452">Bohumil Hrabal: Véres történetek és legendák (2005)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Veres%20tortenetek%20es%20legendak%20%28452%29/cover.jpg" alt="cover" width="300"/>
@@ -80,9 +108,13 @@
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Veres%20tortenetek%20es%20legendak%20%28452%29/Veres%20tortenetek%20es%20legendak%20-%20Bohumil%20Hrabal.epub)
 
+### Tagek
+cseh szerző, magyar nyelvű, szürrealizmus, elbeszélés, novella, cseh, 20. század
+
 ### Összefoglalás
 <div>
 <p>A kötet az 1948 és 1986 között írt időszak elbeszéléseit gyűjti egybe, amelyek sokáig csak íróasztalfiókban hevertek. Magukkal ragadó kis történetek ezek, szórakoztatóak, és elgondolkodtatóak is egyben, néhol szürreális, néhol meg fűtött erotikával teli. Szóval nagyon is Hrabali. Ajánlom mindenkinek.</p></div>
+
 
 # <a name="id_969">Bohumil Hrabal: Egy osztályismétlő emlékezései (2006)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Egy%20osztalyismetlo%20emlekezesei%20%28969%29/cover.jpg" alt="cover" width="300"/>
@@ -90,9 +122,13 @@
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Egy%20osztalyismetlo%20emlekezesei%20%28969%29/Egy%20osztalyismetlo%20emlekezesei%20-%20Bohumil%20Hrabal.epub)
 
+### Tagek
+20. század, cseh szerző, életrajz, magyar nyelvű, regény
+
 ### Összefoglalás
 <div>
 <p>"Bezárom ​a kört, felgöngyölöm az emlékek celofánját, és ha valaki arra gondolna, hogy nem illik így írni arról, ami elmúlt, jusson eszébe, hogy e sorok írója egy volt enfant terrible, az osztály réme és bajkeverő, hogy elsőben a tanító úr kézen fogva vezette be, mint a csikót kantárszáron. Hogy megbukott és háromszor nem volt kielégítő a magaviselete. Ó, ifjúságunk szépsége és ereje!” Erről a "rettenetes gyerekről” – és a későbbi rettenetes felnőttről – szólnak a nagy cseh író megrendítően őszinte, fájdalmasan szép elbeszélései. Az iskoláskor, a diákévek, a sörgyári időszak és ennek mintegy ellenpontjaként a magányos, keserves, utolsó évek, a "macskás” időszak – ez az életrajzi szál, amelyre az írások felfűzhetők. E két nagy korszak párhuzamba és szembe állítása, összekapcsolódása és ellentmondása, az ebből adódó feszültség adja a szövegek igazi erejét. A bölcső és a koporsó között feszülő húr – hogy Hrabal egyik írásának a címét idézzük –, ez lehetne a kulcsszava a kötetnek, amelyben a permanens osztályismétlő, aki meg van győződve róla, hogy az életben éppoly keservesen bukdácsol, mint annak idején az iskolában, a legegyszerűbb és mégis legnehezebben megválaszolható kérdést teszi fel magának: "Ki vagyok? Ki voltam? És ki leszek – ha még leszek egyáltalán?” Talán ez a kötet megadja a választ.</p></div>
+
 
 # <a name="id_447">Bohumil Hrabal: Rózsalovag (2006)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Rozsalovag%20%28447%29/cover.jpg" alt="cover" width="300"/>
@@ -100,9 +136,13 @@
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Rozsalovag%20%28447%29/Rozsalovag%20-%20Bohumil%20Hrabal.epub)
 
+### Tagek
+20. század, cseh szerző, magyar nyelvű, napló, elbeszélés, naplók, európa, cseh köztársaság, az író származása szerint, szépirodalom, életrajzi regények, regény, novella, tartalom szerint, memoár, önéletrajz
+
 ### Összefoglalás
 <div>
 <p>A napló Hrabal számára is lepel, amely alatt minden elfér, amely bármilyen műfajt és stílust elvisel: az ember életgyónást végezhet el általa, mintha egy pappal beszélgetne, írhat bele verset, mintha szerelmének szavalna, kivágott aktuális újságcikkeket és régi fényképeket ragaszthat bele, anekdotákat, történeteket szerkeszthet bele, megörökíthet benne semmitmondó mindennapi eseményeket és fantasztikus utazási élményeket. Sőt: nyíltan pletykálhat, szitkozódhat és akár átkozódhat is benne.</p></div>
+
 
 # <a name="id_449">Bohumil Hrabal: Szigorúan ellenőrzött vonatok (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Szigoruan%20ellenorzott%20vonatok%20%28449%29/cover.jpg" alt="cover" width="300"/>
@@ -110,9 +150,13 @@
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Szigoruan%20ellenorzott%20vonatok%20%28449%29/Szigoruan%20ellenorzott%20vonatok%20-%20Bohumil%20Hrabal.epub)
 
+### Tagek
+1940-es évek, cseh szerző, csehország, erotikus, férfi főszereplő, kisregény, klasszikus, magyar nyelvű, öngyilkosság, énregény, hangoskönyv, háború, világháború, 20. század, fejlődésregény, groteszk, cseh, vasút, kortárs, filmadaptáció, halál, fekete humor, szex, 2. világháború, regény, 1001 könyv listán szerepel
+
 ### Összefoglalás
 <div>
 <p>…Hrabal ​a sínekhez vezette a bizottságot. Miután – hogy be ne piszkolja egyenruháját – a földre terített egy zsebkendőt, letérdelt a vágány mellé, és fülét a sínre szorítva így szólt: „A 804-es számú vonat most haladt Kamenné Zbožin.” „Ezt hol tanulta?” – álmélkodott a vizsgabiztos… Így kezdődött Bohumil Hrabal forgalmista-karrierje, amelynek élményeit Jiři Menzel Oscar-díjas filmjének köszönhetően egy csapásra világhírűvé lett kisregényében, a Szigorúan ellenőrzött vonatokban dolgozta fel.<br>A mű a második világháború utolsó napjaiban, egy cseh kisváros vasútállomásán játszódik. A történet hőse Miloš, az ifjú forgalmista, akit sikertelen öngyilkossága után (az ereit vágta fel, merthogy nem sikerült férfivá válnia szerelmével a kis kalauzlánnyal) kiengednek a kórházból, és újra szolgálatra jelentkezik az állomáson, ahol különös társaság verődött össze. Először is itt van Hubička forgalmista úr, a nagy szoknyavadász és bohém életművész, aki egy unalmas szolgálati éjjelen az összes fellelhető hivatalos bélyegzőt rányomja a távírász kisasszony pucér ülepére, amiből is éktelen skandalum kerekedik. A botrány legfőbb kárvallottja természetesen nem Hubička forgalmista, hanem az állomásfőnök úr, a megszállott galambtenyésztő, aki csak ezekért az apró szárnyas jószágokért él-hal. Galamblelkűnek nem mondható neje, az esténként az irodában horgolgató főnökné asszony viszont nemes természetességgel nyisszantja el nyulak-baromfiak nyakát. Ebbe a kisszerű, ám a háborús körülmények között mégis idillinek tetsző világba robog bele egy szigorúan ellenőrzött vonat, egy lőszerszállító katonai szerelvény, amelyet Hubička forgalmista úr szíve szerint felrobbantana. A hősi feladatra az immár férfivá érett Miloš vállalkozik…<br>Hrabal játékosan, humorral-iróniával fűszerezve írta meg az alaptónusában tragikus és végkicsengésében felemelő történetet, hogy ezáltal még szembeszökőbb legyen a náci megszállás, a második világháború komor valósága. „Mennyiben lehet egymás mellé állítani két motívumot…” – töpreng Hrabal saját kisregényén. „A nevetségesség, az obszcén a tragikus esemény tőszomszédságában, mely utóbbi fölött ott magasodik a fő motívum: az ellenséggel vívott harc.”<br>Hrabalnak ezúttal is sikerült bravúrosan megoldania a feladatot: remekművet írt.</p></div>
+
 
 # <a name="id_451">Bohumil Hrabal: Tükrök árulása (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Tukrok%20arulasa%20%28451%29/cover.jpg" alt="cover" width="300"/>
@@ -120,9 +164,13 @@
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Tukrok%20arulasa%20%28451%29/Tukrok%20arulasa%20-%20Bohumil%20Hrabal.epub)
 
+### Tagek
+20. század, abszurd, cseh szerző, groteszk, magyar nyelvű, realizmus, elbeszélés, irodalom, novella, szépirodalom
+
 ### Összefoglalás
 <div>
 <p>„Totális ​realizmusnak” nevezte Hrabal azt az írásmódot, amelyre 1952-ben Jarmilka című elbeszélésével talált rá, megszabadulva a szürrealizmus „képtelen metaforáitól”, „szójegeceitől”, kladnói vasmunkásként „fogta fel”, hogy úgy kell írnia, „mintha riportban számolna be az emberekről, a beszédükről, a munkájukról s egyáltalán az életükről”. Ez a kulcsnovella, a Jarmilka csak megcsonkított, öncenzúrázott formában jelenhetett meg korábban, s így került be a nálunk 1977-ben kiadott Tükrök árulása című kötetbe is. Most végre a teherbe ejtett csúnyácska munkáslány történetének teljes szövegét olvashatjuk, s a náci koncentrációs táborokról szóló hátborzongató oldalakat élesen ellenpontozza a „szocialista építőmunka” gunyoros ábrázolása. A 77-es kötetet a Jarmilka mellett az 1989-ben megjelent A Perkeo márkájú atomgép című visszaemlékezés egészíti ki, amely az író első igazán hrabali korszakának születéséről tudósít. Az 1951 és 1956 között írt elbeszélésekben rendre megjelennek Hrabal addigi hányatott életének színterei (volt vasúti forgalmista, ügynök, vasmunkás, papírhulladék-csomagoló, díszletmunkás), s különös fénytörésben villan fel számtalan komikus és tragikus emberi sors; a Poldi-kohó munkásai, akik „remény nélkül emlegetik a besározott reményt”, az érzelmes fegyőr, aki tudja, hogy az embereknek „legalább egyszer naponta meg kell mutatni az élet naposabb oldalát is”, a papírhulladék-gyűjtő, aki teli van emlékekkel, melyek visszaidézése „jobban lesújt, mint annak idején maga a valóság”, a cementgyári festőzseni, aki mindent elöntő szürkeségből impresszionista színeket varázsol, a vak lány a vonaton, aki oly gyönyörűnek látja a világot, „mint egy csöbör nagyságú szív”, vagy akár csak „néhány akasztott ember, akikkel átzörgött az úton egy villamos”.</p></div>
+
 
 # <a name="id_443">Bohumil Hrabal: Gyöngéd barbárok (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Gyonged%20barbarok%20%28443%29/cover.jpg" alt="cover" width="300"/>
@@ -130,9 +178,13 @@
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Gyonged%20barbarok%20%28443%29/Gyonged%20barbarok%20-%20Bohumil%20Hrabal.epub)
 
+### Tagek
+cseh szerző, felnőtt tartalom, magyar nyelvű, zsebkönyv, abszurd, cseh, regény, 20. század
+
 ### Összefoglalás
 <div>
 <p>A ​Gyöngéd barbárok nem igazi dráma. Sok minden van benne, ami ellene dolgozik. A legfontosabb, hogy Hrabal apró képekben látja a világot. Nem a drámai összeütközésekre kíváncsi, hanem azokra az emlékekre, amelyek valaha a hősök egyéniségét kialakították.<br>A három egykori jóbarát – Vladimír, Egon és a doktor – felidézi huszonöt évvel ezelőtti önmagát. Az önmegvalósítás mámoros hitét, a világ birtokba vételének sodró lendületét. A Gyöngéd barbárok forrását a líra táján kell keresnünk: például a regény festő hőse, Vladimír olykor vérrel fröcsköli be vásznát, (egyébként Vladimír Boudník (1924-1968) alapozta meg a cseh mail-artot, mikor a negyvenes évek végén az általa alapított explosionalismus nevű művészeti irányzat manifesztumát, különbözô technikákkal készült műveit postai úton terjesztette, majd 1960-ban elkészítette elsô igazi képeslapját). Vladimir, a vasmunkás és „explozionista” festő, a „gyöngéd barbár”, nem mértékletes, „az élet apró örömeivel” eltelt kispolgár, hanem az egész világra szomjazó fausti alkat. Csak épp a világgal szerelembe vegyülni képtelen Fausttal ellentétben, neki nem kell eladnia lelkét az ördögnek. Egyedül is boldogul. Született hedonista, kisujjában van az életélvezés tudománya.</p></div>
+
 
 # <a name="id_450">Bohumil Hrabal: Táncórák idősebbeknek és haladóknak (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Tancorak%20idosebbeknek%20es%20haladoknak%20%28450%29/cover.jpg" alt="cover" width="300"/>
@@ -140,7 +192,11 @@
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bohumil%20Hrabal/Tancorak%20idosebbeknek%20es%20haladoknak%20%28450%29/Tancorak%20idosebbeknek%20es%20halado%20-%20Bohumil%20Hrabal.epub)
 
+### Tagek
+cseh szerző, énregény, hangoskönyv, magyar nyelvű, 20. század, kisregény, cseh, szépirodalom, válogatás, regény, novella, elbeszélés
+
 ### Összefoglalás
 <div>
 <p>Egy ​rendkívül hányatott életű író (jegyzőgyakornok, vasúti pályamunkás, raktáros, távírász, forgalmista, tisztviselő, ügynök, kladnói vasmunkás, papírhulladék-csomagoló és díszletmunkás) roppant színes világából ad ízelítőt a kötet három elbeszélése. Szerzőjük a mai cseh próza legolvasottabb és legtöbb vitát kiváltó írója. Pedig első könyve csak 1962-ben, negyvenkilenc éves korában jelent meg. Elbeszéléseinek legfőbb jellegzetessége az, ahogyan a reális és szürreális elemek, a fekete és fehér, az útszéli és emelkedett, a komikus és tragikus szüntelenül keveredik, ölelkezik, egymásba fonódik bennük. A vén suszter egyetlen végeérhetetlen tücsök-bogár mondata (Táncórák idősebbeknek és haladóknak) így lesz maga az élet színes, zavaros, parttalanul s mindent összemosón hömpölygő áradata. Az unalmában és dévajságában a távírdászkisasszony csupasz ülepét az állomás összes pecsétjével ellátó, majd német szerelvényeket robbantó forgalmista esete (Szigorúan ellenőrzött vonatok) éppen az erős ellentétek együttes fényében hat oly véres-valóságosan. És a szélhámoskodó ügynökök kalandjai (Bambini di Praga 1947), a kalandjaik során felbukkanó mulatságos és megható figurák, a groteszk helyzetek, az egymással feleselő végletek Hrabal ellentéteket szintézisbe fogó tükrében a valóság „égi mását” mutatva bizonytják, hogy a bonyolult ellentmondásoktól terhes, egyszerre szép és csúnya élet valójában egyértelműen szép.</p></div>
+
 

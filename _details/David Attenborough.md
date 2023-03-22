@@ -4,7 +4,11 @@
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/David%20Attenborough/Egy%20ifju%20termeszettudos%20tortenetei%20%281449%29/Egy%20ifju%20termeszettudos%20tortene%20-%20David%20Attenborough.epub)
 
+### Tagek
+állat, állatkert, állattan, állatvilág, angol szerző, argentína, biológia, dél-amerika, délkelet-ázsia, guyana, indonézia, kaland, környezetvédelem, önéletrajz, paraguay, sorozat része, angol, élővilág, illusztrált, ismeretterjesztő, magyar nyelvű, természetvédelem
+
 ### Összefoglalás
 <div>
 <p>1954-ben ​az ifjú David Attenborough-nak káprázatos alkalmat kínált az élet: világ körüli útra indulhatott, hogy ritka és különleges állatokat gyűjtsön a Londoni Állatkert számára, és minderről filmeket készítsen – a BBC új, Állatkerti gyűjtőutak című sorozatát.<br>Ez a könyv három ilyen utazás története. Társaival a helybeli őslakosokkal együtt kutatott az akkori Brit Guyanában óriáshangyászok, Indonéziában komodói sárkányok és Paraguayban tatuk után. Volt dolguk pirájákkal, dühös kúszósülökkel és szökésre mindig kész pekarikkal. Megküzdöttek a komisz terepviszonyokkal, a kiszámíthatatlan folyókkal, hogy megörökíthessék e távoli vidékek hihetetlen szépségeit és mesésen változatos élővilágát. Módszereik ma már idejétmúltnak tűnnek, de az állatok, növények, helybeli emberek és a környezet iránti csodálatuk és tiszteletük még mindig példamutató.<br>A szerzőre oly jellemző szellemességgel és bájjal megírt történetek nemcsak az emlékezetes kalandokról szólnak, hanem arról az emberről is, aki rajongó szeretetet ébresztett bennünk a természet iránt, és lelkesedése azóta is töretlen.<br>Sir David Attenborough (1926) angol természettudós és dokumentumfilmes. Immár hét évtizede van a pályán. Természettudományokat tanult Cambridge-ben, majd rövid kiadói kitérő után a BBC-nél helyezkedett el. Zoo Quest című, legendássá vált televíziós sorozatában átfogó szemlélettel és sokféle értelmezéssel mutatta be nézőinek a Föld élővilágát. Legutóbbi alkotása, a Planet Earth II minden idők legnézettebb természettudományos dokumentumfilm-sorozata.<br>Az Egy ifjú természettudós történetei első kiadása magyarul Titokzatos állatok nyomában címmel 1993-ban jelent meg. A némileg átdolgozott jelenlegi kiadás teljesen új fordítás, a szerző új előszavával és frissített képanyaggal.</p></div>
+
 
