@@ -51,7 +51,7 @@ Battle főfelügyelő:
 
 Hercule:
 
-- 1 (2020) - Az álmok háza [részletek](_details/Agatha%20Christie.md#id_241) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20almok%20haza%20%28241%29/Az%20almok%20haza%20-%20Agatha%20Christie.epub)
+- 1 (2011) - A pollensai probléma [részletek](_details/Agatha%20Christie.md#id_235) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20pollensai%20problema%20%28235%29/A%20pollensai%20problema%20-%20Agatha%20Christie.epub)
 
 Hercule Poirot:
 
@@ -98,6 +98,7 @@ Egyéb könyvek:
 - (2018) - A ferde ház [details](_details/Agatha%20Christie.md#id_64) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20ferde%20haz%20%2864%29/A%20ferde%20haz%20-%20Agatha%20Christie.epub)
 - (2018) - A vád tanúja [details](_details/Agatha%20Christie.md#id_240) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20vad%20tanuja%20%28240%29/A%20vad%20tanuja%20-%20Agatha%20Christie.epub)
 - (2018) - És eljő a halál… [details](_details/Agatha%20Christie.md#id_312) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Es%20eljo%20a%20halal__%20%28312%29/Es%20eljo%20a%20halal__%20-%20Agatha%20Christie.epub)
+- (2020) - Az álmok háza [details](_details/Agatha%20Christie.md#id_241) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20almok%20haza%20%28241%29/Az%20almok%20haza%20-%20Agatha%20Christie.epub)
 
 ### Akunyin, Borisz
 

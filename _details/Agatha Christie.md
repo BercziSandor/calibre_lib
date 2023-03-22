@@ -40,18 +40,18 @@
 <p>Mr. ​Treves, az idős jogász azt mondja: „Szeretem a jó detektívregényeket. De, tudják, egyik sem a megfelelő momentummal kezdődik! Folyton a gyilkossággal kezdik. Pedig a gyilkosság már a vége. A történet már jóval előbb elkezdődik… olykor évekkel előbb… Mindazon okokkal és eseményekkel, melyek egyszer csak bizonyos embereket egy bizonyos időben s egy bizonyos helyen összehoznak.” Hát lássuk, ki mindenkit hoznak össze az események! Egy öngyilkosjelöltet, akit megmentettek. Egy házaspárt, a sportoló férjet és szépséges második feleségét. A szürke első feleséget. Egy malájföldi ültetvényest, aki gyerekkorától szerelmes az első feleségbe. A második feleség régi imádóját. Egy idős hölgyet és jobbkezét, a talpraesett szegény rokont. És Mr. Trevest, aki elmesél egy történetet, majd – véletlenül, nem véletlenül – meghal. Valamint egy detektívfelügyelőt, akinek a lányát – alaptalanul – lopással vádolták az előkelő magániskolában, ahová járt. Ha mindezen szereplőkhöz hozzáadunk némi pénzsóvárságot, sok féltékenységet és gyűlöletet, megkapjuk a tökéletes Agatha Christie-féle krimireceptet.</p></div>
 
 
-# <a name="id_241">Agatha Christie: Az álmok háza (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20almok%20haza%20%28241%29/cover.jpg" alt="cover" width="300"/>
+# <a name="id_235">Agatha Christie: A pollensai probléma (2011)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20pollensai%20problema%20%28235%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20almok%20haza%20%28241%29/Az%20almok%20haza%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20pollensai%20problema%20%28235%29/A%20pollensai%20problema%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, álom, angol szerző, brit szerző, detektívtörténet, elbeszélés, kaland, magándetektív, magyar nyelvű, novella, nyomozás, regény, sorozat része, krimi
+20. század, angol szerző, brit szerző, magándetektív, magyar nyelvű, novella, nyomozás, regény, sorozat része, krimi
 
 ### Összefoglalás
 <div>
-<p>Minden nagy alkotónak van egy játszótere, ahol nem kell az elvárások szerint viselkednie. Agatha Christie is írhat olyan történeteket, amelyekből hiányoznak azok a tipikus fordulatok, melyeknek köszönhetően világhíres lett.<br>Mondjuk a novellában nem követnek el igazi gyilkosságot, és Poirot figurája egy gyerekes csíny csetlő-botló áldozataként tűnik fel. Ugyanakkor számtalan módon köszönnek vissza az írásokból azok a megoldások, melyek az írónő klasszikus alkotásait híressé tették.<br>Agatha Christie bármely történet megformálása során képes arra, hogy folyamatosan, ugyanakkor remek kompozíciós érzékkel adagolja a váratlan fordulatokat, és mikor már kényelmesen hátradőlve azt hinnénk, hogy sejtjük a végkifejletet, ő megint rácáfol elvárásainkra. Ezért szeretjük.</p></div>
+<p>Ebben a kötetben szinte minden rajongó talál kedvére való novellát. Miss Marple kivételével minden híres Christie-nyomozó szerepel benne: Parker Pyne, az emberi lélek nagy ismerője, a misztikus páros, akik közül Mr. Quin csak ötleteket ad az örök szemlélőnek, Mr. Satterthwaite-nek, Hercule Poirot, a páratlan és örök tojásfejű belga. Van két nem-krimi novella is a gyűjteményben, hogy a lélektani dráma iránti igényünket is kielégítse. Elhagyja-e férjét a szerelméért a gyönyörű Theodora Darrell? Tényleg akkora baj-e, ha egy konzervatív angol ifjú egy bohém leányba lesz szerelmes külföldön? Miért érkeznek rohanva a családtagok a vacsorára, pedig még csak egyszer kondult meg a gong? El lehet-e lopni egy gyémántot terített asztal mellett, hét ember szeme láttára? Agyonütötte-e öreg, kellemetlen férjét a szépséges, fiatal feleség? Férjhez megy-e kellemetlen kérőjéhez az éhező, fiatal özvegy? Mi a titka a sokszínű, modern teáskészletnek? Ki hívja fel éjjel Poirot-t, mert életveszélyben van?</p></div>
 
 
 # <a name="id_63">Agatha Christie: Az Ackroyd-gyilkosság (2018)</a>
@@ -481,5 +481,19 @@ afrika, angol szerző, brit szerző, család, magyar nyelvű, nyomozás, törté
 ### Összefoglalás
 <div>
 <p>4000 ​évvel ezelőtt Egyiptomban…<br>Imhotep, a ká-pap, kiterjedt család feje. Régóta özvegy, és most memphiszi útján szert tett egy fiatal és gyönyörű ágyasra. Úgy gondolja, a családnak vele kellene örvendeznie – de Nofret rövid idő alatt meggyűlölteti magát, és összeugrasztja a családtagokat. A két felnőtt fiú házassága megrendül. A szegény rokon, aki Imhotep jóakaratának hála él velük, feltűnően szaglászni kezd mindenki után, és Nofret besúgójává válik. A Memphiszből érkezett írnok rokon látszólag a család oldalán áll, de ki tudja, valójában mi vezérli? Amikor Nofret lezuhan a sziklaösvényrõl, titokban mindenki fellélegzik. De aztán felmerül a kellemetlen kérdés: valóban baleset történt? Ha igen, miért változott meg egyes családtagok viselkedése? Reniszenb, a fiatal özvegy, Imhotep leánya, aki most tért vissza férje halála után, az intézővel, Horival együtt nyomozni kezd. És hirtelen elfelejthetjük, hogy milyen régen játszódik a krimi. Az óegyiptomi szereplők éppen úgy viselkednek, mint a mai emberek – hiszen belsőleg nem változott sokat az emberiség azóta sem.<br>Mire fény derül a titkokra, heten halnak meg. De Agatha Christie nem hagyja cserben hűséges olvasóit: az utolsó lapokon mindent megtudunk!</p></div>
+
+
+# <a name="id_241">Agatha Christie: Az álmok háza (2020)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20almok%20haza%20%28241%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20almok%20haza%20%28241%29/Az%20almok%20haza%20-%20Agatha%20Christie.epub)
+
+### Tagek
+20. század, álom, angol szerző, brit szerző, detektívtörténet, elbeszélés, kaland, magándetektív, magyar nyelvű, novella, nyomozás, regény, sorozat része, krimi
+
+### Összefoglalás
+<div>
+<p>Minden nagy alkotónak van egy játszótere, ahol nem kell az elvárások szerint viselkednie. Agatha Christie is írhat olyan történeteket, amelyekből hiányoznak azok a tipikus fordulatok, melyeknek köszönhetően világhíres lett.<br>Mondjuk a novellában nem követnek el igazi gyilkosságot, és Poirot figurája egy gyerekes csíny csetlő-botló áldozataként tűnik fel. Ugyanakkor számtalan módon köszönnek vissza az írásokból azok a megoldások, melyek az írónő klasszikus alkotásait híressé tették.<br>Agatha Christie bármely történet megformálása során képes arra, hogy folyamatosan, ugyanakkor remek kompozíciós érzékkel adagolja a váratlan fordulatokat, és mikor már kényelmesen hátradőlve azt hinnénk, hogy sejtjük a végkifejletet, ő megint rácáfol elvárásainkra. Ezért szeretjük.</p></div>
 
 
