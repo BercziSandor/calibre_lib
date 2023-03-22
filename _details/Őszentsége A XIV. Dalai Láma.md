@@ -1,0 +1,6 @@
+#### <a name="id_610">Őszentsége A XIV. Dalai Láma: Száműzetésben – szabadon (2005)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Oszentsege%20A%20XIV.%20Dalai%20Lama/Szamuzetesben%20-%20szabadon%20%28610%29/cover.jpg" alt="cover" width="300"/>
+
+<div>
+<p>Ez a szórakoztató könyv a világ egyik legismertebb emberének önéletrajza. Tibet vallási vezetője szellemes, művelt ember, aki „istenné válása” ellenére megmaradt a tibeti parasztember fiának, akinek született. Talán éppen ez a titka annak, hogy mára az egyik legnépszerűbb ember a világon. Gondolatainak, politikai szereplésének, de még vallási tanításainak is egyszerűsége és közvetlensége ad hitelt. Ez a könyv életének részletes és pontos elbeszélése. A filmekből (Hét év Tibetben, Kundun) ismert történeteken kívül arról is olvashatunk, mit gondol a dalai láma a nyugati civilizációról, szexualitásról, gyógyászatról, természetről stb. Külön fejezet szól a buddhista mágiáról és misztikáról.</p></div>
+

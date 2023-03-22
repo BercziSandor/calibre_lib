@@ -1,0 +1,5 @@
+#### <a name="id_283">Mario Puzo: A Keresztapa (2017)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Mario%20Puzo/A%20Keresztapa%20%28283%29/cover.jpg" alt="cover" width="300"/>
+
+<p class="description">A Maffia napi aktualitásként él az emberek tudatában, hiszen lépten-nyomon hallat magáról. Az olvasó bizonyára érdeklődéssel és izgalommal olvassa majd regényalakban is a filmvászonról jól ismert, Francis Ford Coppola és Marlon Brando jóvoltából halhatatlanná és világhírűvé vált, Amerikában letelepedett Keresztapa, Don Corleone fordulatos, elképesztő epizódokban gazdag történetét. Módunkban áll végigkísérni a Szicíliából Amerikába vándorolt Corleone família idősebb és ifjabb nemzedékeinek, barátainak, ellenségeinek sorsát, életét – és természetesen halálát, hiszen a szereplők legfontosabb jellemvonása az, hogy tetteiket az Amerikában is virágzó Maffia parancsai határozzák meg, amelyek között a legfontosabb a szinte közhelynek számító, ám a szervezet tagjai által mindig halálosan komolyan vett vendetta, vagyis a vérbosszú.</p>
+

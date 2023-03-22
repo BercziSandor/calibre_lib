@@ -1,0 +1,6 @@
+#### <a name="id_1000">John le Carré: Egy tökéletes kém (2014)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/John%20le%20Carre/Egy%20tokeletes%20kem%20%281000%29/cover.jpg" alt="cover" width="300"/>
+
+<div>
+<p>Magnus ​Pym, a középszintű diplomata és a brit hírszerzés embere eltűnt bécsi lakásából. Többen azt sejtik, hogy átállt a szovjetek oldalára, így hamarosan kíméletlen hajtóvadászat indul nemcsak a feltételezett áruló, hanem a köddé vált férj, az odaadó apa és a titkos ügynök ellen. <br>Hamarosan kiderül, hogy Pym élete csupa titkokból áll, amelyekről még a hozzá legközelebb állók is csak részleteket véltek sejteni: felesége, Mary, munkatársa, Jack Brotherhood és tartótisztje, Pavel őrnagy.<br>Miközben három földrész titkosszolgálatai keresik őt, Pym egy tengerparti szállodában veti papírra élete történetét, amelyet két alak dominált. Egyfelől apja, a zseniális és elkötelezett svindler, a másik pedig egy rejtélyes figura, akivel Svájcban hozta össze a sors.<br>A John le Carré mesterművének tartott regényt, életművének talán legfontosabb darabját méltán tartják nemcsak a kémregények legkiválóbbjának, hanem a kortárs angol próza egyik meghatározó darabjának is.<br>„A második világháború óta született legjobb angol regény.”<br>Philip Roth</p></div>
+

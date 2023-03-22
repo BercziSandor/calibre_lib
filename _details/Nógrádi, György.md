@@ -1,0 +1,6 @@
+#### <a name="id_991">Nógrádi, György: 40 év alatt a Föld körül (2015)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Nogradi%2C%20Gyorgy/40%20ev%20alatt%20a%20Fold%20korul%20%28991%29/cover.jpg" alt="cover" width="300"/>
+
+<div>
+<p>Az elmúlt negyven évben többször bejártam a világot. Hatszor voltam Kínában, Amerikában, Európában Finnország és Albánia kivételével valamennyi államban jó néhányszor megfordultam. Húszéves koromtól idegenvezető voltam, főleg Jugoszláviában. Átutaztam Károlyvároson (Karlovac), amikor lőtték, és nyaraltam olyan luxusszállodában, melyben a háború miatt mindössze három család pihent. Megszámlálhatatlan előadást tartottam itthon és külföldön. Barátaim lettek a kilencvenes évek ismert európai vezetői, katonái, politikusai. Az érdekes találkozásokról, az úti élményekről, életem fontosabb döntéseiről, eseményeiről szól ez a könyv, és azokról az emberekről, akikkel valahol, valamikor együtt dolgoztam vagy összetalálkoztam. Amikor nekikezdtem emlékeim leírásának, el kellett döntenem: biztonságpolitika-elméletet vagy sztorikat szeretnék-e írni? Az utóbbiak mellett döntöttem. Remélem, jó döntés volt.</p></div>
+
