@@ -49,12 +49,9 @@ Battle főfelügyelő:
 
 - 5 (2008) - Éjféltájt [részletek](_details/Agatha%20Christie.md#id_66) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Ejfeltajt%20%2866%29/Ejfeltajt%20-%20Agatha%20Christie.epub)
 
-Hercule:
-
-- 1 (2011) - A pollensai probléma [részletek](_details/Agatha%20Christie.md#id_235) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20pollensai%20problema%20%28235%29/A%20pollensai%20problema%20-%20Agatha%20Christie.epub)
-
 Hercule Poirot:
 
+- 1 (2011) - A pollensai probléma [részletek](_details/Agatha%20Christie.md#id_235) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20pollensai%20problema%20%28235%29/A%20pollensai%20problema%20-%20Agatha%20Christie.epub)
 - 4 (2018) - Az Ackroyd-gyilkosság [részletek](_details/Agatha%20Christie.md#id_63) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20Ackroyd-gyilkossag%20%2863%29/Az%20Ackroyd-gyilkossag%20-%20Agatha%20Christie.epub)
 - 5 (1993) - A titokzatos Négyes [részletek](_details/Agatha%20Christie.md#id_238) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20Negyes%20%28238%29/A%20titokzatos%20Negyes%20-%20Agatha%20Christie.epub)
 - 8 (2011) - Ház a sziklán [részletek](_details/Agatha%20Christie.md#id_249) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Haz%20a%20sziklan%20%28249%29/Haz%20a%20sziklan%20-%20Agatha%20Christie.epub)

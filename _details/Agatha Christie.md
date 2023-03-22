@@ -40,7 +40,7 @@
 <p>Mr. ​Treves, az idős jogász azt mondja: „Szeretem a jó detektívregényeket. De, tudják, egyik sem a megfelelő momentummal kezdődik! Folyton a gyilkossággal kezdik. Pedig a gyilkosság már a vége. A történet már jóval előbb elkezdődik… olykor évekkel előbb… Mindazon okokkal és eseményekkel, melyek egyszer csak bizonyos embereket egy bizonyos időben s egy bizonyos helyen összehoznak.” Hát lássuk, ki mindenkit hoznak össze az események! Egy öngyilkosjelöltet, akit megmentettek. Egy házaspárt, a sportoló férjet és szépséges második feleségét. A szürke első feleséget. Egy malájföldi ültetvényest, aki gyerekkorától szerelmes az első feleségbe. A második feleség régi imádóját. Egy idős hölgyet és jobbkezét, a talpraesett szegény rokont. És Mr. Trevest, aki elmesél egy történetet, majd – véletlenül, nem véletlenül – meghal. Valamint egy detektívfelügyelőt, akinek a lányát – alaptalanul – lopással vádolták az előkelő magániskolában, ahová járt. Ha mindezen szereplőkhöz hozzáadunk némi pénzsóvárságot, sok féltékenységet és gyűlöletet, megkapjuk a tökéletes Agatha Christie-féle krimireceptet.</p></div>
 
 
-# <a name="id_235">Agatha Christie: A pollensai probléma (Hercule 1) (2011)</a>
+# <a name="id_235">Agatha Christie: A pollensai probléma (Hercule Poirot 1) (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20pollensai%20problema%20%28235%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
