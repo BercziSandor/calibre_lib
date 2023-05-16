@@ -5,16 +5,15 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">e2de78e8-52be-49f7-895b-6ab8caa33f33</dc:identifier>
         <dc:title>József és testvérei</dc:title>
         <dc:creator opf:file-as="Mann, Thomas" opf:role="aut">Thomas Mann</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-11-14T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Ezt ​a „piramis méretű munkát, amely a Líbiai-sivatag szélén álló óriástestvéreitől csupán abban különbözik, hogy nem estek áldozatául ostorral hajszolt, ziháló rabszolgák hekatombái”, ezt „a hetvenezer nyugalmasan hömpölygő sor”-t, „amely az emberélet ősi történéseit hordozza, szerelmet és gyűlöletet, áldást és átkot, testvérviszályt és apai fájdalmat, gőgöt és vezeklést, bukást és felemelkedést hirdetve”, „egyetlenegy ember türelme hozta létre évek hosszú során át”, éspedig azzal a szándékkal, hogy a bibliai József-történetet végre olyan részletesen elbeszélje, ahogy mindig is kíváncsi volt rá mindenki. Az elbeszélő, aki imigyen az egész emberiséghez szól: Thomas Mann, pályája delelőjén, de egyben leghányatottabb korszakában: a fasizmus térhódítása idején. A József és testvérei lenyűgözően nagyszabású életrekeltése és újraköltése egy ősrégi mítosznak, egy XX. századi „írástudó” szemszögéből nézve. A mitikus távlatban kibontakozó történet mint kozmikus tüneményt állítja elénk az embert, és olyan korban vizsgálja felül e lény eredetét, helyzetét és jövőjét, amely az emberről való tudást gyökeresen revideálta, sőt puszta fennmaradását sodorta veszélybe. A nagyszabású, világra szóló szerzői szándék azonban nem veendő olyan komolyan, amilyen mezben jelentkezik. Az elbeszélő inkább csak mímeli a mindentudó, csalhatatlan orákulumot, valójában egyike ő is a közönséges kíváncsi embereknek, aki szeret képzelődni. Története tudós kinyilatkoztatásba bújtatott képzelt mese, a régi mese újabb, korunk igényeihez szabott változata.&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Gabo</dc:publisher>
+        <dc:publisher>GABO</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9789636899844</dc:identifier>
         <dc:identifier opf:scheme="MOLY_HU">thomas-mann-jozsef-es-testverei</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>Novels</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Thomas Mann&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2021-11-15T10:37:14+00:00"/>
         <meta name="calibre:title_sort" content="József és testvérei"/>

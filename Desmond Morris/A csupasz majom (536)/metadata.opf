@@ -5,11 +5,11 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">4a522bd7-f1f0-4344-87ec-bfb84f0a02dc</dc:identifier>
         <dc:title>A csupasz majom</dc:title>
         <dc:creator opf:file-as="Morris, Desmond" opf:role="aut">Desmond Morris</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1989-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Megnyugtató, hogy a briteknek is megvan a maguk Csányi Vilmosa, aki érdekes, ám szűkebb tudományterületén, a zoológián és etológián messze tovább lát. Desmond Morris kultikussá vált kultúrantropológiai műve majd fél évszázada jelent meg óriási felháborodást, egyúttal sikert keltve, mindemellett világszerte pszichológiai fakultások egyik alaptankönyveként funkcionál. A kiváló tudós az ember biológiai származásából indul ki, megmutatva a párhuzamokat az emberi viselkedés, és az állati jelenségek között. Lehámozva a saját magunk teremtette fensőségtudatot, remekül világít rá, hogy a biológiai létezés több százezer évéhez viszonyítva a civilizáció pár ezer éves máza mennyire vékony réteg rajtunk: lehántva azt, nem vagyunk mások, mint "csupasz majmok". Vajon az öröklött genetikai minták vagy a civilizáció keretében végbemenő szocializáció a meghatározóbb az ember viselkedésében? Miért nevetünk? Miért olyanok az udvarlási szokásaink, amilyenek? Miért fontosabb a férfiak számára a hatalom, mint a nőknek? Miért vagyunk agresszívek? Csak néhány kérdés, amelyekre a szerző A csupasz nő című könyvéhez hasonlóan szemléletes válaszokat ad, szokásainkat visszavezetve az állatvilágba és példákat hozva, miközben finom iróniával leleplezi az ember sematikus önképét. Egy példa, amelyből kiderül, miért festik vörösre a szájukat a nők: Morris szerint az ajak nem más, mint a vagina szimbóluma, melyben maga az ajak a nagy, az íny a kis szeméremajkakat, a nyelv pedig a csiklót jelképezi. Hasonló szexuális figyelemfelkeltő jel pedig a majmok világában is előfordul, ugyanúgy a vörös szín kifejezett megjelenésével. A kötet elején olvasható a mű 1989-es (A majom meztelen címmel) és a jelen kiadásához írt előszó is, amelyeket nem véletlenül Csányi professzor jegyez.&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Gabo</dc:publisher>
+        <dc:publisher>GABO</dc:publisher>
         <dc:identifier opf:scheme="ANTIK_HU">5151</dc:identifier>
         <dc:identifier opf:scheme="MOLY_HU">desmond-morris-a-csupasz-majom</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">Z6XntAEACAAJ</dc:identifier>
@@ -28,7 +28,6 @@
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>természettudomány</dc:subject>
         <dc:subject>tudományos</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Desmond Morris&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2013-06-11T20:40:09+00:00"/>
         <meta name="calibre:title_sort" content="csupasz majom, A"/>

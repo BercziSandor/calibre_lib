@@ -5,10 +5,10 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9ec86e13-c5e6-44dd-9293-ecf974c456cc</dc:identifier>
         <dc:title>Előjáték az Alapítványhoz</dc:title>
         <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Asimov, Isaac</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-02-18T00:00:00+00:00</dc:date>
         <dc:description>Az Előjáték az alapítványhoz Asimov teremtő géniuszának pompás végrendelete. A veszélyes helyzetekkel, cselszövéssel teli páratlanul izgalmas elbeszélésben életre kelnek Asimov kedvenc szereplői: köztük Hari Seldon, aki azon fáradozik, hogy tökéletesítse a pszichohistória forradalmi elméletét, és ezzel megmentse az emberiséget.</dc:description>
-        <dc:publisher>Gabo</dc:publisher>
+        <dc:publisher>GABO</dc:publisher>
         <dc:identifier opf:scheme="MOLY_HU">isaac-asimov-elojatek-az-alapitvanyhoz</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9789636894252</dc:identifier>
         <dc:language>hun</dc:language>
@@ -22,7 +22,6 @@
         <dc:subject>regény</dc:subject>
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Asimov, Isaac&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Alapítvány-Birodalom-Robot"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

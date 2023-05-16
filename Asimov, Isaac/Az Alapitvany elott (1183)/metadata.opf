@@ -5,10 +5,10 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">ba7f9987-2ca1-4aa9-93d6-782f9c9ba663</dc:identifier>
         <dc:title>Az Alapítvány előtt</dc:title>
         <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Asimov, Isaac</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-02-18T00:00:00+00:00</dc:date>
         <dc:description>Az Alapítvány sorozat időben legelső, bevezető darabja csupán 1988 után kerülhetett az olvasó kezébe. A történet 2020-ban játszódik, I. Cleon császár uralkodása alatt a Trantoron, a Galaktikus Birodalom óriási kupolafővárosában. A hihetetlenül magas színvonalon megszervezett társadalom gigantikus méretű gépezetében a legkisebb fennakadás is a Birodalom bukását okozhatja. Ha a császár ismerné a jövőt, megmenthetné az összeomlás veszélyétől, s saját hatalmát is megszilárdíthatná. Ehhez meg kellene nyernie Hari Seldon bizalmát, aki éppen a pszichohistória elméletén dolgozik. Az Alapítvány regények leendő, legendás hírű Mestere menekülni igyekszik a császári pártfogás alól, mert nem mindegy, hogy elméletét, milyen érdekek szolgálatába állítják. Az izgalmas, fordulatos regényből megtudhatjuk, milyen események előzték meg az Alapítvány létrehozását.</dc:description>
-        <dc:publisher>Gabo</dc:publisher>
+        <dc:publisher>GABO</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9789636894269</dc:identifier>
         <dc:identifier opf:scheme="MOLY_HU">isaac-asimov-az-alapitvany-elott</dc:identifier>
         <dc:language>hun</dc:language>
@@ -26,7 +26,6 @@
         <dc:subject>férfi főszereplő</dc:subject>
         <dc:subject>társadalmi sci-fi</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Asimov, Isaac&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Alapítvány-Birodalom-Robot"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

@@ -5,10 +5,10 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f5d77268-2c30-48ab-9766-81da90b1d573</dc:identifier>
         <dc:title>Akár az Isten</dc:title>
         <dc:creator opf:file-as="Cook, Robin" opf:role="aut">Robin Cook</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-02-18T00:00:00+00:00</dc:date>
         <dc:description>"- A rohadt életbe – ordította Thomas, és a kormánykerékre csapott. – Hát neked mindig csak saját magadra kell gondolnod? Hetekkel ezelőtt mondtam neked, hogy az igazgató tanács tagjai és az orvosegyetem dékánjai lesznek ott. Valami furcsa dolog zajlik a kórházban, amit nem mondanak el nekem. De gondolom, ez szerinted nem fontos, mi? Thomas elvörösödött a haragtól, Cassi majd elsüllyedt. Az volt az érzése, bármit mond is, csak rosszabbra fordul tőle minden. Thomas mogorva némaságba burkolódzott. Még irgalmatlanabbul vezetett, s a kocsi sebességét, mire a szikes mocsárhoz értek, kilencven mérföldre vitte föl. Cassi a biztonsági öv ellenére ide-oda billent, amint a kocsi az éles kanyarokat vette. Megkönnyebbült, amikor a saját felhajtójuk előtt lassítani kezdett. Mire a bejárathoz értek, Cassi már beletörődött a partyba. Mentegetőzött, amiért nem értette meg férje szándékait, és szelíden hozzátette: – Te is fáradtnak látszol.</dc:description>
-        <dc:publisher>Gabo</dc:publisher>
+        <dc:publisher>GABO</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9789636890865</dc:identifier>
         <dc:identifier opf:scheme="MOLY_HU">robin-cook-akar-az-isten</dc:identifier>
         <dc:language>hun</dc:language>
@@ -19,7 +19,6 @@
         <dc:subject>orvosi krimi</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>sebészet</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Robin Cook&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-11-15T20:40:45+00:00"/>
         <meta name="calibre:title_sort" content="Akár az Isten"/>

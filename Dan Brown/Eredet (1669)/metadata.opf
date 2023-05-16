@@ -5,17 +5,16 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">510be47e-8eb8-4801-82e0-40342682205e</dc:identifier>
         <dc:title>Eredet</dc:title>
         <dc:creator opf:file-as="Brown, Dan" opf:role="aut">Dan Brown</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-12-14T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;&lt;div&gt;Robert ​Langdon, a szimbolika és a vallási ikonológia harvardi professzora a bilbaói Guggenheim Múzeumba érkezik, hogy részt vegyen egy felfedezés bemutatásán, amely „mindörökre megváltoztatja a tudományokat”. Az esemény házigazdája Langdon barátja és egykori tanítványa, Edmond Kirsch, a negyvenéves tech-mágnás, akit káprázatos találmányai és merész előrejelzései az egész világon vitatott figurává tettek. A mai este sem kivétel: azt állítja, hogy egy megdöbbentő áttörést jelent be, amelynek messzeható következményei lesznek.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ám Langdon és a több száz vendég legnagyobb döbbenetére, az esemény még azelőtt tragikus véget ér, hogy igazán elkezdődhetne. Langdon kétségbeesett menekülésre kényszerül a múzeum igazgatónőjével, Ambra Vidallal. Barcelonába szöknek, és veszélyes kutatásba kezdenek egy jelszó után, amely megnyitja Kirsch titkát.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Langdonnak és Vidalnak meg kell találnia az utat a város labirintusszerű átjáróiban egy olyan ellenséggel szemben, amely minden fordulónál egy lépéssel előttük jár. A nyomot, amelyet követnek, csak rejtélyes szimbólumok és többértelmű modern művek jelölik, de Langdon és Vidal sorra megfejti a nyomravezetőket, és végül szemtől szembe kerülnek egy világrengető igazsággal, amely rejtve maradt – egészen mostanáig.&lt;/div&gt;&lt;div style="font-family: 'Noto Sans', sans-serif; font-size: 13px;"&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Gabo</dc:publisher>
+        <dc:publisher>GABO</dc:publisher>
         <dc:identifier opf:scheme="GOOGLE">fuvIuQEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9789634065906</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>krimi</dc:subject>
         <dc:subject>Thriller</dc:subject>
         <dc:subject>kalandregény</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Dan Brown&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Robert Langdon"/>
         <meta name="calibre:series_index" content="5"/>
         <meta name="calibre:timestamp" content="2022-12-04T08:51:23+00:00"/>

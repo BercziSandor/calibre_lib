@@ -6,11 +6,11 @@
         <dc:title>A király beszéde</dc:title>
         <dc:creator opf:file-as="Logue, Mark &amp; Conradi, Peter" opf:role="aut">Mark Logue</dc:creator>
         <dc:creator opf:file-as="Logue, Mark &amp; Conradi, Peter" opf:role="aut">Peter Conradi</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-02-17T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A ​20. század első évtizedeiben valaki megmentette a brit királyi családot – nem a miniszterelnök és nem is a canterburyi érsek, hanem egy Lionel Logue nevű, szinte ismeretlen, autodidakta beszédtanár, akit a harmincas években az egyik újság elhíresült cikke úgy nevezett, hogy „a sarlatán, aki megmentett egy királyt”.&lt;br&gt;Logue nem született brit arisztokratának, de még csak angolnak sem – tősgyökeres ausztrál közember volt. Mégis ennek a barátságos társasági embernek sikerült minden külső segítség nélkül az egyik legnagyszerűbb brit királyt faragnia az ideges, kevés beszédű yorki hercegből, miután annak fivére, VIII. Edward 1936-ban leköszönt a trónról, mert beleszeretett Mrs. Simpsonba.&lt;br&gt;Lionel Logue és a leendő VI. György király nem mindennapi kapcsolatának mindeddig ismeretlen történetét Logue unokája írta meg, kizárólag nagyapja, Lionel naplójegyzetei és archív dokumentumok alapján. Rendkívüli megvilágításban tárul elénk a két férfi meghitt barátsága és az a kulcsszerep, melyet a király felesége, a néhai anyakirálynő, Erzsébet királyné játszott kettejük összeboronálásában, aminek az volt a célja, hogy megmentse férje hírnevét és trónját.&lt;br&gt;A király beszéde – Hogyan mentette meg egyetlen ember a brit monarchiát megdöbbentő bepillantást enged egy privát világba. Soha ilyen személyes képet nem rajzoltak még a brit monarchiáról – annak legmélyebb válsága idején – egy ausztrál közember szemszögéből nézve, aki büszke volt rá, hogy szolgálhatja – és megmentheti – királyát.&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Gabo</dc:publisher>
+        <dc:publisher>GABO</dc:publisher>
         <dc:identifier opf:scheme="MOLY_HU">mark-logue-peter-conradi-a-kiraly-beszede</dc:identifier>
         <dc:identifier opf:scheme="ANTIK_HU">432696</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9789636894528</dc:identifier>
@@ -34,7 +34,6 @@
         <dc:subject>Történelmi</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>dokumentarista</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Mark Logue&quot;: &quot;&quot;, &quot;Peter Conradi&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="A király beszéde"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

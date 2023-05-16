@@ -5,11 +5,11 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f562891d-8652-47cc-9639-99e7526577b1</dc:identifier>
         <dc:title>Adrian Mole és a tömegpusztító fegyverek</dc:title>
         <dc:creator opf:file-as="Townsend, Sue" opf:role="aut">Sue Townsend</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-09-14T22:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Adrian Mole harmincnégy és háromnegyed éves, kis híján hivatalosan is középkorú, amikor Mr. Blair bejelenti a parlamentben, hogy Irak tömegpusztító fegyverei negyvenöt percen belül bevethetők, és elérhetik akár Ciprust is. Mole, aki egy könyvesboltban dolgozik eladóként, hirtelen elhatározással egy menő kis lakást vásárol a szép nevű Patkány-rakparton. Ezzel pénzügyi helyzete végképp katasztrofálissá válik, és ugyanakkor megkezdődik hosszú harca egy szokatlanul agresszív hattyúval, aki történetesen a szomszédja…&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Gabo</dc:publisher>
+        <dc:publisher>GABO</dc:publisher>
         <dc:identifier opf:scheme="MOLY_HU">sue-townsend-adrian-mole-es-a-tomegpusztito-fegyverek</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">97LosgEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9789636892401</dc:identifier>
@@ -21,7 +21,6 @@
         <dc:subject>regény</dc:subject>
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>napló</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Sue Townsend&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Adrian Mole"/>
         <meta name="calibre:series_index" content="6"/>
         <meta name="calibre:rating" content="8"/>

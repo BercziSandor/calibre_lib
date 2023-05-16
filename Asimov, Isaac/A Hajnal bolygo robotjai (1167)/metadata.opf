@@ -5,10 +5,10 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f3c4caa9-f34e-4ac4-8d3b-fb954577135b</dc:identifier>
         <dc:title>A Hajnal bolygó robotjai</dc:title>
         <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Asimov, Isaac</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-02-14T23:00:00+00:00</dc:date>
         <dc:description>Baley ​nyomozó a Földről érkezett a Hajnal bolygóra, hogy kiderítse egy rejtélyes gyilkosság okait, és bebizonyítsa dr. Fastolfe ártatlanságát. De valóban gyilkosságnak számít-e egy ember formájú robot megrongálása? Kinek állhatott érdekében, hogy megsemmisítse? Egyáltalán ki tehette, ha a gyanúsított is azt hiszi, rajta kívül senkinek sem lett volna erre módja, s mi több, tehetsége. Az ember formájú robot meggyilkolása mögött olyan hatalmi harc áll, mely nemcsak Baley nyomozó karrierjét, de a túlnépesedett Föld sorsát is meghatározhatja. Hiszen nem mindegy, hogy emberek vagy ember formájú robotok lesznek-e az új telepesek a Világegyetemben. Ennek eldöntése új reményt adhat a Földnek, de ez okozhatja végzetét is. Végül a bűnügyi történetek szabályainak megfelelően Fastolfe tisztázódik a vád alól, és remélhetőleg a Föld is megmenekül a katasztrófától. Az Asimov-sorozat második darabja ez a könyv, amelyben az izgalmas bűnügy mellett egy furcsa szerelem történetével is megismerkedhet az olvasó.</dc:description>
-        <dc:publisher>Gabo</dc:publisher>
+        <dc:publisher>GABO</dc:publisher>
         <dc:identifier opf:scheme="GOOGLE">oDQEwgEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9789636896768</dc:identifier>
         <dc:identifier opf:scheme="MOLY_HU">isaac-asimov-a-hajnal-bolygo-robotjai</dc:identifier>
@@ -22,7 +22,6 @@
         <dc:subject>krimi</dc:subject>
         <dc:subject>detektívtörténet</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Asimov, Isaac&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Alapítvány-Birodalom-Robot"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

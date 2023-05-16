@@ -5,10 +5,10 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">479b53ab-52b2-4523-ac00-d325c2557dc3</dc:identifier>
         <dc:title>Agymosás</dc:title>
         <dc:creator opf:file-as="Cook, Robin" opf:role="aut">Robin Cook</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-02-18T00:00:00+00:00</dc:date>
         <dc:description>Adam ​Schonberg, harmadéves orvostanhallgató nehéz anyagi körülmények között él feleségével, Jenniferrel, a táncosnővel. Jennifer teherbe esik, és azért hogy a gyereket megtarthassák, Adam félbehagyja tanulmányait, és egy gyógyszergyárnál, az Arolennél helyezkedik el. A virágzó, ultramodern intézmény örömmel fogadja ajánlkozását, s Adam szépen is halad előre. Ámde furcsa dolgokat tapasztal a cégnél. A gyár egy luxushajón rendez továbbképző tanfolyamokat meghívott orvosok számára, akik a hajóútról visszatérve különös személyiségváltozás jeleit mutatják. A fiatalok házasságában is egyre több feszültség gyülemlik fel: egy házastársi veszekedést követően Jennifer hazaköltözik szüleihez, de hamarosan súlyos döntésre kényszerül: orvosa szerint a vizsgálatok arra utalnak, hogy jövendő gyermeke súlyos fejlődési rendellenességgel jönne világra, ezért abortuszra volna szükség. Adam gyanúját az Arolen különös üzelmeivel kapcsolatban tovább erősíti egyik munkatársának eltűnése és egy orvos öngyilkossága. Elhatározza, hogy végére jár a dolognak… A bestseller orvosíró láthatólag túl akarta szárnyalni főművét, a Láz-t – s ez sikerült is neki. Könyve a maga speciális műfajában, a sci-fibe hajló techno-horrorban ismét azokat a rémlátomásokat idézi fel, amelyhez – szerinte – a teljesen gépesített, elembertelenedett és elüzletiesedett modern gyógyászat vezethet. Cook szabadon engedi fantáziáját, mely egy abszurd és hátborzongató „szép új világ”-ba sodorja. Története – az ifjú medikus és felesége, a táncosnő története – hátborzongató kalandfilmhez hasonlít – s pompásan kielégíti az olvasó mese- és borzongásigényét.</dc:description>
-        <dc:publisher>Gabo</dc:publisher>
+        <dc:publisher>GABO</dc:publisher>
         <dc:identifier opf:scheme="MOLY_HU">robin-cook-agymosas</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9789636890872</dc:identifier>
         <dc:language>hun</dc:language>
@@ -18,7 +18,6 @@
         <dc:subject>orvosi krimi</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>Thriller</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Robin Cook&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-11-15T20:40:44+00:00"/>
         <meta name="calibre:title_sort" content="Agymosás"/>

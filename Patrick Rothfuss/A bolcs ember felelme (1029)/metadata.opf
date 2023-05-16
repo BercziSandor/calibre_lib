@@ -5,11 +5,11 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a1387503-37a1-4204-b2dc-49a8f0340547</dc:identifier>
         <dc:title>A bölcs ember félelme</dc:title>
         <dc:creator opf:file-as="Rothfuss, Patrick" opf:role="aut">Patrick Rothfuss</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Második ​nap&lt;br&gt;„Három dolog van, amelytől minden bölcs fél: a viharzó tenger, a holdtalan éjszaka és a szelíd ember dühe.”&lt;br&gt;A nevem Kvothe.&lt;br&gt;Hercegnőket loptam vissza sírdombokban alvó királyok mellől. Felégettem Trebon városát. Feluriannal háltam, majd ép bőrrel és elmével távoztam. Fiatalabban csaptak ki az Egyetemről, mint amennyi idős korában a többséget odaengedik. Olyan utakon jártam a holdfényben, amelyekről mások nappal is félnek szólni. Istenekkel beszéltem, asszonyokat szerettem, olyan dalokat írtam, amelyek hallatán a kobzosok elsírták magukat.&lt;br&gt;Hallhattál rólam.&lt;br&gt;Így kezdődik egy hőstörténet a hős tulajdon szempontjából – egy mese, amelynek nincs párja a fantasy-irodalomban. A bölcs ember félelme a királygyilkos krónikájának második napja, amelyben Kvothe, miután egyre jobban elmérgesedik a viszálya egy befolyásos nemessel, kénytelen elhagyni az Egyetemet, hogy külföldön próbáljon szerencsét. Hajótörötten, üres zsebbel, egy szál maga érkezik Vintasba, ahol hamarosan belekeveredik az udvari intrikába. Mialatt megpróbálja elnyerni egy hatalmas arisztokrata kegyét, Kvothe leleplez egy gyilkossági kísérletet, konfliktusba kerül egy vetélytárs arkanistával, és elindul egy zsoldos csapat élén a vadonba, hogy megfejtse a talányt: ki (vagy mi) tartja rémületben az utazókat a Király Útján. Időközben Kvothe válaszokat is keres, mert meg akarja tudni az igazságot a titokzatos Amyrról, a Chandrianról és a szülei haláláról. Az úton kiállja a legendás ademi zsoldosok próbáját, visszaszerzi az Edema Ruh becsületét, és átlép Tündeországba. Ott találkozik Felurian tündével, akinek egyetlen férfi sem állhat ellen, és akit egy se élt még túl… kivéve Kvothét.&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Gabo</dc:publisher>
+        <dc:publisher>GABO</dc:publisher>
         <dc:identifier opf:scheme="MOLY_HU">patrick-rothfuss-a-bolcs-ember-felelme</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9789636899349</dc:identifier>
         <dc:language>hun</dc:language>
@@ -32,7 +32,6 @@
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>utazás</dc:subject>
         <dc:subject>zene</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Patrick Rothfuss&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="A királygyilkos krónikája"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="10"/>

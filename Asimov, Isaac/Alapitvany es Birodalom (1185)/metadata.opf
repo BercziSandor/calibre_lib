@@ -5,10 +5,10 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c37dd305-7552-42cd-b478-31fcb55694f2</dc:identifier>
         <dc:title>Alapítvány és Birodalom</dc:title>
         <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Asimov, Isaac</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-02-18T00:00:00+00:00</dc:date>
         <dc:description>A világhírű amerikai író nem kevésbé híres trilógiájának – önálló regényként is élvezhető – második kötete ez a mű, az Alapítvány folytatása. Cselekménye a messzi jövőben játszódik, amikor létrejött a Galaktikus Birodalom, az ember szétrajzott Tejútrendszerünk lakható bolygóira. De ez az egyetemes Birodalom a bomlás küszöbén áll, amit a pszichohistória segítségével előre ki lehet számítani. Hari Seldon, a nagy pszichohistorikus élt is ezzel a lehetőséggel, s egyben arra vállalkozott, hogy befolyásolja a matematikai módszerekkel kiszámított jövőt. Az első kötetben, az Alapítványban a rendkívüli vállalkozás sikeresnek tetszett. Ebben a második kötetben azonban fontos szerephez jut egy olyan tényező, amellyel Seldon nem számolt. Megjelenik az Öszvér. Ki ez a titokzatos egyén, és miben rejlik a hatalma? Az Alapítvány és Birodalom izgalmas fordulatai során ez a rejtély megoldódik, hogy új és új problémáknak adjon helyet.</dc:description>
-        <dc:publisher>Gabo</dc:publisher>
+        <dc:publisher>GABO</dc:publisher>
         <dc:identifier opf:scheme="MOLY_HU">isaac-asimov-alapitvany-es-birodalom</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9789636894238</dc:identifier>
         <dc:language>hun</dc:language>
@@ -23,7 +23,6 @@
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>Nagy Könyv</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Asimov, Isaac&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Alapítvány-Birodalom-Robot"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="10"/>

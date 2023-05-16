@@ -5,10 +5,10 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">29670bd5-6bc6-431e-814e-521bfb7b1752</dc:identifier>
         <dc:title>Láz</dc:title>
         <dc:creator opf:file-as="Cook, Robin" opf:role="aut">Robin Cook</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-02-18T00:00:00+00:00</dc:date>
         <dc:description>Charles Martel, a kiváló rákkutató orvos egy napon rádöbben, hogy tizenkét éves lánya leukémiában szenved, ugyanabban a betegségben, amely nem sokkal korábban feleségével is végzett. A kutatóorvos ekkor elhatározza, hogy maga menti meg imádott kislánya életét. Martéi egy olyan gyógyszeripari cégcsoport csapdájában vergődik, amely az orvos által hatástalannak tartott kezelésekhez ragaszkodik, s a kutató munkáját is szakmai rivalizálások és grandiózus üzleti érdekek veszélyeztetik. Ő azonban mindenkivel szembeszáll azért, hogy kiderítse gyermeke betegségének okát, majd a gyógymódot is meglelje. De az idő, ami rendelkezésére áll, nagyon rövid…</dc:description>
-        <dc:publisher>Gabo</dc:publisher>
+        <dc:publisher>GABO</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9789636890889</dc:identifier>
         <dc:identifier opf:scheme="MOLY_HU">robin-cook-laz</dc:identifier>
         <dc:language>hun</dc:language>
@@ -18,7 +18,6 @@
         <dc:subject>New Hampshire</dc:subject>
         <dc:subject>orvosi krimi</dc:subject>
         <dc:subject>regény</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Robin Cook&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-11-15T20:40:55+00:00"/>
         <meta name="calibre:title_sort" content="Láz"/>

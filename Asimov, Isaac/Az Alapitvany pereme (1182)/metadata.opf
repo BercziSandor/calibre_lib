@@ -5,10 +5,10 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">26df5ada-bb37-45b0-916c-8b6c8e32c33a</dc:identifier>
         <dc:title>Az Alapítvány pereme</dc:title>
         <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Asimov, Isaac</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-02-18T00:00:00+00:00</dc:date>
         <dc:description>A könyv az Alapítvány-trilógia után következő kötet. 498 év telt el az Első Alapítvány megalapítása óta. Az Öszvér fenyegetése elmúlt: a Trantor bolygója békés, virágzó korszakát éli. A pszichohistorikus Hari Seldon váratlan megjelenése azonban olyan érdekes kérdéseket vet fel, melynek nyomán egy fiatal tanácsost az űrben száműznek, hogy megkeresse a választ: létezik-e még a Második Alapítvány. A tét: az emberiség sorsa. Az Alapítvány pereme című Asimov-regény ennek a nagy tétnek a kérdésével foglalkozik.</dc:description>
-        <dc:publisher>Gabo</dc:publisher>
+        <dc:publisher>GABO</dc:publisher>
         <dc:identifier opf:scheme="MOLY_HU">isaac-asimov-az-alapitvany-pereme</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9789636894283</dc:identifier>
         <dc:language>hun</dc:language>
@@ -20,7 +20,6 @@
         <dc:subject>regény</dc:subject>
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Asimov, Isaac&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Alapítvány-Birodalom-Robot"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

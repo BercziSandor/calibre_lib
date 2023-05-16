@@ -5,11 +5,11 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">8be69cfe-6fe2-4bd8-a7f2-c49348378a62</dc:identifier>
         <dc:title>Kavics az égben</dc:title>
         <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Asimov, Isaac</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-02-18T00:00:00+00:00</dc:date>
         <dc:description>Joseph Schwartz, a 62 éves chicagói férfi egy napon érthetetlen „baleset” áldozata lesz. Úgy érzi, mintha egyszerűen csak elesett volna az utcán, ám amikor pillanatnyi kábulatából felocsúdik, egy általa teljesen ismeretlen vidéken találja magát. Hosszas gyaloglás után végre egy házra talál, ám a benne lakók, legnagyobb meglepetésére ismeretlen nyelven szólnak hozzá.
 Megdöbbenése fokozatosan kétségbeeséssé változik, amikor megtudja, hogy a Föld fejlődésének egy későbbi idődimenziójába pottyant, s első ismerősei fogolynak tekintik. Végső elkeseredésében szökéssel próbálkozik, hogy maga derítse ki: létezik-e számára a menekülést jelentő visszatérés lehetősége?</dc:description>
-        <dc:publisher>Gabo</dc:publisher>
+        <dc:publisher>GABO</dc:publisher>
         <dc:identifier opf:scheme="MOLY_HU">isaac-asimov-kavics-az-egben</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9789636896737</dc:identifier>
         <dc:language>hun</dc:language>
@@ -21,7 +21,6 @@ Megdöbbenése fokozatosan kétségbeeséssé változik, amikor megtudja, hogy a
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>Thriller</dc:subject>
         <dc:subject>időutazás</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Asimov, Isaac&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Alapítvány-Birodalom-Robot"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

@@ -5,10 +5,10 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a5a0bd76-d473-4bd1-91ec-2d3361063d2c</dc:identifier>
         <dc:title>Alapítvány és Föld</dc:title>
         <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Asimov, Isaac</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-02-18T00:00:00+00:00</dc:date>
         <dc:description>A ​kezdetben trilógiának indult regényfolyam ötödik (befejező?) kötetében ismét Golan Trevize, az Alapítvány tanácsosa a főszereplő, ő az akinek döntenie kell a Galaktikus Birodalom jövőjéről. A negyedik kötet végén döntött is, de a döntés pillanatában kételkedés fogta el, nem volt-e idegen befolyás alatt. Hogy önmagát megnyugtassa elhatározza, hogy megkeresi az emberiség bölcsőjét, a mitikus múltba süllyedt Földet, amelyről senki sem tudja, hogy valóság-e vagy mese. Vele megy mítoszkutató tárgya, a tudós Pelorat, és Bliss a Gaia bolygó tökéletes társadalmának, illetve a bolygó egészének képviselője, akit Trevize hosszú ideig ellenszenvvel figyel. A három utazó a föld nyomait keresve bolygóról bolygóra repül, áthatolva a Tiltott világokon, megismerve a különböző berendezkedésű társadalmak titkait. Útjukon számtalan veszélyt és kalandot élnek át, mégis mintha titokzatos erő segítené őket. Solaria föld alatti országából egy akaratlan gyilkosság után, rejtélyes emberfeletti képességekkel rendelkező gyermeket visznek magukkal. Végül megtalálják az elveszett, lakhatatlanná vált Földet, sőt az a helyet is, ahonnan valamikor az emberiség útra kelhet a Galaxis benépesítésére.</dc:description>
-        <dc:publisher>Gabo</dc:publisher>
+        <dc:publisher>GABO</dc:publisher>
         <dc:identifier opf:scheme="MOLY_HU">isaac-asimov-alapitvany-es-fold</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9789636894276</dc:identifier>
         <dc:language>hun</dc:language>
@@ -20,7 +20,6 @@
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>űrutazás</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Asimov, Isaac&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Alapítvány-Birodalom-Robot"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

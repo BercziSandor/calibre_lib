@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">2c53bfde-882c-4d7a-85b2-8b2270d51eab</dc:identifier>
         <dc:title>Én, a robot</dc:title>
         <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Asimov, Isaac</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-02-18T00:00:00+00:00</dc:date>
         <dc:description>A ​robotika három törvénye
 1. A robotnak nem szabad kárt okoznia emberi lényben vagy tétlenül tűrnie, hogy emberi lény bármilyen kárt szenvedjen.
@@ -13,7 +13,7 @@
 3. A robot tartozik saját védelméről gondoskodni, amennyiben ez nem ütközik az első és második törvény előírásaiba.
 Ezzel a három egyszerű szabállyal Asimov mindörökre megváltoztatta a robotokról alkotott képünket. A sci-fi egyik megkerülhetetlen klasszikusának számító Én, a robot összekapcsolódó történetek füzérében mutatja be a robotok útját a primitív kezdetektől kezdve a nem is olyan távoli jövő tökéletességéig – ahol már jóformán az emberiségre sincsen szükség.
 A novellákban találkozhatunk őrült, humoros és gondolatolvasó robotokkal, robot politikusokkal és olyan robotokkal, amelyek titkon irányítják a világot, és valamennyi történetet a tudományos tények és a science fiction jellegzetes keveréke jellemzi, ami Asimov védjegyévé vált.</dc:description>
-        <dc:publisher>Gabo</dc:publisher>
+        <dc:publisher>GABO</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9789634068778</dc:identifier>
         <dc:identifier opf:scheme="MOLY_HU">isaac-asimov-en-a-robot</dc:identifier>
         <dc:language>hun</dc:language>
@@ -38,7 +38,6 @@ A novellákban találkozhatunk őrült, humoros és gondolatolvasó robotokkal, 
         <dc:subject>Short Stories</dc:subject>
         <dc:subject>logika</dc:subject>
         <dc:subject>1001 könyv listán szerepel</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Asimov, Isaac&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Alapítvány-Birodalom-Robot"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
