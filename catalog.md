@@ -518,6 +518,10 @@ Egyéb könyvek:
 - (101) - A természet erői [details](_details/Brian%20Cox.md#id_1517) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Brian%20Cox%2C%20Andrew%20Cohen/A%20termeszet%20eroi%20%281517%29/A%20termeszet%20eroi%20-%20Brian%20Cox%2C%20Andrew%20Cohen.epub)
 - (2012) - E=mc² (De miért olyan nagy ügy ez?) [details](_details/Brian%20Cox.md#id_1516) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Brian%20Cox/E%3Dmc2%20%28De%20miert%20olyan%20nagy%20ugy%20ez_%29%20%281516%29/E%3Dmc2%20%28De%20miert%20olyan%20nagy%20ugy%20-%20Brian%20Cox.epub)
 
+### Brian Hare
+
+- (2013) - Az okos kutya - A kutyák sokkal többre képesek, mint gondolnád [details](_details/Brian%20Hare.md#id_1724) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Brian%20Hare/Az%20okos%20kutya%20-%20A%20kutyak%20sokkal%20tob%20%281724%29/Az%20okos%20kutya%20-%20A%20kutyak%20sokkal%20-%20Brian%20Hare.epub)
+
 ### Brian Innes
 
 - (1998) - A kínzás és kínvallatás története [details](_details/Brian%20Innes.md#id_1448) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Brian%20Innes/A%20kinzas%20es%20kinvallatas%20tortenete%20%281448%29/A%20kinzas%20es%20kinvallatas%20tortene%20-%20Brian%20Innes.epub)
@@ -587,6 +591,10 @@ Sorozatok:
 Bűbájos Mary:
 
 - 1 (2003) - Bűbájos Mary [részletek](_details/Celia%20Rees.md#id_979) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Celia%20Rees/Bubajos%20Mary%20%28979%29/Bubajos%20Mary%20-%20Celia%20Rees.epub)
+
+### Cesar Millan
+
+- (2009) - Hogyan neveljünk tökéletes kutyát [details](_details/Cesar%20Millan.md#id_1725) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Cesar%20Millan/Hogyan%20neveljunk%20tokeletes%20kutyat%20%281725%29/Hogyan%20neveljunk%20tokeletes%20kuty%20-%20Cesar%20Millan.epub)
 
 ### Charles Cumming
 
@@ -840,6 +848,7 @@ Miért csinálja...?:
 Egyéb könyvek:
 
 - (1989) - A csupasz majom [details](_details/Desmond%20Morris.md#id_536)
+- (1990) - Miért csinálja ...? a kutya: nélkülözhetetlen útmutato a kutyák viselkedéséhez [details](_details/Desmond%20Morris.md#id_1722)
 
 ### Diana Wynne Jones
 
@@ -1564,6 +1573,7 @@ Sorozatok:
 
 ### Jan Fennell
 
+- (101) - Kutyapszichológia [details](_details/Jan%20Fennell.md#id_1723) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jan%20Fennell/Kutyapszichologia%20%281723%29/Kutyapszichologia%20-%20Jan%20Fennell.epub)
 - (101) - Kutyapszichológia [details](_details/Jan%20Fennell.md#id_475) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jan%20Fennell/Kutyapszichologia%20%28475%29/Kutyapszichologia%20-%20Jan%20Fennell.epub)
 
 ### Jane Austen
@@ -1612,6 +1622,10 @@ Dexter:
 ### Jevgenyij Zamjatyin
 
 - (2008) - Mi [details](_details/Jevgenyij%20Zamjatyin.md#id_607) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jevgenyij%20Zamjatyin/Mi%20%28607%29/Mi%20-%20Jevgenyij%20Zamjatyin.epub)
+
+### Jill Bolte Taylor
+
+- (2016) - Mennybe döngölve [details](_details/Jill%20Bolte%20Taylor.md#id_1721) [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Jill%20Bolte%20Taylor/Mennybe%20dongolve%20%281721%29/Mennybe%20dongolve%20-%20Jill%20Bolte%20Taylor.pdf)
 
 ### Jo Nesbø
 
@@ -2371,6 +2385,10 @@ Egyéb könyvek:
 ### Molnár, Ferenc
 
 - (2020) - A Pál utcai fiúk [details](_details/Moln%C3%A1r%2C%20Ferenc.md#id_1558) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Molnar%2C%20Ferenc/A%20Pal%20utcai%20fiuk%20%281558%29/A%20Pal%20utcai%20fiuk%20-%20Molnar%2C%20Ferenc.epub)
+
+### Monika Sinner
+
+- (101) - Kutyakiképzés klikkerrel [details](_details/Monika%20Sinner.md#id_1726) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Monika%20Sinner/Kutyakikepzes%20klikkerrel%20%281726%29/Kutyakikepzes%20klikkerrel%20-%20Monika%20Sinner.epub)
 
 ### Mózes, István Miklós
 
