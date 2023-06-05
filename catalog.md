@@ -7,7 +7,6 @@
 ### Jan Fennell
 
 - (101) - Kutyapszichológia [details](_details/Jan%20Fennell.md#id_475) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/.caltrash/b/475/Kutyapszichologia%20-%20Jan%20Fennell.epub)
-- (101) - Kutyapszichológia [details](_details/Jan%20Fennell.md#id_1723) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jan%20Fennell/Kutyapszichologia%20%281723%29/Kutyapszichologia%20-%20Jan%20Fennell.epub)
 
 ### A. G. Hawk
 
@@ -1159,6 +1158,10 @@ Egyéb könyvek:
 - (2015) - Lutra [details](_details/Fekete%2C%20Istv%C3%A1n.md#id_735) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Lutra%20%28735%29/Lutra%20-%20Fekete%2C%20Istvan.epub)
 - (2020) - Bogáncs [details](_details/Fekete%2C%20Istv%C3%A1n.md#id_266) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Bogancs%20%28266%29/Bogancs%20-%20Fekete%2C%20Istvan.epub)
 - (2021) - Zsellérek [details](_details/Fekete%2C%20Istv%C3%A1n.md#id_741) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fekete%2C%20Istvan/Zsellerek%20%28741%29/Zsellerek%20-%20Fekete%2C%20Istvan.epub)
+
+### Fennell, Jan
+
+- (101) - Kutyapszichológia [details](_details/Fennell%2C%20Jan.md#id_1723) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fennell%2C%20Jan/Kutyapszichologia%20%281723%29/Kutyapszichologia%20-%20Fennell%2C%20Jan.epub)
 
 ### Fodor, Sándor
 
