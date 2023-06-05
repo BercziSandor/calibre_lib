@@ -1,6 +1,9 @@
 # <a name="id_1505">Polcz Alaine: Világjáték (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Vilagjatek%20%281505%29/cover.jpg" alt="cover" width="300"/>
 
+### Letöltés
+[djvu](https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Vilagjatek%20%281505%29/Vilagjatek%20-%20Polcz%20Alaine.djvu)
+
 ### Összefoglalás
 <div>
 <p>A ​gyermekek életét kitöltő játékban benne van mindaz, amit a világból érzékelnek, és amit magukról gondolnak. „Polcz Alaine a bábjátékkal szerzett tapasztalatai nyomán felfigyelt a nagy lehetőségre, amit az jelenthet, hogy a gyermek a játékban egy egész világot építhet fel. Ez a világ bizonyára el fogja árulni a gyerek és családja problémáit, de azon túl még azokat az érzéseket is, amiket a játékvilág építőjében az emberi világ kelt” – így jellemezte a pszichiáter Vikár György azt a lélektani valóságot, amelyre Polcz Alaine a dinamikus játékdiagnosztika és játékterápia módszertanát és gyakorlatát alapozta. Hallatlanul gazdag tapasztalaton nyugvó, kimerítő, rendkívül érzékeny és (több évtized múltán is változatlanul) újszerű kísérlete a játék értelmezésére – egy megkerülhetetlen, alapvető kézikönyvet eredményezett. A Világjáték konstruktív, projektív módszer. A gyermek a valóságos környezet, az élet különböző területeinek, jelenségeinek kicsinyített elemeiből álló játékot kap (házakat, embereket, stb.) és egy tálcán, ami a tengert jelképezi, felépíti a világot, úgy, ahogyan megéli. A Világjátékot haszonnal forgathatja nem csupán a pszichológus vagy a terapeuta, hanem minden pedagógus és szülő, aki a megértés és a segítés szándékával fordul a játékban feltárulkozó gyermeki lélek és a benne fölsejlő világ felé.</p></div>

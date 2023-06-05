@@ -137,6 +137,9 @@ magyar nyelvű, magyar szerző, napló, posztumusz
 # <a name="id_1356">Szabó, Magda: Régimódi történet (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Regimodi%20tortenet%20%281356%29/cover.jpg" alt="cover" width="300"/>
 
+### Letöltés
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Regimodi%20tortenet%20%281356%29/Regimodi%20tortenet%20-%20Szabo%2C%20Magda.rtf)
+
 ### Tagek
 1800-as évek, 19. század, 20. század, 303 magyar regény, családregény, családtörténet, debrecen, filmadaptáció, háború, hangoskönyv, klasszikus, magyar nyelvű, magyar szerző, nagy könyv, női főszereplő, nők, regény, századforduló, szociográfia
 
@@ -250,6 +253,9 @@ anyaság, férfi főszereplő, filmadaptáció, gyermekkönyv iskolásoknak, han
 
 # <a name="id_1349">Szabó, Magda: Ókút (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Okut%20%281349%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Okut%20%281349%29/Okut%20-%20Szabo%2C%20Magda.rtf)
 
 ### Tagek
 1920-as évek, 20. század, debrecen, életrajz, gyermekkor, hangoskönyv, kisgyermekkor, magyar nyelvű, magyar szerző, memoár, női főszereplő, regény

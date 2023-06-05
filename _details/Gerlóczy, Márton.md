@@ -14,6 +14,9 @@
 # <a name="id_1468">Gerlóczy, Márton: Elvonókúra (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerloczy%2C%20Marton/Elvonokura%20%281468%29/cover.jpg" alt="cover" width="300"/>
 
+### Letöltés
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Gerloczy%2C%20Marton/Elvonokura%20%281468%29/Elvonokura%20-%20Gerloczy%2C%20Marton.azw3)
+
 ### Tagek
 alkoholizmus, kortárs, magyar nyelvű, magyar szerző, thaiföld
 

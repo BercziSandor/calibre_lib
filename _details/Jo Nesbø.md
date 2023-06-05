@@ -28,6 +28,9 @@ Harry Holét, a norvég rendőrség legellentmondásosabb figuráját Thaiföldr
 # <a name="id_579">Jo Nesbø: Vörösbegy (Harry Hole 3) (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Vorosbegy%20%28579%29/cover.jpg" alt="cover" width="300"/>
 
+### Letöltés
+[prc](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Vorosbegy%20%28579%29/Vorosbegy%20-%20Jo%20Nesbo.prc)
+
 ### Tagek
 norvég szerző, rendőr, thriller, skandináv, kortárs, gyilkosság, skandinávia, nyomozás, hardboiled krimi, regény, misztikus, noir irodalom, detektívtörténet, 2. világháború, magyar nyelvű, krimi, 21. század, sorozat része, oslo, férfi főszereplő
 

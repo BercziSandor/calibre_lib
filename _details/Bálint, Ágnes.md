@@ -16,7 +16,8 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Balint%2C%20Agnes/Az%20elvarazsolt%20egerkisasszony%20%28534%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Balint%2C%20Agnes/Az%20elvarazsolt%20egerkisasszony%20%28534%29/Az%20elvarazsolt%20egerkisasszony%20-%20Balint%2C%20Agnes.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Balint%2C%20Agnes/Az%20elvarazsolt%20egerkisasszony%20%28534%29/Az%20elvarazsolt%20egerkisasszony%20-%20Balint%2C%20Agnes.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Balint%2C%20Agnes/Az%20elvarazsolt%20egerkisasszony%20%28534%29/Az%20elvarazsolt%20egerkisasszony%20-%20Balint%2C%20Agnes.rtf)
 
 ### Tagek
 boszorkány, gyermekkönyv kicsiknek, hangoskönyv, illusztrált, kortárs, magyar nyelvű, magyar szerző, meseregény

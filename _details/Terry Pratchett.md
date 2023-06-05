@@ -218,7 +218,8 @@ Szóval… gond egy szál se, eh?
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Elveszett%20Profeciak%20%28896%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Elveszett%20Profeciak%20%28896%29/Elveszett%20Profeciak%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Elveszett%20Profeciak%20%28896%29/Elveszett%20Profeciak%20-%20Terry%20Pratchett.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Elveszett%20Profeciak%20%28896%29/Elveszett%20Profeciak%20-%20Terry%20Pratchett.rtf)
 
 ### Tagek
 irodalom, szórakoztató irodalom

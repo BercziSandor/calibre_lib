@@ -76,6 +76,9 @@ Látom a fickó arcát: őrült nagyra tágult szempár, a pupilla zöldesen fel
 # <a name="id_1152">Fable, Vavyan: Mogorva nyár (Halkirálynő 4.5) (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Mogorva%20nyar%20%281152%29/cover.jpg" alt="cover" width="300"/>
 
+### Letöltés
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Mogorva%20nyar%20%281152%29/Mogorva%20nyar%20-%20Fable%2C%20Vavyan.rtf)
+
 ### Tagek
 akció, bűnüldözés, dzsungel, fegyverek, humoros, kortárs, krimi, magyar nyelvű, magyar szerző, nyár, regény, rendőr, romantikus, sorozat része
 
@@ -112,6 +115,9 @@ A ​halkirálynő nevében! Az előrahaladottan állapotos zsarulány, Denisa W
 # <a name="id_1151">Fable, Vavyan: Mesemaraton (Mesemaraton 1) (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Mesemaraton%20%281151%29/cover.jpg" alt="cover" width="300"/>
 
+### Letöltés
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Mesemaraton%20%281151%29/Mesemaraton%20-%20Fable%2C%20Vavyan.rtf)
+
 ### Tagek
 hangoskönyv, humoros, kalandregény, krimi, magyar nyelvű, magyar szerző, nagy könyv, paródia, regény, sorozat része, szatíra
 
@@ -123,6 +129,9 @@ Burleszk, paródia, karikatúra ÉS kalandregény. Hella Postor, a vagány, idő
 # <a name="id_1163">Fable, Vavyan: Emlékfutam (Mesemaraton 2) (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Emlekfutam%20%281163%29/cover.jpg" alt="cover" width="300"/>
 
+### Letöltés
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Emlekfutam%20%281163%29/Emlekfutam%20-%20Fable%2C%20Vavyan.rtf)
+
 ### Tagek
 humoros, kalandregény, krimi, magyar nyelvű, magyar szerző, paródia, regény, sorozat része, szatíra
 
@@ -132,6 +141,9 @@ Hella ​Postor, a dúsgazdag öreg hölgy a hajdani Mesemaraton nevű lovasvers
 
 # <a name="id_1161">Fable, Vavyan: Nászjelentés 1. (Nászjelentés 1) (2002)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Naszjelentes%201_%20%281161%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Naszjelentes%201_%20%281161%29/Naszjelentes%201_%20-%20Fable%2C%20Vavyan.rtf)
 
 ### Összefoglalás
 <div>
@@ -202,6 +214,9 @@ eszközön történő túlutazás, továbbá családelhanyago­lás okozta káro
 
 
 # <a name="id_1162">Fable, Vavyan: Nászjelentés 2. (Nászjelentés 2) (2003)</a>
+### Letöltés
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Naszjelentes%202_%20%281162%29/Naszjelentes%202_%20-%20Fable%2C%20Vavyan.rtf)
+
 # <a name="id_178">Fable, Vavyan: Álomhajsza (Seym és Lilia 1) (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Alomhajsza%20%28178%29/cover.jpg" alt="cover" width="300"/>
 
@@ -217,6 +232,9 @@ Amint ​tudomást szerzünk a KÉK KRISTÁLY létezéséről, azonnal szenvedé
 
 # <a name="id_1156">Fable, Vavyan: Tündértánc I. (Tündértánc 1) (2000)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Tundertanc%20I_%20%281156%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Tundertanc%20I_%20%281156%29/Tundertanc%20I_%20-%20Fable%2C%20Vavyan.rtf)
 
 ### Összefoglalás
 <div>
@@ -258,6 +276,9 @@ TÜNDÉRTÁNC-lépéseket!<p></p></p>
 
 # <a name="id_1157">Fable, Vavyan: Tündértánc II. (Tündértánc 2) (2001)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Tundertanc%20II_%20%281157%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Tundertanc%20II_%20%281157%29/Tundertanc%20II_%20-%20Fable%2C%20Vavyan.rtf)
 
 ### Összefoglalás
 <div>
@@ -310,6 +331,9 @@ A boldog-boldogtalan őslakók által csak Fertő Cityként emlegetett nagyváro
 # <a name="id_1164">Fable, Vavyan: Kyra Eleison (Vis Major 2) (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Kyra%20Eleison%20%281164%29/cover.jpg" alt="cover" width="300"/>
 
+### Letöltés
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Kyra%20Eleison%20%281164%29/Kyra%20Eleison%20-%20Fable%2C%20Vavyan.rtf)
+
 ### Tagek
 akció, humoros, kortárs, krimi, magyar nyelvű, magyar szerző, regény, sorozat része
 
@@ -320,6 +344,9 @@ akció, humoros, kortárs, krimi, magyar nyelvű, magyar szerző, regény, soroz
 # <a name="id_1154">Fable, Vavyan: Vészbejárat (Vis Major 4) (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Veszbejarat%20%281154%29/cover.jpg" alt="cover" width="300"/>
 
+### Letöltés
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Veszbejarat%20%281154%29/Veszbejarat%20-%20Fable%2C%20Vavyan.rtf)
+
 ### Tagek
 akció, fekete humor, kortárs, krimi, magyar nyelvű, magyar szerző, regény, rendőr, sorozat része
 
@@ -329,6 +356,9 @@ Vis ​Major és Kyra Emett, a Fertő City utcáin járőröző zsarupáros mege
 
 # <a name="id_1158">Fable, Vavyan: Tíz kicsi kommandós (Vis Major 5) (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Tiz%20kicsi%20kommandos%20%281158%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Tiz%20kicsi%20kommandos%20%281158%29/Tiz%20kicsi%20kommandos%20-%20Fable%2C%20Vavyan.rtf)
 
 ### Tagek
 akció, humoros, kortárs, krimi, magyar nyelvű, magyar szerző, regény, romantikus, sorozat része
@@ -401,6 +431,9 @@ A ​hölgy kalapja hatalmas, haja homokszőke, arcán régi sebhely, farmerja r
 # <a name="id_1146">Fable, Vavyan: Fattyúdal (1996)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Fattyudal%20%281146%29/cover.jpg" alt="cover" width="300"/>
 
+### Letöltés
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Fattyudal%20%281146%29/Fattyudal%20-%20Fable%2C%20Vavyan.rtf)
+
 ### Tagek
 akció, humoros, indián, kortárs, krimi, magyar nyelvű, magyar szerző, regény
 
@@ -410,6 +443,9 @@ Az indián Fattyú és Tashina idilli helyen ismerkednek meg, ahol a csendet csa
 
 # <a name="id_1149">Fable, Vavyan: Jégtánc (1998)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Jegtanc%20%281149%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Jegtanc%20%281149%29/Jegtanc%20-%20Fable%2C%20Vavyan.rtf)
 
 ### Tagek
 akció, bűnüldözés, fegyverek, humoros, kortárs, krimi, magyar nyelvű, magyar szerző, női főszereplő, nyomozás, regény, romantikus
@@ -434,6 +470,9 @@ A ​Halkirálynő szerzőjének – új könyve az olvasó által jól ismert v
 # <a name="id_1155">Fable, Vavyan: Vakvágta (1999)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Vakvagta%20%281155%29/cover.jpg" alt="cover" width="300"/>
 
+### Letöltés
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Vakvagta%20%281155%29/Vakvagta%20-%20Fable%2C%20Vavyan.rtf)
+
 ### Tagek
 akció, humoros, kalandregény, kortárs, krimi, magyar nyelvű, magyar szerző, regény
 
@@ -443,6 +482,9 @@ A ​férfi, Kentaro sokoldalú kaszkadőr, miáltal hol lángra kap, hol a maga
 
 # <a name="id_1148">Fable, Vavyan: Halálnak halálával (2001)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Halalnak%20halalaval%20%281148%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Halalnak%20halalaval%20%281148%29/Halalnak%20halalaval%20-%20Fable%2C%20Vavyan.rtf)
 
 ### Tagek
 akció, fekete humor, kortárs, krimi, magyar nyelvű, magyar szerző, regény
@@ -476,6 +518,9 @@ humoros, kortárs, magyar nyelvű, magyar szerző, novella, szatíra
 # <a name="id_1160">Fable, Vavyan: Sárkánykönny (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Sarkanykonny%20%281160%29/cover.jpg" alt="cover" width="300"/>
 
+### Letöltés
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Sarkanykonny%20%281160%29/Sarkanykonny%20-%20Fable%2C%20Vavyan.rtf)
+
 ### Tagek
 akció, bűnüldözés, humoros, kortárs, krimi, magyar nyelvű, magyar szerző, regény, romantikus, thriller
 
@@ -499,6 +544,9 @@ A Halkirálynő és a Kommandó" íróját napjaink vérfagyasztó terrorcselekm
 # <a name="id_1159">Fable, Vavyan: Szennyből az angyal (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Szennybol%20az%20angyal%20%281159%29/cover.jpg" alt="cover" width="300"/>
 
+### Letöltés
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Szennybol%20az%20angyal%20%281159%29/Szennybol%20az%20angyal%20-%20Fable%2C%20Vavyan.rtf)
+
 ### Tagek
 család, humoros, író, karácsony, kortárs, krimi, magyar nyelvű, magyar szerző, regény, rendőr, szellemek, váltott szemszög
 
@@ -508,6 +556,9 @@ A regény hősnője, Tonie – túl egy súlyos válságon – mesei karácsonyr
 
 # <a name="id_1145">Fable, Vavyan: Ezüstegér (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Ezusteger%20%281145%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Ezusteger%20%281145%29/Ezusteger%20-%20Fable%2C%20Vavyan.rtf)
 
 ### Tagek
 akció, humoros, kortárs, krimi, magyar nyelvű, magyar szerző, regény, romantikus, varázslat
@@ -526,6 +577,9 @@ Sötét üvegű ablakain megtört a napsugarak áthatolási igyekezete.
 
 # <a name="id_1144">Fable, Vavyan: Édes, mint a bűn (2013)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Edes%2C%20mint%20a%20bun%20%281144%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Edes%2C%20mint%20a%20bun%20%281144%29/Edes%2C%20mint%20a%20bun%20-%20Fable%2C%20Vavyan.rtf)
 
 ### Tagek
 akció, humoros, kortárs, krimi, magyar nyelvű, magyar szerző, novella

@@ -16,7 +16,8 @@ férfi főszereplő, ír szerző, magyar nyelvű, sorozat része, horror, szóra
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Darren%20Shan/A%20Pokol%20Pereme%20%28278%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Darren%20Shan/A%20Pokol%20Pereme%20%28278%29/A%20pokol%20pereme%20-%20Darren%20Shan.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Darren%20Shan/A%20Pokol%20Pereme%20%28278%29/A%20pokol%20pereme%20-%20Darren%20Shan.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Darren%20Shan/A%20Pokol%20Pereme%20%28278%29/A%20pokol%20pereme%20-%20Darren%20Shan.rtf)
 
 ### Tagek
 férfi főszereplő, horror, ír szerző, magyar nyelvű, sorozat része, trilógia, regény, kortárs, szórakoztató irodalom, thriller

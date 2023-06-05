@@ -4,6 +4,11 @@
 
 ## Szerzők szerint
 
+### Jan Fennell
+
+- (101) - Kutyapszichológia [details](_details/Jan%20Fennell.md#id_475) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/.caltrash/b/475/Kutyapszichologia%20-%20Jan%20Fennell.epub)
+- (101) - Kutyapszichológia [details](_details/Jan%20Fennell.md#id_1723) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jan%20Fennell/Kutyapszichologia%20%281723%29/Kutyapszichologia%20-%20Jan%20Fennell.epub)
+
 ### A. G. Hawk
 
 - (2015) - Időtlenségbe zárva [details](_details/A.%20G.%20Hawk.md#id_949) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/A.%20G.%20Hawk/Idotlensegbe%20zarva%20%28949%29/Idotlensegbe%20zarva%20-%20A.%20G.%20Hawk.epub)
@@ -624,7 +629,7 @@ Sorozatok:
 
 A háromtest-trilógia:
 
-- 1 (2020) - A háromtest-probléma [részletek](_details/Cixin%20Liu.md#id_1451)
+- 1 (2020) - A háromtest-probléma [részletek](_details/Cixin%20Liu.md#id_1451) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Cixin%20Liu/A%20haromtest-problema%20%281451%29/A%20haromtest-problema%20-%20Cixin%20Liu.azw3)
 
 ### Cline, Ernest
 
@@ -848,7 +853,7 @@ Miért csinálja...?:
 Egyéb könyvek:
 
 - (1989) - A csupasz majom [details](_details/Desmond%20Morris.md#id_536)
-- (1990) - Miért csinálja ...? a kutya: nélkülözhetetlen útmutato a kutyák viselkedéséhez [details](_details/Desmond%20Morris.md#id_1722)
+- (1990) - Miért csinálja ...? a kutya: nélkülözhetetlen útmutato a kutyák viselkedéséhez [details](_details/Desmond%20Morris.md#id_1722) [djvu](https://github.com/BercziSandor/calibre_lib/raw/main/Desmond%20Morris/Miert%20csinalja%20_._%20a%20kutya_%20nelkulo%20%281722%29/Miert%20csinalja%20_._%20a%20kutya_%20nel%20-%20Desmond%20Morris.djvu)
 
 ### Diana Wynne Jones
 
@@ -931,7 +936,7 @@ Eat, Pray, Love:
 
 ### Eric Berne
 
-- (1998) - Szex a szerelemben [details](_details/Eric%20Berne.md#id_905) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Eric%20Berne/Szex%20a%20szerelemben%20%28905%29/Szex%20a%20szerelemben%20-%20Eric%20Berne.epub)
+- (1998) - Szex a szerelemben [details](_details/Eric%20Berne.md#id_905) [djvu](https://github.com/BercziSandor/calibre_lib/raw/main/Eric%20Berne/Szex%20a%20szerelemben%20%28905%29/Szex%20a%20szerelemben%20-%20Eric%20Berne.djvu)
 - (2013) - Emberi játszmák [details](_details/Eric%20Berne.md#id_291) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Eric%20Berne/Emberi%20Jatszmak%20%28291%29/Emberi%20jatszmak%20-%20Eric%20Berne.epub)
 - (2019) - Sorskönyv [details](_details/Eric%20Berne.md#id_292) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Eric%20Berne/Sorskonyv%20%28292%29/Sorskonyv%20-%20Eric%20Berne.epub)
 
@@ -1001,7 +1006,7 @@ Ready Player One:
 
 - (2001) - Hrabal könyve [details](_details/Esterh%C3%A1zy%2C%20P%C3%A9ter.md#id_1021) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Esterhazy%2C%20Peter/Hrabal%20konyve%20%281021%29/Hrabal%20konyve%20-%20Esterhazy%2C%20Peter.epub)
 - (2004) - Termelési-regény [details](_details/Esterh%C3%A1zy%2C%20P%C3%A9ter.md#id_1022) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Esterhazy%2C%20Peter/Termelesi-regeny%20%281022%29/Termelesi-regeny%20-%20Esterhazy%2C%20Peter.epub)
-- (2004) - Termelési-regény: kisssregény : regény [details](_details/Esterh%C3%A1zy%2C%20P%C3%A9ter.md#id_1512)
+- (2004) - Termelési-regény: kisssregény : regény [details](_details/Esterh%C3%A1zy%2C%20P%C3%A9ter.md#id_1512) [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Esterhazy%2C%20Peter/Termelesi-regeny_%20kisssregeny%20_%20reg%20%281512%29/Termelesi-regeny_%20kisssregeny%20_%20-%20Esterhazy%2C%20Peter.rtf)
 - (2016) - A szív segédigéi [details](_details/Esterh%C3%A1zy%2C%20P%C3%A9ter.md#id_1020) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Esterhazy%2C%20Peter/A%20sziv%20segedigei%20%281020%29/A%20sziv%20segedigei%20-%20Esterhazy%2C%20Peter.epub)
 - (2016) - Ki szavatol a lady biztonságáért? [details](_details/Esterh%C3%A1zy%2C%20P%C3%A9ter.md#id_1023) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Esterhazy%2C%20Peter/Ki%20szavatol%20a%20lady%20biztonsagaert_%20%281023%29/Ki%20szavatol%20a%20lady%20biztonsagaer%20-%20Esterhazy%2C%20Peter.epub)
 - (2018) - Egy nő [details](_details/Esterh%C3%A1zy%2C%20P%C3%A9ter.md#id_1019) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Esterhazy%2C%20Peter/Egy%20no%20%281019%29/Egy%20no%20-%20Esterhazy%2C%20Peter.epub)
@@ -1044,19 +1049,19 @@ Halkirálynő:
 - 2 (2006) - A Halkirálynő és a dzsinnek [részletek](_details/Fable%2C%20Vavyan.md#id_173) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/A%20Halkiralyno%20es%20a%20dzsinnek%20%28173%29/A%20Halkiralyno%20es%20a%20dzsinnek%20-%20Fable%2C%20Vavyan.epub)
 - 3 (2006) - Ki feküdt az ágyamban? [részletek](_details/Fable%2C%20Vavyan.md#id_181) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Ki%20fekudt%20az%20agyamban_%20%28181%29/Ki%20fekudt%20az%20agyamban_%20-%20Fable%2C%20Vavyan.epub)
 - 4 (2007) - Ébredj velem! [részletek](_details/Fable%2C%20Vavyan.md#id_180) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Ebredj%20velem%21%20%28180%29/Ebredj%20velem%21%20-%20Fable%2C%20Vavyan.epub)
-- 4.5 (2007) - Mogorva nyár [részletek](_details/Fable%2C%20Vavyan.md#id_1152)
+- 4.5 (2007) - Mogorva nyár [részletek](_details/Fable%2C%20Vavyan.md#id_1152) [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Mogorva%20nyar%20%281152%29/Mogorva%20nyar%20-%20Fable%2C%20Vavyan.rtf)
 - 6 (2007) - A Hold forró jegén [részletek](_details/Fable%2C%20Vavyan.md#id_175) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/A%20Hold%20forro%20jegen%20%28175%29/A%20Hold%20forro%20jegen%20-%20Fable%2C%20Vavyan.epub)
 - 7 (2016) - Apád, anyád ide lőjön! [részletek](_details/Fable%2C%20Vavyan.md#id_179) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Apad%2C%20anyad%20ide%20lojon%21%20%28179%29/Apad%2C%20anyad%20ide%20lojon%21%20-%20Fable%2C%20Vavyan.epub)
 
 Mesemaraton:
 
-- 1 (2009) - Mesemaraton [részletek](_details/Fable%2C%20Vavyan.md#id_1151)
-- 2 (2007) - Emlékfutam [részletek](_details/Fable%2C%20Vavyan.md#id_1163)
+- 1 (2009) - Mesemaraton [részletek](_details/Fable%2C%20Vavyan.md#id_1151) [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Mesemaraton%20%281151%29/Mesemaraton%20-%20Fable%2C%20Vavyan.rtf)
+- 2 (2007) - Emlékfutam [részletek](_details/Fable%2C%20Vavyan.md#id_1163) [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Emlekfutam%20%281163%29/Emlekfutam%20-%20Fable%2C%20Vavyan.rtf)
 
 Nászjelentés:
 
-- 1 (2002) - Nászjelentés 1. [részletek](_details/Fable%2C%20Vavyan.md#id_1161)
-- 2 (2003) - Nászjelentés 2. [részletek](_details/Fable%2C%20Vavyan.md#id_1162)
+- 1 (2002) - Nászjelentés 1. [részletek](_details/Fable%2C%20Vavyan.md#id_1161) [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Naszjelentes%201_%20%281161%29/Naszjelentes%201_%20-%20Fable%2C%20Vavyan.rtf)
+- 2 (2003) - Nászjelentés 2. [részletek](_details/Fable%2C%20Vavyan.md#id_1162) [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Naszjelentes%202_%20%281162%29/Naszjelentes%202_%20-%20Fable%2C%20Vavyan.rtf)
 
 Seym és Lilia:
 
@@ -1064,15 +1069,15 @@ Seym és Lilia:
 
 Tündértánc:
 
-- 1 (2000) - Tündértánc I. [részletek](_details/Fable%2C%20Vavyan.md#id_1156)
-- 2 (2001) - Tündértánc II. [részletek](_details/Fable%2C%20Vavyan.md#id_1157)
+- 1 (2000) - Tündértánc I. [részletek](_details/Fable%2C%20Vavyan.md#id_1156) [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Tundertanc%20I_%20%281156%29/Tundertanc%20I_%20-%20Fable%2C%20Vavyan.rtf)
+- 2 (2001) - Tündértánc II. [részletek](_details/Fable%2C%20Vavyan.md#id_1157) [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Tundertanc%20II_%20%281157%29/Tundertanc%20II_%20-%20Fable%2C%20Vavyan.rtf)
 
 Vis Major:
 
 - 1 (2004) - Vis Major [részletek](_details/Fable%2C%20Vavyan.md#id_1153)
-- 2 (2008) - Kyra Eleison [részletek](_details/Fable%2C%20Vavyan.md#id_1164)
-- 4 (2008) - Vészbejárat [részletek](_details/Fable%2C%20Vavyan.md#id_1154)
-- 5 (2008) - Tíz kicsi kommandós [részletek](_details/Fable%2C%20Vavyan.md#id_1158)
+- 2 (2008) - Kyra Eleison [részletek](_details/Fable%2C%20Vavyan.md#id_1164) [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Kyra%20Eleison%20%281164%29/Kyra%20Eleison%20-%20Fable%2C%20Vavyan.rtf)
+- 4 (2008) - Vészbejárat [részletek](_details/Fable%2C%20Vavyan.md#id_1154) [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Veszbejarat%20%281154%29/Veszbejarat%20-%20Fable%2C%20Vavyan.rtf)
+- 5 (2008) - Tíz kicsi kommandós [részletek](_details/Fable%2C%20Vavyan.md#id_1158) [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Tiz%20kicsi%20kommandos%20%281158%29/Tiz%20kicsi%20kommandos%20-%20Fable%2C%20Vavyan.rtf)
 - 7 (2015) - Szamurájszív [részletek](_details/Fable%2C%20Vavyan.md#id_1014) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Szamurajsziv%20%281014%29/Szamurajsziv%20-%20Fable%2C%20Vavyan.epub)
 
 Álmok Tengere:
@@ -1084,17 +1089,17 @@ Egyéb könyvek:
 
 - (101) - Hajsza [details](_details/Fable%2C%20Vavyan.md#id_1147)
 - (1995) - My fair lord [details](_details/Fable%2C%20Vavyan.md#id_803) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/My%20fair%20lord%20%28803%29/My%20fair%20lord%20-%20Fable%2C%20Vavyan.epub)
-- (1996) - Fattyúdal [details](_details/Fable%2C%20Vavyan.md#id_1146)
-- (1998) - Jégtánc [details](_details/Fable%2C%20Vavyan.md#id_1149)
+- (1996) - Fattyúdal [details](_details/Fable%2C%20Vavyan.md#id_1146) [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Fattyudal%20%281146%29/Fattyudal%20-%20Fable%2C%20Vavyan.rtf)
+- (1998) - Jégtánc [details](_details/Fable%2C%20Vavyan.md#id_1149) [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Jegtanc%20%281149%29/Jegtanc%20-%20Fable%2C%20Vavyan.rtf)
 - (1999) - Démontangó [details](_details/Fable%2C%20Vavyan.md#id_881) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Demontango%20%28881%29/Demontango%20-%20Fable%2C%20Vavyan.epub)
-- (1999) - Vakvágta [details](_details/Fable%2C%20Vavyan.md#id_1155)
-- (2001) - Halálnak halálával [details](_details/Fable%2C%20Vavyan.md#id_1148)
+- (1999) - Vakvágta [details](_details/Fable%2C%20Vavyan.md#id_1155) [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Vakvagta%20%281155%29/Vakvagta%20-%20Fable%2C%20Vavyan.rtf)
+- (2001) - Halálnak halálával [details](_details/Fable%2C%20Vavyan.md#id_1148) [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Halalnak%20halalaval%20%281148%29/Halalnak%20halalaval%20-%20Fable%2C%20Vavyan.rtf)
 - (2008) - Kedves, mint egy kéjgyilkos [details](_details/Fable%2C%20Vavyan.md#id_1150)
-- (2009) - Sárkánykönny [details](_details/Fable%2C%20Vavyan.md#id_1160)
+- (2009) - Sárkánykönny [details](_details/Fable%2C%20Vavyan.md#id_1160) [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Sarkanykonny%20%281160%29/Sarkanykonny%20-%20Fable%2C%20Vavyan.rtf)
 - (2010) - A halál zsoldjában [details](_details/Fable%2C%20Vavyan.md#id_701) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/A%20halal%20zsoldjaban%20%28701%29/A%20halal%20zsoldjaban%20-%20Fable%2C%20Vavyan.epub)
-- (2011) - Szennyből az angyal [details](_details/Fable%2C%20Vavyan.md#id_1159)
-- (2012) - Ezüstegér [details](_details/Fable%2C%20Vavyan.md#id_1145)
-- (2013) - Édes, mint a bűn [details](_details/Fable%2C%20Vavyan.md#id_1144)
+- (2011) - Szennyből az angyal [details](_details/Fable%2C%20Vavyan.md#id_1159) [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Szennybol%20az%20angyal%20%281159%29/Szennybol%20az%20angyal%20-%20Fable%2C%20Vavyan.rtf)
+- (2012) - Ezüstegér [details](_details/Fable%2C%20Vavyan.md#id_1145) [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Ezusteger%20%281145%29/Ezusteger%20-%20Fable%2C%20Vavyan.rtf)
+- (2013) - Édes, mint a bűn [details](_details/Fable%2C%20Vavyan.md#id_1144) [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Fable%2C%20Vavyan/Edes%2C%20mint%20a%20bun%20%281144%29/Edes%2C%20mint%20a%20bun%20-%20Fable%2C%20Vavyan.rtf)
 
 ### Fazekas, László
 
@@ -1301,7 +1306,7 @@ Egyéb könyvek:
 ### Gerlóczy, Márton
 
 - (2003) - Igazolt hiányzás [details](_details/Gerl%C3%B3czy%2C%20M%C3%A1rton.md#id_1470) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerloczy%2C%20Marton/Igazolt%20hianyzas%20%281470%29/Igazolt%20hianyzas%20-%20Gerloczy%2C%20Marton.epub)
-- (2016) - Elvonókúra [details](_details/Gerl%C3%B3czy%2C%20M%C3%A1rton.md#id_1468)
+- (2016) - Elvonókúra [details](_details/Gerl%C3%B3czy%2C%20M%C3%A1rton.md#id_1468) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Gerloczy%2C%20Marton/Elvonokura%20%281468%29/Elvonokura%20-%20Gerloczy%2C%20Marton.azw3)
 - (2017) - Mikecs Anna: Altató [details](_details/Gerl%C3%B3czy%2C%20M%C3%A1rton.md#id_1469) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerloczy%2C%20Marton/Mikecs%20Anna_%20Altato%20%281469%29/Mikecs%20Anna_%20Altato%20-%20Gerloczy%2C%20Marton.epub)
 
 ### Graham Chapman
@@ -1327,7 +1332,7 @@ Sorozatok:
 
 Alapítvány:
 
-- 5 (101) - Alapítvány és Káosz [részletek](_details/Greg%20Bear.md#id_1169)
+- 5 (101) - Alapítvány és Káosz [részletek](_details/Greg%20Bear.md#id_1169) [prc](https://github.com/BercziSandor/calibre_lib/raw/main/Greg%20Bear/Alapitvany%20es%20Kaosz%20%281169%29/Alapitvany%20es%20Kaosz%20-%20Greg%20Bear.prc)
 
 ### Greg Iles
 
@@ -1339,7 +1344,7 @@ Sorozatok:
 
 Alapítvány:
 
-- 7 (101) - Az Alapítvány félelme [részletek](_details/Gregory%20Benford.md#id_1168)
+- 7 (101) - Az Alapítvány félelme [részletek](_details/Gregory%20Benford.md#id_1168) [prc](https://github.com/BercziSandor/calibre_lib/raw/main/Gregory%20Benford/Az%20Alapitvany%20felelme%20%281168%29/Az%20Alapitvany%20felelme%20-%20Gregory%20Benford.prc)
 
 ### Günter Grass
 
@@ -1571,11 +1576,6 @@ Sorozatok:
 
 - (1963) - A Himalája fia [details](_details/James%20Ramsey%20Ullman.md#id_953) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Ramsey%20Ullman/A%20Himalaja%20fia%20%28953%29/A%20Himalaja%20fia%20-%20James%20Ramsey%20Ullman.epub)
 
-### Jan Fennell
-
-- (101) - Kutyapszichológia [details](_details/Jan%20Fennell.md#id_1723) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jan%20Fennell/Kutyapszichologia%20%281723%29/Kutyapszichologia%20-%20Jan%20Fennell.epub)
-- (101) - Kutyapszichológia [details](_details/Jan%20Fennell.md#id_475) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jan%20Fennell/Kutyapszichologia%20%28475%29/Kutyapszichologia%20-%20Jan%20Fennell.epub)
-
 ### Jane Austen
 
 Sorozatok:
@@ -1603,7 +1603,7 @@ Egyéb könyvek:
 
 ### Jean-Christophe Grangé
 
-- (2011) - Bíbor folyók [details](_details/Jean-Christophe%20Grang%C3%A9.md#id_621)
+- (2011) - Bíbor folyók [details](_details/Jean-Christophe%20Grang%C3%A9.md#id_621) [prc](https://github.com/BercziSandor/calibre_lib/raw/main/Jean-Christophe%20Grange/Bibor%20folyok%20%28621%29/Bibor%20folyok%20-%20Jean-Christophe%20Grange.prc)
 
 ### Jean-Pierre Montcassen
 
@@ -1635,7 +1635,7 @@ Harry Hole:
 
 - 1 (2020) - Denevérember [részletek](_details/Jo%20Nesb%C3%B8.md#id_581) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Deneverember%20%28581%29/Deneverember%20-%20Jo%20Nesbo.epub)
 - 2 (2017) - Csótányok [részletek](_details/Jo%20Nesb%C3%B8.md#id_577) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Csotanyok%20%28577%29/Csotanyok%20-%20Jo%20Nesbo.epub)
-- 3 (2019) - Vörösbegy [részletek](_details/Jo%20Nesb%C3%B8.md#id_579)
+- 3 (2019) - Vörösbegy [részletek](_details/Jo%20Nesb%C3%B8.md#id_579) [prc](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Vorosbegy%20%28579%29/Vorosbegy%20-%20Jo%20Nesbo.prc)
 - 4 (2019) - Nemeszisz [részletek](_details/Jo%20Nesb%C3%B8.md#id_410) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Nemeszisz%20%28410%29/Nemeszisz%20-%20Jo%20Nesbo.epub)
 - 5 (2019) - Boszorkányszög [részletek](_details/Jo%20Nesb%C3%B8.md#id_412) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Boszorkanyszog%20%28412%29/Boszorkanyszog%20-%20Jo%20Nesbo.epub)
 - 6 (2019) - A megváltó [részletek](_details/Jo%20Nesb%C3%B8.md#id_592) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20megvalto%20%28592%29/A%20megvalto%20-%20Jo%20Nesbo.epub)
@@ -1772,7 +1772,7 @@ Bloody Good Books:
 ### Jostein Gaarder
 
 - (2016) - A kártya titka [details](_details/Jostein%20Gaarder.md#id_1410) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jostein%20Gaarder/A%20kartya%20titka%20%281410%29/A%20kartya%20titka%20-%20Jostein%20Gaarder.epub)
-- (2016) - Anna világa [details](_details/Jostein%20Gaarder.md#id_1411)
+- (2016) - Anna világa [details](_details/Jostein%20Gaarder.md#id_1411) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Jostein%20Gaarder/Anna%20vilaga%20%281411%29/Anna%20vilaga%20-%20Jostein%20Gaarder.azw3)
 
 ### Jurányi, Zsolt
 
@@ -1950,7 +1950,7 @@ Bölcsességek könyve:
 
 ### Vonnegut, Kurt
 
-- (101) - Az ötös számú vágóhíd [details](_details/Vonnegut%2C%20Kurt.md#id_1631) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Az%20otos%20szamu%20vagohid%20%281631%29/Az%20otos%20szamu%20vagohid%20-%20Vonnegut%2C%20Kurt.epub)
+- (101) - Az ötös számú vágóhíd [details](_details/Vonnegut%2C%20Kurt.md#id_1631) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Az%20otos%20szamu%20vagohid%20%281631%29/Az%20otos%20szamu%20vagohid%20-%20Kurt%20Vonnegut.azw3)
 - (101) - Ördögcsapda [details](_details/Vonnegut%2C%20Kurt.md#id_1632) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Ordogcsapda%20%281632%29/Ordogcsapda%20-%20Vonnegut%2C%20Kurt.epub)
 - (101) - Beszámoló a Barnhouse-effektusról [details](_details/Vonnegut%2C%20Kurt.md#id_747) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vonnegut%2C%20Kurt/Beszamolo%20a%20Barnhouse-effektusrol%20%28747%29/Beszamolo%20a%20Barnhouse-effektusr%20-%20Vonnegut%2C%20Kurt.epub)
 - (1951) - Gépzongora [details](_details/Vonnegut%2C%20Kurt.md#id_1618) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut%20Jr_/Gepzongora%20%281618%29/Gepzongora%20-%20Vonnegut%2C%20Kurt.epub)
@@ -1968,7 +1968,7 @@ Bölcsességek könyve:
 - (1999) - A hamvaskék sárkány [details](_details/Vonnegut%2C%20Kurt.md#id_1701) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vonnegut%2C%20Kurt/A%20hamvaskek%20sarkany%20%281701%29/A%20hamvaskek%20sarkany%20-%20Vonnegut%2C%20Kurt.epub)
 - (2007) - Isten hozott a majomházban! [details](_details/Vonnegut%2C%20Kurt.md#id_750) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Isten%20hozott%20a%20majomhazban%21%20%28750%29/Isten%20hozott%20a%20majomhazban%21%20-%20Kurt%20Vonnegut.epub)
 - (2007) - The Sirens of Titan: A Novel [details](_details/Vonnegut%2C%20Kurt.md#id_1621) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/The%20Sirens%20of%20Titan_%20A%20Novel%20%281621%29/The%20Sirens%20of%20Titan_%20A%20Novel%20-%20Vonnegut%2C%20Kurt.epub)
-- (2008) - Börtöntöltelék [details](_details/Vonnegut%2C%20Kurt.md#id_1613) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Bortontoltelek%20%281613%29/Bortontoltelek%20-%20Vonnegut%2C%20Kurt.epub)
+- (2008) - Börtöntöltelék [details](_details/Vonnegut%2C%20Kurt.md#id_1613) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Bortontoltelek%20%281613%29/Bortontoltelek%20-%20Kurt%20Vonnegut.azw3)
 - (2010) - A repülő macska [details](_details/Vonnegut%2C%20Kurt.md#id_1607) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/A%20repulo%20macska%20%281607%29/A%20repulo%20macska%20-%20Vonnegut%2C%20Kurt.epub)
 - (2010) - Mesterlövész / Deadeye Dick [details](_details/Vonnegut%2C%20Kurt.md#id_1131) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Mesterlovesz%20_%20Deadeye%20Dick%20%281131%29/Mesterlovesz%20_%20Deadeye%20Dick%20-%20Vonnegut%2C%20Kurt.epub)
 - (2010) - Slapstick [details](_details/Vonnegut%2C%20Kurt.md#id_1625) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Slapstick%20%281625%29/Slapstick%20-%20Vonnegut%2C%20Kurt.epub)
@@ -2368,8 +2368,8 @@ Egyéb könyvek:
 - (2005) - A napló [details](_details/Moldova%2C%20Gy%C3%B6rgy.md#id_993) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/A%20naplo%20%28993%29/A%20naplo%20-%20Moldova%2C%20Gyorgy.epub)
 - (2007) - Az Elátkozott Hivatal [details](_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1365) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Az%20Elatkozott%20Hivatal%20%281365%29/Az%20Elatkozott%20Hivatal%20-%20Moldova%2C%20Gyorgy.epub)
 - (2007) - Kádár János [details](_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1407) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Kadar%20Janos%20%281407%29/Kadar%20Janos%20-%20Moldova%2C%20Gyorgy.epub)
-- (2007) - Negyven prédikátor [details](_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1405)
-- (2007) - Sötét angyal [details](_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1378)
+- (2007) - Negyven prédikátor [details](_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1405) [prc](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Negyven%20predikator%20%281405%29/Negyven%20predikator%20-%20Moldova%2C%20Gyorgy.prc)
+- (2007) - Sötét angyal [details](_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1378) [prc](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Sotet%20angyal%20%281378%29/Sotet%20angyal%20-%20Moldova%2C%20Gyorgy.prc)
 - (2010) - Kis aljasságok lányaimnak [details](_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1408) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Kis%20aljassagok%20lanyaimnak%20%281408%29/Kis%20aljassagok%20lanyaimnak%20-%20Moldova%2C%20Gyorgy.epub)
 - (2011) - Keserű pohár I. [details](_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1389)
 - (2011) - Keserű pohár I. [details](_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1391) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Keseru%20pohar%20I_%20%281391%29/Keseru%20pohar%20I_%20-%20Moldova%2C%20Gyorgy.epub)
@@ -2379,7 +2379,7 @@ Egyéb könyvek:
 - (2014) - A nagy októberi összefogás [details](_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1362) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/A%20nagy%20oktoberi%20osszefogas%20%281362%29/A%20nagy%20oktoberi%20osszefogas%20-%20Moldova%2C%20Gyorgy.epub)
 - (2014) - Zsidómentes övezet [details](_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1394) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Zsidomentes%20ovezet%20%281394%29/Zsidomentes%20ovezet%20-%20Moldova%2C%20Gyorgy.epub)
 - (2018) - Akit a mozdony füstje megcsapott… [details](_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1377) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Akit%20a%20mozdony%20fustje%20megcsapott__%20%281377%29/Akit%20a%20mozdony%20fustje%20megcsapot%20-%20Moldova%2C%20Gyorgy.epub)
-- (2019) - Az Úr jó vitéze [details](_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1387)
+- (2019) - Az Úr jó vitéze [details](_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1387) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Az%20Ur%20jo%20viteze%20%281387%29/Az%20Ur%20jo%20viteze%20-%20Moldova%2C%20Gyorgy.azw3)
 - (2019) - Előttünk az özönvíz [details](_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1396) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Elottunk%20az%20ozonviz%20%281396%29/Elottunk%20az%20ozonviz%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Molnár, Ferenc
@@ -2388,7 +2388,7 @@ Egyéb könyvek:
 
 ### Monika Sinner
 
-- (101) - Kutyakiképzés klikkerrel [details](_details/Monika%20Sinner.md#id_1726) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Monika%20Sinner/Kutyakikepzes%20klikkerrel%20%281726%29/Kutyakikepzes%20klikkerrel%20-%20Monika%20Sinner.epub)
+- (101) - Kutyakiképzés klikkerrel [details](_details/Monika%20Sinner.md#id_1726) [djvu](https://github.com/BercziSandor/calibre_lib/raw/main/Monika%20Sinner/Kutyakikepzes%20klikkerrel%20%281726%29/Kutyakikepzes%20klikkerrel%20-%20Monika%20Sinner.djvu)
 
 ### Mózes, István Miklós
 
@@ -2638,7 +2638,7 @@ Az Úr Sötét Anyagai:
 
 ### Polcz Alaine
 
-- (2009) - Világjáték [details](_details/Polcz%20Alaine.md#id_1505)
+- (2009) - Világjáték [details](_details/Polcz%20Alaine.md#id_1505) [djvu](https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Vilagjatek%20%281505%29/Vilagjatek%20-%20Polcz%20Alaine.djvu)
 - (2018) - Főzzünk örömmel! [details](_details/Polcz%20Alaine.md#id_1506) [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Fozzunk%20orommel%21%20%281506%29/Fozzunk%20orommel%21%20-%20Polcz%20Alaine.pdf)
 - (2021) - Asszony a fronton [details](_details/Polcz%20Alaine.md#id_1443) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Asszony%20a%20fronton%20%281443%29/Asszony%20a%20fronton%20-%20Polcz%20Alaine.epub)
 
@@ -2830,7 +2830,7 @@ Egyéb könyvek:
 ### Robert Fulghum
 
 - (2008) - Már lángolt, amikor ráfeküdtem [details](_details/Robert%20Fulghum.md#id_1277)
-- (2012) - Már az óvodában megtanultam mindent, amit tudni érdemes [details](_details/Robert%20Fulghum.md#id_1302)
+- (2012) - Már az óvodában megtanultam mindent, amit tudni érdemes [details](_details/Robert%20Fulghum.md#id_1302) [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Fulghum/Mar%20az%20ovodaban%20megtanultam%20mindent%20%281302%29/Mar%20az%20ovodaban%20megtanultam%20min%20-%20Robert%20Fulghum.rtf)
 
 ### Robert Leeson
 
@@ -2963,7 +2963,7 @@ Omyno:
 
 ### Salman Rushdie
 
-- (2019) - Fúriadüh [details](_details/Salman%20Rushdie.md#id_1452)
+- (2019) - Fúriadüh [details](_details/Salman%20Rushdie.md#id_1452) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Salman%20Rushdie/Furiaduh%20%281452%29/Furiaduh%20-%20Salman%20Rushdie.azw3)
 
 ### Samantha Shannon
 
@@ -3182,7 +3182,7 @@ Egyéb könyvek:
 - (2008) - Abigél [details](_details/Szab%C3%B3%2C%20Magda.md#id_1338) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Abigel%20%281338%29/Abigel%20-%20Szabo%2C%20Magda.epub)
 - (2008) - Születésnap [details](_details/Szab%C3%B3%2C%20Magda.md#id_1337) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Szuletesnap%20%281337%29/Szuletesnap%20-%20Szabo%2C%20Magda.epub)
 - (2012) - Liber Mortis [details](_details/Szab%C3%B3%2C%20Magda.md#id_1341) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Liber%20Mortis%20%281341%29/Liber%20Mortis%20-%20Szabo%2C%20Magda.epub)
-- (2012) - Régimódi történet [details](_details/Szab%C3%B3%2C%20Magda.md#id_1356)
+- (2012) - Régimódi történet [details](_details/Szab%C3%B3%2C%20Magda.md#id_1356) [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Regimodi%20tortenet%20%281356%29/Regimodi%20tortenet%20-%20Szabo%2C%20Magda.rtf)
 - (2014) - A Danaida [details](_details/Szab%C3%B3%2C%20Magda.md#id_1350) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/A%20Danaida%20%281350%29/A%20Danaida%20-%20Szabo%2C%20Magda.epub)
 - (2014) - Tündér Lala [details](_details/Szab%C3%B3%2C%20Magda.md#id_1354)
 - (2015) - Álarcosbál [details](_details/Szab%C3%B3%2C%20Magda.md#id_1352)
@@ -3191,7 +3191,7 @@ Egyéb könyvek:
 - (2016) - Freskó [details](_details/Szab%C3%B3%2C%20Magda.md#id_1347) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Fresko%20%281347%29/Fresko%20-%20Szabo%2C%20Magda.epub)
 - (2016) - Für Elise [details](_details/Szab%C3%B3%2C%20Magda.md#id_1339) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Fur%20Elise%20%281339%29/Fur%20Elise%20-%20Szabo%2C%20Magda.epub)
 - (2016) - Mondják meg Zsófikának [details](_details/Szab%C3%B3%2C%20Magda.md#id_1346) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Mondjak%20meg%20Zsofikanak%20%281346%29/Mondjak%20meg%20Zsofikanak%20-%20Szabo%2C%20Magda.epub)
-- (2016) - Ókút [details](_details/Szab%C3%B3%2C%20Magda.md#id_1349)
+- (2016) - Ókút [details](_details/Szab%C3%B3%2C%20Magda.md#id_1349) [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Okut%20%281349%29/Okut%20-%20Szabo%2C%20Magda.rtf)
 - (2017) - Magdaléna [details](_details/Szab%C3%B3%2C%20Magda.md#id_1342) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Magdalena%20%281342%29/Magdalena%20-%20Szabo%2C%20Magda.epub)
 - (2017) - Zeusz küszöbén [details](_details/Szab%C3%B3%2C%20Magda.md#id_1343) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Zeusz%20kuszoben%20%281343%29/Zeusz%20kuszoben%20-%20Szabo%2C%20Magda.epub)
 - (2019) - Csigaház [details](_details/Szab%C3%B3%2C%20Magda.md#id_1345) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Csigahaz%20%281345%29/Csigahaz%20-%20Szabo%2C%20Magda.epub)

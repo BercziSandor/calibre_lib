@@ -12,6 +12,9 @@ amerikai szerző, esszé, magyar nyelvű, pszichológia
 # <a name="id_1302">Robert Fulghum: Már az óvodában megtanultam mindent, amit tudni érdemes (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Fulghum/Mar%20az%20ovodaban%20megtanultam%20mindent%20%281302%29/cover.jpg" alt="cover" width="300"/>
 
+### Letöltés
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Fulghum/Mar%20az%20ovodaban%20megtanultam%20mindent%20%281302%29/Mar%20az%20ovodaban%20megtanultam%20min%20-%20Robert%20Fulghum.rtf)
+
 ### Tagek
 amerikai szerző, bölcsesség, elbeszélés, életfilozófia, életmód, esszé, humoros, kortárs, magyar nyelvű, önsegítő
 

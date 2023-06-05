@@ -16,7 +16,8 @@ Egy krími üdülőhelyen alkoholmérgezést kap a helyi lakosság véréből pr
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20tervhivatal%20hercege%20-%20Elbeszelese%20%28835%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20tervhivatal%20hercege%20-%20Elbeszelese%20%28835%29/A%20tervhivatal%20hercege%20-%20Elbesze%20-%20Viktor%20Pelevin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20tervhivatal%20hercege%20-%20Elbeszelese%20%28835%29/A%20tervhivatal%20hercege%20-%20Elbesze%20-%20Viktor%20Pelevin.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20tervhivatal%20hercege%20-%20Elbeszelese%20%28835%29/A%20tervhivatal%20hercege%20-%20Elbesze%20-%20Viktor%20Pelevin.rtf)
 
 ### Tagek
 irodalom, szépirodalom
@@ -100,7 +101,8 @@ Romannak – immár II. Rama néven – sok mindent meg kell tanulnia, hogy igaz
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/P5%20-%20Pindosztan%20politikai%20pigmeusai%20%28832%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/P5%20-%20Pindosztan%20politikai%20pigmeusai%20%28832%29/P5%20-%20Pindosztan%20politikai%20pigme%20-%20Viktor%20Pelevin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/P5%20-%20Pindosztan%20politikai%20pigmeusai%20%28832%29/P5%20-%20Pindosztan%20politikai%20pigme%20-%20Viktor%20Pelevin.epub) 
+ [prc](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/P5%20-%20Pindosztan%20politikai%20pigmeusai%20%28832%29/P5%20-%20Pindosztan%20politikai%20pigme%20-%20Viktor%20Pelevin.prc)
 
 ### Tagek
 elbeszélés, orosz szerző, groteszk, magyar nyelvű, novels, novella
@@ -131,7 +133,8 @@ fantasy, kaland, kortárs, magyar nyelvű, mitológia, orosz szerző
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Az%20agyag%20geppuska%20%28834%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Az%20agyag%20geppuska%20%28834%29/Az%20agyag%20geppuska%20-%20Viktor%20Pelevin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Az%20agyag%20geppuska%20%28834%29/Az%20agyag%20geppuska%20-%20Viktor%20Pelevin.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Az%20agyag%20geppuska%20%28834%29/Az%20agyag%20geppuska%20-%20Viktor%20Pelevin.rtf)
 
 ### Tagek
 szépirodalom, 1910-es évek, irodalom, japán (ország), novella, orosz szerző, 20. század, regény, szatíra, 1001 könyv listán szerepel, elmegyógyintézet, magyar nyelvű, kortárs, oroszország, buddhizmus, álom

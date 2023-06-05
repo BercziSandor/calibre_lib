@@ -16,7 +16,8 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dmitry%20Glukhovsky/Metro%202034%20%28355%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dmitry%20Glukhovsky/Metro%202034%20%28355%29/Metro%202034%20-%20Dmitry%20Glukhovsky.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dmitry%20Glukhovsky/Metro%202034%20%28355%29/Metro%202034%20-%20Dmitry%20Glukhovsky.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Dmitry%20Glukhovsky/Metro%202034%20%28355%29/Metro%202034%20-%20Dmitry%20Glukhovsky.rtf)
 
 ### Tagek
 21. század, apokalipszis, atomháború, disztópia, erőszak, fegyverek, halál, horror, kortárs, magyar nyelvű, metró, moszkva, orosz szerző, oroszország, posztapokaliptikus, regény, sci-fi, sorozat része, thriller, váltott szemszög, science fiction

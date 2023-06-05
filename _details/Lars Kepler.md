@@ -2,7 +2,8 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/A%20hipnotizor%20%281681%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/A%20hipnotizor%20%281681%29/A%20hipnotizor%20-%20Lars%20Kepler.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/A%20hipnotizor%20%281681%29/A%20hipnotizor%20-%20Lars%20Kepler.epub) 
+ [prc](https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/A%20hipnotizor%20%281681%29/A%20hipnotizor%20-%20Lars%20Kepler.prc)
 
 ### Tagek
 mystery, thriller, crime, suspense

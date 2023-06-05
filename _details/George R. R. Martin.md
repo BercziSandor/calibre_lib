@@ -2,7 +2,8 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Tronok%20harca%20%28420%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Tronok%20harca%20%28420%29/Tronok%20harca%20-%20George%20R.%20R.%20Martin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Tronok%20harca%20%28420%29/Tronok%20harca%20-%20George%20R.%20R.%20Martin.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Tronok%20harca%20%28420%29/Tronok%20harca%20-%20George%20R.%20R.%20Martin.rtf)
 
 ### Tagek
 fantasy, general, fiction
@@ -17,7 +18,8 @@ Martin legnagyobb erőssége hogy meg tudja újítani, élettel tölti fel azt a
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Kiralyok%20csataja%20%28418%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Kiralyok%20csataja%20%28418%29/Kiralyok%20csataja%20-%20George%20R.%20R.%20Martin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Kiralyok%20csataja%20%28418%29/Kiralyok%20csataja%20-%20George%20R.%20R.%20Martin.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Kiralyok%20csataja%20%28418%29/Kiralyok%20csataja%20-%20George%20R.%20R.%20Martin.rtf)
 
 ### Tagek
 fantasy, boszorkány, halál, kortárs, gyilkosság, erőszak, kalandregény, lovag, kaland, háború, drámai cselekmény, filmadaptáció, dark fantasy, locus-díj, epikus fantasy, felnőtt tartalom, grimdark, antihős, amerikai szerző, alkímia
@@ -33,7 +35,8 @@ A Királyok csatája merész, ötletes és bámulatos képzelőerővel megalkoto
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Kardok%20vihara%20%28424%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Kardok%20vihara%20%28424%29/Kardok%20vihara%20-%20George%20R.%20R.%20Martin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Kardok%20vihara%20%28424%29/Kardok%20vihara%20-%20George%20R.%20R.%20Martin.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Kardok%20vihara%20%28424%29/Kardok%20vihara%20-%20George%20R.%20R.%20Martin.rtf)
 
 ### Tagek
 politika, fantasy, boszorkány, halál, kortárs, gyilkosság, szépirodalom, erőszak, lovag, regény, mágia, kaland, háború, drámai cselekmény, magyar nyelvű, filmadaptáció, dark fantasy, szórakoztató irodalom, locus-díj, grimdark, antihős, amerikai szerző

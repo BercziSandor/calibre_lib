@@ -1,6 +1,9 @@
 # <a name="id_1451">Cixin Liu: A háromtest-probléma (A háromtest-trilógia 1) (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Cixin%20Liu/A%20haromtest-problema%20%281451%29/cover.jpg" alt="cover" width="300"/>
 
+### Letöltés
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Cixin%20Liu/A%20haromtest-problema%20%281451%29/A%20haromtest-problema%20-%20Cixin%20Liu.azw3)
+
 ### Tagek
 kínai szerző, kortárs, sorozat része, összeesküvés-elmélet, virtuális valóság, regény, földönkívüliek, kínai, magyar nyelvű, fizika, filmadaptáció, hard sci-fi, hugo-díj, természettudomány, kozmológia, sci-fi
 

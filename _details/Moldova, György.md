@@ -532,6 +532,9 @@ Tízévi munkám fekszik ebben a könyvben, de nagy megtiszteltetésnek tekinten
 # <a name="id_1405">Moldova, György: Negyven prédikátor (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Negyven%20predikator%20%281405%29/cover.jpg" alt="cover" width="300"/>
 
+### Letöltés
+[prc](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Negyven%20predikator%20%281405%29/Negyven%20predikator%20-%20Moldova%2C%20Gyorgy.prc)
+
 ### Tagek
 17. század, 303 magyar regény, ellenreformáció, magyar nyelvű, magyar szerző, protestáns, protestantizmus, reformáció, regény, regényes életrajz, történelem, történelmi regény, vallás, historical fiction
 
@@ -542,6 +545,9 @@ Tízévi munkám fekszik ebben a könyvben, de nagy megtiszteltetésnek tekinten
 
 # <a name="id_1378">Moldova, György: Sötét angyal (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Sotet%20angyal%20%281378%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[prc](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Sotet%20angyal%20%281378%29/Sotet%20angyal%20-%20Moldova%2C%20Gyorgy.prc)
 
 ### Tagek
 1950-es évek, 1956, 20. század, fiatalkor, forradalom, kommunizmus, magyar nyelvű, magyar szerző, regény, general fiction
@@ -667,6 +673,9 @@ humoros, illusztrált, magyar nyelvű, magyar szerző, politika, regény, szatí
 
 # <a name="id_1387">Moldova, György: Az Úr jó vitéze (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Az%20Ur%20jo%20viteze%20%281387%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Moldova%2C%20Gyorgy/Az%20Ur%20jo%20viteze%20%281387%29/Az%20Ur%20jo%20viteze%20-%20Moldova%2C%20Gyorgy.azw3)
 
 ### Tagek
 magyar nyelvű, magyar szerző, tényfeltáró riport

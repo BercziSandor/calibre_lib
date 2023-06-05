@@ -64,7 +64,8 @@ irodalom, szórakoztató irodalom
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Haybodyt%20nem%20lehet%20agyonutni%20%28855%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Haybodyt%20nem%20lehet%20agyonutni%20%28855%29/Haybodyt%20nem%20lehet%20agyonutni%20-%20Aszlanyi%2C%20Karoly.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Haybodyt%20nem%20lehet%20agyonutni%20%28855%29/Haybodyt%20nem%20lehet%20agyonutni%20-%20Aszlanyi%2C%20Karoly.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Haybodyt%20nem%20lehet%20agyonutni%20%28855%29/Haybodyt%20nem%20lehet%20agyonutni%20-%20Aszlanyi%2C%20Karoly.rtf)
 
 ### Tagek
 irodalom, szépirodalom
@@ -96,7 +97,8 @@ irodalom, szórakoztató irodalom, 20. század, próza, regény
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Kalandos%20vakacio%20%28787%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Kalandos%20vakacio%20%28787%29/Kalandos%20vakacio%20-%20Aszlanyi%2C%20Karoly.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Kalandos%20vakacio%20%28787%29/Kalandos%20vakacio%20-%20Aszlanyi%2C%20Karoly.epub) 
+ [prc](https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Kalandos%20vakacio%20%28787%29/Kalandos%20vakacio%20-%20Aszlanyi%2C%20Karoly.prc)
 
 ### Tagek
 gyermek- és ifjúsági irodalom, ifjúsági, illusztrált

@@ -2,7 +2,8 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Eric%20Berne/Szex%20a%20szerelemben%20%28905%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Eric%20Berne/Szex%20a%20szerelemben%20%28905%29/Szex%20a%20szerelemben%20-%20Eric%20Berne.epub)
+[djvu](https://github.com/BercziSandor/calibre_lib/raw/main/Eric%20Berne/Szex%20a%20szerelemben%20%28905%29/Szex%20a%20szerelemben%20-%20Eric%20Berne.djvu) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Eric%20Berne/Szex%20a%20szerelemben%20%28905%29/Szex%20a%20szerelemben%20-%20Eric%20Berne.epub)
 
 ### Tagek
 kanadai szerző, magyar nyelvű, párkapcsolat, pszichológia, társas kapcsolatok, társ. tudományok

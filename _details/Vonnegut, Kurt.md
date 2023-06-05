@@ -2,7 +2,8 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Az%20otos%20szamu%20vagohid%20%281631%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Az%20otos%20szamu%20vagohid%20%281631%29/Az%20otos%20szamu%20vagohid%20-%20Vonnegut%2C%20Kurt.epub)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Az%20otos%20szamu%20vagohid%20%281631%29/Az%20otos%20szamu%20vagohid%20-%20Kurt%20Vonnegut.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Az%20otos%20szamu%20vagohid%20%281631%29/Az%20otos%20szamu%20vagohid%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Összefoglalás
 <div>
@@ -21,7 +22,8 @@
 
 # <a name="id_747">Vonnegut, Kurt: Beszámoló a Barnhouse-effektusról </a>
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vonnegut%2C%20Kurt/Beszamolo%20a%20Barnhouse-effektusrol%20%28747%29/Beszamolo%20a%20Barnhouse-effektusr%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vonnegut%2C%20Kurt/Beszamolo%20a%20Barnhouse-effektusrol%20%28747%29/Beszamolo%20a%20Barnhouse-effektusr%20-%20Vonnegut%2C%20Kurt.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Vonnegut%2C%20Kurt/Beszamolo%20a%20Barnhouse-effektusrol%20%28747%29/Beszamolo%20a%20Barnhouse-effektusr%20-%20Vonnegut%2C%20Kurt.rtf)
 
 # <a name="id_1618">Vonnegut, Kurt: Gépzongora (1951)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut%20Jr_/Gepzongora%20%281618%29/cover.jpg" alt="cover" width="300"/>
@@ -42,6 +44,7 @@ science fiction, classics, humour, fantasy, utópia, sci-fi
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Harrison%20Bergeron%20%28748%29/Harrison%20Bergeron%20-%20Kurt%20Vonnegut.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Harrison%20Bergeron%20%28748%29/Harrison%20Bergeron%20-%20Kurt%20Vonnegut.rtf) 
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Harrison%20Bergeron%20%28748%29/Harrison%20Bergeron%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
@@ -198,6 +201,7 @@ science fiction, classics, humour, anthologies
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Isten%20hozott%20a%20majomhazban%21%20%28750%29/Isten%20hozott%20a%20majomhazban%21%20-%20Kurt%20Vonnegut.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Isten%20hozott%20a%20majomhazban%21%20%28750%29/Isten%20hozott%20a%20majomhazban%21%20-%20Kurt%20Vonnegut.rtf) 
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Isten%20hozott%20a%20majomhazban%21%20%28750%29/Isten%20hozott%20a%20majomhazban%21%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
@@ -225,7 +229,8 @@ fiction, literary, science fiction, space opera, satire
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Bortontoltelek%20%281613%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Bortontoltelek%20%281613%29/Bortontoltelek%20-%20Vonnegut%2C%20Kurt.epub)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Bortontoltelek%20%281613%29/Bortontoltelek%20-%20Kurt%20Vonnegut.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kurt%20Vonnegut/Bortontoltelek%20%281613%29/Bortontoltelek%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Összefoglalás
 <div>
