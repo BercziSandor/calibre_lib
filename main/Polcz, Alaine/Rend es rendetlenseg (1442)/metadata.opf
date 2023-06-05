@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1442</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f041fba0-275f-402b-9b38-e9961641a585</dc:identifier>
+        <dc:title>Rend és rendetlenség</dc:title>
+        <dc:creator opf:file-as="Polcz, Alaine" opf:role="aut">Polcz, Alaine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Polcz ​Alaine kötete – mint valamennyi hasonló indíttatású könyve – életvezetési kalauz. Az író-pszichológus szerző hatalmas élet- és szakmai tapasztalatát felhasználva azonban nem recepteket kínál, hanem együtt-gondolkodásra készteti olvasóját azokról a csak látszólag trivilis dolgokról, tennivalókról, jelenségekről, amelyek mindennapi életminőségünket, hangulatunkat, komfortérzésünket alapvetően meghatározzák. A körülöttünk lévő-alakuló-változó és létező rend- és rendetlenség-állapot átgondolásához kínál megfontolandó – életből vett – példákat. Nem ítélkezik, nem dönt, csak mintákat mutat be és sorjáz – hiteles egyes szám első személyű vallomásokkal illusztrálva. Mégsem egy reprezentatív, szociológiai felmérés végeredménye ez a könyv, hiszen a benne megszólaló – rendetlenségükkel vagy éppen rendjükkel küzdő – személyek a névtelenségüket megőrizve is valós individuumok, akiknek sorsa-élete éppen a legszűkebb környezetük, otthonuk, munkahelyük rendtartásának őszintén önkritikus leírásával válik megfoghatóvá, azaz hol elborzasztóan taszítóvá, vagy átélhetően elfogadhatóvá, modell-értékűvé.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Jelenkor</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">polcz-alaine-rend-es-rendetlenseg</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Ha37GAAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789636764302</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>életmód</dc:subject>
+        <dc:subject>erdélyi magyar szerző</dc:subject>
+        <dc:subject>ismeretterjesztő</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>pszichológia</dc:subject>
+        <dc:subject>szociálpszichológia</dc:subject>
+        <dc:subject>tanulmány</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Lifestyle</dc:subject>
+        <dc:subject>Self-help</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Polcz, Alaine&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-09-30T18:26:07+00:00"/>
+        <meta name="calibre:title_sort" content="Rend és rendetlenség"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

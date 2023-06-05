@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">389</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0aeb8cb-ab73-4968-af33-be1ddbbc4314</dc:identifier>
+        <dc:title>Egyetemista lány támogatót keres</dc:title>
+        <dc:creator opf:file-as="Szilvia, Nagy &amp; Eszter, Szabó Anna" opf:role="aut">Nagy, Szilvia</dc:creator>
+        <dc:creator opf:file-as="Szilvia, Nagy &amp; Eszter, Szabó Anna" opf:role="aut">Szabó, Anna Eszter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Lányok ​a szomszédból. Diákok. Csinosak és fiatalok. Diplomára, jó életre, boldogságra vágynak. Olyanok, mint bármelyik „húszas csaj”. Másfelől nagyon is mások. Lili, Zsófi, Heni és Frida prostituáltak. Egyetemista lányok, akik a szexből élnek. Függetlenek, okosak és megválogatják, kivel fekszenek le. De ettől még prostik. A szerzők, akiknek sikerült elnyerniük a lányok bizalmát, bevezetik az olvasót különös világukba, végigkövetjük útjukat a kezdeti bizonytalan lépésektől a vidéki masszázsszalonig, a pesti swinger klubig és a svájci „kiküldetésig”. Fájó társadalmi jelenség? Egy újfajta életforma fiatal lányoknak? Döntsék el Önök!&lt;br&gt;Két fiatal újságírónő: Nagy Szilvia, a Velvet.hu szerkesztője és Szabó Anna Eszter, a Színház és Filmművészeti Egyetem végzős hallgatója hónapokat töltöttek olyan, velük majdnem egykorú lányokkal, akik tanulmányaikat vagy éppen az áhított életszínvonalat így finanszírozzák. A megdöbbentően őszinte, szókimondó, olykor leplezetlen szexuálist tartalmazó könyvet csak felnőtt olvasóinknak ajánljuk.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>XXI. Század</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">nagy-szilvia-szabo-anna-eszter-egyetemista-lany-tamogatot-keres</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>prostitúció</dc:subject>
+        <dc:subject>szociológia</dc:subject>
+        <dc:subject>társadalom</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nagy, Szilvia&quot;: &quot;&quot;, &quot;Szabó, Anna Eszter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2013-01-25T21:39:20+00:00"/>
+        <meta name="calibre:title_sort" content="Egyetemista lány támogatót keres"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

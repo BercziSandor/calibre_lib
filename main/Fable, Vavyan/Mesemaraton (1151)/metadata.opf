@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1151</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15845d7c-1c96-46ee-9a61-ac149cd8f35d</dc:identifier>
+        <dc:title>Mesemaraton</dc:title>
+        <dc:creator opf:file-as="Fable, Vavyan" opf:role="aut">Fable, Vavyan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-18T00:00:00+00:00</dc:date>
+        <dc:description>VIGYÁZAT: ​NEM MESEKÖNYV! 
+Burleszk, paródia, karikatúra ÉS kalandregény. Hella Postor, a vagány, idős milliomosnő éjjel-nappal tequilát iszik, s közben lovasversenyt szervez fantasztikus terepen, mesés fődíjjal (egymillió fabatka). Szinte a rajt előtt belebotlik Athénába, fiatalkori önmaga hasonmásába. Nagylelkűen meghívja őt és Don Jarrat-t a Mesemaratonra. Ha egymásra találnak, öröklik hatalmas vagyonát. A kiszemelt vőlegénynek van egy szépséghibája: maffiózó. És éppen bajban van egy eltűnt heroinszállítmány miatt. A verseket mormogó és bohócságát mindinkább föladó Athéna az öreg hölgy testőréhez vonzódik: Michel Redfordhoz, aki öltözzön bár navaho törzsfőnöknek vagy pirosbabos szoknyás nőimitátornak, szívdobogtatóbb fickó. Rossz Arcot, Don Jarrat vérszomjas gorilláját is fölajzza, ezért olykor menekülni, olykor támadni kényszerül. Ott van a versenyen Fabre Chant, a mozisztár és három bohókás játékzsoldosa, a lila bugyigókról álmodó Gille Barry, a hamvas apródokra vadászó Lady Norris – és Daler Canev, aki időnként átmenetileg elhalálozik, s ha mégsem, megbokrosodik a lova. Kísérőik: FBI-ügynökök, filmesek, bérgyilkosok. Szerelmek, hajszák, kalandok. Képtelenségek. Gegek. Buszon, villamoson, metrón olvasni nem tanácsos. Feltűnő. Evés közben végzetes lehet.</dc:description>
+        <dc:publisher>Fabyen</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">vavyan-fable-mesemaraton</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789639300309</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>hangoskönyv</dc:subject>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>kalandregény</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>Nagy Könyv</dc:subject>
+        <dc:subject>paródia</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>szatíra</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fable, Vavyan&quot;: &quot;https://hu.wikipedia.org/wiki/Vavyan_Fable&quot;}"/>
+        <meta name="calibre:series" content="Mesemaraton"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-03-27T09:02:35+00:00"/>
+        <meta name="calibre:title_sort" content="Mesemaraton"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;RTF&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

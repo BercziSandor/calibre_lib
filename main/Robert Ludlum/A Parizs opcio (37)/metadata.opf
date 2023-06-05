@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef644f5a-f553-4fdc-93c0-3f6cd4772703</dc:identifier>
+        <dc:title>A Párizs opció</dc:title>
+        <dc:creator opf:file-as="Ludlum, Robert &amp; Lynds, Gayle" opf:role="aut">Robert Ludlum</dc:creator>
+        <dc:creator opf:file-as="Ludlum, Robert &amp; Lynds, Gayle" opf:role="aut">Gayle Lynds</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-21T23:00:00+00:00</dc:date>
+        <dc:description>A tudományos világban általánosan elterjedt vélemény szerint még évek kellenek hozzá, hogy valaki megalkosson egy működőképes, a szilikonalapúnál nagyságrendekkel gyorsabb és nagyobb erejű DNS-komputert. És mégis, a csendes-óceáni Diego Garcia amerikai támaszpont radarernyőiről teljes öt percre eltűnnek a környéken járőröző repülőgépek, és nem tud magyarázatot adni rá senki. Az USA nyugati részén leáll az áramellátás, és minden távközlési összeköttetés, ennek összes tragikus következményével. Washington kezdetben egy szokatlanul ügyes hackerre – számítógépkalózra – gyanakszik, a hivatalos közleménye is erről szól, de a szakemberek tudják, hogy csak egy DNS-számítógép képes előidézni ilyen méretű zavarokat…</dc:description>
+        <dc:publisher>I.P.C.</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">robert-ludlum-gayle-lynds-a-parizs-opcio</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9636352852</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>amerikai</dc:subject>
+        <dc:subject>akció</dc:subject>
+        <dc:subject>kaland</dc:subject>
+        <dc:subject>kémregény</dc:subject>
+        <dc:subject>misztikus</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Ludlum&quot;: &quot;&quot;, &quot;Gayle Lynds&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Covert-One"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2012-11-13T14:29:54+00:00"/>
+        <meta name="calibre:title_sort" content="Párizs opció, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

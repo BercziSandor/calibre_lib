@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">79</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45bb10dd-dd44-4d1c-ade4-5c5aaabee2f1</dc:identifier>
+        <dc:title>Tíz kicsi néger</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A krimi angol "királynője" a műfaj úgyszólván minden változatával megpróbálkozott; írt például detektív és nyomozás nélküli thrillereket is. Ezek közé tartozik egyik legnépszerűbb (filmen és színpadi változatban is nagy sikert aratott) könyve, a Tíz kicsi néger. A Devonshire partjainál fekvő kis Néger-sziget luxusvillájába az új tulajdonos nyolc vendéget hív: egy bírót, egy aranyifjút, egy öreg tábornokot, egy vénkisasszonyt, egy tornatanárnőt, egy rendőrt, egy kalandort és egy orvost - ügyesen kitalált ürügyekkel. A vendégeket a szigeten csak az inas és felesége, a szakácsnő fogadja - a házigazda csak később tud jönni, mondják. A vendégek fura gyermekversikéket találnak szobájukban a tíz kicsi néger szomorú sorsáról, a vacsoraasztalt pedig tíz kicsi néger figura díszíti. Vacsora után robban a bomba: megszólal egy hanglemez, amely mind a tíz jelenlévőt gyilkossággal vádolja. A szakácsnő és az aranyifjú még az éjjel meghal, ráadásul két néger figura is eltűnik az asztalról. Reggelre vihar tör ki, a társaságot elvágja a külvilágtól, s hiába kutatják át a szigetet, rajtuk kívül nincs ott senki - azt tehát, aki gyilkossággal vádolja és sorban kivégzi őket, maguk között kell keresniük. Minden napra akad is egy-két változatos halállal kimúló áldozat (éppen a gyermekversike módszere szerint), a feszültség nő, míg végül a vihar elmúltával a szigetre érkező rendőrség csak tíz holttestet talál. A rejtélyt pedig végül egy palackpostával érkező levél oldja meg...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">agatha-christie-tiz-kicsi-neger</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789634053545</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">8UnrwQEACAAJ</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>1930-as évek</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>Anglia</dc:subject>
+        <dc:subject>angol szerző</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>gyilkosság</dc:subject>
+        <dc:subject>hangoskönyv</dc:subject>
+        <dc:subject>klasszikus</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>Nagy Könyv</dc:subject>
+        <dc:subject>nyár</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozatgyilkosság</dc:subject>
+        <dc:subject>sziget</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Agatha Christie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2012-11-15T20:26:59+00:00"/>
+        <meta name="calibre:title_sort" content="Tíz kicsi néger"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

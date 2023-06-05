@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1375</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">00497d9f-fadb-477f-b86e-2f6b86283370</dc:identifier>
+        <dc:title>Magányos pavilon / Az elbocsátott légió</dc:title>
+        <dc:creator opf:file-as="Moldova, György" opf:role="aut">Moldova, György</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1989-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Magányos ​pavilon&lt;br&gt;1956. október 26-án a hűvösvölgyi „Christián Pál” klinikán a késő esti órákban revolveres férfi követeli egy katona elsősegélyes gyógykezelését. Nagy Zsófia – a kórház vezető nővére – magához téríti az eszméletlen sebesültet, majd a viharkabátos férfival együtt a kapuhoz támogatja őt. Ezután – hirtelen támadt elhatározással – a kórház kertjében megbúvó „magányos pavilon”-ban, saját szobájában rejti el a kimerült férfit a felkelők üldözése elől.&lt;br&gt;Ki ez a titokzatos férfi, aki sebesült karral a mások életét menti? Hogyan viselkedik az országos veszély napjaiban a vérbeli forradalmár? Miért támad szerelem a nyugalmas életű ápolónő szívében a megnyugodni nem tudó, másokért lobogó férfi iránt?&lt;br&gt;Az elbocsátott légió&lt;br&gt;Smidt Flórián, az egykori parasztfiúból lett katonatiszt megjárta a Rákosi-korszak börtöneit és internálótáborát. 1956. októberében könnyen megtalálja a jellemének megfelelő cselekvési formát – aki olvasta a Magányos pavilon című regényemet, ismeri életének ezt a szakaszát –, de mihez kezd forradalmár természete a békés és ellentmondásos években?&lt;br&gt;Útja fenyegetések és pusztulás között kanyarog, látja régi bajtársainak tönkrement életét, a rendszer megbúvó és nyílt ellenségeit, találkozik az Államvédelmi Hatóság egykori embereivel.&lt;br&gt;Magánéletét látszólag rendbe hozza a szerelmével, Nagy Zsófiával kötött házasság, de itt sem kerülheti el a tragédiákat.&lt;br&gt;Vajon minden fájdalom, bánat, sértődés után is megmarad-e Flórián annak a forradalmárnak, aki még húsz évvel ezelőtt elindult, hogy megvédje az újországot, a nép hatalmát?&lt;br&gt;„Hősnek azt az embert nevezzük, aki középpontjából kimozdíthatatlan” – mondja egy amerikai bölcselő, vagyis mindig jelleme alapvető előírásai szerint cselekszik. Jó volna hinni, hogy Smidt Flórián sorsa ugyanezt példázza.&lt;br&gt;Moldova György&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Magvető</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">moldova-gyorgy-maganyos-pavilon-az-elbocsatott-legio</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9631415961</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>1956</dc:subject>
+        <dc:subject>1960-as évek</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>forradalom</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>szocializmus</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Moldova, György&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-02-22T12:20:27+00:00"/>
+        <meta name="calibre:title_sort" content="Magányos pavilon / Az elbocsátott légió"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

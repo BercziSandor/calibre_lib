@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1705</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">97819957-c110-4984-8b8c-4fde89e53f59</dc:identifier>
+        <dc:title>A nagy aranyrablás</dc:title>
+        <dc:creator opf:file-as="Nesbø, Jo" opf:role="aut">Jo Nesbø</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Amikor egy orosz milliárdos elrabolja Norvégia aranytartalékát, és a maradék aranyrudat is beolvasztja a Premier Foci Liga kupájába, Doktor Proktorra, Bullére és Lisére vár, hogy megszerezze az utolsó bizonyítékot, és megmentse Norvégiát. &lt;br&gt;De mivel a milliárdos aranyolvasztó laboratóriumába nem sikerül bejutniuk, csak úgy tudják megkaparintani a kupát ha visszanyerik! Remélve, hogy elkerülhetik a nemzeti pánikot, Bulle és Lise csatlakozik egy focicsapathoz és beveti a pukipor erejét is. Talán Doktor Proktor újabb félresikerült találmányaival sikerül győzelemre vinniük ezt a kutyaütő csapatot, mielőtt késő lesz &lt;br&gt;&lt;br&gt;A világhírű skandináv krimiíró Doktor Proktor-sorozatát már több mint 20 nyelvre fordították le. A főszereplők fergeteges kalandjait elképesztő fordulatok, abszurd humor és a Nesbo-féle különleges atmoszféra teszi feledhetetlenné. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">5872b1d1-0bf4-4c47-9b93-38882c081509</dc:identifier>
+        <dc:language>hun</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jo Nesbø&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-21T03:54:56.415053+00:00"/>
+        <meta name="calibre:title_sort" content="nagy aranyrablás, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;MOBI&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

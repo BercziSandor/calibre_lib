@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">966</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c3b20f70-419f-4e5e-8430-f587aec80ad7</dc:identifier>
+        <dc:title>Eszem, tehát vagyok</dc:title>
+        <dc:creator opf:file-as="Spencer, Bud &amp; Luca, Lorenzo de" opf:role="aut">Bud Spencer</dc:creator>
+        <dc:creator opf:file-as="Spencer, Bud &amp; Luca, Lorenzo de" opf:role="aut">Lorenzo de Luca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-20T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Aki nem eszik, nem tud gondolkodni, következésképp létezni sem, ez biztos – legalábbis Bud Spencer szerint.&lt;br&gt;Ebben a rendkívüli könyvben a híres filmsztár és sikerszerző humorral fűszerezve ötvözi a gondolkodás művészetét a főzés művészetével. Egyik legnagyobb szenvedélye, az evés, számára a létezés középpontja. Véleményét tizenkét tekintélyes gondolkodó előtt védi meg, akik álmában látogatják meg.&lt;br&gt;Humorral és iróniával teli, káprázatos szellemi párbajt vív olyan neves filozófusokkal, mint Szókratész, Konfuciusz vagy Immanuel Kant. Ha pedig cserbenhagyják a szavak, akkor ínycsiklandó olasz ételkülönlegességeket készít vendégeinek, a tészta- és halételektől a jellegzetes nápolyi süteményekig, mire jóllakottan és elégedetten kiegyeznek.&lt;br&gt;Bud Spencer különleges könyve arra ösztönöz, hogy együtt nevessünk és főzzünk vele, miközben egyre inkább elhiteti velünk, hogy teli hassal minden könnyebb.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Libri</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">bud-spencer-lorenzo-de-luca-eszem-tehat-vagyok</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">b5484de3-b6ee-4037-8e42-f004f95c2098</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789633105894</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>filozófia</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>olasz szerző</dc:subject>
+        <dc:subject>gasztronómia</dc:subject>
+        <dc:subject>szakácskönyv</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bud Spencer&quot;: &quot;&quot;, &quot;Lorenzo de Luca&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2016-05-25T07:26:01+00:00"/>
+        <meta name="calibre:title_sort" content="Eszem, tehát vagyok"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

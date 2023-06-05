@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1228</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">641155a0-dca7-4d9f-b6cb-4f7d643d1130</dc:identifier>
+        <dc:title>Jelmezbál</dc:title>
+        <dc:creator opf:file-as="Grecsó, Krisztián" opf:role="aut">Grecsó, Krisztián</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-15T09:08:14+00:00</dc:date>
+        <dc:description>Az ötödik Grecsó-regény e-book előzetessel és "bemelegítő" - kb. negyven oldalas - felvezetéssel (Jelmezbál előtt; Budapest, Magvető, 2016) került az olvasók elé ez év elején. Ebben talányos bűnügyi történetet ismerhettünk meg, amely látszólag véget ért, szereplői azonban felbukkannak a jelen nagyregényben, a Jelmezbálban. Valójában ez az ízelítő a nagy egész, egy családregény első mozaikja volt. A történetben két lányt holtan találnak egy alföldi faluban valamikor az 1960-as években. A harmadik még él, amikor rábukkannak, de mire odaér az orvos, a sebesült lány eltűnik. Szerelme, a fiatal rendőr évtizedek múlva, Budapesten, egy különös találkozás után jön rá az igazságra. E homályos bűnügyi történetből bomlanak ki a családregény szálai. Grecsó Krisztián napjainkig nyúló történetének főszereplői ezúttal nők: unokák, nagymamák, feleségek. Élik az életüket, keresik egymást, önmagukat vagy épp a vér szerinti anyjukat. Elköltöznek, visszatérnek - szerelem, árulás, alakoskodás, hit és féltékenység van az életükben. Tehát asszonyok sorsán keresztül láthatjuk a családok életének alakulását. Ez a női látásmód tulajdonképpen kísérlet a fiatal szerző eddigi életművében. Az egyes fejezetek önmagukban is kiadnak egy-egy képet, mintha mindegyik sztori más családtag vagy szomszéd élete lenne. Az utak keresztezik egymást, és végül, bármennyire is összekeveredtek térben és időben a darabkák, összeáll a nagy, drámai egész.</dc:description>
+        <dc:publisher>Magvető</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">grecso-krisztian-jelmezbal</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">kggEkAEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">df434c81-db1b-41bf-9a7e-716f4798c407</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789631433708</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>1960-as évek</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>családregény</dc:subject>
+        <dc:subject>drámai cselekmény</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>Merítés-díj</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>történetfüzér</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Grecsó, Krisztián&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-12-26T18:46:09+00:00"/>
+        <meta name="calibre:title_sort" content="Jelmezbál"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

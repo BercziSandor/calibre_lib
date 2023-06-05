@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1346</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3138068f-7747-420d-9a25-4df88a6d0e0d</dc:identifier>
+        <dc:title>Mondják meg Zsófikának</dc:title>
+        <dc:creator opf:file-as="Szabó, Magda" opf:role="aut">Szabó, Magda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;„Mit jelent az, ha egy gyerek nem stimmel? Hogy rossz?” Zsófika, a regény főszereplője nem tartozik az eminens tanulók közé, látszólag mindig bajt okoz, esetlenül csetlik-botlik a világban. Egyetlen ember volt, aki mindig megértette őt, az apja. „Élete utolsó percében is rá gondolt… miután rosszul lett, csak egyetlenegyszer szólalt meg már, azt mondta: „Mondják meg Zsófikának.” Valamit üzenni akart neki, de mit? Már nem tudta befejezni a mondatot.”&lt;br&gt;Zsófika egyedül kell hogy megkeresse, „mit csináljon, ha stimmelni akar ”. És Zsófika nemhogy kitűnőre vizsgázik emberségből, helytállásból, de ösztönös gyermeki ráérzéssél „beleszól” a felnőttek életébe…&lt;br&gt;És ami a legfontosabb, közben igazi társakra, barátokra lel a felnőttek között.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Móra</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">szabo-magda-mondjak-meg-zsofikanak</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789634152910</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>1950-es évek</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>barátság</dc:subject>
+        <dc:subject>Budapest</dc:subject>
+        <dc:subject>család</dc:subject>
+        <dc:subject>gyász</dc:subject>
+        <dc:subject>gyermekszemszög</dc:subject>
+        <dc:subject>halál</dc:subject>
+        <dc:subject>iskola</dc:subject>
+        <dc:subject>klasszikus</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>Magyarország</dc:subject>
+        <dc:subject>nyár</dc:subject>
+        <dc:subject>nyomozás</dc:subject>
+        <dc:subject>örökbefogadás</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>szünidő</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Szabó, Magda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-02-20T14:14:57+00:00"/>
+        <meta name="calibre:title_sort" content="Mondják meg Zsófikának"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">459</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6eff6fd3-bfec-422c-b192-40adb5cd6ad9</dc:identifier>
+        <dc:title>Nappali őrség</dc:title>
+        <dc:creator opf:file-as="Lukjanyenko, Szergej &amp; Vasziljev, Vlagyimir" opf:role="aut">Szergej Lukjanyenko</dc:creator>
+        <dc:creator opf:file-as="Lukjanyenko, Szergej &amp; Vasziljev, Vlagyimir" opf:role="aut">Vlagyimir Vasziljev</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A mai Moszkva utcáin, a hétköznapi emberek számára szinte láthatatlanul, a Setét és a Fény erői vetélkednek. Ezeréves szerződésük értelmében az Éjszakai és a Nappali Őrség felváltva gondoskodik a két oldal közötti egyensúlyról.&lt;br&gt;Amikor az Inkvizítorok pártatlan bíróságától ellopnak egy nagy erejű mágikus tárgyat, a következmények beláthatatlanok, és mintha mindez még nem lenne elég, a szálakat egy reménytelennek tűnő szerelem is bonyolítja egy ifjú boszorkány és egy varázsló között, és akkor még nem beszéltünk a gyilkosságról, amely vérbosszúért kiált.&lt;br&gt;Lukjanyenko bestseller-sorozatának második kötetéhez egy írótárs segítségét is igénybe vette, és ennek köszönhetően az iram ezúttal még nyaktörőbb, a fordulatok még váratlanabbak. Az első részhez hasonlóan azóta ebből szintén film készült, amely látványvilágában a hollywoodi szuperprodukciókkal vetekszik.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Metropolis Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789638773029</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">szergej-lukjanyenko-vlagyimir-vasziljev-nappali-orseg</dc:identifier>
+        <dc:identifier opf:scheme="ANTIK_HU">280027</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">2f1fa82f-9043-4342-aa7b-820d1254d8f5</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>alakváltó</dc:subject>
+        <dc:subject>boszorkány</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>Moszkva</dc:subject>
+        <dc:subject>orosz szerző</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>urban fantasy</dc:subject>
+        <dc:subject>vámpír</dc:subject>
+        <dc:subject>Szépirodalom</dc:subject>
+        <dc:subject>sci-fi</dc:subject>
+        <dc:subject>Szórakoztató irodalom</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Szergej Lukjanyenko&quot;: &quot;&quot;, &quot;Vlagyimir Vasziljev&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Őrség"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2013-04-22T20:45:32+00:00"/>
+        <meta name="calibre:title_sort" content="Nappali őrség"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">826</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7a9da74-cd73-452e-b7b1-cd195b90e6e3</dc:identifier>
+        <dc:title>A hunok harmóniája</dc:title>
+        <dc:creator opf:file-as="Pelevin, Viktor" opf:role="aut">Viktor Pelevin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-22T00:00:00+00:00</dc:date>
+        <dc:description>Minden azzal kezdődött, hogy egyszer napközben Vera életében először nem a létezés értelmén gondolkodott el, mint előtte szinte mindig, hanem a titkán. Ennek az lett az eredménye, hogy beleejtette a rongyot a sötét, szappanos vízzel teli vödörbe, és egy halk „ah” vagy valami „ah”-hoz hasonló hagyta el a torkát. A gondolat váratlan és elviselhetetlen volt, és ami a legfontosabb, semmihez sem kapcsolódott, amit maga körül láthatott – egyszerűen csak az eszébe jutott hirtelen, ott volt a fejében hívatlanul, és ebből a gondolatból az a következtetés adódott, hogy az értelem keresésére fordított szellemi munka sok-sok éve mind elpocsékolt idő volt, mert, lám csak, nem az a lényeg, hanem a titok.</dc:description>
+        <dc:publisher>Gondolat</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">a2eda2d9-d753-44bd-89b3-f818375ad5e6</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">viktor-pelevin-a-hunok-harmoniaja</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9639567965</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>orosz szerző</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Viktor Pelevin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2014-12-16T21:44:24+00:00"/>
+        <meta name="calibre:title_sort" content="hunok harmóniája, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

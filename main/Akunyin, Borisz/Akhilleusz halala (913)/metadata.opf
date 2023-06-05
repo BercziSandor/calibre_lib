@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">913</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">548d94cc-6817-4d31-83d1-c6a9929962b9</dc:identifier>
+        <dc:title>Akhilleusz halála</dc:title>
+        <dc:creator opf:file-as="Akunyin, Borisz" opf:role="aut">Akunyin, Borisz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-03-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;Eraszt Fandorin – miután korábban leleplezett már egy nemzetközi összeesküvést, egy török kémet és egy kalandornőt, aki „az évszázad bűncselekményét” követte el Párizsban – 1882-ben Moszkvába érkezik. Azóta, hogy nem találkoztunk vele, Japánban szolgált követként (ahol, mint a történet során megtudjuk, sok mindent megtanult a keleti harcművészetekből), s most vele van hűséges japán szolgája, Masza.&lt;/p&gt;
+&lt;p class="description"&gt;    A város kormányzója mellé helyezik különösen titkos ügyek nyomozójának – de különösen titkos ügy egyelőre ne ígérkezik.&lt;/p&gt;
+&lt;p class="description"&gt;    Fandorinnak azonban nem kell sokáig várnia. Moszkvában ugyanabban a szállodában száll meg, mint régi ismerőse a háborúból, Mihail Szoboljev tábornok, más néven „az orosz Akhilleusz”, a hős, a nemzet kedvence; s Szoboljevet reggel holtan találják: éjszaka váratlanul szívrohamot kapott. Semmi sem utal a gyilkosságra, és a rendőrség el sem kezdené a nyomozást, ha Fandorin nem figyelne fel azonnal néhány gyanús apróságra.&lt;/p&gt;
+&lt;p class="description"&gt;    Az, hogy bűncselekmény történt, hamarosan a napnál is világosabb számára, de sokáig minden rejtélyesnek, kibogozhatatlannak látszik.&lt;/p&gt;
+&lt;p class="description"&gt;    Egyáltalán: hogyan követték el a gyilkosságot, hiszen a boncolás során nem találtak mérget a holttestben?&lt;/p&gt;
+&lt;p class="description"&gt;    És kik tehették el láb alól Szoboljevet? A németek, hogy meggyengítsék az orosz hadsereget? A moszkvai alvilág egyik feje, hogy megkaparintsa a pénzét? Vagy netán a legmagasabb állami körök állnak a gyilkosság mögött?&lt;/p&gt;
+&lt;p class="description"&gt;    Egyre messzebbre vezetnek a szálak, de végül Fandorin ezúttal is mindent kiderít, s ezúttal is varázsos szépségű nők segítik – vagy épp hátráltatják – a nyomozását.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">borisz-akunyin-akhilleusz-halala</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630781145</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>orosz</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Akunyin, Borisz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Fandorin"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2016-05-25T06:38:33+00:00"/>
+        <meta name="calibre:title_sort" content="Akhilleusz halála"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

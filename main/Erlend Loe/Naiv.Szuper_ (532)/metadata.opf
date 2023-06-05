@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">532</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">de365dde-7db5-42e5-a4c9-f752654604d3</dc:identifier>
+        <dc:title>Naiv.Szuper.</dc:title>
+        <dc:creator opf:file-as="Loe, Erlend" opf:role="aut">Erlend Loe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-20T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A Naiv.Szuper. egy 25 éves szemszögéből mutatja be azt a generációt, amely nem találja meg az élet értelmét, nem látja az ahhoz vezető utat és céltalan pótcselekvésekkel igyekszik megtalálni a helyét a világban. Hősünk egyszerűen gondolkodik az életről. Listákat ír a számára fontos és nem fontos dolgokról, labdázik és faxol, kínjában még New Yorkba is elrepül… Erlend Loe regénye elgondolkodtatja az olvasót az életről és a halálról, a jövőről és a gyermekeinkről. Több országban kultuszregényként tartják számon.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Scolar</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789632441917</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">erlend-loe-naiv-szuper</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>1990-es évek</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>énregény</dc:subject>
+        <dc:subject>fiatalkor</dc:subject>
+        <dc:subject>ifjúsági</dc:subject>
+        <dc:subject>játék</dc:subject>
+        <dc:subject>játékterápia</dc:subject>
+        <dc:subject>kapunyitási pánik</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>minimalista próza</dc:subject>
+        <dc:subject>New York</dc:subject>
+        <dc:subject>norvég szerző</dc:subject>
+        <dc:subject>skandináv</dc:subject>
+        <dc:subject>testvérek</dc:subject>
+        <dc:subject>utazás</dc:subject>
+        <dc:subject>világegyetem</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>Norvég</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Erlend Loe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2013-06-11T20:32:28+00:00"/>
+        <meta name="calibre:title_sort" content="Naiv.Szuper."/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1150</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">070cc3c7-9797-4c16-9348-659c8e9e3e29</dc:identifier>
+        <dc:title>Kedves, mint egy kéjgyilkos</dc:title>
+        <dc:creator opf:file-as="Fable, Vavyan" opf:role="aut">Fable, Vavyan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-18T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Times New Roman','serif'; font-size: 10pt"&gt;A &lt;span style="font-weight: 600; font-style: italic"&gt;Rossz ómen, jó ómen&lt;/span&gt; hőse kényszerneurotikus módon számolgat, és furcsa növényágyásokat gondoz a kertben. A &lt;span style="font-weight: 600; font-style: italic"&gt;Seggfej&lt;/span&gt;ben szereplő férfinak emberfej nőtt a farán, ám ő elutasítja az operációt, jobb ötlete lévén. A &lt;span style="font-weight: 600; font-style: italic"&gt;Jó Tündér&lt;/span&gt; frissen elvált főalakja elakad az autópályán a hóviharban, és beteljesül, amit kívánt. Nem menekülhet a katarzis elől!&lt;/p&gt;
+&lt;p style="font-family: 'Times New Roman','serif'; font-size: 10pt"&gt;A &lt;strong&gt;Padlógáz&lt;/strong&gt;ban egy asszony felbőszül férje válási szándékától. Szuicid célzattal elköt egy kamiont, és az éjszaka kellős közepén feldönget az autópályára, forgalommal szemben. Útjába kerül a kedveséhez igyekvő lány, az ünnepelt politikus, a szerelmes zsaru, az Ördögűző néven elhíresült gyilkos, a gyermeket váró leszbikus pár. A pokoli csattanás pedig kapóra jön valakinek.&lt;/p&gt;
+&lt;p style="font-family: 'Times New Roman','serif'; font-size: 10pt"&gt;A &lt;strong&gt;Kedves, mint egy kéjgyilkos&lt;/strong&gt; hősnője észreveszi, hogy voyeur leskelődik utána. Távollétében bejár a lakásába, fürdik a kádjában, használja fogkeféjét. A lány nem rémül meg, inkább úgy dönt, levadássza a kukkolót. Ehhez régi ismerősök segítségét venné igénybe. Ám ekkor támad a múlt, nem csak képletesen.&lt;/p&gt;
+&lt;p style="font-family: 'Times New Roman','serif'; font-size: 10pt"&gt;A &lt;strong&gt;Halálgyári képek&lt;/strong&gt; és a &lt;strong&gt;Valahol Európában – Új fejezet&lt;/strong&gt; című írások jóval többek, mint „megfelelő sorrendben egymás mellé illesztett betűk”. Jelenetek a mészárlós időkből. Leonardo da Vinci így látta ezt: A háború bestiális őrültség.&lt;/p&gt;
+&lt;p style="font-family: 'Times New Roman','serif'; font-size: 10pt"&gt;A &lt;span style="font-weight: 600; font-style: italic"&gt;Démoni &lt;/span&gt;főfigurája azt hiszi, amiről nem tud, azt nem ő követte el. Életét sok más mellett egy szériagyilkos-specialista zsaru is keseríti. Pedig micsoda versíró lehetne belőle!&lt;/p&gt;
+&lt;p style="font-style: italic; font-weight: 600; font-family: 'Times New Roman','serif'; font-size: 10pt"&gt;„Érdem-díjas tánctanár&lt;/p&gt;
+&lt;p style="font-style: italic; font-weight: 600; font-family: 'Times New Roman','serif'; font-size: 10pt"&gt;tanít:&lt;/p&gt;
+&lt;p style="font-style: italic; font-weight: 600; font-family: 'Times New Roman','serif'; font-size: 10pt"&gt;vitustáncot,&lt;/p&gt;
+&lt;p style="font-style: italic; font-weight: 600; font-family: 'Times New Roman','serif'; font-size: 10pt"&gt;halálforgást,&lt;/p&gt;
+&lt;p style="font-style: italic; font-weight: 600; font-family: 'Times New Roman','serif'; font-size: 10pt"&gt;végvonaglást,&lt;/p&gt;
+&lt;p style="font-style: italic; font-weight: 600; font-family: 'Times New Roman','serif'; font-size: 10pt"&gt;rigort, tremort.”&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Fabyen</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789639300255</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">vavyan-fable-kedves-mint-egy-kejgyilkos</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <dc:subject>szatíra</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fable, Vavyan&quot;: &quot;https://hu.wikipedia.org/wiki/Vavyan_Fable&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-03-27T08:56:47+00:00"/>
+        <meta name="calibre:title_sort" content="Kedves, mint egy kéjgyilkos"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;DOC&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1465</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">39d2e435-b38e-4660-aa24-30839f684c14</dc:identifier>
+        <dc:title>Agrárbárók</dc:title>
+        <dc:creator opf:file-as="Frei, Tamás" opf:role="aut">Frei, Tamás</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-18T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Pedig André már azt hitte, hogy maga mögött hagyhatja a zaklatott múltat.&lt;br&gt;
+Tévedett - mert az oroszok nem felejtenek…&lt;br&gt;
+&lt;br&gt;
+André Calvi megint célponttá válik, öngyilkos merénylő támad rá és 
+imádott kislányára, Fruzsikára. Egyetlen másodperc véres drámája a 
+nizzai utcán, amitől minden megváltozik. Szétrobban az élete, hogy aztán
+ számára ismeretlen erők tőrbe csalják és keresztülrángassák a 
+kelet-ukrajnai polgárháború mocskán.&lt;br&gt;
+Közben a magyar agrárbárók, akik csak a saját pénztárcájukat nézik, Moszkvában árusítják ki az országot.&lt;br&gt;
+A szövevényes nemzetközi játszmában, Amerika és Oroszország közé 
+szorulva, a magyarok számára nagy a tét: a paksi atomerőmű éppúgy, mint 
+az Adriai-tenger mélyéről felhozott Anjou-kincsek, de a gátlástalan 
+milliárdosok miatt hazánk NATO-tagsága is veszélybe kerül.&lt;br&gt;
+A magyar mezőgazdaságot kézben, a politikai elitet pedig sakkban tartó 
+földesurak először még csak egy zalai vadászkastélyban konspirálnak, 
+később viszont már orosz oligarchákkal Azerbajdzsánban. A kérdés 
+mindvégig úgy szól, hogy eltaktikázza-e magát a miniszterelnök?&lt;br&gt;
+&lt;br&gt;
+Az Agrárbárók Frei Tamás negyedik akcióregénye. A főhős ezúttal is 
+André, a korábbi három kötetből már jól ismert magyar származású francia
+ titkos ügynök, akit ezúttal nehéz lesz felismerni…&lt;/div&gt;</dc:description>
+        <dc:publisher>Alexandra</dc:publisher>
+        <dc:language>hun</dc:language>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>politika</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frei, Tamás&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-15T09:46:38+00:00"/>
+        <meta name="calibre:title_sort" content="Agrárbárók"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

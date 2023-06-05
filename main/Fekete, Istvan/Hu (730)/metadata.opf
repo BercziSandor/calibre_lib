@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">730</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">639e9ea1-a860-4617-9bc6-8d2a8c61cd19</dc:identifier>
+        <dc:title>Hú</dc:title>
+        <dc:creator opf:file-as="Fekete, István" opf:role="aut">Fekete, István</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-18T00:00:00+00:00</dc:date>
+        <dc:description>A folyó fölött emelkedő magaspart barlangjaiban emberemlékezet óta baglyok élnek. Az egymást váltó nemzedékek mindig ide hordják zsákmányukat, itt költik ki és nevelik fel fiókáikat, engedelmeskedve a bagolyélet sok évezredes törvényeinek. De sorsuk összefonódott az e tájon élő emberek sorsával is, a tatárjárás, a török hódoltság, a szabadságharc néhány jelenete ott tükröződött nagyra nyitott, figyelő szemükben. Ebben a folyóparti barlangban született Hú is, itt táplálták szülei, de mielőtt kirepülhetett volna, megjelent a barlangban az ember, és magával vitte Hút és két testvérét. Ezzel kezdődik a történet, melynek során Hú sok különös tapasztalatot szerez az emberek világában, míg végül a második világháború kitörésekor visszanyeri szabadságát.</dc:description>
+        <dc:publisher>Móra</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">6368434</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">aJygNwAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789631194296</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">fekete-istvan-hu</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>vadászat</dc:subject>
+        <dc:subject>klasszikus</dc:subject>
+        <dc:subject>2. világháború</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>illusztrált</dc:subject>
+        <dc:subject>természet</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>állattörténet</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>ifjúsági</dc:subject>
+        <dc:subject>madarak</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>állat</dc:subject>
+        <dc:subject>állatvilág</dc:subject>
+        <dc:subject>állat főszereplő</dc:subject>
+        <dc:subject>bagoly</dc:subject>
+        <dc:subject>Childrens</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fekete, István&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2014-09-20T12:09:35+00:00"/>
+        <meta name="calibre:title_sort" content="Hú"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, PDF&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">572</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">611c2b2d-b070-43f8-835f-e5851660eaed</dc:identifier>
+        <dc:title>Ezüst pisztolygolyók</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1989-02-20T00:00:00+00:00</dc:date>
+        <dc:description>A hold minden lelkes, avatott vagy amatőr bámulójának feltünhetett, hogy jó néhány pontatlanságot engedtem meg magamnak a történeti elképzelt ideje, az 1984-es év holdciklusait illetően. Ezúton üzenem azon kedves olvasóimnak, akik talán azt gondolják,hogy jobb jutott eszembe, hogy de igen… csak túlságosan nagy volt a kísértés, és nem tudtam neki ellenállni.</dc:description>
+        <dc:publisher>Ararát</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">6942c747-31a6-43d9-8f5a-45463ec6f8da</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9630274027</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">stephen-king-ezust-pisztolygolyok</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>alakváltó</dc:subject>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>illusztrált</dc:subject>
+        <dc:subject>kisregény</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>vérfarkas</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2013-09-05T07:33:14+00:00"/>
+        <meta name="calibre:title_sort" content="Ezüst pisztolygolyók"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

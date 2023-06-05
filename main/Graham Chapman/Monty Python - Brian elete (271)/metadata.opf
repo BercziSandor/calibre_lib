@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">271</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce8f41b0-b36f-4e0e-8fca-b6b1c8a49c8e</dc:identifier>
+        <dc:title>Monty Python – Brian élete</dc:title>
+        <dc:creator opf:file-as="Chapman, Graham &amp; Cleese, John &amp; Gilliam, Terry &amp; Idle, Eric &amp; Jones, Terry &amp; Palin, Michael" opf:role="aut">Graham Chapman</dc:creator>
+        <dc:creator opf:file-as="Chapman, Graham &amp; Cleese, John &amp; Gilliam, Terry &amp; Idle, Eric &amp; Jones, Terry &amp; Palin, Michael" opf:role="aut">John Cleese</dc:creator>
+        <dc:creator opf:file-as="Chapman, Graham &amp; Cleese, John &amp; Gilliam, Terry &amp; Idle, Eric &amp; Jones, Terry &amp; Palin, Michael" opf:role="aut">Terry Gilliam</dc:creator>
+        <dc:creator opf:file-as="Chapman, Graham &amp; Cleese, John &amp; Gilliam, Terry &amp; Idle, Eric &amp; Jones, Terry &amp; Palin, Michael" opf:role="aut">Eric Idle</dc:creator>
+        <dc:creator opf:file-as="Chapman, Graham &amp; Cleese, John &amp; Gilliam, Terry &amp; Idle, Eric &amp; Jones, Terry &amp; Palin, Michael" opf:role="aut">Terry Jones</dc:creator>
+        <dc:creator opf:file-as="Chapman, Graham &amp; Cleese, John &amp; Gilliam, Terry &amp; Idle, Eric &amp; Jones, Terry &amp; Palin, Michael" opf:role="aut">Michael Palin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Amikor a Brian élete 1979-ben először került mozivászonra, a legtöbben úgy vélekedtek, hogy ez a film a Monty Python-csoport addigi legjobb paródiája, bár néhányan minden idők legistenkáromlóbb művének tartották (egy rabbi szerint például oda való, ahonnan jött: a pokolba…). Huszonöt év távlatából immár elmondható, hogy a film kiállta az idők próbáját; közszájon forgó idézeteivel és feledhetetlen búcsúdalával a kultuszfilmek klasszikusaként vonult be a történelembe. Galla Miklós például így vélekedik a filmről: „Ez a legjobb Monty Python-film. Meg a többi.” Ez a kötet most a film szövegkönyvét közli.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cartaphilus</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">graham-chapman-john-cleese-terry-gilliam-eric-idle-terry-jones-michael-palin-monty-python-brian-elete</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9637448454</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>abszurd</dc:subject>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>angol humor</dc:subject>
+        <dc:subject>angol szerző</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>filmkönyv</dc:subject>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>ókor</dc:subject>
+        <dc:subject>Movies &amp; TV Series</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Graham Chapman&quot;: &quot;&quot;, &quot;John Cleese&quot;: &quot;&quot;, &quot;Terry Gilliam&quot;: &quot;&quot;, &quot;Eric Idle&quot;: &quot;&quot;, &quot;Terry Jones&quot;: &quot;&quot;, &quot;Michael Palin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2012-11-17T21:19:49+00:00"/>
+        <meta name="calibre:title_sort" content="Monty Python – Brian élete"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

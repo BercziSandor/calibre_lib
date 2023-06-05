@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd047251-b0a0-431c-940e-7072d13b5776</dc:identifier>
+        <dc:title>Ember és kutya</dc:title>
+        <dc:creator opf:file-as="Lorenz, Konrad" opf:role="aut">Konrad Lorenz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.19.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A ​világhírű tudós – aki kitűnő humorú írónak bizonyul ebben a könyvében is – hosszú évek tapasztalatait írja meg nagyszerűen felépített kis kutyatörténeteiben. Mint etológus arra keres feleletet, mi az ami az emberi és állati magatartásformákat megkülönbözteti és ugyanakkor arra is – mi az ami összekapcsolja őket. Könyvében arról is ír röviden, hogyan alakult ki az ember és kutya évezredes kapcsolata, de sokkal inkább foglalkoztatja a kutya és gazdája mai helyes „együttélési” szabályainak sok kérdése. Tanácsai arra vonatkoznak ki milyen kutyát válasszon, milyen szoktatási módszereket tekinthetünk emberhez és állathoz méltónak, milyen tapasztalatai vannak az egyes kutyafajtákkal kapcsolatban.&lt;br&gt;A sok kitűnő etológiai és természeti megfigyelés ellenére sem szakkönyvet tart a kezében az olvasó. Nagyszerűen felépített, szórakoztató, irodalmi igényeket is kielégítő olvasmány ez, melynek minden sorából az élőlények iránti szeretet, gyengédség és tisztelet árad. Egyszerű stílusa, árnyalt, sokszínű humora bizonyára éppúgy megragad majd mindenkit, mint ahogyan ez előző könyvénél, a Salamon király gyűrűjé-nél történt.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Helikon</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789632279152</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">fb2d61d9-08fb-4821-ba33-73da32a88d43</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">konrad-lorenz-ember-es-kutya</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">DtvhwQEACAAJ</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>állat</dc:subject>
+        <dc:subject>állattartás</dc:subject>
+        <dc:subject>állattörténet</dc:subject>
+        <dc:subject>állatvédelem</dc:subject>
+        <dc:subject>etológia</dc:subject>
+        <dc:subject>igaz történet alapján</dc:subject>
+        <dc:subject>ismeretterjesztő</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>osztrák szerző</dc:subject>
+        <dc:subject>természettudomány</dc:subject>
+        <dc:subject>zoológia</dc:subject>
+        <dc:subject>kutya</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2013-06-04T19:52:04+00:00"/>
+        <meta name="calibre:title_sort" content="Ember és kutya"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

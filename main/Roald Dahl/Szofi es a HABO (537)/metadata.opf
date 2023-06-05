@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">537</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b30aea06-fa8d-4a90-abde-62f94a616827</dc:identifier>
+        <dc:title>Szofi és a HABÓ</dc:title>
+        <dc:creator opf:file-as="Dahl, Roald" opf:role="aut">Roald Dahl</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-02-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Képzeld ​csak el, hogy fekszel az ágyban, mint Szofi, és egy óriás kéz hirtelen felkap takaróstul, és magával ragad. Már azt hiszed, vége az életednek, amikor megtudod, hogy az óriás, a HATALMAGOS AZONÁLTAL BARÁTSÁGOS ÓRIÁS, röviden HABÓ – nem eszik mást csak orrborkát, egy undok, de mégis ehető növényfélét, és igazán barátságos. Így lett végül Szofi és HABÓ valóban két jó barát, együtt tervelik ki, hogyan értesítsék az angol királynőt arról, hogy emberevő óriások – szám szerint kilencen – szaladgálnak a világban, Tatárországban, Hólandiában, és eszik jóízűen a „gyerkedliket”. Hármójuk zseniális terve végül is megmenti a világot az emberfaló óriásoktól, akik az angol hadsereg segítségével, bekerülnek egy óriási verembe, és attól kezdve nem ehetnek mást, mint orrborkát. Úgy kell nekik! A HABÓ pedig Szofival együtt marad a királynő udvarában, mi több, derék, jól nevelt „emberré” válik, akiből végül is író lesz. S hogy ez mennyi kaland közepette történhet meg, azon magad is elcsodálkozhatsz, bízva abban, hogy nincsenek óriások, ezért nem is nyúlnak be érted az ablakon, és nem is vihetnek magukkal.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Móra</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">roald-dahl-szofi-es-a-habo</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9631166279</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>álom</dc:subject>
+        <dc:subject>Anglia</dc:subject>
+        <dc:subject>árva</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>gyermek főszereplő</dc:subject>
+        <dc:subject>gyermekkönyv iskolásoknak</dc:subject>
+        <dc:subject>illusztrált</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>meseregény</dc:subject>
+        <dc:subject>női főszereplő</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Roald Dahl&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2013-07-04T07:05:31+00:00"/>
+        <meta name="calibre:title_sort" content="Szofi és a HABÓ"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

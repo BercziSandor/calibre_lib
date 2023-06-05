@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c8c7d094-ae79-4daa-8df9-e0c2b1b05d44</dc:identifier>
+        <dc:title>A csodálatos kutyadoki</dc:title>
+        <dc:creator opf:file-as="Millan, Cesar" opf:role="aut">Cesar Millan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.19.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;A kutyád az őrületbe kerget? Agresszív, ideges, félénk vagy egyszerűen csak túl feszült? Négylábú barátod talán valami megszállottja: felugrál mindenkire, aki belép az ajtón, vagy azzal nyaggat, hogy újra és újra eldobd neki ugyanazt a koszos, zöld teniszlabdát?&lt;br&gt;Vagy esetleg úgy érzed, a te kutyád tökéletes, de szeretnéd, ha kettőtök kapcsolata még teljesebb lenne? Szeretnéd megtudni, mi motiválja? Szeretnél bepillantást nyerni a világába, hogy szorosabb kapcsolatot alakíthass ki vele? Ha a fentiek bármelyikére igennel feleltél, akkor jó helyen vagy.&lt;br&gt;Manapság annak ellenére, hogy több könyv, több segítség, több képzési eszköz és még többféle jutalomfalat áll rendelkezésünkre, több neveletlen kutya van, mint valaha. Elérhetőek ugyan az eszközök ahhoz, hogy kutyáinknak jó nevelést adhassunk, mégsem értjük igazán kedvenceink természetét. Mindamellett, hogy legtöbbünk jó szándékú és szerető kutyatartó, a megértés hiánya sok problémához vezethet. Egyszerűen fogalmazva, a kutyák nem kis emberek. Nem úgy gondolkodnak, nem úgy viselkednek, és nem úgy látják a világot, ahogyan mi. A kutya az kutya, és meg kell tanulnunk a kutyát tisztelni bennük. Óriási kárt okozunk, ha emberként kezeljük őket, és a legtöbb viselkedési probléma éppen ebből fakad.&lt;br&gt;Cesar Millan kutyaviselkedési szakember segítségével a kutyánk szemével láthatjuk a világot, és kiküszöbölhetjük a viselkedési problémákat. Ebben a könyvében arra hívja fel az olvasók figyelmét, hogy a kutyanevelés legfontosabb része az ember és kutya közötti egészséges kapcsolat megteremtése és a határok egyértelműsítése.&lt;br&gt;&lt;br&gt;A csodálatos kutyadoki című sorozat Magyarországon is látható a National Geographic Channelen.&lt;/p&gt;</dc:description>
+        <dc:publisher>e-konyvtar.com</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789636893620</dc:identifier>
+        <dc:language>hun</dc:language>
+        <meta name="calibre:timestamp" content="2023-06-05T08:39:53+00:00"/>
+        <meta name="calibre:title_sort" content="csodálatos kutyadoki, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1656</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd09006f-bf56-4f82-a96c-c26a57b40451</dc:identifier>
+        <dc:title>Az elrejtett orákulum</dc:title>
+        <dc:creator opf:file-as="Riordan, Rick" opf:role="aut">Rick Riordan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-08T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Mi a legnagyobb büntetés egy halhatatlan számára?&lt;br&gt;Ha emberré változtatod.&lt;br&gt;Apollón úgy felbőszíti az apját, Zeuszt, hogy az letaszítja őt az Olimposzról. Legyengülten és összezavarodva, egy hétköznapi tinédzser képében landol New Yorkban. Az égi hatalmától megfosztott négyezer éves istenségnek meg kell tanulnia, hogyan maradjon talpon a modern világban, amíg vissza nem férkőzik Zeusz kegyeibe.&lt;br&gt;Apollónnak azonban sok ellensége van: istenek, szörnyek és halandók, akik végleg el akarják pusztítani az egykori olimposzit. Apollónnak segítségre van szüksége, és csak egyetlen esélye maradt… a modern félistenek gyűjtőhelye, amit Félvér Tábor néven ismernek.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Könyvmolyképző</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">d40114c6-8aa3-4ab2-9e97-2f89c150bd7b</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789634578420</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">rick-riordan-az-elrejtett-orakulum</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Ifjúsági Regény</dc:subject>
+        <dc:subject>mitológia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rick Riordan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Apollón próbái"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-09-09T18:12:58+00:00"/>
+        <meta name="calibre:title_sort" content="elrejtett orákulum, Az"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">323</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0bffe8df-fc6f-479c-acaf-e53e83c41182</dc:identifier>
+        <dc:title>A gyermekkirály</dc:title>
+        <dc:creator opf:file-as="Merle, Robert" opf:role="aut">Robert Merle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-22T00:00:00+00:00</dc:date>
+        <dc:description>IV. ​Henrik meggyilkolása megrázza az egész országot, gyilkosa kivégzésére szinte egész Párizs kíváncsi. A király halálával Medici Mária (Henrik felesége) lesz az uralkodó, mint régens, akinek első dolga a király által létrehozott kormányzótanács (benne királyi hercegek, főrendek, marsallok) mellett egy titkos tanács létrehozása.
+Ennek tagjai név szerint: Dolé főügyész (aki a kormányzó királyné ügyvédje), Cotton atya (a jezsuita szerzetes), a pápai nuncius, a spanyol nagykövet, Leonora Galigai (a királyné dajkájának lánya), és Concino Concini (Leonora férje, olasz nemes, akit otthon felhúznának az első fára a viselt dolgai miatt).
+Ez az állapot persze minden igaz franciát feldühít, nincsenek ezzel másként Siorac-ék sem. Egy ebédnél, amire l’Estoile (Siorac márki barátja) is hivatalos kiderül, hogy még ez a tanács sem az igazi, mivel a királyné minden ülés után tanácskozik Doléval, Leonorával és Concinival, és az ő véleményükhöz igazodva gyakran megváltoztatja a tanács döntését, de a háromból csak Leonora számít, mert ő az igazi kegyenc, akinek korlátlan hatalma van az ostoba királyné felett.
+Mindezeknek köszönhetően az anyakirályné és Lajos között a viszony nem túl jó, mondhatni utálják egymást, mivel a királyné félti korlátlan hatalmát. Ráadásul a királyné elég népszerűtlen saját alattvalói szemében, ezért Lajos népszerűsége mögé szeretne bújni, miközben nem győzi hangoztatni, hogy Lajos alkalmatlan az uralkodásra.
+Lajost 9 évesen megkoronázzák Reimsben, ahová Siorac márkit, Siorac lovagot, és La Surie-t is meghívják. A koronázás után Guise hercegné magához hivatja „keresztfiát” Siorac lovagot, és elmondja neki, hogy Saint-Régis márki vissza szeretne vonulni, és mivel rokonságban áll a Guise házzal így nekik szeretné eladni hivatalát (ami nem más, mint a „király belső szolgálatára kirendelt első nemes”) potom 100.000 frankért.
+Visszatérve Párizsba megkötik az üzletet Saint-Régis márkival, így Siorac beköltözik a hivatallal járó louvrei lakosztályába, amit a Guise hercegnőtől kapott bútorokkal rendez be. Amikor bemutatják XIII. Lajosnak, az meglehetősen hűvösen fogadja, de Héroard doktortól megtudja, ez csak álca, mivel a király környezetében besúgók vannak, és rögtön eltávolítják a közeléből azt, akit kedvel.
+A következő évek a hatalom megszerzéséről (a trónörökös), illetve annak megtartásáról (az anyakirályné) szólnak, s talán mondanom sem kell, az ifjú Siorac is ott van minden fontosabb eseménynél – mint a leendő uralkodó tántoríthatatlan híve.</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789630791823</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">robert-merle-a-gyermekkiraly</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>17. század</dc:subject>
+        <dc:subject>francia</dc:subject>
+        <dc:subject>francia szerző</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>történelem</dc:subject>
+        <dc:subject>történelmi regény</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Merle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Francia história"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-18T20:22:15+00:00"/>
+        <meta name="calibre:title_sort" content="gyermekkirály, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

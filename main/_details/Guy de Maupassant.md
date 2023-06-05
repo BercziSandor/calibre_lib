@@ -1,0 +1,14 @@
+# <a name="id_710">Guy de Maupassant: Az örökség: kisregények és válogatott elbeszélések (2010)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Guy%20de%20Maupassant/Az%20orokseg_%20kisregenyek%20es%20valogato%20%28710%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Guy%20de%20Maupassant/Az%20orokseg_%20kisregenyek%20es%20valogato%20%28710%29/Az%20orokseg_%20kisregenyek%20es%20valo%20-%20Guy%20de%20Maupassant.epub)
+
+### Tagek
+irodalom, szépirodalom, novella, elbeszélés
+
+### Összefoglalás
+<div>
+<p>A 19. századi francia klasszikus, Guy de Maupassant írásművészetébe nyújt betekintést ez a válogatás, amely eredetileg 1951-ben a Szépirodalmi Kiadó gondozásában jelent meg. Az Illés Endreaz életmű egyik jelentős magyar fordítója által összeállított antológia a szerző legsikerültebb kisprózai alkotásait tartalmazza. A novellák és elbeszélések fő sajátossága elsősorban az éleslátással, szenvtelen pontossággal ábrázolt társadalom- és jellemrajz a művész egyedi, karizmatikus látásmódjával fűszerezve. A kötet élén az első mestermű, a méltán híres, szinte kisregény terjedelmű Gömböc áll, amely a prostituálttal szembeállított úri társaságot találja könnyűnek az erkölcs és az emberség mérlegén. Az antológiákban gyakran szereplő Pierrot, egy kiskutya kapcsán szól a normandiai parasztok iszonyú fösvénységéről. Maupassant novellìnak legismertebb témaköre a szerelem, a nemek közötti kapcsolatok világa, amely gyakran tragikusan groteszk, ironikus beállításban, szkepszissel fűszerezve jelenik meg, mint pl. a címadó Az örökségben. Képmutatás és számító józanság, erkölcs és önző érdek ütközik össze a hivatalnokok világát is kigúnyoló történetben. Az összesen tizennyolc elbeszélést tartalmazó könyv a francia-porosz háború idején játszódó, Az öreg Milon zárja, amelyben a megszállók elleni gyűlölet szenvedélyét is pontosan, rezzenetlen hitelességgel ábrázolja az író az idős paraszt alakjában, akiknek gyűlölete nem elvont hazaszeretetből fakad. Az időtálló válogatás széles körben ajánlható.</p></div>
+
+

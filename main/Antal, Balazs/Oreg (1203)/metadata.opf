@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1203</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d4f5388-a369-4f0b-8b38-a7688e37778c</dc:identifier>
+        <dc:title>Öreg</dc:title>
+        <dc:creator opf:file-as="Antal, Balázs" opf:role="aut">Antal, Balázs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-02-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Mi ​a pontos jelzője Antal Balázs tehetségének? Komoly? Sugárzó? Istenáldotta? Egyik sem volna túlzás. De maradjunk annál, hogy írói. Ez a könyv olyan, mint egy nagy író első kötete. Szeretet, türelem, pontosság, nyugalom. Ezek írói erények, amikkel Antal Balázs rendelkezett, prózaírótól szokatlanul korán, már tizenévesen. (A könyv hat évig készült.)&lt;br&gt;Kafka, Márquez, Bodor Ádám. Írók, akik saját valóságot készítettek maguknak. Antal Balázs nyolc elbeszélése is egy saját valóságban játszódik. A fő színtér egy falu. A közelben a Bükk erdősége, távolabb egy-két gyárváros. Ez itt a civilizáció alja (vagy széle). Ami ide le(el)kerül, innen nem jut tovább. Többnyire öregen kerülnek ide a tárgyak és a szavak is. Szemétként, lomként, máshonnan. Orvos, plébános, tanító nem lakik már itt, test-lélek-szellem hanyatlik. Titokzatos és értelmetlen törvények, törvény-foszlányok, személyes (feudális) viszonyok mozgatják a szereplőket.&lt;br&gt;Többnyire egy-egy magányos, öreg falusi beszél. Többnyire magában. Vagy magának. Többnyire úgy, ahogy falusi öreg soha nem beszélne, gondolnánk. Mert csak motyogna, és nem figyelne oda rá senki. De a motyogásban nyelvi erő van, nyelvi szemét, logika, egy-egy váratlan kultúrszó, bölcsesség. És még valami titokzatos többlet is: élesen belehallatszik a patakcsobogás, a madárdal, a járókeret zörgése a falusi utcán, az erdész káromkodása embereivel, egyszóval – a megmaradt természet. A második bekezdésekben pedig elkapja az olvasót a történet. Érdekelni kezdi a mesélő, aki titokzatos és értelmetlen feladatokat hajt végre ráérősen, mert a végére kell járni a dolgoknak, bár túl sok értelme nincs. Így tett egész életében, és így tesz most is, utolsó dolgánál, amikor elmeséli az egészet, azt amit el lehet mondani belőle. Így: „Nagy volt a temető, és akár egy óriás kabát, zsebeiben itt is, ott is rokonokat rejtett.”&lt;br&gt;Az írói erények közül is első a szeretet. Antal Balázs azt mondja, hogy valami nagyon megöregedett körülöttünk, valamit nagyon meg kéne menteni, sőt, hogy még nem késő.&lt;br&gt;Kemény István&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>József Attila Kör</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">antal-balazs-oreg</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9639136980</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>elbeszélés</dc:subject>
+        <dc:subject>erdészet</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Antal, Balázs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2019-03-30T04:46:55+00:00"/>
+        <meta name="calibre:title_sort" content="Öreg"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1030</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ed39b7f-a47e-40b9-a603-e669960dab3f</dc:identifier>
+        <dc:title>Vadászat a Vörös Októberre</dc:title>
+        <dc:creator opf:file-as="Clancy, Tom" opf:role="aut">Tom Clancy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Az ​Egyesült Államok tengeralattjáró-haderejének parancsnoksága szokatlan mozgolódást észlel az Atlanti-óceánon. Ramiusz, a litván származású hajóskapitány ugyanis úgy dönt, hogy bosszút áll a szovjet rezsimen, amely a felesége halálát okozta, és átszökik az Egyesült Államokba. Az USA hírszerzése támadásként értelmezi a gépóriás mozgását, és beindítja ellene hadigépezetét, miközben a szökést sejtő oroszok is üldözőbe veszik az áruló tengeralattjárót. Bár a rettenthetetlen parancsnok nagy körültekintéssel tervezte meg a menekülést, minden leleményességét össze kell szednie, hogy kivághassa magát a kettős szorításból. Itt lép a képbe a fiatal Jack Ryan, aki felismeri a hajóskapitány szándékait, és pontosan tudja: az évszázad legnagyobb hírszerzési fogása lenne, ha az amerikaiak idejében megtalálnák és védett kikötőbe vezetnék a Vörös Októbert…&lt;br&gt;Tom Clancy a katonai-politikai thriller nagymestere. A Vadászat a Vörös Októberre a szerző első regénye, amelyből a nagy sikerű, Oscar-díjas akciófilm készült Sean Connery főszereplésével. A történet Marko Alekszandrovics Ramiusz kapitány és Jack Ryan CIA-ügynök összefonódó kalandjait mutatja be.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Partvonal</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">tom-clancy-vadaszat-a-voros-oktoberre</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786155783449</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>akció</dc:subject>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>háború</dc:subject>
+        <dc:subject>hidegháború</dc:subject>
+        <dc:subject>kaland</dc:subject>
+        <dc:subject>kalandregény</dc:subject>
+        <dc:subject>kémregény</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>tengeralattjáró</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>titkosszolgálat</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Tom Clancy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Jack Ryan-univerzum"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2016-07-27T19:43:40+00:00"/>
+        <meta name="calibre:title_sort" content="Vadászat a Vörös Októberre"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

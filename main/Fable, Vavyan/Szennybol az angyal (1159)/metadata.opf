@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1159</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0893a878-8c79-463d-ad57-9077ee07abd6</dc:identifier>
+        <dc:title>Szennyből az angyal</dc:title>
+        <dc:creator opf:file-as="Fable, Vavyan" opf:role="aut">Fable, Vavyan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-18T00:00:00+00:00</dc:date>
+        <dc:description>A regény hősnője, Tonie – túl egy súlyos válságon – mesei karácsonyról álmodozik: fenyőillatú, csillagszórós, Kis éji zenés, meghitt ünnepről, romantikus kettesben egy férfival, akit erre az alkalomra választ számára a számítógépes társkereső szolgálat. S nem arról, hogy bűnözők lepjék el otthonát. Holott pedig ellepik. Púder, a sorozatgyilkos; Néró, a piromániás; valamint Procc, akinek az a fixa rögeszméje, hogy neki sebészeti úton mindenkit meg kell gyógyítania. Továbbá ellepi hajlékát a nővére a sarjaival, anyja a neurózisával; szomszédnője, Meta Hari, aki mindhárom szemével perfekt módon lát – és még sokan mások. A vágyott idillből pokolian felforgatott karácsony lesz, s mindennek a Szolgálat által küldött (?) pasas, Barret Grand a dilihopmestere.</dc:description>
+        <dc:publisher>Fabyen</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789639300378</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">vavyan-fable-szennybol-az-angyal</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>család</dc:subject>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>író</dc:subject>
+        <dc:subject>karácsony</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>rendőr</dc:subject>
+        <dc:subject>szellemek</dc:subject>
+        <dc:subject>váltott szemszög</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fable, Vavyan&quot;: &quot;https://hu.wikipedia.org/wiki/Vavyan_Fable&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-03-27T09:42:34+00:00"/>
+        <meta name="calibre:title_sort" content="Szennyből az angyal"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;RTF&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

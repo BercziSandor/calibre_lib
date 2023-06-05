@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1436</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3883dee2-27e0-44a2-974b-cdf31e44cdfa</dc:identifier>
+        <dc:title>Törékeny holmik</dc:title>
+        <dc:creator opf:file-as="Gaiman, Neil" opf:role="aut">Neil Gaiman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Neil Gaimant a magyar olvasóközönség elsősorban fantasy regényei okán ismerhette és szerethette meg; a műfaj nem változott ezúttal sem, a különbség csak annyi, hogy a jelen kötetben nem egyetlen hosszabb történet, hanem több rövidprózai és lírai alkotása kapott helyet. A választékban sok-sok egyéb mellett olyan novellák szerepelnek, mint a Smaragdzöld tanulmány című misztikus „minikrimi”, az egy élő és egy halott fiú történetét elbeszélő Október a székben, a Záróra című klasszikus kísértettörténet, A térképkészítő, amely a hajdani Kínába kalauzol el, az Emlékek és kincsek című szokatlan szerelmi történet, a Narnia krónikái által ihletett Susan problémája vagy épp a Falatok és falatozók, mely egy igazi rémálomból született. Ezek mellett – felvillantva a szerző egy eleddig ismeretlen arcát – versek (Tündérverkli; A titkos kamra; Befásulni; A csészealjak eljövetelének napja stb.) is találhatóak a kötetben. "www.kello.hu © minden jog fenntartva"&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Agave Kv.</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">neil-gaiman-torekeny-holmik</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789634192930</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">0534b791-f1b8-457d-9a76-2a92c617519f</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">XxsEwgEACAAJ</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>angol szerző</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>cirkusz</dc:subject>
+        <dc:subject>démon</dc:subject>
+        <dc:subject>drog</dc:subject>
+        <dc:subject>elbeszélés</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>halál</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Hugo-díj</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>misztikus</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <dc:subject>pedofília</dc:subject>
+        <dc:subject>sci-fi</dc:subject>
+        <dc:subject>szellemek</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>urban fantasy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Neil Gaiman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-09-30T18:15:26+00:00"/>
+        <meta name="calibre:title_sort" content="Törékeny holmik"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

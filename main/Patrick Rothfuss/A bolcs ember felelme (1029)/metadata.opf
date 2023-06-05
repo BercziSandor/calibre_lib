@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1029</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1387503-37a1-4204-b2dc-49a8f0340547</dc:identifier>
+        <dc:title>A bölcs ember félelme</dc:title>
+        <dc:creator opf:file-as="Rothfuss, Patrick" opf:role="aut">Patrick Rothfuss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Második ​nap&lt;br&gt;„Három dolog van, amelytől minden bölcs fél: a viharzó tenger, a holdtalan éjszaka és a szelíd ember dühe.”&lt;br&gt;A nevem Kvothe.&lt;br&gt;Hercegnőket loptam vissza sírdombokban alvó királyok mellől. Felégettem Trebon városát. Feluriannal háltam, majd ép bőrrel és elmével távoztam. Fiatalabban csaptak ki az Egyetemről, mint amennyi idős korában a többséget odaengedik. Olyan utakon jártam a holdfényben, amelyekről mások nappal is félnek szólni. Istenekkel beszéltem, asszonyokat szerettem, olyan dalokat írtam, amelyek hallatán a kobzosok elsírták magukat.&lt;br&gt;Hallhattál rólam.&lt;br&gt;Így kezdődik egy hőstörténet a hős tulajdon szempontjából – egy mese, amelynek nincs párja a fantasy-irodalomban. A bölcs ember félelme a királygyilkos krónikájának második napja, amelyben Kvothe, miután egyre jobban elmérgesedik a viszálya egy befolyásos nemessel, kénytelen elhagyni az Egyetemet, hogy külföldön próbáljon szerencsét. Hajótörötten, üres zsebbel, egy szál maga érkezik Vintasba, ahol hamarosan belekeveredik az udvari intrikába. Mialatt megpróbálja elnyerni egy hatalmas arisztokrata kegyét, Kvothe leleplez egy gyilkossági kísérletet, konfliktusba kerül egy vetélytárs arkanistával, és elindul egy zsoldos csapat élén a vadonba, hogy megfejtse a talányt: ki (vagy mi) tartja rémületben az utazókat a Király Útján. Időközben Kvothe válaszokat is keres, mert meg akarja tudni az igazságot a titokzatos Amyrról, a Chandrianról és a szülei haláláról. Az úton kiállja a legendás ademi zsoldosok próbáját, visszaszerzi az Edema Ruh becsületét, és átlép Tündeországba. Ott találkozik Felurian tündével, akinek egyetlen férfi sem állhat ellen, és akit egy se élt még túl… kivéve Kvothét.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>GABO</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">patrick-rothfuss-a-bolcs-ember-felelme</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789636899349</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>barátság</dc:subject>
+        <dc:subject>David Gemmell-díj</dc:subject>
+        <dc:subject>egyetem</dc:subject>
+        <dc:subject>epikus fantasy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>high fantasy</dc:subject>
+        <dc:subject>iskola</dc:subject>
+        <dc:subject>kaland</dc:subject>
+        <dc:subject>kalandregény</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>mágia</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>utazás</dc:subject>
+        <dc:subject>zene</dc:subject>
+        <meta name="calibre:series" content="A királygyilkos krónikája"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2016-07-27T19:39:06+00:00"/>
+        <meta name="calibre:title_sort" content="bölcs ember félelme, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

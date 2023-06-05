@@ -1,0 +1,11 @@
+# <a name="id_1451">Cixin Liu: A háromtest-probléma (A háromtest-trilógia 1) (2020)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Cixin%20Liu/A%20haromtest-problema%20%281451%29/cover.jpg" alt="cover" width="300"/>
+
+### Tagek
+kínai szerző, kortárs, sorozat része, összeesküvés-elmélet, virtuális valóság, regény, földönkívüliek, kínai, magyar nyelvű, fizika, filmadaptáció, hard sci-fi, hugo-díj, természettudomány, kozmológia, sci-fi
+
+### Összefoglalás
+<div>
+<p>1967-ben, ​a maoista kulturális forradalom alatt egy fiatal egyetemista lánynak, Ye Wenjiének végig kell néznie, ahogy a vörösgárdisták halálra verik édesapját, a köztiszteletben álló tudóst. Ez a trauma nemcsak Ye Wenjie életét terelte gyökeresen eltérő irányba, hanem az egész emberiség sorsát is megváltoztatta.<br>Negyven évvel később a pekingi rendőrség felkeresi Wang Miaot, a nanokutatással foglalkozó mérnököt, hogy férkőzzön be egy tudósok alkotta, titkos társaságba, és szolgáltasson nekik értesüléseket. Ezekben a hetekben Kína-szerte több híres tudós lett öngyilkos, nem lehet tudni, miért. Wangot a nyomozás egy rejtélyes online számítógépes játékhoz vezeti el, és amikor játszani kezd, belemerül egy virtuális világba, ahol három, szabálytalan időközönként felkelő és lenyugvó nap határozza meg az élet kereteit.<br>A három nap rapszodikus viselkedésének feltérképezése jelenti a háromtest-problémát, és ez a probléma a végső kulcs a halálesetek felderítéséhez is. Wang, ahogy előrehalad a játékban, rádöbben, fényéveken átívelő összeesküvés részévé vált, és az emberiségnek hamarosan a legsúlyosabb fenyegetéssel kell szembenéznie. Hogyan kerülheti el a Föld teljes lakossága a kipusztulást?<br>Cixin Liu Hugo-díjas és kilencszeres Galaxy-díjas szerző, 1963-ban született Yangquanban. Első novelláskötete 1998-ban, első regénye 2002-ben látott napvilágot. Negyedik, ötödik és hatodik regénye együtt adja ki a Háromtest-trilógiá-t, amely az egész világon nagy sikert aratott. Mielőtt főállású író lett, mérnökként és számítástechnikusként dolgozott. <br>Szerintem van élet a földön kívül, csak azért nem találtuk még nyomát, mert nem szántunk rá elég időt, vagy technikailag nem elég fejlett módszerrel kutatunk. Persze egyéb lehetőségek sem kizártak. A Háromtest-problémá-ban felvázoltam a legijesztőbb, legborzalmasabb lehetőséget.<br>(Cixin Liu)</p></div>
+
+

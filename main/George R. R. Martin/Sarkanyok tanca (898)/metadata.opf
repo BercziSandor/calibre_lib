@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">898</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c48ee1d-8bae-40f4-844d-3572c0627b01</dc:identifier>
+        <dc:title>Sárkányok tánca</dc:title>
+        <dc:creator opf:file-as="Martin, George R. R." opf:role="aut">George R. R. Martin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-01T11:50:31+00:00</dc:date>
+        <dc:description>Közeleg a tél. A hideg szelek feltámadtak a sokat szenvedett Hét Királyságban, ahol az Öt Király háborúja után a túlélőknek most az éhínséggel kell szembenézniük. Az emberek birodalmát védelmező Fal ifjú parancsnoka, Havas Jon a Mások elleni reménytelen küzdelemre próbálja felkészíteni a szétzüllött Éjjeli Őrséget, ám rá kell döbbennie, hogy ellenségei jóval közelebb vannak hozzá, mint gondolná. Stannis Baratheon Észak uralmáért vív elkeseredett harcot a Boltonokkal, miközben Királyvárban a Lannister-ház próbálja megerősíteni Tommen, a gyermekkirály törékeny uralmát a kivérzett Hét Királyság fölött. A Keskeny-tenger másik oldalán Tyrion Lannister, a megvetett és üldözött rokongyilkos sárkányvadászatra indul, ám útja veszélyekkel és váratlan kitérőkkel teli. A világ eközben az ősi városra, Meereenre figyel, ahol Viharbanszületett Daeneryst, Westeros jog szerinti uralkodóját minden oldalról szorongatják ellenségei. Hogy arathat diadalt a Sárkányok Anyja, ha három gyermekére sem számíthat? A végkifejlet csak tűz és vér lehet, ám ki éli túl a sárkányok táncát? A Sárkányok tánca George R.R. Martin diadalmas visszatérése A tűz és jég dala világába, a regény, amelyre világszerte rajongók tízmilliói vártak.</dc:description>
+        <dc:publisher>Alexandra</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">VmHTDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">george-r-r-martin-sarkanyok-tanca</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789633572092</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>politika</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>boszorkány</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>low fantasy</dc:subject>
+        <dc:subject>lovag</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>high fantasy</dc:subject>
+        <dc:subject>mágia</dc:subject>
+        <dc:subject>kaland</dc:subject>
+        <dc:subject>háború</dc:subject>
+        <dc:subject>sárkány</dc:subject>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>amerikai</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Locus-díj</dc:subject>
+        <dc:subject>antihős</dc:subject>
+        <dc:subject>középkor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George R. R. Martin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A tűz és jég dala"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2015-11-07T15:23:27+00:00"/>
+        <meta name="calibre:title_sort" content="Sárkányok tánca"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

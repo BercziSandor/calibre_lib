@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1238</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">83394486-cf49-4f2b-897d-a318d0c92b94</dc:identifier>
+        <dc:title>A Fűszermadár</dc:title>
+        <dc:creator opf:file-as="Szabó T., Anna" opf:role="aut">Szabó T., Anna</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-16T01:12:07+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Bögyöga büszöm! Így köszöntik egymást Csillámvölgyben. Pertu király két csintalan gyereke, Hanna és Henne állandóan civakodnak, és már nagyon unják, hogy mindennap csak fényt ehetnek. De minden veszekedés elcsitul, amikor valódi veszély fenyeget: valaki meg akarja enni a Napot! Az uralkodó hűséges Bolondja, a titokzatos Fűszermadár tudja: csak a százfűszerszósz elkészítésével menthetik meg birodalmukat. Fűszervadászatra indulnak hát, és kalandos útjuk során egy Napsugár nevű embergyerekkel együtt fedezik fel az ételek ízesítésének ezerszínű világát, miközben megismerik a barátság és az összetartozás erejét.&lt;br&gt;Szállunk, mint a fény, az illat,&lt;br&gt;szállunk, mint a gondolat!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Magvető</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789631428759</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">szabo-t-anna-a-fuszermadar</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>fűszernövény</dc:subject>
+        <dc:subject>gyermekkönyv iskolásoknak</dc:subject>
+        <dc:subject>gyermekkönyv kicsiknek</dc:subject>
+        <dc:subject>illusztrált</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>mese</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Szabó T., Anna&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-12-26T18:54:19+00:00"/>
+        <meta name="calibre:title_sort" content="Fűszermadár, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;PDF&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

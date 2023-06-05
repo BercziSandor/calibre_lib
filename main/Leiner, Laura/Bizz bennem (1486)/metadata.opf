@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1486</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d9437c7-6daa-42da-90bf-2696eb6c704e</dc:identifier>
+        <dc:title>Bízz bennem</dc:title>
+        <dc:creator opf:file-as="Leiner, Laura" opf:role="aut">Leiner, Laura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-10T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Egy ​év telt el az Iskolák Országos Versenye óta. A Szirtes tavalyi győzelme után a gimi összes diákja beadta a jelentkezését a következő évi megmérettetésre. Kocsis igazgatón hatalmas a nyomás: melyik négy diákja lehet képes a címvédésre amellett, hogy nem roppan össze a negatív kritikák,kommentek súlya alatt,ami az interneten és a táborban éri őket? Az igazgató úgy dönt,ezúttal nem a tanulmányi versenyeken jeleskedőket választ… A tizenhét éves Major Sára tehetséges táncos, azonban egy balul sikerült buli után kirakták a csapatából, a történtek miatt pedig megbélyegzetté vált az iskolájában. Éppen ezért ő is meglepődik,amikor Kocsis igazgató esélyt ad neki,és beválogatja a Szirtes Gimnázium csapatába,hogy három hasonló sorsú társával részt vegyen az Iskolák Országos Versenyén. &lt;br&gt;A négy név bejelentése nem kis meglepetést és felháborodást kelt a tanulók körében,az igazgató azonban bízik a megérzéseiben és a csapatában,így minden negatív reakció ellenére elindítja a Szirtes színeiben Major Sárát,Felcser Vivient,Fehér Rajmundot és Pap Dominiket. &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;A Bízz bennem az Iskolák Országos Versenye 2. trilógiájának első része.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>L&amp;L</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">leiner-laura-bizz-bennem</dc:identifier>
+        <dc:identifier opf:scheme="ANTIK_HU">leiner-laura-bizz-bennem-20001645-1</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786155653742</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>ifjúsági</dc:subject>
+        <dc:subject>romantikus</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Leiner, Laura&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Iskolák versenye"/>
+        <meta name="calibre:series_index" content="21"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-11-15T10:17:23+00:00"/>
+        <meta name="calibre:title_sort" content="Bízz bennem"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

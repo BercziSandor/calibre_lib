@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1184</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5a0bd76-d473-4bd1-91ec-2d3361063d2c</dc:identifier>
+        <dc:title>Alapítvány és Föld</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Asimov, Isaac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-18T00:00:00+00:00</dc:date>
+        <dc:description>A ​kezdetben trilógiának indult regényfolyam ötödik (befejező?) kötetében ismét Golan Trevize, az Alapítvány tanácsosa a főszereplő, ő az akinek döntenie kell a Galaktikus Birodalom jövőjéről. A negyedik kötet végén döntött is, de a döntés pillanatában kételkedés fogta el, nem volt-e idegen befolyás alatt. Hogy önmagát megnyugtassa elhatározza, hogy megkeresi az emberiség bölcsőjét, a mitikus múltba süllyedt Földet, amelyről senki sem tudja, hogy valóság-e vagy mese. Vele megy mítoszkutató tárgya, a tudós Pelorat, és Bliss a Gaia bolygó tökéletes társadalmának, illetve a bolygó egészének képviselője, akit Trevize hosszú ideig ellenszenvvel figyel. A három utazó a föld nyomait keresve bolygóról bolygóra repül, áthatolva a Tiltott világokon, megismerve a különböző berendezkedésű társadalmak titkait. Útjukon számtalan veszélyt és kalandot élnek át, mégis mintha titokzatos erő segítené őket. Solaria föld alatti országából egy akaratlan gyilkosság után, rejtélyes emberfeletti képességekkel rendelkező gyermeket visznek magukkal. Végül megtalálják az elveszett, lakhatatlanná vált Földet, sőt az a helyet is, ahonnan valamikor az emberiség útra kelhet a Galaxis benépesítésére.</dc:description>
+        <dc:publisher>GABO</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">isaac-asimov-alapitvany-es-fold</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789636894276</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>űropera</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>sci-fi</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>űrutazás</dc:subject>
+        <dc:subject>amerikai szerző</dc:subject>
+        <meta name="calibre:series" content="Alapítvány-Birodalom-Robot"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-03-27T10:01:38+00:00"/>
+        <meta name="calibre:title_sort" content="Alapítvány és Föld"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

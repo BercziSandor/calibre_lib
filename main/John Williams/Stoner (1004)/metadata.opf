@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1004</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0673578-13b5-41f3-bc23-7d9a816c4bcb</dc:identifier>
+        <dc:title>Stoner</dc:title>
+        <dc:creator opf:file-as="Williams, John" opf:role="aut">John Williams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;William Stoner enters the University of Missouri at nineteen to study agriculture. A seminar on English literature changes his life, and he never returns to work on his father's farm. Stoner becomes a teacher. He marries the wrong woman. His life is quiet, and after his death his colleagues remember him rarely. Yet with truthfulness, compassion and intense power, this novel uncovers a story of universal value. Stoner tells of the conflicts, defeats and victories of the human race that pass unrecorded by history, and reclaims the significance of an individual life. A reading experience like no other, itself a paean to the power of literature, it is a novel to be savoured.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Vintage</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">john-williams-stoner-angol</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780099595793</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>2. világháború</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>angol nyelvű</dc:subject>
+        <dc:subject>apaság</dc:subject>
+        <dc:subject>barátság</dc:subject>
+        <dc:subject>egyetem</dc:subject>
+        <dc:subject>életregény</dc:subject>
+        <dc:subject>emberi sorsok</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>házasság</dc:subject>
+        <dc:subject>klasszikus</dc:subject>
+        <dc:subject>lélektani</dc:subject>
+        <dc:subject>Missouri</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>tanár</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Williams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2016-05-25T07:57:44+00:00"/>
+        <meta name="calibre:title_sort" content="Stoner"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

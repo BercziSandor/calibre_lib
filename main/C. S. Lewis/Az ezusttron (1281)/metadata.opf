@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1281</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f9b9fce-66ba-4c61-b2ad-55eeccb62d01</dc:identifier>
+        <dc:title>Az ezüsttrón</dc:title>
+        <dc:creator opf:file-as="Lewis, C. S." opf:role="aut">C. S. Lewis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-25T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Narnia ​birodalmának titokzatos történetét hét kötetben mondja el a világhírű angol szerző, C. S. Lewis, ezek közül az elsőt, Az oroszlán, a boszorkány és a ruhásszekrény címűt vitte filmre a Walt Disney Pictures és a Walden Media.&lt;br&gt;A Narnia Krónikája a Jó és Rossz örök háborúját meséli el. Olykor a csatamezőn, nyílt küzdelemben csap össze a fény az árnnyal, máskor a szív rejtett zugaiban. Ám legyenek az ütközetek akár a lélekben, akár a harcmezőn: minden összecsapás meghatározó erejű.&lt;br&gt;Olyan utakon kalandozhatunk, amelyek a világ végére vezetnek, fantasztikus lényekkel köthetünk ismeretséget, megtudjuk, mi az árulás, mi a hőstett, mit jelent megnyerni vagy épp elveszíteni egy barátot. Kalandos utazás ez a fantázia birodalmában, ugyanakkor a legmélyebb valóságban. Kiadónk sorozatban jelenteti meg a rajzokkal illusztrált hét kötetet. Sorozat ez, melyben minden mű önmagában is teljes egész, önállóan is lenyűgöző olvasmány. Lépj hát be az Alsó Világba és keresd velünk az elveszett herceget.&lt;br&gt;A NARNIA KRÓNIKÁINAK HATODIK KÖTETE:&lt;br&gt;Az ezüst trón&lt;br&gt;Narnia… ahol az óriások szabadon kószálnak… ahol gonosz varázslat és bűbáj uralkodik. Zord, hideg télben indul útnak két embergyerek, s egy különös lápi lény. Nincs senki Narniában, aki a segítségükre sietne, a király messzi vizekre hajózott, s egy gonosz kígyó az összes bátor szívű lovagot elpusztította már.&lt;br&gt;Elmondhatatlan veszélyeken és sötét, mély barlangokon át tör előre a barátok maroknyi, nemes csapata, kiknek egyetlen célja a fogságban tartott herceg kiszabadítása. De vajon hol találnak rá? A föld felett? A föld alatt? Eljutnak Lennvilágba is, ahol a gonosz a leggyönyörűbb és leghalálosabb arcát mutatja meg.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harmat</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">9632881842</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">c-s-lewis-az-ezusttron</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789632884523</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>gyermekkönyv iskolásoknak</dc:subject>
+        <dc:subject>illusztrált</dc:subject>
+        <dc:subject>ír szerző</dc:subject>
+        <dc:subject>kaland</dc:subject>
+        <dc:subject>kalandregény</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>meseregény</dc:subject>
+        <dc:subject>oroszlán</dc:subject>
+        <dc:subject>portál fantasy</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. S. Lewis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Narnia krónikái"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-12-26T19:25:00+00:00"/>
+        <meta name="calibre:title_sort" content="ezüsttrón, Az"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;DOC&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

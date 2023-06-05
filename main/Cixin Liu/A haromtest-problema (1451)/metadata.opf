@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1451</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8168e55f-a1e2-4520-8b3c-43de08720a4a</dc:identifier>
+        <dc:title>A háromtest-probléma</dc:title>
+        <dc:creator opf:file-as="Liu, Cixin" opf:role="aut">Cixin Liu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-29T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;1967-ben, ​a maoista kulturális forradalom alatt egy fiatal egyetemista lánynak, Ye Wenjiének végig kell néznie, ahogy a vörösgárdisták halálra verik édesapját, a köztiszteletben álló tudóst. Ez a trauma nemcsak Ye Wenjie életét terelte gyökeresen eltérő irányba, hanem az egész emberiség sorsát is megváltoztatta.&lt;br&gt;Negyven évvel később a pekingi rendőrség felkeresi Wang Miaot, a nanokutatással foglalkozó mérnököt, hogy férkőzzön be egy tudósok alkotta, titkos társaságba, és szolgáltasson nekik értesüléseket. Ezekben a hetekben Kína-szerte több híres tudós lett öngyilkos, nem lehet tudni, miért. Wangot a nyomozás egy rejtélyes online számítógépes játékhoz vezeti el, és amikor játszani kezd, belemerül egy virtuális világba, ahol három, szabálytalan időközönként felkelő és lenyugvó nap határozza meg az élet kereteit.&lt;br&gt;A három nap rapszodikus viselkedésének feltérképezése jelenti a háromtest-problémát, és ez a probléma a végső kulcs a halálesetek felderítéséhez is. Wang, ahogy előrehalad a játékban, rádöbben, fényéveken átívelő összeesküvés részévé vált, és az emberiségnek hamarosan a legsúlyosabb fenyegetéssel kell szembenéznie. Hogyan kerülheti el a Föld teljes lakossága a kipusztulást?&lt;br&gt;Cixin Liu Hugo-díjas és kilencszeres Galaxy-díjas szerző, 1963-ban született Yangquanban. Első novelláskötete 1998-ban, első regénye 2002-ben látott napvilágot. Negyedik, ötödik és hatodik regénye együtt adja ki a Háromtest-trilógiá-t, amely az egész világon nagy sikert aratott. Mielőtt főállású író lett, mérnökként és számítástechnikusként dolgozott. &lt;br&gt;Szerintem van élet a földön kívül, csak azért nem találtuk még nyomát, mert nem szántunk rá elég időt, vagy technikailag nem elég fejlett módszerrel kutatunk. Persze egyéb lehetőségek sem kizártak. A Háromtest-problémá-ban felvázoltam a legijesztőbb, legborzalmasabb lehetőséget.&lt;br&gt;(Cixin Liu)&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">cixin-liu-a-haromtest-problema</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">f46b2300-276e-4be8-9d46-badb407cb442</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789634053842</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>kínai szerző</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>összeesküvés-elmélet</dc:subject>
+        <dc:subject>virtuális valóság</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>földönkívüliek</dc:subject>
+        <dc:subject>kínai</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>fizika</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>hard sci-fi</dc:subject>
+        <dc:subject>Hugo-díj</dc:subject>
+        <dc:subject>természettudomány</dc:subject>
+        <dc:subject>kozmológia</dc:subject>
+        <dc:subject>sci-fi</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cixin Liu&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A háromtest-trilógia"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-09-30T18:41:35+00:00"/>
+        <meta name="calibre:title_sort" content="háromtest-probléma, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;AZW3&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">024f3ca7-a0a1-4a7f-b273-51669be67fe7</dc:identifier>
+        <dc:title>Eper reggelire</dc:title>
+        <dc:creator opf:file-as="Fejős, Éva" opf:role="aut">Fejős, Éva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Dóra ​az íróasztalánál ült, a megrendeléseket nézte át, majd a kezébe vette a tollat, és elkezdte egyesével lehúzni a tételeket. A szálloda foglaltsági mutatói pillanatnyilag nem indokolták, hogy ilyen nagyvonalúan rendelgessen a helyettese. Aztán hirtelen észbe kapott. Maron már nem a helyettese. Legfeljebb papíron. És hamarosan az ő pozícióját tölti be – csupán napok kérdése a dolog. Ő ezentúl legfeljebb tanácsokat adhat neki. Nem más „fokozta le” – vagy, ahogy tetszik: léptette elő – tanácsadóvá: ő maga döntött így. Ő adta fel korábbi pozícióját, ő hagyta el hónapokra Indonéziát, és csak a távolból vezette a hotelt. Néhány nappal korábban érkezett vissza Bali szigetére, a feladatait átadni, és csomagolni. Csomagolni… és búcsúzni.&lt;br&gt;Kibámult az ablakon. Rálátott a medencére, és ha egy picit hátrébb gurult az asztaltól a székkel, rálátott az óceánra is. Mona Lisa és parti árustársai már lerohanták a háncsnapernyők alatt pihenő néhány vendéget. Dóra vágott egy grimaszt. Bár tudta, hogy az árusoknak ez az egyetlen megélhetési forrásuk, világosan megmondta nekik, hogy nem zaklathatják a pihenő vendégeket, csak akkor mehetnek oda hozzájuk, ha azok óceánparti sétára indulnak. Egy időben, amikor nemcsak papíron vezette a szállodát, hanem ott is élt, a balinéz árusok betartották ezt a szabályt. Most csupán Ogud, a festő srác – vele és családjával Dóra jó barátságot ápolt – ücsörgött a vendégektől tisztes távolságban, egy pálmafa árnyékában, egy képen dolgozva.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Erawan</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">fejos-eva-eper-reggelire</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">953eSAAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786155469398</dc:identifier>
+        <dc:identifier opf:scheme="ANTIK_HU">410168</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>Bali</dc:subject>
+        <dc:subject>barátság</dc:subject>
+        <dc:subject>Budapest</dc:subject>
+        <dc:subject>chick lit</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>női főszereplő</dc:subject>
+        <dc:subject>Párizs</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>utazás</dc:subject>
+        <dc:subject>Asian Interest</dc:subject>
+        <dc:subject>Szórakoztató irodalom</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>romantikus</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fejős, Éva&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Hotel Bali"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-13T14:13:19+00:00"/>
+        <meta name="calibre:title_sort" content="Eper reggelire"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

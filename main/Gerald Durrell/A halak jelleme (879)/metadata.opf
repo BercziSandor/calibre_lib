@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">879</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c83380bb-ac16-41d3-bb75-b93ab0784c88</dc:identifier>
+        <dc:title>A halak jelleme</dc:title>
+        <dc:creator opf:file-as="Gerald Durrell" opf:role="aut">Gerald Durrell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1978-02-15T10:38:11+00:00</dc:date>
+        <dc:description>Korfu: ​romantikus születésnapi mulatság, jégszekrényeltérítéssel, megfeneklett sétahajóval, nagyarányú koplalással. London: állatkereskedés – szakértelem és állateledel nélkül. Kamerun: hogyan pottyant mérgeskígyó a díszvacsora díszvendégének tányérjába? És megint London: az orrvérzés félelmetes gyógymódjai. Bournemouth: az angol tengerpart szókimondó asszonysága. 
+„Ez a kölyök nem normális”, mondta ingerülten 1931-ben Lawrence Durrell, és ezt a megjelölést alkalmazza kisebb variációkkal azóta is Gerald öccsére. Márpedig Gerry, a család fekete báránya szerint épp hogy ő maga az egyetlen józan ember egy tébolyult világban, és a bolondok gyülekezetének néhány igen kellemes példányát vonultatja fel könyvének lapjain. A halak jelleme méltó folytatása annak a sorozatnak, amelyet a Családom és egyéb állatfajták meg a Madarak, vadak, rokonok nem egészen dicstelenül kezdett. Réber László rajzai csodálatos harmóniában egyesülnek a bogaras családnak, a távoli vidékek növény- és állatvilágának és a közelebbi tájak csudabogarainak mulattató történeteivel.</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">gerald-durrell-a-halak-jelleme</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">LqFMzQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630794480</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>állattan</dc:subject>
+        <dc:subject>angol humor</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>Görögország</dc:subject>
+        <dc:subject>halak</dc:subject>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>illusztrált</dc:subject>
+        <dc:subject>ismeretterjesztő</dc:subject>
+        <dc:subject>klasszikus</dc:subject>
+        <dc:subject>Korfu</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>memoár</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <dc:subject>sziget</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gerald Durrell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2015-08-20T12:30:11+00:00"/>
+        <meta name="calibre:title_sort" content="halak jelleme, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

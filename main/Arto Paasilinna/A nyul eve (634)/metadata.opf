@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">634</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d342290-ff01-4948-93d8-6f366fcf4052</dc:identifier>
+        <dc:title>A nyúl éve</dc:title>
+        <dc:creator opf:file-as="Paasilinna, Arto" opf:role="aut">Arto Paasilinna</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1983-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A ​mai finn irodalom jellegzetesen gunyoros-kritikus hangját, a szatirikus kispróza és regény műfajait műveli Arto Paasilinna, akit a társadalmi ellentmondásokat vizsgáló új, fiatal nemzedékbe sorolhatunk: 1942-ben született az észak-finnországi Kittiläben. Mint kisregényének hőse, Vatanen, ő is volt fakitermelő erdei munkás, újságíró, szerkesztőségi munkatárs, A nyúl éve tehát nemcsak írói ötletekkel, a cselekmény fordulataival mulattatja az olvasót, hanem figurák, típusok, magatartások pontos megfigyeléseivel is szolgál.&lt;br&gt;Az író első kötete Nemzeti vendégkönyv címmel jelent meg, „a finn illemhelyek milyenségéről írt tanulmányának” nevezte magát (nem ok nélkül: a civilizáció foka mérhető ezeken a szociográfiai objektumokon világszerte), ezt két szatirikus kalandregény követte, a Finlandia-hadművelet és A Mennyország-sziget foglyai (inkább szórakoztatónak szánta Paasilinna e két művet), majd A nyúl éve meghozta a nagy sikert. Ezt több nyelvre lefordították, a belőle készült filmet a magyar televízió is bemutatta.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Magvető</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">64bfacf8-751d-4cab-a7e9-401da7ca9a47</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">arto-paasilinna-a-nyul-eve</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9632718925</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>1001 könyv listán szerepel</dc:subject>
+        <dc:subject>1970-es évek</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>állat</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>finn</dc:subject>
+        <dc:subject>finn szerző</dc:subject>
+        <dc:subject>Finnország</dc:subject>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>kaland</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>Lappföld</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>nyúl</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>számi (lapp)</dc:subject>
+        <dc:subject>szatíra</dc:subject>
+        <dc:subject>társadalomkritika</dc:subject>
+        <dc:subject>társadalomrajz</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arto Paasilinna&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2014-09-17T07:38:24+00:00"/>
+        <meta name="calibre:title_sort" content="nyúl éve, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

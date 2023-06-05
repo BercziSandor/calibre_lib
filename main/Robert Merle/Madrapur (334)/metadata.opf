@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">334</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6283a5f6-6998-4d08-a035-d50185671867</dc:identifier>
+        <dc:title>Madrapur</dc:title>
+        <dc:creator opf:file-as="Merle, Robert" opf:role="aut">Robert Merle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1981-02-15T12:01:10+00:00</dc:date>
+        <dc:description>„Elkésett ​utas már nem is reméli, hogy útra kelhet. Kihalt repülőtér – éppúgy lehetne irdatlan vidámpark vagy melegház is. Sztrájk? Sehol senki: se légiszemélyzet, se utasok. Aztán a semmiből mégis egy bájosan személytelen stewardess. A formaságokat mellőzve, ugyanakkor ellentmondást nem tűrően kalauzol a fedélzetre. Türelmetlen utastársak: mindkét nembeliek, nációk tarkasága tart a rejtelmes Madrapur felé. Miféle új ígéret földje? A hétköznapi szituáció egyre nyomasztóbb. Aztán mintha kibújna a szög a zsákból: terroristák fognak fegyvert a többi utasra. Kiderül, hogy a pilótafülke üres, a távolból, ismeretlen központból vezérlik a gépet, amely időnként kietlen, fagyos tájakon landol: ilyenkor mindig kiszáll néhány utas. Önszántából vajon? A majomszerű alsó arctáját restellő, a felsőbbik emberszabására bezzeg rátarti utas úgy írja le percről percre a kalandos röpülést, ahogyan megéli: élénken észleli környezetét és a történéseket, de megfejteni őket képtelen… Robert Merle hosszú pályáján kivívta a magyar olvasók szeretetét. Ez az 1981-ben kelt regénye már nem sci-fi ízű, baljós előérzetei sajnos igazolódtak: világterrorizmus, klímaváltozás… Találó jellemzései, szellemessége annál nagyobb hálára köteleznek.”</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">-Zp4cgAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">robert-merle-madrapur</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630727181</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>betegség</dc:subject>
+        <dc:subject>francia szerző</dc:subject>
+        <dc:subject>halál</dc:subject>
+        <dc:subject>klasszikus</dc:subject>
+        <dc:subject>kommunikáció</dc:subject>
+        <dc:subject>lélektani</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>repülő</dc:subject>
+        <dc:subject>szocializáció</dc:subject>
+        <dc:subject>szociálpszichológia</dc:subject>
+        <dc:subject>terrorizmus</dc:subject>
+        <dc:subject>utazás</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Merle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-18T20:22:27+00:00"/>
+        <meta name="calibre:title_sort" content="Madrapur"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

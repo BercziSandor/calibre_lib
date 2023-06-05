@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">211</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">94fb496a-b17c-4637-9416-758d5b83147f</dc:identifier>
+        <dc:title>Elvásik a veres csillag</dc:title>
+        <dc:creator opf:file-as="Wass, Albert" opf:role="aut">Wass, Albert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-22T00:00:00+00:00</dc:date>
+        <dc:description>Tánczos ​Csuda Mózsi régi jó ismerőse a Wass Albert-regények kedvelőinek. Igazi székely góbé ő, Tamási Ábeljének kissé korosabb rokona, aki már a Tizenhárom almafa lapjain is székely furfanggal igyekezett boldogulni a történelem viharaiban. Tánczos Csuda Mózsival most újra találkozhat az olvasó, ha kézbe veszi Wass Albert Elvásik a veres csillag című regényét. A valós történelmi eseményekre épülő regény a bolsevista megszállástól az 1956-os magyarországi forradalom utáni erdélyi magyarellenes bosszúhadjáratig követi nyomon a Tánczos család történetét, s egy székely falu erőszakos elrománosításának stációit.
+A regény két nagy fejezetből áll. Az első a többé-kevésbé sikeres boldogulni próbálás krónikája: Tánczos Csuda Mózsit Dombi-Dombolov elvtárs, az „odesszai magyar”, a székely faluba küldött orosz komiszszár kinevezi „csertifikátos vadőrnek”. A „bizalmi állásban” a legkülönfélébb kalandokat éli meg Mózsi. Afféle húzd meg-ereszd meg játék ez a hatalommal: a főhős úgy próbál boldogulni az új keretek között, hogy egyetlenegyszer se tegyen olyat, ami erkölcsi érzékével szemben áll, viszont mindemellett együttműködjék annyira a bolsevista hatalom képviselőivel, hogy kényelmesen megélhessen a család. Szatirikus látlelet ez a diktatórikus rendszerek működéséről, ahol mindenki függ valakitől, és esetenként az alárendelt ember furfangja védheti meg felettesét a bukástól. Közben az olvasó betegre kacagja magát Mózsi kiszólásain, az abszurdnál abszurdabb jeleneteken.
+Aztán a regény második részében már kevesebbet kacagunk, mert az ott bemutatott események során minden tönkremegy. Először lecserélik az „odesszai magyart” egy másik komisszárra, majd Mózsi is megszűnik „csertifikátos vadőrnek” lenni. Ezzel kezdődik a Tánczos család és a falu életének megállíthatatlan romlása. Odafönn a bércen mind csak halványul a veres csillag, amelyet a falu népe elismerésként kapott kitűnő termelési eredményéért, amely nem is volt annyira kitűnő, csak Mózsi furfangossága miatt hitte azt róla a településre küldött ellenőrző bizottság. Fenn az ormon mindegyre vásik a veres csillag, miközben odalent az 1956-os forradalom után a szomszéd román falu lakói népirtást rendeznek a helyi székelyek között, s egyre gyakrabban indulnak vagonok a falubeliekkel Dobrudzsába. Az elhurcoltak helyébe besszarábiai románokat telepítenek, hogy a kötet végén Mózsival és feleségével, Rozálival is elinduljon a marhavagon a messzi lápvidék felé, s a családból egyedül az időközben felnőtté cseperedett kicsi Mózsi maradjon meg szülőföldjén, havasi bujdosóként. A regény zárlatából az elkeseredés helyett mégis a bizalom hangja sejlik elő. Akit érdekel, az olvassa el az Elvásik a veres csillag című Wass Albert-regényt, amely abba a mifelénk ismét egyre ismerősebbé váló időszakba kalauzolja el az olvasót, amelynek során „ami ezelőtt okosság volt, az ma lopás, s ami azelőtt lopás volt, az most törvény, s mindezt együtt úgy nevezik, hogy szociálizmus”.</dc:description>
+        <dc:publisher>Duna International</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">wass-albert-elvasik-a-veres-csillag</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786155013546</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>erdő</dc:subject>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>székely</dc:subject>
+        <dc:subject>Erdély</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>1940-es évek</dc:subject>
+        <dc:subject>Historical Fiction</dc:subject>
+        <dc:subject>medve</dc:subject>
+        <dc:subject>határon túli</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>hangoskönyv</dc:subject>
+        <dc:subject>Székelyföld</dc:subject>
+        <dc:subject>erdélyi magyar szerző</dc:subject>
+        <dc:subject>történelem</dc:subject>
+        <dc:subject>vadászat</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Wass, Albert&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2012-11-17T20:51:22+00:00"/>
+        <meta name="calibre:title_sort" content="Elvásik a veres csillag"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

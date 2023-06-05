@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">86</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">479b53ab-52b2-4523-ac00-d325c2557dc3</dc:identifier>
+        <dc:title>Agymosás</dc:title>
+        <dc:creator opf:file-as="Cook, Robin" opf:role="aut">Robin Cook</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-18T00:00:00+00:00</dc:date>
+        <dc:description>Adam ​Schonberg, harmadéves orvostanhallgató nehéz anyagi körülmények között él feleségével, Jenniferrel, a táncosnővel. Jennifer teherbe esik, és azért hogy a gyereket megtarthassák, Adam félbehagyja tanulmányait, és egy gyógyszergyárnál, az Arolennél helyezkedik el. A virágzó, ultramodern intézmény örömmel fogadja ajánlkozását, s Adam szépen is halad előre. Ámde furcsa dolgokat tapasztal a cégnél. A gyár egy luxushajón rendez továbbképző tanfolyamokat meghívott orvosok számára, akik a hajóútról visszatérve különös személyiségváltozás jeleit mutatják. A fiatalok házasságában is egyre több feszültség gyülemlik fel: egy házastársi veszekedést követően Jennifer hazaköltözik szüleihez, de hamarosan súlyos döntésre kényszerül: orvosa szerint a vizsgálatok arra utalnak, hogy jövendő gyermeke súlyos fejlődési rendellenességgel jönne világra, ezért abortuszra volna szükség. Adam gyanúját az Arolen különös üzelmeivel kapcsolatban tovább erősíti egyik munkatársának eltűnése és egy orvos öngyilkossága. Elhatározza, hogy végére jár a dolognak… A bestseller orvosíró láthatólag túl akarta szárnyalni főművét, a Láz-t – s ez sikerült is neki. Könyve a maga speciális műfajában, a sci-fibe hajló techno-horrorban ismét azokat a rémlátomásokat idézi fel, amelyhez – szerinte – a teljesen gépesített, elembertelenedett és elüzletiesedett modern gyógyászat vezethet. Cook szabadon engedi fantáziáját, mely egy abszurd és hátborzongató „szép új világ”-ba sodorja. Története – az ifjú medikus és felesége, a táncosnő története – hátborzongató kalandfilmhez hasonlít – s pompásan kielégíti az olvasó mese- és borzongásigényét.</dc:description>
+        <dc:publisher>GABO</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">robin-cook-agymosas</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789636890872</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>orvosi krimi</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-15T20:40:44+00:00"/>
+        <meta name="calibre:title_sort" content="Agymosás"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

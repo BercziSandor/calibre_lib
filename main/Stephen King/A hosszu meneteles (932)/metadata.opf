@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">932</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b711cc8-0d5d-4ea6-8933-8a8531577888</dc:identifier>
+        <dc:title>A hosszú menetelés</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-20T00:00:00+00:00</dc:date>
+        <dc:description>Amerikát totális diktatúra uralja, a renitens polgárokat különítmény hurcolja el. A tizenéves fiúk számára egyetlen kiugrási lehetőség kínálkozik: a minden évben megrendezett Hosszú Menetelés, amelyet országszerte százezrek figyelnek, és a tévé is közvetít. Száz fiú indul útnak a megadott útvonalon, amelyet gyalogszerrel, legalább négy mérföld per órás átlagsebességgel kell teljesíteni. Csak egy győztes lehet, a lemaradókat ott helyben katonák végzik ki.
+Stephen King korai, álnéven írt gyöngyszeme az Éhezők viadalá-hoz hasonló, kegyetlen, kétségbeesett világot mutat be.</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">stephen-king-richard-bachman-a-hosszu-meneteles</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789634052012</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>diktatúra</dc:subject>
+        <dc:subject>disztópia</dc:subject>
+        <dc:subject>Észak-Amerika</dc:subject>
+        <dc:subject>fiatalkor</dc:subject>
+        <dc:subject>gyilkosság</dc:subject>
+        <dc:subject>halál</dc:subject>
+        <dc:subject>katonaság</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>Maine</dc:subject>
+        <dc:subject>posztapokaliptikus</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>túlélés</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2016-05-25T06:54:27+00:00"/>
+        <meta name="calibre:title_sort" content="hosszú menetelés, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

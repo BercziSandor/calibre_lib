@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">158</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">293faeb0-e875-4095-9d11-393e0ad38ae2</dc:identifier>
+        <dc:title>Ne engedj el…</dc:title>
+        <dc:creator opf:file-as="Ishiguro, Kazuo" opf:role="aut">Kazuo Ishiguro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Különös ​körülmények között nevelkednek a világtól elzárt magániskola, Hailsham növendékei. Noha minden szempontból kitűnő nevelést kapnak, tanáraik mintha egyszerre tartanának tőlük és szánnák őket. A diákok megtanulják, hogy különlegesnek számítanak, és hogy kiváló egészségük megőrzése nem csupán önmaguk érdeke, hanem a társadalomé is. Ám furcsa módon a külvilágról, melyet majdan szolgálniuk kell, szinte semmit nem tudnak. S ahogy múlnak az évek, az idillinek tetsző elszigeteltségben lassan ráébrednek, hogy az egyre gyakrabban megtapasztalt félreértések, zavaró ellentmondások hátterében sötét titok bújik meg.&lt;br&gt;Az egykori diák, Kathy, harmincas évei elején idézi fel hailshami emlékeit, amikor felbukkan az életében két régi iskolai barátja, Ruth és Tommy. Miközben megújul és megerősödik barátsága Ruthszal, parázsló tinivonzalma Tommy iránt pedig szerelemmé kezd érni, az elfojtott emlékek nyugtalanítóan a felszínre törnek, s a visszatekintés felismerései következtében a barátoknak újra szembe kell nézniük a gyermekkoruk hátterében rejtőző igazsággal, mely egész életüket meghatározza. Ám a drámai őszinteségű szembesülés talán túl későn érkezik el mindhármójuk számára, kapcsolatuk szövevényének szálait már nem bogozhatja szét megnyugtatóan.&lt;br&gt;A Napok romjai szerzőjének megtévesztő egyszerűséggel kibontakozó remekműve rendkívüli érzékenységgel tárja elénk a remény és az elfogadás, beletörődés időtlen drámáját. A visszafogott nyelvezet csalóka látszata mögött páratlan érzelmi mélység rejlik, melyet kiaknázva Ishiguro merészen újszerű megközelítésben vizsgálja egy napjainkban igen aktuális társadalmi kérdés erkölcsi szempontjait.&lt;br&gt;A regény számos nyelven óriási sikert aratott, 2005-ös megjelenését követően rövid időn belül több jelentős irodalmi díjat is elnyert, és a Time magazin beválogatta a száz legjobb angol nyelvű regény közé.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789634055112</dc:identifier>
+        <dc:identifier opf:scheme="ANTIK_HU">293606</dc:identifier>
+        <dc:identifier opf:scheme="LIBRI_HU">ne-engedj-el</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">kazuo-ishiguro-ne-engedj-el</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>1001 könyv listán szerepel</dc:subject>
+        <dc:subject>1990-es évek</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>alternatív történelem</dc:subject>
+        <dc:subject>Anglia</dc:subject>
+        <dc:subject>angol szerző</dc:subject>
+        <dc:subject>Arthur C. Clarke-díj</dc:subject>
+        <dc:subject>barátság</dc:subject>
+        <dc:subject>disztópia</dc:subject>
+        <dc:subject>emberi sorsok</dc:subject>
+        <dc:subject>fejlődésregény</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>irodalmi Nobel-díj</dc:subject>
+        <dc:subject>japán szerző</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>női főszereplő</dc:subject>
+        <dc:subject>sci-fi</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>Irodalom</dc:subject>
+        <dc:subject>Szépirodalom</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kazuo Ishiguro&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-16T20:12:03+00:00"/>
+        <meta name="calibre:title_sort" content="Ne engedj el…"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

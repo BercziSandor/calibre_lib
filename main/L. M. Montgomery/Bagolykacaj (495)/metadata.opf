@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">495</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">41239a7f-9e54-4af5-8ddf-d2feb8c21790</dc:identifier>
+        <dc:title>Bagolykacaj</dc:title>
+        <dc:creator opf:file-as="Montgomery, L. M." opf:role="aut">L. M. Montgomery</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-22T00:00:00+00:00</dc:date>
+        <dc:description>Emily, Ilse, Teddy és Perry már a Shrewsbury-i középiskola diákjai. Emily az hitte, csodás lesz a szép Shrewsburyben lakni és középiskolába járni, ám a sokszínű Mr. Carpenter után sótlannak és szellemtelennek tűnik az összes tanár, és van egy undok, másodikos lány, akit első látásra ellenszenvesnek talál. „Dehát az életben semmi sem pontosan olyan, mint amire számít az ember…”
+Emily Starr egy sereg oktalan és helytelen dolgot művel, ámde ő nem hétköznapi kamaszlány. „Naplója” minden ifjonti csiszolatlansága és dőlt betűi ellenére bármely önéletrajzírónál hívebben mutatja be az immár tizennégy esztendős lány környezetét, személyiségét, fantáziadús, önelemző elméjét. Vessünk hát egy újabb pillantást a „Jimmy-naplók” lapjaira, amelyet ezúttal nem csupán a New Moon-i toronyszobában, hanem Shrewsbury-ben, a barátságtalan Ruth néni fedele alatt és állandó szurkapiszkái közepette ír…</dc:description>
+        <dc:publisher>Könyvmolyképző</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">l-m-montgomery-bagolykacaj</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">5736d9bd-bdb0-4640-bf50-1325cb3fc0a7</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789632459202</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>gyermekkönyv iskolásoknak</dc:subject>
+        <dc:subject>ifjúsági</dc:subject>
+        <dc:subject>iskola</dc:subject>
+        <dc:subject>Kanada</dc:subject>
+        <dc:subject>kanadai szerző</dc:subject>
+        <dc:subject>lányregény</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>naplóregény</dc:subject>
+        <dc:subject>női főszereplő</dc:subject>
+        <dc:subject>Prince Edward-sziget</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. M. Montgomery&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Emily"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2013-06-04T20:22:39+00:00"/>
+        <meta name="calibre:title_sort" content="Bagolykacaj"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

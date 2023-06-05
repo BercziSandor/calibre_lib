@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1524</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8122eb02-3b7c-4c6d-a523-d27aead4a00c</dc:identifier>
+        <dc:title>Prűdek és paráznák</dc:title>
+        <dc:creator opf:file-as="Quirk, Joe" opf:role="aut">Joe Quirk</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-22T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Férfiak ​és nők tényleg nem egyformák. És bizonyos életkor fölött mindenki tisztában van vele, hogy miben különböznek. &lt;br&gt;De vajon tudják-e, miért különböznek? &lt;br&gt;Mennyi megválaszolatlan kérdés! Mint például: &lt;br&gt;• Mi a közös a férfiakban és a majmokban? &lt;br&gt;• Mi a közös a nőkben és a lugasépítő madarakban? &lt;br&gt;• Mit tudhatsz meg a heréid méretéből? Miért olyan nehéz megtalálni a G-pontot? &lt;br&gt;• Minek a férfiaknak mellbimbó?&lt;br&gt;Ebben a könyvben egy átlagos pasi veszi szemügyre a párkapcsolatok örökzöld témáját a szociológia, a biológia, az antropológia és néhány borzalmas randi tükrében. S közben föltesz és meg is válaszol jó néhány, sokakat kínzó kérdést, úgymint: &lt;br&gt;• Miért a férfi kosárlabdázók állnak az első helyen a vonzalmi listán? &lt;br&gt;• Miért áll érdekükben a nőknek, hogy a zsírt a fenekükön meg a combjukon gyűjtögessék? &lt;br&gt;• Miféle előnyt jelent a szaporodásban a homoszexualitás génje? &lt;br&gt;Ez a vérbően humoros, intelligens és kicsit flúgos könyv hozzásegít, hogy az állatvilágból vett példák segítségével férfiak és nők kicsit jobban megértsék egymást.&lt;br&gt;Az Adélie-pingvin hímje kaviccsal fizet a szexért. Ne röhögj. Képzeld el, mit szólnának a pingvinek, ha azt látnák, hogy a Homo sapiens nősténye színes papírdarabkákért adja a szexet.&lt;br&gt;A kövek értékes valutát jelentenek az Adélie-pingvinek körében. Ezek a madarak iszapos területen költenek. Lehet, hogy ez a sárban való kettyintés neked izginek tűnik, de a fiókák nevelése szempontjából rettenetes. A kavics arrafelé ritkaság, a nőstényeknek mégis szükségük van rá, hogy magasított, száraz platóra építhessék a fészküket. És mindannyian tudjuk, mi van akkor, ha valamely anyagi eszközre a nősténynek rendkívül nagy szüksége van. A hímek összeverekszenek a kövekért, ellopkodják egymástól, felhalmozzák, hencegnek vele. A nők a jó kavicsszállítókkal létesítenek párkapcsolatot.&lt;br&gt;Néha, amikor a férj éppen nem figyel, a feleség is kisurran a fészekből, hogy a legősibb módszerrel tegyen szert kövekre. Ahogy csak a pingvinek tudnak oldalogni, sasszézva megközelíti egy pingvinagglegény kőfészkét. A tojó a jól ismert fejbiccentéssel, szemérmesen, oldalvást odapillog. Ha a hím a fickós hímekre általánosan jellemző kiguvadt szemmel néz vissza rá, akkor a nő belibben, hanyatt veti magát, és tappancsait széttárja. A biológusok elég bizonyítékot gyűjtöttek ahhoz, hogy kijelenthessék: ez párzásra való felhívás. A hím megadja, amit a tojó kíván, s a tojó kap egy követ is. Fogja a követ, és Jani pingvin garzonjából visszatotyog vele a fészkére. A férj hazatér a munkából, és semmit sem vesz észre az asszonyon. Szerencsére a pingvinek arcjátéka nem nagyon széles skálájú.&lt;br&gt;Joe Quirk&lt;br&gt;spermatermelő író, aki a majomkodásból házasságkötés által lépett a monogámia ösvényére. Észak-Kaliforniában él feleségével és két macskájával, akiknek a vesztét kívánja.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Park</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">joe-quirk-prudek-es-paraznak</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789635308552</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>szexuálpszichológia</dc:subject>
+        <dc:subject>szexualitás</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joe Quirk&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-12-23T16:16:42+00:00"/>
+        <meta name="calibre:title_sort" content="Prűdek és paráznák"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, PDF&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

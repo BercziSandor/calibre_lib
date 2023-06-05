@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1433</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e9f5f70-4d62-4d6d-ac3c-b68b92dca3f5</dc:identifier>
+        <dc:title>Óceán az út végén</dc:title>
+        <dc:creator opf:file-as="Gaiman, Neil" opf:role="aut">Neil Gaiman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;AMIKOR EGY EMLÉK FELENGED, A MÚLT SZIVÁROG KI BELŐLE&lt;br&gt;Mit tehet egy hétéves fiú, ha az addig nyugodt, vidéki életet megzavarja valami, ami nagyobb nemcsak nála, de az általa ismert felnőtteknél, sőt az általa ismert világnál is? Ami a világon túlról jött? Hirtelen elszakad a saját családjától, és egyetlen hely van ahová mehet, egy ház a földút végén. Ebben a házban három nő lakik, három nemzedék, nagymama, anya és lánya, akik sokat láttak és még többet tudnak. Ismerik a titkos utakat és lebegő járatokat, értik a halk szavakat és a néma igéket, jártak a földeken innen és a vizeken túl. Ők segíthetnek, csakhogy mint mindennek, a segítségnek ára van.&lt;br&gt;Neil Gaiman új regénye a gyermekkor varázslatát mutatja a felnőttlét karcos szemüvegén át, az ártatlanság elvesztését a tapasztalat párás tükrében, hírnevéhez méltóan egy olyan történetben, amely semmihez sem hasonlít.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Agave Könyvek</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">c891dde3-68a4-4bb1-8a1a-e4d4c482792c</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">zBcNogEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">neil-gaiman-ocean-az-ut-vegen</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786155272219</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>állat</dc:subject>
+        <dc:subject>Anglia</dc:subject>
+        <dc:subject>angol szerző</dc:subject>
+        <dc:subject>barátság</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>család</dc:subject>
+        <dc:subject>dark fantasy</dc:subject>
+        <dc:subject>emlékezet</dc:subject>
+        <dc:subject>énelbeszélő</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>fizikai bántalmazás</dc:subject>
+        <dc:subject>gyermek főszereplő</dc:subject>
+        <dc:subject>gyermekkor</dc:subject>
+        <dc:subject>gyermekszemszög</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>Locus-díj</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Neil Gaiman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-09-30T18:12:45+00:00"/>
+        <meta name="calibre:title_sort" content="Óceán az út végén"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

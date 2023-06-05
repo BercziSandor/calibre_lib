@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">108</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cace27e8-ba97-455c-8180-c4db9627658a</dc:identifier>
+        <dc:title>A bankár</dc:title>
+        <dc:creator opf:file-as="Tamás, Frei" opf:role="aut">Frei, Tamás</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-18T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Jamaicán ​a rendőrségi terepjárók már dübörögnek, hogy kézre kerítsék a Magyarországról óriási vagyont „kimenekítő” és a távoli karibi szigeten bujkáló, korrupt pesti bankárt.&lt;br&gt;Az Országos Jelzáloghitelbank elnökének privát gépén irtózatos erejű pokolgépet rejtettek el, és csupán percek kérdése, hogy Magyarország egyik legbefolyásosabb milliárdosát a feleségével együtt a levegőbe repítsék.&lt;br&gt;André, a leszerelt légiós és szerelme, Adrienn e pillanatban fordul rá a genovai főutcára, de a rövid mézesheteknek egy orosz bérgyilkos vet véget, aki már a nyomukban liheg.&lt;br&gt;A Megmentőből megismert André sorsdöntő válaszút elé kerül; cserbenhagyja Adriennt, amint korábbi élete megkísérti? Megtalálja a bankárt, akinek kapzsi mohósága Magyarországot végveszélybe sodorja? És mindezek után vajon visszatalál önmagához, vagy a dühödt bosszú olyan helyekre hajtja, ahonnan már nincs visszaút?&lt;br&gt;Frei Tamás első regénye, A Megmentő, hónapokig vezette a hazai sikerlistákat. A „konspirációs akcióthriller” meghonosítójaként Frei Tamás második sikerkönyvében ismét az „itt és most”-ot tárja fel olvasóinak, torokszorító izgalmak közepette. Fordulatos érzelmi hullámvasúton repít minket az amerikai ultragazdagok csillogó villáitól az Everglades bűzös mocsaráig, a lélektelen emberrablók világvégi rejtekhelyétől a tőzsdecápák konspirációinak fehér abroszos asztaláig, a politika és bűnözés, a bosszú és leszámolás, a hatalmi és szerelmi játszmák terepére, aminek értő és érző ismerője, és amelynek a világa, egy államcsőd árnyékában, sokkal közelebb van a mai Magyarországhoz, mint gondolnánk…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alexandra</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">frei-tamas-a-bankar</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">eTWhAQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789632547220</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Thrillers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frei, Tamás&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="André"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-15T20:43:35+00:00"/>
+        <meta name="calibre:title_sort" content="bankár, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

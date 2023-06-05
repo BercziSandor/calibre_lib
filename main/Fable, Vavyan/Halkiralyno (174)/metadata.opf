@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">174</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">223bc12b-2dbc-49dc-af24-bb03ca80cb6f</dc:identifier>
+        <dc:title>Halkirálynő</dc:title>
+        <dc:creator opf:file-as="Fable, Vavyan" opf:role="aut">Fable, Vavyan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-03-26T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;A ​regény az 1987-ben megjelent A Halkirálynő és a Kommandó második kiadása. Az újabb megjelenést a regény hatalmas sikere indokolja, s a címváltoztatás sem véletlen. Az Olvasók Halkirálynő-ként emlegetik a könyvet, s Vavyan Fable kéziratán is ez a cím állt hajdan, amikor kiadót keresett hozzá.&lt;/p&gt;&lt;p class="description"&gt;„Nehéz fajsúlyú, veretes, itt-ott túlságosan is komor irodalmunk peremén hirtelen felbukkan egy kis csaj, ránk fogja a tollát, és elrikkantja magát: fel a kezekkel! Mögötte ott a kommandó, megvillan a tenyerek éle, cipőtalpak hasítják a levegőt, és darabokra törik a gonosz pofacsontja. Óriási!”&lt;/p&gt;&lt;p class="description"&gt;(Magyar Katalin)&lt;/p&gt;&lt;p&gt;
+
+
+&lt;/p&gt;&lt;p class="description"&gt;„Fable – a csodák csodája – amerikaibb az amerikainál (a Hemmettől Chandlerig terjedő stílusnál). Melynek jellemzője a laza (ön)gunyorosság, a könnyed, gyors, felszínes, de hatásos valóságelemzés, a legmélyebb érzések némi cinikus fölénnyel kezelése (csupán az érzelgősség és nem az érzés elhárítása céljából). Fő vonalakban ezekből táplálkozik az a sajátos atmoszférát teremtő lendület, mely Fablenak is sajátja.”&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Pannon</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9637955151</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">vavyan-fable-halkiralyno</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>akció</dc:subject>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>kalandregény</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>Action &amp; Adventure</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fable, Vavyan&quot;: &quot;https://hu.wikipedia.org/wiki/Vavyan_Fable&quot;}"/>
+        <meta name="calibre:series" content="Halkiralynö"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2012-11-17T20:41:47+00:00"/>
+        <meta name="calibre:title_sort" content="Halkirálynő"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

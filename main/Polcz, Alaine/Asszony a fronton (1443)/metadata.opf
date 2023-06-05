@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1443</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44355f0f-d836-46a8-b0ed-272081bed730</dc:identifier>
+        <dc:title>Asszony a fronton</dc:title>
+        <dc:creator opf:file-as="Alaine, Polcz" opf:role="aut">Polcz Alaine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.28.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-29T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Minden háborúnak ezer arca van. Ez az enyém, ahogy én élem meg. Egy fiatal nő, én magam, tizenkilenc-húsz évesen pár hónapos asszonyként hogyan kerültem az erdélyi kisebbségi sorból, az anyaországhoz visszakapcsolt Erdélyből a csákvári Esterházy-kastélyba.&lt;br&gt;Egy asszony élete a fronton. Éhezés, tetvek, lövészárokásás, krumplihámozás, hideg, mocsok. Ez az élet nemcsak az enyém volt. Férjem fehér hajú édesanyját uyanúgy elhurcolták és megerőszakolták, mint a serdülőlányokat. Az orosz katonák megtámadtak, elvertek, megvédtek, csizmával a kezemre léptek, megetettek. Milyenek voltak ők és milyenek voltunk mi? Miért erőszakolták meg a nőket, hogy esetleg az életükkel fizessenek érte? Nemcsak a bombák és a lövedékek pusztítottak, nemcsak magyarokat és németeket végeztek ki. Miért harcoltak ők? És mi?&lt;br&gt;Polcz Alaine&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Jelenkor</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">7550eec3-bc2b-44c7-9656-734b6abf7f6f</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789635181339</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">polcz-alaine-asszony-a-fronton</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>2. világháború</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>303 magyar regény</dc:subject>
+        <dc:subject>betegség</dc:subject>
+        <dc:subject>Budapest</dc:subject>
+        <dc:subject>Erdély</dc:subject>
+        <dc:subject>erdélyi magyar szerző</dc:subject>
+        <dc:subject>háború</dc:subject>
+        <dc:subject>házasság</dc:subject>
+        <dc:subject>Kolozsvár</dc:subject>
+        <dc:subject>kórház</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>Magyarország</dc:subject>
+        <dc:subject>memoár</dc:subject>
+        <dc:subject>nemi erőszak</dc:subject>
+        <dc:subject>női főszereplő</dc:subject>
+        <dc:subject>nők elleni erőszak</dc:subject>
+        <dc:subject>Románia</dc:subject>
+        <dc:subject>történelem</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Polcz Alaine&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-09-30T18:27:09.431349+00:00"/>
+        <meta name="calibre:title_sort" content="Asszony a fronton"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;MOBI&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">777</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a488372-49da-48c4-8a56-d5d7677a0983</dc:identifier>
+        <dc:title>Scientia sacra</dc:title>
+        <dc:creator opf:file-as="Hamvas, Béla" opf:role="aut">Hamvas Béla</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-18T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;„Hamvas Béla tanításának talán legmagasabb csúcsát az archaikus hagyomány és a keresztény "jó hír”, az evangéliumok egységének helyreállítása jelenti… Kétezer év után a nyugati civilizáció embere kezdi felismerni Jézus üzenetét: azért jöttem, hogy „mindnyájan egyek legyenek, ahogy te énbennem vagy, és én tebenned vagyok.”&lt;/p&gt;</dc:description>
+        <dc:publisher>Medio</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9639240311</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">193748dd-98d3-4d5e-8159-817c858163c9</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">hamvas-bela-scientia-sacra</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>kereszténység</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>esszé</dc:subject>
+        <dc:subject>filozófia</dc:subject>
+        <dc:subject>vallás</dc:subject>
+        <dc:subject>vallásfilozófia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hamvas Béla&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2014-09-20T13:12:54+00:00"/>
+        <meta name="calibre:title_sort" content="Scientia sacra"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

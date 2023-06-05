@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">711</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b0c2668-e674-4d33-84ec-1f09c71f09e7</dc:identifier>
+        <dc:title>Harry Potter and the Chamber of Secrets (Book 2)</dc:title>
+        <dc:creator opf:file-as="Rowling, J. K." opf:role="aut">J. K. Rowling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-09T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In Harry Potter and the Chamber of Secrets, the summer after Harry’s first year at Hogwarts has been his worst summer ever… the Dursleys more distant and horrible than ever before. But just as he’s packing his bags to return to school, a creature named Dobby the house-elf announces that if Harry goes back to Hogwarts, disaster will strike. And it turns out, Dobby is right. Harry and Ron miss the Hogwarts Express, so they fly to school in a blue Ford Anglia, crash landing in the notorious Whomping Willow. Soon other worries accumulate: the outrageously stuck-up new professor Gilderoy Lockhart; a ghost named Moaning Myrtle, who haunts the girls' bathroom; the strange behavior of Ron's little sister, Ginny Weasley; rumors about the "Chamber of Secrets," a cavern buried deep below Hogwarts; and a magical diary owned by Tom Riddle, a Hogwarts student of long ago. Harry is also shocked to discover that he can speak Parseltongue, the language of snakes - a rare ability that Lord Voldemort also possessed - and that anti-Muggle prejudice exists in the Wizarding world, even affecting Harry's friend Hermione. But all of these seem like minor concerns when someone starts turning Hogwarts students to stone: an evildoer said to be the fearsome Heir of Salazar Slytherin, on of the founders of the school. Could it be Draco Malfoy, Harry's most poisonous rival? Could it be Hagrid whose mysterious past is finally told? Or could it be the one person everyone at Hogwarts most suspects: Harry Potter himself?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Arthur A. Levine Books</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">ZTE0BgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780439064866</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>Action &amp; Adventure</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. K. Rowling&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Harry Potter"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2014-09-20T11:35:25+00:00"/>
+        <meta name="calibre:title_sort" content="Harry Potter and the Chamber of Secrets (Book 2)"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

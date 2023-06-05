@@ -1,0 +1,28 @@
+# <a name="id_182">Frank Herbert: Dune (A Dűne 1) </a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Frank%20Herbert/Dune%20%28182%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Frank%20Herbert/Dune%20%28182%29/Dune%20-%20Frank%20Herbert.epub)
+
+### Tagek
+amerikai szerző, fantasy, férfi főszereplő, filmadaptáció, gyilkosság, gyűjtemény, háború, halál, hugo-díj, jövőben játszódik, kaland, klasszikus, magyar nyelvű, nebula-díj, regény, sci-fi, sivatag, sorozat része, társadalmi sci-fi, tévésorozat-adaptáció, science fiction
+
+### Összefoglalás
+<div>
+<p>Mi mással indíthatnánk a Frank Herbert összes science fiction írását felölelő sorozatunkat, mint A Dűnével és közvetlen folytatásaival, A Dűne messiásával és A Dűne gyermekeivel? Immár fél évszázaddal ezelőtt A Dűne koncepciója, gondolatainak mélysége és sokrétűsége komolyan átformálta az olvasók sci-fivel szemben támasztott igényeit, és a mai napig követendő példaként áll a műfaj írói előtt.<br>A Dűne a jövőbelátás korlátaival, az emberiség manipulálásának morális kérdéseivel, a messiás-lét útvesztőjével, a bolygószintű környezetformálással és sok mással foglalkozik, mindezt megindító emberi érzések, egzotikus világok és izgalmas cselekmény köntösében tárva elénk. Folytatásai e gondolatokat gombolyítják tovább, mind a történelemformáló eseményekre, mind a filozófiára kíváncsi olvasó számára komoly intellektuális élményt kínálva.</p></div>
+
+
+# <a name="id_184">Frank Herbert: A Dűne gyermekei (A Dűne 3) (2002)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Frank%20Herbert/A%20Dune%20gyermekei%20%28184%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Frank%20Herbert/A%20Dune%20gyermekei%20%28184%29/A%20Dune%20gyermekei%20-%20Frank%20Herbert.epub)
+
+### Tagek
+20. század, amerikai szerző, filmadaptáció, magyar nyelvű, regény, sci-fi, sorozat része, űropera, science fiction
+
+### Összefoglalás
+<div>
+<p>A ​Dűne örökre megváltozott. Paul Muad-Dib, a Kwisatz Haderach, a jövőbe látó messiás olyan folyamatokat indított el, amelyek túlnőttek az embereken, és a mindenség legfontosabb helyévé tették az Arrakist. Ám Muad-Dib nincs többé, elnyelte a sivatag mélye. Öröksége azonban tovább él.<br>Paul gyermekei, Leto és Ghanima kénytelenek szembenézni a sorssal, melyet a történelem nekik rendelt. Az Impérium trónjának várományosaiként nemcsak emberek milliárdjai imádják és gyűlölik őket, de a legveszedelmesebb politikai intrikák középpontjában állnak. Mi a terve Aliának, aki Régensként uralja a világegyetemet? Miért tér vissza évtizedes távollét után nagyanyjuk, Lady Jessica az Arrakisra? Kicsoda a titokzatos Prédikátor, aki a Mahdi egyháza és az új világ ellen szónokol? És hogyan változnak meg az erőviszonyok, amikor újra színre lépnek a trónfosztott Corrinók? Az ikreknek és támogatóiknak nemsokára rá kell döbbenniük, hogy az események sokkal nagyobb áldozatot követelnek tőlük, mint amire eddig gondoltak volna.<br>Frank Herbert A Dűne gyermekeiben továbbviszi az Atreides-dinasztia és a magával ragadó sivatagbolygó történetét. A szerző, miközben a társadalmat mozgató erőket vizsgálja, bemutatja azt is, milyen döntésekre kényszerülnek azok, akik milliárdok sorsára lehetnek hatással, és hogy az emberek gyakran olyan tettekre kényszerülnek, melyekért hatalmas árat kell fizetniük.</p></div>
+
+

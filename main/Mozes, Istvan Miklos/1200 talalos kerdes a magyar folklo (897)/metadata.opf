@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">897</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f57edb44-9e6a-451a-a355-d7d941c8868c</dc:identifier>
+        <dc:title>1200 találós kérdés a magyar folklór világából</dc:title>
+        <dc:creator opf:file-as="Miklós, Mózes István" opf:role="aut">Mózes, István Miklós</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-24T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"Fehér kislány áll a szobában,&lt;br&gt;talpig fehér ruhában, arany haja&lt;br&gt;lebben-lobban a szélben."&lt;br&gt;Régebben alig volt olyan alkalom, amikor közösségben a fentihez hasonló találós kérdések ne hangzottak volna el.&lt;br&gt;Bizony, ma már kevesen vannak azok akik tudják, hogy a gyertyáról van szó. Pedig a találós kérdések műfaja szinte egyidős az emberiséggel.&lt;br&gt;Már az ókorból számos forrás maradt ránk amelyek említik, de ez a nép ajkán terjedő műfaj ma is él, s szüntelenül változik, alakul&lt;br&gt;Bőséges csokorral kínálunk most a főként Erdélyből gyűjtött népi találós kérdésekből azoknak, akik már ismerik, és azoknak, akik még nem ismerik ezt a szórakoztató, de tanulságos műfajt.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Metropolis</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">mozes-istvan-miklos-szerk-1200-talalos-kerdes-a-magyar-folklor-vilagabol</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9638606622</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>népköltészet</dc:subject>
+        <dc:subject>néprajz</dc:subject>
+        <dc:subject>találós kérdés</dc:subject>
+        <dc:subject>folklór</dc:subject>
+        <dc:subject>magyar kultúra</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mózes, István Miklós&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2015-09-25T14:39:22+00:00"/>
+        <meta name="calibre:title_sort" content="1200 találós kérdés a magyar folklór világából"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

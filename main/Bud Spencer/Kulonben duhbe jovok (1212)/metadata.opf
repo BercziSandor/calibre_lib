@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1212</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d68554a-e3a6-4d1a-8b53-7c30a1b8ee44</dc:identifier>
+        <dc:title>Különben dühbe jövök</dc:title>
+        <dc:creator opf:file-as="Spencer, Bud" opf:role="aut">Bud Spencer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Meghökkentően őszinte önéletrajz a hagymásbab és a pofonok nagymesterétől. Bár westernfilmek hőseként ismerte meg a nagyvilág, Carlo Pedersoli sokkal több ennél: forgatókönyvíró, producer, úszóbajnok, olimpikon. Miután aláírta első hollywoodi szerződését, utolsó vízilabda-mérkőzését a magyar válogatott ellen vívta.&lt;br&gt;Könyvében az immár 81 éves színész, akit 1991-ben a Time a leghíresebb olasznak nevezett, megható öniróniával mesél gyermekkoráról, a sportolóként töltött évekről, arról, hogy hogyan került bele szinte véletlenül a filmek világába, barátságáról Mario Grottival, azaz Terence Hillel, a tengerentúli élményeiről és végül visszatéréséről Rómába.&lt;br&gt;Ki ne ismerné a Nincs kettő négy nélkül, a Kincs ami nincs, a Bombajó bokszoló című filmeket vagy a legendás Piedone-sorozatot! Most eljött az idő, hogy megismerjük az embert a pofonok mögött!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Libri</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789633104903</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">bud-spencer-kulonben-duhbe-jovok</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>celeb</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>filmtörténet</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>olasz szerző</dc:subject>
+        <dc:subject>Olaszország</dc:subject>
+        <dc:subject>önéletrajz</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>színész</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bud Spencer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Bud Spencer önéletrajza"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2019-03-30T05:11:21+00:00"/>
+        <meta name="calibre:title_sort" content="Különben dühbe jövök"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

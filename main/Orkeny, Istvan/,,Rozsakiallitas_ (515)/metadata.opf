@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">515</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e49abe60-d2cc-48fa-9a9f-73cdb8921fb3</dc:identifier>
+        <dc:title>„Rózsakiállítás”</dc:title>
+        <dc:creator opf:file-as="Örkény, István" opf:role="aut">Örkény, István</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1979-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Az ​író vallomása:&lt;br&gt;    Ma már mindannyian tudjuk – ha a magunk ámítására le nem tagadjuk –, hogy életünk szakadatlan szerepjátszás. Tudni véltük azt is, hogy minden pózt, álruhát és jelmezt levetünk azon a küszöbön, amely a létből a nemlétbe vezet át. Kegyelettel idéztük az eltávozottak „utolsó szavait”, hisz akkor már nem lehet, mert nem is érdemes hazudni. A halál közelsége – ezt hisszük és valljuk évezredek óta – kiszólít ugyan a létezésből, de megtisztít a hiúságtól, önzéstől, nagyravágyástól, képmutatástól, és fölment minden manipuláció alól.&lt;br&gt;    Mindez igaz volt máig, de ma már nem egészen az. Végső magányunk perceit is kisajátíthatja a technika; utolsó sóhajtásunk megörökíthető, sokszorosítható, többféle hullámhosszon és akárhány csatornán sugározható, milliók képernyőjére rávetíthető. Szereppé válhat egyetlen őszinte gesztusunk: az agóniánk. &lt;br&gt;    Ezt a szerepet, három ember búcsúfelléptét próbáltam megírni. Egyszerű, ismerős alakokét, amilyenek százával járkálnak körülöttünk. Nem történik velük se más, mint mindannyiunkkal, ha majd üt az óránk, de ami történik, ővelük másképpen történik; erről a másról szól e kisregény.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Szépirodalmi</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9631514625</dc:identifier>
+        <dc:identifier opf:scheme="ANTIK_HU">43873</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">orkeny-istvan-rozsakiallitas</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">e5472e6f-a4dc-4307-8d86-98fd2d758a8b</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>303 magyar regény</dc:subject>
+        <dc:subject>abszurd</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>halál</dc:subject>
+        <dc:subject>kisregény</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>Az író származása szerint</dc:subject>
+        <dc:subject>Szépirodalom</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <dc:subject>elbeszélés</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Örkény, István&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2013-06-04T20:36:22+00:00"/>
+        <meta name="calibre:title_sort" content="„Rózsakiállítás”"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">341</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a300773-5f92-45b4-aa5b-eae9cbac697b</dc:identifier>
+        <dc:title>Veszedelem és dicsőség</dc:title>
+        <dc:creator opf:file-as="Merle, Robert" opf:role="aut">Robert Merle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-22T00:00:00+00:00</dc:date>
+        <dc:description>A ​XVI. és XVII. századi Franciaországot, a hugenották viharos, vérzivataros századát és az azt követő éppoly zaklatott időket felelevenítő, nagyszabású regényfolyam főhőse, a gáláns és szenvedélyes Pierre de Siorac lovag mindig ott van, ahol a korabeli történelmet alakítják, és ahol „libben a szoknya”.
+ Ezúttal, a tizenegyedik kötetben La Rochelle ostrománál, ennél a nagyszabású történelemformáló eseménynél, Franciaország és Anglia erőpróbájánál, amely nemcsak a francia királyság sorsát befolyásolta, hanem valamennyi, a katolicizmus és a megreformált vallás között választani kényszerülő európai országét. La Rochelle hugenotta erődítmény volt, a vallási üldözöttek bevehetetlennek hitt és kikiáltott mentsvára, hiszen a tenger felé nyitott volt, így onnan az ostromlottak bármikor segítséget remélhettek. És reméltek is 1627-ben. Ám hiába: La Rochelle-t kerek egy évig tartó ostrom után végül bevették XIII. Lajos és Richelieu seregei. A La Rochelle-i, inkább kisebb-nagyobb csetepaték, mintsem véres, kegyetlen ütközetek jellemezte ostrom kimenetelét végül egy, a hadviselésben addig még nem alkalmazott újdonság döntötte el: a roppant kőgát, amely eltorlaszolta az öböl bejáratát, s így lehetetlenné tette, hogy az angolok élelmet juttassanak el az éhező városba és katonai segítséget nyújtsanak a védőknek. Ebben a nem mindennapi ostromban vesz részt a történet narrátor-főhőse, Orbieu grófja – illetve a regény végére hercege és Franciaország pairje –, akit ismét számos dicsőséges, ám veszedelmes küldetéssel bíznak meg a hatalmasok. Közben persze arra is jut ideje, hogy a szívének oly kedves gentil sesso körül forgolódjék, és láss csodát, most először a házasság, a családalapítás gondolata is felmerül a csapodár, ám lovagias széptevőben. Merle a tőle megszokott mesterségbeli tudással rajzolja fel a sokszínű, árnyalt történelmi tablót, jellemzi hőseit, királyokat, hadvezéreket, főpapokat, nagyurakat s persze szépasszonyokat, festi a csatajeleneteket, az udvari intrikákat, szerelmi cselszövéseket.</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789630792653</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">robert-merle-veszedelem-es-dicsoseg</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>17. század</dc:subject>
+        <dc:subject>francia</dc:subject>
+        <dc:subject>francia szerző</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>történelem</dc:subject>
+        <dc:subject>történelmi regény</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Merle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Francia história"/>
+        <meta name="calibre:series_index" content="11"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2012-11-18T20:22:34+00:00"/>
+        <meta name="calibre:title_sort" content="Veszedelem és dicsőség"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

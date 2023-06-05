@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">328</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb482ee8-6d61-43d7-8ee5-4f37269f5e16</dc:identifier>
+        <dc:title>Az élet rózsái</dc:title>
+        <dc:creator opf:file-as="Merle, Robert" opf:role="aut">Robert Merle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-22T00:00:00+00:00</dc:date>
+        <dc:description>Miután ​Lajos visszaszerzi trónját a száműzött miniszterek helyére visszahívja a „szakállasokat” és hű embereit is kitünteti, így Siorac lovagot is, akiből szavazati jog nélküli tanácsost csinál az államtanácsban.
+Valamint érdemei elismeréséül neki adományozza az Orbieu grófja címet, de hogy ne csak az „üres” címet viselje, ráadásként még 200 000 frankot is ad, hogy a birtokot is megvegye és rendbe hozassa.
+Amit Siorac – miután apja és La Suire lovag szemrevételez és jó vételnek tart –, meg is vesz , bár az apja visszaélésre utaló nyomokra bukkan, amivel a birtok intézőjét gyanúsítják (s akivel később lesz még gondja).
+Hősünk ezek után felfogadja az özvegy Orbieu grófné titkárát, aki rajong a vidéki életért, és teljesen megbízható. Majd egy hetet tölt uradalmában. Ez idő alatt bejárja a birtokot és megmutatja magát embereinek (akik szemmel láthatóan alultápláltak, és sokan nyomorékok a nehéz munka miatt).
+Visszatérve Párizsba „keresztanyja” Guise hercegné magához hivatja, és elégedettségét fejezi ki fia új címe és birtoka miatt, de egyben aggodalmát is, mivel legkisebb fia felszarvazta a frissen nősült Luynest (aki egyébiránt Lajos kegyence), akinek a nejébe a király is szerelmes volt a maga módján, és most tart a megtorlástól.
+Miután Pierre megnyugtatja, hogy megtorlástól sem a férj, sem az uralkodó részéről nem kell tartani, ismét felvetődik a régi nóta, neki is nősülnie kéne, de az ifjú Siorac már a gondolattól is „rosszul lesz”.
+Közben Richelieu bíboros Bloise-ban azon dolgozik, hogy kibékítse Lajost az anyakirálynéval, de mivel ez azt jelentené, hogy a királynéval ő is visszatér Párizsba, és kitúrhatja a nagy kegyben álló, ám politikailag teljesen analfabéta Luynest, ezért az elintézi, hogy Richelieu-t Avignonba száműzze a király.
+Orbieu gróf március végén visszatér birtokára, és parasztjaival kijavíttatja az utakat a saját költségén vett kővel és, hogy legyen elég munkáskéz, csalinak ingyen kaját ajánl fel a parasztoknak.
+De mit csinál mindeközben az ifjú király? Mennyire nő fel a feladathoz? Sikerül teljesen függetleníteni magát anyjától? És ami sokkal fontosabb, mennyire képes összefogni a széthúzó arisztokráciát, ellensúlyozni a különböző vallási irányzatokat?
+A válaszokat a következő részekben kapjuk meg, egyvalamiben azonban teljesen biztosak lehetünk: Pierre Emmanuel de Siorac továbbra is hűségesen szolgálja királyát.</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">robert-merle-az-elet-rozsai</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630792363</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>17. század</dc:subject>
+        <dc:subject>francia</dc:subject>
+        <dc:subject>francia szerző</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>történelem</dc:subject>
+        <dc:subject>történelmi regény</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Merle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Francia história"/>
+        <meta name="calibre:series_index" content="9"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-18T20:22:20+00:00"/>
+        <meta name="calibre:title_sort" content="élet rózsái, Az"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

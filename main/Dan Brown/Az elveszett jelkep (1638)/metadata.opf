@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1638</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">798ed588-458f-4c03-bdf8-dcadc20f3535</dc:identifier>
+        <dc:title>Az elveszett jelkép</dc:title>
+        <dc:creator opf:file-as="Brown, Dan" opf:role="aut">Dan Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-28T12:10:59+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Megkerül, ami elveszett...&lt;/p&gt; &lt;p&gt;Robert Langdont, a Harvard szimbólumkutatóját az utolsó percben kérik fel egy esti előadásra a washingtoni Capitolium épületében. Közvetlenül megérkezése után azonban egy hátborzongató szimbólumokkal rejtjelezett, nyugtalanító tárgyat fedeznek fel a Rotunda kellős közepén. Langdon egy ősi meghívót közvetít benne, amely a titkos ezoterikus bölcsesség rég letűnt világába invitálja megfejtőjét. Amikor brutálisan elrabolják Peter Solomont, a híres filantrópot és szabadkőművest, Langdon nagyra becsült mentorát, a professzor ráébred, hogy csak úgy mentheti meg barátja életét, ha elfogadja a rejtélyes meghívást és követi az utat, akárhova vezessen is. Langdon gyorsan ott találja magát Amerika legnagyobb hatalmi központjának színfalai mögött, a város láthatatlan termeiben, templomaiban, alagútjaiban. Ami mindeddig ismerős volt, az most átváltozik egy mesterien elleplezett múlt titokzatos, félhomályos világává, amelyben szabadkőműves rejtélyek és sosem látott felfedezések vezetik őt az egyetlen lehetséges és felfoghatatlan igazsághoz.&lt;/p&gt; &lt;p&gt;Az elveszett jelkép az eltitkolt históriák, misztikus ikonok és kódok ragyogóan összecsómozott szőttese; intelligens, vllámgyors tempójú thriller, amelyben egymást érik a meglepetések. Hiszen- miként azt Robert Langdon felfedezi- nincs páratlanabb vagy megrendítőbb, mint az a titok, amely mindvégig a szemünk előtt volt...&lt;/p&gt; &lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>e-konyvtar.com</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">0dc0da26-ecd5-4e89-b42a-051836d30ed6</dc:identifier>
+        <dc:language>hun</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Dan Brown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-07-18T07:51:31+00:00"/>
+        <meta name="calibre:title_sort" content="elveszett jelkép, Az"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1fd208a-c621-4bf0-b6eb-bc21cb42d881</dc:identifier>
+        <dc:title>Matarese klán</dc:title>
+        <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1979-03-13T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Korzika ​vad hegyei között egy őrült elme által kitervelt, a század elején elkövetett szörnyű tömeggyilkosság áldozatai nyugszanak. &lt;br&gt;Sokkoló, a két szuperhatalom közvetlen konfrontációjának veszélyével fenyegető merénylet áldozata előbb az Egyesült Államok vezérkari főnökei egyesített bizottságának elnöke, majd a szovjet rakétaprogram egyik atyja. &lt;br&gt;Mi köze a korzikai, Guillaume de Matarese által létrehozott, mindenki tudomása szerint már nem működő egykori politikai bérgyilkos szervezetnek az újabb gyilkosságokhoz? Miért halnak meg sorban a Matarese Tanács örökösei? Ki és miért akarja káoszba dönteni, a nukleáris katasztrófa veszélyének kitenni a világot? &lt;br&gt;Ahhoz, hogy a kibogozhatatlannak tűnő rejtélyek megoldódjanak, két férfira, két halálos ellenségre van szükség. Brandon Scofieldnak az amerikai, és Alekszandr Talejnyikovnak, a szovjet hírszerzés szuperügynökének nincs más választása, mint félretenni személyes bosszúvágyát, összefogni a gyűlölt ellenséggel, hogy Korzikán, a Szovjetunión, Németországon, Olaszországon, Párizson és Londonon át az Egyesült Államokba visszajutva feltárják a nemcsak őket, hanem az általuk hitt értékeket is pusztulással fenyegető világméretű összeesküvést, megoldják a „Matarese-kör” rejtélyét, s leszámoljanak kitervelőivel. Nincs más kiút számukra, mint elfogadni a tényt, hogy csak egymásra számíthatnak – ők, az ősellenségek. &lt;br&gt;Robert Ludlum, a politikai kalandregények mestere, legkiválóbb erényeit vonultatja fel ebben a sodró lendületű, rendkívül izgalmas történetben, amely már az első lapjain megragadja, és a szerzőre jellemző dupla csavaros végkifejletig nem is engedi lankadni az olvasó figyelmét.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>I.P.C.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9636352763</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">36273112</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">robert-ludlum-matarese-klan</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Ludlum&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Matarese Klán"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-13T14:29:53+00:00"/>
+        <meta name="calibre:title_sort" content="Matarese klán"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

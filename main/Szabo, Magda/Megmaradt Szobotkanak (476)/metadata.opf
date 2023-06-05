@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">476</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ddce41b6-b682-43bc-8b57-fda376f4d25d</dc:identifier>
+        <dc:title>Megmaradt Szobotkának</dc:title>
+        <dc:creator opf:file-as="Szabó, Magda" opf:role="aut">Szabó, Magda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1983-06-03T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;1982 tavaszán meghalt Szobotka Tibor, aki nemcsak írótársa volt Szabó Magdának, hanem több mint harminc éven át a férje is. Kettejük élete az egymásra találás első pillanatától kezdve oly elválaszthatatlanul forrott eggyé, hogy a végzet mindkettőjükre sújtott. De Szabó Magda tudta, hogy ő nem köthet alkut a halállal, mert neki olyan feladata van, amit senki más nem végezhet el helyette. S az első pillanatok bénító fájdalma után, amikor heves sistergéssel leégtek az élethez kapcsoló vezetékek, Szabó Magda hozzálátott, hogy megírja élete legnehezebb könyvét. Kinyitotta a lezárt fiókokat, kiürítette a kéziratokkal tömött szekrények mélyét, és megtette azt, amit tennie kellett: életre keltette az igazi Szobotka Tibort. Ez a könyv regény, de nem regényes életrajz, sok tekintetben rendhagyó mű. Természetes módon mosódik egybe benne Szobotka Tibor szövege (memoárrészletek, naplófeljegyzések, gyermekkori írói kísérletek) a Szabó Magdáéval, kiegészítik egymást, szinte felelgetnek egymásnak. Egybeforrnak, hiszen a két élet is egy volt, elválaszthatatlan egész. S ezért szerelmi történet is ez a könyv, persze az is a maga rendhagyó módján. Ez a szerelem maga volt a teljesség, csata, amelyben a szerelmesek megnyerték egymást, és elvesztették önmagukat. &lt;br&gt;&lt;br&gt;Szobotka Tibornak már nem volt rá ideje, hogy megírja a memoárjait, alighogy hozzáfogott, a halál közbeszólt. A megkezdett munkát Szabó Magda folytatta, példátlan önfegyelemmel és lelkierővel rekonstruálta annak az írónak szenvedésekkel, kudarcokkal teli életét, akinek tehetségében, elhivatottságában jobban hit, mint a sajátjáéban, olyan embert állít elénk, aki már réges-rég méltó arra, hogy véglegesen fölfedezzük, s akinek könyvei végre elfoglalják méltó helyüket a magyar irodalomban.&lt;/p&gt;</dc:description>
+        <dc:publisher>Magvető Könyvkiadó</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9631400204</dc:identifier>
+        <dc:identifier opf:scheme="ANTIK_HU">116680</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">0890b0ca-29e6-41b1-b4a0-b7e292fd3325</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Az író származása szerint</dc:subject>
+        <dc:subject>Szépirodalom</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <dc:subject>elbeszélés</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Szabó, Magda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2013-06-04T19:55:49+00:00"/>
+        <meta name="calibre:title_sort" content="Megmaradt Szobotkának"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

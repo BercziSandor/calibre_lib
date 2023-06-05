@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">335</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">83b60f58-38fa-44e1-855e-afff57e1469d</dc:identifier>
+        <dc:title>Majomábécé</dc:title>
+        <dc:creator opf:file-as="Merle, Robert" opf:role="aut">Robert Merle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-22T00:00:00+00:00</dc:date>
+        <dc:description>Egy etológus házaspár örökbe fogad egy csimpánzbébit, s úgy nevelik mint saját gyermeküket: cumiztatják, pelenkázzák, s ami a legfontosabb: megtanítják beszélni, pontosabban mondva, kommunikálni. Erre az eddigi kísérletek alapján, a süketnéma jelbeszéd látszik legalkalmasabbnak. Chloé, a bébi szépen halad, imádja a „szüleit”, megtanul asztalnál enni, beilleszkedni a családba, úgy viselkedik mint egy csintalan gyerek. Tökéletes az idill, s a tudományos program is sikerrel kecsegtet: megvalósulni látszik az ember régi álma, hogy beszélgessen az állatokkal. Ám egy nap Chloé a tükör előtt állva rádöbben hogy „csúnya”, más mint a családja. Mogorva lesz, szeszélyes, hatalmas testi erejével visszaélve rettegésben tartja a családot. A házaspárt egyre többen figyelmeztetik, hogy rossz vége lesz a kisérletnek, Chloét vissza kellene küldeni az állatkertbe, a program nem folytatható….</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">robert-merle-majomabece</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630796026</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>állattörténet</dc:subject>
+        <dc:subject>biológia</dc:subject>
+        <dc:subject>etológia</dc:subject>
+        <dc:subject>francia szerző</dc:subject>
+        <dc:subject>ismeretterjesztő</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>majom</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>természettudomány</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Merle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-18T20:22:28+00:00"/>
+        <meta name="calibre:title_sort" content="Majomábécé"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e5e33f9-1a1d-4ea3-8d2b-516546a42ed2</dc:identifier>
+        <dc:title>Rövid útmutató a boldog kutyához</dc:title>
+        <dc:creator opf:file-as="Millan, Cesar" opf:role="aut">Cesar Millan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.19.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A csodálatos kutyadoki kilenc évadnyi televíziós sugárzása után Cesar Millan új küldetése az, hogy egyedülálló kutyapszichológiai ismereteit felhasználva erősebb és boldogabb kapcsolatot segíthessen elő az emberek és négylábú társaik között. &lt;/p&gt;
+&lt;p&gt;Inspiráló és egyben gyakorlatias könyve több ezer, a világ különböző részein tapasztalt esetből merítve kínál 98 alapvető leckét az olvasóknak. Elsajátításukkal minden kutyatartó alkalmazni tudja majd Cesar méltán ünnepelt filozófiájának kulcsszempontjait, és a lehető legteljesebb kapcsolatot tudja kialakítani kedvencével.&lt;br&gt;E könyv oldalain Cesar az alapvető engedelmességen túlmutató fontos témákba merül bele, hogy felfedje számunkra szeretett kedvenceink szívét és elméjét. Többek között a következő gyakorlatias témákat járja körbe:&lt;br&gt;o A kutyapszichológia alapjai&lt;br&gt;o Ösztönös viselkedési formák&lt;br&gt;o Az egyensúly és a határok megteremtése&lt;br&gt;o A gyakori neveletlen viselkedési formák kezelése&lt;br&gt;o A megfelelő kutya kiválasztása&lt;br&gt;o Hogyan segíthetünk kutyánknak alkalmazkodni az élet változásaihoz? &lt;/p&gt;
+&lt;p&gt;A könyvben a Cesar eseteiből és új televíziós sorozatából, a Cesar Millan, a falkavezérből származó inspiráló történetek megindítóak, és valós gyakorlati alkalmazásokat, valamint leckéken keresztül meglepő tanulságokat nyújtanak az olvasók számára.&lt;br&gt;Cesar Millan figyelemre méltó felismeréseivel tarkított – ember és kutya viselkedését egyaránt feltáró – praktikus és könnyen használható könyve inspiráló eszköz bárki számára, aki jobb életet szeretne élni családja szeretett négylábú tagjával.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>GABO</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789636896560</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">28175069</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">-mp9ngEACAAJ</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Self Help</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <dc:subject>kutya</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-06-05T08:48:36.982298+00:00"/>
+        <meta name="calibre:title_sort" content="Rövid útmutató a boldog kutyához"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">391</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">801bd981-0a5b-4dac-b442-c17caeec06ea</dc:identifier>
+        <dc:title>Csipike</dc:title>
+        <dc:creator opf:file-as="Sándor, Fodor" opf:role="aut">Fodor, Sándor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Mekkorák vagyunk valójában? És mekkorának látjuk magunkat környezetünk tükrében? És jóságunk vajon mennyire kényszer, amely önértékelésünk kisszerűségéből fakad? Már gyerekként szembesülünk, ha meseszinten is, ezekkel a problémákkal és a játék, amely képes feloldani minden harcos ellentétet, Csipikében sem vall kudarcot. Lenyűgöző álomvilág, s bár gyerekekhez íródott, valahol a majdani felnőtthöz is szól játékosságával, tanulságaival, értékeivel. A kissé cinikus író a végén a mesét felolvasó apukákra, anyukákra kacsint és így búcsúzik: « mindenki sírt, nagyon szép volt. »&lt;br&gt;Tartalom: Csipike, a gonosz törpe, Csipike és Kukucsi, Csipike, a boldog óriás, Csipike és Tipetupa, Csipike és a Gonosz Ostoba.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Kossuth</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">fodor-sandor-csipike</dc:identifier>
+        <dc:identifier opf:scheme="ANTIK_HU">92541</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789635442799</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>állat</dc:subject>
+        <dc:subject>erdélyi magyar szerző</dc:subject>
+        <dc:subject>erdő</dc:subject>
+        <dc:subject>gyermekkönyv kicsiknek</dc:subject>
+        <dc:subject>illusztrált</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>törpe</dc:subject>
+        <dc:subject>meseregény</dc:subject>
+        <dc:subject>Az író származása szerint</dc:subject>
+        <dc:subject>gyermek- és ifjúsági irodalom</dc:subject>
+        <dc:subject>Szépirodalom</dc:subject>
+        <dc:subject>Mesék</dc:subject>
+        <dc:subject>Erdélyi Magyar írók</dc:subject>
+        <dc:subject>Tartalom szerint</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fodor, Sándor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2013-01-25T21:41:13+00:00"/>
+        <meta name="calibre:title_sort" content="Csipike"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

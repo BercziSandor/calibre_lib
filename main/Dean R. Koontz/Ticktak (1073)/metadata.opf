@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1073</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c338a38-aaf5-4055-b63b-9bdfdfc88a9c</dc:identifier>
+        <dc:title>Ticktak</dc:title>
+        <dc:creator opf:file-as="Koontz, Dean R." opf:role="aut">Dean R. Koontz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-12-23T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Tommy Phan családja Saigon eleste után a kommunista rémuralom elől Amerikába menekül. Tommy lelkesen ölel magához mindent, ami amerikai, vietnámi múltja azonban nyomasztja, megpróbálja elfelejteni. Aztán egy este  - már mint sikeres krimi író - egy rongybabát talál házának verandáján... És elkezdődik a rémálom. A rongybaba egyszercsak átalakul szörnnyé, és Tommy csak nehezen menekül el romhalmazzá vált házából. Vadonatúj corvette-je hamarosan ugyancsak totálkáros lesz, ráadásul ki is gyullad. És a tűzben a szörny a kétszeresére nő. Tommy tudja, hogy életéből csak órák vannak hátra. Ám megjelenik egy gyönyörű, kissé őrült nő, aki megpróbál segíteni...&lt;br&gt;Dean Koontz könyvének lapjait falva a hideg futkároz a hátunkon, miközben... jókat nevetünk. Koontz ugyanis hátborzongató, ugyanakkor humoros könyvet írt.&lt;/p&gt;</dc:description>
+        <dc:publisher>Ballantine Books</dc:publisher>
+        <dc:identifier opf:scheme="ANTIK_HU">340444</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">034538430X</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Szórakoztató irodalom</dc:subject>
+        <dc:subject>Szépirodalom</dc:subject>
+        <dc:subject>Idegennyelv</dc:subject>
+        <dc:subject>Idegennyelvű könyvek</dc:subject>
+        <dc:subject>angol</dc:subject>
+        <dc:subject>kaland</dc:subject>
+        <dc:subject>akció</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dean R. Koontz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="BB Fiction"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2012-12-12T09:59:19+00:00"/>
+        <meta name="calibre:title_sort" content="Ticktak"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

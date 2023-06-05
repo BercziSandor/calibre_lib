@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">985</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4fc1072-d41f-45e0-a202-6d509a9c3675</dc:identifier>
+        <dc:title>Hogyan legyünk szegények</dc:title>
+        <dc:creator opf:file-as="Mikes, George" opf:role="aut">George Mikes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;„Életem során mindig igyekeztem minél távolabb kerülni a pénztől. Általában sikerült.”&lt;br&gt;Talán meglepő, de a pénz roppant kellemetlenségekkel jár: a gazdagok állandóan aggódhatnak, hogy esik a tőzsdeárfolyam, betörnek értékes festményekkel zsúfolt dél-francia villájukba, vagy váltságdíj reményében elrabolják családtagjaikat. Ezzel szemben a szegényekre leselkedő legnagyobb veszély az, hogy esetleg meggazdagszanak.&lt;br&gt;George Mikes, az Angliában élt, magyar származású író és humorista a rá jellemző bölcs humorral és éleslátással járja körül a pénzhez való viszonyunkat, a milliomoslét gyötrelmeitől az alkudozás művészetén át a szegénység világtörténetéig, s bebizonyítja, hogy a szegénység nem kerülni való, hanem kifejezetten kívánatos állapot.&lt;br&gt;A könyvet Sárközi Mátyás Mikesre emlékező utószava és Kelemen István illusztrációi egészítik ki.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Háttér</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">george-mikes-hogyan-legyunk-szegenyek</dc:identifier>
+        <dc:identifier opf:scheme="LIBRI_HU">george_mikes.hogyan-legyunk-szegenyek-1</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789639365858</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>elbeszélés</dc:subject>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>illusztrált</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>Nagy-Britannia</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <dc:subject>szegénység</dc:subject>
+        <dc:subject>Irodalom</dc:subject>
+        <dc:subject>Szórakoztató irodalom</dc:subject>
+        <dc:subject>humor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Mikes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2016-05-25T07:41:14+00:00"/>
+        <meta name="calibre:title_sort" content="Hogyan legyünk szegények"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1624</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">145c9cba-d800-4e92-a1a4-5449c933f292</dc:identifier>
+        <dc:title>Éden a folyónál</dc:title>
+        <dc:creator opf:file-as="Vonnegut, Kurt" opf:role="aut">Vonnegut, Kurt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Kurt Vonnegut, a próféta, guru, nevettető, mesemondó, gondolkodó, a világirodalom megkerülhetetlenül eredeti, újító alkotója, a földlakók szociális lelkiismeretének ébren tartója nincs többé közöttünk. Ismeretlen helyen tartózkodik, de időről időre onnan is hallat magáról. Üzen. Immár negyedik posztumusz kötetével biztat és tanít. Erősíti lankadó hitünket. A mondanivaló ismét léleknemesítő: korántsem biztos, hogy az emberlétnek volna definiálható értelme. Valószínűleg nincs. De ez a körülmény sem engedély az erőseknek, hogy bántsák a náluk gyengébbet. A gyengébbek pedig vegyék észre az élet szépségét. Jelen kötetben hat nagyon korai, szépséges novellát találunk, meg egy Kolumbuszról szóló esszét, illetve egy különös szövegtöredéket. Fiókban maradtak, mert az írónak feltehetőleg még tervei voltak velük. A mondat közben megszakadó töredék közzététele arra utalhat, hogy a Mester hagyatékának kezelői végeztek a padlássöpréssel. Az életmű teljes egésze, íme, közkincs. Nagyszerű hír a Vonnegut-rajongók világszerte növekvő táborának. „- Úgy tartják, hogy Párizs a Föld legszebb városa – jegyezte meg Marie. – Baromság! A Föld legszebb városa Indianapolis. A Föld legszebb épülete a Graceland Avenue 4916. Annak a háznak a nappalijában található a Föld legszebb karosszéke. És ha eltűnne a pénzem, miközben a Föld legszebb karosszékében ülök, csak a jó kis hátpárnácskám mögé nyúlok. És hopp! Ott a pénz!"&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Helikon</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789632275536</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">DVXujgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">30628014</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">4ead580b-541d-4e6b-a9eb-849ffc2544ca</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Writing</dc:subject>
+        <dc:subject>Anthologies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Vonnegut, Kurt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-07-03T19:38:09+00:00"/>
+        <meta name="calibre:title_sort" content="Éden a folyónál"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
