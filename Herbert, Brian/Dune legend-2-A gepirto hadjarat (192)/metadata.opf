@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">192</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67073622-c7c2-458e-9921-4aa6879db66a</dc:identifier>
+        <dc:title>Dűne legend-2-A gépirtó hadjárat</dc:title>
+        <dc:creator opf:file-as="Herbert, Brian" opf:role="aut">Herbert, Brian</dc:creator>
+        <dc:creator opf:file-as="Herbert, Brian" opf:role="aut">Anderson, Kevin J.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>A Dűne legendái-trilógia második kötete az emberiséget rabszolgasorban tartó gondolkodó gépek elleni évszázados küzdelem középső szakaszát tárja az Olvasó elé. A gyilkos háborúban megfáradt emberek a kezdeti sikerek után kezdik elveszíteni a felszabadulásba vetett hitüket. Felcsillan azonban egy új reménysugár: Norma Cenva feltalálja az űrutazás forradalmian új módját, mely végre az emberiség kezébe adhatja a győzelem kulcsát. Az ígérkező technikai fölény viszont önmagában kevés, ezért a Dzsihad papnője, Serena Butler kétségbeesett lépésre szánja el magát, hogy a szabadságért küzdők hitét visszaadja, és a Dzsihad halványuló vallásos tüzét fellobbantsa. A gépirtó hadjárat akciódús cselekménye lebilincselő olvasmány a háborús regények kedvelőinek, miközben az emberi lélek, az árulás és a háborús bűnök mélyére is betekintést nyújt.</dc:description>
+        <dc:publisher>Candlekeep</dc:publisher>
+        <dc:language>hun</dc:language>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herbert, Brian&quot;: &quot;&quot;, &quot;Anderson, Kevin J.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2012-11-17T20:44:47+00:00"/>
+        <meta name="calibre:title_sort" content="Dűne legend-2-A gépirtó hadjárat"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

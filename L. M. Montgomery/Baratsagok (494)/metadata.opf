@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">494</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">364420ed-304a-41bd-8b5f-5550ca752348</dc:identifier>
+        <dc:title>Barátságok</dc:title>
+        <dc:creator opf:file-as="Montgomery, L. M." opf:role="aut">L. M. Montgomery</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-22T00:00:00+00:00</dc:date>
+        <dc:description>Emily már a második nyarat tölti New Moonban, a titokzatos, sokat látott, öreg házban, ahová édesapja halála után sorshúzás révén került. Noha egyre inkább otthon érzi magát, még mindig sokszor gyűlik meg a baja végletekig puritán, bigott Elizabeth nénjével. Jóval megértőbb rokonra lel azonban Nancy néni személyében, aki nem csupán azt engedi meg, hogy frufrut viseljen és mezítláb csatangoljon, hanem olyannyira szabadjára engedi a kislányt, hogy az életveszélyes kalandba keveredik. „Kajlalábú” Dean Priest menti meg az életét, akiben tüstént rokonlélekre talál és szoros barátság alakul ki közöttük. Emily legkedvesebb időtöltése az írás. Egy táj, egy esemény, egy ötlet, legyen az szép vagy csúnya, addig nem hagyja nyugodni, amíg „ki nem írja” magából. Megigézik őt és óhatatlanul tollhegyére kívánkoznak az élet komédiái és tragédiái, a valóság függönye mögött rejtőzködő álomvilág</dc:description>
+        <dc:publisher>Könyvmolyképző</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789632459189</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">d9f4b3a5-79d5-4e8c-b337-423b37f2dd57</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">l-m-montgomery-baratsagok</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>árva</dc:subject>
+        <dc:subject>barátság</dc:subject>
+        <dc:subject>gyermekkönyv iskolásoknak</dc:subject>
+        <dc:subject>ifjúsági</dc:subject>
+        <dc:subject>kanadai szerző</dc:subject>
+        <dc:subject>lányregény</dc:subject>
+        <dc:subject>levélregény</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>női főszereplő</dc:subject>
+        <dc:subject>Prince Edward-sziget</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. M. Montgomery&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Emily"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2013-06-04T20:22:37+00:00"/>
+        <meta name="calibre:title_sort" content="Barátságok"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

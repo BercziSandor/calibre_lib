@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1585</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75479d3d-52e8-485b-a6db-81f816666bc2</dc:identifier>
+        <dc:title>3… 2… 1…</dc:title>
+        <dc:creator opf:file-as="Gyula, Böszörményi" opf:role="aut">Böszörményi Gyula</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-01T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A ​9… 8… 7…-tel valami elkezdődött, valami felébredt, s aki mert, az szembenézett vele.&lt;br&gt;A 6… 5… 4…-el Lilith sorsa – amit az olvasók szavazatai határoztak meg – a teljes magány lett. Miután elveszítette a szüleit és a legjobb barátait, démonvadásszá vált, s az ő kezébe került a Város jövője.&lt;br&gt;Most pedig elérkezett a végső visszaszámlálás utolsó néhány pillanata. Ebben a kötetben Lilith története ismét csak úgy folytatódik, ahogy azt az olvasók akarták. A Város teljhatalmú ura a Fenevad, aki démonlégiói élén uralkodik, rabszolgasorba taszítva az embereket. Csupán néhány kisebb grufti osztag tart még ki, őrizve és csendben terjesztve a Tudást arról, hogy van még remény.&lt;br&gt;Legalábbis, míg áruló nem férkőzik közéjük!&lt;br&gt;S mikor eljön az igazság pillanata, kiderül, hogy a gruftik, darkok és gótok, kiknek éjfekete szeme valóban látja a köztünk élő démonokat, képesek lesznek-e kitartani, vagy maguk is a Sötétség hatalmába kerülnek. Óra kattan, mutatója rezzen: az éj legsötétebb órája jött el.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Könyvmolyképző</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789632457598</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">boszormenyi-gyula-3-2-1</dc:identifier>
+        <dc:language>hun</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Böszörményi Gyula&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Rémálom könyvek"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-07-02T17:51:25.951093+00:00"/>
+        <meta name="calibre:title_sort" content="3… 2… 1…"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;DOC&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

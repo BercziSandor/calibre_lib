@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">346</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">292fad8b-c00d-498a-876d-13fab3b0955e</dc:identifier>
+        <dc:title>Bűn és bűnhődés</dc:title>
+        <dc:creator opf:file-as="Dosztojevszkij, Fjodor Mihajlovics" opf:role="aut">Dosztojevszkij, Fjodor Mihajlovics</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Dosztojevszkij ​számára – írja Rosa Luxemburg, a forradalmár asszony – »kizökkent az idő«, amikor látta, hogy egyik ember megölheti a másikat. Nem lelheti békéjét, mert ismeri azt a felelősséget, amely ezért a szörnyűségért valamennyiünket terhel. Aki csak egyszer is átélte az ő Raszkolnyikovját… az többé sohasem rejtőzhet el a maga csigaházacskájába, a filiszterség és az önhitt egoizmus tojáshéjába…"&lt;br&gt;A Bűn és bűnhődés a mély és tiszta szellemű, de ellentmondásokkal küzdő s meghasonlott lelkű géniusz legzártabb, legművészibb gonddal szerkesztett alkotása. Talán ezzel magyarázható, hogy világszerte a Bűn és bűnhődés lett életműve legismertebb darabja. A páratlan lélekábrázolás, az emberi jellemek szuggesztív erejű rajza, a magával ragadó stílus, a mesteri kompozíció, a kapitalista nagyváros sikátorainak, piszkos bérkaszárnyáinak, fojtott levegőjű odúinak szorongatóan hiteles képe az írásművészet halhatatlan alkotásai közé emeli művét. A „detektívregényből” így lesz klasszikus remek, minden idők egyik legmegrázóbb lélekrajzregénye.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789634059226</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">fjodor-mihajlovics-dosztojevszkij-bun-es-bunhodes</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>antihős</dc:subject>
+        <dc:subject>bűnözés</dc:subject>
+        <dc:subject>büntetőjog</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>filozofikus regény</dc:subject>
+        <dc:subject>gyilkosság</dc:subject>
+        <dc:subject>klasszikus</dc:subject>
+        <dc:subject>kötelező</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>orosz realizmus</dc:subject>
+        <dc:subject>orosz szerző</dc:subject>
+        <dc:subject>polifonikus</dc:subject>
+        <dc:subject>Nagy Könyv</dc:subject>
+        <dc:subject>A Világirodalom Remekei</dc:subject>
+        <dc:subject>pszichológia</dc:subject>
+        <dc:subject>19. század</dc:subject>
+        <dc:subject>politikai filozófia</dc:subject>
+        <dc:subject>111 híres regény</dc:subject>
+        <dc:subject>Szépirodalom</dc:subject>
+        <dc:subject>orosz</dc:subject>
+        <dc:subject>lélektani</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>1001 könyv listán szerepel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dosztojevszkij, Fjodor Mihajlovics&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2012-11-18T20:36:32+00:00"/>
+        <meta name="calibre:title_sort" content="Bűn és bűnhődés"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

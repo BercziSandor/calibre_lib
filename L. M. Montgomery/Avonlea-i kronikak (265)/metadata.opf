@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">265</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bcb975ed-2856-4e77-97fe-e9e7929f2546</dc:identifier>
+        <dc:title>Avonlea-i krónikák</dc:title>
+        <dc:creator opf:file-as="Montgomery, L. M." opf:role="aut">L. M. Montgomery</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A Prince Edward szigeten, ahol Avonlea tengerparti városában Anne Shirley felnőtt, nem volt híja a csodálatos történeteknek. Ott volt mindjárt Ludovic Speedé, aki nem kérte meg a nő kezét, akinek tizenöt éven át udvarolt, amíg Anne ki nem talált egy tervet a férfi „megsürgetésére”…, bár nem kizárt, hogy a terv visszafelé sül el, és összetöri a szívét. De senki sem hibáztathatja a csintalan Anne-t a nemek közti kacagtató csatáért, amikor egy férfigyűlölő nő a macskájával ugyanabban a házban kerül vesztegzár alá, mint egy nőgyűlölő férfi a kutyájával. És ott van még a tágas Penhallow Major, ahol egy kiterjedt család várja szinte az örökkévalóságig, hogy két összezördült szerelmes megtörje makacs hallgatását, vagy az öreg Shaw düledező tanyája, ahova visszavárja szeretett lányát… L. M. Montgomery tizenkét történetben írta meg a titkos remények és rejtegetett álmok varázslattal és humorral átszőtt meséit.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Könyvmolyképző</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">l-m-montgomery-avonlea-i-kronikak</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789632450490</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>gyermekkönyv iskolásoknak</dc:subject>
+        <dc:subject>kanadai szerző</dc:subject>
+        <dc:subject>klasszikus</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <dc:subject>Prince Edward-sziget</dc:subject>
+        <dc:subject>romantikus</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. M. Montgomery&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-17T21:10:24+00:00"/>
+        <meta name="calibre:title_sort" content="Avonlea-i krónikák"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;DOCX&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

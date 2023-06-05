@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">971</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5130669a-3251-4788-b429-f655a67de9e1</dc:identifier>
+        <dc:title>Az alagutak rejtélye</dc:title>
+        <dc:creator opf:file-as="Gordon, Roderick &amp; Williams, Brian" opf:role="aut">Roderick Gordon</dc:creator>
+        <dc:creator opf:file-as="Gordon, Roderick &amp; Williams, Brian" opf:role="aut">Brian Williams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-18T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Ki ​ne álmodozott volna arról, hogy kincset talál a föld alatt? Vagy arról, hogy olyasmire bukkan, ami minden tekintetben egyedülálló és izgalmas? A tizennégy éves Will Burrows is erről álmodozik. Ezért minden szabad percét ásóval és lapáttal a kezében a föld alatt tölti, édesapja társaságában, aki egy napon nyomtalanul eltűnik. Will a barátjával, Chesterrel indul a keresésére, és hamarosan a föld alatt találják magukat, ahol egy sötét titokra bukkannak, amelyért akár az életüket is kockáztatnák. &lt;br&gt;Sokszor halljuk a figyelmeztetést: légy óvatos, mit kívánsz, mert a végén még valóra válik. Hát Will pontosan így járt. Ám amikor az álma valóra vált, és döbbenetes felfedezést tett, mindenre számított, csak arra nem, hogy ezzel nem csak saját, hanem szerettei életét is halálos veszedelembe sodorja.&lt;br&gt;Ezúttal nem hagyatkozhat másra, csak saját leleményességére és kitartására, pedig könnyen lehet, hogy még ezt is kevésnek bizonyul, ha megszokott világa összeomlani látszik körülötte, akár egy romos alagút fala, mélyen a föld alatt…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Agave Könyvek</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789637118937</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">roderick-gordon-brian-williams-az-alagutak-rejtelye</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>expedíció</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>ifjúsági</dc:subject>
+        <dc:subject>kaland</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Roderick Gordon&quot;: &quot;&quot;, &quot;Brian Williams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Alagutak"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2016-05-25T07:26:03+00:00"/>
+        <meta name="calibre:title_sort" content="alagutak rejtélye, Az"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">208</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f431f6a-f7a0-4cf3-b110-ecf23c3d4e7b</dc:identifier>
+        <dc:title>A funtineli boszorkány I.</dc:title>
+        <dc:creator opf:file-as="Wass, Albert" opf:role="aut">Wass, Albert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-02T23:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;&amp;nbsp; "Jó vagy és szelíd. Szeretni akarsz, és halált osztogatsz. Nem érzed a gyűlöletet, aminek eszközéül jöttél erre a földre. Terméketlen maradsz, mint a tűzliliom, aminek illata megöli a legyeket. Ha életet hoznál mégis a világra, magad ölnéd meg azt is, és nem tehetnél róla. Borzalmas írás van a tenyereden, leány... és az írások ellen nem tehetünk semmit. Te vagy a bosszú angyala, akinek boszorkány a neve... szép és borzalmas a sorsod, félelmetes és gyönyörűséges... kívánságod parancs a poklok hatalmasai előtt, vágyad beteljesül, mielőtt kimondanád... gyűlöleted vért és tüzet teremt, s csókod nyomán kinyílik a halál... megcsúfolt szüzek bosszúját hordozza a véred... megcsalt leányok átkát váltod valóra... eredj... megérzed a szemek mögött a gondolatot, és meghallod a szavakat, amiket nem mondanak el. Meglátod, ami láthatatlan, meghallod, ami hang nélkül való, s megérzed, aminek illata sincs, mert még meg sem született az időben." (Részlet a regény első részéből) &lt;/P&gt; &lt;P&gt;PRC by TothTJ&lt;/P&gt;</dc:description>
+        <dc:publisher>Candlekeep</dc:publisher>
+        <dc:language>hun</dc:language>
+        <dc:subject>Historical Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Wass, Albert&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2012-11-17T20:51:18+00:00"/>
+        <meta name="calibre:title_sort" content="funtineli boszorkány I., A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

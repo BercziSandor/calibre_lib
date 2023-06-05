@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">782</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37a1c330-5e7b-4575-b243-efe947519a33</dc:identifier>
+        <dc:title>Kutyák a rendelőmben</dc:title>
+        <dc:creator opf:file-as="Herriot, James" opf:role="aut">James Herriot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A szerző önéletrajzának nagy részét – Egy állatorvos történetei, Egy kezdő állatorvos történetei – már jól ismeri a magyar olvasók nagy tábora.&lt;br&gt;E könyv a fiatal állatorvos kutyatörténeteit tartalmazza. Huszonhat kutyatörténet – huszonhat különböző kutyaegyéniség bontakozik ki előttünk. Találkozhatunk a kutyatársadalom minden rendű és rangú szereplőjével; az elkényesztetett kis ölebektől a még télen is a szabadban alvó, hatalmas pásztorkutyákig. Ám nemcsak az állatpáciensekről, hanem a gazdáikról is szórakoztató portrékat fest Herriot. Írásait azonban mindig áthatja orvosi felelőssége, állatszeretete, humánuma.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Kossuth</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789635440009</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">james-herriot-kutyak-a-rendelomben</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>állatgyógyászat</dc:subject>
+        <dc:subject>angol humor</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>hangoskönyv</dc:subject>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>illusztrált</dc:subject>
+        <dc:subject>kisváros</dc:subject>
+        <dc:subject>kutya</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>orvos</dc:subject>
+        <dc:subject>állatbarát</dc:subject>
+        <dc:subject>állattörténet</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Herriot&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2014-09-20T13:50:14+00:00"/>
+        <meta name="calibre:title_sort" content="Kutyák a rendelőmben"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

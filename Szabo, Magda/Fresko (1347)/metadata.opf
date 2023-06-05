@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1347</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9bfa02a5-a42c-4aba-9094-48d073509004</dc:identifier>
+        <dc:title>Freskó</dc:title>
+        <dc:creator opf:file-as="Szabó, Magda" opf:role="aut">Szabó, Magda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;„Pályám ​kezdetén, mint a Lengyel Balázs immár legendás Újhold-ja köré csoportosuló fiatalok egyike, költőként indultam, második verseskötetemre 1949-ben kaptam az osztályidegen voltomra való hivatkozással még aznap vissza is vett Baumgarten-díjat. A zsdanovi gesztus hazai irodalompolitikánkban való érvényesítése startpisztoly dörrenése volt, az Újhold nemzedék, amely megalkuvás nélkül szembeszállt a követelményekkel, kivonult az arénából, s kollektív döntése: nem publikálunk többé, évekre megbénította a reális magyar irodalmi életet. A bekövetkezett helyzetre ki-ki írói alkata szerint reagált, volt, akit a helyzet brutalitása némaságba merevített, nálam a felháborodás kifejezési formaváltozást eredményezett, saját személyemről elfordult a tekintetem, elkezdtem figyelni, majd ábrázolni a meggyalázott országot, abbahagytam a versírást, és egy megrendítő családi haláleset után átélt temetés keserves élménye meg is hozta első regényem, a Freskó témáját. A mű 1953-ban íródott, s ha nem megfelelő kezekbe kerül, bármit eredményezhetett volna, akár a Gulágot is. Tudtam, mit ábrázolok, nem is mertem otthon tartani a hamar bujdosóba adott kéziratot, rejtegette azt Lengyel Balázs és Nemes Nagy Agnes, volt Ottlikék, volt Kálnoky László őrizetében, egy példány Debrecenben, anyámék szenespincéjében a szén alatt. 1956 aztán meghozta a megoldást: az elnémult írókat a kiadók keresték fel, kéziratot kérve, így került nyilvánosság elé a Freskó is 1958-ban, első kritikáját, ismét csak fejét kockáztatva, Lengyel Balázs írta meg. A Freskó-t a megalázott kitaszítottak jóvátételt ígérő Istene kísérte: itthoni, meglepően kedvező fogadtatása eljutott az akkor még nyugatnémet Insel kiadóig, és a könyv kikerült a nemzetközi könyvpiacra. Váratlan sikert aratott idegenben is, itthon meg a kínosan megdöbbent marxista kritikusok eddigi támadásaikat udvarias elismeréssé mitigálták. Az Újhold egykori fiataljai közül elsőnek én kaptam Kossuth-díjat, ez annyit jelentett, nincs mit kezdeni velem, ha eddig nem változtam, már aligha fogok akkor, mikor már a nemzetközi sajtó is véd. A Freskó egyetlen nap története: Annuska, aki kezéből a festőművész ecsetjét kitépte a hatalom, aki dísztárgyak készítésével keresi a szülői házból való szökése után a kenyerét Pesten, anyja temetésére hosszú távollét után először látogat szülővárosába, s mikor ismét szembesül élete hajdani irányítóival és tanúival, zavart megrendüléssel éli át, senkinek nincs már hatalma felette, nem rettegni: szánni valók a családtagok, Tarba lakói, mindenki, aki egykor bántotta vagy akitől iszonyodott. Annuska úgy tér vissza a fővárosba, hogy nem visz magával mást, csak a szánakozást, a hajdani félelemmel együtt egész Tarba emlékként marad vissza a Pest felé futó gyorsvonaton. A regény szerkezete akkor még feltűnéskeltően új volt. Nem a móriczi hagyományt követtem, hanem belső monológokkal dolgoztam. Annuska figuráját mindig más családtag, barát vagy ellenség szemszögéből ábrázoltam. Most, hogy újra elolvastam a könyvet, elfogott a borzongás: mi lett volna, ha ez az ábrázolás, amelyről azt hittem, sose lát nyomdagépet, akkor vetíti ki a letagadhatatlan igazságot, mikor boldog felszabadulttá hazudtak egy boldogtalan és megszállás alatt élő országot? Úgy meglepett, hogy nem kerültem börtönbe. A Freskó számomra örökre az újrakezdett írói élet szimbóluma marad, eltaposott fiatalságunk húsvéti csodája, a feltámadás. Egyszer, az üldözöttség legmélyebb bugyrában majdnem számonkérő indulattal faggattam Istent, ha arra teremtett, amit élnem kell, ugyan miért tette. Ma már tudom, Isten a Freskó-val válaszolt.” Szabó Magda&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Jaffa</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">szabo-magda-fresko</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786155715464</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>család</dc:subject>
+        <dc:subject>családregény</dc:subject>
+        <dc:subject>emberi sorsok</dc:subject>
+        <dc:subject>halál</dc:subject>
+        <dc:subject>hangoskönyv</dc:subject>
+        <dc:subject>klasszikus</dc:subject>
+        <dc:subject>lélektani</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>társas kapcsolatok</dc:subject>
+        <dc:subject>váltott szemszög</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Szabó, Magda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-02-20T14:14:57+00:00"/>
+        <meta name="calibre:title_sort" content="Freskó"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

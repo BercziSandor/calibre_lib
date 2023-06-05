@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0ada6c3-686b-43b3-8be5-364d9bc2155c</dc:identifier>
+        <dc:title>Harry Potter és az azkabani fogoly</dc:title>
+        <dc:creator opf:file-as="Rowling, J. K." opf:role="aut">J. K. Rowling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-20T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Harry Potter szokásos rémes vakációját tölti Dursley-éknél, ám a helyzet úgy elfajul, hogy Harry elviharzik a Privet Drive-ról. Így köt ki a Kóbor Grimbuszon, ami elviszi őt abba a világba, ahová egész nyáron vágyott. Az Abszol úton ijesztő hírek járják: az Azkabanból, a gonosz varázslókat őrző rettegett börtönből megszökött egy fogoly. A Mágiaügyi Minisztériumban tudják, hogy a veszélyes szökevény a Roxfort Boszorkány- és Varázslóképző Szakiskolába tart. Harry pedig egy véletlen folytán tudomást szerez róla, hogy az illető az ő nyomát követi.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Animus</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">cl99DAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781781103852</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">j-k-rowling-harry-potter-es-az-azkabani-fogoly</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Action &amp; Adventure</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fantasy &amp; Magic</dc:subject>
+        <dc:subject>Young Adult Fiction</dc:subject>
+        <dc:subject>Wizards &amp; Witches</dc:subject>
+        <dc:subject>School &amp; Education</dc:subject>
+        <dc:subject>Boarding School &amp; Prep School</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. K. Rowling&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Harry Potter"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2012-11-13T14:14:35+00:00"/>
+        <meta name="calibre:title_sort" content="Harry Potter és az azkabani fogoly"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

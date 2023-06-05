@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1516</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7bc8dd48-400e-4968-b3b2-d0945beb27bc</dc:identifier>
+        <dc:title>E=mc² (De miért olyan nagy ügy ez?)</dc:title>
+        <dc:creator opf:file-as="Cox, Brian &amp; Forshaw, Jeff" opf:role="aut">Brian Cox</dc:creator>
+        <dc:creator opf:file-as="Cox, Brian &amp; Forshaw, Jeff" opf:role="aut">Jeff Forshaw</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-22T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;„Szerzők ​sokasága vállalkozott már arra, hogy megpróbálja elmagyarázni [az egyenlet] keletkezését, legalábbis változó sikerrel. Brian Coxnál és Jeff Forshawnál alkalmasabb szerzőpárost keresve sem lehetett volna találni erre a feladatra… Magas színvonalon válaszolják meg a könyv címében föltett kérdést, és elkalauzolják az olvasót a 21. századi fizika frontvonalaihoz.”&lt;br&gt;BBC Focus Magazine&lt;br&gt;Brian Cox és Jeff Forshaw a Manchesteri Egyetemen tanítanak részecskefizikát, népszerű tudományos műsorok állandó vendégei. Könyvük afféle intellektuális kalandregény, amelyben arra vállalkoztak, hogy világos nyelven, az átlagember számára is érthetően bebizonyítsák, hogy Einstein speciális relativitáselmélete nem valamiféle misztérium, amelyet csak a tudomány fölkentjei érhetnek föl ésszel, hanem olyan mély gondolati rendszer része, amely folyamatosan alakítja az életünket. Bevezetik az olvasót a modern tudomány világába, bemutatják Einstein fölfedezésének történeti hátterét, és sok mindenről szót ejtenek, kezdve a téridő matematikai szerkezetétől az atombombáig, az asztrofizikától a Nagy Hadronütköztetőn át az anyag eredetéig. Az egyszerű dolgok alapos és részletes ismertetése mellett a tudomány szerelmeseinek is kínálnak csemegét. Sokszínű és kifejezetten olvasmányos, nagyobb részében matematikamentes barangolás a világ leghíresebb egyenlete körül.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789630794763</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">brian-cox-jeff-forshaw-e-equals-mc2-de-miert-olyan-nagy-ugy-ez</dc:identifier>
+        <dc:language>hun</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Brian Cox&quot;: &quot;&quot;, &quot;Jeff Forshaw&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-12-23T16:06:17+00:00"/>
+        <meta name="calibre:title_sort" content="E=mc² (De miért olyan nagy ügy ez?)"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

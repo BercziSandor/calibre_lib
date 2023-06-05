@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">868</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e237798-3e41-4845-9371-4841303c7021</dc:identifier>
+        <dc:title>Istenek kertje</dc:title>
+        <dc:creator opf:file-as="Durrell, Gerald" opf:role="aut">Gerald Durrell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-18T00:00:00+00:00</dc:date>
+        <dc:description>Olyan az egész, mintha megismétlődne a Teremtés, csak még rosszabbul. Egy bagolyból egész hadosztály támad, mire észbe kap az ember; a szobák valamennyi zugában szexőrült galambok tombolnak, a lakás dugig szárnyasokkal, mint egy madárkereskedés, nem is szólva a kígyókról, a békákról és az apró halakról, amelyeken Macbeth boszorkányai évekig megélhetnének.
+A Korfu-trilógia záródarabjában a Családom és egyéb állatfajták, illetve a Madarak, vadak, rokonok című kötetek lapjain megismert Durrell család – a pattanások sújtotta, csélcsap Margo, a fegyvermániás Leslie, a mizantróp írópalánta Lawrence, az állatbolond Gerry, valamint sokat tűrt édesanyjuk, Louisa – életének további vicces kalandjairól és kalamajkáiról olvashatunk a paradicsomi sziget, Korfu csodálatos tájakkal, no meg mindenféle csúszó, mászó, röpködő, ugrándozó és úszkáló állatokkal teli világában.</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">18245004</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">cd480174-496d-4f9f-b3cb-85de36ae2b13</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789635043248</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B003BWDHHW</dc:identifier>
+        <dc:identifier opf:scheme="LIBRI_HU">gerald_durrell.istenek-kertje</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">gerald-durrell-istenek-kertje</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>családtörténet</dc:subject>
+        <dc:subject>gyermek főszereplő</dc:subject>
+        <dc:subject>ismeretterjesztő</dc:subject>
+        <dc:subject>család</dc:subject>
+        <dc:subject>családregény</dc:subject>
+        <dc:subject>állat</dc:subject>
+        <dc:subject>kaland</dc:subject>
+        <dc:subject>Korfu</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>állatvilág</dc:subject>
+        <dc:subject>igaz történet alapján</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>állattartás</dc:subject>
+        <dc:subject>Görögország</dc:subject>
+        <dc:subject>Irodalom</dc:subject>
+        <dc:subject>angol humor</dc:subject>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>ifjúsági</dc:subject>
+        <dc:subject>gyermekszemszög</dc:subject>
+        <dc:subject>Szórakoztató irodalom</dc:subject>
+        <dc:subject>illusztrált</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gerald Durrell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Korfu-trilógia"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2015-08-20T12:29:39+00:00"/>
+        <meta name="calibre:title_sort" content="Istenek kertje"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

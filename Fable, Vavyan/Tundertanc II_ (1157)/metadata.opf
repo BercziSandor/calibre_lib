@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1157</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84189421-17e5-454f-b0df-397fe45b30bc</dc:identifier>
+        <dc:title>Tündértánc II.</dc:title>
+        <dc:creator opf:file-as="Fable, Vavyan" opf:role="aut">Fable, Vavyan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-01-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;p class="MsoNormal"&gt;„Melyik a kép és melyik a tükör? Melyik a hang, melyik a
+Visszhang? Ismét film- és élet-forgatás zajlik; filmképek, életképek,
+vágyképek, rémképek és jelképek jobb- és baljós özöne káprázik át egymáson, s
+ugyanígy a szerepeken-szereplőkön, írón és olvasón. Amint a tíz évvel korábban
+született ÁLOMHAJSZA című ikertörténet (s immár azzal/azokkal is egymást
+trükkösen tükrözve); sodró-nyűgöző, vakító és látni tanító TÜNDÉRTÁNC
+forgatagában, józan delíriumában, ihletett és ihlető bizonyosságai és
+bizonytalanságai közepette újólag és folytatólag a legbecsesebb és legkényesebb
+érték: a Szeretet számolhatatlan esélyét, lehetőségét és lehetetlenségét
+villantja és mérlegeli az Új Könyv is; úgymód, amint a kaleidoszkóp
+„anyagkészlete” mindig változatlan, ám soha egymás után kétszer azonos ábrát ki
+nem vet.&lt;p&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Ami kétségtelen: érdekes is, érdemes is gyakorolni a
+TÜNDÉRTÁNC-lépéseket!&lt;p&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;Táncoslelkűek figyelem − Varázs-zene indul.”&lt;p&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;/div&gt;</dc:description>
+        <dc:language>hun</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Fable, Vavyan&quot;: &quot;https://hu.wikipedia.org/wiki/Vavyan_Fable&quot;}"/>
+        <meta name="calibre:series" content="Tündértánc"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2018-03-27T09:39:20+00:00"/>
+        <meta name="calibre:title_sort" content="Tündértánc II."/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;RTF&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

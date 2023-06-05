@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">978</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">938223d9-aea0-4a3e-bb16-c15db53d702f</dc:identifier>
+        <dc:title>Fehér éjszaka</dc:title>
+        <dc:creator opf:file-as="Nesbø, Jo" opf:role="aut">Jo Nesbø</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-22T00:00:00+00:00</dc:date>
+        <dc:description>Vajon akkor kezdődött ez a történet, amikor rájöttem, hogy csak a negyedik legjobb focista vagyok az osztályban? – teszi fel magának a kérdést Jon, aki szerény drogüzletét feladva kénytelen elszegődni a Halászhoz, az oslói drogbáróhoz. Sikeres is behajtóként, hiszen elegendő, ha csak kiejti az alvilág nagy hatalmú urának nevét, és az adósok azonnal fizetnek. Egy napon azonban a Halász olyasvalamit kér, amit Jon már nem teljesít, sőt átveri és meglopja megbízóját. A megtorlás elől egészen egy isten háta mögötti kis lappföldi faluig menekül, ahol nyáron nem nyugszik le a nap. Egy elhagyatott vadászkunyhóban húzza meg magát, ahol a kínzó emlékek, a magány és a fehér éjszakák lassan az őrületbe kergetik. És a Halász emberei közelednek. A bujdosó jól tudja: ha nem akarja, hogy elkapják, olyan kiszámíthatatlannak kell lennie, hogy maga se tudja, mi lesz a következő lépése.</dc:description>
+        <dc:publisher>Animus</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">KSesDAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789633243497</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">jo-nesbo-feher-ejszaka</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Thrillers</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>skandináv</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jo Nesbø&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Vér a havon"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2016-05-25T07:26:05+00:00"/>
+        <meta name="calibre:title_sort" content="Fehér éjszaka"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

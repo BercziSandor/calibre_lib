@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1173</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">907414b8-6014-4d7f-9968-1618fb94671f</dc:identifier>
+        <dc:title>Robotok és Birodalom</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Asimov, Isaac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-02-18T00:00:00+00:00</dc:date>
+        <dc:description>A ​regény – mely az Alapítvány és Birodalom-ciklus szerves része- az űrjárók és telepesek évszázados múltú konfliktusáról szól. Az űrjáró világ – lassú pusztulásának elkerülése érdekében – a legfőbb telepesbolygó, a Föld elpusztítására tör. Kelden Amadiro, a Robotikai Intézet vezetője két társával – személyes bosszútól is vezérelve – kiterveli a Föld kérge alatti sugárzó ércek emanálását. Azonban nem számolnak Lady Gladia két kivételes képességű robotjával: az emberi gondolatot telepatikusan érzékelő és befolyásoló Giskardnak, és az egyetlen humanodi robotnak, R. Daneel Olivaw-nak sikerül logikai úton felderítenük a Föld ellen készülő támadást, s megpróbálják megakadályozni annak végrehajtását… A regény másik szála Gladia története. A Solariáról Aurórára menekült űrjárónő a Solaria titkainak felderítésekor kapcsolatba kerül egykori szerelme, a földlakó Elijah Baley leszármazottjával. A telepesvilágban élő Baley kapitány ráveszi Gladiát, vegyen részt a Solariára indított expedícióban. A kapitány számításai helyesnek bizonyulnak, mert az űrhajó csak a nő és két robotja közreműködésének köszönhetően menekül meg a solariai csapdából. Az asszony kezdetben nehezen viseli el a földi emberek életét, a zsúfoltságot, a zajt, az emberek közelségét, bizalmaskodását, amely a robotjaitól körülvett, elszigeteltségben élő űrjáróknál szokatlan és viszolyogtató. Lassanként azonban Gladia és a kapitány közel kerülnek egymáshoz, és Gladia a férfiért még a földi élet kényelmetlenségeit is vállalja. Eddigi hosszú és eseménytelen űrjáró életének a szerelem, valamint a telepes és űrjáró világok összebékítéséért való együttmunkálkodás új értelmet ad. Ám sem Gladia, sem Baley kapitány nem sejti, hogy a két robot, Giskard és Daneel miképp is fáradozik az emberiség jövőjéért…</dc:description>
+        <dc:publisher>GABO</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789636896775</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">isaac-asimov-robotok-es-birodalom</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>robot</dc:subject>
+        <dc:subject>űropera</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>sci-fi</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>hangoskönyv</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>női főszereplő</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>űrkutatás</dc:subject>
+        <dc:subject>amerikai szerző</dc:subject>
+        <meta name="calibre:series" content="Alapítvány-Birodalom-Robot"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-03-27T10:01:33+00:00"/>
+        <meta name="calibre:title_sort" content="Robotok és Birodalom"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

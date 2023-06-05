@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">355</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b70b47dd-503a-4433-8b67-1b73c90fb789</dc:identifier>
+        <dc:title>Metró 2034</dc:title>
+        <dc:creator opf:file-as="Glukhovsky, Dmitry" opf:role="aut">Dmitry Glukhovsky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-18T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;2034.&lt;br&gt;Több mint húsz évvel az utolsó háború után az egész világ romokban hever. Moszkvában a túlélők a metróban, a föld legnagyobb atombombabiztos óvóhelyén húzzák meg magukat.&lt;br&gt;Az egyik periferikus állomást, a Szevasztopolszkaját borzalmas mutánsok fenyegetik, s egyszer csak megszakad az összeköttetés a többi állomással – így pedig, lőszer nélkül halálra vannak ítélve.&lt;br&gt;A titokzatos Hunter és az öreg Homérosz, aki egyre csak egy új eposz megírásáról álmodozik, elindul, hogy kiderítse, mi történt…&lt;br&gt;S miközben lélegzetelállító kalandok során csapnak össze hol a metró szörnyeivel, hol a felszíni világ romjai között élő rémséges lényekkel, hőseink – akikhez a szerelmet kereső Szása, a száműzetésben felnőtt szép fiatal lány is csatlakozik – egyre mélyebben gondolják át e torz világ értelmét és a föld alá bújt, nyomorult emberiség rendeltetését…&lt;br&gt;A Metró 2033 és folytatása a világ számos országában bestseller lett, és a két regényből népszerű számítógépes játék is készült.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">dmitry-glukhovsky-metro-2034</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630793032</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>apokalipszis</dc:subject>
+        <dc:subject>atomháború</dc:subject>
+        <dc:subject>disztópia</dc:subject>
+        <dc:subject>erőszak</dc:subject>
+        <dc:subject>fegyverek</dc:subject>
+        <dc:subject>halál</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>metró</dc:subject>
+        <dc:subject>Moszkva</dc:subject>
+        <dc:subject>orosz szerző</dc:subject>
+        <dc:subject>Oroszország</dc:subject>
+        <dc:subject>posztapokaliptikus</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sci-fi</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>váltott szemszög</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dmitry Glukhovsky&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Metró 2033"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-18T20:53:38+00:00"/>
+        <meta name="calibre:title_sort" content="Metró 2034"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, RTF&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

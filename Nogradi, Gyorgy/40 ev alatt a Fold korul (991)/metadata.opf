@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">991</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11ceadb1-7873-4ec2-affc-aa9612418023</dc:identifier>
+        <dc:title>40 év alatt a Föld körül</dc:title>
+        <dc:creator opf:file-as="Nógrádi, György" opf:role="aut">Nógrádi, György</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Az elmúlt negyven évben többször bejártam a világot. Hatszor voltam Kínában, Amerikában, Európában Finnország és Albánia kivételével valamennyi államban jó néhányszor megfordultam. Húszéves koromtól idegenvezető voltam, főleg Jugoszláviában. Átutaztam Károlyvároson (Karlovac), amikor lőtték, és nyaraltam olyan luxusszállodában, melyben a háború miatt mindössze három család pihent. Megszámlálhatatlan előadást tartottam itthon és külföldön. Barátaim lettek a kilencvenes évek ismert európai vezetői, katonái, politikusai. Az érdekes találkozásokról, az úti élményekről, életem fontosabb döntéseiről, eseményeiről szól ez a könyv, és azokról az emberekről, akikkel valahol, valamikor együtt dolgoztam vagy összetalálkoztam. Amikor nekikezdtem emlékeim leírásának, el kellett döntenem: biztonságpolitika-elméletet vagy sztorikat szeretnék-e írni? Az utóbbiak mellett döntöttem. Remélem, jó döntés volt.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Kossuth</dc:publisher>
+        <dc:identifier opf:scheme="LIBRI_HU">nogradi_gyorgy.40-ev-alatt-a-fold-korul</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630983976</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">K3_kCgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">nogradi-gyorgy-40-ev-alatt-a-fold-korul</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Életrajzok</dc:subject>
+        <dc:subject>visszaemlékezések</dc:subject>
+        <dc:subject>önéletrajz</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nógrádi, György&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2016-05-25T07:41:16+00:00"/>
+        <meta name="calibre:title_sort" content="40 év alatt a Föld körül"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

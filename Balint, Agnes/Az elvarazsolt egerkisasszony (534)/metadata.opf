@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">534</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e83dd37-e1c6-46da-a151-15811521cc7f</dc:identifier>
+        <dc:title>Az elvarázsolt egérkisasszony</dc:title>
+        <dc:creator opf:file-as="Bálint, Ágnes" opf:role="aut">Bálint, Ágnes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Mi történik egy kisegérrel, ha minden tilalom ellenére megeszik egy mézeskalács boszorkányt? Bizony maga is boszorkánnyá változik! Ez esett meg hősünkkel, Fánival is Cukoranyónál, a mézesbábosnál. Szégyenében mi mást tehet, elbujdosik. Furfangos Szigetre kerül, ahol Hercsula Macska fogadja be. Itt ismerkedik meg Surranóval, a templom egerével, akivel egy jövőmondó varázstükör miatt ellenségeskedés után mégis összemelegednek, s már a menyegzőjükre készülnek. Sikerül-e Fáninak visszaváltozni egérré, s megtarthatják-e a lakodalmat? Mindez kiderül a bájos és nagyon is emberi egértörténetből.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Móra</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">balint-agnes-az-elvarazsolt-egerkisasszony</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>boszorkány</dc:subject>
+        <dc:subject>gyermekkönyv kicsiknek</dc:subject>
+        <dc:subject>hangoskönyv</dc:subject>
+        <dc:subject>illusztrált</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>meseregény</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bálint, Ágnes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2013-06-11T20:35:52+00:00"/>
+        <meta name="calibre:title_sort" content="elvarázsolt egérkisasszony, Az"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, RTF&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

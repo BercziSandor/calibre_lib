@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">997</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eec2c913-9c97-4674-9158-019c888f7d28</dc:identifier>
+        <dc:title>A második világháború</dc:title>
+        <dc:creator opf:file-as="Keegan, John" opf:role="aut">John Keegan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;A sorozat ujabb kötete az emberiseg törtenetenek legszörnyűbb és legpusztítóbb fegyveres konfliktusát mutatja be. A második világháború szinte az egész Földre kiterjedt, egyetlen lakott kontinens sem maradt érintetlenül a harcoktól. A Szovjetunió és az Egyesült Államok, Németország, Japán, Nagy-Britannia, Kína, Olaszország, Franciaország és számtalan más nemzet hadserege, hadiflottája és légiereje vett részt a legkülönbözőbb hadműveletekben. Addig soha nem látott méretű katonai összecsapások folytak a különböző szárazföldi és tengeri hadszíntereken, valamint a levegőben. Számtalan új pusztító fegyvert fejlesztettek ki és vetettek be a harcok során, aminek következtében a veszteségek emberéletben és anyagi javakban szinte felmérhetetlenek voltak. Becslések szerint a háború áldozatainak száma meghaladta az&lt;/p&gt;
+&lt;p class="description"&gt;50 milliót. Bár a kötet elsősorban a háború katonai eseményeire, a frontokon zajló hadműveletekre koncentrál, nem maradnak ki a hadiipart bemutató értékelések és a diplomácia frontján lejátszódó események sem. A kötet foglalkozik a háború gazdasági, politikai és stratégiai hátterének kérdéseivel és az egész világot sújtó következményeivel is.&lt;/p&gt;
+&lt;p class="description"&gt;A kötet felépítése hagyományosan a sorozat többi tagját követi. Az atlaszt most is kronológia nyitja, amely térségenként, időrendi sorrendben tünteti fel az 1919 és 1945 közötti időszak&lt;/p&gt;
+&lt;p class="description"&gt;legfontosabb eseményeit. Az időrendi táblázatot az egyes frontokat, hadműveleteket, csatákat részletesen bemutató, gazdagon illusztrált fejezetek követik. A hadmozdulatok megértését több mint 600 részletes térkép segíti. A kislexikonban a korszak jelentősebb politikusainak, illetve&lt;/p&gt;
+&lt;p class="description"&gt;katonai személyiségeinek életrajzát, valamint az egyes hadműveletek, katonai szakkifejezések rövid magyarázatait találhatjuk. A térképeken való tájékozódást az atlasz végén található, több ezer címszót tartalmazó névmutató könnyíti meg.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789630784573</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">lQXZwQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">john-keegan-szerk-the-times-atlasz-masodik-vilaghaboru</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>2. világháború</dc:subject>
+        <dc:subject>atlasz</dc:subject>
+        <dc:subject>történelem</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Keegan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="The Times"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2016-05-25T07:41:19+00:00"/>
+        <meta name="calibre:title_sort" content="második világháború, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">631</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7adb6a92-94a0-4884-bafd-0fc54a273e03</dc:identifier>
+        <dc:title>Micsoda elmék</dc:title>
+        <dc:creator opf:file-as="Dennett, Daniel C." opf:role="aut">Daniel C. Dennett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-02-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Daniel C. Dennett a Tufts University professzora meghökkentő kijelentéssel kezdi az emberi elme kialakulásáról és működéséről szóló könyvét: „Filozófus vagyok, nem tudós, és mi, filozófusok jobban tudunk kérdezni, mint válaszolni." Megtudhatjuk vajon valaha is, mi megy végbe egy másik ember elméjében? Megtudhatja-e egyszer egy nő, milyen férfinak lenni? Milyenek a nem emberi elmék? Miről gondolkodnak a lovak? A mindvégig érdekfeszítően olvasmányos könyv szellemi kalandozásra hívja az olvasót, hogy többet tudjunk meg arról, milyenek is vagyunk „mi elmések, mi gondoskodó-gondolkodók".&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Kulturtrade</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">daniel-c-dennett-micsoda-elmek</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">a5b42a95-fe0e-46d6-a949-f3922547ae71</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>filozófia</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>tudományfilozófia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel C. Dennett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2014-09-17T07:35:21+00:00"/>
+        <meta name="calibre:title_sort" content="Micsoda elmék"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

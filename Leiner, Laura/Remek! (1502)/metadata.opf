@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1502</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9c927fa-b3a1-415e-b021-0b33d15085ca</dc:identifier>
+        <dc:title>Remek!</dc:title>
+        <dc:creator opf:file-as="Leiner, Laura" opf:role="aut">Leiner, Laura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-01T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Mire számíthat egy 19 éves lány, aki nagy nehezen végre megszabadul az iskolától, és soha többé a közelébe sem akar menni? Akinek a barátja az egész nyarát Floridában tölti – nélküle? Akinek mindene a film, forgatókönyv-író szeretne lenni, csak éppen még egy betűt sem írt le? Például elmehet dolgozni egy videótékába, hogy ne teljen tétlenül a nyara. Ennél jobb munkahelyet nem is találhatna, és végre lesz ideje nekilátni a forgatókönyvnek... Persze végül semmi sem a tervek szerint alakul, minden a feje tetejére áll: valódi filmbe illő jelenetek, káosz és rengeteg humor Leiner Laura első, bemutatkozó regényében, amely több mint tíz év után jelenik meg újra.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>L&amp;L</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786155872013</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">leiner-laura-remek</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">eY_yDwAAQBAJ</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Young Adult Fiction</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Romantic Comedy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Leiner, Laura&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Remek!"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-11-15T12:52:50+00:00"/>
+        <meta name="calibre:title_sort" content="Remek!"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

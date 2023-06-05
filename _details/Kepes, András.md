@@ -1,0 +1,28 @@
+# <a name="id_109">Kepes, András: Tövispuszta (2017)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kepes%2C%20Andras/Tovispuszta%20%28109%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kepes%2C%20Andras/Tovispuszta%20%28109%29/Tovispuszta%20-%20Kepes%2C%20Andras.epub)
+
+### Tagek
+21. század, magyar, magyar nyelvű, magyar szerző, regény, kortárs, családregény, 20. század
+
+### Összefoglalás
+<div>
+<p>Kellő ​fantáziával a valóság is kitalálható.<br>Kávéfoltos levelekből, megsárgult, tépett szélű dokumentumokból, elrongyolódott naplókból és felesleges tárgyak szagából próbálom összerakni ezt a történetet. Mindent én gyűjtöttem a behívóparancstól a kitelepítési határozatig és az egymásnak ellentmondó önéletrajzokig, a koronás ezüstkanáltól a tulipános ládáig, a chanuka gyertyatartótól a vásári Krisztus-képig és a felfújható Buddháig. Ahogy elnézem, jó mocskos kis történet lesz, tele vicsorral és könnyes röhögéssel, szerelemmel, gyilkossággal, barátsággal és árulással, fordulatokkal és közhelyekkel. Akár egy szappanopera. Vagy mint a történelmünk. De, azt gondoltam, valakinek el kell mesélnie, hátha az igazság helyett mondogatott és a valóság helyett megélt történetek összeillesztve valósággá válnak.<br>A könyv egyik hőse én vagyok. Hogy melyik, azt egyelőre nem árulom el. Nagyjából mindegy is. Ne reménykedj, nem fogsz rájönni. Egyes szám harmadik személyben írok magamról, kellő távolságtartással és öngúnnyal, ahogy ilyen esetben elvárható, azontúl persze mély együttérzéssel és önámítással, helyenként önimádattal, ahogy magunkkal bánni szoktunk.</p></div>
+
+
+# <a name="id_1232">Kepes, András: Istenek és emberek (2018)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kepes%2C%20Andras/Istenek%20es%20emberek%20%281232%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kepes%2C%20Andras/Istenek%20es%20emberek%20%281232%29/Istenek%20es%20emberek%20-%20Kepes%2C%20Andras.epub)
+
+### Tagek
+21. század, fogság, gasztronómia, házasság, katasztrófa, kortárs, magyar, magyar nyelvű, magyar szerző, regény, svájc, társadalomtudomány, természet
+
+### Összefoglalás
+<div>
+<p>Három ​magyar házaspár egy svájci luxusvillában reked. A természet fenyegető árnyékában, a válogatott gasztronómia finomságok mellett terítékre kerül a múltjuk és a jelenük, miközben konfliktusaikban felsejlik napjaink emberének drámája az erkölcsi és szellemi kapaszkodóit vesztett világban. Nem csak az emberek esnek csapdába, hanem kelepcébe kerül a szerelem és a szexualitás, a barátság és a gyanakvás, a bírvágy és a hatalom, s talán még a párbeszéd esélye is…<br>Kepes András új regénye a Tövispuszta és a Világkép drámai folytatása.<br>„Minden megváltozik, minden másról szól már ma is, mint amiről a politikusok papolnak és amitől az emberek szoronganak, vélte Ézsiás Benedek. Szétfeszítette a tudat, hogy már soha senkit nem tud meggyőzni semmiről, mert megtagadták őt a szavak. Persze, gondolta, lehet, akkor se tudná megértetni magát, ha megmaradt volna a beszéde, hiszen hány ékesszóló, okos ember figyelmezteti az emberiséget, hogy mi vár rá, ahogy a próféták is hiába üvöltözték a jövendölésüket és az átkaikat. Az emberek saját előítéleteik rabjai, és a cellájukba nem szűrődik be más gondolat, csupán saját véleményük visszhangjának örvendeznek.”</p></div>
+
+

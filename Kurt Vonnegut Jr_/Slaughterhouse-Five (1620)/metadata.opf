@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1620</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14a56882-39ce-4ccc-aea6-7b8a73251b3b</dc:identifier>
+        <dc:title>Slaughterhouse-Five</dc:title>
+        <dc:creator opf:file-as="Vonnegut, Kurt" opf:role="aut">Vonnegut, Kurt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1969-03-30T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Kurt Vonnegut's masterpiece, Slaughterhouse-Five is "a desperate, painfully honest attempt to confront the monstrous crimes of the twentieth century" (Time). Selected by the Modern Library as one of the 100 best novels of all time Slaughterhouse-Five, an American classic, is one of the world's great antiwar books. Centering on the infamous World War II firebombing of Dresden, the novel is the result of what Kurt Vonnegut described as a twenty-three-year struggle to write a book about what he had witnessed as an American prisoner of war. It combines historical fiction, science fiction, autobiography, and satire in an account of the life of Billy Pilgrim, a barber's son turned draftee turned optometrist turned alien abductee. As Vonnegut had, Billy experiences the destruction of Dresden as a POW. Unlike Vonnegut, he experiences time travel, or coming "unstuck in time." An instant bestseller, Slaughterhouse-Five made Kurt Vonnegut a cult hero in American literature, a reputation that only strengthened over time, despite his being banned and censored by some libraries and schools for content and language. But it was precisely those elements of Vonnegut's writing--the political edginess, the genre-bending inventiveness, the frank violence, the transgressive wit--that have inspired generations of readers not just to look differently at the world around them but to find the confidence to say something about it. Authors as wide-ranging as Norman Mailer, John Irving, Michael Crichton, Tim O'Brien, Margaret Atwood, Elizabeth Strout, David Sedaris, Jennifer Egan, and J. K. Rowling have all found inspiration in Vonnegut's words. Jonathan Safran Foer has described Vonnegut as "the kind of writer who made people--young people especially--want to write." George Saunders has declared Vonnegut to be "the great, urgent, passionate American writer of our century, who offers us . . . a model of the kind of compassionate thinking that might yet save us from ourselves." More than fifty years after its initial publication at the height of the Vietnam War, Vonnegut's portrayal of political disillusionment, PTSD, and postwar anxiety feels as relevant, darkly humorous, and profoundly affecting as ever, an enduring beacon through our own era's uncertainties.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Dell</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780440180296</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">DLCSm6whrnEC</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">168646</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>War</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Vonnegut, Kurt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-07-03T19:38:09+00:00"/>
+        <meta name="calibre:title_sort" content="Slaughterhouse-Five"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

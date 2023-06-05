@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">780</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bcc2a4cd-f7ce-412a-ac29-8485623487ff</dc:identifier>
+        <dc:title>Huszonnégy óra</dc:title>
+        <dc:creator opf:file-as="Iles, Greg" opf:role="aut">Greg Iles</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A Huszonnégy óra olyan könyv, amit ha a kezébe vesz az olvasó, a szíve gyorsabban kezd verni, s nem tudja letenni, amíg végig nem olvasta.&lt;br&gt;A gyermekrablás kitervelője, John Hickey őrült zseni a legrosszabbak közül. Annyira „ügyes”, hogy a bűntényt huszonnégy óra alatt képes végrehajtani. Ördögi pontossággal végzi el a „feladatát”, felveszi a váltságdíjat, és eltűnik. A túszok életben maradnak, de a családot annyira megviselik az események, hogy nem merik értesíteni a rendőrséget. Hickey eddig ötször követett el gyermekrablást, de még egyszer sem kapták el. Már ki is szemelte következő áldozatát, az ötéves Abby Jenningset. Ebben az esetben azonban hiba csúszik a számításaiba…&lt;br&gt;Greg Iles élethűen ábrázolja a szülők rettegését és a gyermekrablást, izgalmas thrillerré formálva a megrázó, ugyanakkor megragadó történetet. A cselekmény huszonnégy óra alatt játszódik le, de ez alatt a rövid idő alatt, bármilyen pergő ritmusú is a könyv, az olvasó minden szereplőt alaposan megismerhet…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>GENERAL PRESS</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">greg-iles-huszonnegy-ora</dc:identifier>
+        <dc:identifier opf:scheme="LIBRI_HU">greg_iles.huszonnegy-ora</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9639282715</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>akció</dc:subject>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>gyermekrablás</dc:subject>
+        <dc:subject>kaland</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>Irodalom</dc:subject>
+        <dc:subject>Szórakoztató irodalom</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>bûnügyi</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Greg Iles&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2014-09-20T13:47:01+00:00"/>
+        <meta name="calibre:title_sort" content="Huszonnégy óra"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

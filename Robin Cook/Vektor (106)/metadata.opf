@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">106</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">08ede869-1f1e-442f-a1ee-af465d9ee513</dc:identifier>
+        <dc:title>Vektor</dc:title>
+        <dc:creator opf:file-as="Cook, Robin" opf:role="aut">Robin Cook</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-02-15T09:45:06+00:00</dc:date>
+        <dc:description>Dr. ​Robin Cook a hajmeresztő orvosi thriller koronázatlan királya most visszatér, és ha lehet még félelmetesebb, mint valaha. A „vektor”, vagyis a könyv címe egy hordozó, amely egyik szervezetből a másikba juttatja el a fertőzést. Jack Stapleton és Laurie Montgomery kórboncnokok – az olvasó mindkettőjükkel találkozott már a Kromoszómában – nyugodtan végzik a dolgukat, mígnem egy meglepő halálesetre bukkannak. A szőnyegkereskedő Jason Papparis hulláját vizsgálva New Yorkban csak elvétve előforduló betegséggel, tüdőlépfenével találják szembe magukat. A törvényszéki orvosi intézetben felbukkan még egy különös, vagy inkább hátborzongató eset: egy Brad Cassidy nevű fiatalember hulláját megcsonkítva szállítják be, és az FBI tudja, hogy az áldozat az Árja Népi Hadsereg nevű skinheadekből rohamosztag alakító jobboldali szervezet tagja volt. Aztán újabb, kezdetben hétköznapinak tűnő haláleset történik: meghal Stepleton egyik barátjának nővére. Connic Davyov férje, Jurij, mielőtt az Egyesült Államokba érkezett, egy biológiai fegyvereket előállító oroszországi gyárban dolgozott. Jurij erősen antiszemita beállítottságú és a zsidókat okolja azért, hogy az őt mostohán kezelő új hazájában csupán taxisofőrként dolgozhat. Sikertelenségbe fulladt élete akkor kap csak értelmet, amikor megismerkedik két határozott gondolkodású férfival, Curt Rogersszel és Seve Hendersonnal, az Árja Népi Hadsereg vezetőivel. Céljaik azonosnak tűnnek, de vajon tényleg azok? És mit tehet két békés, az emberi élet védelmére fölesküdött patológus ennyi fanatikus, a legszörnyűbb tettektől sem visszariadó megszállottal szemben? Az izgalmas kérdésekre Robin Cook, a tőle megszokott lebilincselő, az olvasó figyelmét a könyv utolsó lapjáig fogva tartó stílusban válaszol.</dc:description>
+        <dc:publisher>I.P.C.</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">robin-cook-vektor</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">sXFPXwAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789636351496</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>orvosi krimi</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robin Cook&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Jack Stapleton &amp; Laurie Montgomery"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-15T20:41:06+00:00"/>
+        <meta name="calibre:title_sort" content="Vektor"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

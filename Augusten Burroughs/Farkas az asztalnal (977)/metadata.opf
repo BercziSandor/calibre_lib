@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">977</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">594e8ab6-d086-40d0-ba7e-6aecefbee184</dc:identifier>
+        <dc:title>Farkas az asztalnál</dc:title>
+        <dc:creator opf:file-as="Burroughs, Augusten" opf:role="aut">Augusten Burroughs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Gyermekkorában ​Augusten Burroughs számára az apja csak egy árny volt: egy alak a lépcső tetején, egy köhintés a földszintről, egy némán cigarettázó figura a sötétben. Ahogy Augusten idősebb lett, úgy bontakozott ki előtte apjának sötét és fenyegető személyisége. Valami gonosz, titokzatos, megnevezhetetlen borzalom. Egyik szörnyű csalódás követte a másikat, és Augusten gyermekkora hamarosan véget ért. Az apa, akiről mindig álmodozott, nem létezett. Az ő apja egy távoli, közönyös figura volt, akit nem érdekelt a fia. És akkor kezdetét vette a „játék”.&lt;br&gt;A regényben Augusten Borroughs egy eddig fel nem derített területre lép, a kimondhatatlan érzelmek birodalmába. Kendőzetlenül beszél szeretetről és gyűlöletről, ami apa és fia kapcsolatának minden egyes pillanatát átjárja. Sokkoló őszinteséggel és döbbenetes éleslátással megírt regénye ajánlott olvasmány mindenki számára, aki tudja, mit jelent egy szülő feltétel nélküli szeretete után sóvárogni. A szívszaggató és helyenként brutális történetben mégis van valami felemelő és irracionális életigenlés.&lt;br&gt;A Farkas az asztalnál egy emlékirat, egy könyörtelen nyíltsággal megírt visszaemlékezés a kegyetlenségről és a remény megváltó erejéről.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Kelly</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">augusten-burroughs-farkas-az-asztalnal</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789639667631</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>családon belüli erőszak</dc:subject>
+        <dc:subject>gyermekbántalmazás</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Augusten Burroughs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2016-05-25T07:26:05+00:00"/>
+        <meta name="calibre:title_sort" content="Farkas az asztalnál"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

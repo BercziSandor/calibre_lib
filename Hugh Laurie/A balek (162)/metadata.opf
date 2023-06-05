@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a82416d8-4618-44b2-9b9d-89acbe2523f8</dc:identifier>
+        <dc:title>A balek</dc:title>
+        <dc:creator opf:file-as="Laurie, Hugh" opf:role="aut">Hugh Laurie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-20T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A kiszuperált gárdistakapitányról, Thomas Langról sok mindent el lehet mondani - például lusta, trehány és megbízhatatlan -, azt azonban nem, hogy hidegvérű gyilkos lenne. Miután felbérelik egy amerikai iparmágnás megölésére, úgy dönt, hogy figyelmezteti a kiszemelt célpontot, és mint tudjuk, jó tett helyébe rosszat várj. Igazi balekként nemsokára Buddha-szobrokkal töri be mások fejét, gonosz milliárdosok eszén próbál túljárni, és egy elszabadult CIA-ügynökökkel és reménybeli terroristákkal teli nemzetközi összeesküvés közepén találja magát, miközben egyetlen célja, hogy megmentse a hosszú lábú lányt, akibe beleesett... no és az se lenne rossz, ha bónuszként megakadályozna egy nemzetközi vérfürdőt. Fordulatokkal és fergeteges humorral teli regényében Hugh Laurie, minden idők egyik legjobb komikusa bizonyítja, hogy nemcsak színészként, hanem íróként is ellenállhatatlanul vicces.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cartaphilus</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">Q2HTDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789632666990</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">hugh-laurie-a-balek</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Humorous</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hugh Laurie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2012-11-17T15:08:50+00:00"/>
+        <meta name="calibre:title_sort" content="balek, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1297</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9465ac9c-92f1-4920-802d-da7715456366</dc:identifier>
+        <dc:title>A mi Urunk népe</dc:title>
+        <dc:creator opf:file-as="Ismeretlen" opf:role="aut">Ljudmila Ulickaja</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-11T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Az ​Európa-szerte népszerű orosz írónő nem tesz mást A mi Urunk népében, csak mesél és mesél a végtelenségig, megunhatatlanul. Mindenről és mindenkiről van egy jó története: legyen szó önbizalom híján álló vagy bármit eltűrő nőkről, az apaság rejtelmeiről, őrangyalokról. Különösen érzékeny a csodákra, a kivételes eseményekre, ám ezeket is – például egy némának hitt gyerek szavait, az állatoknak tartott szentmisét vagy a beteljesülni látszó jóslatokat – úgy tárja elénk, mintha a világ legtermészetesebb dolgairól beszélne. Hiszen amennyire a különleges jelenségekben, legalább annyira otthon van a hétköznapokban. Novellaformában is könnyedén, finoman mutat be szépet és rútat, egy-egy összetettebb szereplőt vagy bonyolultabb szituációt. Nem meglepő ez, hiszen írói érzékenységét a nagy orosz realistáktól örökölte. Rendkívül sokat tud a legfontosabb dolgokról: szerelemről, boldogságról, hitről és halálról. Mindezek mögött pedig nagy-nagy bölcsesség áll: kerülni minden szélsőséget, elfogadni egymást, felülvizsgálni az előítéleteinket az emberben mélyen megbúvó belső hang és az igazságérzet nevében. &lt;br&gt;LJUDMILA ULICKAJA az egyik legnépszerűbb kortárs orosz író, számos jelentős orosz és nemzetközi díj (többek között az orosz Booker-, az orosz Nagy Könyv-, a Grinzane Cavour-díj) kitüntetettje. Könyveiből – tizennégy kötete jelent meg eddig – Oroszországban több mint kétmillió példány kelt el. Három mesekönyv és hat színmű szerzője. Moszkvában él.&lt;br&gt;LJUDMILA ULICKAJA művei a Magvető Kiadónál:&lt;br&gt;Médea és gyermekei (2003)&lt;/p&gt;
+&lt;p&gt;Életművésznők (2004)&lt;/p&gt;
+&lt;p&gt;Vidám temetés (2005)&lt;/p&gt;
+&lt;p&gt;Szonyecska (2006)&lt;/p&gt;
+&lt;p&gt;Odaadó hívetek, Surik (2007)&lt;/p&gt;
+&lt;p&gt;Kukockij esetei (2008)&lt;/p&gt;
+&lt;p&gt;Daniel Stein, tolmács (2009)&lt;/p&gt;
+&lt;p&gt;Történetek állatokról és emberekről (2009)&lt;/p&gt;
+&lt;p&gt;Elsők és utolsók (2010)&lt;/p&gt;
+&lt;p&gt;Imágó (2011)&lt;/p&gt;
+&lt;p&gt;Történetek gyerekekről és felnőttekről (2012)&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Magvető</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">3556e5fd-7f44-470e-bfdd-504d2d06460c</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789631430394</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <dc:subject>orosz szerző</dc:subject>
+        <dc:subject>társadalomrajz</dc:subject>
+        <dc:subject>novellák</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ljudmila Ulickaja&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-02-17T19:24:21+00:00"/>
+        <meta name="calibre:title_sort" content="mi Urunk népe, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

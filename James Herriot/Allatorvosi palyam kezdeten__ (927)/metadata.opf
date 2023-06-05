@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">927</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88bc3452-f48b-4ab4-b52e-96e238b7383f</dc:identifier>
+        <dc:title>Állatorvosi pályám kezdetén…</dc:title>
+        <dc:creator opf:file-as="Herriot, James" opf:role="aut">James Herriot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;J. Herriot önéletrajzának egy részét már jól ismeri a magyar olvasók nagy tábora. A Gondolat Kiadó most az autobiográfia első részét, a pályakezdő fiatal állatorvos legelső éveit felidéző novellákat adja közre. A szerző nemcsak a gyógyításnak, a tollnak is jeles mestere. Az egyes fejezetek rendszerint egy-egy farmernél tett látogatást, kalandos, nem egyszer izgalmas műtéteket, kezeléseket örökítenek meg. Bepillantást nyerhetünk a yorkshire-i farmerek életmódjába, megismerkedhetünk sajátos erényeikkel, hibáikkal, de feltárul előttünk három fiatal állatorvos magánélete is. Herriot önmagát sem kíméli, amikor őszintén beszámol tévedéseiről, nevetséges helyzeteiről. Herriot kitűnő ember- és állatismerete, humánuma és humora átsüt könyvének minden fejezetén. A karakterek a történet során bomlanak ki, s Herriot szeretetteljes humorral világítja meg egyik-másik jellemző vonásukat. Szinte minden történetének megvan a helyzet- vagy jellemkomikumból adódó humoros csattanója.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ciceró</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789634320760</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">james-herriot-allatorvosi-palyam-kezdeten</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>1930-as évek</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>állat</dc:subject>
+        <dc:subject>állatgyógyászat</dc:subject>
+        <dc:subject>állattörténet</dc:subject>
+        <dc:subject>állatvilág</dc:subject>
+        <dc:subject>angol</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>hangoskönyv</dc:subject>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>kisváros</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>önéletrajz</dc:subject>
+        <dc:subject>orvos</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Herriot&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2016-05-25T06:51:44+00:00"/>
+        <meta name="calibre:title_sort" content="Állatorvosi pályám kezdetén…"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

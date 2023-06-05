@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">926</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a752704-99f0-4526-8f2f-0b77ab476d0e</dc:identifier>
+        <dc:title>Egy állatorvos történetei</dc:title>
+        <dc:creator opf:file-as="Herriot, James" opf:role="aut">James Herriot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1983-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Egy fiatal, kezdő állatorvos első botladozó próbálkozásait, szellemes, kedves és fordulatos történeteit tartalmazza a könyv. Negyvennyolc történet, negyvennyolcféle élethelyzetet a 30-as évek végén, a 40-es évek elején Darrowby-ban, egy yorkshire-i kisvárosban. Nemcsak az állatpaciensekről, hanem az állattartókról, a farmerekről, illetve a „gazdik”-ról is szórakoztató, humoros portrékat fest Herriot. De minden írását áthatja a szakmáját szerető orvos felelőssége, állatszeretete, és az emberek iránti humánuma. Remek pillanatfelvételeket kapunk az angol vidéki szokásokról, a kemény, dolgos és szófukar yorkshire-i emberekről.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Gondolat</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">james-herriot-egy-allatorvos-tortenetei</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9632813898</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>állat</dc:subject>
+        <dc:subject>állatgyógyászat</dc:subject>
+        <dc:subject>állattörténet</dc:subject>
+        <dc:subject>Anglia</dc:subject>
+        <dc:subject>angol</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>hangoskönyv</dc:subject>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>illusztrált</dc:subject>
+        <dc:subject>kisváros</dc:subject>
+        <dc:subject>kutya</dc:subject>
+        <dc:subject>ló</dc:subject>
+        <dc:subject>macska</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Herriot&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2016-05-25T06:51:34+00:00"/>
+        <meta name="calibre:title_sort" content="állatorvos történetei, Egy"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">446</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea785740-656b-4b47-aa2c-4609f3cf5de7</dc:identifier>
+        <dc:title>Őfelsége pincére voltam</dc:title>
+        <dc:creator opf:file-as="Hrabal, Bohumil" opf:role="aut">Bohumil Hrabal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;„És ​a valósággá vált hihetetlen nem hagyott el engem, én hittem a hihetetlenben, a meglepő meglepetésben, a döbbenetben, ez volt a vezérlő csillagom…" – elmélkedik a regény hőse, aki kis pikolófiúból milliomos szállodatulajdonossá lett, majd a háború és a kommunista hatalomátvétel után vagyonát vesztve, magányos útkaparóként ismeri fel az élet halálosan keserű örömét. „Jól figyeljenek arra, amit mondok" – figyelmeztet bennünket újra és újra Hrabal; és mi figyelünk hökkenten, ámuldozva – ilyen történeteket nem tud más, csak ő, az örök csibész, a legszürreálistább realista, akinek szemében megszépül minden: mint a széttárt lábú szállodai örömlány virágokkal felcicomázott szőrdombocskája, olyan szépségesen tárulkozik ki előtte minden egyes megismételhetetlen sorsú ember. S ebben a hihetetlenül tobzódó szépségben és derűben mégis benne van a kor minden rettenete is: a nácizmusé, amely a tiszta, új német embertípus helyett borzalmas idiótát szül, és a kommunizmusé, amely a könyv lapjain fergeteges bohózatként jelenik meg.&lt;br&gt;Hrabal 1971-ben, tizennyolc nap alatt írta ezt a regényét, amelynek minden mondatából árad az a fajta szellemi, politikai és korántsem mellékesen erotikai szabadság, amely az akkori hatalom számára természetesen tűrhetetlen volt a modern közép-európai irodalom egyik legnagyszerűbb alkotása így csak 1989-ben jelenhetett meg legálisan az író hazájában.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">B7IgzQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">48bc6e9a-a7f8-4493-beb1-4d53aad11871</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630786140</dc:identifier>
+        <dc:identifier opf:scheme="ANTIK_HU">90082</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">bohumil-hrabal-ofelsege-pincere-voltam</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>cseh szerző</dc:subject>
+        <dc:subject>felnőtt tartalom</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>groteszk</dc:subject>
+        <dc:subject>hangoskönyv</dc:subject>
+        <dc:subject>irónia</dc:subject>
+        <dc:subject>klasszikus</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>szatíra</dc:subject>
+        <dc:subject>szexualitás</dc:subject>
+        <dc:subject>Lélektani regények</dc:subject>
+        <dc:subject>Európa</dc:subject>
+        <dc:subject>Cseh Köztársaság</dc:subject>
+        <dc:subject>Az író származása szerint</dc:subject>
+        <dc:subject>Szépirodalom</dc:subject>
+        <dc:subject>elbeszélés</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>Karriertörténetek</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <dc:subject>Tartalom szerint</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bohumil Hrabal&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Európa Zsebkönyvek"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2013-04-22T20:31:34+00:00"/>
+        <meta name="calibre:title_sort" content="Őfelsége pincére voltam"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

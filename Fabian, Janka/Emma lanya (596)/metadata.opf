@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">596</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8723c818-eb09-45ec-9bbe-d3b05adf8a6f</dc:identifier>
+        <dc:title>Emma lánya</dc:title>
+        <dc:creator opf:file-as="Fábián, Janka" opf:role="aut">Fábián, Janka</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A ​trilógia harmadik, befejező része a hírhedt ötvenes években kezdődik. A kommunista diktatúra évei, majd az ötvenhatos forradalom után a Kóthay család tagjai ismét elszakadnak egymástól. Emma a lányával, Évával és az unokájával Amerikába emigrál, Tamásék azonban az otthonmaradás mellett döntenek.&lt;br&gt;A század második felének eseményeit a szélrózsa minden irányába szétszóródó Kóthay gyerekek és unokák mind különbözőképpen élik meg. A forradalmat követő megtorlás, 1968 Párizsa, a szögesdróton inneni világ szürke, nyomasztó hétköznapjai, a Kádár-korszak békés álarca mögött a szabadság fájó hiánya, a nyolcvanas évek színes, ám sekélyes időszaka, majd pedig a rendszerváltás éppen úgy főszereplői a könyvnek, mint az egyre népesebb, sokszínű család tagjai. A különböző szálakon futó cselekmény és a szereplők sorsa sokszor találkozik, néha egybefonódik, máskor újra külön utakon megy tovább, mindvégig a már megszokott izgalmakkal, váratlan és meghökkentő fordulatokkal.&lt;br&gt;Végül, a rendszerváltás esztendejében egy boldog-szomorú esemény során újra összegyűlik az egész család a régi, Balaton-parti házban, és az is kiderül, hogy habár végleg lezárult egy korszak, azért lesznek, akik továbbviszik Emma örökségét.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ulpius-ház</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789632545349</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">NVGhAQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">fabian-janka-emma-lanya</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fábián, Janka&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Emma"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2014-09-17T07:10:14+00:00"/>
+        <meta name="calibre:title_sort" content="Emma lánya"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

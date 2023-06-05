@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">772</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e47093b-a194-4c72-a682-4ae5bbdfb45a</dc:identifier>
+        <dc:title>Csak tanú ne maradjon!</dc:title>
+        <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-02-15T10:25:38+00:00</dc:date>
+        <dc:description>Hosszú ​hetekig vezette az amerikai bestsellerlistát ezzel a regényével Robert Ludlum, aki mindmáig a legnépszerűbb lektűrírók egyike. Ludlumnak nem ez az egyetlen regénye, mely a második világháborúban játszódik, de alighanem ez a legeredetibb, mint ahogy igazán „ eredeti” az ötlet is, amely részint az amerikai titkosszolgálat, részint a Gestapo berkeiben vetődött fel, s amely kétségtelenül az egész háború legcinikusabb akciójává vált. 1944-ben ugyanis mind a náci hadvezetőségnek, mind az amerikai főparancsnokságnak súlyos gondjai támadtak. Egyrészt Peenemündében, a Keleti-tenger mellékén, ahol a német „csodafegyver”, ,a V-2 közvetlenül a befejezés előtt állt, elfogyott a speciális ipari gyémántkészlet; másrészt a normandiai partraszállást előkészítő szövetséges légi főparancsnokság (az érdekelt amerikai konszernek üzleti ellenállása miatt) nem tudta megoldani egy döntő fontosságú repülőgépműszer előállítását, és ez az egész inváziós hadműveletet veszélybe sodorta. Ekkor született meg a „nagy tipp”. Mivel mind a két fél rendelkezik azzal, amire a másik rászorul – cseréljenek! Az akció üzleti bonyolítását Rhinemann, a bankár vállalta, a technikai lebonyolítást pedig az amerikai titkosszolgálat egyik tapasztaltabb tisztjére, David Spauldingra bízták. Csakhogy sem Rhinemann, sem Spaulding nem tudott arról, hogy a nácik és az amerikaiak a csereüzleten kívül abban is megállapodtak, hogy a csereüzletet végrehajtó személyeket egytől egyig elteszik láb alól. CSAK TANÚ NE MARADJON! A mit sem sejtő Spaulding egy véletlen esemény nyomán döbben rá arra, hogy valójában mi is vár reá…</dc:description>
+        <dc:publisher>Zríny Kiadó</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9633269245</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">JKUhtQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">robert-ludlum-csak-tanu-ne-maradjon</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>kalandregény</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Ludlum&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2014-09-20T12:59:21+00:00"/>
+        <meta name="calibre:title_sort" content="Csak tanú ne maradjon!"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

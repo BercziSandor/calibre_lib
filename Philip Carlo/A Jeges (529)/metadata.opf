@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">529</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f8e74e8-5f50-4f9b-b861-590de512e83c</dc:identifier>
+        <dc:title>A Jeges</dc:title>
+        <dc:creator opf:file-as="Carlo, Philip" opf:role="aut">Philip Carlo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A ​maffia mészárosa. Elkötelezett családfő és apa. Harminc éven át kettős életet élt… Az Egyesült Államok történetének leghírhedtebb bérgyilkosa lett belőle. Ez a Jeges igaz története. – Sammy a Bika Gravano társául szegődött Paul Castellano meggyilkolásában. John Gotti őt fogadta fel, hogy kínozza és ölje meg a szomszédját. Richard a Jeges Kuklinski, hét keleti parti maffiacsalád kedvence hidegvérrel tette a dolgát. Saját becslése szerint kétszáznál is több embert ölt meg, és rendkívül büszke rá, hogy a lehető legváltozatosabb módszereket alkalmazta. „Carlo voltaképpen egy családszerető férfi történetét meséli el, aki harminc éven át hivatásos gyilkosként működött, miközben húst sütögetett a szomszédainak egy New Jersey-i kertvárosban.” – (New York Post) Kuklinski számtalan gyilkosságának hátterében azonban ott állt egy hagyományos értékeket képviselő, szerető katolikus család. A háromgyerekes családapa mindig szeretettel bánt a kicsikkel. Nyáron zsúrokat rendezett nekik, karácsony környékén pedig különösen nagylelkű volt velük. A családja semmit sem gyanított, amíg a bűneit a fejére nem olvasták… „Elképesztő könyv. Brutális és letehetetlen.” -(Larry King)&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Könyvmolyképző</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">72cfb8d3-a89a-4288-80f3-49c65fa7f8b9</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">philip-carlo-a-jeges</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789632456973</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>életrajz</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>történelem</dc:subject>
+        <dc:subject>maffia</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Philip Carlo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2013-06-11T20:32:25+00:00"/>
+        <meta name="calibre:title_sort" content="Jeges, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

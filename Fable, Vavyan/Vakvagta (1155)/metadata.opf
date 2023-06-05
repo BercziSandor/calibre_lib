@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1155</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44a88c44-dec6-437f-9958-becac6094a0d</dc:identifier>
+        <dc:title>Vakvágta</dc:title>
+        <dc:creator opf:file-as="Fable, Vavyan" opf:role="aut">Fable, Vavyan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-02-18T00:00:00+00:00</dc:date>
+        <dc:description>A ​férfi, Kentaro sokoldalú kaszkadőr, miáltal hol lángra kap, hol a magasból zuhan alá; ha a forgatókönyv úgy kívánja, lóval ugrik dupla Lutzot, vagy száguldó kocsival triplaszaltózik – de még számos módon képes ijedelemmel, gyászelőérzettel facsargatni kedvese szívét. Az érte aggódó nő, Chrysler Le Baron zsaru, hajdani akciós, mégpedig azon titokzatos állományból, amelynek tagjai bevetéskor elfedik arcukat, és még jámbor hozzátartozóik se tudhatják róluk, miféle munkát végeznek. Emira tizennégy éves, midőn e szerelmi duett kellős közepébe pottyan. Ott a helye, végre is Le Baron leánya, jóllehet, tömérdek éve bírói végzés tiltja őket egymástól. Az exférj, az apa törekvő jogász, főként pénzmosással és szerelemszédelgéssel foglalkozik, mígnem egy napon sokkoló fordulatot vesz eladdig bársonyba burkolt élete. Megvilágosodván arról, hogy viperafészekbe tévedt, sebtében elhelyezi gyermekét a vérmes múltú anyánál, és felszívódik a ködben. Azt hiszi, hogy ekként mindent elsikált. Holott a balladisztikus események csak ezután kezdődnek.</dc:description>
+        <dc:publisher>Fabyen</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">vavyan-fable-vakvagta</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9638571276</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>akció</dc:subject>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>kalandregény</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fable, Vavyan&quot;: &quot;https://hu.wikipedia.org/wiki/Vavyan_Fable&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-03-27T09:36:51+00:00"/>
+        <meta name="calibre:title_sort" content="Vakvágta"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;RTF&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1686</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ffc11832-8402-4f6a-8e69-39d6e6997725</dc:identifier>
+        <dc:title>Üvegtrón</dc:title>
+        <dc:creator opf:file-as="Maas, Sarah J." opf:role="aut">Sarah J. Maas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-09T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Az ismert világ leghíresebb orgyilkosa. Celaena Sardothien gyönyörű és halálos. A sors nagy dolgokat tartogat a lenyűgöző, ifjú nő számára.&lt;br&gt;Távolvég sötét, nyomorúsággal teli sóbányáinak mélyén egy megviselt,tizennyolc éves lány robotol a rabszolgák között. Életfogytiglanig tartó kényszermunkára ítélték. Hiába képezték ki a földrész legjobb orgyilkosai. Hiába lett a halálos mesterség leghíresebb művésze. Elkövetett egy végzetes hibát. Elfogták.&lt;br&gt;A kegyetlen börtönbe egy napon különös látogató érkezik. Az ifjú és felettébb jóképű Westfall kapitány meglepő ajánlatot tesz a rettegett orgyilkosnak. Szabad lehet, ha előtte végrehajt egy hihetetlenül vakmerő és elképesztően nehéz feladatot. Az ország koronahercege bajnokot akar küldeni az apja halálos versenyére. Csatasorba állnak a birodalom legtehetségesebb tolvajai és legkönyörtelenebb harcosai. A küzdelem tétje az életben maradás. Ha győz, Celaena visszanyeri a szabadságát. Függetlenül attól, hogy képes lesz-e megnyerni a kegyetlen versengést, megrázó felfedezés vár az ifjú hölgyre. Már csupán az a nagy kérdés, hogy meglágyulhat-e egy orgyilkos kőszíve.&lt;/p&gt;</dc:description>
+        <dc:publisher>Könyvmolyképző</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789633731802</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">e76789ed-a29d-47de-b362-0f583530a0a5</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>ifjúsági</dc:subject>
+        <dc:subject>tündér</dc:subject>
+        <dc:subject>szellemek</dc:subject>
+        <dc:subject>bérgyilkos</dc:subject>
+        <dc:subject>kaland</dc:subject>
+        <dc:subject>démon</dc:subject>
+        <dc:subject>mágia</dc:subject>
+        <dc:subject>harcosok</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sarah J. Maas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Üvegtrón"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-02-20T08:07:57.237685+00:00"/>
+        <meta name="calibre:title_sort" content="Throne of Glass – Üvegtrón"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

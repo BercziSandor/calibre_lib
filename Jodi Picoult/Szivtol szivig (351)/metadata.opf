@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">351</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f390cdd1-a5a9-4b05-af5c-900759d97c1f</dc:identifier>
+        <dc:title>Szívtől szívig</dc:title>
+        <dc:creator opf:file-as="Picoult, Jodi" opf:role="aut">Jodi Picoult</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-22T00:00:00+00:00</dc:date>
+        <dc:description>E bravúros fordulatokkal tarkított, megindító regény egy gyilkosságért halálra ítélt férfi történetét dolgozza fel, aki azért küzd, hogy felajánlhassa szívét egykori áldozata szívbeteg kislányának. A kisvárosias New Hampshire államban e szándéka, és a személye körül kialakuló legendák alaposan felborzolják a kedélyeket. Egy talpraesett jogásznő és egy fiatal katolikus pap mégis a férfi ügye mellé áll – miközben az események hatására mindkettejük élete gyökeresen megváltozik.
+A népszerű írónő, a Nővérem húga és a Tizenkilenc perc szerzője, e kötetében is rendkívüli érzékenységgel foglalkozik olyan kényes témákkal, mint a szervadományozás, a halálbüntetés és a vallásos meggyőződés. A könyv több héten keresztül vezette a New York Times bestseller-listáját.</dc:description>
+        <dc:publisher>Athenaeum</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">BUlHQwAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">jodi-picoult-szivtol-szivig</dc:identifier>
+        <dc:identifier opf:scheme="ANTIK_HU">419469</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789632934563</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>erőszak</dc:subject>
+        <dc:subject>kisváros</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>jog</dc:subject>
+        <dc:subject>romantikus</dc:subject>
+        <dc:subject>börtön</dc:subject>
+        <dc:subject>drámai cselekmény</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>Dráma</dc:subject>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>gyilkosság</dc:subject>
+        <dc:subject>betegség</dc:subject>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>amerikai</dc:subject>
+        <dc:subject>váltott szemszög</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jodi Picoult&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2011-08-27T20:26:30+00:00"/>
+        <meta name="calibre:title_sort" content="Szívtől szívig"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

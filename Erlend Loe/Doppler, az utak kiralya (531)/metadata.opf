@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">531</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">943e7789-684b-437f-a6a9-2bc960924b5a</dc:identifier>
+        <dc:title>Doppler, az utak királya</dc:title>
+        <dc:creator opf:file-as="Loe, Erlend" opf:role="aut">Erlend Loe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-20T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Erlend ​Loe hatodik, Doppler, az utak királya című regényében a fő-antihős, Andreas Doppler és jóléti partizáncsapata ott folytatja, ahol a Doppler (Scolar Kiadó, 2006) utolsó lapjain abbahagyta, s a szerző ígéretéhez híven tovább vívja harcát. Ugyanis még mindig háború dúl. Háború. Amelyet azért mégsem kell véresen komolyan venni. Például ki lehet belőle szállni, ha kezd kínossá válni a helyzet. Az írói én egyes szám első személyről egyes szám harmadik személyre vált, és fokozatosan kívülállóvá válva hagyja, hogy antifőhőse önmaga karikatúrájáva váljék. Vad neoanarchistából egy békés, konformista gondolatkísérlet alanyává szelídülve lehetővé teszi az olvasó számára a vele való teljes azonosulást. Doppler jellemének fogyaszthatóvá tétele így megengedi, hogy anélkül kövessük az ő példáját, hogy közben fel kelljen állnunk a fotelből, s elég, ha magunknak bevalljuk: ennél többet mi sem várunk el sem tőle, sem pedig önmagunktól. Hiszen tőrölmetszett anarchistának születni kell, ám az árát is komolyan megkérik – ezt a folytatás igazi hőse, Maj Britt példája mutatja a legjobban. Hozzá képest Doppler művagány, annak viszont őszinte és szerethető – pont olyan, amilyen az olvasó lenne az ő helyében.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Scolar</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789632448626</dc:identifier>
+        <dc:identifier opf:scheme="ANTIK_HU">296274</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">erlend-loe-doppler-az-utak-kiralya</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>cserkész</dc:subject>
+        <dc:subject>drog</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>norvég szerző</dc:subject>
+        <dc:subject>skandináv</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>társadalomkritika</dc:subject>
+        <dc:subject>Európa</dc:subject>
+        <dc:subject>Az író származása szerint</dc:subject>
+        <dc:subject>Szépirodalom</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>Norvégia</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <dc:subject>elbeszélés</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Erlend Loe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Doppler"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2013-06-11T20:32:27+00:00"/>
+        <meta name="calibre:title_sort" content="Doppler, az utak királya"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

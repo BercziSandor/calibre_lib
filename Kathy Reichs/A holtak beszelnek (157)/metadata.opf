@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">157</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d01ce0b-3d50-4288-b9d8-fedbd7fb4034</dc:identifier>
+        <dc:title>A holtak beszélnek</dc:title>
+        <dc:creator opf:file-as="Reichs, Kathy" opf:role="aut">Kathy Reichs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Reichs ​hősnője, dr. Temperance Brennan törvényszéki antropológus. Hullaházban, exhumáláson, bűnügyi laborban, zsaruk közt tölti mindennapjait. Brennan túl van már egy váláson, lánya több gondot okoz, mint örömet.&lt;br&gt;Amikor egy építkezésen előkerült emberi maradványok vizsgálatához hívják, abban bízik, hogy csak egy régészeti leletet talál. De a helyszínen műanyag zsákokba csomagolt, oszladozó tetem darabjai várják. Így már tudja oda a hétvégéje. Azt megint csak – mint annyiszor már – a boncteremben fogja tölteni.&lt;br&gt;Azonban Tempének más is eszébe jut a nejlonzsákokba külön-külön becsomagolt testrészekről. Kísértetiesen emlékeztetik a tizenhat évesen meggyilkolt Chantale Trottier esetére, akit régebben szintén precízen földarabolva és szemeteszsákokba csomagolva találtak a föld alatt elásva.&lt;br&gt;A két gyilkosság összefügg, gondolja, de kollegái nem hiszik.&lt;br&gt;És ekkor előveszi teljes szakmai eszköztárát: a különleges röntgenfelvételeket, a csont-, fog- és harapásnyomok vizsgálatát, hogy meggyőzze a kételkedőket, mielőtt újból lecsap a gyilkos.&lt;br&gt;Hiszen bárki lehet a következő áldozat…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Szó</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">kathy-reichs-a-holtak-beszelnek</dc:identifier>
+        <dc:identifier opf:scheme="ANTIK">338153</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789639870000</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">3HZaQwAACAAJ</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>antropológia</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>gyilkosság</dc:subject>
+        <dc:subject>igazságügyi orvosszakértő</dc:subject>
+        <dc:subject>Kanada</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>nyomozás</dc:subject>
+        <dc:subject>orvosi krimi</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>sorozatgyilkosság</dc:subject>
+        <dc:subject>kaland</dc:subject>
+        <dc:subject>Women Detectives</dc:subject>
+        <dc:subject>Detective and Mystery Stories</dc:subject>
+        <dc:subject>Brennan; Temperance (Fictitious Character)</dc:subject>
+        <dc:subject>Dr. Csont</dc:subject>
+        <dc:subject>Montréal (Québec)</dc:subject>
+        <dc:subject>Szórakoztató irodalom</dc:subject>
+        <dc:subject>Szépirodalom</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>halottkém</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>Medical Examiners (Law)</dc:subject>
+        <dc:subject>akció</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kathy Reichs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Temperance Brennan"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2011-10-18T20:48:10+00:00"/>
+        <meta name="calibre:title_sort" content="holtak beszélnek, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

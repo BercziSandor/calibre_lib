@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1435</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc225f82-e320-4d31-aaa0-616d0fc9dc06</dc:identifier>
+        <dc:title>Északi mitológia</dc:title>
+        <dc:creator opf:file-as="Gaiman, Neil" opf:role="aut">Neil Gaiman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Egy ​új klasszikus: a jól ismert skandináv mítoszok a történetmesélés nagymestere, Neil Gaiman elképesztő átiratában.&lt;br&gt;Az ősi történetekből Gaiman regényszerű ívet kovácsol, kezdve a kilenc világ legendás megteremtésével, majd sorra veszi a félistenek, törpék és óriások tetteit. Például Thor pörölyének ellopását, aki ezután kénytelen nőnek öltözni – ez az ő szakállával és étvágyával nem kis feladat –, és úgy visszalopni. De elmeséli a legmeghatóbb történetet is, amikor Kvasir, a legbölcsebb isten véréből megfőzik azt a sört, amely aztán létrehozza a költészetet. A számtalan kaland Ragnarökkel, az istenek alkonyával, új idők és emberek születésével zárul.&lt;br&gt;Gaiman keze alatt a régi poros mítoszok újra élettel telnek meg. A regény mesteri és szellemes prózája kiemeli az istenek versengő énjét, megmutatja hajlamukat arra, hogy átverjenek másokat, és őket is átverjék, valamint megismerteti az olvasót azzal a tulajdonságukkal, hogy a szenvedélyt mindig hagyják felülkerekedni a józan eszükön.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Agave Könyvek</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">neil-gaiman-eszaki-mitologia</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789634192329</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">uC0zswEACAAJ</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>angol szerző</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>északi népek</dc:subject>
+        <dc:subject>harcosok</dc:subject>
+        <dc:subject>ifjúsági</dc:subject>
+        <dc:subject>istenek</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>mítosz</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <dc:subject>összetett regény</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>skandináv</dc:subject>
+        <dc:subject>Skandinávia</dc:subject>
+        <dc:subject>tél</dc:subject>
+        <dc:subject>viking</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>mitológia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Neil Gaiman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-09-30T18:14:39+00:00"/>
+        <meta name="calibre:title_sort" content="Északi mitológia"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

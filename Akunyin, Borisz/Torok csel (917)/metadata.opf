@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">917</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">12cf3e75-1326-4188-ac05-698782e24d0c</dc:identifier>
+        <dc:title>Török csel</dc:title>
+        <dc:creator opf:file-as="Akunyin, Borisz" opf:role="aut">Akunyin, Borisz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-03-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;1877-ben, az orosz-török háborúban játszódik Borisz Akunyin világsikerű krimisorozatának második része, amelyben Eraszt Fandorin, a zseniális nyomozó ismét hallatlanul nehéz feladatot kap. Ki kell derítenie, ki lehet az a török kém, aki miatt az orosz hadsereg a katonai túlerő, a ragyogó, bátor tisztikar és a remek haditervek ellenére egyre-másra kudarcot vall… Fandorin, aki még nem heverte ki menyasszonya elvesztésének fájdalmát (azt a sokkot, amely az Azazel utolsó lapjain érte őt és az olvasót), ismét találkozik egy rendkívüli nővel – aki az apja szerint „féleszű nihilista” –, s Varja aztán akarva-akaratlan segítője lesz a nyomozásban. Miközben az oroszok hol vad banditákkal küzdenek, hol véres csatákat vívnak a török hadsereggel, Varja szívéért is sokan versengenek: tisztek, haditudósítók… egyedül Fandorin tűnik közömbösnek iránta. Ki lesz a titokzatos török kém? Kibontakozik-e a szerelem Varja és Fandorin között? Vagy talán a hihetetlen kalandokat átélő Varjának is szomorú véget szán a sors (és a szerző)?&lt;/p&gt;
+&lt;p class="description"&gt;  Akunyin ezúttal is csupa izgalomból szőtte a regényét, s aztán lassacskán kiderül, hogy komolyabb kérdésekről is szó esik, mint egy kém leleplezése, egy bolondos lány szerelme – arról, hogy a XIX. század második felében milyen sors vár Oroszországra és a világra.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">borisz-akunyin-torok-csel</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9630773392</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>nyomozás</dc:subject>
+        <dc:subject>orosz</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>történelem</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Akunyin, Borisz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Fandorin"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2016-05-25T06:38:34+00:00"/>
+        <meta name="calibre:title_sort" content="Török csel"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

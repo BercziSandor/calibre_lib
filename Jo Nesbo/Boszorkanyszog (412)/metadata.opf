@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">412</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58e08c13-468a-49b7-a035-76b9e262ee0f</dc:identifier>
+        <dc:title>Boszorkányszög</dc:title>
+        <dc:creator opf:file-as="Nesbø, Jo" opf:role="aut">Jo Nesbø</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-22T00:00:00+00:00</dc:date>
+        <dc:description>Oslo hőségtől szenved, s a városi rendőrségnél, aki csak teheti, szabadságon van. Amikor egy fiatal nőt meggyilkolnak a lakásán, Tom Waaler, a mintarendőr, az osztályvezetői poszt várományosa mellé a testület fenegyerekét, a különc Harry Holét rendelik ki. A régi ellenségek számára egy egyszerű ügyben sem volna zökkenőmentes az együttműködés, ám mint kiderül, ez az eset bonyolultabb, mint gondolták. A holttest egyik ujját levágták, s szemhéja alatt egy vörös gyémántot találnak. Az újabb gyilkosságok nem hagynak kétséget afelől, hogy sorozatgyilkost keresnek. De hogy mi lehet az indíték, arra hiába keresik a választ.
+Nesbø irodalmi ambícióval közelít a bűnügyi regény műfajához. Mély emberismerete s napjaink globalizált világáról szerzett rendkívül gazdag élményanyaga átsüt minden történetén. Elnyerte a legjobb norvég, majd a legjobb skandináv krimiért járó díjat.</dc:description>
+        <dc:publisher>Animus</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789633243572</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">jo-nesbo-boszorkanyszog</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">17412213</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>norvég szerző</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>detektívtörténet</dc:subject>
+        <dc:subject>skandináv</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>Norvég</dc:subject>
+        <dc:subject>misztikus</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>sorozatgyilkosság</dc:subject>
+        <dc:subject>Detektívregény</dc:subject>
+        <dc:subject>21. század</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jo Nesbø&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Harry Hole"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2013-02-07T19:47:39+00:00"/>
+        <meta name="calibre:title_sort" content="Boszorkányszög"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

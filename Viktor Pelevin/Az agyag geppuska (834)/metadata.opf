@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">834</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f7215a9-a625-4a28-8e4c-874762daa3ac</dc:identifier>
+        <dc:title>Az agyag géppuska</dc:title>
+        <dc:creator opf:file-as="Pelevin, Viktor" opf:role="aut">Viktor Pelevin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-22T00:00:00+00:00</dc:date>
+        <dc:description>Az ​elmúlt évek orosz irodalmának legnagyobb világsikere Az agyag géppuska, s az orosz Playboy szerint ez a XX. század második felének legjobb orosz regénye. Főhőse, Pjotr Puszta egy elmegyógyintézet lakója valamikor a kilencvenes években, s „hamis személyisége” szerint valójában a tizenhetes forradalom után, a polgárháborús Oroszországban él, éspedig ő Csapajev híres komisszárja, Petyka. A két valóságszint a regényben egyenlő mértékben valós (vagy virtuális): hol az elmegyógyintézeti ápoltak között vagyunk, hol a polgárháborús frontokon, ahol Csapajev és Petyka mély filozófiai beszélgetéseket folytat (a regénybeli Csapajev ugyanis nem annyira egy vörös hadvezér, mint inkább keleti guru). A mintegy számítógépes virtuális valóságokat létrehozó mű azonban a részleteiben vaskosan s gyakran parodisztikusan realista: Pelevin remekül ábrázolja mind a polgárháború Oroszországát, mind az elmegyógyintézet világát, ahol Pjotr a többi beteg hallucinációit is végighallgatja, s ezek betétnovellaként szerepelnek a műben – az egyik ilyen például egy mexikói szappanoperahős, Maria és Arnold Schwarzenegger szürreális kalandjait meséli el.</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789630795654</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">T54dSwAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="LIBRI_HU">viktor_pelevin.az-agyag-geppuska</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">viktor-pelevin-az-agyag-geppuska</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Szépirodalom</dc:subject>
+        <dc:subject>1910-es évek</dc:subject>
+        <dc:subject>Irodalom</dc:subject>
+        <dc:subject>Japán (ország)</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <dc:subject>orosz szerző</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>szatíra</dc:subject>
+        <dc:subject>1001 könyv listán szerepel</dc:subject>
+        <dc:subject>elmegyógyintézet</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>Oroszország</dc:subject>
+        <dc:subject>buddhizmus</dc:subject>
+        <dc:subject>álom</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Viktor Pelevin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2014-12-16T21:47:49+00:00"/>
+        <meta name="calibre:title_sort" content="agyag géppuska, Az"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, RTF&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

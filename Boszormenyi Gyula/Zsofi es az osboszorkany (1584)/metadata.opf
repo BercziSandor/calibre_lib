@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1584</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c21a66b-257e-4a21-9747-50410b9d204b</dc:identifier>
+        <dc:title>Zsófi és az ősboszorkány</dc:title>
+        <dc:creator opf:file-as="Böszörményi, Gyula" opf:role="aut">Böszörményi, Gyula</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-01T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Botlik ​Zsófi átlagos budapesti lány. Látszólag. Aki azonban ismeri a sámánok, táltosok, vagyis a dob szavával révülő bűbájosok világát, az jól tudja, hogy Botlik Zsófi valójában Farkas Húga, másnéven Büvellő, a Rontásűzők és Szörnyszivatók Árnyjurtájának tanulója. E vaskos kötetben az olvasó mindjárt három történetet talál. Látszólag. Aki azonban elolvassa, az hamar rájön, hogy a fiatal, tapasztalatlan, de nagyon is talpraesett rontásűző lánynak valójában mindhárom kaland során ugyanazzal a rettenetes ellenféllel kell szembenéznie. Ő Lúdvérc, az ősboszorkány, aki még soha nem engedte ki élve a karmai közül azt, akire rontást kívánt szórni. E könyv lapjain pedig Büvellőre veti ki bűvhálóját, hol a csodákkal teli erdélyi Havasokban, hol a rémségekkel zsúfolt Boszorkánypláza sötét folyosóin, hol pedig az ártó és segítő szellemektől nyüzsgő Tetejetlen Fán! &lt;br&gt;A GERGŐ ÉS AZ ÁLOMFOGÓK c. nagysikerű regénysorozat főhősének húga, Zsófi, akit a Világfán Büvellőként (a lány, aki bűbájjal játszadozik) ismernek önálló kalandjai. Révülj vele Te is a varázslatos Erdélyben, a Boszorkányplázában és a Tetejetlen Fán!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Könyvmolyképző</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789632458267</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">boszormenyi-gyula-zsofi-es-az-osboszorkany</dc:identifier>
+        <dc:language>hun</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Böszörményi, Gyula&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Zsófi-regények"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-07-02T17:50:41+00:00"/>
+        <meta name="calibre:title_sort" content="Zsófi és az ősboszorkány"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

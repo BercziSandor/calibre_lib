@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">655</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d21553d-1dce-435d-becd-e0c2307f595f</dc:identifier>
+        <dc:title>Vadim</dc:title>
+        <dc:creator opf:file-as="James, Donald" opf:role="aut">Donald James</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;A polgárháború már a múlté, de Oroszország továbbra sem lélegezhet fel. 
+Tébécé járvány ütötte fel a fejét, tízezrek pusztulnak el. Milliók 
+menekülnek el az országból. Vadim is Amerikába tart, de neki feladata 
+van. Egy új csatárt kell vásárolnia a Dinamó Murmanszk csapatának. De 
+New Yorkban az elnökválasztás elõtt néhány héttel oroszellenes 
+zavargások törnek ki. Vadim hirtelen az egyik elnökjelölt mellett 
+találja magát, és szokatlan feladatot kap: meg kell védenie Ben Rushton 
+feleségét. Az asszonyt azonban bizarr módon meggyilkolják, és Rushton 
+megbízására Vadim nyomozni kezd a brutális gyilkos után. Vadim egyre 
+jobban belegabalyodik az összeesküvés hálójába, aminek köszönhetõen a 
+gyilkos áldozatainak száma csak nõ. Van valaki, akinek semmi sem drága, 
+hogy Rushton legyen az elnök. Vadim a nyomába ered, de még csak nem is 
+sejt, mi vár rá az út végén.&lt;/p&gt;</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">be24e1c1-aa61-4aa9-bb1c-81498e750ba6</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781784757588</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">donald-james-vadim</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">CpyKnQAACAAJ</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>Oroszország</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Donald James&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Vadim-trilógia"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2014-09-19T16:06:33+00:00"/>
+        <meta name="calibre:title_sort" content="Vadim"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

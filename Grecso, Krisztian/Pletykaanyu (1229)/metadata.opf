@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1229</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5dd449d9-0c3b-4f12-b9b0-296467401a53</dc:identifier>
+        <dc:title>Pletykaanyu</dc:title>
+        <dc:creator opf:file-as="Grecsó, Krisztián" opf:role="aut">Grecsó, Krisztián</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-19T00:00:00+00:00</dc:date>
+        <dc:description>Az Isten hozott szerzője ezzel a novelláskötettel robbant be a kortárs magyar prózába. Életszaga, szemtelen éleslátása áttört bizonyos gátakat, és próbára tette Grecsó Krisztián szűkebb környezetének tűréshatárát. A Pletykaanyu olyan mélységekből hoz friss híreket, ahonnan ritkán kapunk valódi tudósítást. A kötet persze jóval több annál, mint amit a pletykasajtóból, televízióból megismerhettek, és elevensége, újszerűsége nem azon múlik, hogy magukra ismertek-e az olvasók az elbeszélések hús-vérfiguráiban vagy sem. A novellákat sokkal inkább valami autentikus tudás mozgatja; Grecsó nem kutat, nem kérdez, csak figyel. Mint aki bennszülöttből lett „etnográfussá”. Ízes humora, nyers ereje valóban minden pátosztól mentes, de hogy ez árulóvá teszi-e a szerzőt, döntse el Ön. Miközben szórakozik, ítélkezhet!</dc:description>
+        <dc:publisher>Magvető</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789631436686</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">426a3e7b-d4f9-4624-bbdf-2d4b11ed9aae</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">grecso-krisztian-pletykaanyu</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>elbeszélés</dc:subject>
+        <dc:subject>hangoskönyv</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Grecsó, Krisztián&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2020-12-26T18:46:09+00:00"/>
+        <meta name="calibre:title_sort" content="Pletykaanyu"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

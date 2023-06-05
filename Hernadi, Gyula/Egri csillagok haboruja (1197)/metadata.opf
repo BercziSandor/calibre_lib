@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1197</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c587ab3e-5ab1-4960-b5c1-628a69e8225a</dc:identifier>
+        <dc:title>Egri csillagok háborúja</dc:title>
+        <dc:creator opf:file-as="Gyula, Hernádi" opf:role="aut">Hernádi, Gyula</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-02-19T23:00:00+00:00</dc:date>
+        <dc:description>Kedves Olvasó! Az „Egri csillagok háborújával” kapcsolatban két körülményre hívnám fel figyelmét. I. Az első tizenkét oldal Gárdonyi Géza iránti tiszteletből az író „Egri csillagok” című regényének utolsó fejezeteiből összeállított montázs. A montázs célja a Gárdonyi-regény stiláris erényeinek felmutatása, mintegy bevezető, átvezető út „megépítése” az új regény „labirintusába”. II. A regény olvasásakor feltűnhetett, hogy a történelmi idő a 16. század közepétől kezdve száz évvel megrövidült, összezsugorodott. Ennek következménye, hogy Buda visszavétele nem 1686-ban történik, hanem 1586-ban. A karlócai béke ideje sem 1699, helyette száz évvel előbbi időpont szerepel…</dc:description>
+        <dc:publisher>Méliusz</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">hernadi-gyula-egri-csillagok-haboruja</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9638216069</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>misztikus</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>török világ</dc:subject>
+        <dc:subject>misztikus regény</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hernádi, Gyula&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2019-03-30T04:40:24+00:00"/>
+        <meta name="calibre:title_sort" content="Egri csillagok háborúja"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">59cc18e0-935e-48a3-8a16-64cdab2636ff</dc:identifier>
+        <dc:title>Holcroft szövetség</dc:title>
+        <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-02-21T00:00:00+00:00</dc:date>
+        <dc:description>Szokatlanul ​kezdődik a történet. Még tart a második világháború, amikor egy német tengeralattjáróba több száz gyereket (csecsemőtől 13 éves korig) zsúfolnak be, majd ismeretlen helyre szállítják őket. Teszik mindezt egy alaposan kigondolt terv részeként. Az ötlet néhány náci tiszt fejében fogalmazódott meg, akik szerint a Vezér nem volt elég kíméletlen és elszánt, ezért majd ők a harmadik világháborúval megmutatják, hogyan kell leigázni a világot.
+Összegyűjtötték tehát a több ezer, orvosilag ellenőrzött, teljesen egészséges árja gyereket és titokban a világ különböző országaiba szállították, majd hosszú évek kemény és kegyetlen nevelésével olyan közkatonákká képezték őket, akik vakon engedelmeskednek minden felsőbb parancsnak.
+Ha tervük sikerül, 20-30 év elteltével az egész világot behálózó, a társadalom minden rétegében jelenlévő, a gazdasági, politikai, katonai és polgári életbe beépült emberek ezrei várják az utasításokat. Ők a „nap gyermekei”, akik ha kell, kiirtják saját családjukat, s hasonló könnyedséggel végeznek fegyvertársaikkal is.
+A pénzügyi hátteret az a 780 millió dollár biztosítja, ami egy svájci bankszámlán pihen, és amit a második világháború alatt emberek és országok kifosztásával gyűjtöttek össze a nácik. A jókora vagyon felszabadításához azonban három aláírás szükségeltetik.
+Itt csöppen a történetbe Noel Holcroft, a jó nevű építész. Apja végrendeletének értelmében Svájcba indul – holmi papírokat aláírni. Ekkor még nem tudja, ki is volt az igazi apja, és természetesen fogalma sincs a rá váró feladatról – így a veszélyről sem.
+Pedig ellenfelei már felkészülten várják, halálát ugyanolyan alaposan eltervezték, mint a vagyon további sorsát. Hogy ne legyen olyan egyszerű a helyzet, feltűnik egy másik szervezet is, amely bár nem rendelkezik akkora erőforrásokkal, mint a „Sonnenkinderek”, azért lehetőségeihez mérten igyekszik segíteni Holcroftnak (aki egyedül nem jutna messzire). A befejezés ennek megfelelően eléggé nyitott, s bizony jópáran meghalnak, mire eljutunk az utolsó oldal aljára.
+Végezetül: Ludlum eme korai regénye rendkívül izgalmas és érdekfeszítő. Az olvasó többször úgy érzi, le kellene tennie, félbe kéne hagynia. A kíváncsiság azonban minden alkalommal erősebbnek bizonyul, s így továbbra is izgulhatunk a jó győzelméért, a pénz sorsáért. A befejezés minden előzetes elképzelést megcáfol, már csak ezért is érdemes elolvasni a könyvet. Érdekes elképzelés a nácik háború utáni terveiről.</dc:description>
+        <dc:publisher>I.P.C.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9636352070</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">1CeBtgAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">robert-ludlum-holcroft-szovetseg</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>kalandregény</dc:subject>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>történelem</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>világtörténelem</dc:subject>
+        <dc:subject>akció</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>kémregény</dc:subject>
+        <dc:subject>2. világháború</dc:subject>
+        <dc:subject>kaland</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>misztikus</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Ludlum&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-13T14:29:52+00:00"/>
+        <meta name="calibre:title_sort" content="Holcroft szövetség"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

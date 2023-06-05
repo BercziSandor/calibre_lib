@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1678</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c9485ec-9483-46c4-97b3-9d0957685dda</dc:identifier>
+        <dc:title>A Bosszúálló</dc:title>
+        <dc:creator opf:file-as="Kepler, Lars" opf:role="aut">Lars Kepler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Különös ​alak imbolyog a hóesésben a vasúti hídon. A mozdonyvezető az utolsó pillanatban veszi észre, csak hajszál híján sikerül elkerülni a tragédiát. A csontsovány, súlyos beteg fiatalemberről a kórházban kiderül, hogy hivatalosan már hét éve nincs is az élők sorában. A rendőrség szerint Jurek Walter végzett vele. Ám Walter, a szinte természetfeletti képességű sorozatgyilkos hosszú évek óta szigorú őrizet alatt él egy börtönkórházban. Kapcsolatot nem tarthat senkivel, még az orvosokkal, ápolókkal sem. A fiút pedig ez idő alatt fogva tartották. De kicsoda? Ha nem Jurek Walter jár ki-be az elmeosztály falain át, akkor bűntársa lehet odakint.&lt;br&gt;Ahogy Joona Linna feleleveníti a régi esetet, szörnyű emlékeivel együtt életre kelnek a rémálmai is. A rendőrség réges-rég eltűnt áldozatok és egy Homokember nevű fantom után kutat. Nyomok nincsenek, csak a fogságból szabadult fiú lázas szavaiból kirajzolódó emlékfoszlányok. Ezek pedig arra utalnak, hogy a húga is ugyanott raboskodik, ahol őt tartották fogva, és az élete veszélyben van.&lt;br&gt;Joona Linna mindent egy lapra tesz fel: egy különlegesen kiképzett nyomozót küld csalinak a börtönkórházba, Jurek Walter mellé, hogy megtudjon valamit az elrabolt lány hollétéről.&lt;br&gt;Lars Kepler újabb regénye sem szokványos bűnügyi történet. Emberrablások, egy elmeosztály borzongató mindennapjai, a múlt lezáratlan epizódjai, az orosz titkosszolgálat váratlan fortélyai emelik A bosszúálló című regényt a legkiválóbb skandináv krimik sorába. Megjelenésének évében ez a kötet volt a legnagyobb példányszámban eladott bestseller Svédországban.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>+</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">53897621</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">lars-kepler-a-bosszuallo</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789632665443</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">42704162-f70e-4cba-9c45-37190a6b1d0d</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lars Kepler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Joona Linna"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-12-19T11:51:19+00:00"/>
+        <meta name="calibre:title_sort" content="Bosszúálló, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;MOBI&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

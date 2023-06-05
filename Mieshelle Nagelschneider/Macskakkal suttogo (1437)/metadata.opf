@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1437</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">773140c1-132e-497d-acd1-8063ae01059c</dc:identifier>
+        <dc:title>Macskákkal suttogó</dc:title>
+        <dc:creator opf:file-as="Nagelschneider, Mieshelle" opf:role="aut">Mieshelle Nagelschneider</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-29T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A ​macskád a világ legédesebb élőlénye – lenne, ha nem kergetne nap nap után az őrületbe. Ha nem spriccelné tele a lakást. Ha nem a bútorokat használná kaparófának. Ha nem piszkítana következetesen az alomtálca mellé. Ha nem vetné magát rajtaütésszerűen a kezedre vagy a lábadra, hogy aztán napokig borogathasd a sérüléseket, és nem rágna meg mindent, ami csak az útjába kerül, a pulóvertől a szobanövényig. Valld be: időnként megfordul a fejedben, hogy meg kellene szabadulnod tőle. Hiszen a macskák még hírből sem ismerik a következetességet, és amúgy is képtelenség hatni rájuk, nem igaz?&lt;br&gt;Mieshelle Nagelschneider, a világ egyik legkiválóbb cicaszakértője most bebizonyítja, hogy tévedsz! Ismerd meg bundás kis barátod titokzatos és izgalmas világát, és hamarosan a legidegtépőbb magatartási problémákat is képes leszel megváltoztatni! Belefáradtál a hiábavaló fegyelmezésbe? Szeretnéd, hogy a cicád jobb étvággyal falatozzon, ne rezzenjen össze minden apró neszre, és a többi cirmossal is jól kijöjjön? A Macskákkal suttogó nemcsak abban segít, hogy felfedezd kedvenced viselkedésének rejtett mozgatórugóit, de praktikus és működő tanácsokkal lát el, hogy a világ legédesebb élőlénye valóban egészséges és kiegyensúlyozott életet élhessen – veled együtt.&lt;br&gt;MIESHELLE NAGELSCHNEIDER Amerika egyik legelismertebb és legkeresettebb macskaszakértője. Az általa alapított The Cat Behavior Clinic 1999 óta a világ minden tájáról fogadja a problémás cicák gazdáit, de még állatorvosok is fel szokták keresni megoldhatatlannak tűnő esetekkel. Mieshelle családjával és kilenc háziállatukkal – hat macskával, két kutyával és egy varánusszal – az Oregon állambeli Portlandban él.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Jaffa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786155609510</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">3bf618e0-c955-4d41-8102-f0c080a2d88a</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">mieshelle-nagelschneider-macskakkal-suttogo</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>állatbarát</dc:subject>
+        <dc:subject>állatgondozás</dc:subject>
+        <dc:subject>állattartás</dc:subject>
+        <dc:subject>amerikai</dc:subject>
+        <dc:subject>macska</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mieshelle Nagelschneider&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-09-30T18:17:55+00:00"/>
+        <meta name="calibre:title_sort" content="Macskákkal suttogó"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">875</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6937e077-63b5-476b-bd09-5189800e55b2</dc:identifier>
+        <dc:title>Aranydenevérek, rózsaszín galambok</dc:title>
+        <dc:creator opf:file-as="Durrell, Gerald" opf:role="aut">Gerald Durrell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-18T00:00:00+00:00</dc:date>
+        <dc:description>Gerald Durrell e könyvében két expedícióját írja le az elbűvölő Mauritius szigetére és a környező szigetvilágba, ahol néhány, már csak itt élő veszélyeztetett állatfajt akar begyűjteni. Az általa alapított Jersey Vadvédelmi Társaság ugyanis azt a célt tűzte ki maga elé, hogy segíti a kihalófélben levő fajok fogságban való továbbtenyésztését. A társaság szimbóluma a dodó, az a nagy termetű, repülni nem tudó galamb, amely egykor Mauritiuson élt, de még a XVII-XVIII. században kiirtották. A könyv címében is szereplő aranydenevéreken és rózsaszín galambokon kívül itt még néhány olyan állatfaj él, amely a mauritiusi szigetvilágon kívül sehol sem fordul elő. A szerző vérbeli angol humorral és igaz gyengédséggel ír a mauritiusi állatvilágról: humora ugyanakkor nem kíméli a helyi hivatalok bürokratáit, de saját tévedéseit sem. Zsoldos Vera grafikusművész a szerző vérbő humorát saját jókedvét is visszatükröző rajzaival egészíti ki.</dc:description>
+        <dc:publisher>Ciceró</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">gerald-durrell-aranydeneverek-rozsaszin-galambok</dc:identifier>
+        <dc:identifier opf:scheme="LIBRI_HU">gerald_durrell.aranydeneverek-rozsaszin-galambok</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789635397396</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">63188ec2-e3ee-46c3-8a39-ed27f8b68257</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>ismeretterjesztő</dc:subject>
+        <dc:subject>természet</dc:subject>
+        <dc:subject>állatvédelem</dc:subject>
+        <dc:subject>állat</dc:subject>
+        <dc:subject>kaland</dc:subject>
+        <dc:subject>Indiai-óceán</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>állatvilág</dc:subject>
+        <dc:subject>Mauritius</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>Irodalom</dc:subject>
+        <dc:subject>angol humor</dc:subject>
+        <dc:subject>Afrika</dc:subject>
+        <dc:subject>memoár</dc:subject>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>természetjárás</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>Szórakoztató irodalom</dc:subject>
+        <dc:subject>illusztrált</dc:subject>
+        <dc:subject>állattan</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gerald Durrell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2015-08-20T12:29:45+00:00"/>
+        <meta name="calibre:title_sort" content="Aranydenevérek, rózsaszín galambok"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,14 @@
+# <a name="id_454">David Mitchell: Felhőatlasz (2012)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/David%20Mitchell/Felhoatlasz%20%28454%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/David%20Mitchell/Felhoatlasz%20%28454%29/Felhoatlasz%20-%20David%20Mitchell.epub)
+
+### Tagek
+1850-es évek, 19. század, 1930-as évek, 1970-es évek, 20. század, 2000-es évek, 21. század, amerikai egyesült államok, belgium, brit szerző, disztópia, experimentális, fantasy, filozofikus regény, hajó, időutazás, indián, angol, sci-fi, kortárs, filmadaptáció, regény, 1001 könyv listán szerepel
+
+### Összefoglalás
+<div>
+<p>MINDEN ​ÖSSZEFÜGG <br>Egy zaklatott életű ifjú zeneszerző az ihlet pillanatában ráérez az örökkévalóságra. Sorsszerű viszonyok, cinikus érzelmek és látnoki szerelmek motívumaiból hat történet rajzolódik ki, melyek mindegyike túlmutat önmagán – egy leírhatatlan harmónia felé. Ez az átkozottul tökéletes összhang szólal meg a Felhőatlasz olvasóiban. <br>David Mitchell bravúros felépítésű, virtuóz nyelvezetű művében az összefonódó életek minden időbeli és térbeli határt átlépve hatnak egymásra. A lelkek korokon és kontinenseken át vándorolnak, akár az égbolton átvonuló felhők. De ki irányítja sorsunkat: mi magunk vagy valamilyen külső erő? Képesek vagyunk-e tanulni a múltból, az előző életekből, vagy az emberiség újra és újra elköveti ugyanazokat a hibákat? <br>A regényből a Mátrix-trilógia és A parfüm rendezői forgattak vibrálóan szellemes filmet.<br>„Az eddigi legmerészebb vállalkozás… egyedi teljesítmény egy rendkívül tehetséges és nagyratörő író tollából.” – Matt Thorne, Independent on Sunday<br>„David Mitchell egy hullámvasútra csábítja olvasóit, akik először vonakodva szállnak fel, de miután belevágtak a kalandba, nem akarják, hogy véget érjen az út. Velem legalábbis ez történt.” – A.S. Byatt, Guardian<br>„A jövőbe látás, az elmélkedés és a szórakoztatás ragyogó, elégikus egyvelege.” – Neel Mukherjee, The Times<br>„A mód, ahogy Mitchell a Felhőatlasz történetét elmeséli, valósággal rabul ejtett.” – Lawrence Norfolk,</p></div>
+
+

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">309</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7fa96a44-93b2-40fb-a74e-2016d0876f9a</dc:identifier>
+        <dc:title>Sokszor csókol, India!</dc:title>
+        <dc:creator opf:file-as="Vass, Virág" opf:role="aut">Vass, Virág</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Török ​Szonja, a kedves, bár néha kicsit elveszett tévés újságírónő négy kudarcba fulladt szerelem és majdnem esküvő után a klímakutató Hargitai Zoltán oldalán – úgy tűnik – megtalálja végre a boldogságot. Vagy mégsem? Egy hihetetlen kaland várja: egy dokumentumfilm forgatására Indiába utazik, és meglátogatja Bombayben Nonitát, az ottani tévé „arcát”. India, a titokzatos, azonban nem adja magát könnyen: a mérhetetlen szegénység és az európai szemmel felfoghatatlan luxus, a nagycsalád, a női alárendeltség és kiszolgáltatottság témáit feltáró Szonja életét is fenekestül felforgatja. Veszélybe sodorja a kapcsolatát Hargitaival, egy új szerelmet ígérve, és kikezdi Nonitával való barátságát is. Az elkészült dokumentumfilm pedig fordulópontot jelent a tévés karrierjében. Szonján múlik, hogy mennyit hajlandó kockáztatni azokért, akiket szeret, és mennyit a szakmai elvekért, amikben hisz.&lt;br&gt;Vass Virág első két regénye a Vulévu és a Franciadrazsé egy hét alatt meghódította a sikerlistákat. A Sokszor csókol India! egy megtörtént eset hiteles és lebilincselő feldolgozása; hagyomány és változás, férfi és női szerepek nyugaton és keleten, házasságon innen és túl.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ulpius-ház</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">QTahAQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789632545639</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">vass-virag-sokszor-csokol-india</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Vass, Virág&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2012-11-17T22:18:52+00:00"/>
+        <meta name="calibre:title_sort" content="Sokszor csókol, India!"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

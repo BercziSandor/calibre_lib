@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1364</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc772f0f-fd4b-4e1b-99f0-6d9b3e258758</dc:identifier>
+        <dc:title>Akar velem beszélgetni?</dc:title>
+        <dc:creator opf:file-as="Moldova, György" opf:role="aut">Moldova, György</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1977-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;" – Akar még valamit mondani?&lt;br&gt;– Nem. Mit?&lt;br&gt;– Én sem tudom. Akkor leteszem a kagylót.&lt;br&gt;– Jó. De azt még mondja meg, mennyi az idő?&lt;br&gt;– Háromnegyed egy. Magánál nincs óra?&lt;br&gt;– Nincs. Itt van fölöttem egy fali villanyóra, ezen pont tizenkettő van. Éjfélkor megállt, de az is lehet, hogy délben. Egyébként hogy van?&lt;br&gt;– Jól. Elárulna nekem valamit?&lt;br&gt;– Bármit.&lt;br&gt;– Mit akar tőlem?"&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Magvető</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">moldova-gyorgy-akar-velem-beszelgetni</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9632705211</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Moldova, György&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-02-22T12:20:26+00:00"/>
+        <meta name="calibre:title_sort" content="Akar velem beszélgetni?"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

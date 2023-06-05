@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1111</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f4b57b0-1e78-4458-96f0-94b13073bb8f</dc:identifier>
+        <dc:title>A fekete város</dc:title>
+        <dc:creator opf:file-as="Akunyin, Borisz" opf:role="aut">Akunyin, Borisz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-30T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;„A forradalom mindenképpen bekövetkezik. Csak megelőzi a világháború. Olaj helyett milliók égnek el.”Eraszt Fandorin legújabb kalandja 1914 nyarán veszi kezdetét, mikor is a zseniális nyomozót csúnyán cserbenhagyja korábbi legendás szerencséje: egy jaltai "rutinmunka" (a cár elleni soros gyilkosságkísérlet leleplezése) alkalmával önkéntelenül egy agyafúrt politikai merénylet tétlen mellékszereplőjévé válik. A hatvanadik évéhez közeledő volt államtanácsos nem nyugszik bele hírnevének megtépázásába, és Maszával, hűséges inasával a titokzatos elkövető, egy Odüsszeusz fedőnevű anarchista után eredve Bakuba utazik.Ám eközben váratlanul meghal Ferenc Ferdinánd, és a személyes bosszúhadjárat egy nemzetközi konfliktus megakadályozásának kulcsfontosságú epizódjává fokozódik. Vérbő küzdelmek és hatalmi intrikák közepette lépnek új ellenfelek és segítőtársak a sodró lendületű, könnyed izgalmak és remek humor jellemezte történet színpadára, miközben Fandorin - ahogyan azt tőle már megszokhattuk - ebben a kiélezett történelmi szituációban sem tud közömbös maradni a női nem iránt: küldetése során egy tekintélyes muzulmán özvegy kérlelhetetlen vágyaival is meg kell küzdenie.Úgy tűnik azonban, hogy ezúttal a tévedhetetlen detektív minden erőfeszítése hiábavalónak bizonyul, ahogyan a félig keleti, félig európai, mindenestül az olajnak alárendelt városra egyre vészjóslóbb árnyékot vet a világháborúba és forradalomba sodródó Oroszország eljövendő tragédiája.A fekete város nemcsak a méltán népszerű Fandorin-sorozat egyik legfordulatosabb része, hanem egyúttal - ahogyan azt a cím is sejteti – talán legsötétebb darabja is. Borisz Akunyin magával ragadó regénye egy olyan kaotikus korszak beköszöntéről tudósít, amelyben a józan logikára támaszkodva már egyre kevésbé lehet eligazodni, és amelynek őrületében bárkinek könnyedén nyoma veszhet – akár az Orosz Birodalom legyőzhetetlen nyomozójának is.&lt;/p&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789634051046</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">647d75c5-955a-4d08-885c-b05af1011dc7</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Akunyin, Borisz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Fandorin"/>
+        <meta name="calibre:series_index" content="12"/>
+        <meta name="calibre:timestamp" content="2016-11-29T14:02:51+00:00"/>
+        <meta name="calibre:title_sort" content="fekete város, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

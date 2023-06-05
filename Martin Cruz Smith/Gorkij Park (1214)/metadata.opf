@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1214</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13131389-db6d-4519-8f42-6a30d6e1c835</dc:identifier>
+        <dc:title>Gorkij Park</dc:title>
+        <dc:creator opf:file-as="Smith, Martin Cruz" opf:role="aut">Martin Cruz Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A ​moszkvai Gorkij parkban – az ottani vurstliban – tavasz felé a hó alatt három holttestet talál egy rendőr. A két férfit és a nőt agyonlőtték, ujjaikat levágták, arcukról lefaragták a húst – nyilván az azonosítás lehetetlenné tétele végett. Az üggyel Arkagyij Renkót, az ügyészségi főnyomozót bízzák meg. A talpig becsületes, cinikus és zseniális Renko ugyancsak nehéz feladatot kapott: nem elég, hogy ambiciózus felesége ott akarja hagyni a kerületi párttitkárért, munkájába – mások mellett – folyton beleszól egy KGB-s őrnagy, ami módfelett gyanús, hiszen a főnyomozónak már akadt dolga olyan „politikai” hullákkal, akiket az őrnagy végzett ki hasonló módon. A nyomozás előrehaladtával Renko egyre világosabban látja, hogy itt sokkal többről van szó, mint holmi „szovjet belügy”-ről: a főnyomozónak feltűnik néhány furcsa és titokzatos amerikai turista. Az egyikük, William Kirwil szüntelenül a Gorkij park körül szimatol. Miután egy ízben jól helybenhagyta az őt üldöző Renkót, elárulja, hogy kollégák: ő a New York-i rendőrség nyomozója, és ki nem állhatja az FBI-t… A szülei a McCarthy-féle tisztogatásoknak estek áldozatul, öccse pedig, az idealista James tavaly a Szovjetunióba utazott, s azóta nyoma veszett.&lt;br&gt;Elég az hozzá, hogy ebben az internacionális szuperkrimiben olyan nagy a tét, hogy szégyenszemre még a szovjet és amerikai titkosszolgálatok is kénytelenek összefogni, hogy elkerüljenek egy világraszóló botrányt…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Árkádia</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9633071941</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">martin-cruz-smith-gorkij-park</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>diktatúra</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>Oroszország</dc:subject>
+        <dc:subject>politikai krimi</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>sorozatgyilkosság</dc:subject>
+        <dc:subject>Szovjetunió</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Martin Cruz Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Arkagyij Renko"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2019-03-30T05:11:21+00:00"/>
+        <meta name="calibre:title_sort" content="Gorkij Park"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

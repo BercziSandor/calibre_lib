@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1127</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf65d6d8-e108-453d-8c32-b21a34a60044</dc:identifier>
+        <dc:title>Szederbor</dc:title>
+        <dc:creator opf:file-as="Harris, Joanne" opf:role="aut">Joanne Harris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-17T00:00:00+00:00</dc:date>
+        <dc:description>Jay ​Mackintosh ifjú korában írt egy könyvsikert, azóta írói válságban szenved. Együtt él Londonban barátnőjével, iszogat és álnéven gyenge regényeket ír. A pincéjében viszont ott lapul hat üveg gyümölcsbor, amelyek megváltoztatják az életét. Vesz egy tanyát az isten háta mögötti kis francia faluban, ahol elbűvöli a táj, az emberek, de még inkább titokzatos szomszédnője, a remeteéletet élő Marise Jay. Végre-valahára belekezd új regényébe, rendbe hozza az elhanyagolt tanyát, beilleszkedik a falu életébe, és egyre közelebb kerül a szomszédasszonya titkának megfejtéséhez. Újra átéli gyermekkora végzetes nyarát, amikor megszűnt a hite öreg barátjában, Joe-ban és annak „hétköznapi mágiájában”. De Joe váratlanul visszatér, s vele a csoda is. 
+Aki ezt a könyvet kézbe veszi, annak különös illat csapja meg az orrát. A cukor és alma és szederzselé és füst rendkívüli, átható illata. Nosztalgiát ébresztő illat, melynek birtokába bátran nézhetünk az ínséges idők elébe…
+Joanne Harris ebben a könyvében is csak szépet és jót tartogat az olvasó számára.</dc:description>
+        <dc:publisher>Ulpius-ház</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789632543420</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">491551b2-27a4-473d-b1c9-1ae56d979424</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">joanne-harris-szederbor</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>bor</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>fejlődésregény</dc:subject>
+        <dc:subject>francia szerző</dc:subject>
+        <dc:subject>Franciaország</dc:subject>
+        <dc:subject>gasztroregény</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>mágikus realizmus</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>misztikus</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>romantikus</dc:subject>
+        <dc:subject>tavasz</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joanne Harris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2017-08-20T17:08:15+00:00"/>
+        <meta name="calibre:title_sort" content="Szederbor"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

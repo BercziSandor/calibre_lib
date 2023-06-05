@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1224</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c063f01c-c460-4cfe-8916-25244fe63186</dc:identifier>
+        <dc:title>Vera</dc:title>
+        <dc:creator opf:file-as="Grecsó, Krisztián" opf:role="aut">Grecsó, Krisztián</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-15T09:08:25+00:00</dc:date>
+        <dc:description>Szeged, 1980. Vera az általános iskola negyedik osztályába jár, jó tanuló, jó sportoló. A papa a honvédségen dolgozik, a mama meg minden nap várja őt tanítás után. De Vera biztonságosnak hitt élete pár hét leforgása alatt megváltozik. Az egyik eseményből következik a másik, mintha dominók dőlnének egymás után, mégsem lehet tudni, vajon mi indítja el az események láncolatát. Mi fordítja szembe végzetesen az addigi legjobb barátnőjével? Miért olyan jó és ugyanakkor ijesztő egyre több időt tölteni Józeffel, az új lengyel fiúval? És miért vannak a felnőtteknek titkaik, ha Verától azt várják el, hogy ő mindig csak az igazat mondja?
+Grecsó Krisztián új regénye arról szól, hogy a családi titkokat felfedni nemcsak tudás, de bátorság kérdése is. Vera felismeri: vannak helyzetek, amikor idő előtt kell felnőttként viselkednünk. És hogy fel lehet nőni a feladathoz.</dc:description>
+        <dc:publisher>Magvető</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">F40xxQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789631438291</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">grecso-krisztian-vera</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>1980-as évek</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>barátság</dc:subject>
+        <dc:subject>család</dc:subject>
+        <dc:subject>Csongrád megye</dc:subject>
+        <dc:subject>gyermeklélektan</dc:subject>
+        <dc:subject>gyermekszemszög</dc:subject>
+        <dc:subject>iskola</dc:subject>
+        <dc:subject>jelen időben írt</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>női főszereplő</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>Szeged</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Grecsó, Krisztián&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-12-26T18:45:18+00:00"/>
+        <meta name="calibre:title_sort" content="Vera"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

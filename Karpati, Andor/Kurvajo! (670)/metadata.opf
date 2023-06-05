@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">670</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a282d7e-3110-4bf3-8195-3ac843051ca7</dc:identifier>
+        <dc:title>Kurvajó!</dc:title>
+        <dc:creator opf:file-as="Kárpáti, Andor" opf:role="aut">Kárpáti, Andor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Az orgia a modern kor robbanásának, a minden területen való felszabadulásának pillanata. Mindenre kiterjed ez az orgia, a valóságra, az értelemre, a szexualitásra, a kritikára és ellenkritikára, a növekedés válságára. Forognak a rulett-tányérok és lehet, hogy nyerünk Kárpáti Andor regénye a romlás átláthatóságának bizonyítéka. Ez a megrögzött világvándor, orgazmuspilóta, drogfenevad szinte mindent pud arról a negatívumról amelynek furcsa hangjai magasba lendülnek és addig csápolnak amíg meleg pozitívumeső nem hull alá a kívül-belül fénylő magas égből. Mintha száguldó tölgyfa lenne ez a fiú, sokszorosan megpróbálja Isten türelmét, az Öreg végül mindig magkegyelmez neki. A könyvben ágáló Andor maratoni élvező, szenvedő, szemlélődő. Jönnek a lányok-asszonyok, megakad tekintetűk az ázott hajú idegenen és estére már nincsen rajtuk bugyi. És az idegen csal és lop és hazudik…&lt;/p&gt;</dc:description>
+        <dc:publisher>Dee-Sign</dc:publisher>
+        <dc:identifier opf:scheme="LIBRI_HU">karpati_andor.kurvajo</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9632028791</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">karpati-andor-kurvajo</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>erotikus</dc:subject>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>memoár</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>Irodalom</dc:subject>
+        <dc:subject>További könyveink</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kárpáti, Andor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2014-09-19T16:29:24+00:00"/>
+        <meta name="calibre:title_sort" content="Kurvajó!"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

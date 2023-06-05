@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">550</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8fe1b5bf-00f8-46b5-b875-49513ba86861</dc:identifier>
+        <dc:title>Blaze</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-20T00:00:00+00:00</dc:date>
+        <dc:description>Megindító, ​tragikus eset: egy jóravaló, okos kisfiút apja részegségében súlyosan bántalmaz, amelynek maradandó következményeit a fiú élethosszan cipeli. Amikor megismerjük, huszonéves, esetlenül nagydarab fickó, horpadásos homlokkal, túlságosan is lomha észjárással. Faragatlan, bivalyerõs óriás, ugyanakkor a légynek sem tudna ártani. Nem, ha életének döntéseit magamaga bírná meghozni… de valahogy mindig kicsúszik a kezébõl a gyeplõ. Mentora évek óta George, a kisstílû bûnözõ, az õ utasításait hajtja végre közös balhéikban.
+Ám egyszer végre a sarkára áll, elszánja magát, hogy egyedül is boldogulni fog ifj. Clayton „Blaze” Blaisdell. S mi tanúi lehetünk egyszemélyes vállalkozása aprólékos megtervezésének, gondos kivitelezésének és kimenetelének. Blaze élete nagy dobása – egy gyermekrablás, milliós váltságdíjjal. Ahogy szorul körülötte a hurok, és hibát hibára halmoz, azt veszi észre, hogy a fejében idõrõl idõre megszólal a már halott George, az utolsó pillanatban mindig elhárítva a közeledõ katasztrófát…
+Stephen King íróasztala mélyérõl ásta elõ ifjúkori írását, a Blaze eredeti kéziratát. Nem találta rossznak, s némiképp átdolgozva, álnéven, mint Richard Bachman, közrebocsátotta, tisztelgésül Steinbeck: Egerek és emberek-je elõtt. A párhuzam óhatatlan és sokatmondó: King álnéven is élete egyik legjobb mûvét írta meg.</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789630788052</dc:identifier>
+        <dc:identifier opf:scheme="ANTIK_HU">454037</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">stephen-king-richard-bachman-blaze</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">ef210d07-8d8a-4eab-bc1c-04edd5a4c6ca</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>Szórakoztató irodalom</dc:subject>
+        <dc:subject>akció</dc:subject>
+        <dc:subject>Szépirodalom</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>kaland</dc:subject>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>pszicho-thriller</dc:subject>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>drámai cselekmény</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2013-07-09T11:05:32+00:00"/>
+        <meta name="calibre:title_sort" content="Blaze"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

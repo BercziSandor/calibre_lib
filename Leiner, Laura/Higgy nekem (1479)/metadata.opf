@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1479</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b651588f-aa3a-4350-8d54-6f9d6b07809e</dc:identifier>
+        <dc:title>Higgy nekem</dc:title>
+        <dc:creator opf:file-as="Leiner, Laura" opf:role="aut">Leiner, Laura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-04T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Már ötödik napja tart az IOV, és a címvédő piros csapat még mindig versenyben van, méghozzá nem is akárhogy, a résztvevők és szervezők is őket tartják az egyik legesélyesebbnek a győzelemre.&lt;br&gt;Az otthoniak azonban továbbra is kétkednek, számukra az idei Szirtes-csapat mindörökre megbélyegzett társaság marad, akiknek az IOV részvétele és eredménye sem változtatja meg a negatív megítélésüket.&lt;br&gt;Kocsis igazgató próbál tenni ez ellen, és mindent bevetve igyekszik megkedveltetni a négy versenyzőt a szirtesesekkel, miközben a Hortobágyon egyre kiélezettebb a verseny, Sára, Rajmund, Vivi és Dominik pedig az események sodrásában szép lassan rádöbbennek, hogy nemcsak sorstársakra, de barátokra is találtak. Sőt, talán még annál is többre…&lt;br&gt;A Higgy nekem az Iskolák versenye második trilógia második része.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Carta Teen</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">ead9c092-27d7-4b1a-866f-47ec119a15d3</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786155653940</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">leiner-laura-higgy-nekem</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">NtgsEAAAQBAJ</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Young Adult Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Leiner, Laura&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Iskolák versenye"/>
+        <meta name="calibre:series_index" content="22"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-11-15T10:17:17+00:00"/>
+        <meta name="calibre:title_sort" content="Higgy nekem"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

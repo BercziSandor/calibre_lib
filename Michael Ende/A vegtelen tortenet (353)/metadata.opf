@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">353</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a27c47a7-9d79-437e-ae1d-ad01c5f58416</dc:identifier>
+        <dc:title>A végtelen történet</dc:title>
+        <dc:creator opf:file-as="Ende, Michael" opf:role="aut">Michael Ende</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1985-02-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;TEDD ​AZT, AMIT AKARSZ&lt;br&gt;ez a felirata annak a medalionnak, mely a korlátlan hatalmat jelképezi Fantáziában. De hogy ez a mondat voltaképpen mit is jelent, azt Barnabás csak hosszú, fáradtságos út után tudja meg.&lt;br&gt;Bux Barnabás Boldizsár számára, aki nem különösebben okos vagy szép, viszont gyönyörű történeteket tud mesélni, valóra válik minden gyermek álma: egy rejtélyes könyv olvasása közben hirtelen átkerül a mesébe, s ő lesz Fantázia birodalmának legfontosabb lakója, megmentője, akinek meséi nyomán új lények és tájak keletkeznek. Barnabás előtt nincs lehetetlen ebben a birodalomban, mert nála van a mindenható medál, az AURIN, s barátja lesz Fantázia legbátrabb vitéze, Atráskó és annak fehér szerencsesárkánya. Amikor azonban Barnabás túlságosan magabiztossá válik, s a medál feliratát, „Tedd azt, amit akarsz” túlságosan saját érdekei szerint kezdi el értelmezni, lassanként rémisztővé válik az addig oly kedves képzeletbeli világ. Barnabásnak sokat kell tanulnia, és sok kalandot kell átvészelnie, hogy megtudja, hogyan lesz a fantázia hőséből a mindennapok hőse, s hogyan válhat története valóban végtelenné.&lt;br&gt;Bux Barnabás Boldizsár történetét már eddig is világszerte több millió felnőtt és gyermek ismerhette meg, hiszen Michael Ende örökérvényű meseregényét 1979-es megjelenése óta több mint harmincöt nyelvre fordították le, és egy csodálatos filmet is forgattak belőle.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">7uvHzQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789633070352</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">michael-ende-a-vegtelen-tortenet</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>allegorikus</dc:subject>
+        <dc:subject>barátság</dc:subject>
+        <dc:subject>emlékezet</dc:subject>
+        <dc:subject>fejlődésregény</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>filozofikus regény</dc:subject>
+        <dc:subject>gyermek főszereplő</dc:subject>
+        <dc:subject>gyermekkönyv iskolásoknak</dc:subject>
+        <dc:subject>gyermekszemszög</dc:subject>
+        <dc:subject>kalandregény</dc:subject>
+        <dc:subject>klasszikus</dc:subject>
+        <dc:subject>könyvesbolt</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>meseregény</dc:subject>
+        <dc:subject>Nagy Könyv</dc:subject>
+        <dc:subject>német szerző</dc:subject>
+        <dc:subject>Német Irodalom</dc:subject>
+        <dc:subject>Emlékek</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>Kortalan Mesék</dc:subject>
+        <dc:subject>gyermek- és ifjúsági irodalom</dc:subject>
+        <dc:subject>szeretet</dc:subject>
+        <dc:subject>illusztrált</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>kaland</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>Könyv</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Michael Ende&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2012-11-18T20:51:34+00:00"/>
+        <meta name="calibre:title_sort" content="végtelen történet, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

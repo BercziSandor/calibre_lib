@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">461</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8dfd72d9-e059-48a8-81cd-ce0dc3c68d8c</dc:identifier>
+        <dc:title>Éjszakai őrség</dc:title>
+        <dc:creator opf:file-as="Lukjanyenko, Szergej" opf:role="aut">Szergej Lukjanyenko</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Moszkva utcáin a hétköznapi emberek között természetfölötti lények járnak észrevétlen. A Setét és a Fény erői egyaránt jelen vannak, s a két tábor közötti törékeny fegyverszünetet az Éjszakai és a nappali Őrség vigyázza. Most azonban viharfelhők gyülekeznek a város komor bérkaszárnyái felett: a varázslók, vámpirok, alakváltók és boszorkányok hidegháborúja forrósodni kezdett. Ha összecsapásuknak nem sikerül elejét venni, maga a pokol szabadul el a földön.Szergej Lukjanyenko sorozatinditó regénye hihetetlen népszerűségre tett szert az első megjelenése óta eltelt években, és rajongótábora már nem korlátozódik Oroszországra. A könyvből készült film elvitte hirét Amerikába és a világ szinte minden szegletébe. Azóta az 'Éjszakai Őrség' már valamennyi fontosabb nyelven olvasható. A GFK sorozatban végre magyarul is hozzáférhető lesz hamarosan a teljes sorozat.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Metropolis Media</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">xrbZDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ANTIK_HU">418072</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">7cdc3fee-c622-4486-aa8d-4dc21084381d</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786155628559</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">szergej-lukjanyenko-ejszakai-orseg</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Urban</dc:subject>
+        <dc:subject>boszorkány</dc:subject>
+        <dc:subject>orosz</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>alakváltó</dc:subject>
+        <dc:subject>vámpír</dc:subject>
+        <dc:subject>urban fantasy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Szergej Lukjanyenko&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Őrség"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2013-04-22T20:45:34+00:00"/>
+        <meta name="calibre:title_sort" content="Éjszakai őrség"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

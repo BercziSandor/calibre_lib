@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1272</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">087e0d1c-51f1-45a0-ab37-511e5f6ac03f</dc:identifier>
+        <dc:title>Trevor</dc:title>
+        <dc:creator opf:file-as="Lecesne, James" opf:role="aut">James Lecesne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Trevor is an exuberant, sociable, and witty thirteen year old. So how come, when he takes that nerve-wracking turn toward his locker at school, he feels scared and alone? Shunned by his friends, misunderstood by his parents, and harrassed at school for being different, Trevor goes from wondering what color glitter to choose for his Lady Gaga costume at Halloween, to wondering why some feelings "are so intense it makes you just want to lay down and die rather than go on feeling it," and making an attempt on his life. Trevor mixes humor and realism in an urgent look at what it is like to feel alienated from everything around you. And more importantly, what critical ties can step in at the most unlikely moment, to save you from despair, and give you reason to go on living. Trevor is an update of the film version of the story, directed by Peggy Rajski, which won the Academy Award for Best Live Action Short in 1994. The Trevor Project is the leading national organization providing crisis intervention and suicide prevention services to lesbian, gay, bisexual, transgendered, and questioning youth. As the recent attention to youth suicides has received increased media attention, and Dan Savage's IT GETS BETTER campaign has gone viral around the world, the public is finally beginning to face hard facts. Thirty-three percent of suicides among teenagers involve LGBTQ youth, one-third of all LGBT kids report having attempted suicide, and nine out of ten report overt harassment at school. Trevor is an effort to make those kids feel loved and supported, so they will find the strength to go on living.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tilos az Á Könyvek</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781609804879</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">157d125e-c18c-440d-a3b5-1f982a4e2663</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">RkDglwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">james-lecesne-trevor</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Family &amp; Relationships</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>Social Themes</dc:subject>
+        <dc:subject>Emotions &amp; Feelings</dc:subject>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>biszexuális</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>Halloween</dc:subject>
+        <dc:subject>identitás</dc:subject>
+        <dc:subject>kisregény</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>LMBTQ</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>meleg</dc:subject>
+        <dc:subject>nemi szerep</dc:subject>
+        <dc:subject>ifjúsági</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Lecesne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-12-26T19:16:29+00:00"/>
+        <meta name="calibre:title_sort" content="Trevor"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

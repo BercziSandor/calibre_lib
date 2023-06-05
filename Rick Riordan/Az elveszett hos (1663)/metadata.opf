@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1663</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2878eb5c-b178-4c37-b9b3-9e299e52deb9</dc:identifier>
+        <dc:title>Az elveszett hős</dc:title>
+        <dc:creator opf:file-as="Riordan, Rick" opf:role="aut">Rick Riordan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-11T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Három ​vadonatúj hős.&lt;br&gt;Egy eltűnt félisten.&lt;br&gt;És egy átok, ami mindegyiküket pusztulással fenyegeti…&lt;br&gt;Percy Jackson visszatér… Vagy mégsem? Ugyanis minden nyom nélkül eltűnik a Félvér Táborból. Annabeth égre-földre keresi kedvesét, egyelőre eredménytelenül. Ám ugyanolyan rejtélyesen, ahogy Percy felszívódott, feltűnik egy Jászon nevű srác, aki semmire sem emlékszik a múltjából, viszont nagyon sokat tud. Például a küldetésekről, és – csak úgy mellékesen – folyékonyan beszél rómaiul, hogy a farkas-pótszülőkről már ne is beszéljünk…&lt;br&gt;Elhangzik egy újabb prófécia, és kezdetét veszi egy újabb küldetés – most már Jászon vezetésével. Közben kiderül néhány furcsa dolog… Jászonról is. Tényleg létezik egy másik Félvér Tábor, ahol a római istenek gyermekei nevelkednek, akik halálos ellenségei a görög félvéreknek? És a kedves olimposzi szülők vajon miért nem merik hallatni isteni hangjukat? Ki ejtette foglyul Hérát, az istenek hisztis, undok és bajkeverő királynőjét? Megéri kockáztatni érte az életüket?&lt;br&gt;Megtudod, csak kövesd kedvenc íród kedvenc hőseit a leges-legújabb és legkockázatosabb küldetésre!&lt;br&gt;„Egy újabb sziporkázó alkotás” – Sunday Express&lt;br&gt;„Elsöprő” – Big Issue&lt;br&gt;„Akciódús” – Sunday Express&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Könyvmolyképző</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789633737477</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">rick-riordan-az-elveszett-hos</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">b3f99a87-099c-4e08-9c8e-21f76ae97119</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">23491357</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Childrens</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rick Riordan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Az Olimposz hősei"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-09-09T18:41:02+00:00"/>
+        <meta name="calibre:title_sort" content="elveszett hős, Az"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

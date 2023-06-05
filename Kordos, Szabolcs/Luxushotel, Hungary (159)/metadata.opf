@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">159</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">198f70ec-77d1-4c61-a0e6-5d279a27a9ed</dc:identifier>
+        <dc:title>Luxushotel, Hungary</dc:title>
+        <dc:creator opf:file-as="Szabolcs, Kordos" opf:role="aut">Kordos, Szabolcs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-19T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Egyedülálló ​küldetésre vállalkozott a könyv szerzője, Kordos Szabolcs.&lt;br&gt;Bejutott a budapesti luxusszállodák diszkrét és zárt világába, ahol a titoktartás a legdrágább szolgáltatás, és gyakran maga az ember az árucikk. Az író hónapokat töltött az ötcsillagos ipar szorgos hangyáival és csúcsragadozóival, hogy megtudja, mi zajlik valójában a forgóajtón túl. Előbb-utóbb megnyíltak az informátorok: meséltek a sztárok vad partijairól, eltusolt politikai botrányokról, a lobbiban hallgatódzó kémekről, a bogaras vendégekről, és a saját szennyesük kiteregetéséről sem feledkeztek meg. Túl sokat láttak ahhoz, hogy hallgassanak.&lt;br&gt;Ismerje meg a belvárosi luxushotelek életét a takarítónő, a boy, a recepciós és a menedzser szemszögéből! Lépjen be velük a lakosztályokba és az alagsori folyosókra, és meglátja, hogy ez a világ romantikusabb, romlottabb és főként sokkal izgalmasabb, mint azt valaha gondolta volna.&lt;br&gt;Kordos Szabolcs bestseller sorozatának első darabja a megjelenés után hét évvel új köntösben, a folytatás premierjével egyidőben tér vissza a könyvesboltok polcaira.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>XXI. Század</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">kordos-szabolcs-luxushotel-hungary</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786155955082</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>Budapest</dc:subject>
+        <dc:subject>bulvár</dc:subject>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>idegenforgalom</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>Magyarország</dc:subject>
+        <dc:subject>riport</dc:subject>
+        <dc:subject>vendéglátás</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kordos, Szabolcs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-16T20:17:35+00:00"/>
+        <meta name="calibre:title_sort" content="Luxushotel, Hungary"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

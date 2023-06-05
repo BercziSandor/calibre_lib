@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">317</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73945a01-ea63-48c9-a526-2fdfd9a837ec</dc:identifier>
+        <dc:title>Nyugaton a helyzet változatlan</dc:title>
+        <dc:creator opf:file-as="Remarque, Erich Maria" opf:role="aut">Erich Maria Remarque</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Erich ​Maria Remarque 1898-ban született, s a tanárképző padjából került az első világháborúba. Húszéves korában szerelt le. Ő és társai, akikkel egyszerre vonult be, semmi egyebet nem láttak a világból, csak az iskolát és a frontot. A Nyugaton a helyzet változatlan az ő szenvedéseik és kiábrándulásuk története. Hőse, Paul Baumer, csak apró vonásokban különbözik társaitól. A lövészárok élete nagyjából egyforma emberekké gyúrja őket. A front iszonyata mindent kiéget belőlük, egyetlen erényük, egyetlen kincsük marad: a bajtársiasság. Megrázóan igaz, őszinte írás ez a regény. Óriási sikerét kétségtelen értékei mellett annak is köszönhette, hogy megjelenésekor már szükséges volt a belőle harsogó figyelmeztetés: íme, valójában ez a háború, vigyázzatok, nehogy újra belesodorjanak benneteket! Hiszen ekkoriban egy müncheni sörház asztalai mellett már a második világháború sikerére isznak az osztrák káplár hívei. De ami ebben a sodró lendületű regényben a humánum magas hőfokán megfogalmazódik, ma is eleven problémája az emberiségnek, s még sokáig nem veszíti érvényét.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Alexandra</dc:publisher>
+        <dc:identifier opf:scheme="ANTIK_HU">47343</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">erich-maria-remarque-nyugaton-a-helyzet-valtozatlan</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">8jKeQwAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789634470687</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>1910-es évek</dc:subject>
+        <dc:subject>1920-as évek</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>igaz történet alapján</dc:subject>
+        <dc:subject>katonaság</dc:subject>
+        <dc:subject>klasszikus</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>német</dc:subject>
+        <dc:subject>német szerző</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>történelem</dc:subject>
+        <dc:subject>történelmi regény</dc:subject>
+        <dc:subject>világtörténelem</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>1001 könyv listán szerepel</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>1. világháború</dc:subject>
+        <dc:subject>háború</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Erich Maria Remarque&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Nyugaton a helyzet változatlan"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2012-11-18T20:09:51+00:00"/>
+        <meta name="calibre:title_sort" content="Nyugaton a helyzet változatlan"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

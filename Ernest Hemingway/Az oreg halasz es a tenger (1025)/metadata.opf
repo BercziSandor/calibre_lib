@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1025</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92f83030-3325-47bf-896b-d0f0ba714cb7</dc:identifier>
+        <dc:title>Az öreg halász és a tenger</dc:title>
+        <dc:creator opf:file-as="Hemingway, Ernest" opf:role="aut">Ernest Hemingway</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-18T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Hemingway-életműsorozat 1.Irodalmi Nobel-díj, 1954Pulitzer-díj, 1953A kubai halász már jó ideje nem járt szerencsével, amikor találkozik egy óriási marlinnal. Hosszú és szenvedéssel teli csatát vívnak, messze kisodródva az öböl vízére.Hemingway egyszerű nyelven, nagy láttató erővel jeleníti meg a veszteség és diadal történetét, mellyel élete legnagyobb kritikai sikerét aratta. Időtálló művét Ottlik Géza klasszikussá vált fordításában adjuk ki, a szerzői sorozat első köteteként.A regény 1952-ben jelent meg, ’53-ban Pulitzer-díjat kapott, az író pedig – az indoklásból könnyen kikövetkeztethetően: ezért a műért – egy évre rá Nobel-díjat.Az öreg halász és a tenger a világirodalom legfontosabb és legnagyobb hatású regényeinek egyike, Hemingway helye pedig – ez által és más nagy művei által – Bergman, Kuroszava, Picasso, Bartók, Marlon Brando, Pelé vagy Muhammad Ali mellett van, a 20. századi kultúra meghatározó alakjai közt.Aprócska regény, mégis mindenki ismeri, mindenki olvassa, nem egyszerűen iskolai kötelező olvasmány, hanem tényleg kötelező. Állandó viták tárgya, kezdve onnan, hogy ki is valójában Santiago, a kubai halász, mit jelent a tenger és mit a gigantikus hal, hogy győz-e az öreg, vagy veszít végül, egészen odáig, hogy hibázott-e a művet meseszépen fordító Ottlik Géza, amikor az „ember” szót „halászra" cserélte a címben. Hiszen az öregember nem is halászik, hanem horgászik...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>XXI. Század</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">nVL6DwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="LIBRI_HU">ernest_hemingway.az-oreg-halasz-es-a-tenger-1</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">ernest-hemingway-az-oreg-halasz-es-a-tenger</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786155955914</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Irodalom</dc:subject>
+        <dc:subject>Szépirodalom</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernest Hemingway&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2016-07-27T19:33:18+00:00"/>
+        <meta name="calibre:title_sort" content="öreg halász és a tenger, Az"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

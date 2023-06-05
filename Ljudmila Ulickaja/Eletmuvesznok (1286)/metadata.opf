@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1286</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7feb703-bb12-47d4-b16e-3eb6b0df9a0f</dc:identifier>
+        <dc:title>Életművésznők</dc:title>
+        <dc:creator opf:file-as="Ulickaja, Ljudmila" opf:role="aut">Ljudmila Ulickaja</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-16T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Zsenya ​olyan nő, aki első látásra bizalmat ébreszt az emberekben. És nőtársai szinte gondolkodás nélkül elmesélik neki az életük történetét, a szerelmeiket, a családi drámákat, a szerencsés fordulatokat. A nyaralás közben megismert Irene azt mondja el, hogyan vesztette el négy gyerekét. A szomszéd kislány egy ufóról mesél, a távoli rokon kamaszlány arról, hogy szenvedélyes szerelmi viszonyt folytat a nagybátyjával. A Svájcban dolgozó orosz prostituált a nehéz gyerekkorát mondja el, és hogy egy érett férfi, egy bankár, végre elveszi feleségül. Zsenya felnőtt életének különböző szakaszaiban találkozik ezekkel a történetekkel. Hol éppen elvált az első férjétől, hol egy új szerelem tűnik fel a láthatáron, hol újra összeköltözik a második férjével. És mindig megrendül, amikor kiderül, hogy a lányok-asszonyok meséi – mesék. Hazugságok, ábrándok, vágyálmok. De ezeket is meg kell értenie, ha a saját életében rendet akar teremteni, ha meg akarja tanulni az élet hétköznapi művészetét. Persze, ha van ilyen egyáltalán… Ljudmila Ulickaja könyve hat történetből áll, mondhatni: hat este, hat nem is olyan könnyű darab, amelyeket lebilincselő elbeszélésmód, nagy-nagy életismeret és finom, szomorkás irónia jellemez. Ahogy a nagy orosz íróktól megszoktuk.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Magvető Könyvkiadó és Kereskedelmi</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">ljudmila-ulickaja-eletmuvesznok</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">e23db5aa-831a-4d10-bb77-1e4d171a8a6c</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789631440041</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>női főszereplő</dc:subject>
+        <dc:subject>orosz szerző</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ljudmila Ulickaja&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-02-17T19:24:21+00:00"/>
+        <meta name="calibre:title_sort" content="Életművésznők"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

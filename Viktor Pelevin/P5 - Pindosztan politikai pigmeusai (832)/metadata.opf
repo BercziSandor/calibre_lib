@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">832</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24a3f653-1ca0-4baf-b40e-8bf35acc45d7</dc:identifier>
+        <dc:title>P5 – Pindosztán politikai pigmeusai – Pá, pederaszták</dc:title>
+        <dc:creator opf:file-as="Pelevin, Viktor" opf:role="aut">Viktor Pelevin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-22T00:00:00+00:00</dc:date>
+        <dc:description>Figyelem! ​A könyv a harci NLP technikáinak felhasználásával készült.
+Based on true story
+Pelevin az ötödiken: azaz öt elbeszélés, melyek mindegyike a szerző féktelen fantáziájáról tanúskodik – s egyben arról is, hogy a mai Oroszországnak nincs még egy olyan éles szemű és kegyetlen humorú ábrázolója, mint ő.
+Először is a dúsgazdag oligarchák számára létesített titkos, föld alatti szórakoztató-központba pillanthatunk be. A szigorúan hazafias célokat szolgáló luxuskuplerájban dolgozik Léna, aki társaival együtt meztelen, mozdulatlan kariatidát alakítva várja, hogy megkérjék valamilyen szexuális szolgáltatásra.
+Majd Dél-Franciaországban utazgató orosz újgazdagokkal együtt élvezzük a helyi bűvész mutatványait, de hirtelen az ókori Egyiptomban találjuk magunkat. S az író bűvésztrükkjei nyomán egyik hátborzongató kalandot a másik után éljük át: megtapasztalhatjuk egy fekvőrendőr aszfaltérzékeinek rezdüléseit, a különlegesen nagy gazdagság által kiváltott megváltozott tudatállapotot, valamint egy arab bérgyilkos kéjes kalandjait a Paradicsomban…
+S mindezen kalandok mögött ott van annak az új orosz valóságnak a képe, amely leszámolt Pindosztán politikai pigmeusaival, vagyis az Amerikát, a Nyugatot kiszolgáló, az orosz nép egységét megbontó politikusokkal – s innen már egyenes út vezet a földi Paradicsomhoz… már ha egy kariatida le nem harapja a fejünket.</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">viktor-pelevin-p5-pindosztan-politikai-pigmeusai-pa-pederasztak</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630789394</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>elbeszélés</dc:subject>
+        <dc:subject>orosz szerző</dc:subject>
+        <dc:subject>groteszk</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>Novels</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Viktor Pelevin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2014-12-16T21:44:41+00:00"/>
+        <meta name="calibre:title_sort" content="P5 – Pindosztán politikai pigmeusai – Pá, pederaszták"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;DOC, EPUB, PRC&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">153</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d9323d4-0276-4db8-a137-a8aee5408d37</dc:identifier>
+        <dc:title>Vanek úr Párizsban</dc:title>
+        <dc:creator opf:file-as="Rejtő, Jenő" opf:role="aut">Rejtő, Jenő</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1986-09-20T00:00:00+00:00</dc:date>
+        <dc:description>" – Gazdám az állatkertbe adta Wendriner urat, de közben tönkre mentem. Ugyanis a saját fenntartásomra szánt összeget egy véletlen szerencsétlenség elvitte. Véletlenül mindig egy másik szám jött ki a ruletten, mint amire én tettem. Napokig. Vártam, hogy a rulett megunja. De nem. Elvesztettem mindenem hazárdjátékon. Hát hallott már ilyet? Mit tegyek? Saját emeleti szobámat kiadtam Neddának, Wendriner urat pedig elhoztam az állatkertből. A bestia ott úgyis hisztérikus lett, mert a frászt kapja, ha a pávák rikoltoznak. És azt a régebbi ötletemet, hogy az oroszlán nyugalma érdekében a pávákat szájkosárral lássák el, az állatkert ridegen elutasította. Ez jó ok volt arra, hogy kivegyem Wendriner urat, és az ellátására folyósított összegből magamat is fenntartsam. Természetesen a mosónő azóta nem jár ide, mert a ragadozó fél tőle. Csapkod a ruhákkal, meg kiabál. 
+
+    Mindezek ellenére nem mertem moccanni. Végül is Vanek úr véleménye nem száz százalékig megnyugtató."</dc:description>
+        <dc:publisher>+</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">rejto-jeno-p-howard-vanek-ur-parizsban</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9633224802</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>Afrika</dc:subject>
+        <dc:subject>humor</dc:subject>
+        <dc:subject>légió</dc:subject>
+        <dc:subject>Párizs</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rejtő, Jenő&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-16T19:50:00+00:00"/>
+        <meta name="calibre:title_sort" content="Vanek úr Párizsban"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">259</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f158ba29-c91f-47d5-b2dd-4496cf3a390f</dc:identifier>
+        <dc:title>Tizenhárom rejtély</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Ódon ​vidéki ház, hattagú társaság, kandalló, félhomály, könnyed beszélgetés. Miss Marple jóságos arccal kötöget, olykor-olykor bosszúsan megcsóválja fejét, hogy ejnye, hát már megint leesett egy szem. Egy sima, egy fordított. &lt;br&gt;Hogy gyorsabban teljék az idő, titokzatos bűnügyekre terelődik a szó. Játék, agytorna, megoldatlan rejtélyek. Ki lehet a tettes? A társaság tagjai buzgón töprengenek. Tévutak, zsákutcák, félmegoldások, Miss Marple szelíd mosollyal kötöget. Egy sima, egy fordított. Mérgezés, vérfoltos járda, halált hozó virágok, pogány istennő baljós ligete, állhatatlan leány holtteste a zúgó habokban – megannyi rejtelmes eset. És Miss Marple bájos példázatai kertészekről, cselédlányokról, St. Mary Mead csip-csup dolgairól, melyek – persze, kötögetés közben – még a legbonyolultabb esetekben is játszva eligazítják a kedves öreg hölgyet. &lt;br&gt;A tizenhárom feszes történet mindegyike oly remek, hogy bármelyikükkel szívesen találkoznánk akár regényformában is. A bűnügyi történetek nagyasszonya, Agatha Christie e kötetben a sűrített feszültségkeltés mestermunkáit tárja az olvasó elé.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Aquila</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789636795610</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">agatha-christie-tizenharom-rejtely</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>Anglia</dc:subject>
+        <dc:subject>angol szerző</dc:subject>
+        <dc:subject>barátság</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>gyilkosság</dc:subject>
+        <dc:subject>karácsony</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <dc:subject>nyomozás</dc:subject>
+        <dc:subject>rejtély</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Agatha Christie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Miss Marple"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-17T20:59:17+00:00"/>
+        <meta name="calibre:title_sort" content="Tizenhárom rejtély"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

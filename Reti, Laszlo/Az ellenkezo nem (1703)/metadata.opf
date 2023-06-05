@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1703</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ba599b5-a683-4892-93a0-21c1869d057b</dc:identifier>
+        <dc:title>Az ellenkező nem</dc:title>
+        <dc:creator opf:file-as="Réti, László" opf:role="aut">Réti, László</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-17T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Végre ​megtudjuk, mit is gondol egy férfi az élet olyan, női szemmel alapvető fontosságú – ám férfiként végtelenül lényegtelen – kérdéseiről, mint a fogyókúra, a női táska, a reformkonyha, vagy éppen a vécédeszka lehajtásának problémaköre. Cserébe azok a hölgyolvasók, akik belevágnak e könyvbe, pótolhatatlan információkat kapnak a férfiak gondolatvilágáról. Higgyék el: párjuk soha nem volt, és nem is lesz önökhöz olyan őszinte, mint ez a könyv… Amennyiben a kedves érdeklődő harcos feminista, kérjük, óvatosan helyezze vissza ezt a könyvet a polcra. Nem vennénk a lelkünkre, ha felizgatná magát a regény olvasása során. A világ már csak úgy van berendezve, hogy a nők lelkével foglalkozik – ez a könyv azonban a férfi szemszögéből közelít a párkapcsolatokhoz, és az írót láthatóan nem izgatta, hogy véleményformálása közben rálép néhány tyúkszemre. Réti László ezen könyvével nem a tőle megszokott realista thrillerrel jelentkezik, hanem könnyedén szórakoztatva vezeti be olvasóit a férfi-nő kapcsolat rejtelmeibe, melynek során szokatlan szókimondással és szarkazmussal boncolgatja azokat a kérdéseket, amelyeket nem szokás kimondani.&lt;br&gt;A könyv ebben a formában e-book-ként jelent meg, amely azonos Marcus Meadow 7. könyvével, melynek eredeti címe: Szex és Szekszárd.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Parfüm &amp; Toll Bt.</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">8e9a20fe-8634-4db9-b8e2-e8d717256a87</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>párkapcsolat</dc:subject>
+        <dc:subject>humor</dc:subject>
+        <dc:subject>szatíra</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Réti, László&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-21T03:52:34.184475+00:00"/>
+        <meta name="calibre:title_sort" content="ellenkező nem, Az"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;MOBI&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

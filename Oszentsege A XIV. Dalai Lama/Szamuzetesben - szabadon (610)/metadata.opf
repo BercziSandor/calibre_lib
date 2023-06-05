@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">610</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">548d732d-7627-4575-bc8b-722383cdf0c8</dc:identifier>
+        <dc:title>Száműzetésben – szabadon</dc:title>
+        <dc:creator opf:file-as="Láma, Őszentsége A XIV. Dalai" opf:role="aut">Őszentsége A XIV. Dalai Láma</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-18T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Ez a szórakoztató könyv a világ egyik legismertebb emberének önéletrajza. Tibet vallási vezetője szellemes, művelt ember, aki „istenné válása” ellenére megmaradt a tibeti parasztember fiának, akinek született. Talán éppen ez a titka annak, hogy mára az egyik legnépszerűbb ember a világon. Gondolatainak, politikai szereplésének, de még vallási tanításainak is egyszerűsége és közvetlensége ad hitelt. Ez a könyv életének részletes és pontos elbeszélése. A filmekből (Hét év Tibetben, Kundun) ismert történeteken kívül arról is olvashatunk, mit gondol a dalai láma a nyugati civilizációról, szexualitásról, gyógyászatról, természetről stb. Külön fejezet szól a buddhista mágiáról és misztikáról.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Írás</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">oszentsege-a-xiv-dalai-lama-szamuzetesben-szabadon</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">bb9fa5b5-1bbf-4686-9ea9-dc7e86d2fec6</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630419536</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>buddhizmus</dc:subject>
+        <dc:subject>életrajz</dc:subject>
+        <dc:subject>emigráció</dc:subject>
+        <dc:subject>India</dc:subject>
+        <dc:subject>kommunizmus</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>menekültek</dc:subject>
+        <dc:subject>politika</dc:subject>
+        <dc:subject>Tibet</dc:subject>
+        <dc:subject>tibeti buddhizmus</dc:subject>
+        <dc:subject>tibeti szerző</dc:subject>
+        <dc:subject>önéletrajz</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Őszentsége A XIV. Dalai Láma&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2014-09-17T07:22:07+00:00"/>
+        <meta name="calibre:title_sort" content="Száműzetésben – szabadon"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
