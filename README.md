@@ -1,2 +1,2 @@
 # calibre_lib
-My ebooks
+[Catalog](./catalog.md)
