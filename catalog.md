@@ -4,10 +4,6 @@
 
 ## Szerzők szerint
 
-### Jan Fennell
-
-- (101) - Kutyapszichológia [details](_details/Jan%20Fennell.md#id_475) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/.caltrash/b/475/Kutyapszichologia%20-%20Jan%20Fennell.epub)
-
 ### A. G. Hawk
 
 - (2015) - Időtlenségbe zárva [details](_details/A.%20G.%20Hawk.md#id_949) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/A.%20G.%20Hawk/Idotlensegbe%20zarva%20%28949%29/Idotlensegbe%20zarva%20-%20A.%20G.%20Hawk.epub)
