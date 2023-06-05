@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a30133e9-4ec7-4e0f-b0b7-bb085c740db2</dc:identifier>
+        <dc:title>Kutyaiskola</dc:title>
+        <dc:creator opf:file-as="Márta, Gácsi &amp; Tamás, Ferenczy" opf:role="aut">Gácsi Márta</dc:creator>
+        <dc:creator opf:file-as="Márta, Gácsi &amp; Tamás, Ferenczy" opf:role="aut">Ferenczy Tamás</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.19.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Gácsi Márta és Ferenczy Tamás mesterkiképzők könyve nem csupán néhány munkakutya speciális kiképzési módszerét tartalmazza, hanem minden fajtára érvényes, hasznos tanácsokat is ad, és a „problémás esetek” kezeléséhez is sok segítséget nyújt. A feladatok megtanítására többféle megoldást találhat az olvasó, így mindenkinek módjában áll kiválasztani a kutyája karakteréhez legjobban illőt.&lt;br&gt;A szerzők éppúgy otthon vannak az őrző-védő sportban, mint az agility pálya „útvesztőiben”. Úgy írják le tapasztalataikat – a megfelelő kölyök kiválasztásától a versenyekre való felkészítésig –, hogy közben mindvégig a kutyák szemszögéből is figyelik és értékelik az eseményeket.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>+</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">gacsi-marta-ferenczy-tamas-kutyaiskola</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>kutya</dc:subject>
+        <meta name="calibre:timestamp" content="2023-06-05T08:53:46.425451+00:00"/>
+        <meta name="calibre:title_sort" content="Kutyaiskola"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

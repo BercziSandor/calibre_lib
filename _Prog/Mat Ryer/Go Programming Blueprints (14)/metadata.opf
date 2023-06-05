@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9956e234-b09a-49da-a3e9-ceafd68bc645</dc:identifier>
+        <dc:title>Go Programming Blueprints</dc:title>
+        <dc:creator opf:file-as="Ryer, Mat" opf:role="aut">Mat Ryer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-22T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h4 style="font-size: medium"&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Learn to apply the nuances of the Go language, and get to know the open source community that surrounds it to implement a wide range of start-up quality projects&lt;/li&gt;
+&lt;li&gt;Write interesting, and clever but simple code, and learn skills and techniques that are directly transferrable to your own projects&lt;/li&gt;
+&lt;li&gt;Discover how to write code capable of delivering massive world-class scale performance and availability&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Dive headfirst into solving actual enterprise problems and start cutting code from the word go. You will build complete applications around a variety of subjects using a range of different technologies and techniques, all of which are directly applicable to today's tech start-up world.&lt;/p&gt;
+&lt;p&gt;Scale, performance, and high availability lie at the heart of the projects, and the lessons learned throughout this book will arm you with everything you need to build world-class solutions. Well-designed applications and sensible architectures can scale horizontally to cope with the demands of up to millions of users, while avoiding the prohibitive up-front investment that can bring a project to its knees.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;What you will Learn&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Build quirky and fun projects from scratch while exploring widely applicable skills, patterns, practices, and techniques, as well as a range of different technologies&lt;/li&gt;
+&lt;li&gt;Create websites and data services capable of massive scale using Go's net/http package, exploring RESTful patterns as well as low-latency WebSocket APIs&lt;/li&gt;
+&lt;li&gt;Interact with a variety of remote web services to consume capabilities ranging from authentication and authorization to a fully functioning thesaurus&lt;/li&gt;
+&lt;li&gt;Develop high-quality command-line tools that utilize the powerful shell capabilities and have great performance using Go's in-built concurrency mechanisms&lt;/li&gt;
+&lt;li&gt;Implement a modern document database as well as high-throughput messaging queue technology to put together an architecture that is truly ready for scale&lt;/li&gt;
+&lt;li&gt;Write concurrent programs and gracefully manage their execution and communication with smart use of channels&lt;/li&gt;&lt;/ul&gt;
+&lt;h4 style="font-size: medium"&gt;About the Author&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Mat Ryer&lt;/strong&gt; has a family legend (or conspiracy) that tells of him programming computers from the age of 6—he and his father would build games and programs, first BASIC on a ZX Spectrum then later AmigaBASIC and AMOS on their Commodore Amiga. Many hours were spent manually copying out code from the Amiga Format magazine, before spending more still tweaking variables or moving GOTO statements around to see what might happen.The same spirit of exploration and obsession with programming led Mat to start work for a local agency in Mansfield, England, when he was 18, where he started to build websites and services. After contracting around London for a few years, coding everything from C# and Objective-C to Ruby and JavaScript, Mat noticed a new systems language called Go that Google was pioneering. Because it addressed very pertinent and relevant modern technical challenges, Mat started using it to solve problems while the language was still in beta and he has used it ever since.&lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;&lt;li&gt;Chat Application With Web Sockets&lt;/li&gt;
+&lt;li&gt;Adding Authentication&lt;/li&gt;
+&lt;li&gt;Three Ways to Implement Profile Pictures&lt;/li&gt;
+&lt;li&gt;Command-Line Tools to Find Domain Names&lt;/li&gt;
+&lt;li&gt;Building Distributed Systems and Working with Flexible Data&lt;/li&gt;
+&lt;li&gt;Exposing Data and Functionality Through a Restful Data Web Service Api&lt;/li&gt;
+&lt;li&gt;Random Recommendations Web Service&lt;/li&gt;
+&lt;li&gt;Filesystem Backup&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;Mat Ryer&lt;/p&gt;
+&lt;p&gt;Mat Ryer has a family legend (or conspiracy) that tells of him programming computers from the age of 6 he and his father would build games and programs, first BASIC on a ZX Spectrum then later AmigaBASIC and AMOS on their Commodore Amiga. Many hours were spent manually copying out code from the Amiga Format magazine, before spending more still tweaking variables or moving GOTO statements around to see what might happen. The same spirit of exploration and obsession with programming led Mat to start work for a local agency in Mansfield, England, when he was 18, where he started to build websites and services. In 2006, Mat's wife, Laurie, took a job at the Science Museum in London, and so they both left rural Nottinghamshire for the big city, where Mat took a job at BT. It was here that he worked with a talented group of developers and managers on honing agile development skills and developing a light flavor that he still uses today. After contracting around London for a few years, coding everything from C# and Objective-C to Ruby and JavaScript, Mat noticed a new systems language called Go that Google was pioneering. Because it addressed very pertinent and relevant modern technical challenges, Mat started using it to solve problems while the language was still in beta and he has used it ever since. In 2012, Mat and Laurie left England to live in Boulder, Colorado, where Mat works on a variety of projects, from big data web services and highly available systems to small side projects and charitable endeavors.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781783988020</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1783988029</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">32902495</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">15XcDgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
+        <dc:subject>Go</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mat Ryer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-12-20T08:22:26.993911+00:00"/>
+        <meta name="calibre:title_sort" content="Go Programming Blueprints"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;PDF&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

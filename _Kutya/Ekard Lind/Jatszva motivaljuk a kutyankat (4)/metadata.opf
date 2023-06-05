@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ca282df-7c87-484d-9139-bf757b7f4a5a</dc:identifier>
+        <dc:title>Játszva motiváljuk a kutyánkat</dc:title>
+        <dc:creator opf:file-as="Lind, Ekard" opf:role="aut">Ekard Lind</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.19.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A könyvet nem csak nagy lelkesedéssel fogadták, hanem a professzionális kutyakiképzés terén valodi forradalmat okozott. A motiváció és ,játék gyakorlatba való átültetéséhez a kötet értékes, praktikus útmutatót nyújt. A könyvben a tapasztalat jut érvényre, amelyet a szerző előadásai és szemináriumai alatt, sok kutya megfigyelésével szerzett. A szerző célja, hogy fokozatosan közelebb hozza az eredményes játékhoz szükséges fantáziát, intelligenciát és nem utolsó sorban a technikai fogásokat.. A játék során mindig szem előtt kell tartani a lehetőségek sokaságát, a gazda, illetve a kutya egyéniségét. A „Játszva motiváljuk kutyánkat" című könyv gazdag illusztrációval és egyedülálló felvételekkel ideális kiegészítőanyagként szolgál azoknak a gyakorló kutyatartóknak, akik „boldog" kutyát szeretnének társnak.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>+</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">ekard-lind-jatszva-motivaljuk-a-kutyankat</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>kutya</dc:subject>
+        <meta name="calibre:timestamp" content="2023-06-05T08:49:45.535752+00:00"/>
+        <meta name="calibre:title_sort" content="Játszva motiváljuk a kutyánkat"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
