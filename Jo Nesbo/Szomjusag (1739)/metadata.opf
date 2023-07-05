@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1739</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">996591e7-2cef-439d-ab68-a79b47bffdf8</dc:identifier>
+        <dc:title>Szomjúság</dc:title>
+        <dc:creator opf:file-as="Nesbø, Jo" opf:role="aut">Jo Nesbø</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-18T22:00:00+00:00</dc:date>
+        <dc:description>Harry Hole három éve visszavonult a nyomozói munkától, a rendőrtiszti főiskolán tanít, kiegyensúlyozott életet él. Ám a boldogság vékony jég, amely bármikor beszakadhat az ember lába alatt… Amikor egy fiatal nőt brutálisan meggyilkolnak a fővárosban, Mikael Bellman rendőrfőkapitány személyes okokból Harry segítségét kéri. Hamarosan újabb hasonló gyilkosság történik, Harry pedig – sutba dobva élete szerelmének és önmagának tett ígéretét – beleveti magát a munkába. Mindössze két nyom van, amelyen elindulhatnak: az első áldozat nyakán lévő sebekben talált rozsda- és festékmaradványok, valamint a tény, hogy mindkét nő társkereső oldalak rendszeres látogatója volt. Harry azonban valami mást is lát. Valamit, ami megragadja a figyelmét, és arra ösztökéli, hogy mit sem törődve a kockázattal újra a nyomába eredjen a gyilkosnak, aki egyszer már túljárt az eszén…</dc:description>
+        <dc:publisher>Animus Kiadó</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">6e9c96b3-28d2-46ff-b522-963b8b2e3fee</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Skandináv krimik</dc:subject>
+        <dc:subject>skandináv</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <meta name="calibre:series" content="Harry Hole"/>
+        <meta name="calibre:series_index" content="11"/>
+        <meta name="calibre:timestamp" content="2023-07-05T09:35:47.205588+00:00"/>
+        <meta name="calibre:title_sort" content="Szomjusag_Jo_Nesbo"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

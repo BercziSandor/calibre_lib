@@ -4,6 +4,40 @@
 
 ## Szerzők szerint
 
+### Jo Nesbø
+
+Sorozatok:
+
+Harry Hole:
+
+- 1 (2020) - Denevérember [részletek](_details/Jo%20Nesb%C3%B8.md#id_581) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Deneverember%20%28581%29/Deneverember%20-%20Jo%20Nesbo.epub)
+- 2 (2017) - Csótányok [részletek](_details/Jo%20Nesb%C3%B8.md#id_577) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Csotanyok%20%28577%29/Csotanyok%20-%20Jo%20Nesbo.epub)
+- 3 (2012) - Vörösbegy [részletek](_details/Jo%20Nesb%C3%B8.md#id_1742) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Vorosbegy%20%281742%29/Vorosbegy%20-%20Jo%20Nesbo.epub)
+- 4 (2019) - Nemeszisz [részletek](_details/Jo%20Nesb%C3%B8.md#id_410) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Nemeszisz%20%28410%29/Nemeszisz%20-%20Jo%20Nesbo.epub)
+- 5 (2019) - Boszorkányszög [részletek](_details/Jo%20Nesb%C3%B8.md#id_412) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Boszorkanyszog%20%28412%29/Boszorkanyszog%20-%20Jo%20Nesbo.epub)
+- 6 (2019) - A megváltó [részletek](_details/Jo%20Nesb%C3%B8.md#id_592) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20megvalto%20%28592%29/A%20megvalto%20-%20Jo%20Nesbo.epub)
+- 7 (2019) - Hóember [részletek](_details/Jo%20Nesb%C3%B8.md#id_582) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Hoember%20%28582%29/Hoember%20-%20Jo%20Nesbo.epub)
+- 8 (2019) - Leopárd [részletek](_details/Jo%20Nesb%C3%B8.md#id_580) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Leopard%20%28580%29/Leopard%20-%20Jo%20Nesbo.epub)
+- 9 (2019) - Kísértet [részletek](_details/Jo%20Nesb%C3%B8.md#id_591) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Kisertet%20%28591%29/Kisertet%20-%20Jo%20Nesbo.epub)
+- 10 (2013) - Police [részletek](_details/Jo%20Nesb%C3%B8.md#id_578) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Police%20%28578%29/Police%20-%20Jo%20Nesbo.epub)
+- 11 (2017) - Szomjúság [részletek](_details/Jo%20Nesb%C3%B8.md#id_1739) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Szomjusag%20%281739%29/Szomjusag%20-%20Jo%20Nesbo.epub)
+- 12 (2019) - KÉS [részletek](_details/Jo%20Nesb%C3%B8.md#id_1740) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/KES%20%281740%29/KES%20-%20Jo%20Nesbo.epub)
+
+Vér a havon:
+
+- 1 (2015) - Vér a havon [részletek](_details/Jo%20Nesb%C3%B8.md#id_1736) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Ver%20a%20havon%20%281736%29/Ver%20a%20havon%20-%20Jo%20Nesbo.epub)
+- 2 (2015) - Fehér éjszaka [részletek](_details/Jo%20Nesb%C3%B8.md#id_978) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Feher%20ejszaka%20%28978%29/Feher%20ejszaka%20-%20Jo%20Nesbo.epub)
+
+Egyéb könyvek:
+
+- (101) - A fiú [details](_details/Jo%20Nesb%C3%B8.md#id_1741) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20fiu%20%281741%29/A%20fiu%20-%20Jo%20Nesbo.epub)
+- (101) - A nagy aranyrablás [details](_details/Jo%20Nesb%C3%B8.md#id_1705) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20nagy%20aranyrablas%20%281705%29/A%20nagy%20aranyrablas%20-%20Jo%20Nesbo.epub)
+- (2015) - Fehér éjszaka [details](_details/Jo%20Nesb%C3%B8.md#id_1743) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Feher%20ejszaka%20%281743%29/Feher%20ejszaka%20-%20Jo%20Nesbo.epub)
+- (2018) - Macbeth [details](_details/Jo%20Nesb%C3%B8.md#id_1738) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Macbeth%20%281738%29/Macbeth%20-%20Jo%20Nesbo.epub)
+- (2019) - Fejvadászok [details](_details/Jo%20Nesb%C3%B8.md#id_411) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Fejvadaszok%20%28411%29/Fejvadaszok%20-%20Jo%20Nesbo.epub)
+- (2020) - A birodalom [details](_details/Jo%20Nesb%C3%B8.md#id_1735) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20birodalom%20%281735%29/A%20birodalom%20-%20Jo%20Nesbo.epub)
+- (2021) - A FÉLTÉKENYSÉG-SZAKÉRTŐ és más történetek [details](_details/Jo%20Nesb%C3%B8.md#id_1737) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20FELTEKENYSEG-SZAKERTO%20es%20mas%20tort%20%281737%29/A%20FELTEKENYSEG-SZAKERTO%20es%20mas%20-%20Jo%20Nesbo.epub)
+
 ### A. G. Hawk
 
 - (2015) - Időtlenségbe zárva [details](_details/A.%20G.%20Hawk.md#id_949) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/A.%20G.%20Hawk/Idotlensegbe%20zarva%20%28949%29/Idotlensegbe%20zarva%20-%20A.%20G.%20Hawk.epub)
@@ -1625,32 +1659,6 @@ Dexter:
 ### Jill Bolte Taylor
 
 - (2016) - Mennybe döngölve [details](_details/Jill%20Bolte%20Taylor.md#id_1721) [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Jill%20Bolte%20Taylor/Mennybe%20dongolve%20%281721%29/Mennybe%20dongolve%20-%20Jill%20Bolte%20Taylor.pdf)
-
-### Jo Nesbø
-
-Sorozatok:
-
-Harry Hole:
-
-- 1 (2020) - Denevérember [részletek](_details/Jo%20Nesb%C3%B8.md#id_581) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Deneverember%20%28581%29/Deneverember%20-%20Jo%20Nesbo.epub)
-- 2 (2017) - Csótányok [részletek](_details/Jo%20Nesb%C3%B8.md#id_577) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Csotanyok%20%28577%29/Csotanyok%20-%20Jo%20Nesbo.epub)
-- 3 (2019) - Vörösbegy [részletek](_details/Jo%20Nesb%C3%B8.md#id_579) [prc](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Vorosbegy%20%28579%29/Vorosbegy%20-%20Jo%20Nesbo.prc)
-- 4 (2019) - Nemeszisz [részletek](_details/Jo%20Nesb%C3%B8.md#id_410) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Nemeszisz%20%28410%29/Nemeszisz%20-%20Jo%20Nesbo.epub)
-- 5 (2019) - Boszorkányszög [részletek](_details/Jo%20Nesb%C3%B8.md#id_412) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Boszorkanyszog%20%28412%29/Boszorkanyszog%20-%20Jo%20Nesbo.epub)
-- 6 (2019) - A megváltó [részletek](_details/Jo%20Nesb%C3%B8.md#id_592) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20megvalto%20%28592%29/A%20megvalto%20-%20Jo%20Nesbo.epub)
-- 7 (2019) - Hóember [részletek](_details/Jo%20Nesb%C3%B8.md#id_582) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Hoember%20%28582%29/Hoember%20-%20Jo%20Nesbo.epub)
-- 8 (2019) - Leopárd [részletek](_details/Jo%20Nesb%C3%B8.md#id_580) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Leopard%20%28580%29/Leopard%20-%20Jo%20Nesbo.epub)
-- 9 (2019) - Kísértet [részletek](_details/Jo%20Nesb%C3%B8.md#id_591) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Kisertet%20%28591%29/Kisertet%20-%20Jo%20Nesbo.epub)
-- 10 (2013) - Police [részletek](_details/Jo%20Nesb%C3%B8.md#id_578) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Police%20%28578%29/Police%20-%20Jo%20Nesbo.epub)
-
-Vér a havon:
-
-- 2 (2015) - Fehér éjszaka [részletek](_details/Jo%20Nesb%C3%B8.md#id_978) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Feher%20ejszaka%20%28978%29/Feher%20ejszaka%20-%20Jo%20Nesbo.epub)
-
-Egyéb könyvek:
-
-- (101) - A nagy aranyrablás [details](_details/Jo%20Nesb%C3%B8.md#id_1705) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20nagy%20aranyrablas%20%281705%29/A%20nagy%20aranyrablas%20-%20Jo%20Nesbo.epub)
-- (2019) - Fejvadászok [details](_details/Jo%20Nesb%C3%B8.md#id_411) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Fejvadaszok%20%28411%29/Fejvadaszok%20-%20Jo%20Nesbo.epub)
 
 ### Joanne Fluke
 
@@ -3452,3 +3460,21 @@ A háború katonái:
 
 - (2002) - Life of Pi [details](_details/Yann%20Martel.md#id_1526) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yann%20Martel/Life%20of%20Pi%20%281526%29/Life%20of%20Pi%20-%20Yann%20Martel.epub)
 - (2014) - Pi élete [details](_details/Yann%20Martel.md#id_1458) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yann%20Martel/Pi%20elete%20%281458%29/Pi%20elete%20-%20Yann%20Martel.epub)
+
+### Yrsa Sigurðardóttir
+
+Sorozatok:
+
+Freyja & Huldar:
+
+- 1 (2017) - Gének [részletek](_details/Yrsa%20Sigur%C3%B0ard%C3%B3ttir.md#id_1731) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/Genek%20%281731%29/Genek%20-%20Yrsa%20Sigurdardottir.epub)
+- 2 (101) - Örvény [részletek](_details/Yrsa%20Sigur%C3%B0ard%C3%B3ttir.md#id_1732) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/Orveny%20%281732%29/Orveny%20-%20Yrsa%20Sigurdardottir.epub)
+- 3 (2019) - Exit [részletek](_details/Yrsa%20Sigur%C3%B0ard%C3%B3ttir.md#id_1728) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/Exit%20%281728%29/Exit%20-%20Yrsa%20Sigurdardottir.epub)
+- 4 (2021) - Vesztőhely [részletek](_details/Yrsa%20Sigur%C3%B0ard%C3%B3ttir.md#id_1733) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/Vesztohely%20%281733%29/Vesztohely%20-%20Yrsa%20Sigurdardottir.epub)
+- 5 (2017) - A baba [részletek](_details/Yrsa%20Sigur%C3%B0ard%C3%B3ttir.md#id_1729) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/A%20baba%20%281729%29/A%20baba%20-%20Yrsa%20Sigurdardottir.epub)
+- 6 (2023) - Csend [részletek](_details/Yrsa%20Sigur%C3%B0ard%C3%B3ttir.md#id_1730) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/Csend%20%281730%29/Csend%20-%20Yrsa%20Sigurdardottir.epub)
+
+Egyéb könyvek:
+
+- (101) - Az utolsó rítus [details](_details/Yrsa%20Sigur%C3%B0ard%C3%B3ttir.md#id_1734) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/Az%20utolso%20ritus%20%281734%29/Az%20utolso%20ritus%20-%20Yrsa%20Sigurdardottir.epub)
+- (2014) - Emlékszem ​rád [details](_details/Yrsa%20Sigur%C3%B0ard%C3%B3ttir.md#id_1727) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/Emlekszem%20%20rad%20%281727%29/Emlekszem%20%20rad%20-%20Yrsa%20Sigurdardottir.epub)

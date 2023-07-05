@@ -25,17 +25,17 @@ norvég szerző, irodalom, thriller, skandináv, rejtély, pedofília, nyomozás
 Harry Holét, a norvég rendőrség legellentmondásosabb figuráját Thaiföldre küldik, hogy végére járjon egy kínos gyilkossági ügynek. Az áldozat a norvég nagykövet, akit azelőtt szúrtak le, hogy a prostituált, akit a motelszobájába rendelt, megérkezett volna hozzá. Ráadásul kisfiúkat ábrázoló pornográf képeket találnak a holmija között. A megölt férfi nem egyszerű diplomata, jó barátja a norvég miniszterelnöknek. Nem meglepő tehát, hogy Harrytől és bangkoki segítőitől gyors és diszkrét munkát várnak. Szerencsejáték-adósság, korrupció, helyi gengszterek és kigyúrt csatlósaik, szexuális perverziók, ráadásul a trópusi hőség, a kultúrsokk, no meg az örökös harc az alkohol ellen adják azt a méregerős koktélt, amelyet Harrynek fenékig kell ürítenie.
 
 
-# <a name="id_579">Jo Nesbø: Vörösbegy (Harry Hole 3) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Vorosbegy%20%28579%29/cover.jpg" alt="cover" width="300"/>
+# <a name="id_1742">Jo Nesbø: Vörösbegy (Harry Hole 3) (2012)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Vorosbegy%20%281742%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[prc](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Vorosbegy%20%28579%29/Vorosbegy%20-%20Jo%20Nesbo.prc)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Vorosbegy%20%281742%29/Vorosbegy%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
-norvég szerző, rendőr, thriller, skandináv, kortárs, gyilkosság, skandinávia, nyomozás, hardboiled krimi, regény, misztikus, noir irodalom, detektívtörténet, 2. világháború, magyar nyelvű, krimi, 21. század, sorozat része, oslo, férfi főszereplő
+akció, bűnügyi, krimi, skandináv
 
 ### Összefoglalás
-Harry Hole nyomozó egy ritka ügyletről szerez tudomást: valaki egy különleges, nagy hatóerejű, Märklin márkájú puskát rendelt. Mind kiderül, a megrendelő egy nyolcvanhoz közeledő férfi, aki a második világháború idején a németek mellett harcolt a keleti fronton. Gyilkosság, bosszú, árulás… Aggastyán korú nemzetiszocialisták és fiatal neonácik… A második világháború keleti frontja és a modern Oslo… Egykori frontharcos átvágott torokkal…Több, időben és térben egymástól messze eső történés vezeti el a sokszor önmaga gyengeségeivel is megküzdeni kénytelen nyomozót egy vakmerő merényletet tervezőjének leleplezéséhez. Csak Norvégiában több, mint 100.000 példányban kelt el!
+<P>Harry Hole nyomozó egy ritka ügyletről szerez tudomást: valaki egy különleges, nagy hatóerejű, Märklin márkájú puskát rendelt. Mind kiderül, a megrendelő egy nyolcvanhoz közeledő férfi, aki a második világháború idején a németek mellett harcolt a keleti fronton. Gyilkosság, bosszú, árulás… Aggastyán korú nemzetiszocialisták és fiatal neonácik… A második világháború keleti frontja és a modern Oslo… Egykori frontharcos átvágott torokkal…Több, időben és térben egymástól messze eső történés vezeti el a sokszor önmaga gyengeségeivel is megküzdeni kénytelen nyomozót egy vakmerő merényletet tervezőjének leleplezéséhez.</P>
 
 
 # <a name="id_410">Jo Nesbø: Nemeszisz (Harry Hole 4) (2019)</a>
@@ -134,6 +134,47 @@ Nyár. ​Harangzúgás. Egy fiú, Gusto, a konyha padlóján fekszik egy vért�
 <p>The victims are carefully chosen. The locations former crime scenes. The killings no accident. The target: police. After recovering from a near fatal shooting, Harry Hole has finally retired from active duty. He hears about the case but keeps his distance, determined to protect those he loves from the danger that he can never seem to escape. But as the media pressure intensifies, Harry finds himself advising an unofficial task force investigating the murders. Drawn into a dangerous web of cold cases and precarious allegiances, Harry can’t guarantee protection for anyone. Least of all himself.</p></div>
 
 
+# <a name="id_1739">Jo Nesbø: Szomjúság (Harry Hole 11) (2017)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Szomjusag%20%281739%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Szomjusag%20%281739%29/Szomjusag%20-%20Jo%20Nesbo.epub)
+
+### Tagek
+skandináv krimik, skandináv, krimi
+
+### Összefoglalás
+Harry Hole három éve visszavonult a nyomozói munkától, a rendőrtiszti főiskolán tanít, kiegyensúlyozott életet él. Ám a boldogság vékony jég, amely bármikor beszakadhat az ember lába alatt… Amikor egy fiatal nőt brutálisan meggyilkolnak a fővárosban, Mikael Bellman rendőrfőkapitány személyes okokból Harry segítségét kéri. Hamarosan újabb hasonló gyilkosság történik, Harry pedig – sutba dobva élete szerelmének és önmagának tett ígéretét – beleveti magát a munkába. Mindössze két nyom van, amelyen elindulhatnak: az első áldozat nyakán lévő sebekben talált rozsda- és festékmaradványok, valamint a tény, hogy mindkét nő társkereső oldalak rendszeres látogatója volt. Harry azonban valami mást is lát. Valamit, ami megragadja a figyelmét, és arra ösztökéli, hogy mit sem törődve a kockázattal újra a nyomába eredjen a gyilkosnak, aki egyszer már túljárt az eszén…
+
+
+# <a name="id_1740">Jo Nesbø: KÉS (Harry Hole 12) (2019)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/KES%20%281740%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/KES%20%281740%29/KES%20-%20Jo%20Nesbo.epub)
+
+### Tagek
+skandináv krimik, skandináv, krimi
+
+### Összefoglalás
+Harry Hole nincs jó bőrben. Élete minden szempontból kudarcba fulladt, ismét iszik, a főiskolai állásából is szélnek eresztették. Ugyan esélyt kapott az újrakezdésre az oslói rendőrség döglött aktákkal foglalkozó osztályán, de másra sem vágyik, mint hogy azokban az ügyekben nyomozzon, amelyek gyanúja szerint Svein Finnéhez, a sorozatos erőszaktevőhöz és gyilkoshoz köthetők, akit ő juttatott rács mögé.
+
+Amikor Harry egy részeg éjszakán bekövetkezett filmszakadás után reggel felébred, a keze és a ruhája csupa vér. Ez jelenti a kezdetét annak a rémálomnak, ami még rá vár, és amihez foghatót elképzelni sem tudott volna.
+
+
+# <a name="id_1736">Jo Nesbø: Vér a havon (Vér a havon 1) (2015)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Ver%20a%20havon%20%281736%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Ver%20a%20havon%20%281736%29/Ver%20a%20havon%20-%20Jo%20Nesbo.epub)
+
+### Tagek
+skandináv krimik, skandináv, krimi
+
+### Összefoglalás
+Olav furcsa figura, nemigen mer közeledni másokhoz. Gyermekkora óta falja a könyveket, amiben diszlexiája sem gátolja meg. Maga is azt állítja, hogy egyetlen dolgot leszámítva mindenre teljesen alkalmatlan. Ez az egy dolog pedig az emberölés. Mint a bérgyilkosok általában, ő is magányos életet él, csupán Maria, a siketnéma, sánta boltoslány iránt táplál plátói érzelmeket. Egy nap azonban végre fordul a kocka, s megpillantja álmai asszonyát. Csak két gond van. A nő a főnöke felesége. És Olav aktuális feladata éppen az, hogy végezzen vele.
+
+
 # <a name="id_978">Jo Nesbø: Fehér éjszaka (Vér a havon 2) (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Feher%20ejszaka%20%28978%29/cover.jpg" alt="cover" width="300"/>
 
@@ -147,6 +188,15 @@ thrillers, fiction, skandináv, krimi, crime
 Vajon akkor kezdődött ez a történet, amikor rájöttem, hogy csak a negyedik legjobb focista vagyok az osztályban? – teszi fel magának a kérdést Jon, aki szerény drogüzletét feladva kénytelen elszegődni a Halászhoz, az oslói drogbáróhoz. Sikeres is behajtóként, hiszen elegendő, ha csak kiejti az alvilág nagy hatalmú urának nevét, és az adósok azonnal fizetnek. Egy napon azonban a Halász olyasvalamit kér, amit Jon már nem teljesít, sőt átveri és meglopja megbízóját. A megtorlás elől egészen egy isten háta mögötti kis lappföldi faluig menekül, ahol nyáron nem nyugszik le a nap. Egy elhagyatott vadászkunyhóban húzza meg magát, ahol a kínzó emlékek, a magány és a fehér éjszakák lassan az őrületbe kergetik. És a Halász emberei közelednek. A bujdosó jól tudja: ha nem akarja, hogy elkapják, olyan kiszámíthatatlannak kell lennie, hogy maga se tudja, mi lesz a következő lépése.
 
 
+# <a name="id_1741">Jo Nesbø: A fiú </a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20fiu%20%281741%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20fiu%20%281741%29/A%20fiu%20-%20Jo%20Nesbo.epub)
+
+### Tagek
+skandináv, krimi, skandináv krimik
+
 # <a name="id_1705">Jo Nesbø: A nagy aranyrablás </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20nagy%20aranyrablas%20%281705%29/cover.jpg" alt="cover" width="300"/>
 
@@ -159,6 +209,28 @@ Vajon akkor kezdődött ez a történet, amikor rájöttem, hogy csak a negyedik
 <p> </p></div>
 
 
+# <a name="id_1743">Jo Nesbø: Fehér éjszaka (2015)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Feher%20ejszaka%20%281743%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Feher%20ejszaka%20%281743%29/Feher%20ejszaka%20-%20Jo%20Nesbo.epub)
+
+### Tagek
+skandináv krimik, skandináv, krimi
+
+### Összefoglalás
+Vajon akkor kezdődött ez a történet, amikor rájöttem, hogy csak a negyedik legjobb focista vagyok az osztályban? – teszi fel magának a kérdést Jon, aki szerény drogüzletét feladva kénytelen elszegődni a Halászhoz, az oslói drogbáróhoz. Sikeres is behajtóként, hiszen elegendő, ha csak kiejti az alvilág nagy hatalmú urának nevét, és az adósok azonnal fizetnek. Egy napon azonban a Halász olyasvalamit kér, amit Jon már nem teljesít, sőt átveri és meglopja megbízóját. A megtorlás elől egészen egy isten háta mögötti kis lappföldi faluig menekül, ahol nyáron nem nyugszik le a nap. Egy elhagyatott vadászkunyhóban húzza meg magát, ahol a kínzó emlékek, a magány és a fehér éjszakák lassan az őrületbe kergetik. És a Halász emberei közelednek. A bujdosó jól tudja: ha nem akarja, hogy elkapják, olyan kiszámíthatatlannak kell lennie, hogy maga se tudja, mi lesz a következő lépése.
+
+
+# <a name="id_1738">Jo Nesbø: Macbeth (2018)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Macbeth%20%281738%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Macbeth%20%281738%29/Macbeth%20-%20Jo%20Nesbo.epub)
+
+### Tagek
+skandináv, krimi, skandináv krimik
+
 # <a name="id_411">Jo Nesbø: Fejvadászok (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Fejvadaszok%20%28411%29/cover.jpg" alt="cover" width="300"/>
 
@@ -170,5 +242,27 @@ norvég szerző, norvégia, thriller, skandináv, regény, magyar nyelvű, kort�
 
 ### Összefoglalás
 Roger Brown igazán a szerencse fiának tűnik: ő Norvégia legsikeresebb fejvadásza, gyönyörű feleségével egy pompás házban élnek. Ám a luxus életmódot Roger műkincstolvajként igyekszik bebiztosítani, s „mellékállásában” igen ügyesnek bizonyul. Amikor felesége galériájában megismerkedik valakivel – aki egyrészt tökéletes jelölt az egyik általa kínált magas állásra, másrészt a művészettörténet egyik legkeresettebb képének a tulajdonosa – Roger úgy érzi, élete nagy lehetősége köszöntött rá. Készülni kezd eddigi legmerészebb betörésére. Ám a vadászból csakhamar vad lesz, üldözöttje egy rémálomba illő ellenfélnek.
+
+
+# <a name="id_1735">Jo Nesbø: A birodalom (2020)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20birodalom%20%281735%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20birodalom%20%281735%29/A%20birodalom%20-%20Jo%20Nesbo.epub)
+
+### Tagek
+skandináv, krimi, skandináv krimik
+
+# <a name="id_1737">Jo Nesbø: A FÉLTÉKENYSÉG-SZAKÉRTŐ és más történetek (2021)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20FELTEKENYSEG-SZAKERTO%20es%20mas%20tort%20%281737%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20FELTEKENYSEG-SZAKERTO%20es%20mas%20tort%20%281737%29/A%20FELTEKENYSEG-SZAKERTO%20es%20mas%20-%20Jo%20Nesbo.epub)
+
+### Tagek
+skandináv, krimi, skandináv krimik
+
+### Összefoglalás
+Egy fiatal nő az ablaknak fordulva zokog magában a repülőgép első osztályán. Egy író a színpad mellett várakozik, hogy kilépjen a reflektorfénybe. Egy kukás másnaposan indul dolgozni. Egy taxisofőr tűnődve nézi az autójában felejtett fél pár fülbevalót. Egy görög nyomozó megérkezik a tengertől elzárt kis szigetre, hogy felderítsen egy gyanús eltűnési ügyet. Hogy mi a közös bennük? Mindannyiuk történetének fonala az egyik legerősebb emberi érzelem, a féltékenység köré fonódik. Elszenvedik vagy okozzák, belehalnak vagy túlélik, ölnek miatta, vagy áldozatául esnek - mindez kiderül a kötet hét kriminovellájából, amelyek büszkén foglalhatják el helyüket a szerző életművében.
 
 

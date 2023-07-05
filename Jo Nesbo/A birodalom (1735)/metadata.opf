@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1735</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30a6aa7e-5dde-447b-a5e9-89b21bb84855</dc:identifier>
+        <dc:title>A birodalom</dc:title>
+        <dc:creator opf:file-as="Nesbø, Jo" opf:role="aut">Jo Nesbø</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-24T22:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">b1478f0a-56c6-4e23-b74e-ed722c4e7c6a</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>skandináv</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>Skandináv krimik</dc:subject>
+        <meta name="calibre:timestamp" content="2023-07-05T09:35:46.968721+00:00"/>
+        <meta name="calibre:title_sort" content="birodalom, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;MOBI&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

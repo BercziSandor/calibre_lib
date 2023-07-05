@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1727</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f29b54c-3af6-4c4c-8c4a-2cb6ad58a31e</dc:identifier>
+        <dc:title>Emlékszem ​rád</dc:title>
+        <dc:creator opf:file-as="Sigurðardóttir, Yrsa" opf:role="aut">Yrsa Sigurðardóttir</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-06T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Három reykjavíki fiatal érkezik a világvégi, lakatlan Hesteyri faluba, hogy felújítsanak és vendégházzá alakítsanak egy régi épületet. Az új lakók már kezdettől fogva úgy érzik, mintha nem lennének egyedül: különös hangokat hallanak, ráadásul egy-két nap után olyan dolgok jelennek meg a ház körül, amelyeket nem ők vittek oda, beleértve két keresztet is a helyi temetőből. Eközben a fjord túlpartján lévő városkában meglepő esethez riasztják a rendőrséget: valaki minden látható ok nélkül betört a helyi óvodába, és teljesen feldúlta azt. Megtudják, hogy ugyanez ugyanitt megesett már egyszer, valamikor az ötvenes években. Az esethez kiküldött rendőrnő a frissen a városba érkezett pszichiáter, Freyr segítségét kéri, aki válását és fia eltűnését próbálja kiheverni a nyugalmasnak tűnő környéken. Ám kisvártatva újabb dolguk akad: egy környékbeli faluban öngyilkos lesz egy asszony. S ami a legkülönösebb, búcsúlevelében feltűnik Freyr eltűnt fiának neve.&lt;/p&gt;</dc:description>
+        <dc:publisher>L:J:</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789633242742</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>izlandi</dc:subject>
+        <dc:subject>halál</dc:subject>
+        <dc:subject>skandináv</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <meta name="calibre:timestamp" content="2023-07-05T09:20:09.622643+00:00"/>
+        <meta name="calibre:title_sort" content="Emlékszem ​rád"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

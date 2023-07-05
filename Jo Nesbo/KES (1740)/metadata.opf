@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1740</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd312c0a-2635-482c-84f7-3d57903cfd94</dc:identifier>
+        <dc:title>KÉS</dc:title>
+        <dc:creator opf:file-as="Nesbø, Jo" opf:role="aut">Jo Nesbø</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-28T14:37:05+00:00</dc:date>
+        <dc:description>Harry Hole nincs jó bőrben. Élete minden szempontból kudarcba fulladt, ismét iszik, a főiskolai állásából is szélnek eresztették. Ugyan esélyt kapott az újrakezdésre az oslói rendőrség döglött aktákkal foglalkozó osztályán, de másra sem vágyik, mint hogy azokban az ügyekben nyomozzon, amelyek gyanúja szerint Svein Finnéhez, a sorozatos erőszaktevőhöz és gyilkoshoz köthetők, akit ő juttatott rács mögé.
+
+Amikor Harry egy részeg éjszakán bekövetkezett filmszakadás után reggel felébred, a keze és a ruhája csupa vér. Ez jelenti a kezdetét annak a rémálomnak, ami még rá vár, és amihez foghatót elképzelni sem tudott volna.</dc:description>
+        <dc:publisher>Central Kiadói Csoport</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">aa4d2ce9-3a16-4926-8641-02803b52a461</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Skandináv krimik</dc:subject>
+        <dc:subject>skandináv</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <meta name="calibre:series" content="Harry Hole"/>
+        <meta name="calibre:series_index" content="12"/>
+        <meta name="calibre:timestamp" content="2023-07-05T09:35:47.271594+00:00"/>
+        <meta name="calibre:title_sort" content="KÉS"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
