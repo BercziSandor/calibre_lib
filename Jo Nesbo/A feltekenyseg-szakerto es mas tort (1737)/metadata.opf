@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1737</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9bf52540-c6c5-4145-a095-a811db51caea</dc:identifier>
+        <dc:title>A féltékenység-szakértő és más történetek</dc:title>
+        <dc:creator opf:file-as="Nesbø, Jo" opf:role="aut">Jo Nesbø</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-04T22:00:00+00:00</dc:date>
+        <dc:description>Egy fiatal nő az ablaknak fordulva zokog magában a repülőgép első osztályán. Egy író a színpad mellett várakozik, hogy kilépjen a reflektorfénybe. Egy kukás másnaposan indul dolgozni. Egy taxisofőr tűnődve nézi az autójában felejtett fél pár fülbevalót. Egy görög nyomozó megérkezik a tengertől elzárt kis szigetre, hogy felderítsen egy gyanús eltűnési ügyet. Hogy mi a közös bennük? Mindannyiuk történetének fonala az egyik legerősebb emberi érzelem, a féltékenység köré fonódik. Elszenvedik vagy okozzák, belehalnak vagy túlélik, ölnek miatta, vagy áldozatául esnek - mindez kiderül a kötet hét kriminovellájából, amelyek büszkén foglalhatják el helyüket a szerző életművében.</dc:description>
+        <dc:publisher>Central Kiadói Csoport</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789633249130</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">6c18d1e9-a2db-47c4-bf44-612760b8b900</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>skandináv</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>Skandináv krimik</dc:subject>
+        <meta name="calibre:timestamp" content="2023-07-05T09:35:47+00:00"/>
+        <meta name="calibre:title_sort" content="féltékenység-szakértő és más történetek, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
