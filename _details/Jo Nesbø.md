@@ -1,3 +1,15 @@
+# <a name="id_1705">Jo Nesbø: A nagy aranyrablás (Doktor Proktor Pukipora 4) (2012)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20nagy%20aranyrablas%20%281705%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20nagy%20aranyrablas%20%281705%29/A%20nagy%20aranyrablas%20-%20Jo%20Nesbo.epub)
+
+### Összefoglalás
+<div>
+<p>Amikor egy orosz milliárdos elrabolja Norvégia aranytartalékát, és a maradék aranyrudat is beolvasztja a Premier Foci Liga kupájába, Doktor Proktorra, Bullére és Lisére vár, hogy megszerezze az utolsó bizonyítékot, és megmentse Norvégiát. <br>De mivel a milliárdos aranyolvasztó laboratóriumába nem sikerül bejutniuk, csak úgy tudják megkaparintani a kupát ha visszanyerik! Remélve, hogy elkerülhetik a nemzeti pánikot, Bulle és Lise csatlakozik egy focicsapathoz és beveti a pukipor erejét is. Talán Doktor Proktor újabb félresikerült találmányaival sikerül győzelemre vinniük ezt a kutyaütő csapatot, mielőtt késő lesz <br><br>A világhírű skandináv krimiíró Doktor Proktor-sorozatát már több mint 20 nyelvre fordították le. A főszereplők fergeteges kalandjait elképesztő fordulatok, abszurd humor és a Nesbo-féle különleges atmoszféra teszi feledhetetlenné. </p>
+<p> </p></div>
+
+
 # <a name="id_581">Jo Nesbø: Denevérember (Harry Hole 1) (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Deneverember%20%28581%29/cover.jpg" alt="cover" width="300"/>
 
@@ -188,7 +200,7 @@ thrillers, fiction, skandináv, krimi, crime
 Vajon akkor kezdődött ez a történet, amikor rájöttem, hogy csak a negyedik legjobb focista vagyok az osztályban? – teszi fel magának a kérdést Jon, aki szerény drogüzletét feladva kénytelen elszegődni a Halászhoz, az oslói drogbáróhoz. Sikeres is behajtóként, hiszen elegendő, ha csak kiejti az alvilág nagy hatalmú urának nevét, és az adósok azonnal fizetnek. Egy napon azonban a Halász olyasvalamit kér, amit Jon már nem teljesít, sőt átveri és meglopja megbízóját. A megtorlás elől egészen egy isten háta mögötti kis lappföldi faluig menekül, ahol nyáron nem nyugszik le a nap. Egy elhagyatott vadászkunyhóban húzza meg magát, ahol a kínzó emlékek, a magány és a fehér éjszakák lassan az őrületbe kergetik. És a Halász emberei közelednek. A bujdosó jól tudja: ha nem akarja, hogy elkapják, olyan kiszámíthatatlannak kell lennie, hogy maga se tudja, mi lesz a következő lépése.
 
 
-# <a name="id_1741">Jo Nesbø: A fiú </a>
+# <a name="id_1741">Jo Nesbø: A fiú (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20fiu%20%281741%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
@@ -196,18 +208,6 @@ Vajon akkor kezdődött ez a történet, amikor rájöttem, hogy csak a negyedik
 
 ### Tagek
 skandináv, krimi, skandináv krimik
-
-# <a name="id_1705">Jo Nesbø: A nagy aranyrablás </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20nagy%20aranyrablas%20%281705%29/cover.jpg" alt="cover" width="300"/>
-
-### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20nagy%20aranyrablas%20%281705%29/A%20nagy%20aranyrablas%20-%20Jo%20Nesbo.epub)
-
-### Összefoglalás
-<div>
-<p>Amikor egy orosz milliárdos elrabolja Norvégia aranytartalékát, és a maradék aranyrudat is beolvasztja a Premier Foci Liga kupájába, Doktor Proktorra, Bullére és Lisére vár, hogy megszerezze az utolsó bizonyítékot, és megmentse Norvégiát. <br>De mivel a milliárdos aranyolvasztó laboratóriumába nem sikerül bejutniuk, csak úgy tudják megkaparintani a kupát ha visszanyerik! Remélve, hogy elkerülhetik a nemzeti pánikot, Bulle és Lise csatlakozik egy focicsapathoz és beveti a pukipor erejét is. Talán Doktor Proktor újabb félresikerült találmányaival sikerül győzelemre vinniük ezt a kutyaütő csapatot, mielőtt késő lesz <br><br>A világhírű skandináv krimiíró Doktor Proktor-sorozatát már több mint 20 nyelvre fordították le. A főszereplők fergeteges kalandjait elképesztő fordulatok, abszurd humor és a Nesbo-féle különleges atmoszféra teszi feledhetetlenné. </p>
-<p> </p></div>
-
 
 # <a name="id_1743">Jo Nesbø: Fehér éjszaka (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Feher%20ejszaka%20%281743%29/cover.jpg" alt="cover" width="300"/>
@@ -253,11 +253,11 @@ Roger Brown igazán a szerencse fiának tűnik: ő Norvégia legsikeresebb fejva
 ### Tagek
 skandináv, krimi, skandináv krimik
 
-# <a name="id_1737">Jo Nesbø: A FÉLTÉKENYSÉG-SZAKÉRTŐ és más történetek (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20FELTEKENYSEG-SZAKERTO%20es%20mas%20tort%20%281737%29/cover.jpg" alt="cover" width="300"/>
+# <a name="id_1737">Jo Nesbø: A féltékenység-szakértő és más történetek (2021)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20feltekenyseg-szakerto%20es%20mas%20tort%20%281737%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20FELTEKENYSEG-SZAKERTO%20es%20mas%20tort%20%281737%29/A%20FELTEKENYSEG-SZAKERTO%20es%20mas%20-%20Jo%20Nesbo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20feltekenyseg-szakerto%20es%20mas%20tort%20%281737%29/A%20feltekenyseg-szakerto%20es%20mas%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
 skandináv, krimi, skandináv krimik

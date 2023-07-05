@@ -8,6 +8,10 @@
 
 Sorozatok:
 
+Doktor Proktor Pukipora:
+
+- 4 (2012) - A nagy aranyrablás [részletek](_details/Jo%20Nesb%C3%B8.md#id_1705) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20nagy%20aranyrablas%20%281705%29/A%20nagy%20aranyrablas%20-%20Jo%20Nesbo.epub)
+
 Harry Hole:
 
 - 1 (2020) - Denevérember [részletek](_details/Jo%20Nesb%C3%B8.md#id_581) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Deneverember%20%28581%29/Deneverember%20-%20Jo%20Nesbo.epub)
@@ -30,13 +34,12 @@ Vér a havon:
 
 Egyéb könyvek:
 
-- (101) - A fiú [details](_details/Jo%20Nesb%C3%B8.md#id_1741) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20fiu%20%281741%29/A%20fiu%20-%20Jo%20Nesbo.epub)
-- (101) - A nagy aranyrablás [details](_details/Jo%20Nesb%C3%B8.md#id_1705) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20nagy%20aranyrablas%20%281705%29/A%20nagy%20aranyrablas%20-%20Jo%20Nesbo.epub)
+- (2014) - A fiú [details](_details/Jo%20Nesb%C3%B8.md#id_1741) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20fiu%20%281741%29/A%20fiu%20-%20Jo%20Nesbo.epub)
 - (2015) - Fehér éjszaka [details](_details/Jo%20Nesb%C3%B8.md#id_1743) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Feher%20ejszaka%20%281743%29/Feher%20ejszaka%20-%20Jo%20Nesbo.epub)
 - (2018) - Macbeth [details](_details/Jo%20Nesb%C3%B8.md#id_1738) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Macbeth%20%281738%29/Macbeth%20-%20Jo%20Nesbo.epub)
 - (2019) - Fejvadászok [details](_details/Jo%20Nesb%C3%B8.md#id_411) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Fejvadaszok%20%28411%29/Fejvadaszok%20-%20Jo%20Nesbo.epub)
 - (2020) - A birodalom [details](_details/Jo%20Nesb%C3%B8.md#id_1735) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20birodalom%20%281735%29/A%20birodalom%20-%20Jo%20Nesbo.epub)
-- (2021) - A FÉLTÉKENYSÉG-SZAKÉRTŐ és más történetek [details](_details/Jo%20Nesb%C3%B8.md#id_1737) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20FELTEKENYSEG-SZAKERTO%20es%20mas%20tort%20%281737%29/A%20FELTEKENYSEG-SZAKERTO%20es%20mas%20-%20Jo%20Nesbo.epub)
+- (2021) - A féltékenység-szakértő és más történetek [details](_details/Jo%20Nesb%C3%B8.md#id_1737) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20feltekenyseg-szakerto%20es%20mas%20tort%20%281737%29/A%20feltekenyseg-szakerto%20es%20mas%20-%20Jo%20Nesbo.epub)
 
 ### A. G. Hawk
 
