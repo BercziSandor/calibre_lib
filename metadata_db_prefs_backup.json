@@ -13,6 +13,10 @@
   "check_library_ignore_names": "",
   "gui_view_history": [
     [
+      1737,
+      "A f\u00e9lt\u00e9kenys\u00e9g-szak\u00e9rt\u0151 \u00e9s m\u00e1s t\u00f6rt\u00e9netek"
+    ],
+    [
       1727,
       "Eml\u00e9kszem \u200br\u00e1d"
     ],
@@ -67,10 +71,6 @@
     [
       1698,
       "A Court of Frost and Starlight \u2013 Fagy \u00e9s csillagf\u00e9ny udvara"
-    ],
-    [
-      1693,
-      "F\u00f6ld \u00e9s v\u00e9r h\u00e1za"
     ]
   ],
   "plugboards": {},
@@ -89,7 +89,7 @@
     "sort_history": [
       [
         "series",
-        true
+        false
       ],
       [
         "title",
@@ -98,26 +98,6 @@
       [
         "size",
         false
-      ],
-      [
-        "#formats",
-        true
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "series",
-        true
-      ],
-      [
-        "title",
-        false
-      ],
-      [
-        "authors",
-        true
       ],
       [
         "timestamp",
@@ -994,7 +974,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1688548797.9463642,
+  "last_expired_trash_at": 1688554830.0692606,
   "virtual_libraries": {
     "kutya": "tags:\"=kutya\""
   }

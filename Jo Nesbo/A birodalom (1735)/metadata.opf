@@ -6,15 +6,27 @@
         <dc:title>A birodalom</dc:title>
         <dc:creator opf:file-as="Nesbø, Jo" opf:role="aut">Jo Nesbø</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2020-10-24T22:00:00+00:00</dc:date>
+        <dc:date>2020-08-26T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Az autószerelő Roy békés, egyszerű életet él tanyáján, és egy benzinkutat üzemeltet a közeli faluban. Amikor öccse, Carl hosszú idő után hazatér külföldről, nemcsak barbadosi feleségét, Shannont hozza magával, hanem egy magashegyi wellnesshotel terveit is, amely reményei szerint majd felpezsdíti a környék életét. Roy birodalmának nyugalmát felkavarják a vendégek, és a testvérek gyerekkorából sötét titkok törnek a felszínre. Ráadásul a helyi rendőr szimatolni kezd saját apja évekkel ezelőtti eltűnése után, amely valószínűleg összefügg a fiúk szüleinek tragikus halálával. Roy mindig védelmezte öccsét, de egymás iránti lojalitásukat ezúttal próbára teszi a pénzsóvárság és a gyanakvás. A férfinak el kell döntenie, meddig hajlandó elmenni azért, hogy továbbra is megóvja Carlt, és azzal is szembe kell néznie, hogy Shannonhoz talán nem csupán rokoni érzések fűzik. Vajon a lassan feltáruló titkok elszakítják a testvérek közötti köteléket? &lt;/p&gt;
+&lt;p&gt;A birodalom sötét és magával ragadó thriller a hűségről, a szeretetről, a féltékenységről és a becsvágyról.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>+</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">b1478f0a-56c6-4e23-b74e-ed722c4e7c6a</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789633247938</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">55696888</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">jo-nesbo-a-birodalom</dc:identifier>
         <dc:language>hun</dc:language>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Suspense</dc:subject>
         <dc:subject>skandináv</dc:subject>
         <dc:subject>krimi</dc:subject>
         <dc:subject>Skandináv krimik</dc:subject>
-        <meta name="calibre:timestamp" content="2023-07-05T09:35:46.968721+00:00"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-07-05T09:35:46+00:00"/>
         <meta name="calibre:title_sort" content="birodalom, A"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;MOBI&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

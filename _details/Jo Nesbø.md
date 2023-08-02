@@ -200,20 +200,38 @@ thrillers, fiction, skandináv, krimi, crime
 Vajon akkor kezdődött ez a történet, amikor rájöttem, hogy csak a negyedik legjobb focista vagyok az osztályban? – teszi fel magának a kérdést Jon, aki szerény drogüzletét feladva kénytelen elszegődni a Halászhoz, az oslói drogbáróhoz. Sikeres is behajtóként, hiszen elegendő, ha csak kiejti az alvilág nagy hatalmú urának nevét, és az adósok azonnal fizetnek. Egy napon azonban a Halász olyasvalamit kér, amit Jon már nem teljesít, sőt átveri és meglopja megbízóját. A megtorlás elől egészen egy isten háta mögötti kis lappföldi faluig menekül, ahol nyáron nem nyugszik le a nap. Egy elhagyatott vadászkunyhóban húzza meg magát, ahol a kínzó emlékek, a magány és a fehér éjszakák lassan az őrületbe kergetik. És a Halász emberei közelednek. A bujdosó jól tudja: ha nem akarja, hogy elkapják, olyan kiszámíthatatlannak kell lennie, hogy maga se tudja, mi lesz a következő lépése.
 
 
-# <a name="id_1741">Jo Nesbø: A fiú (2014)</a>
+# <a name="id_411">Jo Nesbø: Fejvadászok (2008)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Fejvadaszok%20%28411%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Fejvadaszok%20%28411%29/Fejvadaszok%20-%20Jo%20Nesbo.epub)
+
+### Tagek
+norvég szerző, norvégia, thriller, skandináv, regény, magyar nyelvű, kortárs, krimi, germán, 21. század, filmadaptáció
+
+### Összefoglalás
+Roger Brown igazán a szerencse fiának tűnik: ő Norvégia legsikeresebb fejvadásza, gyönyörű feleségével egy pompás házban élnek. Ám a luxus életmódot Roger műkincstolvajként igyekszik bebiztosítani, s „mellékállásában” igen ügyesnek bizonyul. Amikor felesége galériájában megismerkedik valakivel – aki egyrészt tökéletes jelölt az egyik általa kínált magas állásra, másrészt a művészettörténet egyik legkeresettebb képének a tulajdonosa – Roger úgy érzi, élete nagy lehetősége köszöntött rá. Készülni kezd eddigi legmerészebb betörésére. Ám a vadászból csakhamar vad lesz, üldözöttje egy rémálomba illő ellenfélnek.
+
+
+# <a name="id_1741">Jo Nesbø: A fiú (2013)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20fiu%20%281741%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20fiu%20%281741%29/A%20fiu%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
-skandináv, krimi, skandináv krimik
+mystery, crime, thriller, suspense, skandináv, krimi, skandináv krimik
+
+### Összefoglalás
+<div>
+<p>Sonny, a rejtélyes, visszahúzódó, kábítószerfüggő fiú tizennyolc éves kora óta börtönben ül, mert beismert két gyilkosságot, amelyeket nem ő követett el. Nem ingyen tette. Cserébe megkapja az egyetlen dolgot, amire szüksége van: heroint. Mivel ügye a korrupt hatalmi rendszer minden szereplőjét érinti, a rendőrségnek és az alvilágnak egyaránt az a célja, hogy folyamatosan bódult állapotban és rácsok mögött tartsák. És Sonnynak ez meg is felel, eszében sincs változtatni a helyzeten. A rabtársai egyfajta gyóntatóként tekintenek a különös, vonzó fiúra, s gyakran öntik ki neki a lelküket. Így esik, hogy egy napon Sonny megdöbbentő dolgot tud meg az egyik rabtársától: rendőr édesapja, akiről ő úgy tudta, önkezével vetett véget az életének, valójában gyilkosság áldozata lett. Sonny világa alapjaiban megrendül. Megszökik a szigorúan őrzött börtönből, és megkezdi vadászatát azok után, akik vétettek ellene.</p></div>
+
 
 # <a name="id_1743">Jo Nesbø: Fehér éjszaka (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Feher%20ejszaka%20%281743%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/.caltrash/b/1743/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Feher%20ejszaka%20%281743%29/Feher%20ejszaka%20-%20Jo%20Nesbo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/.caltrash/b/1743/Feher%20ejszaka%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
 skandináv krimik, skandináv, krimi
@@ -231,17 +249,10 @@ Vajon akkor kezdődött ez a történet, amikor rájöttem, hogy csak a negyedik
 ### Tagek
 skandináv, krimi, skandináv krimik
 
-# <a name="id_411">Jo Nesbø: Fejvadászok (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Fejvadaszok%20%28411%29/cover.jpg" alt="cover" width="300"/>
-
-### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Fejvadaszok%20%28411%29/Fejvadaszok%20-%20Jo%20Nesbo.epub)
-
-### Tagek
-norvég szerző, norvégia, thriller, skandináv, regény, magyar nyelvű, kortárs, krimi, germán, 21. század, filmadaptáció
-
 ### Összefoglalás
-Roger Brown igazán a szerencse fiának tűnik: ő Norvégia legsikeresebb fejvadásza, gyönyörű feleségével egy pompás házban élnek. Ám a luxus életmódot Roger műkincstolvajként igyekszik bebiztosítani, s „mellékállásában” igen ügyesnek bizonyul. Amikor felesége galériájában megismerkedik valakivel – aki egyrészt tökéletes jelölt az egyik általa kínált magas állásra, másrészt a művészettörténet egyik legkeresettebb képének a tulajdonosa – Roger úgy érzi, élete nagy lehetősége köszöntött rá. Készülni kezd eddigi legmerészebb betörésére. Ám a vadászból csakhamar vad lesz, üldözöttje egy rémálomba illő ellenfélnek.
+<div>
+<p id="full_description">A ​züllött rendőrfőkapitány, aki a drogkereskedelem és a korrupció mocsarába süllyesztette az egykor virágzó iparvárost, végre meghalt. A város lakói és rendőrei egy tisztességes és szebb jövőben reménykednek, a háttérben azonban hamar kezdetét veszi a hatalmi harc. <br>    A fiatal és tehetséges nyomozó, Macbeth, a város drogbandájának felszámolására teszi fel életét, ám amikor sikerei nyomán magasabb pozícióba kerül, őt is megkísérti a hatalom csábítása. Az ambiciózus Duff rendőrtiszt – aki együtt nevelkedett Macbethtel az árvaházban, és ott a legjobb barátok lettek – szintén kiveszi részét a drogbandák elleni küzdelemből, és szinte bármire képes lenne, hogy vezető pozícióba kerüljön. Lady, a befolyásos kaszinótulajdonos-nő folyamatosan terveket sző maga és szerelme, Macbeth előbbre jutására. <br>    A vetélkedést gyilkosságok sorozata kíséri. <br>     A <em>Macbeth</em>et Shakespeare azonos című tragédiája ihlette – Nesbø szemében a darab a hatalomért vívott harc thrillere, melynek színhelye komor, örökké esős, noir-szerű városi táj. </p>
+<p>Jo Nesbø (1960) a világ egyik leghíresebb krimiírója. Fiatalon focistának készült, de egy sérülés miatt le kellett mondania erről a pályáról. Közgazdász és pénzügyi elemző tanulmányokat folytatott, majd tőzsdeügynökként dolgozott, és mindeközben a Di Derre (Ők ott) nevű együttesben zenélt. Amikor egy kiadó megbízta, hogy írjon memoárt a banda turnéiról, ő ehelyett a Harry Hole-krimisorozat <em>A denevér</em> című szinopszisával állt elő, amivel kezdetét vette szédületes írói karrierje. <br>    Regényeit eddig 50 nyelvre fordították le, és több mint 40 millió példányban adták el világszerte.</p></div>
 
 
 # <a name="id_1735">Jo Nesbø: A birodalom (2020)</a>
@@ -251,7 +262,13 @@ Roger Brown igazán a szerencse fiának tűnik: ő Norvégia legsikeresebb fejva
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20birodalom%20%281735%29/A%20birodalom%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
-skandináv, krimi, skandináv krimik
+thriller, crime, mystery, suspense, skandináv, krimi, skandináv krimik
+
+### Összefoglalás
+<div>
+<p>Az autószerelő Roy békés, egyszerű életet él tanyáján, és egy benzinkutat üzemeltet a közeli faluban. Amikor öccse, Carl hosszú idő után hazatér külföldről, nemcsak barbadosi feleségét, Shannont hozza magával, hanem egy magashegyi wellnesshotel terveit is, amely reményei szerint majd felpezsdíti a környék életét. Roy birodalmának nyugalmát felkavarják a vendégek, és a testvérek gyerekkorából sötét titkok törnek a felszínre. Ráadásul a helyi rendőr szimatolni kezd saját apja évekkel ezelőtti eltűnése után, amely valószínűleg összefügg a fiúk szüleinek tragikus halálával. Roy mindig védelmezte öccsét, de egymás iránti lojalitásukat ezúttal próbára teszi a pénzsóvárság és a gyanakvás. A férfinak el kell döntenie, meddig hajlandó elmenni azért, hogy továbbra is megóvja Carlt, és azzal is szembe kell néznie, hogy Shannonhoz talán nem csupán rokoni érzések fűzik. Vajon a lassan feltáruló titkok elszakítják a testvérek közötti köteléket? </p>
+<p>A birodalom sötét és magával ragadó thriller a hűségről, a szeretetről, a féltékenységről és a becsvágyról.</p></div>
+
 
 # <a name="id_1737">Jo Nesbø: A féltékenység-szakértő és más történetek (2021)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20feltekenyseg-szakerto%20es%20mas%20tort%20%281737%29/cover.jpg" alt="cover" width="300"/>
