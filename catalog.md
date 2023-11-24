@@ -4,42 +4,108 @@
 
 ## Szerzők szerint
 
-### Jo Nesbø
+### Andrew Wilson
 
 Sorozatok:
 
-Doktor Proktor Pukipora:
+Agatha Christie:
 
-- 4 (2012) - A nagy aranyrablás [részletek](_details/Jo%20Nesb%C3%B8.md#id_1705) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20nagy%20aranyrablas%20%281705%29/A%20nagy%20aranyrablas%20-%20Jo%20Nesbo.epub)
+- 1 (2022) - Agatha Christie és a suttogó orvos [részletek](_details/Andrew%20Wilson.md#id_1763) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/.caltrash/b/1763/Agatha%20Christie%20es%20a%20suttogo%20or%20-%20Andrew%20Wilson.epub)
 
-Harry Hole:
+### Agatha Christie
 
-- 1 (2020) - Denevérember [részletek](_details/Jo%20Nesb%C3%B8.md#id_581) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Deneverember%20%28581%29/Deneverember%20-%20Jo%20Nesbo.epub)
-- 2 (2017) - Csótányok [részletek](_details/Jo%20Nesb%C3%B8.md#id_577) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Csotanyok%20%28577%29/Csotanyok%20-%20Jo%20Nesbo.epub)
-- 3 (2012) - Vörösbegy [részletek](_details/Jo%20Nesb%C3%B8.md#id_1742) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Vorosbegy%20%281742%29/Vorosbegy%20-%20Jo%20Nesbo.epub)
-- 4 (2019) - Nemeszisz [részletek](_details/Jo%20Nesb%C3%B8.md#id_410) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Nemeszisz%20%28410%29/Nemeszisz%20-%20Jo%20Nesbo.epub)
-- 5 (2019) - Boszorkányszög [részletek](_details/Jo%20Nesb%C3%B8.md#id_412) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Boszorkanyszog%20%28412%29/Boszorkanyszog%20-%20Jo%20Nesbo.epub)
-- 6 (2019) - A megváltó [részletek](_details/Jo%20Nesb%C3%B8.md#id_592) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20megvalto%20%28592%29/A%20megvalto%20-%20Jo%20Nesbo.epub)
-- 7 (2019) - Hóember [részletek](_details/Jo%20Nesb%C3%B8.md#id_582) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Hoember%20%28582%29/Hoember%20-%20Jo%20Nesbo.epub)
-- 8 (2019) - Leopárd [részletek](_details/Jo%20Nesb%C3%B8.md#id_580) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Leopard%20%28580%29/Leopard%20-%20Jo%20Nesbo.epub)
-- 9 (2019) - Kísértet [részletek](_details/Jo%20Nesb%C3%B8.md#id_591) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Kisertet%20%28591%29/Kisertet%20-%20Jo%20Nesbo.epub)
-- 10 (2013) - Police [részletek](_details/Jo%20Nesb%C3%B8.md#id_578) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Police%20%28578%29/Police%20-%20Jo%20Nesbo.epub)
-- 11 (2017) - Szomjúság [részletek](_details/Jo%20Nesb%C3%B8.md#id_1739) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Szomjusag%20%281739%29/Szomjusag%20-%20Jo%20Nesbo.epub)
-- 12 (2019) - KÉS [részletek](_details/Jo%20Nesb%C3%B8.md#id_1740) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/KES%20%281740%29/KES%20-%20Jo%20Nesbo.epub)
+Sorozatok:
 
-Vér a havon:
+A titkos ellenfél:
 
-- 1 (2015) - Vér a havon [részletek](_details/Jo%20Nesb%C3%B8.md#id_1736) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Ver%20a%20havon%20%281736%29/Ver%20a%20havon%20-%20Jo%20Nesbo.epub)
-- 2 (2015) - Fehér éjszaka [részletek](_details/Jo%20Nesb%C3%B8.md#id_978) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Feher%20ejszaka%20%28978%29/Feher%20ejszaka%20-%20Jo%20Nesbo.epub)
+- 2 (2015) - A titkos ellenfél [részletek](_details/Agatha%20Christie.md#id_237) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/.caltrash/b/237/A%20titkos%20ellenfel%20-%20Agatha%20Christie.epub)
+
+Ariadne Oliver:
+
+- 5 (1961) - Bűbájos gyilkosok [részletek](_details/Agatha%20Christie.md#id_1771) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Bubajos%20gyilkosok%20%281771%29/Bubajos%20gyilkosok%20-%20Agatha%20Christie.azw3)
+
+Battle főfelügyelő:
+
+- 2 (1941) - A hét számlap rejtélye [részletek](_details/Agatha%20Christie.md#id_1748) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20het%20szamlap%20rejtelye%20%281748%29/A%20het%20szamlap%20rejtelye%20-%20Agatha%20Christie.azw3)
+- 5 (2008) - Éjféltájt [részletek](_details/Agatha%20Christie.md#id_66) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Ejfeltajt%20%2866%29/Ejfeltajt%20-%20Agatha%20Christie.azw3)
+
+Hercule Poirot:
+
+- 1 (2011) - A pollensai probléma [részletek](_details/Agatha%20Christie.md#id_235) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20pollensai%20problema%20%28235%29/A%20pollensai%20problema%20-%20Agatha%20Christie.epub)
+- 4 (2018) - Az Ackroyd-gyilkosság [részletek](_details/Agatha%20Christie.md#id_63) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20Ackroyd-gyilkossag%20%2863%29/Az%20Ackroyd-gyilkossag%20-%20Agatha%20Christie.azw3)
+- 5 (1927) - A titokzatos Négyes [részletek](_details/Agatha%20Christie.md#id_238) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20Negyes%20%28238%29/A%20titokzatos%20Negyes%20-%20Agatha%20Christie.epub)
+- 6 (1928) - A titokzatos Kék Vonat [részletek](_details/Agatha%20Christie.md#id_1757) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20Kek%20Vonat%20%281757%29/A%20titokzatos%20Kek%20Vonat%20-%20Agatha%20Christie.epub)
+- 8 (2011) - Ház a sziklán [részletek](_details/Agatha%20Christie.md#id_249) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Haz%20a%20sziklan%20%28249%29/Haz%20a%20sziklan%20-%20Agatha%20Christie.epub)
+- 12 (2010) - Halál a felhők között [részletek](_details/Agatha%20Christie.md#id_69) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Halal%20a%20felhok%20kozott%20%2869%29/Halal%20a%20felhok%20kozott%20-%20Agatha%20Christie.epub)
+- 13 (1936) - Az ABC-gyilkosságok [részletek](_details/Agatha%20Christie.md#id_1764) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20ABC-gyilkossagok%20%281764%29/Az%20ABC-gyilkossagok%20-%20Agatha%20Christie.azw3)
+- 16 (1937) - A kutya se látta [részletek](_details/Agatha%20Christie.md#id_1751) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20kutya%20se%20latta%20%281751%29/A%20kutya%20se%20latta%20-%20Agatha%20Christie.epub)
+- 17 (2018) - Halál a Níluson [részletek](_details/Agatha%20Christie.md#id_75) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Halal%20a%20Niluson%20%2875%29/Halal%20a%20Niluson%20-%20Agatha%20Christie.epub)
+- 21 (1940) - Cipruskoporsó [részletek](_details/Agatha%20Christie.md#id_1772) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Cipruskoporso%20%281772%29/Cipruskoporso%20-%20Agatha%20Christie.azw3)
+- 23 (2018) - Nyaraló gyilkosok [részletek](_details/Agatha%20Christie.md#id_73) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Nyaralo%20gyilkosok%20%2873%29/Nyaralo%20gyilkosok%20-%20Agatha%20Christie.epub)
+- 25 (2011) - Hétvégi gyilkosság [részletek](_details/Agatha%20Christie.md#id_251) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Hetvegi%20gyilkossag%20%28251%29/Hetvegi%20gyilkossag%20-%20Agatha%20Christie.epub)
+- 28 (2011) - Mrs. McGinty meghalt [részletek](_details/Agatha%20Christie.md#id_252) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Mrs.%20McGinty%20meghalt%20%28252%29/Mrs.%20McGinty%20meghalt%20-%20Agatha%20Christie.epub)
+- 29 (2018) - Temetni veszélyes [részletek](_details/Agatha%20Christie.md#id_78) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Temetni%20veszelyes%20%2878%29/Temetni%20veszelyes%20-%20Agatha%20Christie.epub)
+- 31 (1956) - Gloriett a hullának [részletek](_details/Agatha%20Christie.md#id_1777) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Gloriett%20a%20hullanak%20%281777%29/Gloriett%20a%20hullanak%20-%20Agatha%20Christie.azw3)
+- 33 (1923) - A karácsonyi puding esete [részletek](_details/Agatha%20Christie.md#id_1749) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20karacsonyi%20puding%20esete%20%281749%29/A%20karacsonyi%20puding%20esete%20-%20Agatha%20Christie.epub)
+- 34 (1963) - Az órák [részletek](_details/Agatha%20Christie.md#id_1768) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20orak%20%281768%29/Az%20orak%20-%20Agatha%20Christie.epub)
+- 35 (1966) - A harmadik lány [részletek](_details/Agatha%20Christie.md#id_234)
+- 36 (1969) - Ellopott gyilkosság [részletek](_details/Agatha%20Christie.md#id_67)
+- 37 (1992) - Az elefántok nem felejtenek [részletek](_details/Agatha%20Christie.md#id_1766) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20elefantok%20nem%20felejtenek%20%281766%29/Az%20elefantok%20nem%20felejtenek%20-%20Agatha%20Christie.azw3)
+- 38 (1994) - Poirot bravúrjai I. [részletek](_details/Agatha%20Christie.md#id_257) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Poirot%20bravurjai%20I_%20%28257%29/Poirot%20bravurjai%20I_%20-%20Agatha%20Christie.epub)
+- 39 (1974) - A titokzatos stylesi eset / Függöny [részletek](_details/Agatha%20Christie.md#id_1758) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20stylesi%20eset%20_%20Fuggony%20%281758%29/A%20titokzatos%20stylesi%20eset%20_%20Fug%20-%20Agatha%20Christie.epub)
+- 40 (2013) - A Greenshore-gloriett [részletek](_details/Agatha%20Christie.md#id_1762) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20Greenshore-gloriett%20%281762%29/A%20Greenshore-gloriett%20-%20Agatha%20Christie.epub)
+- 99 (2020) - Az álmok háza [részletek](_details/Agatha%20Christie.md#id_241) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20almok%20haza%20%28241%29/Az%20almok%20haza%20-%20Agatha%20Christie.epub)
+
+Miss Marple:
+
+- 1 (2011) - Gyilkosság a paplakban [részletek](_details/Agatha%20Christie.md#id_68) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Gyilkossag%20a%20paplakban%20%2868%29/Gyilkossag%20a%20paplakban%20-%20Agatha%20Christie.epub)
+- 2 (2007) - Tizenhárom rejtély [részletek](_details/Agatha%20Christie.md#id_259) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Tizenharom%20rejtely%20%28259%29/Tizenharom%20rejtely%20-%20Agatha%20Christie.epub)
+- 3 (1969) - Holttest a könyvtárszobában [részletek](_details/Agatha%20Christie.md#id_71) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Holttest%20a%20konyvtarszobaban%20%2871%29/Holttest%20a%20konyvtarszobaban%20-%20Agatha%20Christie.epub)
+- 4 (2009) - Nem zörög a haraszt [részletek](_details/Agatha%20Christie.md#id_311) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Nem%20zorog%20a%20haraszt%20%28311%29/Nem%20zorog%20a%20haraszt%20-%20Agatha%20Christie.epub)
+- 7 (1953) - Egy marék rozs [részletek](_details/Agatha%20Christie.md#id_1773) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Egy%20marek%20rozs%20%281773%29/Egy%20marek%20rozs%20-%20Agatha%20Christie.epub)
+- 8 (2020) - Paddington 16.50 [részletek](_details/Agatha%20Christie.md#id_74) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Paddington%2016.50%20%2874%29/Paddington%2016.50%20-%20Agatha%20Christie.epub)
+- 9 (1962) - A kristálytükör meghasadt [részletek](_details/Agatha%20Christie.md#id_1750) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20kristalytukor%20meghasadt%20%281750%29/A%20kristalytukor%20meghasadt%20-%20Agatha%20Christie.epub)
+- 10 (2020) - Rejtély az Antillákon [részletek](_details/Agatha%20Christie.md#id_76) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Rejtely%20az%20Antillakon%20%2876%29/Rejtely%20az%20Antillakon%20-%20Agatha%20Christie.epub)
+- 11 (1964) - A Bertram szálló [részletek](_details/Agatha%20Christie.md#id_1746) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20Bertram%20szallo%20%281746%29/A%20Bertram%20szallo%20-%20Agatha%20Christie.epub)
+- 12 (2011) - Nemezis [részletek](_details/Agatha%20Christie.md#id_72) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Nemezis%20%2872%29/Nemezis%20-%20Agatha%20Christie.epub)
+- 13 (2018) - Szunnyadó gyilkosság [részletek](_details/Agatha%20Christie.md#id_77) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Szunnyado%20gyilkossag%20%2877%29/Szunnyado%20gyilkossag%20-%20Agatha%20Christie.epub)
+
+Race ezredes:
+
+- 1 (1924) - A barna ruhás férfi [részletek](_details/Agatha%20Christie.md#id_1745) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20barna%20ruhas%20ferfi%20%281745%29/A%20barna%20ruhas%20ferfi%20-%20Agatha%20Christie.epub)
+- 4 (2010) - Gyöngyöző cián [részletek](_details/Agatha%20Christie.md#id_247) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Gyongyozo%20cian%20%28247%29/Gyongyozo%20cian%20-%20Agatha%20Christie.epub)
+
+Tommy és Tuppence:
+
+- 1 (1921) - Titkos ellenfél [részletek](_details/Agatha%20Christie.md#id_1756) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Titkos%20ellenfel%20%281756%29/Titkos%20ellenfel%20-%20Agatha%20Christie.epub)
+- 2 (1997) - No. 16 [részletek](_details/Agatha%20Christie.md#id_254) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/No.%2016%20%28254%29/No.%2016%20-%20Agatha%20Christie.epub)
+- 4 (2015) - Balhüvelykem bizsereg [részletek](_details/Agatha%20Christie.md#id_242)
+- 5 (1973) - A sors kapuja [részletek](_details/Agatha%20Christie.md#id_1755) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20sors%20kapuja%20%281755%29/A%20sors%20kapuja%20-%20Agatha%20Christie.epub)
 
 Egyéb könyvek:
 
-- (2008) - Fejvadászok [details](_details/Jo%20Nesb%C3%B8.md#id_411) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Fejvadaszok%20%28411%29/Fejvadaszok%20-%20Jo%20Nesbo.epub)
-- (2013) - A fiú [details](_details/Jo%20Nesb%C3%B8.md#id_1741) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20fiu%20%281741%29/A%20fiu%20-%20Jo%20Nesbo.epub)
-- (2015) - Fehér éjszaka [details](_details/Jo%20Nesb%C3%B8.md#id_1743) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/.caltrash/b/1743/Feher%20ejszaka%20-%20Jo%20Nesbo.epub)
-- (2018) - Macbeth [details](_details/Jo%20Nesb%C3%B8.md#id_1738) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Macbeth%20%281738%29/Macbeth%20-%20Jo%20Nesbo.epub)
-- (2020) - A birodalom [details](_details/Jo%20Nesb%C3%B8.md#id_1735) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20birodalom%20%281735%29/A%20birodalom%20-%20Jo%20Nesbo.epub)
-- (2021) - A féltékenység-szakértő és más történetek [details](_details/Jo%20Nesb%C3%B8.md#id_1737) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20feltekenyseg-szakerto%20es%20mas%20tort%20%281737%29/A%20feltekenyseg-szakerto%20es%20mas%20-%20Jo%20Nesbo.epub)
+- (101) - Az élet súlya [details](_details/Agatha%20Christie.md#id_1767) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20elet%20sulya%20%281767%29/Az%20elet%20sulya%20-%20Agatha%20Christie.azw3)
+- (1931) - A Sittaford-rejtély [details](_details/Agatha%20Christie.md#id_1754) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20Sittaford-rejtely%20%281754%29/A%20Sittaford-rejtely%20-%20Agatha%20Christie.epub)
+- (1933) - A Listerdale-rejtély [details](_details/Agatha%20Christie.md#id_1753) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20Listerdale-rejtely%20%281753%29/A%20Listerdale-rejtely%20-%20Agatha%20Christie.epub)
+- (1958) - Az alibi [details](_details/Agatha%20Christie.md#id_1765) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20alibi%20%281765%29/Az%20alibi%20-%20Agatha%20Christie.epub)
+- (1970) - Frankfurti utas [details](_details/Agatha%20Christie.md#id_1776) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/.caltrash/b/1776/Frankfurti%20utas%20-%20Agatha%20Christie.epub)
+- (1977) - Életem [details](_details/Agatha%20Christie.md#id_1774) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Eletem%20%281774%29/Eletem%20-%20Agatha%20Christie.epub)
+- (1991) - A lányom mindig a lányom [details](_details/Agatha%20Christie.md#id_1752) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20lanyom%20mindig%20a%20lanyom%20%281752%29/A%20lanyom%20mindig%20a%20lanyom%20-%20Agatha%20Christie.epub)
+- (1995) - Bagdadba jöttek [details](_details/Agatha%20Christie.md#id_1770) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Bagdadba%20jottek%20%281770%29/Bagdadba%20jottek%20-%20Agatha%20Christie.epub)
+- (1996) - Parker Pyne nyomoz [details](_details/Agatha%20Christie.md#id_255) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Parker%20Pyne%20nyomoz%20%28255%29/Parker%20Pyne%20nyomoz%20-%20Agatha%20Christie.epub)
+- (2010) - Az óriás kenyere [details](_details/Agatha%20Christie.md#id_1769) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20orias%20kenyere%20%281769%29/Az%20orias%20kenyere%20-%20Agatha%20Christie.epub)
+- (2010) - Három vak egér [details](_details/Agatha%20Christie.md#id_70) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Harom%20vak%20eger%20%2870%29/Harom%20vak%20eger%20-%20Agatha%20Christie.epub)
+- (2013) - Eljöttek Bagdadba [details](_details/Agatha%20Christie.md#id_65) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Eljottek%20Bagdadba%20%2865%29/Eljottek%20Bagdadba%20-%20Agatha%20Christie.epub)
+- (2014) - A váratlan vendég [details](_details/Agatha%20Christie.md#id_1760) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20varatlan%20vendeg%20%281760%29/A%20varatlan%20vendeg%20-%20Agatha%20Christie.epub)
+- (2016) - Tíz kicsi néger [details](_details/Agatha%20Christie.md#id_79) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Tiz%20kicsi%20neger%20%2879%29/Tiz%20kicsi%20neger%20-%20Agatha%20Christie.epub)
+- (2018) - A ferde ház [details](_details/Agatha%20Christie.md#id_64) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20ferde%20haz%20%2864%29/A%20ferde%20haz%20-%20Agatha%20Christie.epub)
+- (2018) - A vád tanúja [details](_details/Agatha%20Christie.md#id_240)
+- (2018) - És eljő a halál… [details](_details/Agatha%20Christie.md#id_312) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Es%20eljo%20a%20halal__%20%28312%29/Es%20eljo%20a%20halal__%20-%20Agatha%20Christie.epub)
+- (2020) - Adventi krimik [details](_details/Agatha%20Christie.md#id_1761) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Adventi%20krimik%20%281761%29/Adventi%20krimik%20-%20Agatha%20Christie.epub)
+
+### Unknown
+
+- (2015) - A titkos ellenfél [details](_details/Unknown.md#id_236) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/.caltrash/b/236/A%20titkos%20ellenfel%20-%20Unknown.epub)
 
 ### A. G. Hawk
 
@@ -72,67 +138,6 @@ Galaxis utikalauz stopposoknak:
 - 3 (101) - Az Élet, a Világmindenség meg Minden [részletek](_details/Adams%2C%20Douglas.md#id_196) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Adams%2C%20Douglas/Az%20Elet%2C%20a%20Vilagmindenseg%20meg%20Minden%20%28196%29/Az%20Elet%2C%20a%20Vilagmindenseg%20meg%20M%20-%20Adams%2C%20Douglas.epub)
 - 4 (101) - Viszlát, és kösz a halakat! [részletek](_details/Adams%2C%20Douglas.md#id_200) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Adams%2C%20Douglas/Viszlat%2C%20es%20kosz%20a%20halakat%21%20%28200%29/Viszlat%2C%20es%20kosz%20a%20halakat%21%20-%20Adams%2C%20Douglas.epub)
 - 5 (101) - Jobbára ártalmatlan [részletek](_details/Adams%2C%20Douglas.md#id_198) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Adams%2C%20Douglas/Jobbara%20artalmatlan%20%28198%29/Jobbara%20artalmatlan%20-%20Adams%2C%20Douglas.epub)
-
-### Agatha Christie
-
-Sorozatok:
-
-A titkos ellenfél:
-
-- 1 (2015) - A titkos ellenfél [részletek](_details/Agatha%20Christie.md#id_236) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titkos%20ellenfel%20%28236%29/A%20titkos%20ellenfel%20-%20Agatha%20Christie.epub)
-- 2 (2015) - A titkos ellenfél [részletek](_details/Agatha%20Christie.md#id_237) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titkos%20ellenfel%20%28237%29/A%20titkos%20ellenfel%20-%20Agatha%20Christie.epub)
-
-Battle főfelügyelő:
-
-- 5 (2008) - Éjféltájt [részletek](_details/Agatha%20Christie.md#id_66) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Ejfeltajt%20%2866%29/Ejfeltajt%20-%20Agatha%20Christie.epub)
-
-Hercule Poirot:
-
-- 1 (2011) - A pollensai probléma [részletek](_details/Agatha%20Christie.md#id_235) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20pollensai%20problema%20%28235%29/A%20pollensai%20problema%20-%20Agatha%20Christie.epub)
-- 4 (2018) - Az Ackroyd-gyilkosság [részletek](_details/Agatha%20Christie.md#id_63) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20Ackroyd-gyilkossag%20%2863%29/Az%20Ackroyd-gyilkossag%20-%20Agatha%20Christie.epub)
-- 5 (1993) - A titokzatos Négyes [részletek](_details/Agatha%20Christie.md#id_238) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20Negyes%20%28238%29/A%20titokzatos%20Negyes%20-%20Agatha%20Christie.epub)
-- 8 (2011) - Ház a sziklán [részletek](_details/Agatha%20Christie.md#id_249) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Haz%20a%20sziklan%20%28249%29/Haz%20a%20sziklan%20-%20Agatha%20Christie.epub)
-- 12 (2010) - Halál a felhők között [részletek](_details/Agatha%20Christie.md#id_69) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Halal%20a%20felhok%20kozott%20%2869%29/Halal%20a%20felhok%20kozott%20-%20Agatha%20Christie.epub)
-- 17 (2018) - Halál a Níluson [részletek](_details/Agatha%20Christie.md#id_75) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Halal%20a%20Niluson%20%2875%29/Halal%20a%20Niluson%20-%20Agatha%20Christie.epub)
-- 23 (2018) - Nyaraló gyilkosok [részletek](_details/Agatha%20Christie.md#id_73) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Nyaralo%20gyilkosok%20%2873%29/Nyaralo%20gyilkosok%20-%20Agatha%20Christie.epub)
-- 25 (2011) - Hétvégi gyilkosság [részletek](_details/Agatha%20Christie.md#id_251) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Hetvegi%20gyilkossag%20%28251%29/Hetvegi%20gyilkossag%20-%20Agatha%20Christie.epub)
-- 28 (2011) - Mrs. McGinty meghalt [részletek](_details/Agatha%20Christie.md#id_252) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Mrs.%20McGinty%20meghalt%20%28252%29/Mrs.%20McGinty%20meghalt%20-%20Agatha%20Christie.epub)
-- 29 (2018) - Temetni veszélyes [részletek](_details/Agatha%20Christie.md#id_78) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Temetni%20veszelyes%20%2878%29/Temetni%20veszelyes%20-%20Agatha%20Christie.epub)
-- 35 (2009) - A harmadik lány [részletek](_details/Agatha%20Christie.md#id_234) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20harmadik%20lany%20%28234%29/A%20harmadik%20lany%20-%20Agatha%20Christie.epub)
-- 37 (2012) - A titokzatos stylesi eset / Függöny [részletek](_details/Agatha%20Christie.md#id_239) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20stylesi%20eset%20_%20Fuggony%20%28239%29/A%20titokzatos%20stylesi%20eset%20_%20Fug%20-%20Agatha%20Christie.epub)
-- 38 (1994) - Poirot bravúrjai I. [részletek](_details/Agatha%20Christie.md#id_257) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Poirot%20bravurjai%20I_%20%28257%29/Poirot%20bravurjai%20I_%20-%20Agatha%20Christie.epub)
-
-Miss Marple:
-
-- 1 (2011) - Gyilkosság a paplakban [részletek](_details/Agatha%20Christie.md#id_68) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Gyilkossag%20a%20paplakban%20%2868%29/Gyilkossag%20a%20paplakban%20-%20Agatha%20Christie.epub)
-- 2 (2007) - Tizenhárom rejtély [részletek](_details/Agatha%20Christie.md#id_259) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Tizenharom%20rejtely%20%28259%29/Tizenharom%20rejtely%20-%20Agatha%20Christie.epub)
-- 3 (1969) - Holttest a könyvtárszobában [részletek](_details/Agatha%20Christie.md#id_71) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Holttest%20a%20konyvtarszobaban%20%2871%29/Holttest%20a%20konyvtarszobaban%20-%20Agatha%20Christie.epub)
-- 4 (2009) - Nem zörög a haraszt [részletek](_details/Agatha%20Christie.md#id_311) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Nem%20zorog%20a%20haraszt%20%28311%29/Nem%20zorog%20a%20haraszt%20-%20Agatha%20Christie.epub)
-- 8 (2020) - Paddington 16.50 [részletek](_details/Agatha%20Christie.md#id_74) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Paddington%2016.50%20%2874%29/Paddington%2016.50%20-%20Agatha%20Christie.epub)
-- 10 (2020) - Rejtély az Antillákon [részletek](_details/Agatha%20Christie.md#id_76) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Rejtely%20az%20Antillakon%20%2876%29/Rejtely%20az%20Antillakon%20-%20Agatha%20Christie.epub)
-- 12 (2011) - Nemezis [részletek](_details/Agatha%20Christie.md#id_72) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Nemezis%20%2872%29/Nemezis%20-%20Agatha%20Christie.epub)
-- 13 (2018) - Szunnyadó gyilkosság [részletek](_details/Agatha%20Christie.md#id_77) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Szunnyado%20gyilkossag%20%2877%29/Szunnyado%20gyilkossag%20-%20Agatha%20Christie.epub)
-
-Race ezredes:
-
-- 4 (2010) - Gyöngyöző cián [részletek](_details/Agatha%20Christie.md#id_247) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Gyongyozo%20cian%20%28247%29/Gyongyozo%20cian%20-%20Agatha%20Christie.epub)
-
-Tommy és Tuppence:
-
-- 2 (1997) - No. 16 [részletek](_details/Agatha%20Christie.md#id_254) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/No.%2016%20%28254%29/No.%2016%20-%20Agatha%20Christie.epub)
-- 4 (2015) - Balhüvelykem bizsereg [részletek](_details/Agatha%20Christie.md#id_242) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Balhuvelykem%20bizsereg%20%28242%29/Balhuvelykem%20bizsereg%20-%20Agatha%20Christie.epub)
-
-Egyéb könyvek:
-
-- (1996) - Parker Pyne nyomoz [details](_details/Agatha%20Christie.md#id_255) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Parker%20Pyne%20nyomoz%20%28255%29/Parker%20Pyne%20nyomoz%20-%20Agatha%20Christie.epub)
-- (2010) - Három vak egér [details](_details/Agatha%20Christie.md#id_70) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Harom%20vak%20eger%20%2870%29/Harom%20vak%20eger%20-%20Agatha%20Christie.epub)
-- (2012) - Ellopott gyilkosság [details](_details/Agatha%20Christie.md#id_67) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Ellopott%20gyilkossag%20%2867%29/Ellopott%20gyilkossag%20-%20Agatha%20Christie.epub)
-- (2013) - Eljöttek Bagdadba [details](_details/Agatha%20Christie.md#id_65) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Eljottek%20Bagdadba%20%2865%29/Eljottek%20Bagdadba%20-%20Agatha%20Christie.epub)
-- (2016) - Tíz kicsi néger [details](_details/Agatha%20Christie.md#id_79) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Tiz%20kicsi%20neger%20%2879%29/Tiz%20kicsi%20neger%20-%20Agatha%20Christie.epub)
-- (2018) - A ferde ház [details](_details/Agatha%20Christie.md#id_64) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20ferde%20haz%20%2864%29/A%20ferde%20haz%20-%20Agatha%20Christie.epub)
-- (2018) - A vád tanúja [details](_details/Agatha%20Christie.md#id_240) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20vad%20tanuja%20%28240%29/A%20vad%20tanuja%20-%20Agatha%20Christie.epub)
-- (2018) - És eljő a halál… [details](_details/Agatha%20Christie.md#id_312) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Es%20eljo%20a%20halal__%20%28312%29/Es%20eljo%20a%20halal__%20-%20Agatha%20Christie.epub)
-- (2020) - Az álmok háza [details](_details/Agatha%20Christie.md#id_241) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20almok%20haza%20%28241%29/Az%20almok%20haza%20-%20Agatha%20Christie.epub)
 
 ### Akunyin, Borisz
 
@@ -640,6 +645,14 @@ Sorozatok:
 Thomas Kell:
 
 - 1 (2015) - Egy idegen ország [részletek](_details/Charles%20Cumming.md#id_967) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Charles%20Cumming/Egy%20idegen%20orszag%20%28967%29/Egy%20idegen%20orszag%20-%20Charles%20Cumming.epub)
+
+### Charles Osborne
+
+Sorozatok:
+
+Hercule Poirot:
+
+- 9 (2011) - Feketekávé [részletek](_details/Charles%20Osborne.md#id_1775) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Charles%20Osborne/Feketekave%20%281775%29/Feketekave%20-%20Charles%20Osborne.azw3)
 
 ### Chuck Palahniuk
 
@@ -1662,6 +1675,42 @@ Dexter:
 ### Jill Bolte Taylor
 
 - (2016) - Mennybe döngölve [details](_details/Jill%20Bolte%20Taylor.md#id_1721) [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Jill%20Bolte%20Taylor/Mennybe%20dongolve%20%281721%29/Mennybe%20dongolve%20-%20Jill%20Bolte%20Taylor.pdf)
+
+### Jo Nesbø
+
+Sorozatok:
+
+Doktor Proktor Pukipora:
+
+- 4 (2012) - A nagy aranyrablás [részletek](_details/Jo%20Nesb%C3%B8.md#id_1705) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20nagy%20aranyrablas%20%281705%29/A%20nagy%20aranyrablas%20-%20Jo%20Nesbo.epub)
+
+Harry Hole:
+
+- 1 (2020) - Denevérember [részletek](_details/Jo%20Nesb%C3%B8.md#id_581) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Deneverember%20%28581%29/Deneverember%20-%20Jo%20Nesbo.epub)
+- 2 (2017) - Csótányok [részletek](_details/Jo%20Nesb%C3%B8.md#id_577) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Csotanyok%20%28577%29/Csotanyok%20-%20Jo%20Nesbo.epub)
+- 3 (2012) - Vörösbegy [részletek](_details/Jo%20Nesb%C3%B8.md#id_1742) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Vorosbegy%20%281742%29/Vorosbegy%20-%20Jo%20Nesbo.epub)
+- 4 (2019) - Nemeszisz [részletek](_details/Jo%20Nesb%C3%B8.md#id_410) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Nemeszisz%20%28410%29/Nemeszisz%20-%20Jo%20Nesbo.epub)
+- 5 (2019) - Boszorkányszög [részletek](_details/Jo%20Nesb%C3%B8.md#id_412) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Boszorkanyszog%20%28412%29/Boszorkanyszog%20-%20Jo%20Nesbo.epub)
+- 6 (2019) - A megváltó [részletek](_details/Jo%20Nesb%C3%B8.md#id_592) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20megvalto%20%28592%29/A%20megvalto%20-%20Jo%20Nesbo.epub)
+- 7 (2019) - Hóember [részletek](_details/Jo%20Nesb%C3%B8.md#id_582) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Hoember%20%28582%29/Hoember%20-%20Jo%20Nesbo.epub)
+- 8 (2019) - Leopárd [részletek](_details/Jo%20Nesb%C3%B8.md#id_580) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Leopard%20%28580%29/Leopard%20-%20Jo%20Nesbo.epub)
+- 9 (2019) - Kísértet [részletek](_details/Jo%20Nesb%C3%B8.md#id_591) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Kisertet%20%28591%29/Kisertet%20-%20Jo%20Nesbo.epub)
+- 10 (2013) - Police [részletek](_details/Jo%20Nesb%C3%B8.md#id_578) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Police%20%28578%29/Police%20-%20Jo%20Nesbo.epub)
+- 11 (2017) - Szomjúság [részletek](_details/Jo%20Nesb%C3%B8.md#id_1739) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Szomjusag%20%281739%29/Szomjusag%20-%20Jo%20Nesbo.epub)
+- 12 (2019) - KÉS [részletek](_details/Jo%20Nesb%C3%B8.md#id_1740) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/KES%20%281740%29/KES%20-%20Jo%20Nesbo.epub)
+
+Vér a havon:
+
+- 1 (2015) - Vér a havon [részletek](_details/Jo%20Nesb%C3%B8.md#id_1736) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Ver%20a%20havon%20%281736%29/Ver%20a%20havon%20-%20Jo%20Nesbo.epub)
+- 2 (2015) - Fehér éjszaka [részletek](_details/Jo%20Nesb%C3%B8.md#id_978) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Feher%20ejszaka%20%28978%29/Feher%20ejszaka%20-%20Jo%20Nesbo.epub)
+
+Egyéb könyvek:
+
+- (2008) - Fejvadászok [details](_details/Jo%20Nesb%C3%B8.md#id_411) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Fejvadaszok%20%28411%29/Fejvadaszok%20-%20Jo%20Nesbo.epub)
+- (2013) - A fiú [details](_details/Jo%20Nesb%C3%B8.md#id_1741) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20fiu%20%281741%29/A%20fiu%20-%20Jo%20Nesbo.epub)
+- (2018) - Macbeth [details](_details/Jo%20Nesb%C3%B8.md#id_1738) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Macbeth%20%281738%29/Macbeth%20-%20Jo%20Nesbo.epub)
+- (2020) - A birodalom [details](_details/Jo%20Nesb%C3%B8.md#id_1735) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20birodalom%20%281735%29/A%20birodalom%20-%20Jo%20Nesbo.epub)
+- (2021) - A féltékenység-szakértő és más történetek [details](_details/Jo%20Nesb%C3%B8.md#id_1737) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/A%20feltekenyseg-szakerto%20es%20mas%20tort%20%281737%29/A%20feltekenyseg-szakerto%20es%20mas%20-%20Jo%20Nesbo.epub)
 
 ### Joanne Fluke
 

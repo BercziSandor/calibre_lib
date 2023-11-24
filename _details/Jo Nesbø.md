@@ -227,19 +227,6 @@ mystery, crime, thriller, suspense, skandináv, krimi, skandináv krimik
 <p>Sonny, a rejtélyes, visszahúzódó, kábítószerfüggő fiú tizennyolc éves kora óta börtönben ül, mert beismert két gyilkosságot, amelyeket nem ő követett el. Nem ingyen tette. Cserébe megkapja az egyetlen dolgot, amire szüksége van: heroint. Mivel ügye a korrupt hatalmi rendszer minden szereplőjét érinti, a rendőrségnek és az alvilágnak egyaránt az a célja, hogy folyamatosan bódult állapotban és rácsok mögött tartsák. És Sonnynak ez meg is felel, eszében sincs változtatni a helyzeten. A rabtársai egyfajta gyóntatóként tekintenek a különös, vonzó fiúra, s gyakran öntik ki neki a lelküket. Így esik, hogy egy napon Sonny megdöbbentő dolgot tud meg az egyik rabtársától: rendőr édesapja, akiről ő úgy tudta, önkezével vetett véget az életének, valójában gyilkosság áldozata lett. Sonny világa alapjaiban megrendül. Megszökik a szigorúan őrzött börtönből, és megkezdi vadászatát azok után, akik vétettek ellene.</p></div>
 
 
-# <a name="id_1743">Jo Nesbø: Fehér éjszaka (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/.caltrash/b/1743/cover.jpg" alt="cover" width="300"/>
-
-### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/.caltrash/b/1743/Feher%20ejszaka%20-%20Jo%20Nesbo.epub)
-
-### Tagek
-skandináv krimik, skandináv, krimi
-
-### Összefoglalás
-Vajon akkor kezdődött ez a történet, amikor rájöttem, hogy csak a negyedik legjobb focista vagyok az osztályban? – teszi fel magának a kérdést Jon, aki szerény drogüzletét feladva kénytelen elszegődni a Halászhoz, az oslói drogbáróhoz. Sikeres is behajtóként, hiszen elegendő, ha csak kiejti az alvilág nagy hatalmú urának nevét, és az adósok azonnal fizetnek. Egy napon azonban a Halász olyasvalamit kér, amit Jon már nem teljesít, sőt átveri és meglopja megbízóját. A megtorlás elől egészen egy isten háta mögötti kis lappföldi faluig menekül, ahol nyáron nem nyugszik le a nap. Egy elhagyatott vadászkunyhóban húzza meg magát, ahol a kínzó emlékek, a magány és a fehér éjszakák lassan az őrületbe kergetik. És a Halász emberei közelednek. A bujdosó jól tudja: ha nem akarja, hogy elkapják, olyan kiszámíthatatlannak kell lennie, hogy maga se tudja, mi lesz a következő lépése.
-
-
 # <a name="id_1738">Jo Nesbø: Macbeth (2018)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jo%20Nesbo/Macbeth%20%281738%29/cover.jpg" alt="cover" width="300"/>
 

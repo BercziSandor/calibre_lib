@@ -1,22 +1,8 @@
-# <a name="id_236">Agatha Christie: A titkos ellenfél (A titkos ellenfél 1) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titkos%20ellenfel%20%28236%29/cover.jpg" alt="cover" width="300"/>
-
-### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titkos%20ellenfel%20%28236%29/A%20titkos%20ellenfel%20-%20Agatha%20Christie.epub)
-
-### Tagek
-20. század, angol szerző, brit szerző, férfi főszereplő, fiatalkor, filmadaptáció, klasszikus, london, magyar nyelvű, női főszereplő, nyomozás, regény, rejtély, sorozat része, szökés, krimi
-
-### Összefoglalás
-<div>
-<p>Az Agatha Christie-krimik rajongói már ismerik Tuppence-t és Tommyt, a két kalandvágyó fiatal „magándetektívet”, akiknek karrierje ebben a regényben indul, amikor megalapítják az Ifjú Kalandorok Rt.-t.<br>Maguk sem hiszik, hogy milyen veszélyes vállalkozás megkeresni Jane Finnt, a fiatal amerikai lányt, és az eltűnt dokumentumokat, ha útjukat folyton keresztezi a titkos ellenfél.</p></div>
-
-
 # <a name="id_237">Agatha Christie: A titkos ellenfél (A titkos ellenfél 2) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titkos%20ellenfel%20%28237%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/.caltrash/b/237/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titkos%20ellenfel%20%28237%29/A%20titkos%20ellenfel%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/.caltrash/b/237/A%20titkos%20ellenfel%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 20. század, angol szerző, brit szerző, férfi főszereplő, fiatalkor, filmadaptáció, klasszikus, london, magyar nyelvű, női főszereplő, nyomozás, regény, rejtély, sorozat része, szökés, krimi
@@ -24,13 +10,45 @@
 ### Összefoglalás
 <div>
 <p>Az Agatha Christie-krimik rajongói már ismerik Tuppence-t és Tommyt, a két kalandvágyó fiatal „magándetektívet”, akiknek karrierje ebben a regényben indul, amikor megalapítják az Ifjú Kalandorok Rt.-t.<br>Maguk sem hiszik, hogy milyen veszélyes vállalkozás megkeresni Jane Finnt, a fiatal amerikai lányt, és az eltűnt dokumentumokat, ha útjukat folyton keresztezi a titkos ellenfél.</p></div>
+
+
+# <a name="id_1771">Agatha Christie: Bűbájos gyilkosok (Ariadne Oliver 5) (1961)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Bubajos%20gyilkosok%20%281771%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Bubajos%20gyilkosok%20%281771%29/Bubajos%20gyilkosok%20-%20Agatha%20Christie.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Bubajos%20gyilkosok%20%281771%29/Bubajos%20gyilkosok%20-%20Agatha%20Christie.epub)
+
+### Tagek
+mystery, crime, classics, thriller
+
+### Összefoglalás
+<div>
+<p>Gorman atyát haldokló asszonyhoz hívatják, ám hogy Mrs. Davis mit gyónt a papnak, az csak a regény végén derül ki: Gorman atyát ugyanis még aznap meggyilkolják. A nyomozást vezető Lejeune felügyelőnek önkéntes segítőtársa akad: Mark Easterbrook, a fiatal történész, aki – akaratán kívül – olyan események tanúja lesz, hogy nem maradhat tétlen. Így kerül a Sárgaszínű Lóról elnevezett hajdani fogadóba. Ebbe a házba azonban nem az éjszakai nyugalom utáni vágy hajtja a vendégeket, hanem újonnan feltámadt érdeklődésük a fekete mágia iránt… Agatha Christie regénye különös világba kalauzolja az olvasót. Lehetséges, hogy a középkori babonák, okkult tanok – és nem utolsósorban a modern tudomány – segítségével rontás, betegség, sőt halál hozható bizonyos nemkívánatos személyekre? A válasz bízvást még Agatha Christie leggyakorlottabb olvasóit is meglepi.</p></div>
+
+
+# <a name="id_1748">Agatha Christie: A hét számlap rejtélye (Battle főfelügyelő 2) (1941)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20het%20szamlap%20rejtelye%20%281748%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20het%20szamlap%20rejtelye%20%281748%29/A%20het%20szamlap%20rejtelye%20-%20Agatha%20Christie.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20het%20szamlap%20rejtelye%20%281748%29/A%20het%20szamlap%20rejtelye%20-%20Agatha%20Christie.epub)
+
+### Tagek
+mystery, crime, classics, thriller, adult
+
+### Összefoglalás
+<div>
+<p>Lord Caterham vidéki kastélyát, a híres Chimneyst bérbe adja Sir Oswald Coote-nak. A házban vidám társaság gyűlik össze – felséges tréfát eszelnek ki egy álomszuszék társuk rovására. Csakhogy hiába csörög sorban az ágya alá rejtett nyolc ébresztőóra, a fiatalembert semmi sem verheti fel álmából. </p>
+<p>A felderítetlen halálesetet csakhamar gyilkosság követi, és a rejtélyek ezzel csak kezdődnek. A történeten végigvonul az utalás a Hét Számlapra: titkos kártyabarlang vajon? Vagy még titkosabb alvilági társaság? Netán anarchista csoport? </p>
+<p>Lord Caterham vállalkozó szellemű leánya, Batyu elhatározza, nem nyugszik, amíg a sűrűsödő rejtélyek nyitjára nem bukkan. Nyomozása során maga is gyakran kerül összeütközésbe a törvénnyel, amelyet ezúttal a rendíthetetlen nyugalmú Battle főfelügyelő képvisel.</p></div>
 
 
 # <a name="id_66">Agatha Christie: Éjféltájt (Battle főfelügyelő 5) (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Ejfeltajt%20%2866%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Ejfeltajt%20%2866%29/Ejfeltajt%20-%20Agatha%20Christie.epub)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Ejfeltajt%20%2866%29/Ejfeltajt%20-%20Agatha%20Christie.azw3)
 
 ### Tagek
 20. század, angol szerző, brit szerző, detektívtörténet, filmadaptáció, magyar nyelvű, nyomozás, regény, sorozat része, krimi
@@ -58,7 +76,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20Ackroyd-gyilkossag%20%2863%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20Ackroyd-gyilkossag%20%2863%29/Az%20Ackroyd-gyilkossag%20-%20Agatha%20Christie.epub)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20Ackroyd-gyilkossag%20%2863%29/Az%20Ackroyd-gyilkossag%20-%20Agatha%20Christie.azw3)
 
 ### Tagek
 1001 könyv listán szerepel, 20. század, anglia, angol szerző, brit szerző, detektívtörténet, férfi főszereplő, gyilkosság, klasszikus, magándetektív, magyar nyelvű, nyomozás, ősz, regény, sorozat része, krimi
@@ -68,18 +86,32 @@
 <p>King's Abbot békés falucska. Mindenki ismeri egymást, mindenki mindenkiről mindent tud, vagy tudni vél. Ám egyszer csak rejtélyes gyilkosság kavarja fel az álmos hétköznapokat. Vajon kinek állt érdekében meggyilkolni a környék leggazdagabb emberét? A számtalan gyanúsított egyikének sincs alibije, s rendre kiderül, hogy titkok lappanganak a nyugodt felszín alatt. Hercule Poirot, a belga mesterdetektív előtt semmi nem maradhat sokáig rejtve, holott nyomozása során nem használ más eszközt, csupán „szürke agysejtjeit”.<br>Agatha Christie regénye változatlanul lebilincselő olvasmány.</p></div>
 
 
-# <a name="id_238">Agatha Christie: A titokzatos Négyes (Hercule Poirot 5) (1993)</a>
+# <a name="id_238">Agatha Christie: A titokzatos Négyes (Hercule Poirot 5) (1927)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20Negyes%20%28238%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20Negyes%20%28238%29/A%20titokzatos%20Negyes%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, angol szerző, brit szerző, detektívtörténet, férfi főszereplő, filmadaptáció, ikrek, magándetektív, magyar nyelvű, nyomozás, regény, sorozat része, krimi
+mystery, crime, classics, thriller, 20. század, angol szerző, brit szerző, detektívtörténet, férfi főszereplő, filmadaptáció, ikrek, magándetektív, magyar nyelvű, nyomozás, regény, sorozat része, krimi
 
 ### Összefoglalás
 <div>
-<p>Li Chang Yent tekinthetjük a Nagy Négyes agyának. Ő az irányító és a mozgatóerő. Ezért őt az Egyesnek nevezem.<br>A Kettest ritkán említik a nevén. Őt egy „S”-sel jelölik, két vonallal áthúzva – a dollár jelével. Ő képviseli a gazdagság hatalmát.<br>A Hármas minden kétséget kizárólag nő és francia nemzetiségű.<br>A Négyes…<br>Itt elcsuklott a hangja és elhallgatott. Úgy tűnt, hogy valami legyőzhetetlen félelem hatalmasodott el rajta. A vonásai eltorzultak…</p></div>
+<p>Li Chang Yent tekinthetjük a Nagy Négyes agyának. Ő az irányító és a mozgatóerő. Ezért őt az Egyesnek nevezem. <br>A Kettest ritkán említik a nevén. Őt egy S-sel jelölik, két vonallal áthúzva – a dollár jelével. Ő képviseli a gazdagság hatalmát. <br>A Hármas minden kétséget kizárólag nő és francia nemzetiségű. <br>A Négyes… <br>Itt elcsuklott a hangja és elhallgatott. Úgy tűnt, hogy valami legyőzhetetlen félelem hatalmasodott el rajta. A vonásai eltorzultak…</p></div>
+
+
+# <a name="id_1757">Agatha Christie: A titokzatos Kék Vonat (Hercule Poirot 6) (1928)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20Kek%20Vonat%20%281757%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20Kek%20Vonat%20%281757%29/A%20titokzatos%20Kek%20Vonat%20-%20Agatha%20Christie.epub)
+
+### Tagek
+mystery, crime, classics, thriller
+
+### Összefoglalás
+<div>
+<p>"- A nevem Hercule Poirot, és valószínűleg én vagyok a világ legnagyobb detektívje. Egészen biztos benne, hogy nem találkozott a feleségével a vonaton?<br>- Mire akar kilyukadni? Azt akarja... azt akarja mondani, hogy én... én öltem meg?<br>Hirtelen fölnevetett.<br>- Nem szabad dühbe jönnöm, ahhoz ez túl nyilvánvaló képtelenség! Hiszen ha én öltem volna meg, minek kellett volna ellopnom az ékszereit?</p></div>
 
 
 # <a name="id_249">Agatha Christie: Ház a sziklán (Hercule Poirot 8) (2011)</a>
@@ -110,6 +142,35 @@
 <p>Beszállás! ​A Prometheus utasszállító repülőgép rögtön indul Párizsból Croydonba! Huszonegy utas és két légiutas-kísérő elfoglalja a helyét, és a gép a magasba emelkedik. Két kabinjából a hátsóban vegyes társaság gyűlik össze: angol fodrász kislány, francia régészek, angol fogorvos, két arisztokrata hölgy, francia öregasszony – és egy nagy bajszú kis belga. A második ülésen az ebéd utáni kávé mellett elszunyókál az öregasszony. A kilencedik ülésen szenved a kis belga. Az ötödik és hatodik ülésen vitatkozik a két régész. A tizenkettedik ülésen a fogorvos udvarolni próbál a tizenhatodik ülésen a fodrászlánynak. A légiutas-kísérők fel-alá rohangálnak. Egy darázs döng, majd „csatt!”, lecsapja valaki. A második ülésen – csak nincs valami baj? Feje félrebillen… nem mozdul…<br>Micsoda szerencse, hogy a kilencedik ülésen a kis belga azonnal magához tér, amint földet ér a gép. Poirot életében először gyanúsítottként kezdi a nyomozást, de szerencsére nem úgy fejezi be.<br>A kötethez ajándék jubileumi füzet is tartozik az írónő eddig magyarul megjelent köteteinek leírásaival, receptekkel és hasznos háttérinformációkkal.</p></div>
 
 
+# <a name="id_1764">Agatha Christie: Az ABC-gyilkosságok (Hercule Poirot 13) (1936)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20ABC-gyilkossagok%20%281764%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20ABC-gyilkossagok%20%281764%29/Az%20ABC-gyilkossagok%20-%20Agatha%20Christie.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20ABC-gyilkossagok%20%281764%29/Az%20ABC-gyilkossagok%20-%20Agatha%20Christie.epub)
+
+### Tagek
+mystery, classics, crime, thriller
+
+### Összefoglalás
+<div>
+<p>A ndoverben Alice Ascher az áldozat...<br>B exhillben a bájos Betty Barnard...<br>C hurstonban Sir Carmichael Clarke-ra csap le ABC, a titokzatos gyilkos!<br>D e ki lesz a következő?...<br>E setleg mégis megakadályozza a bűnténysorozatot Hercule Poirot, a zseniális magándetektív?<br>F antasztikus fordulatok; egyre fokozódik az izgalom;<br>G yilkosság a trafikban, a tengerparton, a parkban és a moziban...<br>H ány betűje van az ABC-nek?<br>I deje volna már, hogy a rendőrség tegyen valamit!<br>J öhet-e még ezek után újabb meglepetés?<br>K i keríti kézre a titokzatos ABC-t?<br>L egyen nyugodt a Nyájas Olvasó:<br>M ég mielőtt az ABC elfogy,<br>N yugvópontra ér a nyomozás is!<br>O olyan eredménnyel, amilyet senki más nem produkál, mint<br>P oirot, a zseniális magándetektív!</p></div>
+
+
+# <a name="id_1751">Agatha Christie: A kutya se látta (Hercule Poirot 16) (1937)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20kutya%20se%20latta%20%281751%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20kutya%20se%20latta%20%281751%29/A%20kutya%20se%20latta%20-%20Agatha%20Christie.epub)
+
+### Tagek
+mystery, crime, classics, thriller, mystery & crime
+
+### Összefoglalás
+<div>
+<p>Hercule Poirot, a zseniális magánnyomozó kapott már megbízást koronás főktől, nemzetközi pénz- és iparmágnásoktól, fiataloktól, öregtől, gazdagtól és szegénytől – de halottól még soha! Most mégis ezt történik: két hónappal Emily Arundell kisasszony halála után kézbesíti a posta a hölgy levelét, amelyben felettébb gyanús körülményekre hivatkozva kéri a mester segítségét. És Poirot a tőle megszokott lelkiismeretességgel jár utána, mi is lehetett „a kutya labdájának esete”, meg a többi különös körülmény, amely a vagyonos dáma nemkevésbé különös halálához vezetett… <br>Pénz, szerelem, intrika, ármánykodó rokonok hada – és egy barátságos foxterrier a főszereplői ennek a fordulatos bűnügyi regénynek, no meg természetesen a pompás bajszú belga mesterdetektív, Hercule Poirot, aki ezúttal hő kísérője, Hastings kapitány társaságában deríti fel a rejtelmes bűntény minden mozzanatát, és vezet el a meglepő végkifejletig!</p></div>
+
+
 # <a name="id_75">Agatha Christie: Halál a Níluson (Hercule Poirot 17) (2018)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Halal%20a%20Niluson%20%2875%29/cover.jpg" alt="cover" width="300"/>
 
@@ -122,6 +183,22 @@
 ### Összefoglalás
 <div>
 <p>Ki irigyelhette szépségét, gazdagságát, boldogságát? Mindenki. Kinék lehetett több-kevesebb oka a gyilkosság – sőt gyilkosságsorozat elkövetésére? A hajón szinte mindenkinek. S ha már Ergyiptomban, régészeti leletek felkeresésére indult útnak gazdag utasaival a hajó, a „véletlenül” fedélzetén tartózkodó Poirot is régészeti módszerekkel kezd a bűntény felderítéséhez: először minden zavaró, fölösleges elemet eltávolít, aztán minden kétséget kizáróan bebizonyítja, hogy az a gyilkos, akire (természetesen) a legkevésbé sem gyanakodhatunk.</p></div>
+
+
+# <a name="id_1772">Agatha Christie: Cipruskoporsó (Hercule Poirot 21) (1940)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Cipruskoporso%20%281772%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Cipruskoporso%20%281772%29/Cipruskoporso%20-%20Agatha%20Christie.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Cipruskoporso%20%281772%29/Cipruskoporso%20-%20Agatha%20Christie.epub)
+
+### Tagek
+mystery, crime, classics, thriller
+
+### Összefoglalás
+<div>
+<p style="font-style: italic">„Előkelő, szép, fiatal nő a vádlottak padján. Halálsápadtan hallgatja a vádbeszédet.<br>– Elinor Katherine Carlisle – szól hozzá az ügyész-, ön gyilkosság vádjával áll előttünk. Bűnösnek vallja magát? <br>A lány szeme előtt összefutnak az arcok. Úgy érzi, sűrű köd veszi körül. Mozdulni se tud, a beszédből csak egy-egy szó jut el a tudatáig. <br>– Bűnös vagy nem bűnös! – hangzik el másodszor is a kérdés. <br>– Nem vagyok bűnös – jelenti ki, de maga se tudja, igazat mondott-e. <br>Egymás után állnak elő a tanúk, egyre bonyolultabbnak látszik a helyzet. De színre lép Hercule Poirot, a kistermetű belga mester-detektív, és minden megvilágosodik.” </p>
+<p>Agatha Christie ezúttal is izgalmas bűnügyi regénnyel szolgál olvasóinak.</p></div>
 
 
 # <a name="id_73">Agatha Christie: Nyaraló gyilkosok (Hercule Poirot 23) (2018)</a>
@@ -180,32 +257,87 @@
 <p>A Coral tyúkszemtapasz- és lábápolószer-gyár gazdag tulajdonosát váratlanul elragadja a halál. Fia, lánya nincs: öccsei, húgai, sógornői búcsúztatják díszes temetésén a rájuk váró csinos örökség reményében. Mindnyájan alaposan rászorulnak némi pénzmagra. A temetést követő bőséges villásreggeli után kiderül, hogy nem ok nélkül reménykedtek, s immár a rózsásabb jövő boldog tudatában sajnálkozhatnak a megboldogult hirtelen halálán, amikor az egyik örökös váratlanul megszólal: – Hiszen meggyilkolták, nem?! És másnap – őt gyilkolják meg otthonában. Van-e összefüggés a két haláleset között, s ha igen, milyen? A boldog örökösök közül gyilkolt-e valaki, s ha igen, miért? Ezt a rejtélyt kell megoldania Hercule Poirot barátunknak, a belga mesterdetektívnek – s talán nem árulunk el nagy titkok, ha megnyugtatjuk a nyájas olvasót: Poirot ezúttal sem hagyja cserben a zseniális képességeiben reménykedőket.</p></div>
 
 
-# <a name="id_234">Agatha Christie: A harmadik lány (Hercule Poirot 35) (2009)</a>
+# <a name="id_1777">Agatha Christie: Gloriett a hullának (Hercule Poirot 31) (1956)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Gloriett%20a%20hullanak%20%281777%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Gloriett%20a%20hullanak%20%281777%29/Gloriett%20a%20hullanak%20-%20Agatha%20Christie.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Gloriett%20a%20hullanak%20%281777%29/Gloriett%20a%20hullanak%20-%20Agatha%20Christie.epub)
+
+### Tagek
+mystery, crime, classics, thriller
+
+### Összefoglalás
+<div>
+<p>- Az a megbízatásom, hogy megrendezzek egy gyilkosságot. <br>Poirot nagyot nézett.<br>- Na, nem igazi gyilkosságot - nyugtatta meg Mrs. Oliver. - Holnap itt nagy kerti mulatság lesz, és újdonságképpen műsorra tűznek egy társasjátékot is. Amit én rendezek. A címe: Hol a hulla?<br>- És hogy megy az a játék?<br>- Természetesen van egy áldozat. Vannak rejtjelek és vannak gyanúsítottak... Fél korona a belépti díj, és aki benevez, annak meg kell találnia az áldozatot és a gyilkos fegyvert, ki kell találnia, hogy ki a gyilkos és mi volt a gyilkosság indítéka.<br>- Tehát azért hívatott, hogy segítsen önnek megrendezni ezt a játékot? - Poirot nem is próbálta kirekeszteni a hangjából a felháborodott szemrehányást.<br>- Még mit nem? Azt én magam is elintézem. Nem, egészen más okból kérettem ide. Meglehet, hogy egyszerűen bolond vagyok, de attól tartok, valami nincs itt rendben. Ez az, amit önnek kell kideríteni. Egyre inkább úgy érezte, mintha távirányítanának... mintha fel akarnának használni valamire. Bolondnak tarthat, ha úgy tetszik, de én csak azt mondhatom, hogy egy csöppet sem lennék meglepődve, ha holnap műgyilkosság helyett igazi gyilkosság történne.</p></div>
+
+
+# <a name="id_1749">Agatha Christie: A karácsonyi puding esete (Hercule Poirot 33) (1923)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20karacsonyi%20puding%20esete%20%281749%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20karacsonyi%20puding%20esete%20%281749%29/A%20karacsonyi%20puding%20esete%20-%20Agatha%20Christie.epub)
+
+### Tagek
+mystery, crime, classics
+
+### Összefoglalás
+<div>
+<p>Ezt a kötetet Agatha Christie mint séf ajánlja figyelmünkbe: a karácsonyi puding esetén kívül, amely igen tartalmas fogás, öt előételt tartalmaz. Meglepő módon az egyiket közülük nem Poirot, hanem Miss Marple tálalásában élvezhetjük!<br>Bárhol szívesebben töltené Hercule Poirot a karácsonyt, mint egy kifűthetetlen, tizenhatodik századi udvarházban. De az eltűnt rubin rejtélye csak odavonzza...<br>Miss Marple unokaöccse boldogan mutatja meg Greenshaw Bolondvárát barátjának, aki giccseket gyűjt. De ki lőtte le (íjjal!) az idősecske várkisasszonyt?<br>Megtudjuk továbbá, hogy került a hulla a spanyol ládába, ki ölte meg a nehéz természetű főrendet, miért veszélyes étel a szedres pite, és megálmodhatja-e az ember, hogy öngyilkos lesz.</p></div>
+
+
+# <a name="id_1768">Agatha Christie: Az órák (Hercule Poirot 34) (1963)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20orak%20%281768%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20orak%20%281768%29/Az%20orak%20-%20Agatha%20Christie.epub)
+
+### Tagek
+mystery, crime, classics, thriller
+
+### Összefoglalás
+<div>
+<p>Sheila Webb hivatásos gyors- és gépírónõ. A Wilbraham Crescenten lakó Miss Pebmarsh személyesen õt kérte telefonon az irodától, így Sheila elindul. – Nyisson csak be –, szólt az utasítás. Be is nyit, bemegy a nappaliba, ahol egy csomó órát talál – meg egy hullát. Ekkor ér haza Miss Pebmarsh, aki majdnem rálép a halottra, mert… vak. És esküszik rá, hogy õ nem rendelt gépírónõt. </p>
+<p>Colin Lamb óceánkutató biológus, de most éppen nem eredeti szakmájában dolgozik. A kémelhárítás ifjú csillaga egy papírdarab nyomán jut el a Wilbraham Crescentre – ahol a sikoltozó Sheila zuhan a karjába. Szerencsére Colinnak sok jó barátja van: Hardcastle felügyelõ, akit megbíznak az üggyel, és egy idõs, bajszos belga úriember, bizonyos Hercule Poirot. </p>
+<p>Szerepel még a bonyodalmak között egy építési vállalkozó, egy kém, két kíváncsi kiskamasz, egy öregasszony és negyven macska. Azért a végére szokás szerint minden kiderül! </p>
+<p>A regényt új fordításban jelentetjük meg.</p></div>
+
+
+# <a name="id_234">Agatha Christie: A harmadik lány (Hercule Poirot 35) (1966)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20harmadik%20lany%20%28234%29/cover.jpg" alt="cover" width="300"/>
 
-### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20harmadik%20lany%20%28234%29/A%20harmadik%20lany%20-%20Agatha%20Christie.epub)
-
 ### Tagek
-1960-as évek, 20. század, angol szerző, brit szerző, fiatalkor, gyilkosság, london, magándetektív, magyar nyelvű, női főszereplő, nyomozás, regény, sorozat része, krimi
+mystery, crime, classics, thriller, 1960-as évek, 20. század, angol szerző, brit szerző, fiatalkor, gyilkosság, london, magándetektív, magyar nyelvű, női főszereplő, nyomozás, regény, sorozat része, krimi
 
 ### Összefoglalás
 <div>
-<p>Ebben ​a regényében a krimi nagyasszonya neki igencsak szokatlan terepre téved: a hatvanas évek Londonjába, hippik és művészek közé. Híres nyomozója, Hercule Poirot és regényíró hasonmása, Ariadné Olivér is meglehetősen idegenül mozognak ebben a környezetben. Mert például mi vagy ki a harmadik lány? Erre Mrs. Olivér tudja a választ: „Harmadik lányt keresünk kényelmes második emeleti lakásba, saját szoba, központi fűtés, Earl's Court” – olvassa fel a hirdetést. Ilyen „harmadik lány” jelenik meg Poirot reggelije közben, hogy a segítségét kérje, mert lehetséges, hogy gyilkosságot követett el. De Norma Restarick nem fejti ki részletesebben, mire gondol, hanem elrohan, hiszen a kis belga „túl öreg, senki sem mondta, hogy ilyen öreg”. Poirot-t tehát a hiúsága is nyomozásra sarkallja. De ha még az sem biztos, hogy gyilkosság történt, akkor honnan kezdjen neki? Szerencsére a mosdatlan művészek és a bársonymellényes, hosszú hajú világfik ugyanolyanok, mint régen a keménykalapos urak. Ariadné Olivér hathatós segítségével végül fényt derít a bűntettre, és Norma is bocsánatot kér: „Nagyon udvariatlan megjegyzés volt. És nem is volt igaz…” A regényt új fordításban jelentetjük meg.</p></div>
+<p>Ebben a regényében a krimi nagyasszonya neki igencsak szokatlan terepre téved: a hatvanas évek Londonjába, hippik és művészek közé. Híres nyomozója, Hercule Poirot és regényíró hasonmása, Ariadne Oliver is meglehetősen idegenül mozognak ebben a környezetben. Mert például mi vagy ki a harmadik lány? Erre Mrs. Oliver tudja a választ: „Harmadik lányt keresünk kényelmes második emeleti lakásba, saját szoba, központi fűtés, Earl’s Court” – olvassa fel a hirdetést. Ilyen „harmadik lány” jelenik meg Poirot reggelije közben, hogy a segítségét kérje, mert lehetséges, hogy gyilkosságot követett el. De Norma Restarick nem fejti ki részletesebben, mire gondol, hanem elrohan, hiszen a kis belga „túl öreg, senki sem mondta, hogy ilyen öreg”. </p>
+<p>Poirot-t tehát a hiúsága is nyomozásra sarkallja. De ha még az sem biztos, hogy gyilkosság történt, akkor honnan kezdjen neki? Szerencsére a mosdatlan művészek és a bársonymellényes, hosszú hajú világfik ugyanolyanok, mint régen a keménykalapos urak. Ariadne Oliver hathatós segítségével végül fényt derít a bűntettre, és Norma is bocsánatot kér: „Nagyon udvariatlan megjegyzés volt. És nem is volt igaz…” </p>
+<p>A regényt új fordításban jelentetjük meg.</p></div>
 
 
-# <a name="id_239">Agatha Christie: A titokzatos stylesi eset / Függöny (Hercule Poirot 37) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20stylesi%20eset%20_%20Fuggony%20%28239%29/cover.jpg" alt="cover" width="300"/>
-
-### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20stylesi%20eset%20_%20Fuggony%20%28239%29/A%20titokzatos%20stylesi%20eset%20_%20Fug%20-%20Agatha%20Christie.epub)
+# <a name="id_67">Agatha Christie: Ellopott gyilkosság (Hercule Poirot 36) (1969)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Ellopott%20gyilkossag%20%2867%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-20. század, angol szerző, brit szerző, detektívtörténet, magyar nyelvű, nyomozás, regény, sorozat része, mystery & crime, krimi
+mystery, crime, classics, thriller, krimi
 
 ### Összefoglalás
 <div>
-<p>Anglia ​kies zöld mezőinek közepén kicsiny falu Styles St. Mary. A nagy parkban álló stylesi kastély lakóit megkímélte a háború – mégsem boldogok. Vasakarattal kormányozza háza népét a kastély úrnője, aki a környék – és a család – bőkezű jótevőjének szerepében tetszeleg, de a zsebpénzt bizony szűken méri szeretteinek. Gőgös szívét azonban egy szép napon ostrommal veszi be a faluba vetődő szakállas idegen, és a kastély úrnője készségesen nyújtja kezét (és pénztárcáját) a nála vagy húsz esztendővel fiatalabb „drága Alfred”-nek. Persze, az ilyesminek ritkán jó a vége… A stylesi kastélyban bekövetkező titokzatos bűnügyet azonban végül sikeresen deríti fel a menekült belga detektív: Hercule Poirot – aki A titokzatos stylesi eset című Agatha Christie-regényben lépett első ízben az olvasók elé, hű tisztelője, Arthur Hastings kapitány társaságában.<br>Az első világháború alatt játszódó regény színhelyére, a stylesi kastélyba hívja barátját sok-sok év elteltével az elaggott, de korántsem szenilis Poirot a Függöny-ben; és az őszbe csavarodott, de változatlanul romantikus lelkű Hastings, mint mindig, most is hűségesen engedelmeskedik dicső barátjának. Stylesban most sem honol boldogság; más a tulajdonos, mások az életkörülmények – a hajdani kastély ma fizetővendégek lakhelye –, de az ódon falak között megint csak bűntény történik, és természetesen megint csak Poirot az, aki mindent kiderít – végül, de ezúttal utoljára…</p></div>
+<p>At a Hallowe’en party, Joyce—a hostile thirteen-year-old—boasts that she once witnessed a murder. When no one believes her, she storms off home. But within hours her body is found, still in the house, drowned in an apple-bobbing tub. </p>
+<p>That night, Hercule Poirot is called in to find the “evil presence.” But first he must establish whether he is looking for a murderer or a double murderer.…</p></div>
+
+
+# <a name="id_1766">Agatha Christie: Az elefántok nem felejtenek (Hercule Poirot 37) (1992)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20elefantok%20nem%20felejtenek%20%281766%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20elefantok%20nem%20felejtenek%20%281766%29/Az%20elefantok%20nem%20felejtenek%20-%20Agatha%20Christie.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20elefantok%20nem%20felejtenek%20%281766%29/Az%20elefantok%20nem%20felejtenek%20-%20Agatha%20Christie.epub)
+
+### Összefoglalás
+<div>
+<p>Hercule Poirot visszavonultan él. Csak néha nyitja rá valaki az ajtót. Ezúttal régi barátnője érkezik: Mrs. Oliver, detektívregények hírneves szerzője (a kedves olvasó jól ismeri őt a sorozat előző, Ellopott gyilkosság című kötetéből)… Az írónővel mindig történik valami. Ismerősei, barátai, rokonai gyarkan zaklatják különös történetekkel. S most megint egy eset. Mrs. Oliver egy „irodalmi ebéden” vett részt, ahol egy cseppet sem rokonszenves hölgy, bizonyos Mrs. Burton-Cox nyakon ragadta, félrevonta és roppant különös kéréssel fordult hozzá. Fia, Desmond, ugyanis feleségül akarja venni Mrs. Oliver unokahúgát, akinek a szülei évekkel azelőtt öngyilkosok lettek. Mrs. Burton-Cox azt szeretné tudni, ki lőtt először. Mrs. Oliver mélységesen fölháborította a kérdés. Ő könyveket ír, semmi köze a valóságos erőszakhoz. A kérést tehát elutasította, úgysem tudja teljesíteni… … De a kíváncsiság fölébred, és ekkor látogatja meg öreg barátját, Hercule Poirot-t…</p></div>
 
 
 # <a name="id_257">Agatha Christie: Poirot bravúrjai I. (Hercule Poirot 38) (1994)</a>
@@ -220,6 +352,50 @@
 ### Összefoglalás
 <div>
 <p>„Sziporkázóan szellemes, fordulatos és feledhetetlenül szórakoztató.”<br>Sunday Times<br>Hercule Poirot, a zseniális mesterdetektív, az ördöngös belga nyomozó emlékezetes esetei.<br>Már a külseje is lélegzetelállító! Pontosan öt láb és négy hüvelyk magas (helyesebben alacsony), ápolt férfi, kifogástalan öltönyben (sehol egy porszem!), nyakán csokornyakkendő, lábán tükörfényes lakkcipő. Igazi ékessége mégis a bajusza, ez a pompás, suvickolt, viaszkolt arcdísz, melyről bízvást megállapíthatjuk, hogy igazi műremek. De a belbecs sem megvetendő! Poirot, a modern Herkules, szürke kis agysejtek miriádjainak büszke tulajdonosa. Fegyverei a fölényes intellektuális erő, a csalhatatlan logika és a beleélő képesség, amelyek segítségével sorra leplezi le a bűnösöket és hiúsítja meg a gonosz terveket.<br>Duplán szórakozhat a Kedves Olvasó!</p></div>
+
+
+# <a name="id_1758">Agatha Christie: A titokzatos stylesi eset / Függöny (Hercule Poirot 39) (1974)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20stylesi%20eset%20_%20Fuggony%20%281758%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20stylesi%20eset%20_%20Fuggony%20%281758%29/A%20titokzatos%20stylesi%20eset%20_%20Fug%20-%20Agatha%20Christie.epub) 
+ [prc](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20stylesi%20eset%20_%20Fuggony%20%281758%29/A%20titokzatos%20stylesi%20eset%20_%20Fug%20-%20Agatha%20Christie.prc)
+
+### Tagek
+mystery, classics, crime, thriller, mystery & crime
+
+### Összefoglalás
+<div>
+<p>Anglia kies zöld mezőinek közepén kicsiny falu Styles St. Mary. A nagy parkban álló stylesi kastély lakóit megkímélte a háború – mégsem boldogok. Vasakarattal kormányozza háza népét a kastély úrnője, aki a környék – és a család – bőkezű jótevőjének szerepében tetszeleg, de a zsebpénzt bizony szűken méri szeretteinek. Gőgös szívét azonban egy szép napon ostrommal veszi be a faluba vetődő szakállas idegen, és a kastély úrnője készségesen nyújtja kezét (és pénztárcáját) a nála vagy húsz esztendővel fiatalabb „drága Alfred”-nek. Persze, az ilyesminek ritkán jó a vége… A stylesi kastélyban bekövetkező titokzatos bűnügyet azonban végül sikeresen deríti fel a menekült belga detektív: Hercule Poirot – aki <em>A titokzatos stylesi eset</em> című Agatha Christie-regényben lépett első ízben az olvasók elé, hű tisztelője, Arthur Hastings kapitány társaságában.<br>Az első világháború alatt játszódó regény színhelyére, a stylesi kastélyba hívja barátját sok-sok év elteltével az elaggott, de korántsem szenilis Poirot a <em>Függöny</em> ben; és az őszbe csavarodott, de változatlanul romantikus lelkű Hastings, mint mindig, most is hűségesen engedelmeskedik dicső barátjának. Stylesban most sem honol boldogság; más a tulajdonos, mások az életkörülmények – a hajdani kastély ma fizetővendégek lakhelye –, de az ódon falak között megint csak bűntény történik, és természetesen megint csak Poirot az, aki mindent kiderít – végül, de ezúttal utoljára…</p></div>
+
+
+# <a name="id_1762">Agatha Christie: A Greenshore-gloriett (Hercule Poirot 40) (2013)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20Greenshore-gloriett%20%281762%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20Greenshore-gloriett%20%281762%29/A%20Greenshore-gloriett%20-%20Agatha%20Christie.epub)
+
+### Tagek
+mystery, crime, classics, thriller
+
+### Összefoglalás
+<div>
+<p>Hercule Poirot-t telefonon felhívja a híres detektívregény-írónő, Mrs. Ariadne Oliver, hogy azonnal utazzon el Laptonba. Mrs. Oliver elvállalta egy "gyilkosvadászat"-játék megrendezését Sir George Stubbs birtokán, és most aggódik, nehogy valódi gyilkosság történjen. De a játék természetesen komolyra fordul... </p>
+<p>Agatha Christie eddig kiadatlan kisregényét Mathew Prichard és Tom Adams elő- és John Curran utószavával olvashatják most. Soha még nem jelent meg, sem angolul, sem magyarul. Nem hittük volna, hogy még előkerül új Christie-írás, de itt van, minden rajongó örömére.</p></div>
+
+
+# <a name="id_241">Agatha Christie: Az álmok háza (Hercule Poirot 99) (2020)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20almok%20haza%20%28241%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20almok%20haza%20%28241%29/Az%20almok%20haza%20-%20Agatha%20Christie.epub)
+
+### Tagek
+20. század, álom, angol szerző, brit szerző, detektívtörténet, elbeszélés, kaland, magándetektív, magyar nyelvű, novella, nyomozás, regény, sorozat része, krimi
+
+### Összefoglalás
+<div>
+<p>Minden nagy alkotónak van egy játszótere, ahol nem kell az elvárások szerint viselkednie. Agatha Christie is írhat olyan történeteket, amelyekből hiányoznak azok a tipikus fordulatok, melyeknek köszönhetően világhíres lett.<br>Mondjuk a novellában nem követnek el igazi gyilkosságot, és Poirot figurája egy gyerekes csíny csetlő-botló áldozataként tűnik fel. Ugyanakkor számtalan módon köszönnek vissza az írásokból azok a megoldások, melyek az írónő klasszikus alkotásait híressé tették.<br>Agatha Christie bármely történet megformálása során képes arra, hogy folyamatosan, ugyanakkor remek kompozíciós érzékkel adagolja a váratlan fordulatokat, és mikor már kényelmesen hátradőlve azt hinnénk, hogy sejtjük a végkifejletet, ő megint rácáfol elvárásainkra. Ezért szeretjük.</p></div>
 
 
 # <a name="id_68">Agatha Christie: Gyilkosság a paplakban (Miss Marple 1) (2011)</a>
@@ -278,6 +454,20 @@
 <p>Jerry ​Burton repülőszerencsétlenség után lábadozik. Hála istennek nem lesz nyomorék, de felépüléséig nyugalomra van szüksége, ezért az orvosok vidékre küldik. Húgával, Joannával Lymstockban bérelnek ki egy házat. A városka legfontosabb lakói levizitelnek náluk, és innentől kezdve ők is a társaság köreibe tartoznak. Ennek első jele, hogy undorító névtelen levelet kapnak. A helyi orvos szerint kapott már ilyet mindenki, de baj csak akkor lesz belőle, ha egyszer véletlenül telibe talál a levélíró. De tudjuk, nem zörög a haraszt…<br>És a haraszt addig zörög, amíg valaki öngyilkos nem lesz. Búcsúlevelet is hagy, Jerry pedig a szükséges nyugalom helyett egyre fokozódó izgalmak között találja magát. Mi állhatott az utolsó névtelen levélben, hogy a címzett ennyire végleges módot keresett a szabadulásra? A kisváros felbolydul, mindenhol csak erről beszélnek. A levelek meg csak jönnek, jönnek… Nyomoz a helyi rendőrség, bekapcsolódik a Scotland Yard névtelen levelekkel foglalkozó nyomozója, töri a fejét a helyi lelkész felesége, Mrs. Dane Calthrop. Szerencsére felbukkan a környéken egy idős hölgy, aki szívesen kötöget és pletykál. Miss Marple szokás szerint mindent kiderít.<br>Agatha Christie egyik legkedvesebb műve volt ez, amin nem kell csodálkozni: remek alakok egy tökéletesen megrajzolt kisvárosban, kellően bonyolult bűntény izgalmas megfejtéssel.</p></div>
 
 
+# <a name="id_1773">Agatha Christie: Egy marék rozs (Miss Marple 7) (1953)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Egy%20marek%20rozs%20%281773%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Egy%20marek%20rozs%20%281773%29/Egy%20marek%20rozs%20-%20Agatha%20Christie.epub)
+
+### Tagek
+mystery, crime, classics, thriller
+
+### Összefoglalás
+<div>
+<p>Mr. Rex Fortescue gazdag ám kétes ügyletektől sem visszariadó üzletember. Amikor gyönyörű titkárnője behozza délelőtti teáját, megissza, majd heves görcsök közt meghal. Neele felügyelő hamar kideríti, hogy nem a teától – még a reggelijébe tettek lassan ható mérget. A gyanú így a családra terelődik s úgy tűnik, igencsak mindenkinek lett volna oka rá, hogy eltegye láb alól az öregurat. Nem áll gyanún felül a személyzet sem; fiatal, második feleségének alighanem szeretője van, különben miért végrendelkezett volna a jóképű fiatalember javára. Percy fiával üzleti nézeteltérései voltak (igaz, ő üzleti úton távol volt, de hátha a felesége?); lányát, Elaine-t nem engedte férjhez menni; s alighanem piszkos üzleteivel is szerzett magának egypár halálos ellenséget. A gyanúsítottak száma csökken ugyan, amikor a feleség teájába ciánkáli kerül, a mafla kis szobalányt pedig megfojtják, de az ügy semmivel sem lesz világosabb, amíg meg nem érkezik Miss Maripe a szerencsétlen szobalány egykori úrnője. A bölcs vénkisasszony addig-addig cseveg a ház népével, míg rá nem jön először a bűntettek különös körülményeit megmagyarázó gyerekversikére (ebből derül fény az egyik legérthetetlenebb körülményre, a Mr. Fortescue zsebében talált maréknyi rozsra) majd ki nem deríti az igazi tettest – aki természetesen a legjobb alibivel rendelkező, legvalószínűtlenebb személy.</p></div>
+
+
 # <a name="id_74">Agatha Christie: Paddington 16.50 (Miss Marple 8) (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Paddington%2016.50%20%2874%29/cover.jpg" alt="cover" width="300"/>
 
@@ -292,6 +482,20 @@
 <p>Az idős, törékeny Miss Marple maga már nem játszhat detektívesdit – amikor azonban tudomására jut, hogy barátnője, vonaton utaztában, egy gyilkosságnak lett szemtanúja, nem nyughat nyomozóösztöne. S az a „csekélység”, hogy a mondott időben a vasútvonalon semmiféle bűnesetről nem érkezett jelentés, nem gátolja a találékony öregkisasszonyt abban, hogy kiderítse: mégiscsak történt gyilkosság, s hogy a feltételezett áldozat feltételezett holtteste vajon hová tűnhetett.</p></div>
 
 
+# <a name="id_1750">Agatha Christie: A kristálytükör meghasadt (Miss Marple 9) (1962)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20kristalytukor%20meghasadt%20%281750%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20kristalytukor%20meghasadt%20%281750%29/A%20kristalytukor%20meghasadt%20-%20Agatha%20Christie.epub)
+
+### Tagek
+mystery, crime, classics
+
+### Összefoglalás
+<div>
+<p>St. ​Mary Mead békés vidéki fészek, bár az elmúlt évtizedekben alaposan megváltozott. Gossington Hallban sem Bantry ezredes lakik már, hanem eladják. Most éppen egy amerikai filmcsillag veszi meg. Abban a házban, ahol két évtizede egy holttest hevert a könyvtárszobában, nagyszabású jótékonysági partit rendeznek a Szent János Mentőszolgálat javára, és azért, hogy a falu kíváncsi lakói alaposan szemügyre vehessék az egzotikus új lakókat. A régi lakosok közül néhányan a házban tartott szűk körű összejövetelre is hivatalosak, finom falatok és italok várják őket. A Mentőszolgálat titkára véletlenül kiönti a koktélját és kárpótlásul a gyönyörű Marina Gregg italát kapja. De ebben a pohárban más is volt a koktél mellett… Mrs. Badcock meghal, Marina Gregg élete pedig rémálommá válik. Ki tör a filmcsillag életére és miért? Szerencsére egyvalami, illetve egyvalaki nem változott St. Mary Meadben: Miss Jane Marple. Megöregedett, nem tud már kertészkedni, kötögetni, állandó segítségre szorul, de az esze még mindig úgy vág, mint a borotva. És a háziorvos izgalmas kinyomoznivalót írt fel neki unalom ellen.</p></div>
+
+
 # <a name="id_76">Agatha Christie: Rejtély az Antillákon (Miss Marple 10) (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Rejtely%20az%20Antillakon%20%2876%29/cover.jpg" alt="cover" width="300"/>
 
@@ -304,6 +508,20 @@
 ### Összefoglalás
 <div>
 <p>– ​Van kedve megnézni egy gyilkos fényképét? – kérdezte a szederjes képű Palgrave őrnagy. Ám Miss Marple még nem is válaszolhatott, amikor a háta mögül közeledő léptek zaja hallatszott…<br>Csodálatosan ragyog a Karib-tenger azúrkéksége fölött a nap, gondtalanul sütkéreznek a strand meleg fövenyén az Arany Pálma-szálló vendégei, aki pedig színvonalasabb szórakozásra vágyik, kedvére tanulmányozhatja a nyugat-indiai szigetek egzotikus állat- és növényvilágát, mint az elválaszthatatlannak tűnő baráti négyesfogat: a higgadt, jó modorú Edward és Evelyn, meg a hangos Greg és a vidám Lucky. Este zene szól, hangulatvilágításnál táncolnak a párok: a szálloda újdonsült ifjú tulajdonosai, Tim és Molly nem kímélik a fáradságot, ha vendégeik kényelméről van szó.<br>És mégis…?<br>És mégis. Rejtély az Antillákon! Avagy: ki elégelte meg a szószátyár őrnagy szűnni nem akaró történeteit…? Kinek volt az útjában a szép fekete Victoria? ki zavarja meg a békés nyaralók éjszakai álmát…?<br>Rejtély az Antillákon!<br>De sebaj: mindenkit megnyugtathatunk – Miss Marple fölött eljárt az idő, de a bájos öreg hölgy mégsem hagyja magát. Kötögetés, csevegés, némi kis finom hallgatózás – és a rejtély nem marad örökre Rejtély!</p></div>
+
+
+# <a name="id_1746">Agatha Christie: A Bertram szálló (Miss Marple 11) (1964)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20Bertram%20szallo%20%281746%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20Bertram%20szallo%20%281746%29/A%20Bertram%20szallo%20-%20Agatha%20Christie.epub)
+
+### Tagek
+mystery, crime, classics, thriller
+
+### Összefoglalás
+<div>
+<p>�Van egy nagyszerű hely Londonban. Bertram Szállónak hívják. Mintha csak száz évet visszaforgott volna az idő. Csupa olyan ember, akikkel máshol nem lehetett találkozni. Csodálatos öreg hercegnők. És valamennyi régi angol étel szerepel az étlapon, és remek régi angol bifsztek-pudingjuk van! Olyat még nem kóstoltál! És hatalmas hátszínszeletek, és micsoda ürüborda, és békebeli angol tea, és tüneményes angol reggelik! És meleg is van. Hatalmas kandallók...� Történhet vajon ilyen hamisítatlan, békebeli környezetben � bűntény?<br>Történhet!<br>Ön eltalálta!<br>A hamisítatlan békebeli környezet (ami különben nem is olyan egészen hamisítatlan) � sötét üzelmeket takar. �Igyekszünk vendégeink minden óhaját teljesíteni� � mondja a tökéletes szálloda tökéletes üzletvezetője. Ám némely vendégnek különös óhajai vannak... És a bájos, törékeny, vidéki öregkisasszony, Miss Marple, eltűnődik... És amikor már ő is, az olvasó is úgy érzi: minden rejtély megoldódott � a szerző még az utolsó lapra is tartogat egy kis meglepetést!</p></div>
 
 
 # <a name="id_72">Agatha Christie: Nemezis (Miss Marple 12) (2011)</a>
@@ -334,6 +552,21 @@
 <p>E könyv Agatha Christie utolsó Miss Marple regénye. A kedves, idős, kotnyeles hölgy búcsúzóul is kitesz magáért: nem mindennapi pszichológiai érzékkel derít fényt egy olyan bűntényre, amelynek létéről nincs is tudomása senkinek.<br>Gwenda Reed esküvője után házat keres, ahol férjével nyugodt boldogságban élhetne. És megtalálja azt a villát, amelyről álmodott. Azt a házat, amelyet keresett…<br>De az öröm, ami a költözködéssel és berendezkedéssel jár, hamar szertefoszlik. Gwendát nyugtalan, furcsa rémképek gyötrik, de nem talál rájuk magyarázatot.<br>A hihetetlen és véletlen események egybeesése Miss Marple figyelmét is felkelti, s kitartó szívóssággal addig nyomoz, amíg fény nem derül a dél-angol udvarház rejtélyeire.<br>Az olvasót mindvégig izgalomban tartó cselekmény feszültségét Agatha Christie páratlan hangulatot, atmoszférát teremtő előadása csak tovább fokozza.</p></div>
 
 
+# <a name="id_1745">Agatha Christie: A barna ruhás férfi (Race ezredes 1) (1924)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20barna%20ruhas%20ferfi%20%281745%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20barna%20ruhas%20ferfi%20%281745%29/A%20barna%20ruhas%20ferfi%20-%20Agatha%20Christie.epub)
+
+### Tagek
+mystery, crime, classics, thriller, adventure, romance
+
+### Összefoglalás
+<div>
+<p>Anne Beddingfeld igazi kalandregény-hősnő: merész, önálló, szép és félárva. Egy baja van csak, a faluban, ahol él, kaland csak a filléres regényekben és a moziban terem. Édesapja halála után azonban Londonba kerül, és tanúja lesz, amint egy férfi ijedtében a földalatti síneire esik és meghal. A halál beálltát megállapító orvos pedig elveszít egy cédulát. De a cédulának naftalinszaga van, mint a halott kabátjának! Mit jelenthet az öt számjegy és a két szó a papírszeleten? És miért akart megnézni a halott egy Temze-parti házat, amit tulajdonosa, Sir Eustace Pedler, bérbe kíván adni? Amikor aztán egy meggyilkolt nőt találnak ebben a házban, Anne akcióba lendül. Nem zavarja, hogy egyedül van, hogy koldusszegény, a gyilkossággal vádolt, titokzatos „barna ruhás férfi” nyomába veti magát. Nyomoz a tetthelyen, a Malomházban, Londonban, óceánjárón, Dél-Afrikában. Megismerkedik egy parlamenti képviselővel, egy társasági szépasszonnyal, Race ezredessel és egy titkárral, aki a Borgiák fő méregkeverője lehetne külseje alapján. </p>
+<p>Agatha Christie fiatalkori, könnyed, szellemes kaland-krimijében persze senki sem az, akinek látszik…</p></div>
+
+
 # <a name="id_247">Agatha Christie: Gyöngyöző cián (Race ezredes 4) (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Gyongyozo%20cian%20%28247%29/cover.jpg" alt="cover" width="300"/>
 
@@ -346,6 +579,22 @@
 ### Összefoglalás
 <div>
 <p>Rosemary Barton szép, fiatal, gazdag, boldog – miért lenne öngyilkos? De ha nem öngyilkos lett, akkor legközelebbi családtagjai és barátai közül tett ciánt a pezsgőjébe valaki. De ki akarhatta volna a halálát? George Barton, a férje el sem tudja képzelni, megrendezi hát egy évvel felesége halála után ugyanott, ugyanazokkal a vendégekkel a vacsorát, hátha kiderül valami. Ki is derül: újabb haláleset történik. Biztos hát, hogy Rosemary sem önkezével vetett véget az életének. Gyanúsítottakban szokás szerint nincs hiány. Agatha Christie ismét zseniális bűntényt alkotott – minden nyom ott van a szemünk előtt, csak nem vesszük észre…</p></div>
+
+
+# <a name="id_1756">Agatha Christie: Titkos ellenfél (Tommy és Tuppence 1) (1921)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Titkos%20ellenfel%20%281756%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Titkos%20ellenfel%20%281756%29/Titkos%20ellenfel%20-%20Agatha%20Christie.epub)
+
+### Tagek
+mystery, classics, crime, thriller, adventure
+
+### Összefoglalás
+<div>
+<p>Tommy Beresfordnak és Tuppence Cowley-nak, mint az első világháború után a legtöbb fiatalnak, nincs se pénze, se munkája. Az izgalmat hajszolva nagy fába vágják a fejszéjüket: elhatározzák, hogy magándetektívek lesznek. Megalapítják az Ifjú Kalandorok Rt.-t, amely így hirdeti magát: „Mindenre kaphatóak, bárhová elmennek.” </p>
+<p>Első megbízatásuk, melyet a gyanús külsejű Mr. Whittingtontól kapnak, máris egy időzített politikai bombát rejteget. Azt a szigorúan titkos iratot hajkurásszák, amely rejtélyes körülmények között eltűnt, mikor a <em>Lusitania</em> gőzös elsüllyedt. És arra is választ keresnek, kicsoda lehet Jane Finn, akinek elég a nevét kimondani, és rettegés költözik az emberek szemébe. A megfoghatatlan és kegyetlen Mr. Brown gonosz szándéka pedig mindenhova követi őket. Nem is sejtik, ez a kaland mennyi veszéllyel jár… </p>
+<p>Agatha Christie-nek ez az első, izgalmas Tommy és Tuppence-regénye, tele nemzetközi cselszövéssel és gyilkossággal.</p></div>
 
 
 # <a name="id_254">Agatha Christie: No. 16 (Tommy és Tuppence 2) (1997)</a>
@@ -365,15 +614,133 @@
 # <a name="id_242">Agatha Christie: Balhüvelykem bizsereg (Tommy és Tuppence 4) (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Balhuvelykem%20bizsereg%20%28242%29/cover.jpg" alt="cover" width="300"/>
 
-### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Balhuvelykem%20bizsereg%20%28242%29/Balhuvelykem%20bizsereg%20-%20Agatha%20Christie.epub)
-
 ### Tagek
 20. század, angol szerző, brit szerző, magyar nyelvű, regény, sorozat része, krimi
 
 ### Összefoglalás
 <div>
 <p>A „Ifjú Kalandorok Rt.” már rég nem ifjú törzstagjai, Tommy és Tuppence Ada nénit látogatják meg az idősek otthonában. És ahol ők felbukkannak, ott biztos, hogy megmagyarázhatatlan dolgok történnek. Tuppence a tőle megszokott hévvel veti magát a rejtélyek nyomába. Miért ismerős az Ada nénitől örökölt festményen a ház? Hová tűnt Mrs. Lancaster? Tommy a rá jellemző nyugalommal próbálja követni a feleségét – de nyugalma csak addig tart, amíg Tuppence-t meg nem akarják ölni…</p></div>
+
+
+# <a name="id_1755">Agatha Christie: A sors kapuja (Tommy és Tuppence 5) (1973)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20sors%20kapuja%20%281755%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20sors%20kapuja%20%281755%29/A%20sors%20kapuja%20-%20Agatha%20Christie.epub)
+
+### Tagek
+mystery, crime, classics, thriller
+
+### Összefoglalás
+<div>
+<p>Tommy és Tuppence Beresford régi álma válik valóra, amikor a házaspár megvásárolja az egyik angol falucskában kiszemelt ódon házat. Boldogan költöznek be új otthonukba, s – ahogy az már lenni szokott – beszédbe elegyednek szomszédaikkal, ismerkednek új környezetükkel, amely azonban régi, mindmáig megoldatlan titkokat rejt. Mi lappang a vén falak között: kik voltak a ház egykori tulajdonosai?… <br>Mary Jordan nyilvánvalóan nem természetes halállal hunyt el – ám egy hatvan évvel ezelőtt elkövetett bűntény miként sodorhatja ily nagy veszélybe Beresfordék életét?…</p></div>
+
+
+# <a name="id_1767">Agatha Christie: Az élet súlya </a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20elet%20sulya%20%281767%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20elet%20sulya%20%281767%29/Az%20elet%20sulya%20-%20Agatha%20Christie.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20elet%20sulya%20%281767%29/Az%20elet%20sulya%20-%20Agatha%20Christie.epub)
+
+### Összefoglalás
+<div>
+<p>Ragyogó, szőke, kékszemű bátyja árnyékában Laurával senki sem törődik. Amikor bátyja korai halála után kishúga születik, Laura újra kétségbeesik: az egész család Shirleyt, az elragadó kisbabát szereti. Ám egy éjszaka Laura érzelmei gyökeresen megváltoznak, megesküszik, hogy minden erejével szeretni és védelmezni fogja húgát. Shirley azonban önállóságra és szabadságra vágyik. Hogyan befolyásolja majd életüket Laura terhes szeretete? Hogyan tud a két nő megküzdeni élete súlyával?</p></div>
+
+
+# <a name="id_1754">Agatha Christie: A Sittaford-rejtély (1931)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20Sittaford-rejtely%20%281754%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20Sittaford-rejtely%20%281754%29/A%20Sittaford-rejtely%20-%20Agatha%20Christie.epub)
+
+### Tagek
+mystery, crime, classics, thriller
+
+### Összefoglalás
+<div>
+<p>Szokatlanul kemény tél járja Angliában. A tenyérnyi falucska, Sittaford egyetlen tekintélyes, előkelő házát, Sittaford House-t is elvágta a hóesés a külvilágtól. Mrs. Willett és vendégei a tea után elhatározzák, hogy asztaltáncoltatással ütik agyon az időt ezen a nyomasztó téli estén. Előkerül a kis, kerek asztal, és hamarosan a villanyt is eloltják. A kandalló hunyorgó fényénél hat árnyalak üli körül az asztalt. A várakozás feszültsége szinte tapintható. És kezdetét veszi a szeánsz... Az asztal megmozdul, majd vadul táncolni kezd. A kopogás csak fokozatosan válik érthetővé a botcsinálta szellemidézőknek. A betűről betűre formázódó üzenet megdöbbentő:TREVELYAN KAPITÁNY.... HALOTT!Senki sem tudja, mit mondjon, mit kérdezzen. A dermedt csendben csak az égő fahasábok pattogása hallatszik. És a szellem - mintha csak számított volna erre a csendre - folytatja az üzenetet. Az asztalláb - ezúttal kínos lassúsággal - csak egyetlen szót kopog:GYILKOSSÁG!....Néhány mérföldnyire innen Trevelyan kapitánynak a legcsekélyebb fogalma sincs arról, hogy Sittaford House-ban milyen baljós összejövetel zajlik...</p></div>
+
+
+# <a name="id_1753">Agatha Christie: A Listerdale-rejtély (1933)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20Listerdale-rejtely%20%281753%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20Listerdale-rejtely%20%281753%29/A%20Listerdale-rejtely%20-%20Agatha%20Christie.epub)
+
+### Tagek
+mystery, crime, classics, thriller
+
+### Összefoglalás
+<div>
+<p>Klasszikus Christie-novelláskötet, tizenkét különös történettel. Hova tűnt Lord Listerdale, ki adja bérbe a házait és lakásait? A Fülemüle-villa új asszonya miért gyanakszik a férjére? Az öregedő ügyvédnek sikerül-e megoldania a gyilkossági esetet, ahogy szép, fiatal látogatója reméli? Edward és Dorothy tényleg az elrabolt rubinnyakláncot találják meg a cseresznyeszemek között? James Bond miben segíthet a rádzsának? És még hét történet gyilkosságról, személycseréről és az üstökön ragadott lehetőségről.</p></div>
+
+
+# <a name="id_1765">Agatha Christie: Az alibi (1958)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20alibi%20%281765%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20alibi%20%281765%29/Az%20alibi%20-%20Agatha%20Christie.epub)
+
+### Tagek
+mystery, crime, classics, thriller
+
+### Összefoglalás
+<div>
+<p>Mrs. Argyle-t, a dúsgazdag, jótékony hölgyet, három leány és két fiú örökbe fogadó anyját holtan találják a nappalijában. Valaki piszkavassal szétverte a fejét. </p>
+<p>A rendőrség úgy véli, tudja, ki a tettes. Letartóztatják az egyik mostohafiút, Jackót, aki ellen vannak bizonyítékok – s akinek volna alibije, csakhogy az úrvezető, aki a gyilkosság időpontjában felvette a kocsijába, nem kerül elő. Jackót elítélik, és meghal a börtönben. Eltelik két esztendő. Dr. Calgary, a sarkkutató hazatér Angliába. Régi újságokat lapozva megdöbbentő hírre bukkan. Feltámadnak benne az emlékek. Két évvel azelőtti balesete, az amnézia… Tennie kell valamit. </p>
+<p>Dr. Calgary biztos benne, hogy a rendőrség tévedett. Cselekszik. Jackót törvényileg rehabilitálják. De a család nehezen elnyert békéje odavan. Mert ha nem Jacko, a fekete bárány a gyilkos, akkor ki? Csak a közvetlen környezet valamelyik tagja követhette el a szörnyű tettet. De kicsoda? A szelíd, tudós férj? A ragaszkodó, fiatal titkárnő? A cseléd? A lányok? A másik fiú? </p>
+<p>Még egy gyilkosságba és egy gyilkossági kísérletbe kerül, míg dr. Calgary levezekli „vétkét”, és bravúros amatőr nyomozással felgöngyölíti az eredeti és az új bűnügyeket.</p></div>
+
+
+# <a name="id_1776">Agatha Christie: Frankfurti utas (1970)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/.caltrash/b/1776/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/.caltrash/b/1776/Frankfurti%20utas%20-%20Agatha%20Christie.epub)
+
+### Tagek
+mystery, crime, classics, thriller, suspense
+
+### Összefoglalás
+<div>
+<p>A frankfurti repülőtérre irányítják át a köd miatt a genfi járatot. Sir Stafford Nye közömbös, neki egyik repülőtér olyan, mint a másik. De bájos útitársnője hihetetlen történetet ad elő neki. Ha nem segít, a nő életébe kerül a köd. Arra kéri, adja kölcsön személyazonosságát, hogy épségben elérhessen Londonba. Sir Staffordnak tetszik a kockázat (és a nő), odaadja hát jellegzetes köpenyét és útlevelét. </p>
+<p>Legközelebb Londonban találkoznak, egy hangversenyen a Royal Albert Hallban. Aztán eljutnak együtt a világ négy sarkába, amíg a nagy összeesküvést próbálják leleplezni, ami lázadásra, rombolásra bujtogatja a fiatalokat. De mi köze mindehhez az ifjú Siegfriednek Wagner operájából?</p></div>
+
+
+# <a name="id_1774">Agatha Christie: Életem (1977)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Eletem%20%281774%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Eletem%20%281774%29/Eletem%20-%20Agatha%20Christie.epub)
+
+### Tagek
+biography, mystery, history, crime, életrajzok, visszaemlékezések
+
+### Összefoglalás
+<div>
+<p>Agatha Christie-t (1890-1976) az egész világ ismeri. Több mint száz regényt, elbeszélést, színdarabot és rádiójátékot írt. Könyveit milliárdos példányszámban olvassák a világ összes nyelvén – ő a világirodalom legolvasottabb szerzője.Az Életem (An Autobiography) 1977-ben, az írónő halála után egy évvel jelent meg, s bepillantást nyújt elképesztően színes és fordulatokban gazdag magánéletébe a kisgyermekkortól a házasságokon és a háborúkon keresztül az alkotói mindennapokig, valamint a második férjjel, Max Mallowannel közösen folytatott extrém kalandtúrákig, azaz a régészeti expedíciókig. Szinte személyes ismeretségbe kerülhetünk e zsenivel – egy olyan mű révén, amely játszódjék akár az „unalmas” viktoriánus Angliában vagy a titokzatos, ismeretlen Keleten, legalább annyira lebilincselő, mint a szerző legizgalmasabb regényei.</p></div>
+
+
+# <a name="id_1752">Agatha Christie: A lányom mindig a lányom (1991)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20lanyom%20mindig%20a%20lanyom%20%281752%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20lanyom%20mindig%20a%20lanyom%20%281752%29/A%20lanyom%20mindig%20a%20lanyom%20-%20Agatha%20Christie.epub)
+
+### Összefoglalás
+<div> <p style="margin-bottom: 0in">Finom rajzolatú lélektani regények írója is volt Agatha Christie. Akkor is, ha Mary Westmacott írói álnév alatt jelentette meg őket, mindegyiken megtalálható a krimikirálynő kézjegye. Az intim belső terek, az elrejtett igazságok, az izgalom lassú-lusta, majd egyre erőteljesebb fokozása nem kell, hogy abszurdomig, netán gyilkosságig vigye el a történetet. A többnyire női főszereplő lelkében lezajló konfliktus sorsfordító lesz hullák nélkül is! Ann Prentice vonzó érett asszony. Amit ő természetesen figyelmen kívül hagy, csak a lányáért és csak a lányának él, így nem veszi észre, hogy nem hagyja felnőni gyermekét. Amikor lánya hosszabb időre elutazik, sorsa váratlan fordulatot vesz. Megismerkedik egy férfival, aki megcsillantja előtte az újrakezdés lehetőségét. Ám egyszerre csak megint élni kezd. Egyre nyilvánvalóbb azonban, hogy a lánya nem akarja elveszíteni anyja kizárólagos szeretetét. Bosszúhadjáratba kezd a "betolakodó" ellen. Amikor célját eléri, rádöbben, hogy az egykori anya-lány kapcsolatot már nem lehet visszaállítani. A két nő között elkezdődik egy furcsa párviadal, nem nyílt sisakkal, hanem igazi női fegyverekkel. Milyen árat fizetnek azért, hogy örökké csak a szőnyeg alá sepernek dolgokat? Meg kell-e maradni a belülről marcangoló önvád és harag állapotában.</p><p style="margin-bottom: 0in"><br></p></div>
+
+
+# <a name="id_1770">Agatha Christie: Bagdadba jöttek (1995)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Bagdadba%20jottek%20%281770%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Bagdadba%20jottek%20%281770%29/Bagdadba%20jottek%20-%20Agatha%20Christie.epub)
+
+### Összefoglalás
+<div>
+<p>Victoria Jones ragyogóan vidám, feltűnően csinos, fiatal gyors- és gépírónő. Egyetlen rossz tulajdonsága van csak: imád füllenteni. Most is ez indítja el az események lavináját: Ezért kerül Victoria előbb az utcára, majd pedig Badadba, egy világpolitikai jelentőségű konferencia színhelyére. Ezért keveredik az ellenség titkosszolgálatok és érdekcsoportok háborújának kettős közepébe. De alighanem ez segít neki abban is, hogy megússza a dolgot…</p></div>
 
 
 # <a name="id_255">Agatha Christie: Parker Pyne nyomoz (1996)</a>
@@ -390,6 +757,17 @@
 <p>Személyes hirdetések Boldog Ön? Mert ha nem keresse fel Parker Pyne-t. Richmond Street 17. A fenti hirdetést Parker Pyne rendszeresen megjelenteti a napilapok címoldalán, nem csoda, ha sokan keresik fel… És Parker Pyne segít az elhanyagolt feleségnek, az unatkozó őrnagynak, a válni nem akaró férjnek, az életunt, dúsgazdag özvegynek… S hiába megy szabadságra a „szívügyek híres szakembere”, boldogtalan, bajba jutott ember, kinyomozásra váró rejtély és bűntény mindenütt akad: a sivatagi út során, Bagdadban, Delphoiban…</p></div>
 
 
+# <a name="id_1769">Agatha Christie: Az óriás kenyere (2010)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20orias%20kenyere%20%281769%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20orias%20kenyere%20%281769%29/Az%20orias%20kenyere%20-%20Agatha%20Christie.epub)
+
+### Összefoglalás
+<div>
+<p>Agatha ​Christie olykor új vizekre evezett és Mary Westmacott álnéven finom rajzolatú, lélektani regényeket is papírra vetett. A titokzatosság homályából kibomló történetek főhősei látszólag hétköznapi emberek, ám mindegyikük életére elhallgatott igazságok terhe vet sötét árnyékot. Az izgalom lassú-lusta, majd egyre erőteljesebb fokozása nem kell, hogy gyilkosságig vigye a történetet; a krimi koronázatlan királynője hullák nélkül is sorsfordító konfliktus elé állít mindenkit. <br>Az új operaház megnyitója fontos társadalmi esemény volt Londonban, amelyen megjelenik a királyi pár is. A nyitódarab azonban megosztja a páholyok népét – azt suttogják, az álnév mögé bújó zeneszerző orosz származású, majd meg azt, hogy zsidó származású orosz. A szakma a jövő zenéjének tartja a zseniális művet, a szerző személyét illető igazságot azonban csak az operaház igazgatója tudja, aki kisfiú kora óta ismeri Vernont, a komponistát. Az ősi angol család utolsó sarjával életében a zene olyan erős hatalomnak bizonyult, amely tragikus választásra kényszerítette őt, de csak így lett képes arra, hogy megalkossa ezt a kristálytiszta remekművet. Vajon megéri az alkotó áldozata? Megéri a remekmű az emberi szenvedést?</p></div>
+
+
 # <a name="id_70">Agatha Christie: Három vak egér (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Harom%20vak%20eger%20%2870%29/cover.jpg" alt="cover" width="300"/>
 
@@ -404,15 +782,6 @@
 <p>Egy ​zimankós téli napon kis vendégfogadó nyílik az isten háta mögött, ahová, csodák csodája, egymás után érkeznek a vendégek: a kócos, vörös hajú, epezöld kockás nyakkendőt viselő, kaján vigyorú walesi fiatalember, Christopher Wren; az agresszív, parancsoláshoz szokott és a kákán is csomót kereső, zord külsejű Mrs. Boyle; a katonás eleganciájú, keménykötésű, magáról semmit el nem áruló Metcalf őrnagy; és a pipiskedő, a hölgyeket szatír módjára vizslató külföldi, Mr. Paravicini. <br>A panziót vezető újdonsült házaspár, Giles és Molly Davis a nagy munka közepette tán észre sem veszi, milyen különös alakok szálltak meg náluk.<br>Azután az intézményt egy hatalmas hóvihar a szó szoros értelmében elvágja a külvilágtól. <br>Ám az aggodalom akkor hág a tetőfokára, amikor a rendőrség síelni tudó embere mégis eljut a Monkswell-vendégházba. Az ifjú Trotter őrmester ugyanis azért tette meg ezt az emberpróbáló utat, hogy beszámoljon az egybegyűlteknek a két napja, Londonban történt gyilkosságról, s hogy közölje velük, a tettes itt van közöttük, és újból ölni készül… <br>A Három vak egér című kisregény Agatha Christie hosszú és sikeres pályájának derekán íródott. <br>Amikor a brit uralkodó, VI. György édesanyja 1947 tavaszán nyolcvanadik születésnapját ünnepelte, a BBC rádió személyre szóló meglepetéssel kívánt kedveskedni neki. A kérdésre, hogy mit szeretne hallani, Mária anyakirályné azt válaszolta: „valamit Agatha Christie-től”. <br>Így született meg a húszperces rádiójáték, mely 1947. május 26-án hangzott el Három vak egér címmel. <br>A történet három évvel később átdolgozott, kibővített formában egy válogatáskötet címadójaként jelent meg az Egyesült Államokban. <br>Christie ezt követően színpadra alkalmazta művét, s Az egérfogó címet adta neki. Az imígyen átkeresztelt darab az 1952-es londoni bemutató óta nem került le a műsorról. Tehát az a faramuci helyzet állt elő, hogy az alapul szolgáló kisregény konkurense lett a belőle készült, időközben „a színháztörténet leghosszabb ideje futó darabjává” avanzsált műnek…</p></div>
 
 
-# <a name="id_67">Agatha Christie: Ellopott gyilkosság (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Ellopott%20gyilkossag%20%2867%29/cover.jpg" alt="cover" width="300"/>
-
-### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Ellopott%20gyilkossag%20%2867%29/Ellopott%20gyilkossag%20-%20Agatha%20Christie.epub)
-
-### Tagek
-krimi
-
 # <a name="id_65">Agatha Christie: Eljöttek Bagdadba (2013)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Eljottek%20Bagdadba%20%2865%29/cover.jpg" alt="cover" width="300"/>
 
@@ -425,6 +794,17 @@ krimi
 ### Összefoglalás
 <div>
 <p>Victoria Jones megint bajba került. Főnöke feleségét utánozta munkaidőben, és persze rajtakapták. Most nézhet állás után. Szerencse, hogy egy parkban találkozik Edwarddal, a vonzó, angyalarcú fiatalemberrel, aki hevesen udvarolni kezd neki, majd elutazik Bagdadba. Victoria nyomban utána indul. Nemcsak ő tart Bagdadba: a nagyhatalmak konferenciára készülnek a városban. Ezt akarja meghiúsítani egy titokzatos szervezet. A szervezetet pedig Henry Carmichael próbálja leleplezni. Alighanem nyomon van, egy este ugyanis szúrt sebbel zuhan be Victoria szobájába, és azt kéri tőle, rejtse el. Több se kell a kalandvágyó lánynak. Mikor Carmichael meghal, jelentkezik a helyére, és ő szimatol tovább.</p></div>
+
+
+# <a name="id_1760">Agatha Christie: A váratlan vendég (2014)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20varatlan%20vendeg%20%281760%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20varatlan%20vendeg%20%281760%29/A%20varatlan%20vendeg%20-%20Agatha%20Christie.epub)
+
+### Összefoglalás
+<div>
+<p>Sűrű köd lepi Dél-Wales kietlen útjait. Magányos utazó autózik a kései órán a kihalt úton, s egy kanyarban árokba csúszik a jármű. Sehol egy arra járó, így hát a vezető gyalog kénytelen elindulni, hogy segítséget keressen. <br>Magányosan álló előkelő villára bukkan a közelben, s mivel kopogására nem kap választ, bemegy a tárva-nyitva álló ajtón. A nappaliban egy középkorú úr ül tolószékben – ám az idegen döbbenten látja, hogy a férfit lelőtték. <br>Vajon miért nem menekül hanyatt-homlok az idegen a helyszínről, hiszen nyilvánvalóan gyilkosság történt? Azért, mert megjelenik egy vonzó, szőke nő – netán a gyilkos? –, és lovagias hősünk nem hagyhat magára egy bajba jutott hölgyet? Talán a kíváncsiság marasztalja ott? Netán valami más, titokzatos indíték vezérli? <br>Agatha Christie, a krimi koronázatlan királynője a tőle megszokott módon mesterien bogozza ki a szálakat az eredetileg színdarabnak készült, Charles Osborne által regénnyé átdolgozott történetben.</p></div>
 
 
 # <a name="id_79">Agatha Christie: Tíz kicsi néger (2016)</a>
@@ -458,9 +838,6 @@ krimi
 # <a name="id_240">Agatha Christie: A vád tanúja (2018)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20vad%20tanuja%20%28240%29/cover.jpg" alt="cover" width="300"/>
 
-### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20vad%20tanuja%20%28240%29/A%20vad%20tanuja%20-%20Agatha%20Christie.epub)
-
 ### Tagek
 20. század, 21. század, angol szerző, brit szerző, magyar nyelvű, misztikus, novella, nyomozás, okkultizmus, pszichoanalízis, regény, krimi
 
@@ -483,17 +860,18 @@ afrika, angol szerző, brit szerző, család, magyar nyelvű, nyomozás, törté
 <p>4000 ​évvel ezelőtt Egyiptomban…<br>Imhotep, a ká-pap, kiterjedt család feje. Régóta özvegy, és most memphiszi útján szert tett egy fiatal és gyönyörű ágyasra. Úgy gondolja, a családnak vele kellene örvendeznie – de Nofret rövid idő alatt meggyűlölteti magát, és összeugrasztja a családtagokat. A két felnőtt fiú házassága megrendül. A szegény rokon, aki Imhotep jóakaratának hála él velük, feltűnően szaglászni kezd mindenki után, és Nofret besúgójává válik. A Memphiszből érkezett írnok rokon látszólag a család oldalán áll, de ki tudja, valójában mi vezérli? Amikor Nofret lezuhan a sziklaösvényrõl, titokban mindenki fellélegzik. De aztán felmerül a kellemetlen kérdés: valóban baleset történt? Ha igen, miért változott meg egyes családtagok viselkedése? Reniszenb, a fiatal özvegy, Imhotep leánya, aki most tért vissza férje halála után, az intézővel, Horival együtt nyomozni kezd. És hirtelen elfelejthetjük, hogy milyen régen játszódik a krimi. Az óegyiptomi szereplők éppen úgy viselkednek, mint a mai emberek – hiszen belsőleg nem változott sokat az emberiség azóta sem.<br>Mire fény derül a titkokra, heten halnak meg. De Agatha Christie nem hagyja cserben hűséges olvasóit: az utolsó lapokon mindent megtudunk!</p></div>
 
 
-# <a name="id_241">Agatha Christie: Az álmok háza (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20almok%20haza%20%28241%29/cover.jpg" alt="cover" width="300"/>
+# <a name="id_1761">Agatha Christie: Adventi krimik (2020)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Adventi%20krimik%20%281761%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20almok%20haza%20%28241%29/Az%20almok%20haza%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Adventi%20krimik%20%281761%29/Adventi%20krimik%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, álom, angol szerző, brit szerző, detektívtörténet, elbeszélés, kaland, magándetektív, magyar nyelvű, novella, nyomozás, regény, sorozat része, krimi
+mystery, classics, crime, adult, 820-32=945.11, (udc/eto)
 
 ### Összefoglalás
 <div>
-<p>Minden nagy alkotónak van egy játszótere, ahol nem kell az elvárások szerint viselkednie. Agatha Christie is írhat olyan történeteket, amelyekből hiányoznak azok a tipikus fordulatok, melyeknek köszönhetően világhíres lett.<br>Mondjuk a novellában nem követnek el igazi gyilkosságot, és Poirot figurája egy gyerekes csíny csetlő-botló áldozataként tűnik fel. Ugyanakkor számtalan módon köszönnek vissza az írásokból azok a megoldások, melyek az írónő klasszikus alkotásait híressé tették.<br>Agatha Christie bármely történet megformálása során képes arra, hogy folyamatosan, ugyanakkor remek kompozíciós érzékkel adagolja a váratlan fordulatokat, és mikor már kényelmesen hátradőlve azt hinnénk, hogy sejtjük a végkifejletet, ő megint rácáfol elvárásainkra. Ezért szeretjük.</p></div>
+<p>Egy bögre forró tea, egy puha takaró és egy kötetre való Agatha Christie-novella. Mi más kell még a téli estékre, amikor egyre rövidebbek a nappalok és sötétebbek az éjszakák? </p>
+<p>Tomboló hóviharok, veszélyes ajándékok, méreg a portóiban és egy váratlan látogató... Ezekben az advent és újév között játszódó novellákban Agatha Christie minden híres nyomozójával találkozhatunk. Miss Marple egy gyógyszállóban tölti a karácsonyt, Hercule Poirot vidéken, Parker Pyne Mallorcán, Mr. Quin és Mr. Satterthwaite egy kastélyban, Tommy és Tuppence pedig egy vidéki fogadóban - a nyomukban pedig ott jár a halál...</p></div>
 
 
