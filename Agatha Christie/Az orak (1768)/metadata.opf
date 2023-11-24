@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1768</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c5e0e8a-2b44-4e68-9c8d-26a24a4698f9</dc:identifier>
+        <dc:title>Az órák</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1963-11-06T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Sheila Webb hivatásos gyors- és gépírónõ. A Wilbraham Crescenten lakó Miss Pebmarsh személyesen õt kérte telefonon az irodától, így Sheila elindul. – Nyisson csak be –, szólt az utasítás. Be is nyit, bemegy a nappaliba, ahol egy csomó órát talál – meg egy hullát. Ekkor ér haza Miss Pebmarsh, aki majdnem rálép a halottra, mert… vak. És esküszik rá, hogy õ nem rendelt gépírónõt. &lt;/p&gt;
+&lt;p&gt;Colin Lamb óceánkutató biológus, de most éppen nem eredeti szakmájában dolgozik. A kémelhárítás ifjú csillaga egy papírdarab nyomán jut el a Wilbraham Crescentre – ahol a sikoltozó Sheila zuhan a karjába. Szerencsére Colinnak sok jó barátja van: Hardcastle felügyelõ, akit megbíznak az üggyel, és egy idõs, bajszos belga úriember, bizonyos Hercule Poirot. &lt;/p&gt;
+&lt;p&gt;Szerepel még a bonyodalmak között egy építési vállalkozó, egy kém, két kíváncsi kiskamasz, egy öregasszony és negyven macska. Azért a végére szokás szerint minden kiderül! &lt;/p&gt;
+&lt;p&gt;A regényt új fordításban jelentetjük meg.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">ffd0433b-008d-4aa8-bb39-31f3b3d967e8</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630785167</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">13644680</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">AdjZsgEACAAJ</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta name="calibre:series" content="Hercule Poirot"/>
+        <meta name="calibre:series_index" content="34"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-11-24T16:36:37.152393+00:00"/>
+        <meta name="calibre:title_sort" content="órák, Az"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;MOBI&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

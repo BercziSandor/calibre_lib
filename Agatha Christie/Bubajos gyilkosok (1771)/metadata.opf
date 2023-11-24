@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1771</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c4dcd234-8982-4723-bc24-536e78bac832</dc:identifier>
+        <dc:title>Bűbájos gyilkosok</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1961-11-05T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Gorman atyát haldokló asszonyhoz hívatják, ám hogy Mrs. Davis mit gyónt a papnak, az csak a regény végén derül ki: Gorman atyát ugyanis még aznap meggyilkolják. A nyomozást vezető Lejeune felügyelőnek önkéntes segítőtársa akad: Mark Easterbrook, a fiatal történész, aki – akaratán kívül – olyan események tanúja lesz, hogy nem maradhat tétlen. Így kerül a Sárgaszínű Lóról elnevezett hajdani fogadóba. Ebbe a házba azonban nem az éjszakai nyugalom utáni vágy hajtja a vendégeket, hanem újonnan feltámadt érdeklődésük a fekete mágia iránt… Agatha Christie regénye különös világba kalauzolja az olvasót. Lehetséges, hogy a középkori babonák, okkult tanok – és nem utolsósorban a modern tudomány – segítségével rontás, betegség, sőt halál hozható bizonyos nemkívánatos személyekre? A válasz bízvást még Agatha Christie leggyakorlottabb olvasóit is meglepi.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">873e2400-2642-43a7-a348-9a4fd393f844</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630787611</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">21796233</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">AN7ysgEACAAJ</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta name="calibre:series" content="Ariadne Oliver"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-11-24T16:40:49.418275+00:00"/>
+        <meta name="calibre:title_sort" content="Bűbájos gyilkosok"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;AZW3&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

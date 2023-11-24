@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1750</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8588948-e32a-41ba-85ee-d09e1359f17d</dc:identifier>
+        <dc:title>A kristálytükör meghasadt</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1962-11-11T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;St. ​Mary Mead békés vidéki fészek, bár az elmúlt évtizedekben alaposan megváltozott. Gossington Hallban sem Bantry ezredes lakik már, hanem eladják. Most éppen egy amerikai filmcsillag veszi meg. Abban a házban, ahol két évtizede egy holttest hevert a könyvtárszobában, nagyszabású jótékonysági partit rendeznek a Szent János Mentőszolgálat javára, és azért, hogy a falu kíváncsi lakói alaposan szemügyre vehessék az egzotikus új lakókat. A régi lakosok közül néhányan a házban tartott szűk körű összejövetelre is hivatalosak, finom falatok és italok várják őket. A Mentőszolgálat titkára véletlenül kiönti a koktélját és kárpótlásul a gyönyörű Marina Gregg italát kapja. De ebben a pohárban más is volt a koktél mellett… Mrs. Badcock meghal, Marina Gregg élete pedig rémálommá válik. Ki tör a filmcsillag életére és miért? Szerencsére egyvalami, illetve egyvalaki nem változott St. Mary Meadben: Miss Jane Marple. Megöregedett, nem tud már kertészkedni, kötögetni, állandó segítségre szorul, de az esze még mindig úgy vág, mint a borotva. És a háziorvos izgalmas kinyomoznivalót írt fel neki unalom ellen.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">40e64242-8d48-4d31-83d8-b13251234948</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630788762</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">21796159</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">V6DtsgEACAAJ</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <meta name="calibre:series" content="Miss Marple"/>
+        <meta name="calibre:series_index" content="9"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-11-24T15:58:48.017323+00:00"/>
+        <meta name="calibre:title_sort" content="kristálytükör meghasadt, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;MOBI&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1748</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ff9d407-5a4c-489f-b438-6a2b8b8a67bb</dc:identifier>
+        <dc:title>A hét számlap rejtélye</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1941-10-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Lord Caterham vidéki kastélyát, a híres Chimneyst bérbe adja Sir Oswald Coote-nak. A házban vidám társaság gyűlik össze – felséges tréfát eszelnek ki egy álomszuszék társuk rovására. Csakhogy hiába csörög sorban az ágya alá rejtett nyolc ébresztőóra, a fiatalembert semmi sem verheti fel álmából. &lt;/p&gt;
+&lt;p&gt;A felderítetlen halálesetet csakhamar gyilkosság követi, és a rejtélyek ezzel csak kezdődnek. A történeten végigvonul az utalás a Hét Számlapra: titkos kártyabarlang vajon? Vagy még titkosabb alvilági társaság? Netán anarchista csoport? &lt;/p&gt;
+&lt;p&gt;Lord Caterham vállalkozó szellemű leánya, Batyu elhatározza, nem nyugszik, amíg a sűrűsödő rejtélyek nyitjára nem bukkan. Nyomozása során maga is gyakran kerül összeütközésbe a törvénnyel, amelyet ezúttal a rendíthetetlen nyugalmú Battle főfelügyelő képvisel.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa Könyvkiadó</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">71fabe91-ac44-4478-8df8-4a4519b986c2</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630793377</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">13419016</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <meta name="calibre:series" content="Battle főfelügyelő"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-11-24T15:55:13.703186+00:00"/>
+        <meta name="calibre:title_sort" content="hét számlap rejtélye, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;AZW3&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

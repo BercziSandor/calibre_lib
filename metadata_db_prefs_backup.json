@@ -13,6 +13,10 @@
   "check_library_ignore_names": "",
   "gui_view_history": [
     [
+      1744,
+      "A sz\u00e1m\u00e9rz\u00e9k"
+    ],
+    [
       1737,
       "A f\u00e9lt\u00e9kenys\u00e9g-szak\u00e9rt\u0151 \u00e9s m\u00e1s t\u00f6rt\u00e9netek"
     ],
@@ -67,24 +71,60 @@
     [
       1698,
       "T\u00fcsk\u00e9k \u00e9s r\u00f3zs\u00e1k udvara"
-    ],
-    [
-      1698,
-      "A Court of Frost and Starlight \u2013 Fagy \u00e9s csillagf\u00e9ny udvara"
     ]
   ],
   "plugboards": {},
   "tag_browser_hidden_categories": [],
   "library_view books view state": {
+    "column_alignment": {
+      "pubdate": "center",
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "#formats": 12,
+      "authors": 1,
+      "formats": 14,
+      "id": 13,
+      "languages": 5,
+      "last_modified": 11,
+      "ondevice": 0,
+      "path": 15,
+      "pubdate": 4,
+      "publisher": 10,
+      "rating": 8,
+      "series": 2,
+      "size": 7,
+      "tags": 9,
+      "timestamp": 6,
+      "title": 3
+    },
+    "column_sizes": {
+      "#formats": 170,
+      "authors": 245,
+      "formats": 0,
+      "id": 0,
+      "languages": 84,
+      "last_modified": 91,
+      "path": 0,
+      "pubdate": 95,
+      "publisher": 61,
+      "rating": 45,
+      "series": 180,
+      "size": 76,
+      "tags": 226,
+      "timestamp": 110,
+      "title": 217
+    },
+    "formats_injected": true,
     "hidden_columns": [
       "id",
       "formats",
       "path"
     ],
-    "last_modified_injected": true,
-    "languages_injected": true,
-    "formats_injected": true,
     "id_injected": true,
+    "languages_injected": true,
+    "last_modified_injected": true,
     "path_injected": true,
     "sort_history": [
       [
@@ -103,47 +143,7 @@
         "timestamp",
         false
       ]
-    ],
-    "column_positions": {
-      "ondevice": 0,
-      "id": 13,
-      "title": 3,
-      "authors": 1,
-      "timestamp": 6,
-      "size": 7,
-      "rating": 8,
-      "tags": 9,
-      "series": 2,
-      "publisher": 10,
-      "formats": 14,
-      "path": 15,
-      "pubdate": 4,
-      "last_modified": 11,
-      "languages": 5,
-      "#formats": 12
-    },
-    "column_sizes": {
-      "id": 0,
-      "title": 217,
-      "authors": 245,
-      "timestamp": 110,
-      "size": 76,
-      "rating": 45,
-      "tags": 226,
-      "series": 180,
-      "publisher": 61,
-      "formats": 0,
-      "path": 0,
-      "pubdate": 95,
-      "last_modified": 91,
-      "languages": 84,
-      "#formats": 170
-    },
-    "column_alignment": {
-      "pubdate": "center",
-      "size": "center",
-      "timestamp": "center"
-    }
+    ]
   },
   "field_metadata": {
     "#formats": {
@@ -974,7 +974,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1688554830.0692606,
+  "last_expired_trash_at": 1700833945.8332975,
   "virtual_libraries": {
     "kutya": "tags:\"=kutya\""
   }

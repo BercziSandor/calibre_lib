@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1746</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df6b4941-869b-48a5-ad18-2155874906a0</dc:identifier>
+        <dc:title>A Bertram szálló</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1964-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;�Van egy nagyszerű hely Londonban. Bertram Szállónak hívják. Mintha csak száz évet visszaforgott volna az idő. Csupa olyan ember, akikkel máshol nem lehetett találkozni. Csodálatos öreg hercegnők. És valamennyi régi angol étel szerepel az étlapon, és remek régi angol bifsztek-pudingjuk van! Olyat még nem kóstoltál! És hatalmas hátszínszeletek, és micsoda ürüborda, és békebeli angol tea, és tüneményes angol reggelik! És meleg is van. Hatalmas kandallók...� Történhet vajon ilyen hamisítatlan, békebeli környezetben � bűntény?&lt;br&gt;Történhet!&lt;br&gt;Ön eltalálta!&lt;br&gt;A hamisítatlan békebeli környezet (ami különben nem is olyan egészen hamisítatlan) � sötét üzelmeket takar. �Igyekszünk vendégeink minden óhaját teljesíteni� � mondja a tökéletes szálloda tökéletes üzletvezetője. Ám némely vendégnek különös óhajai vannak... És a bájos, törékeny, vidéki öregkisasszony, Miss Marple, eltűnődik... És amikor már ő is, az olvasó is úgy érzi: minden rejtély megoldódott � a szerző még az utolsó lapra is tartogat egy kis meglepetést!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa Könyvkiadó</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">cfa5288b-bfe9-40b7-a921-274d3d55ef2a</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630794145</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">13420528</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta name="calibre:series" content="Miss Marple"/>
+        <meta name="calibre:series_index" content="11"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-11-24T15:45:04.202889+00:00"/>
+        <meta name="calibre:title_sort" content="Bertram szálló, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;AZW3&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

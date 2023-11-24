@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">67ff2e12-82e7-4ffc-bb35-6cf55431a626</dc:identifier>
         <dc:title>Balhüvelykem bizsereg</dc:title>
         <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-02-17T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A „Ifjú Kalandorok Rt.” már rég nem ifjú törzstagjai, Tommy és Tuppence Ada nénit látogatják meg az idősek otthonában. És ahol ők felbukkannak, ott biztos, hogy megmagyarázhatatlan dolgok történnek. Tuppence a tőle megszokott hévvel veti magát a rejtélyek nyomába. Miért ismerős az Ada nénitől örökölt festményen a ház? Hová tűnt Mrs. Lancaster? Tommy a rá jellemző nyugalommal próbálja követni a feleségét – de nyugalma csak addig tart, amíg Tuppence-t meg nem akarják ölni…&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -20,7 +20,6 @@
         <dc:subject>regény</dc:subject>
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>krimi</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Agatha Christie&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Tommy és Tuppence"/>
         <meta name="calibre:series_index" content="4"/>
         <meta name="calibre:rating" content="8"/>

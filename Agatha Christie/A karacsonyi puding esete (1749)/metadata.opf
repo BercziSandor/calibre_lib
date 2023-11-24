@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1749</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f40e71a4-a5e7-4e41-9146-9b12ff49832a</dc:identifier>
+        <dc:title>A karácsonyi puding esete</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha &amp; Sipos, Katalin" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1923-12-11T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Ezt a kötetet Agatha Christie mint séf ajánlja figyelmünkbe: a karácsonyi puding esetén kívül, amely igen tartalmas fogás, öt előételt tartalmaz. Meglepő módon az egyiket közülük nem Poirot, hanem Miss Marple tálalásában élvezhetjük!&lt;br&gt;Bárhol szívesebben töltené Hercule Poirot a karácsonyt, mint egy kifűthetetlen, tizenhatodik századi udvarházban. De az eltűnt rubin rejtélye csak odavonzza...&lt;br&gt;Miss Marple unokaöccse boldogan mutatja meg Greenshaw Bolondvárát barátjának, aki giccseket gyűjt. De ki lőtte le (íjjal!) az idősecske várkisasszonyt?&lt;br&gt;Megtudjuk továbbá, hogy került a hulla a spanyol ládába, ki ölte meg a nehéz természetű főrendet, miért veszélyes étel a szedres pite, és megálmodhatja-e az ember, hogy öngyilkos lesz.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">5dc1c9b5-aa10-474a-996d-0c50864daba6</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630799270</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">30175277</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <meta name="calibre:series" content="Hercule Poirot"/>
+        <meta name="calibre:series_index" content="33"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-11-24T15:56:38.990234+00:00"/>
+        <meta name="calibre:title_sort" content="karácsonyi puding esete, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;MOBI&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -5,15 +5,20 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">bb8f27c9-741a-49dc-b80a-cd542128758d</dc:identifier>
         <dc:title>A titokzatos Négyes</dc:title>
         <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>1993-02-14T23:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1927-01-26T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
-&lt;p&gt;Li Chang Yent tekinthetjük a Nagy Négyes agyának. Ő az irányító és a mozgatóerő. Ezért őt az Egyesnek nevezem.&lt;br&gt;A Kettest ritkán említik a nevén. Őt egy „S”-sel jelölik, két vonallal áthúzva – a dollár jelével. Ő képviseli a gazdagság hatalmát.&lt;br&gt;A Hármas minden kétséget kizárólag nő és francia nemzetiségű.&lt;br&gt;A Négyes…&lt;br&gt;Itt elcsuklott a hangja és elhallgatott. Úgy tűnt, hogy valami legyőzhetetlen félelem hatalmasodott el rajta. A vonásai eltorzultak…&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Hungalibri</dc:publisher>
+&lt;p&gt;Li Chang Yent tekinthetjük a Nagy Négyes agyának. Ő az irányító és a mozgatóerő. Ezért őt az Egyesnek nevezem. &lt;br&gt;A Kettest ritkán említik a nevén. Őt egy S-sel jelölik, két vonallal áthúzva – a dollár jelével. Ő képviseli a gazdagság hatalmát. &lt;br&gt;A Hármas minden kétséget kizárólag nő és francia nemzetiségű. &lt;br&gt;A Négyes… &lt;br&gt;Itt elcsuklott a hangja és elhallgatott. Úgy tűnt, hogy valami legyőzhetetlen félelem hatalmasodott el rajta. A vonásai eltorzultak…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>+</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9789639021556</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">fCczywAACAAJ</dc:identifier>
         <dc:identifier opf:scheme="MOLY_HU">agatha-christie-a-titokzatos-negyes</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">32950859</dc:identifier>
         <dc:language>hun</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Thriller</dc:subject>
         <dc:subject>20. század</dc:subject>
         <dc:subject>angol szerző</dc:subject>
         <dc:subject>brit szerző</dc:subject>
@@ -27,7 +32,6 @@
         <dc:subject>regény</dc:subject>
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>krimi</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Agatha Christie&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Hercule Poirot"/>
         <meta name="calibre:series_index" content="5"/>
         <meta name="calibre:rating" content="8"/>

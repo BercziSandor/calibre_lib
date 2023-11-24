@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">71210a1b-223f-4a7b-a598-fe4a80ea31ef</dc:identifier>
         <dc:title>Az álmok háza</dc:title>
         <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-02-17T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Minden nagy alkotónak van egy játszótere, ahol nem kell az elvárások szerint viselkednie. Agatha Christie is írhat olyan történeteket, amelyekből hiányoznak azok a tipikus fordulatok, melyeknek köszönhetően világhíres lett.&lt;br&gt;Mondjuk a novellában nem követnek el igazi gyilkosságot, és Poirot figurája egy gyerekes csíny csetlő-botló áldozataként tűnik fel. Ugyanakkor számtalan módon köszönnek vissza az írásokból azok a megoldások, melyek az írónő klasszikus alkotásait híressé tették.&lt;br&gt;Agatha Christie bármely történet megformálása során képes arra, hogy folyamatosan, ugyanakkor remek kompozíciós érzékkel adagolja a váratlan fordulatokat, és mikor már kényelmesen hátradőlve azt hinnénk, hogy sejtjük a végkifejletet, ő megint rácáfol elvárásainkra. Ezért szeretjük.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -27,7 +27,8 @@
         <dc:subject>regény</dc:subject>
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>krimi</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Agatha Christie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Hercule Poirot"/>
+        <meta name="calibre:series_index" content="99"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-11-17T20:58:58+00:00"/>
         <meta name="calibre:title_sort" content="álmok háza, Az"/>
