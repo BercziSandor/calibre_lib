@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">96b7198e-6fec-44c8-86be-249104750686</dc:identifier>
+        <dc:title>20 Python Libraries You Aren’t Using (But Should)</dc:title>
+        <dc:creator opf:file-as="Hattingh, Caleb" opf:role="aut">Caleb Hattingh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-08T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The Python ecosystem is vast and far-reaching in both scope and depth. Starting out in this crazy, open-source forest is daunting, and even with years of experience, it still requires continual effort to keep up-to-date with the best libraries and techniques. This report helps you explore some of the lesser known Python libraries and tools, including third-party modules and several extremely useful tools in the standard library that deserve more attention.&lt;br&gt;What makes this collection different from other lists online? Author Caleb Hattingh diligently spent time finding and testing hidden gems that fit several criteria: easy to install and use, cross-platform, applicable to more than one domain, and not yet popular but likely to become so soon. You will likely discover at least a couple of cool libraries that will assist you in your everyday Python activities, no matter your specialization.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781491967928</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">caleb-hattingh-20-python-libraries-you-arent-using-but-should</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>angol nyelvű</dc:subject>
+        <dc:subject>informatika</dc:subject>
+        <dc:subject>programozás</dc:subject>
+        <dc:subject>programozási nyelv</dc:subject>
+        <dc:subject>számítástechnika</dc:subject>
+        <dc:subject>számítógép-hálózatok</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Caleb Hattingh&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-03-02T14:13:20+00:00"/>
+        <meta name="calibre:title_sort" content="20 Python Libraries You Aren’t Using (But Should)"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c24e7725-af66-4984-ba65-2d93d98dc419</dc:identifier>
+        <dc:title>Powershell Pocket Reference: Portable Help for Powershell Scripters</dc:title>
+        <dc:creator opf:file-as="Holmes, Lee" opf:role="aut">Lee Holmes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-17T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This portable reference to PowerShell summarizes the command shell and scripting language and provides a concise guide to the many tasks that make PowerShell so useful. If you're a busy administrator and don't have time to plow through huge books or in-depth online searches, this is the ideal on-the-job tool.&lt;/p&gt;
+&lt;p&gt;Written by PowerShell team member Lee Holmes and excerpted from his PowerShell Cookbook, this edition offers up-to-date coverage of Windows PowerShell 5.1 and open source PowerShell Core up to 7 and beyond.&lt;/p&gt;
+&lt;p&gt;Beginning with a guided tour of PowerShell, this handy guide covers:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;PowerShell language and environment&lt;/li&gt;
+&lt;li&gt;Regular expression reference&lt;/li&gt;
+&lt;li&gt;XPath quick reference&lt;/li&gt;
+&lt;li&gt;.NET string formatting&lt;/li&gt;
+&lt;li&gt;.NET DateTime formatting&lt;/li&gt;
+&lt;li&gt;Selected .NET classes and their uses&lt;/li&gt;
+&lt;li&gt;WMI reference&lt;/li&gt;
+&lt;li&gt;Selected COM objects and their uses&lt;/li&gt;
+&lt;li&gt;Standard PowerShell verbs&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Lee Holmes is a developer on the Microsoft Windows PowerShell team, and has been an authoritative source of information about PowerShell since its earliest betas. His vast experience with Windows PowerShell enables him to integrate both the 'how' and the 'why' into discussions. Lee's involvement with the PowerShell and administration community (via newsgroups, mailing lists, and blogs) gives him a great deal of insight into the problems faced by all levels of administrators and PowerShell users alike.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781098101671</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1098101677</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">57573213</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">XJ1CzgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>PowerShell</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Portable</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lee Holmes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-12-20T08:02:24.492209+00:00"/>
+        <meta name="calibre:title_sort" content="Powershell Pocket Reference: Portable Help for Powershell Scripters"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

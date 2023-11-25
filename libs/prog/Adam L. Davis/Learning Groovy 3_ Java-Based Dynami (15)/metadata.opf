@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">55884cb2-9672-4609-8d85-38b3eb3b5bfe</dc:identifier>
+        <dc:title>Learning Groovy 3: Java-Based Dynamic Scripting</dc:title>
+        <dc:creator opf:file-as="Davis, Adam L." opf:role="aut">Adam L. Davis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-24T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Start building powerful apps that take advantage of the dynamic scripting capabilities of the Groovy language, including what's new in Groovy version 3.0. This book covers Groovy fundamentals, such as installing Groovy, using Groovy tools, and working with the Groovy Development Kit (GDK). You'll also learn more advanced aspects of Groovy, such as using Groovy design patterns, writing DSLs in Groovy, and taking advantage of Groovy's functional programming features.&lt;/p&gt;
+&lt;p&gt;Also, &lt;em&gt;Learning Groovy 3&lt;/em&gt; has been updated to Groovy 3.0 to include the new Parrot parser which was extended to support additional syntax options and language features. It also includes coverage of Groovydoc, which allows you to embed Groovydoc comments in various ways. And, this book covers how Groovy supports Java type annotations and more.&lt;/p&gt;
+&lt;p&gt;There is more to Groovy than the core language, so &lt;em&gt;Learning Groovy 3, Second Edition&lt;/em&gt; covers the extended Groovy ecosystem. You'll see how to harness Gradle (Groovy's build system), Grails (Groovy's web application framework), Spock (Groovy's testing framework), and Ratpack (Groovy's reactive web library).&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;What You Will Learn&lt;/p&gt;
+&lt;p&gt;Grasp Groovy fundamentals, including the GDK Master advanced Groovy, such as writing Groovy DSLs Discover functional programming in Groovy Work with GPars, the built-in concurrency library Use Gradle, the build system Master Grails, the web application framework Work with Spock, the testing framework Harness Ratpack, the reactive web library &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Who This Book Is For&lt;/p&gt;
+&lt;p&gt;Those with a Java background, though anyone with basic programming skills can benefit from it. This book is a data-filled, yet easy-to-digest tour of the Groovy language and ecosystem. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07VRY6SNZ</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Cz-lDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781484250587</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">53092165</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Java</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Groovy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Adam L. Davis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2022-12-20T08:24:41+00:00"/>
+        <meta name="calibre:title_sort" content="Learning Groovy 3: Java-Based Dynamic Scripting"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
