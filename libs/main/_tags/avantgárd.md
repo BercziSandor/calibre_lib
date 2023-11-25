@@ -1,3 +1,3 @@
 # avantgárd
 
-- Jevgenyij Zamjatyin: Mi [részletek](_details/%7Bopf.creator%7D.md#id_607)
+- Jevgenyij Zamjatyin: Mi [részletek](_details/Jevgenyij%20Zamjatyin.md#id_607)

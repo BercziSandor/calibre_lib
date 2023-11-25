@@ -1,3 +1,3 @@
 # katonai megszállás
 
-- Stephen E. Ambrose: Az elit alakulat [részletek](_details/%7Bopf.creator%7D.md#id_316)
+- Stephen E. Ambrose: Az elit alakulat [részletek](_details/Stephen%20E.%20Ambrose.md#id_316)

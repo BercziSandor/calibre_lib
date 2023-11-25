@@ -1,4 +1,4 @@
 # 30-As évek
 
-- Arthur Golden: Egy gésa emlékiratai [részletek](_details/%7Bopf.creator%7D.md#id_280)
-- Szerb, Antal: Utas és holdvilág [részletek](_details/%7Bopf.creator%7D.md#id_387)
+- Arthur Golden: Egy gésa emlékiratai [részletek](_details/Arthur%20Golden.md#id_280)
+- Szerb, Antal: Utas és holdvilág [részletek](_details/Szerb%2C%20Antal.md#id_387)

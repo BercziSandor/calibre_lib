@@ -1,3 +1,3 @@
 # izlandi
 
-- Yrsa Sigurðardóttir: Emlékszem ​rád [részletek](_details/%7Bopf.creator%7D.md#id_1727)
+- Yrsa Sigurðardóttir: Emlékszem ​rád [részletek](_details/Yrsa%20Sigur%C3%B0ard%C3%B3ttir.md#id_1727)

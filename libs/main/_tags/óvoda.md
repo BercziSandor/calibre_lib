@@ -1,3 +1,3 @@
 # óvoda
 
-- Vekerdy, Tamás: Gyerekek, óvodák, iskolák [részletek](_details/%7Bopf.creator%7D.md#id_616)
+- Vekerdy, Tamás: Gyerekek, óvodák, iskolák [részletek](_details/Vekerdy%2C%20Tam%C3%A1s.md#id_616)

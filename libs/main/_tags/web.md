@@ -1,3 +1,3 @@
 # web
 
-- Joanne Harris: Kékszeműfiú [részletek](_details/%7Bopf.creator%7D.md#id_1117)
+- Joanne Harris: Kékszeműfiú [részletek](_details/Joanne%20Harris.md#id_1117)

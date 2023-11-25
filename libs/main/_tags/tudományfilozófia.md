@@ -1,3 +1,3 @@
 # tudományfilozófia
 
-- Daniel C. Dennett: Micsoda elmék [részletek](_details/%7Bopf.creator%7D.md#id_631)
+- Daniel C. Dennett: Micsoda elmék [részletek](_details/Daniel%20C.%20Dennett.md#id_631)

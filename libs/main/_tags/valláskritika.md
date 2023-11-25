@@ -1,4 +1,4 @@
 # valláskritika
 
-- Léo Taxil: A szórakoztató Biblia [részletek](_details/%7Bopf.creator%7D.md#id_950)
-- Richard Dawkins: Isteni téveszme [részletek](_details/%7Bopf.creator%7D.md#id_363)
+- Léo Taxil: A szórakoztató Biblia [részletek](_details/L%C3%A9o%20Taxil.md#id_950)
+- Richard Dawkins: Isteni téveszme [részletek](_details/Richard%20Dawkins.md#id_363)

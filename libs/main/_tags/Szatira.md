@@ -1,3 +1,3 @@
 # Szatira
 
-- Moldova, György: A nagy októberi összefogás [részletek](_details/%7Bopf.creator%7D.md#id_1362)
+- Moldova, György: A nagy októberi összefogás [részletek](_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1362)

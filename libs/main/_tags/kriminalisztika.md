@@ -1,3 +1,3 @@
 # kriminalisztika
 
-- Tarjányi, Péter: Meglátni és megveretni [részletek](_details/%7Bopf.creator%7D.md#id_478)
+- Tarjányi, Péter: Meglátni és megveretni [részletek](_details/Tarj%C3%A1nyi%2C%20P%C3%A9ter.md#id_478)

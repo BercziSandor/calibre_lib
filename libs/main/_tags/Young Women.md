@@ -1,4 +1,4 @@
 # Young Women
 
-- Jane Austen: Emma [részletek](_details/%7Bopf.creator%7D.md#id_57)
-- Jane Austen: Meggyőző érvek [részletek](_details/%7Bopf.creator%7D.md#id_59)
+- Jane Austen: Emma [részletek](_details/Jane%20Austen.md#id_57)
+- Jane Austen: Meggyőző érvek [részletek](_details/Jane%20Austen.md#id_59)

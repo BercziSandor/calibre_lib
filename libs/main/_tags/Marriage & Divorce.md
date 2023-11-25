@@ -1,3 +1,3 @@
 # Marriage & Divorce
 
-- Rejtő, Jenő: Egy bolond száz bajt csinál [részletek](_details/%7Bopf.creator%7D.md#id_140)
+- Rejtő, Jenő: Egy bolond száz bajt csinál [részletek](_details/Rejt%C5%91%2C%20Jen%C5%91.md#id_140)

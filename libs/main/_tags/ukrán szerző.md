@@ -1,3 +1,3 @@
 # ukrán szerző
 
-- Okszana Zabuzsko: Terepvizsgálatok az ukránok szexuális életéről [részletek](_details/%7Bopf.creator%7D.md#id_468)
+- Okszana Zabuzsko: Terepvizsgálatok az ukránok szexuális életéről [részletek](_details/Okszana%20Zabuzsko.md#id_468)

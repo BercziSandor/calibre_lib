@@ -1,3 +1,3 @@
 # tánc
 
-- Paulo Coelho: Tizenegy perc [részletek](_details/%7Bopf.creator%7D.md#id_263)
+- Paulo Coelho: Tizenegy perc [részletek](_details/Paulo%20Coelho.md#id_263)

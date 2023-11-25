@@ -1,3 +1,3 @@
 # penzugyek
 
-- Torai, Gábor: Tedd rendbe az életed! [részletek](_details/%7Bopf.creator%7D.md#id_47)
+- Torai, Gábor: Tedd rendbe az életed! [részletek](_details/Torai%2C%20G%C3%A1bor.md#id_47)

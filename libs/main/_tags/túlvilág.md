@@ -1,3 +1,3 @@
 # túlvilág
 
-- Chuck Palahniuk: Halálraítélt [részletek](_details/%7Bopf.creator%7D.md#id_1600)
+- Chuck Palahniuk: Halálraítélt [részletek](_details/Chuck%20Palahniuk.md#id_1600)

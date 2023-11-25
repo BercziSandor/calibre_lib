@@ -1,3 +1,3 @@
 # Georgia
 
-- Karin Slaughter: Nadragulya [részletek](_details/%7Bopf.creator%7D.md#id_788)
+- Karin Slaughter: Nadragulya [részletek](_details/Karin%20Slaughter.md#id_788)

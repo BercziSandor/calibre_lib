@@ -1,3 +1,3 @@
 # poliamória
 
-- Maya Banks: Vénuszdombi mesék [részletek](_details/%7Bopf.creator%7D.md#id_285)
+- Maya Banks: Vénuszdombi mesék [részletek](_details/Maya%20Banks.md#id_285)

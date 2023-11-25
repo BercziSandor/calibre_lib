@@ -1,3 +1,3 @@
 # (UDC/ETO)
 
-- Agatha Christie: Adventi krimik [részletek](_details/%7Bopf.creator%7D.md#id_1761)
+- Agatha Christie: Adventi krimik [részletek](_details/Agatha%20Christie.md#id_1761)

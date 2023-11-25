@@ -1,3 +1,3 @@
 # életbölcsesség
 
-- Csernus, Imre: Felnőtt Húsleves [részletek](_details/%7Bopf.creator%7D.md#id_378)
+- Csernus, Imre: Felnőtt Húsleves [részletek](_details/Csernus%2C%20Imre.md#id_378)

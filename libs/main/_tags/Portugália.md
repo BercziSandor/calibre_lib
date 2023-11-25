@@ -1,3 +1,3 @@
 # Portugália
 
-- Erich Maria Remarque: Éjszaka Lisszabonban [részletek](_details/%7Bopf.creator%7D.md#id_357)
+- Erich Maria Remarque: Éjszaka Lisszabonban [részletek](_details/Erich%20Maria%20Remarque.md#id_357)

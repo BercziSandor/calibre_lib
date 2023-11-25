@@ -1,3 +1,3 @@
 # történelmi dokumentum
 
-- Günter Grass: Ráklépésben [részletek](_details/%7Bopf.creator%7D.md#id_358)
+- Günter Grass: Ráklépésben [részletek](_details/G%C3%BCnter%20Grass.md#id_358)

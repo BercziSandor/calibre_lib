@@ -1,3 +1,3 @@
 # ókori
 
-- Aurelius, Marcus: Marcus Aurelius elmélkedései [részletek](_details/%7Bopf.creator%7D.md#id_856)
+- Aurelius, Marcus: Marcus Aurelius elmélkedései [részletek](_details/Aurelius%2C%20Marcus.md#id_856)

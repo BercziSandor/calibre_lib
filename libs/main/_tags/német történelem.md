@@ -1,3 +1,3 @@
 # német történelem
 
-- Andrea Schacht: A sötét tükör [részletek](_details/%7Bopf.creator%7D.md#id_951)
+- Andrea Schacht: A sötét tükör [részletek](_details/Andrea%20Schacht.md#id_951)

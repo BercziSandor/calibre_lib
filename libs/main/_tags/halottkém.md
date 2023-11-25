@@ -1,3 +1,3 @@
 # halottkém
 
-- Kathy Reichs: A holtak beszélnek [részletek](_details/%7Bopf.creator%7D.md#id_157)
+- Kathy Reichs: A holtak beszélnek [részletek](_details/Kathy%20Reichs.md#id_157)

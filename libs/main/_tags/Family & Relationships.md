@@ -1,3 +1,3 @@
 # Family & Relationships
 
-- James Lecesne: Trevor [részletek](_details/%7Bopf.creator%7D.md#id_1272)
+- James Lecesne: Trevor [részletek](_details/James%20Lecesne.md#id_1272)

@@ -1,3 +1,3 @@
 # temető
 
-- Akunyin, Borisz: Temetői történetek [részletek](_details/%7Bopf.creator%7D.md#id_714)
+- Akunyin, Borisz: Temetői történetek [részletek](_details/Akunyin%2C%20Borisz.md#id_714)

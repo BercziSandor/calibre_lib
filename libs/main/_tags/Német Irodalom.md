@@ -1,3 +1,3 @@
 # Német Irodalom
 
-- Michael Ende: A végtelen történet [részletek](_details/%7Bopf.creator%7D.md#id_353)
+- Michael Ende: A végtelen történet [részletek](_details/Michael%20Ende.md#id_353)

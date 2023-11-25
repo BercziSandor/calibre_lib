@@ -1,3 +1,3 @@
 # országismeret
 
-- Terebess, Gábor: Ezerízű Kína [részletek](_details/%7Bopf.creator%7D.md#id_973)
+- Terebess, Gábor: Ezerízű Kína [részletek](_details/Terebess%2C%20G%C3%A1bor.md#id_973)

@@ -1,3 +1,3 @@
 # ügynök
 
-- David Michaels: Barrakuda művelet [részletek](_details/%7Bopf.creator%7D.md#id_720)
+- David Michaels: Barrakuda művelet [részletek](_details/David%20Michaels.md#id_720)

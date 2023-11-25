@@ -1,3 +1,3 @@
 # Svédország
 
-- Åsa Schwarz: Nefilim [részletek](_details/%7Bopf.creator%7D.md#id_683)
+- Åsa Schwarz: Nefilim [részletek](_details/%C3%85sa%20Schwarz.md#id_683)

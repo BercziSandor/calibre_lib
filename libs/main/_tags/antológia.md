@@ -1,3 +1,3 @@
 # antológia
 
-- Stephen King: Sherlock Holmes lehetetlen kalandjai [részletek](_details/%7Bopf.creator%7D.md#id_933)
+- Stephen King: Sherlock Holmes lehetetlen kalandjai [részletek](_details/Stephen%20King.md#id_933)

@@ -1,3 +1,3 @@
 # indiai szerző
 
-- Salman Rushdie: Fúriadüh [részletek](_details/%7Bopf.creator%7D.md#id_1452)
+- Salman Rushdie: Fúriadüh [részletek](_details/Salman%20Rushdie.md#id_1452)

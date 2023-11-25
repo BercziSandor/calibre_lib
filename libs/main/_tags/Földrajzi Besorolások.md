@@ -1,3 +1,3 @@
 # Földrajzi Besorolások
 
-- Robert Ludlum: Bourne Hatalma [részletek](_details/%7Bopf.creator%7D.md#id_40)
+- Robert Ludlum: Bourne Hatalma [részletek](_details/Robert%20Ludlum.md#id_40)

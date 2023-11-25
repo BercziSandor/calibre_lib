@@ -1,3 +1,3 @@
 # jazz
 
-- Beck, Judit: Nagy drogkönyv [részletek](_details/%7Bopf.creator%7D.md#id_646)
+- Beck, Judit: Nagy drogkönyv [részletek](_details/Beck%2C%20Judit.md#id_646)

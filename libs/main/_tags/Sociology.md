@@ -1,3 +1,3 @@
 # Sociology
 
-- Havas, Henrik: Kurvaélet [részletek](_details/%7Bopf.creator%7D.md#id_477)
+- Havas, Henrik: Kurvaélet [részletek](_details/Havas%2C%20Henrik.md#id_477)

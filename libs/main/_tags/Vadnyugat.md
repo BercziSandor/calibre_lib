@@ -1,3 +1,3 @@
 # Vadnyugat
 
-- Michael Blake: Farkasokkal táncoló [részletek](_details/%7Bopf.creator%7D.md#id_721)
+- Michael Blake: Farkasokkal táncoló [részletek](_details/Michael%20Blake.md#id_721)

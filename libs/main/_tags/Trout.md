@@ -1,3 +1,3 @@
 # Trout
 
-- Vonnegut, Kurt: Breakfast of Champions [részletek](_details/%7Bopf.creator%7D.md#id_1614)
+- Vonnegut, Kurt: Breakfast of Champions [részletek](_details/Vonnegut%2C%20Kurt.md#id_1614)

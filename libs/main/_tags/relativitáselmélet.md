@@ -1,3 +1,3 @@
 # relativitáselmélet
 
-- Stephen Hawking: Az idő rövid története [részletek](_details/%7Bopf.creator%7D.md#id_1166)
+- Stephen Hawking: Az idő rövid története [részletek](_details/Stephen%20Hawking.md#id_1166)

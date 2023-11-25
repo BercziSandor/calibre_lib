@@ -1,3 +1,3 @@
 # hard sci-fi
 
-- Cixin Liu: A háromtest-probléma [részletek](_details/%7Bopf.creator%7D.md#id_1451)
+- Cixin Liu: A háromtest-probléma [részletek](_details/Cixin%20Liu.md#id_1451)

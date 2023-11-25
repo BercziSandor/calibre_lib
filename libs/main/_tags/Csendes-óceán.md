@@ -1,4 +1,4 @@
 # Csendes-óceán
 
-- Robert Merle: A sziget [részletek](_details/%7Bopf.creator%7D.md#id_325)
-- Yann Martel: Pi élete [részletek](_details/%7Bopf.creator%7D.md#id_1458)
+- Robert Merle: A sziget [részletek](_details/Robert%20Merle.md#id_325)
+- Yann Martel: Pi élete [részletek](_details/Yann%20Martel.md#id_1458)

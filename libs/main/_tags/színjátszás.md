@@ -1,3 +1,3 @@
 # színjátszás
 
-- Terry Pratchett: Vészbanyák [részletek](_details/%7Bopf.creator%7D.md#id_689)
+- Terry Pratchett: Vészbanyák [részletek](_details/Terry%20Pratchett.md#id_689)

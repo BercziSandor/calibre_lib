@@ -1,3 +1,3 @@
 # Sakk
 
-- Berg, Judit: Alma [részletek](_details/%7Bopf.creator%7D.md#id_1274)
+- Berg, Judit: Alma [részletek](_details/Berg%2C%20Judit.md#id_1274)

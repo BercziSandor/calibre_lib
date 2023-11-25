@@ -1,3 +1,3 @@
 # memetika
 
-- Richard Dawkins: Az önző gén [részletek](_details/%7Bopf.creator%7D.md#id_360)
+- Richard Dawkins: Az önző gén [részletek](_details/Richard%20Dawkins.md#id_360)

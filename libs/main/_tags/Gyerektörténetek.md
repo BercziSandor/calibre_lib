@@ -1,3 +1,3 @@
 # Gyerektörténetek
 
-- Arthur Ransome: Galambposta [részletek](_details/%7Bopf.creator%7D.md#id_431)
+- Arthur Ransome: Galambposta [részletek](_details/Arthur%20Ransome.md#id_431)

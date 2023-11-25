@@ -1,3 +1,3 @@
 # Hangjáték
 
-- Szerb, Antal: Utas és holdvilág [részletek](_details/%7Bopf.creator%7D.md#id_387)
+- Szerb, Antal: Utas és holdvilág [részletek](_details/Szerb%2C%20Antal.md#id_387)

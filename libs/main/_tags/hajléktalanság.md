@@ -1,3 +1,3 @@
 # hajléktalanság
 
-- Karin Alvtegen: A kitaszított [részletek](_details/%7Bopf.creator%7D.md#id_673)
+- Karin Alvtegen: A kitaszított [részletek](_details/Karin%20Alvtegen.md#id_673)

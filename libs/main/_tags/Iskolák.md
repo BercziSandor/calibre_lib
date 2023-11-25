@@ -1,3 +1,3 @@
 # Iskolák
 
-- Fekete, István: Tüskevár [részletek](_details/%7Bopf.creator%7D.md#id_121)
+- Fekete, István: Tüskevár [részletek](_details/Fekete%2C%20Istv%C3%A1n.md#id_121)

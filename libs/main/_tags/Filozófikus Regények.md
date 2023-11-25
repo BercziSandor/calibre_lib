@@ -1,3 +1,3 @@
 # Filozófikus Regények
 
-- Bohumil Hrabal: Házimurik [részletek](_details/%7Bopf.creator%7D.md#id_445)
+- Bohumil Hrabal: Házimurik [részletek](_details/Bohumil%20Hrabal.md#id_445)

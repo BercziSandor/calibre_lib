@@ -1,3 +1,3 @@
 # Organ Donors
 
-- Jodi Picoult: A nővérem húga [részletek](_details/%7Bopf.creator%7D.md#id_350)
+- Jodi Picoult: A nővérem húga [részletek](_details/Jodi%20Picoult.md#id_350)

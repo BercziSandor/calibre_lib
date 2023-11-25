@@ -1,3 +1,3 @@
 # Ausztria
 
-- Erich Kästner: A két Lotti [részletek](_details/%7Bopf.creator%7D.md#id_1199)
+- Erich Kästner: A két Lotti [részletek](_details/Erich%20K%C3%A4stner.md#id_1199)

@@ -1,3 +1,3 @@
 # bibliai történetek
 
-- Popper, Péter: Lélekrágcsálók [részletek](_details/%7Bopf.creator%7D.md#id_763)
+- Popper, Péter: Lélekrágcsálók [részletek](_details/Popper%2C%20P%C3%A9ter.md#id_763)

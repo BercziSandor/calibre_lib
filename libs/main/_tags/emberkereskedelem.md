@@ -1,3 +1,3 @@
 # emberkereskedelem
 
-- Rachel Vincent: Stray – Kóborok [részletek](_details/%7Bopf.creator%7D.md#id_428)
+- Rachel Vincent: Stray – Kóborok [részletek](_details/Rachel%20Vincent.md#id_428)

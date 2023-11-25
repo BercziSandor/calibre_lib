@@ -1,3 +1,3 @@
 # Art
 
-- Vonnegut, Kurt: Bluebeard [részletek](_details/%7Bopf.creator%7D.md#id_1702)
+- Vonnegut, Kurt: Bluebeard [részletek](_details/Vonnegut%2C%20Kurt.md#id_1702)

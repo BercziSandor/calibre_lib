@@ -1,3 +1,3 @@
 # fogság
 
-- Kepes, András: Istenek és emberek [részletek](_details/%7Bopf.creator%7D.md#id_1232)
+- Kepes, András: Istenek és emberek [részletek](_details/Kepes%2C%20Andr%C3%A1s.md#id_1232)

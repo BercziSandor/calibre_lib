@@ -1,3 +1,3 @@
 # Ibby
 
-- Berg, Judit: Rumini [részletek](_details/%7Bopf.creator%7D.md#id_467)
+- Berg, Judit: Rumini [részletek](_details/Berg%2C%20Judit.md#id_467)

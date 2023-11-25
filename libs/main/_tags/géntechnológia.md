@@ -1,5 +1,5 @@
 # géntechnológia
 
-- Michael Crichton: Őslénypark [részletek](_details/%7Bopf.creator%7D.md#id_757)
-- Michael Crichton: Szörnyek szigete [részletek](_details/%7Bopf.creator%7D.md#id_760)
-- Robin Cook: Mutáció [részletek](_details/%7Bopf.creator%7D.md#id_98)
+- Michael Crichton: Őslénypark [részletek](_details/Michael%20Crichton.md#id_757)
+- Michael Crichton: Szörnyek szigete [részletek](_details/Michael%20Crichton.md#id_760)
+- Robin Cook: Mutáció [részletek](_details/Robin%20Cook.md#id_98)

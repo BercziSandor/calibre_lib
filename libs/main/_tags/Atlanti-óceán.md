@@ -1,3 +1,3 @@
 # Atlanti-óceán
 
-- Arthur Ransome: Nem akartunk tengerre szállni [részletek](_details/%7Bopf.creator%7D.md#id_430)
+- Arthur Ransome: Nem akartunk tengerre szállni [részletek](_details/Arthur%20Ransome.md#id_430)

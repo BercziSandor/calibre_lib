@@ -1,3 +1,3 @@
 # Arthur C. Clarke-díj
 
-- Kazuo Ishiguro: Ne engedj el… [részletek](_details/%7Bopf.creator%7D.md#id_158)
+- Kazuo Ishiguro: Ne engedj el… [részletek](_details/Kazuo%20Ishiguro.md#id_158)

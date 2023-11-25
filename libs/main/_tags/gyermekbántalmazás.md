@@ -1,4 +1,4 @@
 # gyermekbántalmazás
 
-- Augusten Burroughs: Farkas az asztalnál [részletek](_details/%7Bopf.creator%7D.md#id_977)
-- Stephen King: Lisey története [részletek](_details/%7Bopf.creator%7D.md#id_546)
+- Augusten Burroughs: Farkas az asztalnál [részletek](_details/Augusten%20Burroughs.md#id_977)
+- Stephen King: Lisey története [részletek](_details/Stephen%20King.md#id_546)

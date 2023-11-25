@@ -1,3 +1,3 @@
 # terápia
 
-- Anna Gavalda: Életre kelni [részletek](_details/%7Bopf.creator%7D.md#id_1303)
+- Anna Gavalda: Életre kelni [részletek](_details/Anna%20Gavalda.md#id_1303)

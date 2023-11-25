@@ -1,3 +1,3 @@
 # vígjáték
 
-- Moldova, György: Zsidómentes övezet [részletek](_details/%7Bopf.creator%7D.md#id_1394)
+- Moldova, György: Zsidómentes övezet [részletek](_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1394)

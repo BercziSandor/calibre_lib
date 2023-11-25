@@ -1,3 +1,3 @@
 # Love Stories
 
-- Jane Austen: A Klastrom Titka [részletek](_details/%7Bopf.creator%7D.md#id_54)
+- Jane Austen: A Klastrom Titka [részletek](_details/Jane%20Austen.md#id_54)

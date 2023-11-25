@@ -1,3 +1,3 @@
 # katonai sci-fi
 
-- Foster, Alan Dean: A bolygó neve: Halál [részletek](_details/%7Bopf.creator%7D.md#id_650)
+- Foster, Alan Dean: A bolygó neve: Halál [részletek](_details/Foster%2C%20Alan%20Dean.md#id_650)

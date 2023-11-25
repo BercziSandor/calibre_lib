@@ -1,3 +1,3 @@
 # cserkész
 
-- Erlend Loe: Doppler, az utak királya [részletek](_details/%7Bopf.creator%7D.md#id_531)
+- Erlend Loe: Doppler, az utak királya [részletek](_details/Erlend%20Loe.md#id_531)

@@ -1,3 +1,3 @@
 # Európa Diákkönyvtár
 
-- Mihail Bulgakov: A Mester és Margarita [részletek](_details/%7Bopf.creator%7D.md#id_275)
+- Mihail Bulgakov: A Mester és Margarita [részletek](_details/Mihail%20Bulgakov.md#id_275)

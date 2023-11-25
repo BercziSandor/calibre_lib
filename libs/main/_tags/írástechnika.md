@@ -1,3 +1,3 @@
 # írástechnika
 
-- Megyesi, Zoltán: Titkosírások [részletek](_details/%7Bopf.creator%7D.md#id_413)
+- Megyesi, Zoltán: Titkosírások [részletek](_details/Megyesi%2C%20Zolt%C3%A1n.md#id_413)

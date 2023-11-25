@@ -1,3 +1,3 @@
 # hadsereg
 
-- W. E. B. Griffin: Hadnagyok [részletek](_details/%7Bopf.creator%7D.md#id_320)
+- W. E. B. Griffin: Hadnagyok [részletek](_details/W.%20E.%20B.%20Griffin.md#id_320)

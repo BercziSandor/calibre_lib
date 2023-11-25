@@ -1,3 +1,3 @@
 # költők
 
-- Szabó, Magda: Ókút [részletek](_details/%7Bopf.creator%7D.md#id_464)
+- Szabó, Magda: Ókút [részletek](_details/Szab%C3%B3%2C%20Magda.md#id_464)

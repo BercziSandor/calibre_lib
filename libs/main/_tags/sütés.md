@@ -1,3 +1,3 @@
 # sütés
 
-- Joanne Fluke: Pikáns meglepetés és gyilkosság [részletek](_details/%7Bopf.creator%7D.md#id_623)
+- Joanne Fluke: Pikáns meglepetés és gyilkosság [részletek](_details/Joanne%20Fluke.md#id_623)

@@ -1,3 +1,3 @@
 # Ohio
 
-- Vonnegut, Kurt: Mesterlövész / Deadeye Dick [részletek](_details/%7Bopf.creator%7D.md#id_1131)
+- Vonnegut, Kurt: Mesterlövész / Deadeye Dick [részletek](_details/Vonnegut%2C%20Kurt.md#id_1131)

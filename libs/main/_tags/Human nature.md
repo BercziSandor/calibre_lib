@@ -1,3 +1,3 @@
 # Human nature
 
-- Vonnegut, Kurt: Galápagos [részletek](_details/%7Bopf.creator%7D.md#id_1619)
+- Vonnegut, Kurt: Galápagos [részletek](_details/Vonnegut%2C%20Kurt.md#id_1619)

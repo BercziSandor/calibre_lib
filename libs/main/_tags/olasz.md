@@ -1,3 +1,3 @@
 # olasz
 
-- Simona Vinci: Szégyentelenek [részletek](_details/%7Bopf.creator%7D.md#id_609)
+- Simona Vinci: Szégyentelenek [részletek](_details/Simona%20Vinci.md#id_609)

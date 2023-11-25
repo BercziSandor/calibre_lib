@@ -1,4 +1,4 @@
 # viktoriánus
 
-- Jane Austen: Meggyőző érvek [részletek](_details/%7Bopf.creator%7D.md#id_996)
-- Joanne Harris: Aludj kislány [részletek](_details/%7Bopf.creator%7D.md#id_1126)
+- Jane Austen: Meggyőző érvek [részletek](_details/Jane%20Austen.md#id_996)
+- Joanne Harris: Aludj kislány [részletek](_details/Joanne%20Harris.md#id_1126)

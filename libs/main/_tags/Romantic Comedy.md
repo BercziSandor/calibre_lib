@@ -1,3 +1,3 @@
 # Romantic Comedy
 
-- Leiner, Laura: Remek! [részletek](_details/%7Bopf.creator%7D.md#id_1502)
+- Leiner, Laura: Remek! [részletek](_details/Leiner%2C%20Laura.md#id_1502)

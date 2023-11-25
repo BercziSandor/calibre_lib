@@ -1,3 +1,3 @@
 # Jeruzsálem-díj
 
-- Jorge Luis Borges: Körkörös romok [részletek](_details/%7Bopf.creator%7D.md#id_1207)
+- Jorge Luis Borges: Körkörös romok [részletek](_details/Jorge%20Luis%20Borges.md#id_1207)

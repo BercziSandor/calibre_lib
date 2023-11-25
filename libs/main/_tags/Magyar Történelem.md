@@ -1,3 +1,3 @@
 # Magyar Történelem
 
-- Hahner, Péter: 100 történelmi tévhit [részletek](_details/%7Bopf.creator%7D.md#id_512)
+- Hahner, Péter: 100 történelmi tévhit [részletek](_details/Hahner%2C%20P%C3%A9ter.md#id_512)

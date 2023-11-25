@@ -1,3 +1,3 @@
 # Bolívia
 
-- Moldova, György: A napló [részletek](_details/%7Bopf.creator%7D.md#id_993)
+- Moldova, György: A napló [részletek](_details/Moldova%2C%20Gy%C3%B6rgy.md#id_993)

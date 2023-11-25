@@ -1,3 +1,3 @@
 # Duna
 
-- Moldova, György: Ég a Duna! [részletek](_details/%7Bopf.creator%7D.md#id_1370)
+- Moldova, György: Ég a Duna! [részletek](_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1370)

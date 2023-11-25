@@ -1,3 +1,3 @@
 # Állatregények
 
-- David Taylor: Hogyan lettem állatkerti orvos [részletek](_details/%7Bopf.creator%7D.md#id_473)
+- David Taylor: Hogyan lettem állatkerti orvos [részletek](_details/David%20Taylor.md#id_473)

@@ -1,3 +1,3 @@
 # ausztrál
 
-- Marlo Morgan: Vidd hírét az Igazaknak [részletek](_details/%7Bopf.creator%7D.md#id_1010)
+- Marlo Morgan: Vidd hírét az Igazaknak [részletek](_details/Marlo%20Morgan.md#id_1010)

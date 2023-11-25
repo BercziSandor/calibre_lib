@@ -1,3 +1,3 @@
 # füveskönyv
 
-- Márai, Sándor: Füves könyv [részletek](_details/%7Bopf.creator%7D.md#id_1419)
+- Márai, Sándor: Füves könyv [részletek](_details/M%C3%A1rai%2C%20S%C3%A1ndor.md#id_1419)

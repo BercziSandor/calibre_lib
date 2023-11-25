@@ -1,3 +1,3 @@
 # észak-koreai szerző
 
-- Hyeonseo Lee: A lány hét névvel [részletek](_details/%7Bopf.creator%7D.md#id_988)
+- Hyeonseo Lee: A lány hét névvel [részletek](_details/Hyeonseo%20Lee.md#id_988)

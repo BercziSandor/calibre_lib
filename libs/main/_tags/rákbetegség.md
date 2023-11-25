@@ -1,5 +1,5 @@
 # rákbetegség
 
-- Elin Hilderbrand: Mezítláb [részletek](_details/%7Bopf.creator%7D.md#id_995)
-- Jodi Picoult: A nővérem húga [részletek](_details/%7Bopf.creator%7D.md#id_350)
-- Leiner, Laura: Közhelyek [részletek](_details/%7Bopf.creator%7D.md#id_1481)
+- Elin Hilderbrand: Mezítláb [részletek](_details/Elin%20Hilderbrand.md#id_995)
+- Jodi Picoult: A nővérem húga [részletek](_details/Jodi%20Picoult.md#id_350)
+- Leiner, Laura: Közhelyek [részletek](_details/Leiner%2C%20Laura.md#id_1481)

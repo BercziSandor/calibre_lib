@@ -1,3 +1,3 @@
 # ázsiai
 
-- Arthur Golden: Egy gésa emlékiratai [részletek](_details/%7Bopf.creator%7D.md#id_280)
+- Arthur Golden: Egy gésa emlékiratai [részletek](_details/Arthur%20Golden.md#id_280)

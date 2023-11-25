@@ -1,3 +1,3 @@
 # Missouri
 
-- John Williams: Stoner [részletek](_details/%7Bopf.creator%7D.md#id_1004)
+- John Williams: Stoner [részletek](_details/John%20Williams.md#id_1004)

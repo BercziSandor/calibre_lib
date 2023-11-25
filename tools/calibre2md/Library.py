@@ -97,7 +97,7 @@ class Library:
             for opf in opfs:
                 if len(opf.books) > 0:
                     details_file_name_quoted = urllib.parse.quote(
-                        "_details/{opf.creator}.md")
+                        f"_details/{opf.creator}.md")
                     link_details = f"[részletek]({details_file_name_quoted}#id_{opf.id})"
                     books.append(f"{opf.creator}: {opf.title} {link_details}")
             docTag.add_unordered_list(books)
