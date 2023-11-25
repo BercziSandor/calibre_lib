@@ -13,6 +13,22 @@
   "check_library_ignore_names": "",
   "gui_view_history": [
     [
+      1762,
+      "A Greenshore-gloriett"
+    ],
+    [
+      236,
+      "A titkos ellenf\u00e9l"
+    ],
+    [
+      1745,
+      "A barna ruh\u00e1s f\u00e9rfi"
+    ],
+    [
+      242,
+      "Balh\u00fcvelykem bizsereg"
+    ],
+    [
       1744,
       "A sz\u00e1m\u00e9rz\u00e9k"
     ],
@@ -55,81 +71,41 @@
     [
       747,
       "Besz\u00e1mol\u00f3 a Barnhouse-effektusr\u00f3l"
-    ],
-    [
-      127,
-      "A dr\u00f3tn\u00e9lk\u00fcli gyilkoss\u00e1g"
-    ],
-    [
-      1699,
-      "A Court of Mist and Fury \u2013 K\u00f6d \u00e9s harag udvara"
-    ],
-    [
-      1700,
-      "Sz\u00e1rnyak \u00e9s pusztul\u00e1s udvara"
-    ],
-    [
-      1698,
-      "T\u00fcsk\u00e9k \u00e9s r\u00f3zs\u00e1k udvara"
     ]
   ],
   "plugboards": {},
   "tag_browser_hidden_categories": [],
   "library_view books view state": {
-    "column_alignment": {
-      "pubdate": "center",
-      "size": "center",
-      "timestamp": "center"
-    },
-    "column_positions": {
-      "#formats": 12,
-      "authors": 1,
-      "formats": 14,
-      "id": 13,
-      "languages": 5,
-      "last_modified": 11,
-      "ondevice": 0,
-      "path": 15,
-      "pubdate": 4,
-      "publisher": 10,
-      "rating": 8,
-      "series": 2,
-      "size": 7,
-      "tags": 9,
-      "timestamp": 6,
-      "title": 3
-    },
-    "column_sizes": {
-      "#formats": 170,
-      "authors": 245,
-      "formats": 0,
-      "id": 0,
-      "languages": 84,
-      "last_modified": 91,
-      "path": 0,
-      "pubdate": 95,
-      "publisher": 61,
-      "rating": 45,
-      "series": 180,
-      "size": 76,
-      "tags": 226,
-      "timestamp": 110,
-      "title": 217
-    },
-    "formats_injected": true,
     "hidden_columns": [
       "id",
       "formats",
       "path"
     ],
-    "id_injected": true,
-    "languages_injected": true,
     "last_modified_injected": true,
+    "languages_injected": true,
+    "formats_injected": true,
+    "id_injected": true,
     "path_injected": true,
     "sort_history": [
       [
-        "series",
+        "timestamp",
         false
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "series",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "series",
+        true
       ],
       [
         "title",
@@ -143,7 +119,47 @@
         "timestamp",
         false
       ]
-    ]
+    ],
+    "column_positions": {
+      "ondevice": 0,
+      "id": 13,
+      "title": 3,
+      "authors": 1,
+      "timestamp": 6,
+      "size": 7,
+      "rating": 8,
+      "tags": 9,
+      "series": 2,
+      "publisher": 10,
+      "formats": 14,
+      "path": 15,
+      "pubdate": 4,
+      "last_modified": 11,
+      "languages": 5,
+      "#formats": 12
+    },
+    "column_sizes": {
+      "id": 0,
+      "title": 218,
+      "authors": 191,
+      "timestamp": 110,
+      "size": 76,
+      "rating": 94,
+      "tags": 226,
+      "series": 159,
+      "publisher": 61,
+      "formats": 0,
+      "path": 0,
+      "pubdate": 95,
+      "last_modified": 91,
+      "languages": 84,
+      "#formats": 170
+    },
+    "column_alignment": {
+      "pubdate": "center",
+      "size": "center",
+      "timestamp": "center"
+    }
   },
   "field_metadata": {
     "#formats": {
@@ -974,7 +990,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1700833945.8332975,
+  "last_expired_trash_at": 1700844312.2057147,
   "virtual_libraries": {
     "kutya": "tags:\"=kutya\""
   }
