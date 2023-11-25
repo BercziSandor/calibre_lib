@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Johanna%20Spyri/Heidi%20%28983%29/Heidi%20-%20Johanna%20Spyri.epub)
 
 ### Tagek
-[átdolgozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/átdolgozás.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ifjúsági.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [mese](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mese.md), [német szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/német szerző.md), [svájci szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/svájci szerző.md), [gyermek és ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermek és ifjúsági.md), [mesekönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mesekönyv.md)
+[átdolgozás](https://github.com/berczisandor/calibre_lib/libs/main/_tags/%c3%a1tdolgoz%c3%a1s.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ifj%c3%bas%c3%a1gi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [mese](https://github.com/berczisandor/calibre_lib/libs/main/_tags/mese.md), [német szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/n%c3%a9met%20szerz%c5%91.md), [svájci szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/sv%c3%a1jci%20szerz%c5%91.md), [gyermek és ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_tags/gyermek%20%c3%a9s%20ifj%c3%bas%c3%a1gi.md), [mesekönyv](https://github.com/berczisandor/calibre_lib/libs/main/_tags/mesek%c3%b6nyv.md)
 
 ### Összefoglalás
 <div>

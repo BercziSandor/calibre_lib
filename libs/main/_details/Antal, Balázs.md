@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Antal%2C%20Balazs/Oreg%20%281203%29/Oreg%20-%20Antal%2C%20Balazs.epub)
 
 ### Tagek
-[elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés.md), [erdészet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erdészet.md), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella.md)
+[elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_tags/elbesz%c3%a9l%c3%a9s.md), [erdészet](https://github.com/berczisandor/calibre_lib/libs/main/_tags/erd%c3%a9szet.md), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20szerz%c5%91.md), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_tags/novella.md)
 
 ### Összefoglalás
 <div>

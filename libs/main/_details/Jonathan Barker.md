@@ -2,7 +2,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jonathan%20Barker/A%20terrorizmus%20%28885%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [szociológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szociológia.md), [dokumentarista](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/dokumentarista.md), [terrorizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/terrorizmus.md)
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [szociológia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/szociol%c3%b3gia.md), [dokumentarista](https://github.com/berczisandor/calibre_lib/libs/main/_tags/dokumentarista.md), [terrorizmus](https://github.com/berczisandor/calibre_lib/libs/main/_tags/terrorizmus.md)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Paul%20Watzlawick/A%20helyzet%20remenytelen%2C%20de%20nem%20sulyo%20%28954%29/A%20helyzet%20remenytelen%2C%20de%20nem%20s%20-%20Paul%20Watzlawick.epub)
 
 ### Tagek
-[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált.md), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia.md), [történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelem.md), [világtörténelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/világtörténelem.md)
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_tags/illusztr%c3%a1lt.md), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/pszichol%c3%b3gia.md), [történelem](https://github.com/berczisandor/calibre_lib/libs/main/_tags/t%c3%b6rt%c3%a9nelem.md), [világtörténelem](https://github.com/berczisandor/calibre_lib/libs/main/_tags/vil%c3%a1gt%c3%b6rt%c3%a9nelem.md)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Katie%20Fforde/Szerelmes%20levelek%20%281208%29/Szerelmes%20levelek%20-%20Katie%20Fforde.epub)
 
 ### Tagek
-[brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző.md), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény.md), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus.md)
+[brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/brit%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_tags/reg%c3%a9ny.md), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_tags/romantikus.md)
 
 ### Összefoglalás
 <div>

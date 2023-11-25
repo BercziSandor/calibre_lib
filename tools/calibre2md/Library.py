@@ -74,7 +74,7 @@ class Library:
 
     def gen_md_by_tags(self):
         catalog_file_name = 'catalog_tags.md'
-        details_file_name = 'catalog_tags_details.md'
+        tag_file_name = 'catalog_tags_details.md'
         books_tags = self.sort_books_tag(self.opfs)
 
         details_folder = self.root_dir / '_details'
@@ -93,10 +93,10 @@ class Library:
             for opf in opfs:
                 if len(opf.books) > 0:
                     creator = opf.creator
-                    details_file_name = f"{creator}.md"
-                    details_file_name_quoted = urllib.parse.quote(
-                        "_details/" + details_file_name)
-                    link_details = f"[részletek]({details_file_name_quoted}#id_{opf.id})"
+                    tag_file_name = f"_tags/{tag}.md"
+                    tag_file_name_quoted = urllib.parse.quote(
+                        tag_file_name)
+                    link_details = f"[részletek]({tag_file_name_quoted}#id_{opf.id})"
                     books.append(f"{opf.creator}: {opf.title} {link_details}")
             doc.add_unordered_list(books)
 
@@ -187,3 +187,8 @@ class Library:
 
         # print(md_content)
         return out_file
+
+    def get_tag_link(self, subj):
+        tag_file_link = f"{self.catalog_url}/_tags/" + \
+                        urllib.parse.quote(f"{subj}.md")
+        return f"[{subj}]({tag_file_link})"

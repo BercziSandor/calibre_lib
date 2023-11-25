@@ -2,7 +2,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Cserna-Szabo%2C%20Andras/Zerko%20%281704%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-[regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény.md), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor.md), [történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelem.md)
+[regény](https://github.com/berczisandor/calibre_lib/libs/main/_tags/reg%c3%a9ny.md), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_tags/humor.md), [történelem](https://github.com/berczisandor/calibre_lib/libs/main/_tags/t%c3%b6rt%c3%a9nelem.md)
 
 ### Összefoglalás
 <div>

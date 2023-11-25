@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frei%2C%20Tamas/A%20megmento%20%28107%29/A%20megmento%20-%20Frei%2C%20Tamas.epub)
 
 ### Tagek
-[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction.md), [thrillers](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thrillers.md), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime.md)
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_tags/fiction.md), [thrillers](https://github.com/berczisandor/calibre_lib/libs/main/_tags/thrillers.md), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_tags/crime.md)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frei%2C%20Tamas/A%20bankar%20%28108%29/A%20bankar%20-%20Frei%2C%20Tamas.epub)
 
 ### Tagek
-[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction.md), [thrillers](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thrillers.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general.md)
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_tags/fiction.md), [thrillers](https://github.com/berczisandor/calibre_lib/libs/main/_tags/thrillers.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_tags/general.md)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frei%2C%20Tamas/2015%20%281493%29/2015%20-%20Frei%2C%20Tamas.epub)
 
 ### Tagek
-[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction.md), [thrillers](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thrillers.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general.md)
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_tags/fiction.md), [thrillers](https://github.com/berczisandor/calibre_lib/libs/main/_tags/thrillers.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_tags/general.md)
 
 ### Összefoglalás
 <div>
@@ -58,7 +58,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frei%2C%20Tamas/A%20bankar%20%28972%29/A%20bankar%20-%20Frei%2C%20Tamas.epub)
 
 ### Tagek
-[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction.md), [thrillers](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thrillers.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general.md)
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_tags/fiction.md), [thrillers](https://github.com/berczisandor/calibre_lib/libs/main/_tags/thrillers.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_tags/general.md)
 
 ### Összefoglalás
 <div><p class="description">Jamaicán a rendőrségi terepjárók már dübörögnek, hogy kézre kerítsék a Magyarországról óriási vagyont „kimenekítő” és a távoli karibi szigeten bujkáló, korrupt pesti bankárt.</p>
@@ -75,7 +75,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frei%2C%20Tamas/Agrarbarok%20%281465%29/Agrarbarok%20-%20Frei%2C%20Tamas.epub)
 
 ### Tagek
-[krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi.md), [politika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/politika.md)
+[krimi](https://github.com/berczisandor/calibre_lib/libs/main/_tags/krimi.md), [politika](https://github.com/berczisandor/calibre_lib/libs/main/_tags/politika.md)
 
 ### Összefoglalás
 <div>Pedig André már azt hitte, hogy maga mögött hagyhatja a zaklatott múltat.<br>
@@ -108,7 +108,7 @@ André, a korábbi három kötetből már jól ismert magyar származású franc
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frei%2C%20Tamas/Babel%20%281466%29/Babel%20-%20Frei%2C%20Tamas.epub)
 
 ### Tagek
-[true crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/true crime.md), [espionage](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/espionage.md)
+[true crime](https://github.com/berczisandor/calibre_lib/libs/main/_tags/true%20crime.md), [espionage](https://github.com/berczisandor/calibre_lib/libs/main/_tags/espionage.md)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Erich%20Fromm/Birtokolni%20vagy%20letezni_%20%282%29/Birtokolni%20vagy%20letezni_%20-%20Erich%20Fromm.epub)
 
 ### Tagek
-[etika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/etika.md), [filozófia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filozófia.md), [humanizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humanizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [német szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/német szerző.md), [szociálpszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szociálpszichológia.md), [szociológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szociológia.md), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia.md)
+[etika](https://github.com/berczisandor/calibre_lib/libs/main/_tags/etika.md), [filozófia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/filoz%c3%b3fia.md), [humanizmus](https://github.com/berczisandor/calibre_lib/libs/main/_tags/humanizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [német szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/n%c3%a9met%20szerz%c5%91.md), [szociálpszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/szoci%c3%a1lpszichol%c3%b3gia.md), [szociológia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/szociol%c3%b3gia.md), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/pszichol%c3%b3gia.md)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Erich%20Fromm/Ferfi%20es%20no%20%28290%29/Ferfi%20es%20no%20-%20Erich%20Fromm.epub)
 
 ### Tagek
-[humanizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humanizmus.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [német szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/német szerző.md), [nemi szerep](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nemi szerep.md), [társadalomkritika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társadalomkritika.md), [társas kapcsolatok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társas kapcsolatok.md), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia.md)
+[humanizmus](https://github.com/berczisandor/calibre_lib/libs/main/_tags/humanizmus.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ismeretterjeszt%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [német szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/n%c3%a9met%20szerz%c5%91.md), [nemi szerep](https://github.com/berczisandor/calibre_lib/libs/main/_tags/nemi%20szerep.md), [társadalomkritika](https://github.com/berczisandor/calibre_lib/libs/main/_tags/t%c3%a1rsadalomkritika.md), [társas kapcsolatok](https://github.com/berczisandor/calibre_lib/libs/main/_tags/t%c3%a1rsas%20kapcsolatok.md), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/pszichol%c3%b3gia.md)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Erich%20Fromm/Az%20Onmagaert%20valo%20Ember%20%28314%29/Az%20Onmagaert%20valo%20Ember%20-%20Erich%20Fromm.epub)
 
 ### Tagek
-[humanizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humanizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [német szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/német szerző.md), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia.md), [etika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/etika.md)
+[humanizmus](https://github.com/berczisandor/calibre_lib/libs/main/_tags/humanizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [német szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/n%c3%a9met%20szerz%c5%91.md), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/pszichol%c3%b3gia.md), [etika](https://github.com/berczisandor/calibre_lib/libs/main/_tags/etika.md)
 
 ### Összefoglalás
 <div>
@@ -47,7 +47,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Erich%20Fromm/A%20szeretet%20muveszete%20%28288%29/A%20szeretet%20muveszete%20-%20Erich%20Fromm.epub)
 
 ### Tagek
-[amerikai](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai.md), [antropológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/antropológia.md), [filozófia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filozófia.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [német szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/német szerző.md), [párkapcsolat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/párkapcsolat.md), [szeretet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szeretet.md), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia.md), [társ. tudományok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társ. tudományok.md)
+[amerikai](https://github.com/berczisandor/calibre_lib/libs/main/_tags/amerikai.md), [antropológia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/antropol%c3%b3gia.md), [filozófia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/filoz%c3%b3fia.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ismeretterjeszt%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [német szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/n%c3%a9met%20szerz%c5%91.md), [párkapcsolat](https://github.com/berczisandor/calibre_lib/libs/main/_tags/p%c3%a1rkapcsolat.md), [szeretet](https://github.com/berczisandor/calibre_lib/libs/main/_tags/szeretet.md), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/pszichol%c3%b3gia.md), [társ. tudományok](https://github.com/berczisandor/calibre_lib/libs/main/_tags/t%c3%a1rs.%20tudom%c3%a1nyok.md)
 
 ### Összefoglalás
 <div>

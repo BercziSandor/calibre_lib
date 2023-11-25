@@ -6,5 +6,5 @@
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Achim%20Lucchesi/_Die%20Bombe%20is%27%20eh%20im%20Koffer_%20-%20Gesc%20%28605%29/_Die%20Bombe%20is%27%20eh%20im%20Koffer_%20-%20-%20Achim%20Lucchesi.epub)
 
 ### Tagek
-[humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor.md)
+[humor](https://github.com/berczisandor/calibre_lib/libs/main/_tags/humor.md)
 

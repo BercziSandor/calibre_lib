@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csehov%2C%20Anton%20Pavlovics/Harom%20nover%20%281420%29/Harom%20nover%20-%20Csehov%2C%20Anton%20Pavlovics.epub)
 
 ### Tagek
-[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század.md), [dráma (műnem)](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/dráma (műnem).md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv.md), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző.md)
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_tags/20.%20sz%c3%a1zad.md), [dráma (műnem)](https://github.com/berczisandor/calibre_lib/libs/main/_tags/dr%c3%a1ma%20%28m%c5%b1nem%29.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_tags/hangosk%c3%b6nyv.md), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_tags/klasszikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/orosz%20szerz%c5%91.md)
 
 ### Összefoglalás
 <div>

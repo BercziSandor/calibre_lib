@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Bito%20es%20borostyan%20%281578%29/Bito%20es%20borostyan%20-%20Boszormenyi%2C%20Gyula.epub)
 
 ### Tagek
-[magyar](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar.md), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelmi regény.md)
+[magyar](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar.md), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_tags/krimi.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/libs/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md)
 
 ### Összefoglalás
 <div>
@@ -74,7 +74,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Luzer%20Radio%2C%20Budapest%21%20%281581%29/Luzer%20Radio%2C%20Budapest%21%20-%20Boszormenyi%2C%20Gyula.epub)
 
 ### Tagek
-[ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ifjúsági.md)
+[ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ifj%c3%bas%c3%a1gi.md)
 
 ### Összefoglalás
 Marcel 13 éves, mikor a családjával a „Nyócker” színes, zajos, rémisztően forgatagos világába költözik. Mikor a vén bérház padlásán rátalál Volna-K-ra, az ősi rádió adó-vevőre, ötlete támad: félelmeit, örömeit, gondolatait mind az éterbe küldi, miközben az elhagyatott templom titkát is megfejti. A Lúzer rádió az Égigérő fű, a Keménykalap és Krumpliorr és a Szeleburdi család sokak által szeretett világába repíti el az olvasót.

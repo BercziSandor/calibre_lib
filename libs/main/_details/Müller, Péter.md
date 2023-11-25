@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Muller%2C%20Peter/Sorsrol%20es%20eletrol%20%28114%29/Sorsrol%20es%20eletrol%20-%20Muller%2C%20Peter.epub)
 
 ### Tagek
-[aforizma](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/aforizma.md), [életmód](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életmód.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része.md), [ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ezotéria.md)
+[aforizma](https://github.com/berczisandor/calibre_lib/libs/main/_tags/aforizma.md), [életmód](https://github.com/berczisandor/calibre_lib/libs/main/_tags/%c3%a9letm%c3%b3d.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20szerz%c5%91.md), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_tags/sorozat%20r%c3%a9sze.md), [ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ezot%c3%a9ria.md)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Muller%2C%20Peter/Boldogsag%20%28112%29/Boldogsag%20-%20Muller%2C%20Peter.epub)
 
 ### Tagek
-[ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ezotéria.md), [hit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hit.md), [kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kereszténység.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [paratudományok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/paratudományok.md), [szellemek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szellemek.md), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallás.md)
+[ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ezot%c3%a9ria.md), [hit](https://github.com/berczisandor/calibre_lib/libs/main/_tags/hit.md), [kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kereszt%c3%a9nys%c3%a9g.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20szerz%c5%91.md), [paratudományok](https://github.com/berczisandor/calibre_lib/libs/main/_tags/paratudom%c3%a1nyok.md), [szellemek](https://github.com/berczisandor/calibre_lib/libs/main/_tags/szellemek.md), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_tags/vall%c3%a1s.md)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Muller%2C%20Peter/Kigyo%20es%20kereszt%20%28113%29/Kigyo%20es%20kereszt%20-%20Muller%2C%20Peter.epub)
 
 ### Tagek
-[ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ezotéria.md), [hit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hit.md), [kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kereszténység.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [paratudományok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/paratudományok.md), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia.md), [spiritualitás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/spiritualitás.md), [szellemek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szellemek.md), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallás.md)
+[ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ezot%c3%a9ria.md), [hit](https://github.com/berczisandor/calibre_lib/libs/main/_tags/hit.md), [kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kereszt%c3%a9nys%c3%a9g.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20szerz%c5%91.md), [paratudományok](https://github.com/berczisandor/calibre_lib/libs/main/_tags/paratudom%c3%a1nyok.md), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/pszichol%c3%b3gia.md), [spiritualitás](https://github.com/berczisandor/calibre_lib/libs/main/_tags/spiritualit%c3%a1s.md), [szellemek](https://github.com/berczisandor/calibre_lib/libs/main/_tags/szellemek.md), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_tags/vall%c3%a1s.md)
 
 ### Összefoglalás
 <div>
@@ -47,7 +47,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Muller%2C%20Peter/Oromkonyv%20%28110%29/Oromkonyv%20-%20Muller%2C%20Peter.epub)
 
 ### Tagek
-[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század.md), [ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ezotéria.md), [kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kereszténység.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [önsegítő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önsegítő.md), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallás.md)
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_tags/21.%20sz%c3%a1zad.md), [ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ezot%c3%a9ria.md), [kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kereszt%c3%a9nys%c3%a9g.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20szerz%c5%91.md), [önsegítő](https://github.com/berczisandor/calibre_lib/libs/main/_tags/%c3%b6nseg%c3%adt%c5%91.md), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_tags/vall%c3%a1s.md)
 
 ### Összefoglalás
 <div>
@@ -61,7 +61,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Muller%2C%20Peter/Gondviseles%20%28270%29/Gondviseles%20-%20Muller%2C%20Peter.epub)
 
 ### Tagek
-[kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ezotéria.md)
+[kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20szerz%c5%91.md), [ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ezot%c3%a9ria.md)
 
 ### Összefoglalás
 <div>
@@ -75,7 +75,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Muller%2C%20Peter/Titkos%20tanitasok%20%28116%29/Titkos%20tanitasok%20-%20Muller%2C%20Peter.epub)
 
 ### Tagek
-[kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kereszténység.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [parapszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/parapszichológia.md), [paratudományok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/paratudományok.md), [spiritualitás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/spiritualitás.md), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallás.md), [ezoterikus elméletek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ezoterikus elméletek.md), [ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ezotéria.md)
+[kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kereszt%c3%a9nys%c3%a9g.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20szerz%c5%91.md), [parapszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/parapszichol%c3%b3gia.md), [paratudományok](https://github.com/berczisandor/calibre_lib/libs/main/_tags/paratudom%c3%a1nyok.md), [spiritualitás](https://github.com/berczisandor/calibre_lib/libs/main/_tags/spiritualit%c3%a1s.md), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_tags/vall%c3%a1s.md), [ezoterikus elméletek](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ezoterikus%20elm%c3%a9letek.md), [ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ezot%c3%a9ria.md)
 
 ### Összefoglalás
 <div>
@@ -89,7 +89,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Muller%2C%20Peter/Benso%20mosoly%20%28111%29/Benso%20mosoly%20-%20Muller%2C%20Peter.epub)
 
 ### Tagek
-[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század.md), [ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ezotéria.md), [kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kereszténység.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallás.md), [philosophy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/philosophy.md)
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_tags/21.%20sz%c3%a1zad.md), [ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ezot%c3%a9ria.md), [kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kereszt%c3%a9nys%c3%a9g.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20szerz%c5%91.md), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_tags/vall%c3%a1s.md), [philosophy](https://github.com/berczisandor/calibre_lib/libs/main/_tags/philosophy.md)
 
 ### Összefoglalás
 <div>
@@ -103,7 +103,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Muller%2C%20Peter/Szeretetkonyv%20%28115%29/Szeretetkonyv%20-%20Muller%2C%20Peter.epub)
 
 ### Tagek
-[kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kereszténység.md), [lélektani](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lélektani.md), [mágia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mágia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [paratudományok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/paratudományok.md), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia.md), [spiritualitás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/spiritualitás.md), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallás.md)
+[kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kereszt%c3%a9nys%c3%a9g.md), [lélektani](https://github.com/berczisandor/calibre_lib/libs/main/_tags/l%c3%a9lektani.md), [mágia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/m%c3%a1gia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20szerz%c5%91.md), [paratudományok](https://github.com/berczisandor/calibre_lib/libs/main/_tags/paratudom%c3%a1nyok.md), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/pszichol%c3%b3gia.md), [spiritualitás](https://github.com/berczisandor/calibre_lib/libs/main/_tags/spiritualit%c3%a1s.md), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_tags/vall%c3%a1s.md)
 
 ### Összefoglalás
 <div>
@@ -117,7 +117,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Muller%2C%20Peter/Varazsko%20%28117%29/Varazsko%20-%20Muller%2C%20Peter.epub)
 
 ### Tagek
-[ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ezotéria.md), [kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kereszténység.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallás.md)
+[ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ezot%c3%a9ria.md), [kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kereszt%c3%a9nys%c3%a9g.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20szerz%c5%91.md), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_tags/vall%c3%a1s.md)
 
 ### Összefoglalás
 <div>

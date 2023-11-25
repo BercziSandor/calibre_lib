@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Albert%2C%20Gyorgyi/Miert%20pont%20en_%20%28530%29/Miert%20pont%20en_%20-%20Albert%2C%20Gyorgyi.epub)
 
 ### Tagek
-[ismert ember](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismert ember.md), [önéletrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önéletrajz.md)
+[ismert ember](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ismert%20ember.md), [önéletrajz](https://github.com/berczisandor/calibre_lib/libs/main/_tags/%c3%b6n%c3%a9letrajz.md)
 
 ### Összefoglalás
 <div>

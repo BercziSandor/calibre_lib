@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rhonda%20Byrne/A%20titok%20%28647%29/A%20titok%20-%20Rhonda%20Byrne.epub)
 
 ### Tagek
-[body; mind & spirit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/body; mind & spirit.md), [spiritualism](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/spiritualism.md)
+[body; mind & spirit](https://github.com/berczisandor/calibre_lib/libs/main/_tags/body%3b%20mind%20%26%20spirit.md), [spiritualism](https://github.com/berczisandor/calibre_lib/libs/main/_tags/spiritualism.md)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rhonda%20Byrne/Az%20Ero%20%28281%29/Az%20Ero%20-%20Rhonda%20Byrne.epub)
 
 ### Tagek
-[body; mind & spirit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/body; mind & spirit.md), [spiritualism](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/spiritualism.md), [ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ezotéria.md)
+[body; mind & spirit](https://github.com/berczisandor/calibre_lib/libs/main/_tags/body%3b%20mind%20%26%20spirit.md), [spiritualism](https://github.com/berczisandor/calibre_lib/libs/main/_tags/spiritualism.md), [ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ezot%c3%a9ria.md)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rhonda%20Byrne/A%20varazslat%20%28286%29/A%20varazslat%20-%20Rhonda%20Byrne.epub)
 
 ### Tagek
-[body; mind & spirit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/body; mind & spirit.md), [spiritualism](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/spiritualism.md)
+[body; mind & spirit](https://github.com/berczisandor/calibre_lib/libs/main/_tags/body%3b%20mind%20%26%20spirit.md), [spiritualism](https://github.com/berczisandor/calibre_lib/libs/main/_tags/spiritualism.md)
 
 ### Összefoglalás
 <div>
@@ -44,7 +44,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rhonda%20Byrne/Hatartalan%20gondolatok%20%28648%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-[body; mind & spirit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/body; mind & spirit.md), [spiritualism](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/spiritualism.md)
+[body; mind & spirit](https://github.com/berczisandor/calibre_lib/libs/main/_tags/body%3b%20mind%20%26%20spirit.md), [spiritualism](https://github.com/berczisandor/calibre_lib/libs/main/_tags/spiritualism.md)
 
 ### Összefoglalás
 <div>

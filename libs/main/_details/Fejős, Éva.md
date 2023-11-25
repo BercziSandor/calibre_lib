@@ -2,7 +2,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fejos%2C%20Eva/Csajok%20%28771%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-[kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény.md), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része.md)
+[kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_tags/sorozat%20r%c3%a9sze.md)
 
 ### Összefoglalás
 <div>
@@ -16,7 +16,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fejos%2C%20Eva/Eper%20reggelire%20%2817%29/Eper%20reggelire%20-%20Fejos%2C%20Eva.epub)
 
 ### Tagek
-[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század.md), [bali](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/bali.md), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/barátság.md), [budapest](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/budapest.md), [chick lit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/chick lit.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő.md), [párizs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/párizs.md), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része.md), [utazás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/utazás.md), [asian interest](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/asian interest.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom.md), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs.md), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény.md)
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_tags/21.%20sz%c3%a1zad.md), [bali](https://github.com/berczisandor/calibre_lib/libs/main/_tags/bali.md), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/_tags/bar%c3%a1ts%c3%a1g.md), [budapest](https://github.com/berczisandor/calibre_lib/libs/main/_tags/budapest.md), [chick lit](https://github.com/berczisandor/calibre_lib/libs/main/_tags/chick%20lit.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20szerz%c5%91.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [párizs](https://github.com/berczisandor/calibre_lib/libs/main/_tags/p%c3%a1rizs.md), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_tags/sorozat%20r%c3%a9sze.md), [utazás](https://github.com/berczisandor/calibre_lib/libs/main/_tags/utaz%c3%a1s.md), [asian interest](https://github.com/berczisandor/calibre_lib/libs/main/_tags/asian%20interest.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kort%c3%a1rs.md), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_tags/romantikus.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_tags/reg%c3%a9ny.md)
 
 ### Összefoglalás
 <div>
@@ -30,7 +30,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fejos%2C%20Eva/Ejszaka%20Bangkokban%20%28773%29/Ejszaka%20Bangkokban%20-%20Fejos%2C%20Eva.epub)
 
 ### Tagek
-[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction.md), [romance](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romance.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general.md)
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_tags/fiction.md), [romance](https://github.com/berczisandor/calibre_lib/libs/main/_tags/romance.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_tags/general.md)
 
 ### Összefoglalás
 <div>
@@ -44,7 +44,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fejos%2C%20Eva/Holtodiglan%20%28426%29/Holtodiglan%20-%20Fejos%2C%20Eva.epub)
 
 ### Tagek
-[chick lit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/chick lit.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus.md), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs.md), [vámpír](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vámpír.md)
+[chick lit](https://github.com/berczisandor/calibre_lib/libs/main/_tags/chick%20lit.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20szerz%c5%91.md), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_tags/romantikus.md), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kort%c3%a1rs.md), [vámpír](https://github.com/berczisandor/calibre_lib/libs/main/_tags/v%c3%a1mp%c3%adr.md)
 
 ### Összefoglalás
 <div>
@@ -58,7 +58,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fejos%2C%20Eva/Szeretlek%2C%20Bangkok%20%28774%29/Szeretlek%2C%20Bangkok%20-%20Fejos%2C%20Eva.epub)
 
 ### Tagek
-[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század.md), [délkelet-ázsia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/délkelet-ázsia.md), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [thaiföld](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thaiföld.md), [útleírás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/útleírás.md)
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_tags/21.%20sz%c3%a1zad.md), [délkelet-ázsia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/d%c3%a9lkelet-%c3%81zsia.md), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20szerz%c5%91.md), [thaiföld](https://github.com/berczisandor/calibre_lib/libs/main/_tags/thaif%c3%b6ld.md), [útleírás](https://github.com/berczisandor/calibre_lib/libs/main/_tags/%c3%batle%c3%adr%c3%a1s.md)
 
 ### Összefoglalás
 <div>

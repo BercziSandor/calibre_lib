@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Asa%20Larsson/Kristalytemplom%20%28681%29/Kristalytemplom%20-%20Asa%20Larsson.epub)
 
 ### Tagek
-[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény.md), [svéd szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/svéd szerző.md), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi.md), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skandináv.md)
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_tags/21.%20sz%c3%a1zad.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_tags/reg%c3%a9ny.md), [svéd szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/sv%c3%a9d%20szerz%c5%91.md), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_tags/krimi.md), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/_tags/skandin%c3%a1v.md)
 
 ### Összefoglalás
 <div>

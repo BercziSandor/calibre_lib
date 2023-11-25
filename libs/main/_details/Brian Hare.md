@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Brian%20Hare/Az%20okos%20kutya%20-%20A%20kutyak%20sokkal%20tob%20%281724%29/Az%20okos%20kutya%20-%20A%20kutyak%20sokkal%20-%20Brian%20Hare.epub)
 
 ### Tagek
-[science](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science.md), [psychology](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/psychology.md), [adult](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/adult.md), [kutya](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kutya.md)
+[science](https://github.com/berczisandor/calibre_lib/libs/main/_tags/science.md), [psychology](https://github.com/berczisandor/calibre_lib/libs/main/_tags/psychology.md), [adult](https://github.com/berczisandor/calibre_lib/libs/main/_tags/adult.md), [kutya](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kutya.md)
 
 ### Összefoglalás
 <div>

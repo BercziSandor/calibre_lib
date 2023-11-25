@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szalai%2C%20Vivien/Stohl%20-%20Oszinten%20%28407%29/Stohl%20-%20Oszinten%20-%20Szalai%2C%20Vivien.epub)
 
 ### Tagek
-[bulvár](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/bulvár.md), [celeb](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/celeb.md), [életrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életrajz.md), [interjú](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/interjú.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [magyarország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyarország.md), [színész](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/színész.md)
+[bulvár](https://github.com/berczisandor/calibre_lib/libs/main/_tags/bulv%c3%a1r.md), [celeb](https://github.com/berczisandor/calibre_lib/libs/main/_tags/celeb.md), [életrajz](https://github.com/berczisandor/calibre_lib/libs/main/_tags/%c3%a9letrajz.md), [interjú](https://github.com/berczisandor/calibre_lib/libs/main/_tags/interj%c3%ba.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyarorsz%c3%a1g.md), [színész](https://github.com/berczisandor/calibre_lib/libs/main/_tags/sz%c3%adn%c3%a9sz.md)
 
 ### Összefoglalás
 <div>

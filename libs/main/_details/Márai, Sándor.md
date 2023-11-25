@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Marai%2C%20Sandor/Fuves%20konyv%20%281419%29/Fuves%20konyv%20-%20Marai%2C%20Sandor.epub)
 
 ### Tagek
-[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század.md), [bölcsesség](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/bölcsesség.md), [filozófia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filozófia.md), [füveskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/füveskönyv.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [sztoicizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sztoicizmus.md)
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_tags/20.%20sz%c3%a1zad.md), [bölcsesség](https://github.com/berczisandor/calibre_lib/libs/main/_tags/b%c3%b6lcsess%c3%a9g.md), [filozófia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/filoz%c3%b3fia.md), [füveskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_tags/f%c3%bcvesk%c3%b6nyv.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_tags/hangosk%c3%b6nyv.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20szerz%c5%91.md), [sztoicizmus](https://github.com/berczisandor/calibre_lib/libs/main/_tags/sztoicizmus.md)
 
 ### Összefoglalás
 <div>

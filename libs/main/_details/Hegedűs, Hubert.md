@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hegedus%2C%20Hubert/Matrozeveim%20%28160%29/Matrozeveim%20-%20Hegedus%2C%20Hubert.epub)
 
 ### Tagek
-[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [hajózás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hajózás.md), [útleírás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/útleírás.md), [életrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életrajz.md), [útikönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/útikönyv.md), [tengeri hajózás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tengeri hajózás.md)
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [hajózás](https://github.com/berczisandor/calibre_lib/libs/main/_tags/haj%c3%b3z%c3%a1s.md), [útleírás](https://github.com/berczisandor/calibre_lib/libs/main/_tags/%c3%batle%c3%adr%c3%a1s.md), [életrajz](https://github.com/berczisandor/calibre_lib/libs/main/_tags/%c3%a9letrajz.md), [útikönyv](https://github.com/berczisandor/calibre_lib/libs/main/_tags/%c3%batik%c3%b6nyv.md), [tengeri hajózás](https://github.com/berczisandor/calibre_lib/libs/main/_tags/tengeri%20haj%c3%b3z%c3%a1s.md)
 
 ### Összefoglalás
 <div>

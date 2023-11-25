@@ -2,7 +2,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kristo%20Nagy%2C%20Istvan/Bolcsessegek%20konyve%20I-II.%20-%20Aforizm%20%281200%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-[aforizma](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/aforizma.md), [bölcsesség](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/bölcsesség.md), [magyar](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md)
+[aforizma](https://github.com/berczisandor/calibre_lib/libs/main/_tags/aforizma.md), [bölcsesség](https://github.com/berczisandor/calibre_lib/libs/main/_tags/b%c3%b6lcsess%c3%a9g.md), [magyar](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md)
 
 ### Összefoglalás
 <div>
@@ -13,7 +13,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kristo%20Nagy%2C%20Istvan/Bolcsessegek%20konyve%20I-II.%20-%20Aforizm%20%281201%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-[aforizma](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/aforizma.md), [bölcsesség](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/bölcsesség.md), [magyar](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md)
+[aforizma](https://github.com/berczisandor/calibre_lib/libs/main/_tags/aforizma.md), [bölcsesség](https://github.com/berczisandor/calibre_lib/libs/main/_tags/b%c3%b6lcsess%c3%a9g.md), [magyar](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md)
 
 ### Összefoglalás
 <div>
