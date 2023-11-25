@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Cesar%20Millan/Hogyan%20neveljunk%20tokeletes%20kutyat%20%281725%29/Hogyan%20neveljunk%20tokeletes%20kuty%20-%20Cesar%20Millan.epub)
 
 ### Tagek
-[reference](https://github.com/berczisandor/calibre_lib/libs/main/_tags/reference.md), [self help](https://github.com/berczisandor/calibre_lib/libs/main/_tags/self%20help.md), [adult](https://github.com/berczisandor/calibre_lib/libs/main/_tags/adult.md), [kutya](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kutya.md)
+[reference](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/reference.md), [self help](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/self%20help.md), [adult](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/adult.md), [kutya](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/kutya.md)
 
 ### Összefoglalás
 <div>

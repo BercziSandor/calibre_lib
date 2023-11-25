@@ -60,7 +60,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Utveszto%20%281482%29/Utveszto%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/_tags/young%20adult%20fiction.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_tags/general.md)
+[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/young%20adult%20fiction.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/general.md)
 
 ### Összefoglalás
 <div>
@@ -74,7 +74,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Orokke%20%281499%29/Orokke%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/_tags/young%20adult%20fiction.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_tags/general.md)
+[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/young%20adult%20fiction.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/general.md)
 
 ### Összefoglalás
 <div>
@@ -88,7 +88,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Orokke%20%281500%29/Orokke%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/_tags/young%20adult%20fiction.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_tags/general.md)
+[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/young%20adult%20fiction.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/general.md)
 
 ### Összefoglalás
 <div>
@@ -102,7 +102,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Kestel%20%281474%29/Kestel%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/_tags/young%20adult%20fiction.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_tags/general.md)
+[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/young%20adult%20fiction.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/general.md)
 
 ### Összefoglalás
 <div>
@@ -116,7 +116,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Valahol%20%281487%29/Valahol%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-[ifjúsági regény](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ifj%c3%bas%c3%a1gi%20reg%c3%a9ny.md), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_tags/romantikus.md)
+[ifjúsági regény](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/ifj%c3%bas%c3%a1gi%20reg%c3%a9ny.md), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/romantikus.md)
 
 ### Összefoglalás
 <div style="text-align: justify;">Márk vagy Tomi? Bexi sokáig azt gondolta, hogy ez a kérdés nem létezik: 
@@ -136,7 +136,7 @@ felforgatott mindent a zenészek életében.
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Egyszer%20%281480%29/Egyszer%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/_tags/young%20adult%20fiction.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_tags/general.md)
+[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/young%20adult%20fiction.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/general.md)
 
 ### Összefoglalás
 <div>
@@ -150,7 +150,7 @@ felforgatott mindent a zenészek életében.
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Eg%20veled%20%281476%29/Eg%20veled%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_tags/fiction.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_tags/general.md)
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/fiction.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/general.md)
 
 ### Összefoglalás
 <div>
@@ -164,7 +164,7 @@ felforgatott mindent a zenészek életében.
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Maradj%20velem%20%281477%29/Maradj%20velem%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-[2010-es évek](https://github.com/berczisandor/calibre_lib/libs/main/_tags/2010-es%20%c3%a9vek.md), [21. század](https://github.com/berczisandor/calibre_lib/libs/main/_tags/21.%20sz%c3%a1zad.md), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/_tags/bar%c3%a1ts%c3%a1g.md), [gyász](https://github.com/berczisandor/calibre_lib/libs/main/_tags/gy%c3%a1sz.md), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_tags/humoros.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ifj%c3%bas%c3%a1gi.md), [kamasz főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kamasz%20f%c5%91szerepl%c5%91.md), [magyar](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyarország](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyarorsz%c3%a1g.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [nyár](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ny%c3%a1r.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_tags/reg%c3%a9ny.md), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_tags/romantikus.md)
+[2010-es évek](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/2010-es%20%c3%a9vek.md), [21. század](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/21.%20sz%c3%a1zad.md), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/bar%c3%a1ts%c3%a1g.md), [gyász](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/gy%c3%a1sz.md), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/humoros.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/ifj%c3%bas%c3%a1gi.md), [kamasz főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/kamasz%20f%c5%91szerepl%c5%91.md), [magyar](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20nyelv%c5%b1.md), [magyarország](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyarorsz%c3%a1g.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [nyár](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/ny%c3%a1r.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/reg%c3%a9ny.md), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/romantikus.md)
 
 ### Összefoglalás
 <div>
@@ -189,7 +189,7 @@ felforgatott mindent a zenészek életében.
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Bizz%20bennem%20%281486%29/Bizz%20bennem%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-[humoros](https://github.com/berczisandor/calibre_lib/libs/main/_tags/humoros.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ifj%c3%bas%c3%a1gi.md), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_tags/romantikus.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20szerz%c5%91.md), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_tags/sorozat%20r%c3%a9sze.md)
+[humoros](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/humoros.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/ifj%c3%bas%c3%a1gi.md), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/romantikus.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20szerz%c5%91.md), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/sorozat%20r%c3%a9sze.md)
 
 ### Összefoglalás
 <div>
@@ -204,7 +204,7 @@ felforgatott mindent a zenészek életében.
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Higgy%20nekem%20%281479%29/Higgy%20nekem%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/_tags/young%20adult%20fiction.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_tags/general.md)
+[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/young%20adult%20fiction.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/general.md)
 
 ### Összefoglalás
 <div>
@@ -219,7 +219,7 @@ felforgatott mindent a zenészek életében.
  [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Allj%20mellem%20%281561%29/Allj%20mellem%20-%20Leiner%2C%20Laura.pdf)
 
 ### Tagek
-[young adult nonfiction](https://github.com/berczisandor/calibre_lib/libs/main/_tags/young%20adult%20nonfiction.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_tags/general.md)
+[young adult nonfiction](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/young%20adult%20nonfiction.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/general.md)
 
 ### Összefoglalás
 <div>
@@ -233,7 +233,7 @@ felforgatott mindent a zenészek életében.
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Remek%21%20%281502%29/Remek%21%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/_tags/young%20adult%20fiction.md), [romance](https://github.com/berczisandor/calibre_lib/libs/main/_tags/romance.md), [romantic comedy](https://github.com/berczisandor/calibre_lib/libs/main/_tags/romantic%20comedy.md)
+[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/young%20adult%20fiction.md), [romance](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/romance.md), [romantic comedy](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/romantic%20comedy.md)
 
 ### Összefoglalás
 <div>
@@ -247,7 +247,7 @@ felforgatott mindent a zenészek életében.
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Ez%20is%20Remek%21%21%20%281475%29/Ez%20is%20Remek%21%21%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_tags/21.%20sz%c3%a1zad.md), [énregény](https://github.com/berczisandor/calibre_lib/libs/main/_tags/%c3%a9nreg%c3%a9ny.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ifj%c3%bas%c3%a1gi.md), [magyar](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_tags/reg%c3%a9ny.md)
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/21.%20sz%c3%a1zad.md), [énregény](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/%c3%a9nreg%c3%a9ny.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/ifj%c3%bas%c3%a1gi.md), [magyar](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20nyelv%c5%b1.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/reg%c3%a9ny.md)
 
 ### Összefoglalás
 <div>
@@ -261,7 +261,7 @@ felforgatott mindent a zenészek életében.
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Babel%20%28644%29/Babel%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-[2010-es évek](https://github.com/berczisandor/calibre_lib/libs/main/_tags/2010-es%20%c3%a9vek.md), [21. század](https://github.com/berczisandor/calibre_lib/libs/main/_tags/21.%20sz%c3%a1zad.md), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/_tags/bar%c3%a1ts%c3%a1g.md), [blog](https://github.com/berczisandor/calibre_lib/libs/main/_tags/blog.md), [énregény](https://github.com/berczisandor/calibre_lib/libs/main/_tags/%c3%a9nreg%c3%a9ny.md), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_tags/humoros.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ifj%c3%bas%c3%a1gi.md), [kamasz főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kamasz%20f%c5%91szerepl%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kort%c3%a1rs.md), [lányregény](https://github.com/berczisandor/calibre_lib/libs/main/_tags/l%c3%a1nyreg%c3%a9ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyarorsz%c3%a1g.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [nyár](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ny%c3%a1r.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_tags/reg%c3%a9ny.md), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_tags/romantikus.md), [zene](https://github.com/berczisandor/calibre_lib/libs/main/_tags/zene.md)
+[2010-es évek](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/2010-es%20%c3%a9vek.md), [21. század](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/21.%20sz%c3%a1zad.md), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/bar%c3%a1ts%c3%a1g.md), [blog](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/blog.md), [énregény](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/%c3%a9nreg%c3%a9ny.md), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/humoros.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/ifj%c3%bas%c3%a1gi.md), [kamasz főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/kamasz%20f%c5%91szerepl%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/kort%c3%a1rs.md), [lányregény](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/l%c3%a1nyreg%c3%a9ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyarorsz%c3%a1g.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [nyár](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/ny%c3%a1r.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/reg%c3%a9ny.md), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/romantikus.md), [zene](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/zene.md)
 
 ### Összefoglalás
 <div>
@@ -275,7 +275,7 @@ felforgatott mindent a zenészek életében.
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Mindig%20karacsony%20%281494%29/Mindig%20karacsony%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/_tags/young%20adult%20fiction.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_tags/general.md)
+[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/young%20adult%20fiction.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/general.md)
 
 ### Összefoglalás
 <div>
@@ -289,7 +289,7 @@ felforgatott mindent a zenészek életében.
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Kozhelyek%20%281481%29/Kozhelyek%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_tags/fiction.md), [romance](https://github.com/berczisandor/calibre_lib/libs/main/_tags/romance.md), [new adult](https://github.com/berczisandor/calibre_lib/libs/main/_tags/new%20adult.md), [workplace](https://github.com/berczisandor/calibre_lib/libs/main/_tags/workplace.md), [betegség](https://github.com/berczisandor/calibre_lib/libs/main/_tags/betegs%c3%a9g.md), [kórház](https://github.com/berczisandor/calibre_lib/libs/main/_tags/k%c3%b3rh%c3%a1z.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20szerz%c5%91.md), [párizs](https://github.com/berczisandor/calibre_lib/libs/main/_tags/p%c3%a1rizs.md), [rákbetegség](https://github.com/berczisandor/calibre_lib/libs/main/_tags/r%c3%a1kbetegs%c3%a9g.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_tags/reg%c3%a9ny.md), [újságírás](https://github.com/berczisandor/calibre_lib/libs/main/_tags/%c3%bajs%c3%a1g%c3%adr%c3%a1s.md)
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/fiction.md), [romance](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/romance.md), [new adult](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/new%20adult.md), [workplace](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/workplace.md), [betegség](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/betegs%c3%a9g.md), [kórház](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/k%c3%b3rh%c3%a1z.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20szerz%c5%91.md), [párizs](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/p%c3%a1rizs.md), [rákbetegség](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/r%c3%a1kbetegs%c3%a9g.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/reg%c3%a9ny.md), [újságírás](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/%c3%bajs%c3%a1g%c3%adr%c3%a1s.md)
 
 ### Összefoglalás
 <div>

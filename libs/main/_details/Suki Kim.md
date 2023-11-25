@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Suki%20Kim/Nelkuled%20mi%20sem%20vagyunk%20%281457%29/Nelkuled%20mi%20sem%20vagyunk%20-%20Suki%20Kim.epub)
 
 ### Tagek
-[history](https://github.com/berczisandor/calibre_lib/libs/main/_tags/history.md), [asia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/asia.md), [korea](https://github.com/berczisandor/calibre_lib/libs/main/_tags/korea.md)
+[history](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/history.md), [asia](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/asia.md), [korea](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/korea.md)
 
 ### Összefoglalás
 <div>

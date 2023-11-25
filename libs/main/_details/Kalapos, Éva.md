@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kalapos%2C%20Eva/Egy%20uj%20elet%20%281597%29/Egy%20uj%20elet%20-%20Kalapos%2C%20Eva.epub)
 
 ### Tagek
-[ifjúdági](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ifj%c3%bad%c3%a1gi.md)
+[ifjúdági](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/ifj%c3%bad%c3%a1gi.md)
 
 ### Összefoglalás
 <div>

@@ -206,6 +206,6 @@ class Library:
 
 
     def get_tag_link(self, subj):
-        tag_file_link = f"{self.catalog_url}/_tags/" + \
+        tag_file_link = f"{self.catalog_url}/blob/main/_tags/" + \
                         urllib.parse.quote(f"{self.get_tag_corrected(subj)}.md")
         return f"[{subj}]({tag_file_link})"

@@ -5,7 +5,7 @@
 [djvu](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Monika%20Sinner/Kutyakikepzes%20klikkerrel%20%281726%29/Kutyakikepzes%20klikkerrel%20-%20Monika%20Sinner.djvu)
 
 ### Tagek
-[kutya](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kutya.md)
+[kutya](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/kutya.md)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leslie%20Valley/Tokeletes%20alibi%20%28628%29/Tokeletes%20alibi%20-%20Leslie%20Valley.epub)
 
 ### Tagek
-[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20szerz%c5%91.md), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_tags/krimi.md)
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20szerz%c5%91.md), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/krimi.md)
 
 ### Összefoglalás
 <div>

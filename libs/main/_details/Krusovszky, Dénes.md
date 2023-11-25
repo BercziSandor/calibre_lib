@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Krusovszky%2C%20Denes/A%20fiuk%20orszaga%20%281521%29/A%20fiuk%20orszaga%20-%20Krusovszky%2C%20Denes.epub)
 
 ### Tagek
-[kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20szerz%c5%91.md), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_tags/novella.md)
+[kortárs](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20szerz%c5%91.md), [novella](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/novella.md)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rick%20Riordan/A%20csontlabirintus%20%281653%29/A%20csontlabirintus%20-%20Rick%20Riordan.epub)
 
 ### Tagek
-[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_tags/mystery.md), [adventure](https://github.com/berczisandor/calibre_lib/libs/main/_tags/adventure.md), [young adult](https://github.com/berczisandor/calibre_lib/libs/main/_tags/young%20adult.md), [childrens](https://github.com/berczisandor/calibre_lib/libs/main/_tags/childrens.md), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_tags/fantasy.md), [ifjúaági](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ifj%c3%baa%c3%a1gi.md), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kaland.md)
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/mystery.md), [adventure](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/adventure.md), [young adult](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/young%20adult.md), [childrens](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/childrens.md), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/fantasy.md), [ifjúaági](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/ifj%c3%baa%c3%a1gi.md), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/kaland.md)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rick%20Riordan/Az%20elrejtett%20orakulum%20%281656%29/Az%20elrejtett%20orakulum%20-%20Rick%20Riordan.epub)
 
 ### Tagek
-[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_tags/fantasy.md), [ifjúsági regény](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ifj%c3%bas%c3%a1gi%20reg%c3%a9ny.md), [mitológia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/mitol%c3%b3gia.md)
+[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/fantasy.md), [ifjúsági regény](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/ifj%c3%bas%c3%a1gi%20reg%c3%a9ny.md), [mitológia](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/mitol%c3%b3gia.md)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rick%20Riordan/A%20langolo%20Labirintus%20%281655%29/A%20langolo%20Labirintus%20-%20Rick%20Riordan.epub)
 
 ### Tagek
-[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_tags/21.%20sz%c3%a1zad.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/amerikai%20szerz%c5%91.md), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/_tags/bar%c3%a1ts%c3%a1g.md), [énelbeszélő](https://github.com/berczisandor/calibre_lib/libs/main/_tags/%c3%a9nelbesz%c3%a9l%c5%91.md), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_tags/fantasy.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [görög](https://github.com/berczisandor/calibre_lib/libs/main/_tags/g%c3%b6r%c3%b6g.md), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/libs/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_tags/humoros.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ifj%c3%bas%c3%a1gi.md), [istenek](https://github.com/berczisandor/calibre_lib/libs/main/_tags/istenek.md), [jóslás](https://github.com/berczisandor/calibre_lib/libs/main/_tags/j%c3%b3sl%c3%a1s.md), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kaland.md), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kort%c3%a1rs.md), [legenda](https://github.com/berczisandor/calibre_lib/libs/main/_tags/legenda.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [mitológia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/mitol%c3%b3gia.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_tags/sorozat%20r%c3%a9sze.md), [urban fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_tags/urban%20fantasy.md), [kaméleon könyvek](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kam%c3%a9leon%20k%c3%b6nyvek.md)
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/21.%20sz%c3%a1zad.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/amerikai%20szerz%c5%91.md), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/bar%c3%a1ts%c3%a1g.md), [énelbeszélő](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/%c3%a9nelbesz%c3%a9l%c5%91.md), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/fantasy.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [görög](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/g%c3%b6r%c3%b6g.md), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/humoros.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/ifj%c3%bas%c3%a1gi.md), [istenek](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/istenek.md), [jóslás](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/j%c3%b3sl%c3%a1s.md), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/kaland.md), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/kort%c3%a1rs.md), [legenda](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/legenda.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20nyelv%c5%b1.md), [mitológia](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/mitol%c3%b3gia.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/sorozat%20r%c3%a9sze.md), [urban fantasy](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/urban%20fantasy.md), [kaméleon könyvek](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/kam%c3%a9leon%20k%c3%b6nyvek.md)
 
 ### Összefoglalás
 <div>
@@ -47,7 +47,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rick%20Riordan/Az%20elveszett%20hos%20%281663%29/Az%20elveszett%20hos%20-%20Rick%20Riordan.epub)
 
 ### Tagek
-[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_tags/fantasy.md), [young adult](https://github.com/berczisandor/calibre_lib/libs/main/_tags/young%20adult.md), [adventure](https://github.com/berczisandor/calibre_lib/libs/main/_tags/adventure.md), [childrens](https://github.com/berczisandor/calibre_lib/libs/main/_tags/childrens.md)
+[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/fantasy.md), [young adult](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/young%20adult.md), [adventure](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/adventure.md), [childrens](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/childrens.md)
 
 ### Összefoglalás
 <div>
@@ -61,7 +61,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rick%20Riordan/Neptunus%20fia%20%281652%29/Neptunus%20fia%20-%20Rick%20Riordan.epub)
 
 ### Tagek
-[young adult](https://github.com/berczisandor/calibre_lib/libs/main/_tags/young%20adult.md), [adventure](https://github.com/berczisandor/calibre_lib/libs/main/_tags/adventure.md), [childrens](https://github.com/berczisandor/calibre_lib/libs/main/_tags/childrens.md), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_tags/fantasy.md)
+[young adult](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/young%20adult.md), [adventure](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/adventure.md), [childrens](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/childrens.md), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/fantasy.md)
 
 ### Összefoglalás
 <div>
@@ -75,7 +75,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rick%20Riordan/Percy%20Jackson%20gorog%20hosei%20%281657%29/Percy%20Jackson%20gorog%20hosei%20-%20Rick%20Riordan.epub)
 
 ### Tagek
-[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_tags/fantasy.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ifj%c3%bas%c3%a1gi.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_tags/reg%c3%a9ny.md)
+[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/fantasy.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/ifj%c3%bas%c3%a1gi.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/reg%c3%a9ny.md)
 
 ### Összefoglalás
 <div>
@@ -111,7 +111,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rick%20Riordan/A%20kigyo%20arnyeka%20%281654%29/A%20kigyo%20arnyeka%20-%20Rick%20Riordan.epub)
 
 ### Tagek
-[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_tags/fantasy.md), [young adult](https://github.com/berczisandor/calibre_lib/libs/main/_tags/young%20adult.md), [adventure](https://github.com/berczisandor/calibre_lib/libs/main/_tags/adventure.md), [childrens](https://github.com/berczisandor/calibre_lib/libs/main/_tags/childrens.md)
+[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/fantasy.md), [young adult](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/young%20adult.md), [adventure](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/adventure.md), [childrens](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/childrens.md)
 
 ### Összefoglalás
 <div>
@@ -143,7 +143,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rick%20Riordan/A%20szornyek%20tengere%20%281661%29/A%20szornyek%20tengere%20-%20Rick%20Riordan.epub)
 
 ### Tagek
-[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_tags/fantasy.md), [young adult](https://github.com/berczisandor/calibre_lib/libs/main/_tags/young%20adult.md), [adventure](https://github.com/berczisandor/calibre_lib/libs/main/_tags/adventure.md), [childrens](https://github.com/berczisandor/calibre_lib/libs/main/_tags/childrens.md)
+[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/fantasy.md), [young adult](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/young%20adult.md), [adventure](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/adventure.md), [childrens](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/childrens.md)
 
 ### Összefoglalás
 <div>
@@ -157,7 +157,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rick%20Riordan/A%20titan%20atka%20%281648%29/A%20titan%20atka%20-%20Rick%20Riordan.epub)
 
 ### Tagek
-[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_tags/fantasy.md), [young adult](https://github.com/berczisandor/calibre_lib/libs/main/_tags/young%20adult.md), [adventure](https://github.com/berczisandor/calibre_lib/libs/main/_tags/adventure.md), [childrens](https://github.com/berczisandor/calibre_lib/libs/main/_tags/childrens.md)
+[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/fantasy.md), [young adult](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/young%20adult.md), [adventure](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/adventure.md), [childrens](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/childrens.md)
 
 ### Összefoglalás
 <div>
@@ -185,7 +185,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rick%20Riordan/Az%20utolso%20olimposzi%20%281662%29/Az%20utolso%20olimposzi%20-%20Rick%20Riordan.epub)
 
 ### Tagek
-[young adult](https://github.com/berczisandor/calibre_lib/libs/main/_tags/young%20adult.md), [adventure](https://github.com/berczisandor/calibre_lib/libs/main/_tags/adventure.md), [childrens](https://github.com/berczisandor/calibre_lib/libs/main/_tags/childrens.md), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_tags/fantasy.md), [ifjúsági regény](https://github.com/berczisandor/calibre_lib/libs/main/_tags/ifj%c3%bas%c3%a1gi%20reg%c3%a9ny.md)
+[young adult](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/young%20adult.md), [adventure](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/adventure.md), [childrens](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/childrens.md), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/fantasy.md), [ifjúsági regény](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/ifj%c3%bas%c3%a1gi%20reg%c3%a9ny.md)
 
 ### Összefoglalás
 <div>
@@ -199,7 +199,7 @@
 [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rick%20Riordan/Percy%20Jackson%20es%20a%20gorog%20istenek%20%281660%29/Percy%20Jackson%20es%20a%20gorog%20istene%20-%20Rick%20Riordan.pdf)
 
 ### Tagek
-[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_tags/fantasy.md), [young adult](https://github.com/berczisandor/calibre_lib/libs/main/_tags/young%20adult.md), [adventure](https://github.com/berczisandor/calibre_lib/libs/main/_tags/adventure.md), [childrens](https://github.com/berczisandor/calibre_lib/libs/main/_tags/childrens.md), [humour](https://github.com/berczisandor/calibre_lib/libs/main/_tags/humour.md), [mitológia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/mitol%c3%b3gia.md)
+[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/fantasy.md), [young adult](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/young%20adult.md), [adventure](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/adventure.md), [childrens](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/childrens.md), [humour](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/humour.md), [mitológia](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/mitol%c3%b3gia.md)
 
 ### Összefoglalás
 <div>

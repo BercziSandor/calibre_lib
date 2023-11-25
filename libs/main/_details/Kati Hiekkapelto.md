@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kati%20Hiekkapelto/Kolibri%20%281198%29/Kolibri%20-%20Kati%20Hiekkapelto.epub)
 
 ### Tagek
-[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_tags/fiction.md), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_tags/crime.md), [mystery & detective](https://github.com/berczisandor/calibre_lib/libs/main/_tags/mystery%20%26%20detective.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_tags/general.md), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_tags/krimi.md)
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/fiction.md), [crime](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/crime.md), [mystery & detective](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/mystery%20%26%20detective.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/general.md), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/krimi.md)
 
 ### Összefoglalás
 <div>

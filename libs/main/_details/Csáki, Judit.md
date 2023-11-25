@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csaki%2C%20Judit/Alfoldi%20Robert%20Maganugy%20%28961%29/Alfoldi%20Robert%20Maganugy%20-%20Csaki%2C%20Judit.epub)
 
 ### Tagek
-[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyarorsz%c3%a1g.md), [riport](https://github.com/berczisandor/calibre_lib/libs/main/_tags/riport.md), [társadalom](https://github.com/berczisandor/calibre_lib/libs/main/_tags/t%c3%a1rsadalom.md), [tényfeltáró riport](https://github.com/berczisandor/calibre_lib/libs/main/_tags/t%c3%a9nyfelt%c3%a1r%c3%b3%20riport.md)
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyarorsz%c3%a1g.md), [riport](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/riport.md), [társadalom](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/t%c3%a1rsadalom.md), [tényfeltáró riport](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/t%c3%a9nyfelt%c3%a1r%c3%b3%20riport.md)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bud%20Spencer/Kulonben%20duhbe%20jovok%20%281212%29/Kulonben%20duhbe%20jovok%20-%20Bud%20Spencer.epub)
 
 ### Tagek
-[celeb](https://github.com/berczisandor/calibre_lib/libs/main/_tags/celeb.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [filmtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_tags/filmt%c3%b6rt%c3%a9net.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [olasz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/olasz%20szerz%c5%91.md), [olaszország](https://github.com/berczisandor/calibre_lib/libs/main/_tags/olaszorsz%c3%a1g.md), [önéletrajz](https://github.com/berczisandor/calibre_lib/libs/main/_tags/%c3%b6n%c3%a9letrajz.md), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_tags/sorozat%20r%c3%a9sze.md), [színész](https://github.com/berczisandor/calibre_lib/libs/main/_tags/sz%c3%adn%c3%a9sz.md)
+[celeb](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/celeb.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [filmtörténet](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/filmt%c3%b6rt%c3%a9net.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20nyelv%c5%b1.md), [olasz szerző](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/olasz%20szerz%c5%91.md), [olaszország](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/olaszorsz%c3%a1g.md), [önéletrajz](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/%c3%b6n%c3%a9letrajz.md), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/sorozat%20r%c3%a9sze.md), [színész](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/sz%c3%adn%c3%a9sz.md)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bud%20Spencer/Eszem%2C%20tehat%20vagyok%20%28966%29/Eszem%2C%20tehat%20vagyok%20-%20Bud%20Spencer.epub)
 
 ### Tagek
-[filozófia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/filoz%c3%b3fia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_tags/magyar%20nyelv%c5%b1.md), [olasz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_tags/olasz%20szerz%c5%91.md), [gasztronómia](https://github.com/berczisandor/calibre_lib/libs/main/_tags/gasztron%c3%b3mia.md), [szakácskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_tags/szak%c3%a1csk%c3%b6nyv.md)
+[filozófia](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/filoz%c3%b3fia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20nyelv%c5%b1.md), [olasz szerző](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/olasz%20szerz%c5%91.md), [gasztronómia](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/gasztron%c3%b3mia.md), [szakácskönyv](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/szak%c3%a1csk%c3%b6nyv.md)
 
 ### Összefoglalás
 <div>
