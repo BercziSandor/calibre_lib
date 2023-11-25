@@ -1,0 +1,17 @@
+# erotikus
+
+- Bertrice Small: Titkos örömök [részletek](_details/%7Bopf.creator%7D.md#id_769)
+- Bohumil Hrabal: Szigorúan ellenőrzött vonatok [részletek](_details/%7Bopf.creator%7D.md#id_449)
+- de Sade, Márki: Szodoma százhúsz napja [részletek](_details/%7Bopf.creator%7D.md#id_1216)
+- Esterházy, Péter: Egy nő [részletek](_details/%7Bopf.creator%7D.md#id_1019)
+- Gabriel García Márquez: Szerelem a kolera idején [részletek](_details/%7Bopf.creator%7D.md#id_342)
+- Kárpáti, Andor: Kurvajó! [részletek](_details/%7Bopf.creator%7D.md#id_670)
+- Laura D.: Szex és tandíj [részletek](_details/%7Bopf.creator%7D.md#id_904)
+- Ljudmila Ulickaja: Odaadó hívetek, Surik [részletek](_details/%7Bopf.creator%7D.md#id_1291)
+- Mátéffy, Éva: Ruby [részletek](_details/%7Bopf.creator%7D.md#id_606)
+- Maya Banks: Vénuszdombi mesék [részletek](_details/%7Bopf.creator%7D.md#id_285)
+- Paulo Coelho: Tizenegy perc [részletek](_details/%7Bopf.creator%7D.md#id_263)
+- Szepesi, Nikolett: Én, a szexmániás [részletek](_details/%7Bopf.creator%7D.md#id_661)
+- Tersánszky, Józsi Jenő: A havasi selyemfiú [részletek](_details/%7Bopf.creator%7D.md#id_611)
+- Vlagyimir Szorokin: Az opricsnyik egy napja [részletek](_details/%7Bopf.creator%7D.md#id_842)
+- Vlagyimir Szorokin: Cukor Kreml [részletek](_details/%7Bopf.creator%7D.md#id_841)

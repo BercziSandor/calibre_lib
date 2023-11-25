@@ -1,0 +1,17 @@
+# Romance
+
+- Agatha Christie: A barna ruhás férfi [részletek](_details/%7Bopf.creator%7D.md#id_1745)
+- Daniel Silva: A rablás [részletek](_details/%7Bopf.creator%7D.md#id_957)
+- E. L. James: A szürke ötven árnyalata [részletek](_details/%7Bopf.creator%7D.md#id_466)
+- Elizabeth Adler: Toszkánai nyár [részletek](_details/%7Bopf.creator%7D.md#id_1211)
+- Fábián, Janka: A német lány [részletek](_details/%7Bopf.creator%7D.md#id_645)
+- Fábián, Janka: Adél és Aliz [részletek](_details/%7Bopf.creator%7D.md#id_633)
+- Fábián, Janka: Az angyalos ház [részletek](_details/%7Bopf.creator%7D.md#id_594)
+- Fábián, Janka: Karácsony a Ligetben [részletek](_details/%7Bopf.creator%7D.md#id_643)
+- Fejős, Éva: Éjszaka Bangkokban [részletek](_details/%7Bopf.creator%7D.md#id_773)
+- Leiner, Laura: Közhelyek [részletek](_details/%7Bopf.creator%7D.md#id_1481)
+- Leiner, Laura: Remek! [részletek](_details/%7Bopf.creator%7D.md#id_1502)
+- Sarah J. Maas: Fagy és csillagfény udvara [részletek](_details/%7Bopf.creator%7D.md#id_1696)
+- Sarah J. Maas: Szárnyak és pusztulás udvara [részletek](_details/%7Bopf.creator%7D.md#id_1700)
+- Sarah J. Maas: Tüskék és rózsák udvara [részletek](_details/%7Bopf.creator%7D.md#id_1698)
+- Vass, Virág: Sokszor csókol, India! [részletek](_details/%7Bopf.creator%7D.md#id_309)

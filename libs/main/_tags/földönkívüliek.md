@@ -1,0 +1,15 @@
+# földönkívüliek
+
+- Cixin Liu: A háromtest-probléma [részletek](_details/%7Bopf.creator%7D.md#id_1451)
+- Dean R. Koontz: Az eljövetel [részletek](_details/%7Bopf.creator%7D.md#id_1091)
+- Dean R. Koontz: Menekülés [részletek](_details/%7Bopf.creator%7D.md#id_1080)
+- Foster, Alan Dean: A bolygó neve: Halál [részletek](_details/%7Bopf.creator%7D.md#id_650)
+- Foster, Alan Dean: A nyolcadik utas: a Halál [részletek](_details/%7Bopf.creator%7D.md#id_649)
+- Foster, Alan Dean: A végső megoldás: Halál [részletek](_details/%7Bopf.creator%7D.md#id_651)
+- Foster, Alan Dean: Az út végén a halál [részletek](_details/%7Bopf.creator%7D.md#id_652)
+- Robin Cook: Invázió [részletek](_details/%7Bopf.creator%7D.md#id_92)
+- Stephen King: A búra alatt [részletek](_details/%7Bopf.creator%7D.md#id_556)
+- Stephen King: A búra alatt [részletek](_details/%7Bopf.creator%7D.md#id_557)
+- Stephen King: A rémkoppantók [részletek](_details/%7Bopf.creator%7D.md#id_535)
+- Stephen King: Az [részletek](_details/%7Bopf.creator%7D.md#id_555)
+- Stephenie Meyer: A burok [részletek](_details/%7Bopf.creator%7D.md#id_163)

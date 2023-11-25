@@ -1,0 +1,16 @@
+# posztapokaliptikus
+
+- Dean R. Koontz: Az eljövetel [részletek](_details/%7Bopf.creator%7D.md#id_1091)
+- Dean R. Koontz: Égi jel [részletek](_details/%7Bopf.creator%7D.md#id_1090)
+- Dmitry Glukhovsky: Metró 2033 [részletek](_details/%7Bopf.creator%7D.md#id_482)
+- Dmitry Glukhovsky: Metró 2034 [részletek](_details/%7Bopf.creator%7D.md#id_355)
+- Robert Merle: Malevil [részletek](_details/%7Bopf.creator%7D.md#id_336)
+- Stephen King: A hosszú menetelés [részletek](_details/%7Bopf.creator%7D.md#id_932)
+- Stephen King: Callai farkasok [részletek](_details/%7Bopf.creator%7D.md#id_847)
+- Stephen King: Puszta földek [részletek](_details/%7Bopf.creator%7D.md#id_545)
+- Stephen King: Puszta földek [részletek](_details/%7Bopf.creator%7D.md#id_845)
+- Stephen King: Susannah dala [részletek](_details/%7Bopf.creator%7D.md#id_542)
+- Stephen King: Varázsló és üveg [részletek](_details/%7Bopf.creator%7D.md#id_846)
+- Stephenie Meyer: A burok [részletek](_details/%7Bopf.creator%7D.md#id_163)
+- Suzanne Collins: A kiválasztott [részletek](_details/%7Bopf.creator%7D.md#id_83)
+- Suzanne Collins: Az éhezők viadala [részletek](_details/%7Bopf.creator%7D.md#id_81)

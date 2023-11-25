@@ -1,0 +1,15 @@
+# szexualitás
+
+- Barbara Pease: A férfinak szex kell, a nőnek szerelem [részletek](_details/%7Bopf.creator%7D.md#id_576)
+- Bohumil Hrabal: Őfelsége pincére voltam [részletek](_details/%7Bopf.creator%7D.md#id_446)
+- Carl Gustav Jung: Gondolatok a szexualitásról és a szerelemről [részletek](_details/%7Bopf.creator%7D.md#id_770)
+- Eric Berne: Emberi játszmák [részletek](_details/%7Bopf.creator%7D.md#id_291)
+- Jared Diamond: Miért élvezet a szex? [részletek](_details/%7Bopf.creator%7D.md#id_908)
+- Joe Quirk: Prűdek és paráznák [részletek](_details/%7Bopf.creator%7D.md#id_1524)
+- Robert Merle: Védett férfiak [részletek](_details/%7Bopf.creator%7D.md#id_340)
+- Spitzer, Gyöngyi (Soma Mamagésa): Tiszta Szex [részletek](_details/%7Bopf.creator%7D.md#id_6)
+- Stendhal: Vörös és fekete [részletek](_details/%7Bopf.creator%7D.md#id_562)
+- Szerb, Antal: Utas és holdvilág [részletek](_details/%7Bopf.creator%7D.md#id_387)
+- Szerdahelyi Szabolcs: Szex-tusa [részletek](_details/%7Bopf.creator%7D.md#id_903)
+- Szilágyi Vilmos: Intimkapcsolat kézikönyve [részletek](_details/%7Bopf.creator%7D.md#id_1523)
+- Valérie Tasso: A szex antikézikönyve [részletek](_details/%7Bopf.creator%7D.md#id_907)

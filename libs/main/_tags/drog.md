@@ -1,0 +1,16 @@
+# drog
+
+- Beck, Judit: Nagy drogkönyv [részletek](_details/%7Bopf.creator%7D.md#id_646)
+- Bret Easton Ellis: Nullánál is kevesebb [részletek](_details/%7Bopf.creator%7D.md#id_1273)
+- Erlend Loe: Doppler, az utak királya [részletek](_details/%7Bopf.creator%7D.md#id_531)
+- Fable, Vavyan: A Halkirálynő és a dzsinnek [részletek](_details/%7Bopf.creator%7D.md#id_173)
+- Fable, Vavyan: Ki feküdt az ágyamban? [részletek](_details/%7Bopf.creator%7D.md#id_181)
+- Hyeonseo Lee: A lány hét névvel [részletek](_details/%7Bopf.creator%7D.md#id_988)
+- Jo Nesbø: A megváltó [részletek](_details/%7Bopf.creator%7D.md#id_592)
+- Jo Nesbø: Denevérember [részletek](_details/%7Bopf.creator%7D.md#id_581)
+- Jo Nesbø: Kísértet [részletek](_details/%7Bopf.creator%7D.md#id_591)
+- Neil Gaiman: Törékeny holmik [részletek](_details/%7Bopf.creator%7D.md#id_1436)
+- Stephen King: A búra alatt [részletek](_details/%7Bopf.creator%7D.md#id_556)
+- Stephen King: A búra alatt [részletek](_details/%7Bopf.creator%7D.md#id_557)
+- Stephen King: A hármak elhívatása [részletek](_details/%7Bopf.creator%7D.md#id_540)
+- Stephen King: Csipkerózsikák [részletek](_details/%7Bopf.creator%7D.md#id_1204)

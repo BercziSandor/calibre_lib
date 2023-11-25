@@ -1,0 +1,17 @@
+# norvég szerző
+
+- Anne Holt: 1222 [részletek](_details/%7Bopf.creator%7D.md#id_958)
+- Erlend Loe: Doppler, az utak királya [részletek](_details/%7Bopf.creator%7D.md#id_531)
+- Erlend Loe: Naiv.Szuper. [részletek](_details/%7Bopf.creator%7D.md#id_532)
+- Jo Nesbø: A megváltó [részletek](_details/%7Bopf.creator%7D.md#id_592)
+- Jo Nesbø: Boszorkányszög [részletek](_details/%7Bopf.creator%7D.md#id_412)
+- Jo Nesbø: Csótányok [részletek](_details/%7Bopf.creator%7D.md#id_577)
+- Jo Nesbø: Denevérember [részletek](_details/%7Bopf.creator%7D.md#id_581)
+- Jo Nesbø: Fejvadászok [részletek](_details/%7Bopf.creator%7D.md#id_411)
+- Jo Nesbø: Hóember [részletek](_details/%7Bopf.creator%7D.md#id_582)
+- Jo Nesbø: Kísértet [részletek](_details/%7Bopf.creator%7D.md#id_591)
+- Jo Nesbø: Leopárd [részletek](_details/%7Bopf.creator%7D.md#id_580)
+- Jo Nesbø: Nemeszisz [részletek](_details/%7Bopf.creator%7D.md#id_410)
+- Jo Nesbø: Police [részletek](_details/%7Bopf.creator%7D.md#id_578)
+- Jostein Gaarder: Anna világa [részletek](_details/%7Bopf.creator%7D.md#id_1411)
+- Thomas Enger: Hegek [részletek](_details/%7Bopf.creator%7D.md#id_617)

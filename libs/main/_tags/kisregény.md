@@ -1,0 +1,18 @@
+# kisregény
+
+- Agatha Christie: Három vak egér [részletek](_details/%7Bopf.creator%7D.md#id_70)
+- Akunyin, Borisz: Különleges megbízatások [részletek](_details/%7Bopf.creator%7D.md#id_911)
+- Anna Gavalda: 35 kiló remény [részletek](_details/%7Bopf.creator%7D.md#id_1308)
+- Anna Gavalda: Kis kiruccanás [részletek](_details/%7Bopf.creator%7D.md#id_1427)
+- Bohumil Hrabal: A városka, ahol megállt az idő [részletek](_details/%7Bopf.creator%7D.md#id_439)
+- Bohumil Hrabal: Sörgyári capriccio [részletek](_details/%7Bopf.creator%7D.md#id_448)
+- Bohumil Hrabal: Szigorúan ellenőrzött vonatok [részletek](_details/%7Bopf.creator%7D.md#id_449)
+- Bohumil Hrabal: Táncórák idősebbeknek és haladóknak [részletek](_details/%7Bopf.creator%7D.md#id_450)
+- James Lecesne: Trevor [részletek](_details/%7Bopf.creator%7D.md#id_1272)
+- Ljudmila Ulickaja: Szonyecska [részletek](_details/%7Bopf.creator%7D.md#id_1289)
+- Michael Crichton: Préda / Viharos szerelem / Hajsza Tokióban / Utcagyerekek [részletek](_details/%7Bopf.creator%7D.md#id_758)
+- Örkény, István: „Rózsakiállítás” [részletek](_details/%7Bopf.creator%7D.md#id_515)
+- Robert Louis Stevenson: Dr. Jekyll és Mr. Hyde különös esete [részletek](_details/%7Bopf.creator%7D.md#id_615)
+- Stephen King: Ezüst pisztolygolyók [részletek](_details/%7Bopf.creator%7D.md#id_572)
+- Szabó, Magda: Csigaház [részletek](_details/%7Bopf.creator%7D.md#id_1345)
+- Wass, Albert: Jönnek! / Adjátok vissza a hegyeimet! [részletek](_details/%7Bopf.creator%7D.md#id_220)

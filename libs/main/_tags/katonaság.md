@@ -1,0 +1,15 @@
+# katonaság
+
+- Dean R. Koontz: Amnézia [részletek](_details/%7Bopf.creator%7D.md#id_1094)
+- Dean R. Koontz: Idegenek [részletek](_details/%7Bopf.creator%7D.md#id_1086)
+- Erich Maria Remarque: Nyugaton a helyzet változatlan [részletek](_details/%7Bopf.creator%7D.md#id_317)
+- Foster, Alan Dean: A bolygó neve: Halál [részletek](_details/%7Bopf.creator%7D.md#id_650)
+- James Clavell: Gajdzsin [részletek](_details/%7Bopf.creator%7D.md#id_1028)
+- Kenneth Roberts: Északnyugati átjáró [részletek](_details/%7Bopf.creator%7D.md#id_745)
+- Lee Child: Csak egy lövés [részletek](_details/%7Bopf.creator%7D.md#id_392)
+- Michael Blake: Farkasokkal táncoló [részletek](_details/%7Bopf.creator%7D.md#id_721)
+- Robert Merle: Állati elmék [részletek](_details/%7Bopf.creator%7D.md#id_326)
+- Stephen E. Ambrose: Az elit alakulat [részletek](_details/%7Bopf.creator%7D.md#id_316)
+- Stephen King: A hosszú menetelés [részletek](_details/%7Bopf.creator%7D.md#id_932)
+- W. E. B. Griffin: Hadnagyok [részletek](_details/%7Bopf.creator%7D.md#id_320)
+- Wass, Albert: Tizenhárom almafa [részletek](_details/%7Bopf.creator%7D.md#id_216)

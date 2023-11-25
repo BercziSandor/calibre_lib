@@ -1,0 +1,10 @@
+# Japán (ország)
+
+- Abe Kóbó: A negyedik jégkorszak [részletek](_details/%7Bopf.creator%7D.md#id_948)
+- Akunyin, Borisz: A ​gyémántszekér I-II. [részletek](_details/%7Bopf.creator%7D.md#id_1110)
+- Arthur Golden: Egy gésa emlékiratai [részletek](_details/%7Bopf.creator%7D.md#id_280)
+- Dean R. Koontz: Kulcs az éjfélhez [részletek](_details/%7Bopf.creator%7D.md#id_1082)
+- Holly Smale: A lány, aki mindig mindent félreért [részletek](_details/%7Bopf.creator%7D.md#id_1003)
+- James Clavell: A sógun [részletek](_details/%7Bopf.creator%7D.md#id_168)
+- James Clavell: Gajdzsin [részletek](_details/%7Bopf.creator%7D.md#id_1028)
+- Viktor Pelevin: Az agyag géppuska [részletek](_details/%7Bopf.creator%7D.md#id_834)

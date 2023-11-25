@@ -1,0 +1,15 @@
+# határon túli
+
+- Dragomán, György: Máglya [részletek](_details/%7Bopf.creator%7D.md#id_1194)
+- Wass, Albert: A kastély árnyékában [részletek](_details/%7Bopf.creator%7D.md#id_219)
+- Wass, Albert: A költő és a macska / Te és a világ [részletek](_details/%7Bopf.creator%7D.md#id_210)
+- Wass, Albert: A titokzatos őzbak [részletek](_details/%7Bopf.creator%7D.md#id_202)
+- Wass, Albert: Átoksori kísértetek [részletek](_details/%7Bopf.creator%7D.md#id_205)
+- Wass, Albert: Az Antikrisztus és a pásztorok [részletek](_details/%7Bopf.creator%7D.md#id_215)
+- Wass, Albert: Csaba [részletek](_details/%7Bopf.creator%7D.md#id_218)
+- Wass, Albert: Elvásik a veres csillag [részletek](_details/%7Bopf.creator%7D.md#id_211)
+- Wass, Albert: Elvész a nyom [részletek](_details/%7Bopf.creator%7D.md#id_217)
+- Wass, Albert: Ember az országút szélén [részletek](_details/%7Bopf.creator%7D.md#id_221)
+- Wass, Albert: Farkasverem [részletek](_details/%7Bopf.creator%7D.md#id_214)
+- Wass, Albert: Halálos köd Holtember Partján [részletek](_details/%7Bopf.creator%7D.md#id_204)
+- Wass, Albert: Jönnek! / Adjátok vissza a hegyeimet! [részletek](_details/%7Bopf.creator%7D.md#id_220)

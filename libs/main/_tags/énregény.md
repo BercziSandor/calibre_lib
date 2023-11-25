@@ -1,0 +1,18 @@
+# énregény
+
+- Anna Gavalda: 35 kiló remény [részletek](_details/%7Bopf.creator%7D.md#id_1308)
+- Arthur Golden: Egy gésa emlékiratai [részletek](_details/%7Bopf.creator%7D.md#id_280)
+- Bohumil Hrabal: Szigorúan ellenőrzött vonatok [részletek](_details/%7Bopf.creator%7D.md#id_449)
+- Bohumil Hrabal: Táncórák idősebbeknek és haladóknak [részletek](_details/%7Bopf.creator%7D.md#id_450)
+- Dragomán, György: Máglya [részletek](_details/%7Bopf.creator%7D.md#id_1194)
+- Erlend Loe: Naiv.Szuper. [részletek](_details/%7Bopf.creator%7D.md#id_532)
+- J. D. Salinger: Rozsban a fogó [részletek](_details/%7Bopf.creator%7D.md#id_1409)
+- J. D. Salinger: Zabhegyező [részletek](_details/%7Bopf.creator%7D.md#id_561)
+- Leiner, Laura: Bábel [részletek](_details/%7Bopf.creator%7D.md#id_644)
+- Leiner, Laura: Ez is Remek!! [részletek](_details/%7Bopf.creator%7D.md#id_1475)
+- Rachel Vincent: Stray – Kóborok [részletek](_details/%7Bopf.creator%7D.md#id_428)
+- Stephenie Meyer: Breaking Dawn – Hajnalhasadás [részletek](_details/%7Bopf.creator%7D.md#id_793)
+- Stephenie Meyer: Eclipse – Napfogyatkozás [részletek](_details/%7Bopf.creator%7D.md#id_794)
+- Stephenie Meyer: New Moon – Újhold [részletek](_details/%7Bopf.creator%7D.md#id_795)
+- Suzanne Collins: A kiválasztott [részletek](_details/%7Bopf.creator%7D.md#id_83)
+- Szabó, Magda: Für Elise [részletek](_details/%7Bopf.creator%7D.md#id_1339)

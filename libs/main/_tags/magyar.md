@@ -1,0 +1,17 @@
+# magyar
+
+- Böszörményi, Gyula: Ármány ​és kézfogó [részletek](_details/%7Bopf.creator%7D.md#id_1565)
+- Böszörményi Gyula: Bitó és borostyán [részletek](_details/%7Bopf.creator%7D.md#id_1578)
+- Dragomán, György: Rendszerújra [részletek](_details/%7Bopf.creator%7D.md#id_1223)
+- Grecsó, Krisztián: Harminc év napsütés [részletek](_details/%7Bopf.creator%7D.md#id_1227)
+- Kepes, András: Istenek és emberek [részletek](_details/%7Bopf.creator%7D.md#id_1232)
+- Kepes, András: Tövispuszta [részletek](_details/%7Bopf.creator%7D.md#id_109)
+- Kivaghy, Krisztián: A manipuláció tudománya [részletek](_details/%7Bopf.creator%7D.md#id_293)
+- Králig, Helga: Állati egypercesek [részletek](_details/%7Bopf.creator%7D.md#id_928)
+- Leiner, Laura: Ez is Remek!! [részletek](_details/%7Bopf.creator%7D.md#id_1475)
+- Leiner, Laura: Maradj velem [részletek](_details/%7Bopf.creator%7D.md#id_1477)
+- Megyesi, Zoltán: Titkosírások [részletek](_details/%7Bopf.creator%7D.md#id_413)
+- Moldova, György: Az utóvéd [részletek](_details/%7Bopf.creator%7D.md#id_1372)
+- Náray, Tamás: Zarah [részletek](_details/%7Bopf.creator%7D.md#id_1234)
+- Náray, Tamás: Zarah öröksége [részletek](_details/%7Bopf.creator%7D.md#id_1233)
+- Wass, Albert: Jönnek! / Adjátok vissza a hegyeimet! [részletek](_details/%7Bopf.creator%7D.md#id_220)

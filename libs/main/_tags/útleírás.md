@@ -1,0 +1,17 @@
+# útleírás
+
+- Fejős, Éva: Szeretlek, Bangkok [részletek](_details/%7Bopf.creator%7D.md#id_774)
+- Fekete, István: Kittenberger Kálmán élete [részletek](_details/%7Bopf.creator%7D.md#id_734)
+- Gerald Durrell: A részeg erdő [részletek](_details/%7Bopf.creator%7D.md#id_878)
+- Gerald Durrell: Noé bárkáján [részletek](_details/%7Bopf.creator%7D.md#id_870)
+- Gerald Durrell: Vadászat felvevőgéppel [részletek](_details/%7Bopf.creator%7D.md#id_863)
+- Hegedűs, Hubert: Matrózéveim [részletek](_details/%7Bopf.creator%7D.md#id_160)
+- James Ramsey Ullman: A Himalája fia [részletek](_details/%7Bopf.creator%7D.md#id_953)
+- Jon Krakauer: Út a vadonba [részletek](_details/%7Bopf.creator%7D.md#id_797)
+- Mark Twain: Élet a Mississippin [részletek](_details/%7Bopf.creator%7D.md#id_937)
+- Marlo Morgan: Vidd hírét az Igazaknak [részletek](_details/%7Bopf.creator%7D.md#id_1010)
+- Moldova, György: Ki ölte meg a Holt-tengert? [részletek](_details/%7Bopf.creator%7D.md#id_1373)
+- Paulo Coelho: A zarándoklat [részletek](_details/%7Bopf.creator%7D.md#id_260)
+- Rejtő, Jenő: Bedekker csavargók számára [részletek](_details/%7Bopf.creator%7D.md#id_137)
+- Szabó, Magda: Hullámok kergetése [részletek](_details/%7Bopf.creator%7D.md#id_1359)
+- Szabó, Magda: Zeusz küszöbén [részletek](_details/%7Bopf.creator%7D.md#id_1343)

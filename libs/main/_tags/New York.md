@@ -1,0 +1,18 @@
+# New York
+
+- Alan Glynn: Csúcshatás [részletek](_details/%7Bopf.creator%7D.md#id_295)
+- Augusten Burroughs: Kiszáradva [részletek](_details/%7Bopf.creator%7D.md#id_968)
+- Cassandra Clare: Bukott angyalok városa [részletek](_details/%7Bopf.creator%7D.md#id_638)
+- Cassandra Clare: Csontváros [részletek](_details/%7Bopf.creator%7D.md#id_635)
+- Cassandra Clare: Hamuváros [részletek](_details/%7Bopf.creator%7D.md#id_636)
+- Dean R. Koontz: Pokoli hordák [részletek](_details/%7Bopf.creator%7D.md#id_1077)
+- Dean R. Koontz: Rettegés [részletek](_details/%7Bopf.creator%7D.md#id_1076)
+- Erlend Loe: Naiv.Szuper. [részletek](_details/%7Bopf.creator%7D.md#id_532)
+- Ljudmila Ulickaja: Vidám temetés [részletek](_details/%7Bopf.creator%7D.md#id_1288)
+- P. G. Wodehouse: Folytassa, Jeeves! [részletek](_details/%7Bopf.creator%7D.md#id_502)
+- P. G. Wodehouse: Halihó, Jeeves! [részletek](_details/%7Bopf.creator%7D.md#id_945)
+- Robin Cook: Fertőzés [részletek](_details/%7Bopf.creator%7D.md#id_89)
+- Salman Rushdie: Fúriadüh [részletek](_details/%7Bopf.creator%7D.md#id_1452)
+- Stephen King: A hármak elhívatása [részletek](_details/%7Bopf.creator%7D.md#id_540)
+- Stephen King: Callai farkasok [részletek](_details/%7Bopf.creator%7D.md#id_847)
+- Stephen King: Susannah dala [részletek](_details/%7Bopf.creator%7D.md#id_542)

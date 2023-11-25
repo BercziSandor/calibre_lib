@@ -1,0 +1,17 @@
+# Afrika
+
+- Agatha Christie: És eljő a halál… [részletek](_details/%7Bopf.creator%7D.md#id_312)
+- Alexander McCall Smith: Az első női detektív iroda [részletek](_details/%7Bopf.creator%7D.md#id_921)
+- Alexander McCall Smith: Erkölcstan szép lányoknak [részletek](_details/%7Bopf.creator%7D.md#id_918)
+- Alexander McCall Smith: Kalahári gépíróiskola férfiak részére [részletek](_details/%7Bopf.creator%7D.md#id_919)
+- Alexander McCall Smith: Zsiráfkönnyek [részletek](_details/%7Bopf.creator%7D.md#id_920)
+- Fekete, István: Kittenberger Kálmán élete [részletek](_details/%7Bopf.creator%7D.md#id_734)
+- Gerald Durrell: A bafuti kopók [részletek](_details/%7Bopf.creator%7D.md#id_862)
+- Gerald Durrell: Állatkert a poggyászomban [részletek](_details/%7Bopf.creator%7D.md#id_49)
+- Gerald Durrell: Aranydenevérek, rózsaszín galambok [részletek](_details/%7Bopf.creator%7D.md#id_875)
+- Gerald Durrell: Noé bárkáján [részletek](_details/%7Bopf.creator%7D.md#id_870)
+- Henryk Sienkiewicz: Sivatagon és vadonban [részletek](_details/%7Bopf.creator%7D.md#id_382)
+- Paulo Coelho: Az alkimista [részletek](_details/%7Bopf.creator%7D.md#id_261)
+- Rejtő, Jenő: Az ellopott futár [részletek](_details/%7Bopf.creator%7D.md#id_133)
+- Rejtő, Jenő: Vanek úr Párizsban [részletek](_details/%7Bopf.creator%7D.md#id_153)
+- Rejtő, Jenő: A fehér folt [részletek](_details/%7Bopf.creator%7D.md#id_123)

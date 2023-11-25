@@ -1,0 +1,15 @@
+# macska
+
+- Cassandra Clare: Hamuváros [részletek](_details/%7Bopf.creator%7D.md#id_636)
+- Desmond Morris: Miért csinálja…? A macska [részletek](_details/%7Bopf.creator%7D.md#id_415)
+- James Herriot: A repülő állatorvos [részletek](_details/%7Bopf.creator%7D.md#id_929)
+- James Herriot: Egy állatorvos történetei [részletek](_details/%7Bopf.creator%7D.md#id_926)
+- L. M. Montgomery: A Mesélő Lány [részletek](_details/%7Bopf.creator%7D.md#id_492)
+- L. M. Montgomery: Az arany út [részletek](_details/%7Bopf.creator%7D.md#id_491)
+- Lars Kepler: A Paganini-szerződés [részletek](_details/%7Bopf.creator%7D.md#id_674)
+- Mieshelle Nagelschneider: Macskákkal suttogó [részletek](_details/%7Bopf.creator%7D.md#id_1437)
+- Mihail Bulgakov: A Mester és Margarita [részletek](_details/%7Bopf.creator%7D.md#id_275)
+- Neil Gaiman: Coraline (angol) [részletek](_details/%7Bopf.creator%7D.md#id_1431)
+- Pam Johnson-Bennett: Gondolkodj macskául [részletek](_details/%7Bopf.creator%7D.md#id_1438)
+- Polcz, Alaine: Macskaregény [részletek](_details/%7Bopf.creator%7D.md#id_1439)
+- Rachel Vincent: Stray – Kóborok [részletek](_details/%7Bopf.creator%7D.md#id_428)

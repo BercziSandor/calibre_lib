@@ -1,0 +1,18 @@
+# állattörténet
+
+- Fekete, István: 21 nap [részletek](_details/%7Bopf.creator%7D.md#id_315)
+- Fekete, István: Bogáncs [részletek](_details/%7Bopf.creator%7D.md#id_266)
+- Fekete, István: Hú [részletek](_details/%7Bopf.creator%7D.md#id_730)
+- Fekete, István: Kele / Vuk [részletek](_details/%7Bopf.creator%7D.md#id_122)
+- Fekete, István: Lutra [részletek](_details/%7Bopf.creator%7D.md#id_735)
+- James Herriot: A repülő állatorvos [részletek](_details/%7Bopf.creator%7D.md#id_929)
+- James Herriot: Állatorvosi pályám kezdetén… [részletek](_details/%7Bopf.creator%7D.md#id_927)
+- James Herriot: Egy állatorvos történetei [részletek](_details/%7Bopf.creator%7D.md#id_926)
+- James Herriot: Kutyák a rendelőmben [részletek](_details/%7Bopf.creator%7D.md#id_782)
+- James Herriot: Kutyák a rendelőmben 2. [részletek](_details/%7Bopf.creator%7D.md#id_924)
+- James Herriot: Minden élő az ég alatt [részletek](_details/%7Bopf.creator%7D.md#id_925)
+- Konrad Lorenz: Ember és kutya [részletek](_details/%7Bopf.creator%7D.md#id_474)
+- Králig, Helga: Állati egypercesek [részletek](_details/%7Bopf.creator%7D.md#id_928)
+- Polcz, Alaine: Macskaregény [részletek](_details/%7Bopf.creator%7D.md#id_1439)
+- Robert Merle: Állati elmék [részletek](_details/%7Bopf.creator%7D.md#id_326)
+- Robert Merle: Majomábécé [részletek](_details/%7Bopf.creator%7D.md#id_335)

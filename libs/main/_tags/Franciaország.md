@@ -1,0 +1,18 @@
+# Franciaország
+
+- Anna Gavalda: Együtt lehetnénk [részletek](_details/%7Bopf.creator%7D.md#id_1306)
+- Anna Gavalda: Életre kelni [részletek](_details/%7Bopf.creator%7D.md#id_1303)
+- Anna Gavalda: Vigaszág [részletek](_details/%7Bopf.creator%7D.md#id_15)
+- Joanne Harris: Ötnegyed narancs [részletek](_details/%7Bopf.creator%7D.md#id_1123)
+- Joanne Harris: Partvidékiek [részletek](_details/%7Bopf.creator%7D.md#id_1128)
+- Joanne Harris: Szederbor [részletek](_details/%7Bopf.creator%7D.md#id_1127)
+- Joanne Harris: Szent bolondok [részletek](_details/%7Bopf.creator%7D.md#id_1120)
+- Laura D.: Szex és tandíj [részletek](_details/%7Bopf.creator%7D.md#id_904)
+- Michael Crichton: Idővonal [részletek](_details/%7Bopf.creator%7D.md#id_754)
+- Patrick Süskind: A parfüm [részletek](_details/%7Bopf.creator%7D.md#id_408)
+- Philippe Pozzo Di Borgo: Életrevalók [részletek](_details/%7Bopf.creator%7D.md#id_1267)
+- Robert Merle: Csikóéveink [részletek](_details/%7Bopf.creator%7D.md#id_329)
+- Robert Merle: Francia história [részletek](_details/%7Bopf.creator%7D.md#id_330)
+- Robert Merle: Két nap az élet [részletek](_details/%7Bopf.creator%7D.md#id_331)
+- Robert Merle: Malevil [részletek](_details/%7Bopf.creator%7D.md#id_336)
+- Stendhal: Vörös és fekete [részletek](_details/%7Bopf.creator%7D.md#id_562)

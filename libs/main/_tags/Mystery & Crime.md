@@ -1,0 +1,15 @@
+# Mystery & Crime
+
+- Agatha Christie: A kutya se látta [részletek](_details/%7Bopf.creator%7D.md#id_1751)
+- Agatha Christie: A titokzatos stylesi eset / Függöny [részletek](_details/%7Bopf.creator%7D.md#id_1758)
+- Agatha Christie: A titokzatos stylesi eset / Függöny [részletek](_details/%7Bopf.creator%7D.md#id_239)
+- Akunyin, Borisz: A halál szerelmese [részletek](_details/%7Bopf.creator%7D.md#id_916)
+- Akunyin, Borisz: A koronázás [részletek](_details/%7Bopf.creator%7D.md#id_914)
+- Akunyin, Borisz: Az államtanácsos [részletek](_details/%7Bopf.creator%7D.md#id_912)
+- Akunyin, Borisz: Leviathan [részletek](_details/%7Bopf.creator%7D.md#id_910)
+- Amanda Silver: A kéz, amely a bölcsőt ringatja [részletek](_details/%7Bopf.creator%7D.md#id_952)
+- Joanne Fluke: Áfonyás muffin és gyilkosság [részletek](_details/%7Bopf.creator%7D.md#id_622)
+- Joanne Fluke: Csokis tündértorta és gyilkosság [részletek](_details/%7Bopf.creator%7D.md#id_624)
+- Joanne Fluke: Karácsonyi habcsók és gyilkosság [részletek](_details/%7Bopf.creator%7D.md#id_625)
+- Joanne Fluke: Pikáns meglepetés és gyilkosság [részletek](_details/%7Bopf.creator%7D.md#id_623)
+- Stephen King: Sorvadj el! [részletek](_details/%7Bopf.creator%7D.md#id_469)

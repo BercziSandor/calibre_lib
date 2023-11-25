@@ -1,0 +1,16 @@
+# időutazás
+
+- Aaron F. Loacher: Időjárőr [részletek](_details/%7Bopf.creator%7D.md#id_999)
+- Asimov, Isaac: Halálos ítélet [részletek](_details/%7Bopf.creator%7D.md#id_1176)
+- Asimov, Isaac: Kavics az égben [részletek](_details/%7Bopf.creator%7D.md#id_1177)
+- David Mitchell: Felhőatlasz [részletek](_details/%7Bopf.creator%7D.md#id_454)
+- Dean R. Koontz: Égi jel [részletek](_details/%7Bopf.creator%7D.md#id_1090)
+- Elizabeth Hand: 12 majom [részletek](_details/%7Bopf.creator%7D.md#id_779)
+- J. K. Rowling: Harry Potter és az elátkozott gyermek [részletek](_details/%7Bopf.creator%7D.md#id_1459)
+- Jostein Gaarder: Anna világa [részletek](_details/%7Bopf.creator%7D.md#id_1411)
+- Michael Crichton: Idővonal [részletek](_details/%7Bopf.creator%7D.md#id_754)
+- Nick Hornby: Betoncsók [részletek](_details/%7Bopf.creator%7D.md#id_708)
+- Stephen King: 11/22/63 [részletek](_details/%7Bopf.creator%7D.md#id_523)
+- Stephen King: A hármak elhívatása [részletek](_details/%7Bopf.creator%7D.md#id_540)
+- Stephen King: Callai farkasok [részletek](_details/%7Bopf.creator%7D.md#id_847)
+- Stephen King: Susannah dala [részletek](_details/%7Bopf.creator%7D.md#id_542)

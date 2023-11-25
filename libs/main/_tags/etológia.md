@@ -1,0 +1,16 @@
+# etológia
+
+- Csányi, Vilmos: A kutyák szőrös gyerekek [részletek](_details/%7Bopf.creator%7D.md#id_1719)
+- Csányi, Vilmos: Az emberi természet [részletek](_details/%7Bopf.creator%7D.md#id_308)
+- Csányi, Vilmos: Édes Janka [részletek](_details/%7Bopf.creator%7D.md#id_1715)
+- Csányi, Vilmos: Ironikus etológia [részletek](_details/%7Bopf.creator%7D.md#id_1720)
+- Csányi, Vilmos: Jeromos, a barátom - A kutyák szerint a világ [részletek](_details/%7Bopf.creator%7D.md#id_1718)
+- Csányi, Vilmos: Marci, a beszélő kutya [részletek](_details/%7Bopf.creator%7D.md#id_1714)
+- Csányi, Vilmos: Segítség, kutyás lettem! [részletek](_details/%7Bopf.creator%7D.md#id_1713)
+- Desmond Morris: Miért csinálja…? A ló [részletek](_details/%7Bopf.creator%7D.md#id_416)
+- Desmond Morris: Miért csinálja…? A macska [részletek](_details/%7Bopf.creator%7D.md#id_415)
+- Jane Goodall: Az ember árnyékában [részletek](_details/%7Bopf.creator%7D.md#id_402)
+- Konrad Lorenz: Ember és kutya [részletek](_details/%7Bopf.creator%7D.md#id_474)
+- Richard Dawkins: Az önző gén [részletek](_details/%7Bopf.creator%7D.md#id_360)
+- Robert Merle: Állati elmék [részletek](_details/%7Bopf.creator%7D.md#id_326)
+- Robert Merle: Majomábécé [részletek](_details/%7Bopf.creator%7D.md#id_335)

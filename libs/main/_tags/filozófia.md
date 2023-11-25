@@ -1,0 +1,17 @@
+# filozófia
+
+- Asimov, Isaac: Útikalauz [részletek](_details/%7Bopf.creator%7D.md#id_1171)
+- Aurelius, Marcus: Marcus Aurelius elmélkedései [részletek](_details/%7Bopf.creator%7D.md#id_856)
+- Bud Spencer: Eszem, tehát vagyok [részletek](_details/%7Bopf.creator%7D.md#id_966)
+- Daniel C. Dennett: Micsoda elmék [részletek](_details/%7Bopf.creator%7D.md#id_631)
+- Erich Fromm: A szeretet művészete [részletek](_details/%7Bopf.creator%7D.md#id_288)
+- Erich Fromm: Birtokolni vagy létezni? [részletek](_details/%7Bopf.creator%7D.md#id_2)
+- Hamvas Béla: A bor filozófiája [részletek](_details/%7Bopf.creator%7D.md#id_776)
+- Hamvas Béla: Scientia sacra [részletek](_details/%7Bopf.creator%7D.md#id_777)
+- Hermann Hesse: Demian [részletek](_details/%7Bopf.creator%7D.md#id_399)
+- Márai, Sándor: Füves könyv [részletek](_details/%7Bopf.creator%7D.md#id_1419)
+- Noam Chomsky: Hatalom és terror [részletek](_details/%7Bopf.creator%7D.md#id_343)
+- Paulo Coelho: Az ördög és Prym kisasszony [részletek](_details/%7Bopf.creator%7D.md#id_262)
+- Stephen Hawking: Az idő rövid története [részletek](_details/%7Bopf.creator%7D.md#id_1166)
+- Umberto Eco: A Foucault-inga [részletek](_details/%7Bopf.creator%7D.md#id_1024)
+- Umberto Eco: A rózsa neve [részletek](_details/%7Bopf.creator%7D.md#id_789)

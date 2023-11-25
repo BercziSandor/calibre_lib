@@ -1,0 +1,16 @@
+# francia
+
+- Anna Gavalda: Vigaszág [részletek](_details/%7Bopf.creator%7D.md#id_15)
+- James Clavell: Gajdzsin [részletek](_details/%7Bopf.creator%7D.md#id_1028)
+- Laura D.: Szex és tandíj [részletek](_details/%7Bopf.creator%7D.md#id_904)
+- Michael Crichton: Idővonal [részletek](_details/%7Bopf.creator%7D.md#id_754)
+- Philippe Pozzo Di Borgo: Életrevalók [részletek](_details/%7Bopf.creator%7D.md#id_1267)
+- Robert Merle: A gyermekkirály [részletek](_details/%7Bopf.creator%7D.md#id_323)
+- Robert Merle: A pirkadat [részletek](_details/%7Bopf.creator%7D.md#id_324)
+- Robert Merle: Az élet rózsái [részletek](_details/%7Bopf.creator%7D.md#id_328)
+- Robert Merle: Csikóéveink [részletek](_details/%7Bopf.creator%7D.md#id_329)
+- Robert Merle: Francia história [részletek](_details/%7Bopf.creator%7D.md#id_330)
+- Robert Merle: Libben a szoknya [részletek](_details/%7Bopf.creator%7D.md#id_332)
+- Robert Merle: Szenvedélyes szeretet [részletek](_details/%7Bopf.creator%7D.md#id_338)
+- Robert Merle: Veszedelem és dicsőség [részletek](_details/%7Bopf.creator%7D.md#id_341)
+- Wm. Paul Young: A viskó [részletek](_details/%7Bopf.creator%7D.md#id_962)

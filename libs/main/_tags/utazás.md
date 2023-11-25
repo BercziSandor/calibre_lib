@@ -1,0 +1,17 @@
+# utazás
+
+- Alex Garland: A Part [részletek](_details/%7Bopf.creator%7D.md#id_1269)
+- Berg, Judit: Rumini és a négy jogar [részletek](_details/%7Bopf.creator%7D.md#id_570)
+- Erlend Loe: Naiv.Szuper. [részletek](_details/%7Bopf.creator%7D.md#id_532)
+- Fable, Vavyan: Álmok Tengere [részletek](_details/%7Bopf.creator%7D.md#id_177)
+- Fejős, Éva: Eper reggelire [részletek](_details/%7Bopf.creator%7D.md#id_17)
+- Fekete, István: Bogáncs [részletek](_details/%7Bopf.creator%7D.md#id_266)
+- Frank W. Abagnale: Kapj el, ha tudsz [részletek](_details/%7Bopf.creator%7D.md#id_669)
+- Henryk Sienkiewicz: Sivatagon és vadonban [részletek](_details/%7Bopf.creator%7D.md#id_382)
+- J. R. R. Tolkien: A hobbit [részletek](_details/%7Bopf.creator%7D.md#id_61)
+- Michael Ende: Momo [részletek](_details/%7Bopf.creator%7D.md#id_1430)
+- Patrick Rothfuss: A bölcs ember félelme [részletek](_details/%7Bopf.creator%7D.md#id_1029)
+- Patrick Süskind: A parfüm [részletek](_details/%7Bopf.creator%7D.md#id_408)
+- Robert Merle: Madrapur [részletek](_details/%7Bopf.creator%7D.md#id_334)
+- Stephen King: A talizmán [részletek](_details/%7Bopf.creator%7D.md#id_549)
+- Terry Pratchett: A mágia színe [részletek](_details/%7Bopf.creator%7D.md#id_696)

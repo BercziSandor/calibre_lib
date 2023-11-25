@@ -1,0 +1,17 @@
+# drámai cselekmény
+
+- Gabriel García Márquez: Száz év magány [részletek](_details/%7Bopf.creator%7D.md#id_223)
+- George R. R. Martin: Kardok vihara [részletek](_details/%7Bopf.creator%7D.md#id_424)
+- George R. R. Martin: Királyok csatája [részletek](_details/%7Bopf.creator%7D.md#id_418)
+- Grecsó, Krisztián: Jelmezbál [részletek](_details/%7Bopf.creator%7D.md#id_1228)
+- Jodi Picoult: A nővérem húga [részletek](_details/%7Bopf.creator%7D.md#id_350)
+- Jodi Picoult: Elrabolt az apám [részletek](_details/%7Bopf.creator%7D.md#id_349)
+- Jodi Picoult: Szívtől szívig [részletek](_details/%7Bopf.creator%7D.md#id_351)
+- Jodi Picoult: Tizenkilenc perc [részletek](_details/%7Bopf.creator%7D.md#id_348)
+- Mario Puzo: A Keresztapa [részletek](_details/%7Bopf.creator%7D.md#id_283)
+- Robert Merle: Állati elmék [részletek](_details/%7Bopf.creator%7D.md#id_326)
+- Stephen King: A búra alatt [részletek](_details/%7Bopf.creator%7D.md#id_556)
+- Stephen King: A búra alatt [részletek](_details/%7Bopf.creator%7D.md#id_557)
+- Stephen King: Blaze [részletek](_details/%7Bopf.creator%7D.md#id_550)
+- Stephen King: Susannah dala [részletek](_details/%7Bopf.creator%7D.md#id_542)
+- Thomas Harris: A bárányok hallgatnak [részletek](_details/%7Bopf.creator%7D.md#id_1032)

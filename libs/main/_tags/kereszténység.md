@@ -1,0 +1,17 @@
+# kereszténység
+
+- Gárdonyi, Géza: Isten rabjai [részletek](_details/%7Bopf.creator%7D.md#id_619)
+- Hamvas Béla: Scientia sacra [részletek](_details/%7Bopf.creator%7D.md#id_777)
+- Henryk Sienkiewicz: Quo vadis? [részletek](_details/%7Bopf.creator%7D.md#id_386)
+- L. M. Montgomery: A Mesélő Lány [részletek](_details/%7Bopf.creator%7D.md#id_492)
+- L. M. Montgomery: Az arany út [részletek](_details/%7Bopf.creator%7D.md#id_491)
+- Ljudmila Ulickaja: Daniel Stein, tolmács [részletek](_details/%7Bopf.creator%7D.md#id_1285)
+- Müller, Péter: Benső mosoly [részletek](_details/%7Bopf.creator%7D.md#id_111)
+- Müller, Péter: Boldogság [részletek](_details/%7Bopf.creator%7D.md#id_112)
+- Müller, Péter: Kígyó és kereszt [részletek](_details/%7Bopf.creator%7D.md#id_113)
+- Müller, Péter: Örömkönyv [részletek](_details/%7Bopf.creator%7D.md#id_110)
+- Müller, Péter: Szeretetkönyv [részletek](_details/%7Bopf.creator%7D.md#id_115)
+- Müller, Péter: Titkos tanítások [részletek](_details/%7Bopf.creator%7D.md#id_116)
+- Müller, Péter: Varázskő [részletek](_details/%7Bopf.creator%7D.md#id_117)
+- Nick Hornby: Hogy legyünk jók? [részletek](_details/%7Bopf.creator%7D.md#id_304)
+- Wm. Paul Young: A viskó [részletek](_details/%7Bopf.creator%7D.md#id_962)

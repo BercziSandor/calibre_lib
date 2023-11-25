@@ -1,0 +1,17 @@
+# családtörténet
+
+- Dragomán, György: Máglya [részletek](_details/%7Bopf.creator%7D.md#id_1194)
+- Gabriel García Márquez: Száz év magány [részletek](_details/%7Bopf.creator%7D.md#id_223)
+- Gerald Durrell: Családom és egyéb állatfajták [részletek](_details/%7Bopf.creator%7D.md#id_50)
+- Gerald Durrell: Istenek kertje [részletek](_details/%7Bopf.creator%7D.md#id_868)
+- Gerald Durrell: Madarak, vadak, rokonok [részletek](_details/%7Bopf.creator%7D.md#id_867)
+- Grecsó, Krisztián: Mellettem elférsz [részletek](_details/%7Bopf.creator%7D.md#id_1231)
+- Grecsó, Krisztián: Mellettem elférsz [részletek](_details/%7Bopf.creator%7D.md#id_989)
+- Jane Austen: A Mansfieldi Kastély [részletek](_details/%7Bopf.creator%7D.md#id_55)
+- Jo Nesbø: Hóember [részletek](_details/%7Bopf.creator%7D.md#id_582)
+- Ljudmila Ulickaja: Jákob lajtorjája [részletek](_details/%7Bopf.creator%7D.md#id_1296)
+- Ljudmila Ulickaja: Médea és gyermekei [részletek](_details/%7Bopf.creator%7D.md#id_1293)
+- Ljudmila Ulickaja: Odaadó hívetek, Surik [részletek](_details/%7Bopf.creator%7D.md#id_1291)
+- Náray, Tamás: Zarah öröksége [részletek](_details/%7Bopf.creator%7D.md#id_1233)
+- Szabó, Magda: Pilátus [részletek](_details/%7Bopf.creator%7D.md#id_1351)
+- Szabó, Magda: Régimódi történet [részletek](_details/%7Bopf.creator%7D.md#id_1356)

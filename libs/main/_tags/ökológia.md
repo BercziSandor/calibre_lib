@@ -1,0 +1,3 @@
+# ökológia
+
+- Gerald Durrell: A hahagáj [részletek](_details/%7Bopf.creator%7D.md#id_865)
