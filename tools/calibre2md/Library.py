@@ -78,6 +78,7 @@ class Library:
 
         # doc.add_paragraph("par1_text")
         doc.add_header("Szerzők szerint", level=2)
+        doc.add_header("Tagek szerint", level=2)
 
         details_folder = self.root_dir / '_details'
         if not details_folder.exists():

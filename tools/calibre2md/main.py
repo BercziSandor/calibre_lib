@@ -55,7 +55,7 @@ def main():
         # If the library name is not provided, prompt the user to choose one
         library = prompt_for_library()
     else:
-        library = Path(args.library)
+        library = get_script_directory().parent.parent / 'libs' / args.library
 
     lib = Library(root_dir=library)
     lib.gen_md()
