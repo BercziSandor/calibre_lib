@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mateffy%2C%20Eva/Ruby%20%28606%29/Ruby%20-%20Mateffy%2C%20Eva.epub)
 
 ### Tagek
-[erotikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erotikus), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [lmbtq](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lmbtq), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [magyarország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyarország), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
+[erotikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erotikus.md), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs.md), [lmbtq](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lmbtq.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [magyarország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyarország.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény.md)
 
 ### Összefoglalás
 <div>

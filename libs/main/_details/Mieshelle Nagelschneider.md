@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mieshelle%20Nagelschneider/Macskakkal%20suttogo%20%281437%29/Macskakkal%20suttogo%20-%20Mieshelle%20Nagelschneider.epub)
 
 ### Tagek
-[állatbarát](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állatbarát), [állatgondozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állatgondozás), [állattartás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állattartás), [amerikai](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai), [macska](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/macska), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű)
+[állatbarát](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állatbarát.md), [állatgondozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állatgondozás.md), [állattartás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állattartás.md), [amerikai](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai.md), [macska](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/macska.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md)
 
 ### Összefoglalás
 <div>

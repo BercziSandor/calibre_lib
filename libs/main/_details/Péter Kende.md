@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Peter%20Kende/Az%20igazi%20Orban%20%281646%29/Az%20igazi%20Orban%20-%20Peter%20Kende.epub)
 
 ### Tagek
-[orbán](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orbán), [politika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/politika)
+[orbán](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orbán.md), [politika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/politika.md)
 
 ### Összefoglalás
 <div>

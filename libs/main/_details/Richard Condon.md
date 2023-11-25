@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Richard%20Condon/A%20mandzsuriai%20jelolt%20%28598%29/A%20mandzsuriai%20jelolt%20-%20Richard%20Condon.epub)
 
 ### Tagek
-[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [amerikai](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [hidegháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hidegháború), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [politika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/politika), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [akció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/akció)
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század.md), [amerikai](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció.md), [hidegháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hidegháború.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [politika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/politika.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény.md), [akció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/akció.md)
 
 ### Összefoglalás
 <div>

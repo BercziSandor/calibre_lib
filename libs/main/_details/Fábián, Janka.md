@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fabian%2C%20Janka/A%20nemet%20lany%20%28645%29/A%20nemet%20lany%20-%20Fabian%2C%20Janka.epub)
 
 ### Tagek
-[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [romance](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romance), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general)
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction.md), [romance](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romance.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general.md)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fabian%2C%20Janka/Emma%20szerelme%20%28597%29/Emma%20szerelme%20-%20Fabian%2C%20Janka.epub)
 
 ### Tagek
-[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [historical](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/historical)
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction.md), [historical](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/historical.md)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fabian%2C%20Janka/Emma%20fiai%20%28595%29/Emma%20fiai%20-%20Fabian%2C%20Janka.epub)
 
 ### Tagek
-[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [historical](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/historical)
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction.md), [historical](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/historical.md)
 
 ### Összefoglalás
 <div>
@@ -47,7 +47,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fabian%2C%20Janka/Emma%20lanya%20%28596%29/Emma%20lanya%20-%20Fabian%2C%20Janka.epub)
 
 ### Tagek
-[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [historical](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/historical)
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction.md), [historical](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/historical.md)
 
 ### Összefoglalás
 <div>
@@ -61,7 +61,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fabian%2C%20Janka/Az%20angyalos%20haz%20%28594%29/Az%20angyalos%20haz%20-%20Fabian%2C%20Janka.epub)
 
 ### Tagek
-[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [romance](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romance), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general)
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction.md), [romance](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romance.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general.md)
 
 ### Összefoglalás
 <div>
@@ -75,7 +75,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fabian%2C%20Janka/Karacsony%20a%20Ligetben%20%28643%29/Karacsony%20a%20Ligetben%20-%20Fabian%2C%20Janka.epub)
 
 ### Tagek
-[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [romance](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romance), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general)
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction.md), [romance](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romance.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general.md)
 
 ### Összefoglalás
 <div>
@@ -89,7 +89,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fabian%2C%20Janka/Adel%20es%20Aliz%20%28633%29/Adel%20es%20Aliz%20-%20Fabian%2C%20Janka.epub)
 
 ### Tagek
-[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [romance](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romance), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general), [1920-as évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1920-as évek), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus), [történelmi romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelmi romantikus)
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction.md), [romance](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romance.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general.md), [1920-as évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1920-as évek.md), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század.md), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus.md), [történelmi romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelmi romantikus.md)
 
 ### Összefoglalás
 <div>

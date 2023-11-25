@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hahner%2C%20Peter/100%20tortenelmi%20tevhit%20%28512%29/100%20tortenelmi%20tevhit%20-%20Hahner%2C%20Peter.epub)
 
 ### Tagek
-[history](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/history), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [magyar történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar történelem), [történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelem), [világtörténelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/világtörténelem)
+[history](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/history.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő.md), [magyar történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar történelem.md), [történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelem.md), [világtörténelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/világtörténelem.md)
 
 ### Összefoglalás
 <div>

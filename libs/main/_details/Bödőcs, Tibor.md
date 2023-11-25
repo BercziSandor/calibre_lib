@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bodocs%2C%20Tibor/Meg%20se%20kinaltak%20%281556%29/Meg%20se%20kinaltak%20-%20Bodocs%2C%20Tibor.epub)
 
 ### Tagek
-[szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor)
+[szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom.md), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor.md)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bodocs%2C%20Tibor/Addig%20se%20iszik%20%281428%29/Addig%20se%20iszik%20-%20Bodocs%2C%20Tibor.epub)
 
 ### Tagek
-[humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [paródia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/paródia), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor)
+[humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros.md), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella.md), [paródia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/paródia.md), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor.md)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bodocs%2C%20Tibor/Mulat%20a%20Manezs%20%281557%29/Mulat%20a%20Manezs%20-%20Bodocs%2C%20Tibor.epub)
 
 ### Tagek
-[szatíra](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szatíra), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor)
+[szatíra](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szatíra.md), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor.md)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ninni%20Schulman/Lany%20a%20hoban%20%28682%29/Lany%20a%20hoban%20-%20Ninni%20Schulman.epub)
 
 ### Tagek
-[gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [svéd szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/svéd szerző), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skandináv)
+[gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság.md), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő.md), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része.md), [svéd szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/svéd szerző.md), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi.md), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skandináv.md)
 
 ### Összefoglalás
 <div>

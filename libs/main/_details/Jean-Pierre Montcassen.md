@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jean-Pierre%20Montcassen/A%20sivatag%20hercegnoje%20%28627%29/A%20sivatag%20hercegnoje%20-%20Jean-Pierre%20Montcassen.epub)
 
 ### Tagek
-[arab világ](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/arab világ), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [történelmi regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelmi regény)
+[arab világ](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/arab világ.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelmi regény.md)
 
 ### Összefoglalás
 <div>

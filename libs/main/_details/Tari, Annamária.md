@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tari%2C%20Annamaria/Z%20generacio%20%281016%29/Z%20generacio%20-%20Tari%2C%20Annamaria.epub)
 
 ### Tagek
-[ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia), [szociológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szociológia)
+[ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia.md), [szociológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szociológia.md)
 
 ### Összefoglalás
 <div>

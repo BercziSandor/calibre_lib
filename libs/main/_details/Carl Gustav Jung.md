@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Carl%20Gustav%20Jung/Gondolatok%20a%20szexualitasrol%20es%20a%20sz%20%28770%29/Gondolatok%20a%20szexualitasrol%20es%20-%20Carl%20Gustav%20Jung.epub)
 
 ### Tagek
-[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [svájci szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/svájci szerző), [szexuálpszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szexuálpszichológia), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia), [szerelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szerelem), [szexualitás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szexualitás)
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [svájci szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/svájci szerző.md), [szexuálpszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szexuálpszichológia.md), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia.md), [szerelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szerelem.md), [szexualitás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szexualitás.md)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nogradi%2C%20Gyorgy/40%20ev%20alatt%20a%20Fold%20korul%20%28991%29/40%20ev%20alatt%20a%20Fold%20korul%20-%20Nogradi%2C%20Gyorgy.epub)
 
 ### Tagek
-[biography & autobiography](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/biography & autobiography), [életrajzok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életrajzok), [visszaemlékezések](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/visszaemlékezések), [önéletrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önéletrajz)
+[biography & autobiography](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/biography & autobiography.md), [életrajzok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életrajzok.md), [visszaemlékezések](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/visszaemlékezések.md), [önéletrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önéletrajz.md)
 
 ### Összefoglalás
 <div>

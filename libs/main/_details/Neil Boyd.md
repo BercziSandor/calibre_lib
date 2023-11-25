@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Boyd/Egek%2C%20mitevo%20legyek_%20%28922%29/Egek%2C%20mitevo%20legyek_%20-%20Neil%20Boyd.epub)
 
 ### Tagek
-[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [anekdota](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/anekdota), [angol humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol humor), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros)
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [anekdota](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/anekdota.md), [angol humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol humor.md), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros.md)
 
 ### Összefoglalás
 <p class="description">Anekdoták füzérét kapja kézhez kedves olvasónk, melyeknek főhőse az író, Neil atya, és Duddleswell atya, egy kis londoni kerület plébánosa, akik állandóan harcban állnak a hívek megnyeréséért, az adományok megszerzéséért. Neil Boyd ügyesen elkerüli az egyes szám első személyben írt művek gyakori buktatóját: önmaga álszerénységgel leplezett előtérbe tolását. A történetek – melyek közt kissé pikáns is akad – sohasem sértőek, de nagyon mulatságosak.</p>
@@ -18,7 +18,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Boyd/Atyak%20pacban%20%28923%29/Atyak%20pacban%20-%20Neil%20Boyd.epub)
 
 ### Tagek
-[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [papság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/papság), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallás)
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros.md), [papság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/papság.md), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallás.md)
 
 ### Összefoglalás
 <p class="description">„Egek. mitévő legyek?” – így sóhajtott fel Neil Boyd atya az e címen a közelmúltban megjelent fergetegesen vidám könyvében, amikor nehéz helyzetekből kellett kivágnia magát. Mulatságos történeteinek sorát most ebben a kötetben folytatja. A biciklin közlekedő londoni ifjú káplán, meg az ócska tragacsát életveszélyesen vezető Duddleswell atya gyakran kerül „pácba”. Furcsa helyzetek, különc figurák okoznak gondot az atyáknak – meg kell oldaniuk az iskolai „szexuális felvilágosítás” ügyét, a dúsgazdag kleptomániás öreg hölgy lopott zoknijainak értékesítését, elhárítani a kertjében disznókat nevelő bukméker haragját. „Jó szívű rabló”, jámbor börtöntöltelék, gondozásra váró csecsemők és még sokan mások tűnnek fel a kedvesen vidám könyv lapján. A két pap emberszeretettel és találékonysággal minden nehézségen úrrá lesz… Olvasók pedig jókat nevethetnek hőseink és barátaik nem mindennapi kalandjain.</p>

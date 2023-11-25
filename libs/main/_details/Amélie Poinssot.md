@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Amelie%20Poinssot/Orban%20Viktor%20fejeben%20%281644%29/Orban%20Viktor%20fejeben%20-%20Amelie%20Poinssot.epub)
 
 ### Tagek
-[politika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/politika), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [orbán](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orbán)
+[politika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/politika.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő.md), [orbán](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orbán.md)
 
 ### Összefoglalás
 <div>

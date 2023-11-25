@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/John%20le%20Carre/Egy%20tokeletes%20kem%20%281000%29/Egy%20tokeletes%20kem%20-%20John%20le%20Carre.epub)
 
 ### Tagek
-[angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [kémregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kémregény), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom)
+[angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző.md), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző.md), [kémregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kémregény.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény.md), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom.md)
 
 ### Összefoglalás
 <div>

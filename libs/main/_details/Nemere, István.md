@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nemere%2C%20Istvan/Szelhamosok%20konyve%20%281015%29/Szelhamosok%20konyve%20-%20Nemere%2C%20Istvan.epub)
 
 ### Tagek
-[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs.md), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi.md)
 
 ### Összefoglalás
 <p class="description">A szélhámosok nem gyilkolnak, nem rabolnak, nem fosztják ki az embereket, nem okoznak túl nagy szenvedéseket. De azért azt sem szabad hinnünk, hogy ártalmatlanok, és ez a kis könyv a csalók dicsérete lesz. Egyszerűen szeretném Önöket megismertetni azokkal a névtelenül bemutatott nőkkel és férfiakkal, akik itthon és külföldön, különösen az utóbbi évek nagy átalakulásai közben érdekes, ügyes, sőt olykor egyenesen szellemes szélhámoskodásokra adták a fejüket. Azt hiszem, nem csak olyanokkal találkoznak majd e lapokon, akik már lebuktak és megérdemelt börtönbüntetésüket töltik. Lesz szó még szabadon „garázdálkodókról” is. És azokról, akik szinte itt az orrunk előtt tevékenykednek, és nem vesszük észre őket. Mert nagyon ügyesen álcázzák magukat…</p>

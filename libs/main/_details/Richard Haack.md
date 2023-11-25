@@ -7,7 +7,7 @@
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Haack%2C%20Richard/Kemek%20konyve%20%28377%29/Kemek%20konyve%20-%20Richard%20Haack.epub)
 
 ### Tagek
-[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [titkosszolgálat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/titkosszolgálat), [megtörtént bűnügyek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/megtörtént bűnügyek), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [dokumentumregények](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/dokumentumregények)
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [titkosszolgálat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/titkosszolgálat.md), [megtörtént bűnügyek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/megtörtént bűnügyek.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom.md), [dokumentumregények](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/dokumentumregények.md)
 
 ### Összefoglalás
 <div>

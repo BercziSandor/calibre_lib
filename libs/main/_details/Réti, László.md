@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Reti%2C%20Laszlo/Az%20ellenkezo%20nem%20%281703%29/Az%20ellenkezo%20nem%20-%20Reti%2C%20Laszlo.epub)
 
 ### Tagek
-[párkapcsolat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/párkapcsolat), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor), [szatíra](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szatíra)
+[párkapcsolat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/párkapcsolat.md), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor.md), [szatíra](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szatíra.md)
 
 ### Összefoglalás
 <div>

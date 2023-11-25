@@ -16,7 +16,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csanyi%2C%20Vilmos/Ime%2C%20az%20ember%20%281716%29/Ime%2C%20az%20ember%20-%20Csanyi%2C%20Vilmos.epub)
 
 ### Tagek
-[humánetológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humánetológia)
+[humánetológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humánetológia.md)
 
 # <a name="id_1713">Csányi, Vilmos: Segítség, kutyás lettem! </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csanyi%2C%20Vilmos/Segitseg%2C%20kutyas%20lettem%21%20%281713%29/cover.jpg" alt="cover" width="300"/>
@@ -25,7 +25,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csanyi%2C%20Vilmos/Segitseg%2C%20kutyas%20lettem%21%20%281713%29/Segitseg%2C%20kutyas%20lettem%21%20-%20Csanyi%2C%20Vilmos.epub)
 
 ### Tagek
-[etológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/etológia), [kutya](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kutya)
+[etológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/etológia.md), [kutya](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kutya.md)
 
 ### Összefoglalás
 <div>
@@ -39,7 +39,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csanyi%2C%20Vilmos/Az%20Emberi%20Termeszet%20%28308%29/Az%20emberi%20termeszet%20-%20Csanyi%2C%20Vilmos.epub)
 
 ### Tagek
-[humánetológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humánetológia), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [biológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/biológia), [etológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/etológia), [természettudomány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/természettudomány)
+[humánetológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humánetológia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő.md), [biológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/biológia.md), [etológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/etológia.md), [természettudomány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/természettudomány.md)
 
 ### Összefoglalás
 <p class="description">A modern társadalomban élő ember egyre jobban érdelkődik az emberi természet és a társadalom kialakulásának, működésének tudományos vizsgálata iránt, mert ilyen módon szeretne választ kapni a saját problémáira és szűkebb-tágabb közösségének megoldatlan kérdéseire. Ma már sok tudományág foglalkozik az emberi viselkedéssel- sokféleképpen. Valamiféle szintézisre van szükség, amelyhez az egyes részterületek információi hozzákapcsolhatók.</p>
@@ -52,7 +52,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csanyi%2C%20Vilmos/Marci%2C%20a%20beszelo%20kutya%20%281714%29/Marci%2C%20a%20beszelo%20kutya%20-%20Csanyi%2C%20Vilmos.epub)
 
 ### Tagek
-[etológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/etológia), [kutya](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kutya)
+[etológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/etológia.md), [kutya](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kutya.md)
 
 ### Összefoglalás
 <div>
@@ -77,7 +77,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csanyi%2C%20Vilmos/A%20kutyak%20szoros%20gyerekek%20%281719%29/A%20kutyak%20szoros%20gyerekek%20-%20Csanyi%2C%20Vilmos.epub)
 
 ### Tagek
-[etológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/etológia), [kutya](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kutya)
+[etológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/etológia.md), [kutya](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kutya.md)
 
 ### Összefoglalás
 <div>
@@ -92,7 +92,7 @@
  [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csanyi%2C%20Vilmos/Ironikus%20etologia%20%281720%29/Ironikus%20etologia%20-%20Csanyi%2C%20Vilmos.pdf)
 
 ### Tagek
-[etológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/etológia)
+[etológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/etológia.md)
 
 ### Összefoglalás
 <div>
@@ -106,7 +106,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csanyi%2C%20Vilmos/Jeromos%2C%20a%20baratom%20-%20A%20kutyak%20szeri%20%281718%29/Jeromos%2C%20a%20baratom%20-%20A%20kutyak%20s%20-%20Csanyi%2C%20Vilmos.epub)
 
 ### Tagek
-[állatvilág](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állatvilág), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [kutya](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kutya), [etológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/etológia)
+[állatvilág](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állatvilág.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő.md), [kutya](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kutya.md), [etológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/etológia.md)
 
 ### Összefoglalás
 <div>
@@ -120,7 +120,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csanyi%2C%20Vilmos/Draga%20barataim%2C%20kedves%20majmok%20%281712%29/Draga%20barataim%2C%20kedves%20majmok%20-%20Csanyi%2C%20Vilmos.epub)
 
 ### Tagek
-[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [biológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/biológia), [humánetológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humánetológia), [kultúra](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kultúra), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [társadalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társadalom)
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század.md), [biológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/biológia.md), [humánetológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humánetológia.md), [kultúra](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kultúra.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [társadalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társadalom.md)
 
 ### Összefoglalás
 <div>
@@ -135,7 +135,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csanyi%2C%20Vilmos/Edes%20Janka%20%281715%29/Edes%20Janka%20-%20Csanyi%2C%20Vilmos.epub)
 
 ### Tagek
-[etológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/etológia), [kutya](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kutya)
+[etológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/etológia.md), [kutya](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kutya.md)
 
 ### Összefoglalás
 <div>

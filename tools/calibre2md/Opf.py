@@ -43,7 +43,8 @@ class Opf:
                f"{'(' + str(self.dt.year) + ')' if self.dt.year > 101 else ''}"
 
     def get_tag_link(self, subj):
-        tag_file_link = self.library[0].catalog_url + f"/_details/_tags/{subj}"
+        tag_file_link = self.library[0].catalog_url + f"/_details/_tags/" \
+                                                      f"{subj}.md"
         return f"[{subj}]({tag_file_link})"
 
     def get_md_details(self):

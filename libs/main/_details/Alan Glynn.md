@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alan%20Glynn/Csucshatas%20%28295%29/Csucshatas%20-%20Alan%20Glynn.epub)
 
 ### Tagek
-[amerikai egyesült államok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai egyesült államok), [függőség](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/függőség), [ír szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ír szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [new york](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/new york), [sci-fi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sci-fi), [tőzsde](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tőzsde), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció)
+[amerikai egyesült államok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai egyesült államok.md), [függőség](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/függőség.md), [ír szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ír szerző.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [new york](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/new york.md), [sci-fi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sci-fi.md), [tőzsde](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tőzsde.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció.md)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Luc%20Besson/Arthur%20es%20a%20villangok%20%28899%29/Arthur%20es%20a%20villangok%20-%20Luc%20Besson.epub)
 
 ### Tagek
-[filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [francia szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/francia szerző), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekkönyv iskolásoknak), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [meseregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/meseregény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része)
+[filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció.md), [francia szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/francia szerző.md), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekkönyv iskolásoknak.md), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [meseregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/meseregény.md), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része.md)
 
 ### Összefoglalás
 <div>

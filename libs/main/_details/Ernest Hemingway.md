@@ -9,7 +9,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ernest%20Hemingway/Akiert%20a%20harang%20szol%20%281196%29/Akiert%20a%20harang%20szol%20-%20Ernest%20Hemingway.epub)
 
 ### Tagek
-[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [literary](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/literary), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general)
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction.md), [literary](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/literary.md), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics.md), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general.md)
 
 ### Összefoglalás
 <div>
@@ -23,7 +23,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ernest%20Hemingway/Az%20oreg%20halasz%20es%20a%20tenger%20%281025%29/Az%20oreg%20halasz%20es%20a%20tenger%20-%20Ernest%20Hemingway.epub)
 
 ### Tagek
-[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [literary](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/literary), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction.md), [literary](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/literary.md), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom.md)
 
 ### Összefoglalás
 <div>

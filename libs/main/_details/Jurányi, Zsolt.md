@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Juranyi%2C%20Zsolt/Az%20alvilag%20zsoldjaban%20%28374%29/Az%20alvilag%20zsoldjaban%20-%20Juranyi%2C%20Zsolt.epub)
 
 ### Tagek
-[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime)
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction.md), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime.md)
 
 ### Összefoglalás
 <div>

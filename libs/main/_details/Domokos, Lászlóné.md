@@ -5,5 +5,5 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Domokos%2C%20Laszlone/Kezdok%20es%20haladok%20mindentudo%20szakac%20%28608%29/Kezdok%20es%20haladok%20mindentudo%20sz%20-%20Domokos%2C%20Laszlone.epub)
 
 ### Tagek
-[konyha](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/konyha), [szakácskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szakácskönyv), [receptek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/receptek)
+[konyha](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/konyha.md), [szakácskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szakácskönyv.md), [receptek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/receptek.md)
 

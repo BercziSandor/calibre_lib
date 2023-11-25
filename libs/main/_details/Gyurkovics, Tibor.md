@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gyurkovics%2C%20Tibor/Kudi%2C%20a%20levegoember%20%281276%29/Kudi%2C%20a%20levegoember%20-%20Gyurkovics%2C%20Tibor.epub)
 
 ### Tagek
-[gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekkönyv iskolásoknak), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [meseregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/meseregény), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
+[gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekkönyv iskolásoknak.md), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [meseregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/meseregény.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény.md)
 
 ### Összefoglalás
 <div>

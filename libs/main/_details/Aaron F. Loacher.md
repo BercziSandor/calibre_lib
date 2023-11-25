@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Aaron%20F.%20Loacher/Idojaror%20%28999%29/Idojaror%20-%20Aaron%20F.%20Loacher.epub)
 
 ### Tagek
-[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [időutazás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/időutazás), [sci-fi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sci-fi)
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző.md), [időutazás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/időutazás.md), [sci-fi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sci-fi.md)
 
 ### Összefoglalás
 <div>

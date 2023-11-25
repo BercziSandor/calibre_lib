@@ -5,7 +5,7 @@
 [prc](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jean-Christophe%20Grange/Bibor%20folyok%20%28621%29/Bibor%20folyok%20-%20Jean-Christophe%20Grange.prc)
 
 ### Tagek
-[francia szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/francia szerző), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció)
+[francia szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/francia szerző.md), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller.md), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció.md)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mozes%2C%20Istvan%20Miklos/1200%20talalos%20kerdes%20a%20magyar%20folklo%20%28897%29/1200%20talalos%20kerdes%20a%20magyar%20fo%20-%20Mozes%2C%20Istvan%20Miklos.epub)
 
 ### Tagek
-[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [népköltészet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/népköltészet), [néprajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/néprajz), [találós kérdés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/találós kérdés), [folklór](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/folklór), [magyar kultúra](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar kultúra)
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű.md), [népköltészet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/népköltészet.md), [néprajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/néprajz.md), [találós kérdés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/találós kérdés.md), [folklór](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/folklór.md), [magyar kultúra](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar kultúra.md)
 
 ### Összefoglalás
 <div>
