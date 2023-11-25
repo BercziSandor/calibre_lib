@@ -70,6 +70,9 @@ class Library:
     def get_md_for_auth(self, creator, books):
         doc = snakemd.new_doc("Example")
 
+    def gen_md_tags(self):
+        pass
+
     def gen_md(self):
         details_content = "### Részletek\n"
         catalog_file_name = 'catalog.md'
@@ -87,20 +90,21 @@ class Library:
         doc.add_header("Könyvek")
         doc.add_table_of_contents()
 
-        # doc.add_paragraph("par1_text")
-        doc.add_header("Tagek szerint", level=2)
-        for tag, opfs in books_tags.items():
-            doc.add_header(tag, level=3)
-            books = []
-            for opf in opfs:
-                if len(opf.books) > 0:
-                    creator=opf.creator
-                    details_file_name = f"{creator}.md"
-                    details_file_name_quoted = urllib.parse.quote(
-                        "_details/" + details_file_name)
-                    link_details = f"[részletek]({details_file_name_quoted}#id_{opf.id})"
-                    books.append(f"{opf.creator}: {opf.title} {link_details}")
-            doc.add_unordered_list(books)
+        if False:
+            # doc.add_paragraph("par1_text")
+            doc.add_header("Tagek szerint", level=2)
+            for tag, opfs in books_tags.items():
+                doc.add_header(tag, level=3)
+                books = []
+                for opf in opfs:
+                    if len(opf.books) > 0:
+                        creator = opf.creator
+                        details_file_name = f"{creator}.md"
+                        details_file_name_quoted = urllib.parse.quote(
+                            "_details/" + details_file_name)
+                        link_details = f"[részletek]({details_file_name_quoted}#id_{opf.id})"
+                        books.append(f"{opf.creator}: {opf.title} {link_details}")
+                doc.add_unordered_list(books)
 
         doc.add_header("Szerzők szerint", level=2)
 
