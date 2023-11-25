@@ -6,6 +6,7 @@ authors = ["Berczi Sandor <sandor.berczi@urss.hu>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+snakemd = "^2.2.0"
 
 [tool.poetry.dev-dependencies]
 

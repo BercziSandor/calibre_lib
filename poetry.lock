@@ -1,8 +1,18 @@
-package = []
+[[package]]
+name = "snakemd"
+version = "2.2.0"
+description = "A markdown generation library for Python."
+category = "main"
+optional = false
+python-versions = ">=3.8,<4.0"
 
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "17ca553b0bb9298a6ed528dd21e544ca433179192dba32a9920168e1c199d74f"
+content-hash = "f0d3db53a3bb88a8440568429aa3a5594b5be99a3443f2cee9a9b5752b23d5a5"
 
 [metadata.files]
+snakemd = [
+    {file = "snakemd-2.2.0-py3-none-any.whl", hash = "sha256:8f2458341fb9700c1d17c2be8b43236a32568a915b1436a923edd9e4e0403d05"},
+    {file = "snakemd-2.2.0.tar.gz", hash = "sha256:da3603e1ee76952bdd6051ee5bf35f7ed5e6d523d57bbe21b26411f8ca5d34ce"},
+]

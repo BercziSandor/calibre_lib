@@ -2,6 +2,7 @@ import os
 import pathlib
 import sys
 import urllib
+from collections import defaultdict
 from typing import Dict
 
 import snakemd
@@ -21,30 +22,35 @@ class Library:
         self.opfs = self.get_opfs()
 
     @staticmethod
-    def sort_books(opfs) -> Dict:
-        data_auth_year_series = {}
+    def sort_books_tag(opfs) -> Dict:
+        data_tags = {}
+
         for opf in opfs:
-            if opf.creator not in data_auth_year_series:
-                data_auth_year_series[opf.creator] = {
-                    'series': {},
-                    'others': {}
-                }
+            subjects = opf.subjects
+            if not opf.subjects:
+                subjects = ['_notTagged']
+
+            for tag in opf.subjects:
+                if tag not in data_tags:
+                    data_tags[tag] = []
+                data_tags[tag].append(opf)
+
+        return dict(data_tags)
+
+    @staticmethod
+    def sort_books_auth_year(opfs) -> Dict:
+        data_auth_year_series = defaultdict(
+            lambda: {'series': defaultdict(dict), 'others': defaultdict(list)})
+
+        for opf in opfs:
             if opf.series:
-                if opf.series not in data_auth_year_series[opf.creator][
-                    'series']:
-                    data_auth_year_series[opf.creator]['series'][
-                        opf.series] = {}
                 data_auth_year_series[opf.creator]['series'][opf.series][
                     opf.series_index] = opf
             else:
-                if opf.dt.year not in data_auth_year_series[opf.creator][
-                    'others']:
-                    data_auth_year_series[opf.creator]['others'][
-                        opf.dt.year] = []
                 data_auth_year_series[opf.creator]['others'][
-                    opf.dt.year].append(
-                    opf)
-        return data_auth_year_series
+                    opf.dt.year].append(opf)
+
+        return dict(data_auth_year_series)
 
     def get_url(self, file_path: pathlib.Path):
         u = urllib.parse.quote(
@@ -68,7 +74,12 @@ class Library:
         details_content = "### Részletek\n"
         catalog_file_name = 'catalog.md'
         details_file_name = 'catalog_details.md'
-        books_auth_year_series = self.sort_books(self.opfs)
+        books_auth_year_series = self.sort_books_auth_year(self.opfs)
+        books_tags = self.sort_books_tag(self.opfs)
+
+        details_folder = self.root_dir / '_details'
+        if not details_folder.exists():
+            details_folder.mkdir()
 
         # https://github.com/TheRenegadeCoder/SnakeMD
         # https://therenegadecoder.com/code/the-complete-guide-to-snakemd-a-python-library-for-generating-markdown/
@@ -77,12 +88,21 @@ class Library:
         doc.add_table_of_contents()
 
         # doc.add_paragraph("par1_text")
-        doc.add_header("Szerzők szerint", level=2)
         doc.add_header("Tagek szerint", level=2)
+        for tag, opfs in books_tags.items():
+            doc.add_header(tag, level=3)
+            books = []
+            for opf in opfs:
+                if len(opf.books) > 0:
+                    creator=opf.creator
+                    details_file_name = f"{creator}.md"
+                    details_file_name_quoted = urllib.parse.quote(
+                        "_details/" + details_file_name)
+                    link_details = f"[részletek]({details_file_name_quoted}#id_{opf.id})"
+                    books.append(f"{opf.creator}: {opf.title} {link_details}")
+            doc.add_unordered_list(books)
 
-        details_folder = self.root_dir / '_details'
-        if not details_folder.exists():
-            details_folder.mkdir()
+        doc.add_header("Szerzők szerint", level=2)
 
         for creator, books in books_auth_year_series.items():
             doc.add_header(creator, level=3)
@@ -97,22 +117,22 @@ class Library:
                 for serie in sorted(books['series']):
                     titles_list = []
                     for index in sorted(books['series'][serie]):
-                        o: Opf = books['series'][serie][index]
+                        opf: Opf = books['series'][serie][index]
                         link_download = ""
-                        if len(o.books) > 0:
-                            book = o.books[0]
+                        if len(opf.books) > 0:
+                            book = opf.books[0]
                             url = self.get_url(book)
                             filename, file_extension = os.path.splitext(
                                 book)
                             link_download = f"[{file_extension.replace('.', '')}]" \
                                             f"({url})"
-                            o.link_download = link_download
+                            opf.link_download = link_download
 
-                        link_details = f"[részletek]({details_file_name_quoted}#id_{o.id})"
+                        link_details = f"[részletek]({details_file_name_quoted}#id_{opf.id})"
                         titles_list.append(
-                            f"{index} ({o.dt.year}) - {o.title} "
+                            f"{index} ({opf.dt.year}) - {opf.title} "
                             f"{link_details} {link_download}\n")
-                        details_content += (o.get_md_details())
+                        details_content += (opf.get_md_details())
                     doc.add_paragraph(f"{serie}:")
                     doc.add_unordered_list(titles_list)
                     # doc.add_paragraph(f"{serie}:\n").add(
@@ -124,20 +144,20 @@ class Library:
                     "Egyéb könyvek:")
                 titles_list = []
                 for year in sorted(books['others']):
-                    for o in books['others'][year]:
+                    for opf in books['others'][year]:
                         link_download = ""
-                        if len(o.books) > 0:
-                            book = o.books[0]
+                        if len(opf.books) > 0:
+                            book = opf.books[0]
                             url = self.get_url(book)
                             filename, file_extension = os.path.splitext(
                                 book)
                             link_download = f"[{file_extension.replace('.', '')}]" \
                                             f"({url})"
                         link_details = f"[details](" \
-                                       f"{details_file_name_quoted}#id_{o.id})"
-                        titles_list.append(f"({year}) - {o.title} "
+                                       f"{details_file_name_quoted}#id_{opf.id})"
+                        titles_list.append(f"({year}) - {opf.title} "
                                            f"{link_details} {link_download}")
-                        details_content += (o.get_md_details())
+                        details_content += (opf.get_md_details())
                 doc.add_unordered_list(titles_list)
             out_file_details = details_folder / details_file_name
             out_file_details.write_text(details_content, encoding='utf-8')
