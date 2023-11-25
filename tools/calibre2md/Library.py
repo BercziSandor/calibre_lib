@@ -73,7 +73,7 @@ class Library:
         doc = snakemd.new_doc("Example")
 
     def gen_md_by_tags(self):
-        catalog_file_name = 'catalog_tags.md'
+        tagList_file_name = 'catalog_tags.md'
         tag_file_name = 'catalog_tags_details.md'
         books_tags = self.sort_books_tag(self.opfs)
 
@@ -83,15 +83,15 @@ class Library:
 
         # https://github.com/TheRenegadeCoder/SnakeMD
         # https://therenegadecoder.com/code/the-complete-guide-to-snakemd-a-python-library-for-generating-markdown/
-        doc = snakemd.new_doc("Example")
-        doc.add_header("Tagek")
+        md_TagList = snakemd.new_doc("Example")
+        md_TagList.add_header("Tagek")
         tags = ""
         for tag in sorted(books_tags.keys()):
             tag_file = self.root_dir / "_tags" / f"{self.get_tag_corrected(tag)}.md"
 
             # generate content for tag X
-            docTag = snakemd.new_doc(tag)
-            docTag.add_header(tag)
+            md_Tag = snakemd.new_doc(tag)
+            md_Tag.add_header(tag)
             opfs = books_tags.get(tag)
             books = []
             for opf in opfs:
@@ -100,20 +100,21 @@ class Library:
                         "../_details/" + opf.creator + ".md")
                     link_details = f"[részletek]({details_file_name_quoted}#id_{opf.id})"
                     books.append(f"{opf.creator}: {opf.title} {link_details}")
-            docTag.add_unordered_list(books)
+            md_Tag.add_unordered_list(books)
 
-            tag_file.write_text(str(docTag), encoding='utf-8')
+            tag_file.write_text(str(md_Tag), encoding='utf-8')
 
-            tag_file_name_quoted = urllib.parse.quote(
-                tag_file_name)
+            tag_file_name_quoted = self.catalog_url + "/blob/main/_tags/" + urllib.parse.quote(
+                    f"{self.get_tag_corrected(tag)}.md")
             tags += f"[{tag}]({tag_file_name_quoted}) "
-        doc.add_paragraph(tags)
 
-        catalog_content = str(doc)
-        out_file = self.root_dir / catalog_file_name
-        out_file.write_text(catalog_content, encoding='utf-8')
+        md_TagList.add_paragraph(tags)
 
-        return out_file
+        tagList_file = self.root_dir / tagList_file_name
+        tagList_file.write_text(str(md_TagList), encoding='utf-8')
+
+        return tagList_file
+
 
     def gen_md_by_authors(self):
         details_content = "### Részletek\n"
@@ -197,10 +198,12 @@ class Library:
         # print(md_content)
         return out_file
 
+
     def get_tag_corrected(self, subj):
         return subj.replace("(", " ").replace(")", " ").replace(
             "\\", "_").replace(
             "/", "_").replace("  ", " ").rstrip().lstrip()
+
 
     def get_tag_link(self, subj):
         tag_file_link = f"{self.catalog_url}/_tags/" + \
