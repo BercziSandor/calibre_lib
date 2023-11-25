@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Leanyrablas%20Budapesten%20%281572%29/Leanyrablas%20Budapesten%20-%20Boszormenyi%2C%20Gyula.epub)
 
 ### Tagek
-[krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/krimi.md)
+[krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/krimi.md)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/A%20Rudnay-gyilkossagok%20%281573%29/A%20Rudnay-gyilkossagok%20-%20Boszormenyi%2C%20Gyula.epub)
 
 ### Tagek
-[krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/krimi.md)
+[krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/krimi.md)
 
 ### Összefoglalás
 <div>
@@ -44,7 +44,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Armany%20%20es%20kezfogo%20%281565%29/Armany%20%20es%20kezfogo%20-%20Boszormenyi%2C%20Gyula.epub)
 
 ### Tagek
-[krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/krimi.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/romantikus.md), [magyar](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md)
+[krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/krimi.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/romantikus.md), [magyar](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md)
 
 ### Összefoglalás
 <div><div>A naptár 1900-ról lassanként 1901-re vált, miként a négy esztendővel korábban elrabolt Hangay Emma ügye is hátborzongató fordulatot vesz. Ambrózy báró, az Osztrák-Magyar Monarchia első magándetektívje és hű segítőtársa, Mili kisasszony új nyomra lel, ám az ösvény, melyre ezáltal lépnek, sokkal tüskésebb, nyaktörőbb és veszélyesebb, mint azt bármelyikük is sejtené. Vajon a morc báró miért válik egyre titokzatosabbá, sőt, kegyetlenné és gonosszá azokkal szemben, akik szeretik, s hogyan lesz képes mindezt Mili kisasszony elviselni? Mit rejt a Magyar utcai ház, miért lop lovat Mück Márika, kinek vall szerelmet Tarján Vili, és hány holttest kell még ahhoz, hogy a háttérben működő gonosztevők nehéz vasba veressenek? </div><div>A békebeli bűn- és szívügyek, melyek a Leányrablás Budapesten és A Rudnay-gyilkosságok című regényekben még homályban maradtak, most végre tán megoldásra lelnek.</div></div>
@@ -52,7 +52,7 @@
 
 # <a name="id_1578">Böszörményi, Gyula: Bitó és borostyán (Ambrózy báró esetei 3.5) (2017)</a>
 ### Tagek
-[magyar](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/krimi.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md)
+[magyar](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/krimi.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md)
 
 ### Összefoglalás
 <div>
@@ -152,7 +152,7 @@
 
 # <a name="id_1581">Böszörményi, Gyula: Lúzer Rádió, Budapest! (Lúzer Rádió 1) (2016)</a>
 ### Tagek
-[ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/ifj%c3%bas%c3%a1gi.md)
+[ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/ifj%c3%bas%c3%a1gi.md)
 
 ### Összefoglalás
 Marcel 13 éves, mikor a családjával a „Nyócker” színes, zajos, rémisztően forgatagos világába költözik. Mikor a vén bérház padlásán rátalál Volna-K-ra, az ősi rádió adó-vevőre, ötlete támad: félelmeit, örömeit, gondolatait mind az éterbe küldi, miközben az elhagyatott templom titkát is megfejti. A Lúzer rádió az Égigérő fű, a Keménykalap és Krumpliorr és a Szeleburdi család sokak által szeretett világába repíti el az olvasót.
@@ -195,7 +195,7 @@ Marcel 13 éves, mikor a családjával a „Nyócker” színes, zajos, rémiszt
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Ruvel%20hegyi%20legenda%20%281589%29/Ruvel%20hegyi%20legenda%20-%20Boszormenyi%2C%20Gyula.epub)
 
 ### Tagek
-[gyermek- és ifjúsági irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/gyermek-%20%c3%a9s%20ifj%c3%bas%c3%a1gi%20irodalom.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/ifj%c3%bas%c3%a1gi.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kaland.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kalandreg%c3%a9ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [mese](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/mese.md), [meseregény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/mesereg%c3%a9ny.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/sorozat%20r%c3%a9sze.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/fantasy.md)
+[gyermek- és ifjúsági irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/gyermek-%20%c3%a9s%20ifj%c3%bas%c3%a1gi%20irodalom.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/ifj%c3%bas%c3%a1gi.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kaland.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kalandreg%c3%a9ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [mese](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/mese.md), [meseregény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/mesereg%c3%a9ny.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/sorozat%20r%c3%a9sze.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fantasy.md)
 
 ### Összefoglalás
 <div>

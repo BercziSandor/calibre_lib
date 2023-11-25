@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%209_%20%281368%29/Az%20utolso%20tolteny%209_%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[életrajz](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/%c3%a9letrajz.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/reg%c3%a9ny.md)
+[életrajz](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/%c3%a9letrajz.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reg%c3%a9ny.md)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%2010_%20%281366%29/Az%20utolso%20tolteny%2010_%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[életrajz](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/%c3%a9letrajz.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md)
+[életrajz](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/%c3%a9letrajz.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%2011_%20%281367%29/Az%20utolso%20tolteny%2011_%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/20.%20sz%c3%a1zad.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md)
+[20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/20.%20sz%c3%a1zad.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md)
 
 ### Összefoglalás
 <div>
@@ -47,7 +47,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%2012_%20%281400%29/Az%20utolso%20tolteny%2012_%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [memoár](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/memo%c3%a1r.md), [életrajz](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/%c3%a9letrajz.md)
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [memoár](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/memo%c3%a1r.md), [életrajz](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/%c3%a9letrajz.md)
 
 ### Összefoglalás
 <div>
@@ -61,7 +61,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Harcolj%20vagy%20menekulj%21%20%28344%29/Harcolj%20vagy%20menekulj%21%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[bulvár](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/bulv%c3%a1r.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/riport.md), [tényfeltáró riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/t%c3%a9nyfelt%c3%a1r%c3%b3%20riport.md), [tűzoltóság](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/t%c5%b1zolt%c3%b3s%c3%a1g.md)
+[bulvár](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/bulv%c3%a1r.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/riport.md), [tényfeltáró riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/t%c3%a9nyfelt%c3%a1r%c3%b3%20riport.md), [tűzoltóság](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/t%c5%b1zolt%c3%b3s%c3%a1g.md)
 
 ### Összefoglalás
 A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A tűzoltók között több főiskolát, egyetemet végzett embert találunk. Izgalmas kérdés, hogy valaki orvos végzettséggel miért a tűzoltó hivatást választja. A könyvben végig követhetjük a tűzoltók munkáját, élesben a riasztástól, a tűz eloltásáig.
@@ -74,7 +74,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Harcolj%20vagy%20menekulj%21%20%28345%29/Harcolj%20vagy%20menekulj%21%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[bulvár](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/bulv%c3%a1r.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/riport.md), [tényfeltáró riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/t%c3%a9nyfelt%c3%a1r%c3%b3%20riport.md), [tűzoltóság](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/t%c5%b1zolt%c3%b3s%c3%a1g.md)
+[bulvár](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/bulv%c3%a1r.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/riport.md), [tényfeltáró riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/t%c3%a9nyfelt%c3%a1r%c3%b3%20riport.md), [tűzoltóság](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/t%c5%b1zolt%c3%b3s%c3%a1g.md)
 
 ### Összefoglalás
 A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A tűzoltók között több főiskolát, egyetemet végzett embert találunk. Izgalmas kérdés, hogy valaki orvos végzettséggel miért a tűzoltó hivatást választja. A könyvben végig követhetjük a tűzoltók munkáját, élesben a riasztástól, a tűz eloltásáig.
@@ -87,7 +87,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Kegyelemkenyer%201_%20%281399%29/Kegyelemkenyer%201_%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyarorsz%c3%a1g.md), [nyugdíj](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/nyugd%c3%adj.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/riport.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/sorozat%20r%c3%a9sze.md), [szociográfia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szociogr%c3%a1fia.md)
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyarorsz%c3%a1g.md), [nyugdíj](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/nyugd%c3%adj.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/riport.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/sorozat%20r%c3%a9sze.md), [szociográfia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/szociogr%c3%a1fia.md)
 
 ### Összefoglalás
 <div>
@@ -107,7 +107,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Kadar%20Janos%20%28370%29/Kadar%20Janos%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/20.%20sz%c3%a1zad.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/elbesz%c3%a9l%c3%a9s.md), [életrajz](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/%c3%a9letrajz.md), [kommunizmus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kommunizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyarorsz%c3%a1g.md), [magyarság](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyars%c3%a1g.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/t%c3%b6rt%c3%a9nelem.md)
+[20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/20.%20sz%c3%a1zad.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/elbesz%c3%a9l%c3%a9s.md), [életrajz](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/%c3%a9letrajz.md), [kommunizmus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kommunizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyarorsz%c3%a1g.md), [magyarság](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyars%c3%a1g.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/t%c3%b6rt%c3%a9nelem.md)
 
 ### Összefoglalás
 <div>
@@ -121,7 +121,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/A%20nepet%20le%20kell%20valtani%20%281395%29/A%20nepet%20le%20kell%20valtani%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[aforizma](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/aforizma.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/humoros.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [társadalomkritika](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/t%c3%a1rsadalomkritika.md)
+[aforizma](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/aforizma.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/humoros.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [társadalomkritika](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/t%c3%a1rsadalomkritika.md)
 
 ### Összefoglalás
 <div>
@@ -156,7 +156,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Az%20uj%20csaszar%20uj%20ruhaja%20%281397%29/Az%20uj%20csaszar%20uj%20ruhaja%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szat%c3%adra.md)
+[kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/szat%c3%adra.md)
 
 ### Összefoglalás
 <div>
@@ -170,7 +170,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Az%20utoved%20%281372%29/Az%20utoved%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[2. világháború](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/2.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [partizán](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/partiz%c3%a1n.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/reg%c3%a9ny.md), [magyar](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar.md)
+[2. világháború](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/2.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [partizán](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/partiz%c3%a1n.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reg%c3%a9ny.md), [magyar](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar.md)
 
 ### Összefoglalás
 <div>
@@ -190,7 +190,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Akar%20velem%20beszelgetni_%20%281364%29/Akar%20velem%20beszelgetni_%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/20.%20sz%c3%a1zad.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md)
+[20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/20.%20sz%c3%a1zad.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md)
 
 ### Összefoglalás
 <div>
@@ -204,7 +204,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/A%20beszelo%20diszno%20%281382%29/A%20beszelo%20diszno%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[1920-as évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/1920-as%20%c3%a9vek.md), [1970-es évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/1970-es%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/20.%20sz%c3%a1zad.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/elbesz%c3%a9l%c3%a9s.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/humoros.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/illusztr%c3%a1lt.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyarorsz%c3%a1g.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/novella.md), [politika](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/politika.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szat%c3%adra.md)
+[1920-as évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/1920-as%20%c3%a9vek.md), [1970-es évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/1970-es%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/20.%20sz%c3%a1zad.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/elbesz%c3%a9l%c3%a9s.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/humoros.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/illusztr%c3%a1lt.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyarorsz%c3%a1g.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/novella.md), [politika](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/politika.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/szat%c3%adra.md)
 
 ### Összefoglalás
 <div>
@@ -218,7 +218,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Magyar%20atom%20%281363%29/Magyar%20atom%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/novella.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szat%c3%adra.md)
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/novella.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/szat%c3%adra.md)
 
 ### Összefoglalás
 <div>
@@ -232,7 +232,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Egi%20szeker%20%281371%29/Egi%20szeker%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [mezőgazdaság](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/mez%c5%91gazdas%c3%a1g.md), [növényvédelem](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/n%c3%b6v%c3%a9nyv%c3%a9delem.md), [repülés](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/rep%c3%bcl%c3%a9s.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/riport.md)
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [mezőgazdaság](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/mez%c5%91gazdas%c3%a1g.md), [növényvédelem](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/n%c3%b6v%c3%a9nyv%c3%a9delem.md), [repülés](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/rep%c3%bcl%c3%a9s.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/riport.md)
 
 ### Összefoglalás
 <div>
@@ -246,7 +246,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Mehednek%20gyumolcse%20%281374%29/Mehednek%20gyumolcse%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md)
+[kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md)
 
 ### Összefoglalás
 <div>
@@ -260,7 +260,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Az%20Orseg%20panasza%20%28403%29/Az%20Orseg%20panasza%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[1970-es évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/1970-es%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/20.%20sz%c3%a1zad.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyarorsz%c3%a1g.md), [szociográfia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szociogr%c3%a1fia.md)
+[1970-es évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/1970-es%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/20.%20sz%c3%a1zad.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyarorsz%c3%a1g.md), [szociográfia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/szociogr%c3%a1fia.md)
 
 ### Összefoglalás
 Fél évig laktam az Őrség központjában, Őriszentpéteren. Fent a Baksaszeren béreltem egy szobát – havi négyszázért –, macskahímzéses díszpárnák és tetőig nedves falak között. Reggelenként átmozgattam a hidegtől merev ízületeimet, és útnak indultam, bejártam a vidéket, és próbáltam megismerkedni az emberekkel. Elment a nap, este egy sötét réten kellett átvágnom, ha esett az eső, nem láttam az orromig, a lábammal tapogatódzva kerestem a nedves házhoz vezető ösvény kikopott nyomait, fák között vitt, a talpam alatt cseresznye, alma, majd szilva nyomódott szét.
@@ -274,7 +274,7 @@ Harminc-negyven teli jegyzettömbbel jöttem haza, itthon is próbáltam kiegés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Ki%20olte%20meg%20a%20Holt-tengert_%20%281373%29/Ki%20olte%20meg%20a%20Holt-tengert_%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[1980-as évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/1980-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/20.%20sz%c3%a1zad.md), [államalapítás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/%c3%a1llamalap%c3%adt%c3%a1s.md), [beszélgetés](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/besz%c3%a9lget%c3%a9s.md), [bevándorlás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/bev%c3%a1ndorl%c3%a1s.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/h%c3%a1bor%c3%ba.md), [holokauszt](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/holokauszt.md), [izrael](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/izrael.md), [közel-kelet](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/k%c3%b6zel-kelet.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [politika](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/politika.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/riport.md), [útleírás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/%c3%batle%c3%adr%c3%a1s.md), [zsidóság](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/zsid%c3%b3s%c3%a1g.md)
+[1980-as évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/1980-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/20.%20sz%c3%a1zad.md), [államalapítás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/%c3%a1llamalap%c3%adt%c3%a1s.md), [beszélgetés](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/besz%c3%a9lget%c3%a9s.md), [bevándorlás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/bev%c3%a1ndorl%c3%a1s.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/h%c3%a1bor%c3%ba.md), [holokauszt](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/holokauszt.md), [izrael](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/izrael.md), [közel-kelet](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/k%c3%b6zel-kelet.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [politika](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/politika.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/riport.md), [útleírás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/%c3%batle%c3%adr%c3%a1s.md), [zsidóság](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/zsid%c3%b3s%c3%a1g.md)
 
 ### Összefoglalás
 <div>
@@ -288,7 +288,7 @@ Harminc-negyven teli jegyzettömbbel jöttem haza, itthon is próbáltam kiegés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Lopni%20tudni%20kell%20%281390%29/Lopni%20tudni%20kell%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[egyperces](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/egyperces.md), [humoreszk](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/humoreszk.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/reg%c3%a9ny.md)
+[egyperces](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/egyperces.md), [humoreszk](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/humoreszk.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reg%c3%a9ny.md)
 
 ### Összefoglalás
 <div>
@@ -302,7 +302,7 @@ Harminc-negyven teli jegyzettömbbel jöttem haza, itthon is próbáltam kiegés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Maganyos%20pavilon%20_%20Az%20elbocsatott%20l%20%281375%29/Maganyos%20pavilon%20_%20Az%20elbocsato%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[1956](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/1956.md), [1960-as évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/1960-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/20.%20sz%c3%a1zad.md), [forradalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/forradalom.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/reg%c3%a9ny.md), [szocializmus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szocializmus.md)
+[1956](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/1956.md), [1960-as évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/1960-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/20.%20sz%c3%a1zad.md), [forradalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/forradalom.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reg%c3%a9ny.md), [szocializmus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/szocializmus.md)
 
 ### Összefoglalás
 <div>
@@ -316,7 +316,7 @@ Harminc-negyven teli jegyzettömbbel jöttem haza, itthon is próbáltam kiegés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Akit%20szerettek%20a%20nok%20%281388%29/Akit%20szerettek%20a%20nok%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[1980-as évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/1980-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/20.%20sz%c3%a1zad.md), [bűnözés](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/b%c5%b1n%c3%b6z%c3%a9s.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/novella.md)
+[1980-as évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/1980-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/20.%20sz%c3%a1zad.md), [bűnözés](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/b%c5%b1n%c3%b6z%c3%a9s.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/novella.md)
 
 ### Összefoglalás
 <div>
@@ -330,7 +330,7 @@ Harminc-negyven teli jegyzettömbbel jöttem haza, itthon is próbáltam kiegés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/A%20nema%20sugo%20%281384%29/A%20nema%20sugo%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyarorsz%c3%a1g.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/novella.md), [politika](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/politika.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szat%c3%adra.md)
+[kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyarorsz%c3%a1g.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/novella.md), [politika](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/politika.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/szat%c3%adra.md)
 
 ### Összefoglalás
 <div>
@@ -344,7 +344,7 @@ Harminc-negyven teli jegyzettömbbel jöttem haza, itthon is próbáltam kiegés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/A%20bal%20oroszlan%20%28939%29/A%20bal%20oroszlan%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[1990-es évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/1990-es%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/20.%20sz%c3%a1zad.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyarorsz%c3%a1g.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szat%c3%adra.md)
+[1990-es évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/1990-es%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/20.%20sz%c3%a1zad.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyarorsz%c3%a1g.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/szat%c3%adra.md)
 
 ### Összefoglalás
 Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattjáró periszkópja tűnik fel előtte. A kapitány tudja, hogy nincs mentség a torpedó ellen, megkeresi a hajóbár bűvészét: – Uram, egy percen belül elsüllyedünk. Próbálja meg elterelni valamivel az utasok figyelmét. A bűvész kiáll a porondra: – Kedves uraim és hölgyeim! Egy kivételes csúcsmutatvány következik! Feldobom ezt a doboz gyufát, és mikor leesik, a hajó felrobban. Kacagás fogadja a bejelentést, a bűvész feldobja a gyufát, mire leesik, a torpedó éppen becsapódik, a hajó a levegőbe repül. A robbanás a bűvészt is kiveti a nyílt tengerre, kétségbeesetten úszkál a jeges vízben, mikor felbukkan mellette egy zordon utas feje: – Mondhatom, marha viccei vannak! Erre a bűvészre gondoltam, mikor ezt a kötetet írtam. Dobás közben abban reménykedtem, hátha mégis csoda történik, és gyufaskatulyáim eltérítik útjukból a hajónkra kilőtt torpedókat.
@@ -357,7 +357,7 @@ Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattj�
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/A%20felelem%20kapuja%20%281402%29/A%20felelem%20kapuja%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/reg%c3%a9ny.md)
+[kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reg%c3%a9ny.md)
 
 ### Összefoglalás
 <div>
@@ -371,7 +371,7 @@ Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattj�
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Bun%20az%20elet__%20%281369%29/Bun%20az%20elet__%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[1980-as évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/1980-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/20.%20sz%c3%a1zad.md), [budapest](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/budapest.md), [bűnözés](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/b%c5%b1n%c3%b6z%c3%a9s.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyarorsz%c3%a1g.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/riport.md), [szociográfia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szociogr%c3%a1fia.md)
+[1980-as évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/1980-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/20.%20sz%c3%a1zad.md), [budapest](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/budapest.md), [bűnözés](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/b%c5%b1n%c3%b6z%c3%a9s.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyarorsz%c3%a1g.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/riport.md), [szociográfia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/szociogr%c3%a1fia.md)
 
 ### Összefoglalás
 <div>
@@ -382,7 +382,7 @@ Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattj�
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/A%20jog%20zsoldosai%20%281381%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-[20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/20.%20sz%c3%a1zad.md), [jog](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/jog.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/riport.md), [ügyvéd](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/%c3%bcgyv%c3%a9d.md)
+[20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/20.%20sz%c3%a1zad.md), [jog](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/jog.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/riport.md), [ügyvéd](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/%c3%bcgyv%c3%a9d.md)
 
 ### Összefoglalás
 <div>
@@ -396,7 +396,7 @@ Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattj�
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/A%20jog%20zsoldosai%20%28352%29/A%20jog%20zsoldosai%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/20.%20sz%c3%a1zad.md), [jog](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/jog.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/riport.md), [ügyvéd](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/%c3%bcgyv%c3%a9d.md)
+[20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/20.%20sz%c3%a1zad.md), [jog](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/jog.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/riport.md), [ügyvéd](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/%c3%bcgyv%c3%a9d.md)
 
 ### Összefoglalás
 „Az ügyvéd bérelhető lelkiismeret.” Dosztojevszkij „Az ügyvédek, pártütők, bűnök és árulások koholói. Akarom, hogy ki lehessen metszeni az olyan ügyvéd nyelvét, aki a kormány ellen használja azt.” Napóleon „Az ügyvédek a rossz napok hivatásos tanúi.” H. Robert „Ha egy országba érkezem, nem azt kérdezem, hogy vannak-e jó törvényeik – ilyenek mindenütt vannak – hanem azt, hogy végrehajtják-e őket.” Montesquieu
@@ -409,7 +409,7 @@ Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattj�
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Magyarorszag%20szennybemenetele%20%281392%29/Magyarorszag%20szennybemenetele%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyarorsz%c3%a1g.md), [tényfeltáró riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/t%c3%a9nyfelt%c3%a1r%c3%b3%20riport.md), [természetvédelem](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/term%c3%a9szetv%c3%a9delem.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/riport.md)
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyarorsz%c3%a1g.md), [tényfeltáró riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/t%c3%a9nyfelt%c3%a1r%c3%b3%20riport.md), [természetvédelem](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/term%c3%a9szetv%c3%a9delem.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/riport.md)
 
 ### Összefoglalás
 <div>
@@ -423,7 +423,7 @@ Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattj�
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/A%20Balaton%20elrablasa%20%281380%29/A%20Balaton%20elrablasa%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[balaton](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/balaton.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/riport.md)
+[balaton](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/balaton.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/riport.md)
 
 ### Összefoglalás
 <div>
@@ -437,7 +437,7 @@ Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattj�
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Eg%20a%20Duna%21%20%281370%29/Eg%20a%20Duna%21%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[duna](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/duna.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/riport.md)
+[duna](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/duna.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/riport.md)
 
 ### Összefoglalás
 <div>
@@ -451,7 +451,7 @@ Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattj�
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/A%20varos%20hercege%20%281385%29/A%20varos%20hercege%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kort%c3%a1rs.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/reg%c3%a9ny.md), [kortárs krimi magyar nyelvű magyar szerző regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kort%c3%a1rs%20krimi%20magyar%20nyelv%c5%b1%20magyar%20szerz%c5%91%20reg%c3%a9ny.md)
+[kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reg%c3%a9ny.md), [kortárs krimi magyar nyelvű magyar szerző regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs%20krimi%20magyar%20nyelv%c5%b1%20magyar%20szerz%c5%91%20reg%c3%a9ny.md)
 
 ### Összefoglalás
 <div>
@@ -465,7 +465,7 @@ Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattj�
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Europa%20hatso%20udvara%20%281404%29/Europa%20hatso%20udvara%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/riport.md), [szociológia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szociol%c3%b3gia.md)
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/riport.md), [szociológia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/szociol%c3%b3gia.md)
 
 ### Összefoglalás
 <div>
@@ -479,7 +479,7 @@ Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattj�
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/A%20vegtelen%20vonal%20%281386%29/A%20vegtelen%20vonal%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[életrajz](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/%c3%a9letrajz.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [tudománytörténet](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/tudom%c3%a1nyt%c3%b6rt%c3%a9net.md)
+[életrajz](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/%c3%a9letrajz.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [tudománytörténet](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/tudom%c3%a1nyt%c3%b6rt%c3%a9net.md)
 
 ### Összefoglalás
 <div>
@@ -493,7 +493,7 @@ Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattj�
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/A%20naplo%20%28993%29/A%20naplo%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/sz%c3%a9pirodalom.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/irodalom.md), [1960-as évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/1960-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/20.%20sz%c3%a1zad.md), [napló](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/napl%c3%b3.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [latin-amerika](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/latin-amerika.md), [bolívia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/bol%c3%advia.md)
+[szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/sz%c3%a9pirodalom.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/irodalom.md), [1960-as évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/1960-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/20.%20sz%c3%a1zad.md), [napló](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/napl%c3%b3.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [latin-amerika](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/latin-amerika.md), [bolívia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/bol%c3%advia.md)
 
 ### Összefoglalás
 "Ennek ​a könyvnek Che Guevara valóban létező bolíviai naplója volt a kiindulási pontja és éltető ereje. Átvettem belőle mindazokat az adatokat, melyeket lehetetlen lett volna másképp elmondani, mint ahogy Che leírta: dátumokat, földrajzi neveket és irányokat, vadászzsákmányokat, harci összecsapások napjait és körülményeit.
@@ -508,7 +508,7 @@ Tízévi munkám fekszik ebben a könyvben, de nagy megtiszteltetésnek tekinten
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Az%20Elatkozott%20Hivatal%20%281365%29/Az%20Elatkozott%20Hivatal%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[1960-as évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/1960-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/20.%20sz%c3%a1zad.md), [humoreszk](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/humoreszk.md), [korrajz](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/korrajz.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [pamflet](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/pamflet.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szat%c3%adra.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/humor.md)
+[1960-as évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/1960-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/20.%20sz%c3%a1zad.md), [humoreszk](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/humoreszk.md), [korrajz](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/korrajz.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [pamflet](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/pamflet.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/szat%c3%adra.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/humor.md)
 
 ### Összefoglalás
 <div>
@@ -522,7 +522,7 @@ Tízévi munkám fekszik ebben a könyvben, de nagy megtiszteltetésnek tekinten
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Kadar%20Janos%20%281407%29/Kadar%20Janos%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/20.%20sz%c3%a1zad.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/elbesz%c3%a9l%c3%a9s.md), [életrajz](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/%c3%a9letrajz.md), [kommunizmus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kommunizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyarorsz%c3%a1g.md), [magyarság](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyars%c3%a1g.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/t%c3%b6rt%c3%a9nelem.md)
+[20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/20.%20sz%c3%a1zad.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/elbesz%c3%a9l%c3%a9s.md), [életrajz](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/%c3%a9letrajz.md), [kommunizmus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kommunizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyarorsz%c3%a1g.md), [magyarság](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyars%c3%a1g.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/t%c3%b6rt%c3%a9nelem.md)
 
 ### Összefoglalás
 <div>
@@ -536,7 +536,7 @@ Tízévi munkám fekszik ebben a könyvben, de nagy megtiszteltetésnek tekinten
 [prc](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Negyven%20predikator%20%281405%29/Negyven%20predikator%20-%20Moldova%2C%20Gyorgy.prc)
 
 ### Tagek
-[17. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/17.%20sz%c3%a1zad.md), [303 magyar regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/303%20magyar%20reg%c3%a9ny.md), [ellenreformáció](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/ellenreform%c3%a1ci%c3%b3.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [protestáns](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/protest%c3%a1ns.md), [protestantizmus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/protestantizmus.md), [reformáció](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/reform%c3%a1ci%c3%b3.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/reg%c3%a9ny.md), [regényes életrajz](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/reg%c3%a9nyes%20%c3%a9letrajz.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/t%c3%b6rt%c3%a9nelem.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md), [vallás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/vall%c3%a1s.md), [historical fiction](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/historical%20fiction.md)
+[17. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/17.%20sz%c3%a1zad.md), [303 magyar regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/303%20magyar%20reg%c3%a9ny.md), [ellenreformáció](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/ellenreform%c3%a1ci%c3%b3.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [protestáns](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/protest%c3%a1ns.md), [protestantizmus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/protestantizmus.md), [reformáció](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reform%c3%a1ci%c3%b3.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reg%c3%a9ny.md), [regényes életrajz](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reg%c3%a9nyes%20%c3%a9letrajz.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/t%c3%b6rt%c3%a9nelem.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md), [vallás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/vall%c3%a1s.md), [historical fiction](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/historical%20fiction.md)
 
 ### Összefoglalás
 <div>
@@ -550,7 +550,7 @@ Tízévi munkám fekszik ebben a könyvben, de nagy megtiszteltetésnek tekinten
 [prc](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Sotet%20angyal%20%281378%29/Sotet%20angyal%20-%20Moldova%2C%20Gyorgy.prc)
 
 ### Tagek
-[1950-es évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/1950-es%20%c3%a9vek.md), [1956](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/1956.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/20.%20sz%c3%a1zad.md), [fiatalkor](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/fiatalkor.md), [forradalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/forradalom.md), [kommunizmus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kommunizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/reg%c3%a9ny.md), [general fiction](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/general%20fiction.md)
+[1950-es évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/1950-es%20%c3%a9vek.md), [1956](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/1956.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/20.%20sz%c3%a1zad.md), [fiatalkor](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fiatalkor.md), [forradalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/forradalom.md), [kommunizmus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kommunizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reg%c3%a9ny.md), [general fiction](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/general%20fiction.md)
 
 ### Összefoglalás
 <div>
@@ -571,7 +571,7 @@ A "kis aljasságok" gyűjteménye voltaképpen a hatvanéves író élettapaszta
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Keseru%20pohar%20I_%20%281389%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-[21. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/21.%20sz%c3%a1zad.md), [bor](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/bor.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/riport.md)
+[21. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/21.%20sz%c3%a1zad.md), [bor](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/bor.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/riport.md)
 
 ### Összefoglalás
 <div>
@@ -585,7 +585,7 @@ A "kis aljasságok" gyűjteménye voltaképpen a hatvanéves író élettapaszta
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Keseru%20pohar%20I_%20%281391%29/Keseru%20pohar%20I_%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[21. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/21.%20sz%c3%a1zad.md), [bor](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/bor.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/riport.md)
+[21. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/21.%20sz%c3%a1zad.md), [bor](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/bor.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/riport.md)
 
 ### Összefoglalás
 <div>
@@ -609,7 +609,7 @@ Kádár János történelmi szerepéről újra nagyon sokat beszélnek az embere
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/A%20beszelo%20diszno%20_%20Jozsi%20rendszert%20%28938%29/A%20beszelo%20diszno%20_%20Jozsi%20rendsz%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[21. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/21.%20sz%c3%a1zad.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szat%c3%adra.md)
+[21. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/21.%20sz%c3%a1zad.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/szat%c3%adra.md)
 
 ### Összefoglalás
 <div><span style="font-family: prumo-text-book, serif; font-size: 13px; line-height: 23.4px; widows: 1; background-color: rgb(255, 255, 255);">Az első, a Beszélő disznó, ráhangolja az olvasót, a Józsi rendszert vált, és az Én, I. Viktor,</span><br style="box-sizing: border-box; outline: 0px; font-family: prumo-text-book, serif; font-size: 13px; line-height: 23.4px; widows: 1; background-color: rgb(255, 255, 255);"><span style="font-family: prumo-text-book, serif; font-size: 13px; line-height: 23.4px; widows: 1; background-color: rgb(255, 255, 255);">című művek vérbő paródiájára.</span><br style="box-sizing: border-box; outline: 0px; font-family: prumo-text-book, serif; font-size: 13px; line-height: 23.4px; widows: 1; background-color: rgb(255, 255, 255);"><span style="font-family: prumo-text-book, serif; font-size: 13px; line-height: 23.4px; widows: 1; background-color: rgb(255, 255, 255);">A Józsi rendszert vált c. műben a szatíra eszközeivel, az emberek csalódottsága fogalmazódik meg, a rendszerváltást levezénylő politikai erőkkel kapcsolatban.</span><br style="box-sizing: border-box; outline: 0px; font-family: prumo-text-book, serif; font-size: 13px; line-height: 23.4px; widows: 1; background-color: rgb(255, 255, 255);"><span style="font-family: prumo-text-book, serif; font-size: 13px; line-height: 23.4px; widows: 1; background-color: rgb(255, 255, 255);">Az Én, I. Viktor az Orbán kormány az európai értékektől egyre erősebben az önkényuralom felé fordul.</span></div>
@@ -622,7 +622,7 @@ Kádár János történelmi szerepéről újra nagyon sokat beszélnek az embere
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Ferencvarosi%20koktel%20%281379%29/Ferencvarosi%20koktel%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/20.%20sz%c3%a1zad.md), [abszurd](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/abszurd.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/hangosk%c3%b6nyv.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/humoros.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyarorsz%c3%a1g.md)
+[20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/20.%20sz%c3%a1zad.md), [abszurd](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/abszurd.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/hangosk%c3%b6nyv.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/humoros.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyarorsz%c3%a1g.md)
 
 ### Összefoglalás
 <div>
@@ -636,7 +636,7 @@ Kádár János történelmi szerepéről újra nagyon sokat beszélnek az embere
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/A%20nagy%20oktoberi%20osszefogas%20%281362%29/A%20nagy%20oktoberi%20osszefogas%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [politika](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/politika.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szat%c3%adra.md), [szatira](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szatira.md)
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [politika](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/politika.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/szat%c3%adra.md), [szatira](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/szatira.md)
 
 ### Összefoglalás
 <div>
@@ -650,7 +650,7 @@ Kádár János történelmi szerepéről újra nagyon sokat beszélnek az embere
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Zsidomentes%20ovezet%20%281394%29/Zsidomentes%20ovezet%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[humoros](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/humoros.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/illusztr%c3%a1lt.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [politika](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/politika.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/reg%c3%a9ny.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szat%c3%adra.md), [vígjáték](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/v%c3%adgj%c3%a1t%c3%a9k.md)
+[humoros](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/humoros.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/illusztr%c3%a1lt.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [politika](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/politika.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reg%c3%a9ny.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/szat%c3%adra.md), [vígjáték](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/v%c3%adgj%c3%a1t%c3%a9k.md)
 
 ### Összefoglalás
 <div>
@@ -664,7 +664,7 @@ Kádár János történelmi szerepéről újra nagyon sokat beszélnek az embere
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Akit%20a%20mozdony%20fustje%20megcsapott__%20%281377%29/Akit%20a%20mozdony%20fustje%20megcsapot%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[1970-es évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/1970-es%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/20.%20sz%c3%a1zad.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/illusztr%c3%a1lt.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyarorsz%c3%a1g.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/riport.md), [szociográfia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szociogr%c3%a1fia.md), [vasút](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/vas%c3%bat.md)
+[1970-es évek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/1970-es%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/20.%20sz%c3%a1zad.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/illusztr%c3%a1lt.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyarorsz%c3%a1g.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/riport.md), [szociográfia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/szociogr%c3%a1fia.md), [vasút](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/vas%c3%bat.md)
 
 ### Összefoglalás
 <div>
@@ -678,7 +678,7 @@ Kádár János történelmi szerepéről újra nagyon sokat beszélnek az embere
 [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Az%20Ur%20jo%20viteze%20%281387%29/Az%20Ur%20jo%20viteze%20-%20Moldova%2C%20Gyorgy.azw3)
 
 ### Tagek
-[magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [tényfeltáró riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/t%c3%a9nyfelt%c3%a1r%c3%b3%20riport.md)
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [tényfeltáró riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/t%c3%a9nyfelt%c3%a1r%c3%b3%20riport.md)
 
 ### Összefoglalás
 <div>
@@ -692,7 +692,7 @@ Kádár János történelmi szerepéről újra nagyon sokat beszélnek az embere
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Moldova%2C%20Gyorgy/Elottunk%20az%20ozonviz%20%281396%29/Elottunk%20az%20ozonviz%20-%20Moldova%2C%20Gyorgy.epub)
 
 ### Tagek
-[humoros](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/humoros.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/novella.md)
+[humoros](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/humoros.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/novella.md)
 
 ### Összefoglalás
 <div>

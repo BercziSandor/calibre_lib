@@ -5,7 +5,7 @@
 [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ann%20Aguirre/Menedek%20%281518%29/Menedek%20-%20Ann%20Aguirre.pdf)
 
 ### Tagek
-[science fiction](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/science%20fiction.md)
+[science fiction](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/science%20fiction.md)
 
 ### Összefoglalás
 <div>

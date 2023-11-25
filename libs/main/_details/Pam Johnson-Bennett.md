@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Pam%20Johnson-Bennett/Gondolkodj%20macskaul%20%281438%29/Gondolkodj%20macskaul%20-%20Pam%20Johnson-Bennett.epub)
 
 ### Tagek
-[állattartás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/%c3%a1llattart%c3%a1s.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/ismeretterjeszt%c5%91.md), [macska](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/macska.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md)
+[állattartás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/%c3%a1llattart%c3%a1s.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/ismeretterjeszt%c5%91.md), [macska](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/macska.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md)
 
 ### Összefoglalás
 <div>

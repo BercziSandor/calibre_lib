@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/David%20Vann/Akvarium%20%28946%29/Akvarium%20-%20David%20Vann.epub)
 
 ### Tagek
-[fiction](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/fiction.md), [literary](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/literary.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/sz%c3%a9pirodalom.md)
+[fiction](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fiction.md), [literary](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/literary.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/sz%c3%a9pirodalom.md)
 
 ### Összefoglalás
 <div>

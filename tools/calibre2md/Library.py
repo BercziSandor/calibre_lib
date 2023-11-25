@@ -203,6 +203,7 @@ class Library:
             "/", "_").replace("  ", " ").rstrip().lstrip()
 
     def get_tag_link(self, subj):
-        tag_file_link = f"{self.catalog_url.replace('/libs/', '/blob/main/libs/')}/tags/" + \
+        tag_file_link = f"" \
+                        f"{self.catalog_url.replace('/libs/', '/blob/main/libs/')}/_tags/" + \
                         urllib.parse.quote(f"{self.get_tag_corrected(subj)}.md")
         return f"[{subj}]({tag_file_link})"

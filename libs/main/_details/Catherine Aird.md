@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Catherine%20Aird/Gyilkossag%20a%20kolostorban%20%281215%29/Gyilkossag%20a%20kolostorban%20-%20Catherine%20Aird.epub)
 
 ### Tagek
-[angol](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/angol.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md)
+[angol](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/angol.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md)
 
 ### Összefoglalás
 <div>

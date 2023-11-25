@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lackfi%2C%20Janos/Milyenek%20a%20magyarok_%20%281360%29/Milyenek%20a%20magyarok_%20-%20Lackfi%2C%20Janos.epub)
 
 ### Tagek
-[21. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/21.%20sz%c3%a1zad.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/humoros.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kort%c3%a1rs.md), [magyar kultúra](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20kult%c3%bara.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [magyar társadalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20t%c3%a1rsadalom.md), [magyarság](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyars%c3%a1g.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/sorozat%20r%c3%a9sze.md)
+[21. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/21.%20sz%c3%a1zad.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/humoros.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs.md), [magyar kultúra](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20kult%c3%bara.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [magyar társadalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20t%c3%a1rsadalom.md), [magyarság](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyars%c3%a1g.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/sorozat%20r%c3%a9sze.md)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lackfi%2C%20Janos/Milyenek%20MEG%20a%20magyarok_%20%28935%29/Milyenek%20MEG%20a%20magyarok_%20-%20Lackfi%2C%20Janos.epub)
 
 ### Tagek
-[irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/irodalom.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md)
+[irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/irodalom.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md)
 
 ### Összefoglalás
 <p class="description">A magyar ember eltöprengett, vajon miből tudható, hogy ő éppen magyar.<br>Lackfi János: A humor segít felröhögni a letapadt, évszázados lelki nyákokat. Aki nevetni tud magán, talán ritkábban jön indulatba, javul a kedélye, nem lesz olyan sérülékeny az önbecsülése. Van bennem egy csengő, amely manapság gyakorta jelez szellemi szmogriadót. Olykor fuldoklunk a politikai kipufogógázoktól. A nevetés viszont ózonbuborék. <br>A nagy sikerű Milyenek a magyarok? folytatásában sem csalódunk. Kedvcsinálóként álljon itt néhány görbe tükör: Szadista bölcsődalok, Külmagyarok, Rokonok és rókázások, A kínaiak a golyóikkal számolnak, Jégkocka ingnyakba. <br>A nevetés és/vagy sírás garantált ezúttal is.</p>
@@ -32,7 +32,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lackfi%2C%20Janos/A%20legnehezebb%20kabat%20%28934%29/A%20legnehezebb%20kabat%20-%20Lackfi%2C%20Janos.epub)
 
 ### Tagek
-[kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/novella.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/sz%c3%a9pirodalom.md)
+[kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/novella.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/sz%c3%a9pirodalom.md)
 
 ### Összefoglalás
 <div>

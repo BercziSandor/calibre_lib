@@ -6,7 +6,7 @@
  [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Havas%2C%20Henrik/Porno%20I-II_%20%28804%29/Porno%20I-II_%20-%20Havas%2C%20Henrik.pdf)
 
 ### Tagek
-[lmbtq](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/lmbtq.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [pornográfia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/pornogr%c3%a1fia.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/riport.md)
+[lmbtq](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/lmbtq.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [pornográfia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/pornogr%c3%a1fia.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/riport.md)
 
 ### Összefoglalás
 <div>
@@ -21,7 +21,7 @@
  [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Havas%2C%20Henrik/Porno%20I-II_%20%28805%29/Porno%20I-II_%20-%20Havas%2C%20Henrik.pdf)
 
 ### Tagek
-[lmbtq](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/lmbtq.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [pornográfia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/pornogr%c3%a1fia.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/riport.md)
+[lmbtq](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/lmbtq.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [pornográfia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/pornogr%c3%a1fia.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/riport.md)
 
 ### Összefoglalás
 <div>
@@ -35,7 +35,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Havas%2C%20Henrik/Kurvaelet%20%28477%29/Kurvaelet%20-%20Havas%2C%20Henrik.epub)
 
 ### Tagek
-[fiction](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/fiction.md), [erotica](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/erotica.md), [current events](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/current%20events.md), [sociology](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/sociology.md), [szerelem](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szerelem.md), [megtörtént bűnügyek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/megt%c3%b6rt%c3%a9nt%20b%c5%b1n%c3%bcgyek.md), [szex](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szex.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/sz%c3%a9pirodalom.md), [dokumentumregények](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/dokumentumreg%c3%a9nyek.md)
+[fiction](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fiction.md), [erotica](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/erotica.md), [current events](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/current%20events.md), [sociology](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/sociology.md), [szerelem](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/szerelem.md), [megtörtént bűnügyek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/megt%c3%b6rt%c3%a9nt%20b%c5%b1n%c3%bcgyek.md), [szex](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/szex.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/sz%c3%a9pirodalom.md), [dokumentumregények](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/dokumentumreg%c3%a9nyek.md)
 
 ### Összefoglalás
 <div>

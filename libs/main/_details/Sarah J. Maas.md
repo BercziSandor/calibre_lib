@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Fold%20es%20ver%20haza%20%281693%29/Fold%20es%20ver%20haza%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
-[fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/fantasy.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/krimi.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kalandreg%c3%a9ny.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/diszt%c3%b3pia.md)
+[fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fantasy.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/krimi.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kalandreg%c3%a9ny.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/diszt%c3%b3pia.md)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Eg%20es%20lelegzet%20haza%20%281694%29/Eg%20es%20lelegzet%20haza%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
-[fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/fantasy.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/krimi.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kalandreg%c3%a9ny.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/diszt%c3%b3pia.md)
+[fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fantasy.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/krimi.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kalandreg%c3%a9ny.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/diszt%c3%b3pia.md)
 
 ### Összefoglalás
 <div>
@@ -37,7 +37,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Tuskek%20es%20rozsak%20udvara%20%281698%29/Tuskek%20es%20rozsak%20udvara%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
-[fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/fantasy.md), [romance](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/romance.md), [young adult](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/young%20adult.md)
+[fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fantasy.md), [romance](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/romance.md), [young adult](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/young%20adult.md)
 
 ### Összefoglalás
 <div>
@@ -66,7 +66,7 @@
  [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Szarnyak%20es%20pusztulas%20udvara%20%281700%29/Szarnyak%20es%20pusztulas%20udvara%20-%20Sarah%20J.%20Maas.pdf)
 
 ### Tagek
-[fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/fantasy.md), [romance](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/romance.md), [young adult](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/young%20adult.md)
+[fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fantasy.md), [romance](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/romance.md), [young adult](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/young%20adult.md)
 
 ### Összefoglalás
 <div>
@@ -82,7 +82,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Fagy%20es%20csillagfeny%20udvara%20%281696%29/Fagy%20es%20csillagfeny%20udvara%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
-[fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/fantasy.md), [romance](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/romance.md), [young adult](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/young%20adult.md)
+[fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fantasy.md), [romance](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/romance.md), [young adult](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/young%20adult.md)
 
 ### Összefoglalás
 <div>
@@ -109,7 +109,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Az%20orgyilkos%20pengeje%20es%20mas%20tortene%20%281685%29/Az%20orgyilkos%20pengeje%20es%20mas%20tor%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
-[amerikai](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/amerikai.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/bar%c3%a1ts%c3%a1g.md), [bérgyilkos](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/b%c3%a9rgyilkos.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/gyilkoss%c3%a1g.md), [hajózás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/haj%c3%b3z%c3%a1s.md), [high fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/high%20fantasy.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/ifj%c3%bas%c3%a1gi.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kaland.md), [kalóz](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kal%c3%b3z.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/novella.md), [rabszolgaság](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/rabszolgas%c3%a1g.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/romantikus.md), [young adult (ya)](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/young%20adult%20ya.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/fantasy.md)
+[amerikai](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/amerikai.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/bar%c3%a1ts%c3%a1g.md), [bérgyilkos](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/b%c3%a9rgyilkos.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/gyilkoss%c3%a1g.md), [hajózás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/haj%c3%b3z%c3%a1s.md), [high fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/high%20fantasy.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/ifj%c3%bas%c3%a1gi.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kaland.md), [kalóz](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kal%c3%b3z.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/novella.md), [rabszolgaság](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/rabszolgas%c3%a1g.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/romantikus.md), [young adult (ya)](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/young%20adult%20ya.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fantasy.md)
 
 ### Összefoglalás
 <div><p class="description">Celaena Adarlan legfélelmetesebb orgyilkosa.<br>Az orgyilkosok törvényei szerint teljes engedelmességgel tartozik mesterének, de ő senkire sem hallgat, és csak társában, Samben bízik.</p>
@@ -124,7 +124,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Uvegtron%20%281686%29/Uvegtron%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
-[kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kort%c3%a1rs.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/ifj%c3%bas%c3%a1gi.md), [tündér](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/t%c3%bcnd%c3%a9r.md), [szellemek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szellemek.md), [bérgyilkos](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/b%c3%a9rgyilkos.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kaland.md), [démon](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/d%c3%a9mon.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/m%c3%a1gia.md), [harcosok](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/harcosok.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/fantasy.md)
+[kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/ifj%c3%bas%c3%a1gi.md), [tündér](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/t%c3%bcnd%c3%a9r.md), [szellemek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/szellemek.md), [bérgyilkos](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/b%c3%a9rgyilkos.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kaland.md), [démon](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/d%c3%a9mon.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/m%c3%a1gia.md), [harcosok](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/harcosok.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fantasy.md)
 
 ### Összefoglalás
 <p class="description">Az ismert világ leghíresebb orgyilkosa. Celaena Sardothien gyönyörű és halálos. A sors nagy dolgokat tartogat a lenyűgöző, ifjú nő számára.<br>Távolvég sötét, nyomorúsággal teli sóbányáinak mélyén egy megviselt,tizennyolc éves lány robotol a rabszolgák között. Életfogytiglanig tartó kényszermunkára ítélték. Hiába képezték ki a földrész legjobb orgyilkosai. Hiába lett a halálos mesterség leghíresebb művésze. Elkövetett egy végzetes hibát. Elfogták.<br>A kegyetlen börtönbe egy napon különös látogató érkezik. Az ifjú és felettébb jóképű Westfall kapitány meglepő ajánlatot tesz a rettegett orgyilkosnak. Szabad lehet, ha előtte végrehajt egy hihetetlenül vakmerő és elképesztően nehéz feladatot. Az ország koronahercege bajnokot akar küldeni az apja halálos versenyére. Csatasorba állnak a birodalom legtehetségesebb tolvajai és legkönyörtelenebb harcosai. A küzdelem tétje az életben maradás. Ha győz, Celaena visszanyeri a szabadságát. Függetlenül attól, hogy képes lesz-e megnyerni a kegyetlen versengést, megrázó felfedezés vár az ifjú hölgyre. Már csupán az a nagy kérdés, hogy meglágyulhat-e egy orgyilkos kőszíve.</p>
@@ -137,7 +137,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Ejkorona%20%281689%29/Ejkorona%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
-[fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/fantasy.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/ifj%c3%bas%c3%a1gi.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kaland.md)
+[fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fantasy.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/ifj%c3%bas%c3%a1gi.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kaland.md)
 
 ### Összefoglalás
 Calaena könyörtelen küzdelemben legyőzte ellenfeleit és a király bajnoka lett. Ezentúl a király ellenségeit kell elpusztítania, akik kegyetlen uralmának akarnak véget vetni. A lány azonban ahelyett, hogy eltenné őket láb alól, figyelmezteti őket és ezzel segít nekik. Szörnyű titkát eleinte még Chaolnak sem meri bevallani, akihez akarata ellenére egyre inkább vonzódik. Mennyire bízhat meg benne? Végül is Chaol a királyi testőrség kapitánya. A szívére vagy az eszére hallgasson?
@@ -150,7 +150,7 @@ Calaena könyörtelen küzdelemben legyőzte ellenfeleit és a király bajnoka l
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/A%20tuz%20orokose%20%281692%29/A%20tuz%20orokose%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
-[fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/fantasy.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kaland.md)
+[fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fantasy.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kaland.md)
 
 ### Összefoglalás
 <div><div>„Nincs szükséged fegyverre, ha te magad is fegyvernek születtél. Azt kívánom, hogy az legyén, akinek születtél. Királynő.”</div><div><br></div><div>A bűntudattól és haragtól gyötört Celaena képtelen lenne Adarlan királyáért egy csepp vért is kiontani. Nincs más választása, fel kell vennie ellene a harcot…</div><div><br></div><div>A Tündérkirálynő talán segít neki elpusztítani a királyt, de ennek ára van. Celaena egyszerre küzd sötét emlékeivel, és a szíve is majd' megszakad egy kilátástalan szerelem miatt. Tudja-e így teljesíteni az alku ráeső részét, és képes lesz-e az egykor erős és hatalmas terraseni királyság élére állni? Talál-e segítőtársakat?</div></div>
@@ -163,7 +163,7 @@ Calaena könyörtelen küzdelemben legyőzte ellenfeleit és a király bajnoka l
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Arnyak%20kiralynoje%20%281691%29/Arnyak%20kiralynoje%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
-[fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/fantasy.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kaland.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/romantikus.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/m%c3%a1gia.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/ifj%c3%bas%c3%a1gi.md)
+[fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fantasy.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kaland.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/romantikus.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/m%c3%a1gia.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/ifj%c3%bas%c3%a1gi.md)
 
 ### Összefoglalás
 <div><div>Első a bosszú, a többi várhat… </div><div><br></div><div>Celaena Sardothien mindenkit elvesztett, aki a szívéhez közel állt, végül mégis visszatért a birodalomba, hogy bosszút álljon, felszabadítsa egykor dicsőséges királyságát és szembeszálljon múltja árnyékaival… </div><div>Tiszta szívéből elfogadta, hogy ő Aelin Galathynius, Terrasen királynője. De mielőtt visszaszerezné trónját, harcolnia kell. </div><div>Küzdeni akar unokatestvéréért, aki harcosként az életét is kész feláldozni érte, a barátjáért, aki egy borzalmas tömlöcben sínylődik és a kegyetlen király rabságában tengődő népéért, akik rendületlenül várják eltűnt királynőjük dicső visszatérését. </div><div>A New York Times bestseller sorozat negyedik kötetében folytatódik Celaena szenvedélyes és időnként fájdalmas epikus utazása, mely fenekestül forgathatja fel az életét.</div></div>
@@ -176,7 +176,7 @@ Calaena könyörtelen küzdelemben legyőzte ellenfeleit és a király bajnoka l
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Viharok%20birodalma%20%281690%29/Viharok%20birodalma%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
-[fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/fantasy.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/romantikus.md), [tündér](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/t%c3%bcnd%c3%a9r.md)
+[fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fantasy.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/romantikus.md), [tündér](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/t%c3%bcnd%c3%a9r.md)
 
 ### Összefoglalás
 <div><div>A világot az álmodók mentik meg és építik újjá.</div><div><br></div><div>Alig kezdődött meg Aelin Galathynius hosszú útja a trónjáig, máris háború fenyeget. Útja során elveszített, de szerzett is szövetségeseket, barátságok köttettek és szakadtak meg, miközben a mágikus erőt birtoklók és azt nélkülözők is konfliktusba kerülnek.</div><div><br></div><div>Aelin szíve az oldalán harcoló hercegé, hűsége pedig a védelmére szorulóké, akikért mágiája utolsó cseppjét is kész odaadni. Ám a múlt borzalmas bugyraiból szörnyetegek bukkannak fel, és a sötét erők felsorakoznak, hogy leigázzák a birodalmát. Egyetlen esélye marad, egy kétségbeesett küldetés végrehajtása, ami a végét jelentheti mindannak, ami Aelin számára drága.</div><div><br></div><div>A kirobbanó sikerű Üvegtrón sorozat lélegzetelállító ötödik kötetében Aelin válaszút elé kerül: mit és kit áldozzon fel azért, hogy megakadályozza Erilea széthullását.</div></div>
@@ -189,7 +189,7 @@ Calaena könyörtelen küzdelemben legyőzte ellenfeleit és a király bajnoka l
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/A%20hajnal%20tornya%20%281688%29/A%20hajnal%20tornya%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
-[amerikai](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/amerikai.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/fantasy.md), [high fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/high%20fantasy.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/ifj%c3%bas%c3%a1gi.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kaland.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kort%c3%a1rs.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/m%c3%a1gia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/misztikus.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/reg%c3%a9ny.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/romantikus.md)
+[amerikai](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/amerikai.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fantasy.md), [high fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/high%20fantasy.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/ifj%c3%bas%c3%a1gi.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kaland.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/m%c3%a1gia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/misztikus.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reg%c3%a9ny.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/romantikus.md)
 
 ### Összefoglalás
 <div><p class="description">Egy csodálatos birodalom.</p>
@@ -204,7 +204,7 @@ Calaena könyörtelen küzdelemben legyőzte ellenfeleit és a király bajnoka l
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Felperzselt%20kiralysag%20%281687%29/Felperzselt%20kiralysag%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
-[fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/fantasy.md), [vörös pöttyös könyvek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/v%c3%b6r%c3%b6s%20p%c3%b6tty%c3%b6s%20k%c3%b6nyvek.md)
+[fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fantasy.md), [vörös pöttyös könyvek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/v%c3%b6r%c3%b6s%20p%c3%b6tty%c3%b6s%20k%c3%b6nyvek.md)
 
 ### Összefoglalás
 <div>
@@ -223,7 +223,7 @@ Calaena könyörtelen küzdelemben legyőzte ellenfeleit és a király bajnoka l
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Macskano%20-%20Lelektolvaj%20%281684%29/Macskano%20-%20Lelektolvaj%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
-[amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/amerikai%20szerz%c5%91.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/fantasy.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/ifj%c3%bas%c3%a1gi.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/reg%c3%a9ny.md), [szuperhős](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szuperh%c5%91s.md), [vörös pöttyös](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/v%c3%b6r%c3%b6s%20p%c3%b6tty%c3%b6s.md), [fine selection](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/fine%20selection.md)
+[amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/amerikai%20szerz%c5%91.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fantasy.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/ifj%c3%bas%c3%a1gi.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reg%c3%a9ny.md), [szuperhős](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/szuperh%c5%91s.md), [vörös pöttyös](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/v%c3%b6r%c3%b6s%20p%c3%b6tty%c3%b6s.md), [fine selection](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fine%20selection.md)
 
 ### Összefoglalás
 <div>

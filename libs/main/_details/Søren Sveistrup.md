@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Soren%20Sveistrup/A%20gesztenyeember%20%281490%29/A%20gesztenyeember%20-%20Soren%20Sveistrup.epub)
 
 ### Tagek
-[krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/reg%c3%a9ny.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/skandin%c3%a1v.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/thriller.md)
+[krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reg%c3%a9ny.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/skandin%c3%a1v.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/thriller.md)
 
 ### Összefoglalás
 <div><p class="description">Hátborzongató ​pszichothriller a GYILKOSSÁG – THE KILLING filmsorozat szerzőjétől<br>Koppenhága külvárosban egy csendes októberi reggel a rendőrség egy fiatal, egyedülálló anya holttestére bukkan, akit brutálisan meggyilkoltak és megcsonkítottak: a nőnek levágták az egyik kezét, és a feje fölé egy kis gesztenyéből készült babát lógattak.</p>
