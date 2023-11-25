@@ -77,28 +77,36 @@ class Library:
         tag_file_name = 'catalog_tags_details.md'
         books_tags = self.sort_books_tag(self.opfs)
 
-        details_folder = self.root_dir / '_details'
+        details_folder = self.root_dir / '_tags'
         if not details_folder.exists():
             details_folder.mkdir()
 
         # https://github.com/TheRenegadeCoder/SnakeMD
         # https://therenegadecoder.com/code/the-complete-guide-to-snakemd-a-python-library-for-generating-markdown/
         doc = snakemd.new_doc("Example")
-        doc.add_header("Könyvek tagek szerint")
-        doc.add_table_of_contents()
-
+        doc.add_header("Tagek")
+        tags=""
         for tag, opfs in books_tags.items():
-            doc.add_header(tag, level=2)
-            books = []
-            for opf in opfs:
-                if len(opf.books) > 0:
-                    creator = opf.creator
-                    tag_file_name = f"_tags/{tag}.md"
-                    tag_file_name_quoted = urllib.parse.quote(
-                        tag_file_name)
-                    link_details = f"[részletek]({tag_file_name_quoted}#id_{opf.id})"
-                    books.append(f"{opf.creator}: {opf.title} {link_details}")
-            doc.add_unordered_list(books)
+            tag_file_name = f"_tags/{tag}.md"
+            tag_file_name_quoted = urllib.parse.quote(
+                tag_file_name)
+            tags += f"[{tag}]({tag_file_name_quoted}) "
+        doc.add_paragraph(tags)
+
+        # doc.add_table_of_contents()
+        #
+        # for tag, opfs in books_tags.items():
+        #     doc.add_header(tag, level=2)
+        #     books = []
+        #     for opf in opfs:
+        #         if len(opf.books) > 0:
+        #             creator = opf.creator
+        #             tag_file_name = f"_tags/{tag}.md"
+        #             tag_file_name_quoted = urllib.parse.quote(
+        #                 tag_file_name)
+        #             link_details = f"[részletek]({tag_file_name_quoted}#id_{opf.id})"
+        #             books.append(f"{opf.creator}: {opf.title} {link_details}")
+        #     doc.add_unordered_list(books)
 
         catalog_content = str(doc)
         out_file = self.root_dir / catalog_file_name
