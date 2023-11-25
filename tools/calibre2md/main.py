@@ -1,25 +1,63 @@
+import argparse
 import os
-import sys
+import pathlib
+from pathlib import Path
 
-sys.path.append("c:\\Users\\VWW3224\\Documents\\Calibre\\libs\\calibre_tools")
+from Library import Library
 
-from calibre2md.Library import Library
+# sys.path.append("c:\\Users\\VWW3224\\Documents\\Calibre\\libs\\calibre_tools")
 
 DATE_FORMAT = '%Y-%m-%dT%H:%M:%S.%f%z'
 git_repo_url = ""
 
 
+def get_script_directory() -> pathlib.Path:
+    return Path(__file__).parent.resolve()
+
+
+def get_available_libraries():
+    libraries_directory = get_script_directory().parent.parent / 'libs'
+    return [libraries_directory.joinpath(name) for name in
+            os.listdir(libraries_directory) if
+            os.path.isdir(os.path.join(libraries_directory, name))]
+
+
+def prompt_for_library() -> pathlib.Path:
+    available_libraries = get_available_libraries()
+
+    print('Choose a library:')
+    for idx, library in enumerate(available_libraries, start=1):
+        print(f"{idx}. {library.name}")
+
+    while True:
+        try:
+            choice = int(input('Enter the number of the library: '))
+            if 1 <= choice <= len(available_libraries):
+                selected_library = available_libraries[choice - 1]
+                break
+            else:
+                print('Invalid choice. Please enter a valid number.')
+        except ValueError:
+            print('Invalid input. Please enter a number.')
+
+    return selected_library
+
+
 def main():
     global git_repo_url
-    script_directory = os.path.dirname(os.path.abspath(__file__))
 
-    root_dir = "c:\\Users\\VWW3224\\Documents\\Calibre\\libs\\lib"
-    root_dir = "c:\\Users\\VWW3224\\Documents\\Calibre\\libs\\kutya"
-    root_dir = "c:\\Users\\VWW3224\\Documents\\Calibre\\libs\\libXX"
-    print("Current directory: " + os.getcwd())
-    print("Script  directory: " + script_directory)
+    parser = argparse.ArgumentParser(description='Process a library.')
+    parser.add_argument('--library', help='Name of the library')
+    args = parser.parse_args()
+    library: pathlib.Path
 
-    lib = Library(root_dir=root_dir)
+    if args.library is None:
+        # If the library name is not provided, prompt the user to choose one
+        library = prompt_for_library()
+    else:
+        library = Path(args.library)
+
+    lib = Library(root_dir=library)
     lib.gen_md()
 
 

@@ -5,7 +5,7 @@ import sys
 from datetime import datetime
 from xml.etree import ElementTree as ET
 
-from calibre2md import Library
+import Library
 
 NAMESPACES = {
     'None': "http://www.idpf.org/2007/opf",

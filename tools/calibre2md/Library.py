@@ -6,18 +6,18 @@ from typing import Dict
 
 import snakemd
 
-from calibre2md import Opf
-from calibre2md.utils import get_repo_url, find_opf_paths_in_dir
+import Opf
+from utils import get_repo_url, find_opf_paths_in_dir
 
 
 class Library:
 
-    def __init__(self, root_dir):
-        self.root_dir = pathlib.Path(root_dir).absolute()
+    def __init__(self, root_dir: pathlib.Path):
+        self.root_dir = root_dir
         if not self.root_dir.exists():
             print(f"Input directory {self.root_dir} does not exist, aborting.")
             sys.exit(1)
-        self.repo_url = get_repo_url(root_dir)
+        self.repo_url = get_repo_url(root_dir.parent.parent)
         self.opfs = self.get_opfs()
 
     @staticmethod
@@ -79,7 +79,7 @@ class Library:
         # doc.add_paragraph("par1_text")
         doc.add_header("Szerzők szerint", level=2)
 
-        details_folder = pathlib.Path(os.path.join(self.root_dir, '_details'))
+        details_folder = self.root_dir / '_details'
         if not details_folder.exists():
             details_folder.mkdir()
 
@@ -105,7 +105,7 @@ class Library:
                                 book)
                             link_download = f"[{file_extension.replace('.', '')}]" \
                                             f"({url})"
-                            o.link_download=link_download
+                            o.link_download = link_download
 
                         link_details = f"[részletek]({details_file_name_quoted}#id_{o.id})"
                         titles_list.append(
@@ -138,8 +138,7 @@ class Library:
                                            f"{link_details} {link_download}")
                         details_content += (o.get_md_details())
                 doc.add_unordered_list(titles_list)
-            out_file_details = pathlib.Path(os.path.join(details_folder,
-                                                         details_file_name))
+            out_file_details = details_folder / details_file_name
             out_file_details.write_text(details_content, encoding='utf-8')
 
         catalog_content = str(doc)
