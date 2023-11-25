@@ -838,7 +838,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Adventi%20krimik%20%281761%29/Adventi%20krimik%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_tags/mystery.md), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_tags/classics.md), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_tags/crime.md), [adult](https://github.com/berczisandor/calibre_lib/libs/main/_tags/adult.md), [820-32=945.11](https://github.com/berczisandor/calibre_lib/libs/main/_tags/820-32%3d945.11.md), [(udc/eto)](https://github.com/berczisandor/calibre_lib/libs/main/_tags/%28udc/eto%29.md)
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_tags/mystery.md), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_tags/classics.md), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_tags/crime.md), [adult](https://github.com/berczisandor/calibre_lib/libs/main/_tags/adult.md), [820-32=945.11](https://github.com/berczisandor/calibre_lib/libs/main/_tags/820-32%3d945.11.md), [(udc/eto)](https://github.com/berczisandor/calibre_lib/libs/main/_tags/udc_eto.md)
 
 ### Összefoglalás
 <div>

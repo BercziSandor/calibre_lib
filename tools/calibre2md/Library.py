@@ -85,28 +85,29 @@ class Library:
         # https://therenegadecoder.com/code/the-complete-guide-to-snakemd-a-python-library-for-generating-markdown/
         doc = snakemd.new_doc("Example")
         doc.add_header("Tagek")
-        tags=""
-        for tag, opfs in books_tags.items():
-            tag_file_name = f"_tags/{tag}.md"
+        tags = ""
+        for tag in sorted(books_tags.keys()):
+            tag_file = self.root_dir / "_tags" / f"{self.get_tag_corrected(tag)}.md"
+
+            # generate content for tag X
+            docTag = snakemd.new_doc("Example")
+            docTag.add_header(tag)
+            opfs = books_tags.get(tag)
+            books = []
+            for opf in opfs:
+                if len(opf.books) > 0:
+                    details_file_name_quoted = urllib.parse.quote(
+                        "_details/{opf.creator}.md")
+                    link_details = f"[részletek]({details_file_name_quoted}#id_{opf.id})"
+                    books.append(f"{opf.creator}: {opf.title} {link_details}")
+            docTag.add_unordered_list(books)
+
+            tag_file.write_text(str(docTag), encoding='utf-8')
+
             tag_file_name_quoted = urllib.parse.quote(
                 tag_file_name)
             tags += f"[{tag}]({tag_file_name_quoted}) "
         doc.add_paragraph(tags)
-
-        # doc.add_table_of_contents()
-        #
-        # for tag, opfs in books_tags.items():
-        #     doc.add_header(tag, level=2)
-        #     books = []
-        #     for opf in opfs:
-        #         if len(opf.books) > 0:
-        #             creator = opf.creator
-        #             tag_file_name = f"_tags/{tag}.md"
-        #             tag_file_name_quoted = urllib.parse.quote(
-        #                 tag_file_name)
-        #             link_details = f"[részletek]({tag_file_name_quoted}#id_{opf.id})"
-        #             books.append(f"{opf.creator}: {opf.title} {link_details}")
-        #     doc.add_unordered_list(books)
 
         catalog_content = str(doc)
         out_file = self.root_dir / catalog_file_name
@@ -196,7 +197,12 @@ class Library:
         # print(md_content)
         return out_file
 
+    def get_tag_corrected(self, subj):
+        return subj.replace("(", " ").replace(")", " ").replace(
+            "\\", "_").replace(
+            "/", "_").replace("  ", " ").rstrip().lstrip()
+
     def get_tag_link(self, subj):
         tag_file_link = f"{self.catalog_url}/_tags/" + \
-                        urllib.parse.quote(f"{subj}.md")
+                        urllib.parse.quote(f"{self.get_tag_corrected(subj)}.md")
         return f"[{subj}]({tag_file_link})"

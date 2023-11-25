@@ -161,7 +161,7 @@ A zseniális nyomozó csak azért tér vissza Moszkvába, hogy háromkerekű aut
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/A%20%20gyemantszeker%20I-II_%20%281110%29/A%20%20gyemantszeker%20I-II_%20-%20Akunyin%2C%20Borisz.epub)
 
 ### Tagek
-[krimi](https://github.com/berczisandor/calibre_lib/libs/main/_tags/krimi.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_tags/reg%c3%a9ny.md), [japán (ország)](https://github.com/berczisandor/calibre_lib/libs/main/_tags/jap%c3%a1n%20%28orsz%c3%a1g%29.md), [nindzsa](https://github.com/berczisandor/calibre_lib/libs/main/_tags/nindzsa.md), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_tags/20.%20sz%c3%a1zad.md), [orosz](https://github.com/berczisandor/calibre_lib/libs/main/_tags/orosz.md), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kort%c3%a1rs.md)
+[krimi](https://github.com/berczisandor/calibre_lib/libs/main/_tags/krimi.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_tags/reg%c3%a9ny.md), [japán (ország)](https://github.com/berczisandor/calibre_lib/libs/main/_tags/jap%c3%a1n%20orsz%c3%a1g.md), [nindzsa](https://github.com/berczisandor/calibre_lib/libs/main/_tags/nindzsa.md), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_tags/20.%20sz%c3%a1zad.md), [orosz](https://github.com/berczisandor/calibre_lib/libs/main/_tags/orosz.md), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_tags/kort%c3%a1rs.md)
 
 ### Összefoglalás
 <div><p class="description">1905-ben ​​vagyunk, az orosz-japán háború idején.</p>
