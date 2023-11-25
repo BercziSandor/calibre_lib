@@ -1,11 +1,11 @@
 # <a name="id_15">Adam L. Davis: Learning Groovy 3: Java-Based Dynamic Scripting (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Adam%20L.%20Davis/Learning%20Groovy%203_%20Java-Based%20Dynami%20%2815%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/prog/Adam%20L.%20Davis/Learning%20Groovy%203_%20Java-Based%20Dynami%20%2815%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Adam%20L.%20Davis/Learning%20Groovy%203_%20Java-Based%20Dynami%20%2815%29/Learning%20Groovy%203_%20Java-Based%20D%20-%20Adam%20L.%20Davis.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/prog/Adam%20L.%20Davis/Learning%20Groovy%203_%20Java-Based%20Dynami%20%2815%29/Learning%20Groovy%203_%20Java-Based%20D%20-%20Adam%20L.%20Davis.epub)
 
 ### Tagek
-computers, languages, general, java, programming, groovy
+[computers](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/computers.md), [languages](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/languages.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/general.md), [java](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/java.md), [programming](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/programming.md), [groovy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/groovy.md)
 
 ### Összefoglalás
 <div>

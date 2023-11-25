@@ -1,12 +1,12 @@
 # <a name="id_5">Suellen Dainty: 50 játék kutyáknak </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Suellen%20Dainty/50%20jatek%20kutyaknak%20%285%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/kutya/Suellen%20Dainty/50%20jatek%20kutyaknak%20%285%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[djvu](https://github.com/BercziSandor/calibre_lib/raw/main/Suellen%20Dainty/50%20jatek%20kutyaknak%20%285%29/50%20jatek%20kutyaknak%20-%20Suellen%20Dainty.djvu) 
- [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Suellen%20Dainty/50%20jatek%20kutyaknak%20%285%29/50%20jatek%20kutyaknak%20-%20Suellen%20Dainty.pdf)
+[djvu](https://github.com/BercziSandor/calibre_lib/raw/main/libs/kutya/Suellen%20Dainty/50%20jatek%20kutyaknak%20%285%29/50%20jatek%20kutyaknak%20-%20Suellen%20Dainty.djvu) 
+ [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/kutya/Suellen%20Dainty/50%20jatek%20kutyaknak%20%285%29/50%20jatek%20kutyaknak%20-%20Suellen%20Dainty.pdf)
 
 ### Tagek
-kutya
+[kutya](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kutya.md)
 
 ### Összefoglalás
 <div>

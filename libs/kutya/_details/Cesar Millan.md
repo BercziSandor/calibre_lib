@@ -1,11 +1,11 @@
 # <a name="id_2">Cesar Millan: A kutya mint családtag (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Cesar%20Millan/A%20kutya%20mint%20csaladtag%20%282%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/kutya/Cesar%20Millan/A%20kutya%20mint%20csaladtag%20%282%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[djvu](https://github.com/BercziSandor/calibre_lib/raw/main/Cesar%20Millan/A%20kutya%20mint%20csaladtag%20%282%29/A%20kutya%20mint%20csaladtag%20-%20Cesar%20Millan.djvu)
+[djvu](https://github.com/BercziSandor/calibre_lib/raw/main/libs/kutya/Cesar%20Millan/A%20kutya%20mint%20csaladtag%20%282%29/A%20kutya%20mint%20csaladtag%20-%20Cesar%20Millan.djvu)
 
 ### Tagek
-self help, reference, biography, kutya
+[self help](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/self%20help.md), [reference](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reference.md), [biography](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/biography.md), [kutya](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kutya.md)
 
 ### Összefoglalás
 <div>
@@ -13,13 +13,13 @@ self help, reference, biography, kutya
 
 
 # <a name="id_3">Cesar Millan: Rövid útmutató a boldog kutyához (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Cesar%20Millan/Rovid%20utmutato%20a%20boldog%20kutyahoz%20%283%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/kutya/Cesar%20Millan/Rovid%20utmutato%20a%20boldog%20kutyahoz%20%283%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[djvu](https://github.com/BercziSandor/calibre_lib/raw/main/Cesar%20Millan/Rovid%20utmutato%20a%20boldog%20kutyahoz%20%283%29/Rovid%20utmutato%20a%20boldog%20kutyaho%20-%20Cesar%20Millan.djvu)
+[djvu](https://github.com/BercziSandor/calibre_lib/raw/main/libs/kutya/Cesar%20Millan/Rovid%20utmutato%20a%20boldog%20kutyahoz%20%283%29/Rovid%20utmutato%20a%20boldog%20kutyaho%20-%20Cesar%20Millan.djvu)
 
 ### Tagek
-self help, reference, science, adult, kutya
+[self help](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/self%20help.md), [reference](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reference.md), [science](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/science.md), [adult](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/adult.md), [kutya](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kutya.md)
 
 ### Összefoglalás
 <div>

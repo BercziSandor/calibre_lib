@@ -1,11 +1,11 @@
 # <a name="id_13">Kristian Rother: Pro Python Best Practices: Debugging, Testing and Maintenance (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kristian%20Rother/Pro%20Python%20Best%20Practices_%20Debugging%20%2813%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/prog/Kristian%20Rother/Pro%20Python%20Best%20Practices_%20Debugging%20%2813%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Kristian%20Rother/Pro%20Python%20Best%20Practices_%20Debugging%20%2813%29/Pro%20Python%20Best%20Practices_%20Debu%20-%20Kristian%20Rother.pdf)
+[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/prog/Kristian%20Rother/Pro%20Python%20Best%20Practices_%20Debugging%20%2813%29/Pro%20Python%20Best%20Practices_%20Debu%20-%20Kristian%20Rother.pdf)
 
 ### Tagek
-computers, languages, python, programming, general
+[computers](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/computers.md), [languages](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/languages.md), [python](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/python.md), [programming](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/programming.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/general.md)
 
 ### Összefoglalás
 <div>

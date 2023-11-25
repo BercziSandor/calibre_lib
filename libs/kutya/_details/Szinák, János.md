@@ -1,11 +1,11 @@
 # <a name="id_6">Szinák, János: A kutya hétköznapjai </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szinak%2C%20Janos/A%20kutya%20hetkoznapjai%20%286%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/kutya/Szinak%2C%20Janos/A%20kutya%20hetkoznapjai%20%286%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[djvu](https://github.com/BercziSandor/calibre_lib/raw/main/Szinak%2C%20Janos/A%20kutya%20hetkoznapjai%20%286%29/A%20kutya%20hetkoznapjai%20-%20Szinak%2C%20Janos.djvu)
+[djvu](https://github.com/BercziSandor/calibre_lib/raw/main/libs/kutya/Szinak%2C%20Janos/A%20kutya%20hetkoznapjai%20%286%29/A%20kutya%20hetkoznapjai%20-%20Szinak%2C%20Janos.djvu)
 
 ### Tagek
-kutya
+[kutya](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kutya.md)
 
 ### Összefoglalás
 <div>

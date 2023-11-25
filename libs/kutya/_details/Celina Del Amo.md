@@ -1,11 +1,11 @@
 # <a name="id_1">Celina Del Amo: Kutyaiskola ​lépésről lépésre (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Celina%20Del%20Amo/Kutyaiskola%20%20lepesrol%20lepesre%20%281%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/kutya/Celina%20Del%20Amo/Kutyaiskola%20%20lepesrol%20lepesre%20%281%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[djvu](https://github.com/BercziSandor/calibre_lib/raw/main/Celina%20Del%20Amo/Kutyaiskola%20%20lepesrol%20lepesre%20%281%29/Kutyaiskola%20%20lepesrol%20lepesre%20-%20Celina%20Del%20Amo.djvu)
+[djvu](https://github.com/BercziSandor/calibre_lib/raw/main/libs/kutya/Celina%20Del%20Amo/Kutyaiskola%20%20lepesrol%20lepesre%20%281%29/Kutyaiskola%20%20lepesrol%20lepesre%20-%20Celina%20Del%20Amo.djvu)
 
 ### Tagek
-kutya
+[kutya](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kutya.md)
 
 ### Összefoglalás
 <div>

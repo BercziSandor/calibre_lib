@@ -1,11 +1,11 @@
 # <a name="id_11">Lee Holmes: Powershell Pocket Reference: Portable Help for Powershell Scripters (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Lee%20Holmes/Powershell%20Pocket%20Reference_%20Portabl%20%2811%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/prog/Lee%20Holmes/Powershell%20Pocket%20Reference_%20Portabl%20%2811%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lee%20Holmes/Powershell%20Pocket%20Reference_%20Portabl%20%2811%29/Powershell%20Pocket%20Reference_%20Po%20-%20Lee%20Holmes.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/prog/Lee%20Holmes/Powershell%20Pocket%20Reference_%20Portabl%20%2811%29/Powershell%20Pocket%20Reference_%20Po%20-%20Lee%20Holmes.epub)
 
 ### Tagek
-powershell, reference, portable
+[powershell](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/powershell.md), [reference](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reference.md), [portable](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/portable.md)
 
 ### Összefoglalás
 <div>

@@ -1,11 +1,11 @@
 # <a name="id_4">Ekard Lind: Játszva motiváljuk a kutyánkat </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ekard%20Lind/Jatszva%20motivaljuk%20a%20kutyankat%20%284%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/kutya/Ekard%20Lind/Jatszva%20motivaljuk%20a%20kutyankat%20%284%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[djvu](https://github.com/BercziSandor/calibre_lib/raw/main/Ekard%20Lind/Jatszva%20motivaljuk%20a%20kutyankat%20%284%29/Jatszva%20motivaljuk%20a%20kutyankat%20-%20Ekard%20Lind.djvu)
+[djvu](https://github.com/BercziSandor/calibre_lib/raw/main/libs/kutya/Ekard%20Lind/Jatszva%20motivaljuk%20a%20kutyankat%20%284%29/Jatszva%20motivaljuk%20a%20kutyankat%20-%20Ekard%20Lind.djvu)
 
 ### Tagek
-kutya
+[kutya](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kutya.md)
 
 ### Összefoglalás
 <div>

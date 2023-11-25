@@ -1,11 +1,11 @@
 # <a name="id_4">Mike Pirnat: How to Make Mistakes in Python (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Mike%20Pirnat/How%20to%20Make%20Mistakes%20in%20Python%20%284%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/prog/Mike%20Pirnat/How%20to%20Make%20Mistakes%20in%20Python%20%284%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mike%20Pirnat/How%20to%20Make%20Mistakes%20in%20Python%20%284%29/How%20to%20Make%20Mistakes%20in%20Python%20-%20Mike%20Pirnat.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/prog/Mike%20Pirnat/How%20to%20Make%20Mistakes%20in%20Python%20%284%29/How%20to%20Make%20Mistakes%20in%20Python%20-%20Mike%20Pirnat.epub)
 
 ### Tagek
-angol nyelvű, humoros, programozás, programozási módszertan, programozási nyelv, python, programming
+[angol nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/angol%20nyelv%c5%b1.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/humoros.md), [programozás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/programoz%c3%a1s.md), [programozási módszertan](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/programoz%c3%a1si%20m%c3%b3dszertan.md), [programozási nyelv](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/programoz%c3%a1si%20nyelv.md), [python](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/python.md), [programming](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/programming.md)
 
 ### Összefoglalás
 <div>

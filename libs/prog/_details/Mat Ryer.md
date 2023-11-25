@@ -1,11 +1,11 @@
 # <a name="id_14">Mat Ryer: Go Programming Blueprints (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Mat%20Ryer/Go%20Programming%20Blueprints%20%2814%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/prog/Mat%20Ryer/Go%20Programming%20Blueprints%20%2814%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Mat%20Ryer/Go%20Programming%20Blueprints%20%2814%29/Go%20Programming%20Blueprints%20-%20Mat%20Ryer.pdf)
+[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/prog/Mat%20Ryer/Go%20Programming%20Blueprints%20%2814%29/Go%20Programming%20Blueprints%20-%20Mat%20Ryer.pdf)
 
 ### Tagek
-computers, languages, general, programming, algorithms, go
+[computers](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/computers.md), [languages](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/languages.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/general.md), [programming](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/programming.md), [algorithms](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/algorithms.md), [go](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/go.md)
 
 ### Összefoglalás
 <div>

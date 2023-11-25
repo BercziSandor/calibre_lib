@@ -1,11 +1,11 @@
 # <a name="id_12">Carl Albing: Bash Cookbook: Solutions and Examples for Bash Users (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Carl%20Albing/Bash%20Cookbook_%20Solutions%20and%20Example%20%2812%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/prog/Carl%20Albing/Bash%20Cookbook_%20Solutions%20and%20Example%20%2812%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Carl%20Albing/Bash%20Cookbook_%20Solutions%20and%20Example%20%2812%29/Bash%20Cookbook_%20Solutions%20and%20Ex%20-%20Carl%20Albing.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/prog/Carl%20Albing/Bash%20Cookbook_%20Solutions%20and%20Example%20%2812%29/Bash%20Cookbook_%20Solutions%20and%20Ex%20-%20Carl%20Albing.epub)
 
 ### Tagek
-computers, operating systems, unix, linux, languages, general, scripting, bash script
+[computers](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/computers.md), [operating systems](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/operating%20systems.md), [unix](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/unix.md), [linux](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/linux.md), [languages](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/languages.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/general.md), [scripting](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/scripting.md), [bash script](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/bash%20script.md)
 
 ### Összefoglalás
 <div>

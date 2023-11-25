@@ -1,11 +1,11 @@
 # <a name="id_3">Caleb Hattingh: 20 Python Libraries You Aren’t Using (But Should) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Caleb%20Hattingh/20%20Python%20Libraries%20You%20Aren%27t%20Using%20%283%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/prog/Caleb%20Hattingh/20%20Python%20Libraries%20You%20Aren%27t%20Using%20%283%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Caleb%20Hattingh/20%20Python%20Libraries%20You%20Aren%27t%20Using%20%283%29/20%20Python%20Libraries%20You%20Aren%27t%20-%20Caleb%20Hattingh.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/prog/Caleb%20Hattingh/20%20Python%20Libraries%20You%20Aren%27t%20Using%20%283%29/20%20Python%20Libraries%20You%20Aren%27t%20-%20Caleb%20Hattingh.epub)
 
 ### Tagek
-angol nyelvű, informatika, programozás, programozási nyelv, számítástechnika, számítógép-hálózatok, python, programming
+[angol nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/angol%20nyelv%c5%b1.md), [informatika](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/informatika.md), [programozás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/programoz%c3%a1s.md), [programozási nyelv](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/programoz%c3%a1si%20nyelv.md), [számítástechnika](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/sz%c3%a1m%c3%adt%c3%a1stechnika.md), [számítógép-hálózatok](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/sz%c3%a1m%c3%adt%c3%b3g%c3%a9p-h%c3%a1l%c3%b3zatok.md), [python](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/python.md), [programming](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/programming.md)
 
 ### Összefoglalás
 <div>
