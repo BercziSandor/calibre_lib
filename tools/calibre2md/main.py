@@ -58,7 +58,7 @@ def main():
         library = get_script_directory().parent.parent / 'libs' / args.library
 
     lib = Library(root_dir=library)
-    lib.gen_md()
+    lib.gen_md_by_authors()
 
 
 if __name__ == '__main__':

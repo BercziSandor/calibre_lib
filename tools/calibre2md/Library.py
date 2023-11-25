@@ -70,10 +70,41 @@ class Library:
     def get_md_for_auth(self, creator, books):
         doc = snakemd.new_doc("Example")
 
-    def gen_md_tags(self):
-        pass
+    def gen_md_by_tags(self):
+        catalog_file_name = 'catalog_tags.md'
+        details_file_name = 'catalog_tags_details.md'
+        books_tags = self.sort_books_tag(self.opfs)
 
-    def gen_md(self):
+        details_folder = self.root_dir / '_details'
+        if not details_folder.exists():
+            details_folder.mkdir()
+
+        # https://github.com/TheRenegadeCoder/SnakeMD
+        # https://therenegadecoder.com/code/the-complete-guide-to-snakemd-a-python-library-for-generating-markdown/
+        doc = snakemd.new_doc("Example")
+        doc.add_header("Könyvek tagek szerint")
+        doc.add_table_of_contents()
+
+        for tag, opfs in books_tags.items():
+            doc.add_header(tag, level=2)
+            books = []
+            for opf in opfs:
+                if len(opf.books) > 0:
+                    creator = opf.creator
+                    details_file_name = f"{creator}.md"
+                    details_file_name_quoted = urllib.parse.quote(
+                        "_details/" + details_file_name)
+                    link_details = f"[részletek]({details_file_name_quoted}#id_{opf.id})"
+                    books.append(f"{opf.creator}: {opf.title} {link_details}")
+            doc.add_unordered_list(books)
+
+        catalog_content = str(doc)
+        out_file = self.root_dir / catalog_file_name
+        out_file.write_text(catalog_content, encoding='utf-8')
+
+        return out_file
+
+    def gen_md_by_authors(self):
         details_content = "### Részletek\n"
         catalog_file_name = 'catalog.md'
         details_file_name = 'catalog_details.md'
@@ -87,29 +118,11 @@ class Library:
         # https://github.com/TheRenegadeCoder/SnakeMD
         # https://therenegadecoder.com/code/the-complete-guide-to-snakemd-a-python-library-for-generating-markdown/
         doc = snakemd.new_doc("Example")
-        doc.add_header("Könyvek")
+        doc.add_header("Könyvek szerzők szerint")
         doc.add_table_of_contents()
 
-        if False:
-            # doc.add_paragraph("par1_text")
-            doc.add_header("Tagek szerint", level=2)
-            for tag, opfs in books_tags.items():
-                doc.add_header(tag, level=3)
-                books = []
-                for opf in opfs:
-                    if len(opf.books) > 0:
-                        creator = opf.creator
-                        details_file_name = f"{creator}.md"
-                        details_file_name_quoted = urllib.parse.quote(
-                            "_details/" + details_file_name)
-                        link_details = f"[részletek]({details_file_name_quoted}#id_{opf.id})"
-                        books.append(f"{opf.creator}: {opf.title} {link_details}")
-                doc.add_unordered_list(books)
-
-        doc.add_header("Szerzők szerint", level=2)
-
         for creator, books in books_auth_year_series.items():
-            doc.add_header(creator, level=3)
+            doc.add_header(creator, level=2)
 
             details_file_name = f"{creator}.md"
             details_file_name_quoted = urllib.parse.quote(
