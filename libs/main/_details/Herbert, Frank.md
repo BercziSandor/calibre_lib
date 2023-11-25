@@ -57,7 +57,7 @@ Arrakis a sivatagbolygó, amit Dűnének hívtak, megsemmisült. Így most a Ben
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Herbert%2C%20Frank/Vedett%20nok%20%28702%29/Vedett%20nok%20-%20Herbert%2C%20Frank.epub)
 
 ### Tagek
-[írország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/%c3%8drorsz%c3%a1g.md), [járvány](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/j%c3%a1rv%c3%a1ny.md), [nemi szerep](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/nemi%20szerep.md), [nők](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/n%c5%91k.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reg%c3%a9ny.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/sci-fi.md), [terrorizmus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/terrorizmus.md)
+[írország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/%c3%adrorsz%c3%a1g.md), [járvány](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/j%c3%a1rv%c3%a1ny.md), [nemi szerep](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/nemi%20szerep.md), [nők](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/n%c5%91k.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reg%c3%a9ny.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/sci-fi.md), [terrorizmus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/terrorizmus.md)
 
 ### Összefoglalás
 <div><p class="description">Vigyázat! Cselekményleírást tartalmaz.<br>Az a bizonyos homokszem…</p>

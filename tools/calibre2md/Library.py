@@ -105,12 +105,12 @@ class Library:
 
             tag_file.write_text(str(md_Tag), encoding='utf-8')
 
-            tag_file_name_quoted = self.catalog_url.replace('/libs/',
-                                                            '/blob/main/libs/') \
-                                   + "/_tags/" \
-                                   + urllib.parse.quote(
-                f"{self.get_tag_corrected(tag)}.md")
-            tags += f"[{tag}]({tag_file_name_quoted}) "
+            # tag_file_name_quoted = self.catalog_url.replace('/libs/',
+            #                                                 '/blob/main/libs/') \
+            #                        + "/_tags/" \
+            #                        + urllib.parse.quote(
+            #     f"{self.get_tag_corrected(tag)}.md")
+            tags += self.get_tag_link(tag)
 
         md_TagList.add_paragraph(tags)
 
@@ -204,7 +204,7 @@ class Library:
     def get_tag_corrected(self, subj) -> str:
         return subj.replace("(", " ").replace(")", " ").replace(
             "\\", "_").replace(
-            "/", "_").replace("  ", " ").rstrip().lstrip()
+            "/", "_").replace("  ", " ").rstrip().lstrip().lower()
 
     def get_tag_link(self, subj) -> str:
         tag_file_link = self.catalog_url.replace('/libs/', '/blob/main/libs/') \

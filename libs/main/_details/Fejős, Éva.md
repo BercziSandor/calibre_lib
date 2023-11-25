@@ -58,7 +58,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fejos%2C%20Eva/Szeretlek%2C%20Bangkok%20%28774%29/Szeretlek%2C%20Bangkok%20-%20Fejos%2C%20Eva.epub)
 
 ### Tagek
-[21. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/21.%20sz%c3%a1zad.md), [délkelet-ázsia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/d%c3%a9lkelet-%c3%81zsia.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [thaiföld](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/thaif%c3%b6ld.md), [útleírás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/%c3%batle%c3%adr%c3%a1s.md)
+[21. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/21.%20sz%c3%a1zad.md), [délkelet-ázsia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/d%c3%a9lkelet-%c3%a1zsia.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [thaiföld](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/thaif%c3%b6ld.md), [útleírás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/%c3%batle%c3%adr%c3%a1s.md)
 
 ### Összefoglalás
 <div>

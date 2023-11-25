@@ -686,7 +686,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Eletem%20%281774%29/Eletem%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-[biography](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/biography.md), [mystery](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/mystery.md), [history](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/history.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/crime.md), [életrajzok](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/%c3%89letrajzok.md), [visszaemlékezések](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/visszaeml%c3%a9kez%c3%a9sek.md)
+[biography](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/biography.md), [mystery](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/mystery.md), [history](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/history.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/crime.md), [életrajzok](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/%c3%a9letrajzok.md), [visszaemlékezések](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/visszaeml%c3%a9kez%c3%a9sek.md)
 
 ### Összefoglalás
 <div>
