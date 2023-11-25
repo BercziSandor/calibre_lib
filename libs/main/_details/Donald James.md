@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Donald%20James/Monstrum%20%28654%29/Monstrum%20-%20Donald%20James.epub)
 
 ### Tagek
-[brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/brit%20szerz%c5%91.md), [disztópia](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/diszt%c3%b3pia.md), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20nyelv%c5%b1.md), [oroszország](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/oroszorsz%c3%a1g.md), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/sorozat%20r%c3%a9sze.md), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/thriller.md)
+[brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/brit%20szerz%c5%91.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/diszt%c3%b3pia.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [oroszország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/oroszorsz%c3%a1g.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/sorozat%20r%c3%a9sze.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/thriller.md)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Donald%20James/A%20jovendomondo%20%28653%29/A%20jovendomondo%20-%20Donald%20James.epub)
 
 ### Tagek
-[brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/brit%20szerz%c5%91.md), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20nyelv%c5%b1.md), [oroszország](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/oroszorsz%c3%a1g.md), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/sorozat%20r%c3%a9sze.md), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/thriller.md)
+[brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/brit%20szerz%c5%91.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [oroszország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/oroszorsz%c3%a1g.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/sorozat%20r%c3%a9sze.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/thriller.md)
 
 ### Összefoglalás
 <p>A helyszín: Murmanszk. Az időpont: 2017, száz évvel a Nagy Októberi 
@@ -43,7 +43,7 @@ nyomára bukkanjon egy olyan gyilkosnak, aki egyszerre zseniális,
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Donald%20James/Vadim%20%28655%29/Vadim%20-%20Donald%20James.epub)
 
 ### Tagek
-[brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/brit%20szerz%c5%91.md), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20nyelv%c5%b1.md), [oroszország](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/oroszorsz%c3%a1g.md), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/sorozat%20r%c3%a9sze.md), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/thriller.md)
+[brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/brit%20szerz%c5%91.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [oroszország](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/oroszorsz%c3%a1g.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/sorozat%20r%c3%a9sze.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/thriller.md)
 
 ### Összefoglalás
 <p>A polgárháború már a múlté, de Oroszország továbbra sem lélegezhet fel. 

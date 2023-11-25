@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ken%20Follett/Fall%20of%20Giants%20%281641%29/Fall%20of%20Giants%20-%20Ken%20Follett.epub)
 
 ### Tagek
-[war](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/war.md), [adult](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/adult.md)
+[war](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/war.md), [adult](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/adult.md)
 
 ### Összefoglalás
 <div>
@@ -29,7 +29,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ken%20Follett/Az%20ordog%20muve%20%28807%29/Az%20ordog%20muve%20-%20Ken%20Follett.epub)
 
 ### Tagek
-[amerikai](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/amerikai.md), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/brit%20szerz%c5%91.md), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/reg%c3%a9ny.md), [skócia](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/sk%c3%b3cia.md), [walesi szerző](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/walesi%20szerz%c5%91.md)
+[amerikai](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/amerikai.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/brit%20szerz%c5%91.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/reg%c3%a9ny.md), [skócia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/sk%c3%b3cia.md), [walesi szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/walesi%20szerz%c5%91.md)
 
 ### Összefoglalás
 <div>

@@ -6,7 +6,7 @@
  [prc](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/A%20hipnotizor%20%281681%29/A%20hipnotizor%20-%20Lars%20Kepler.prc)
 
 ### Tagek
-[mystery](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/mystery.md), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/thriller.md), [crime](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/crime.md), [suspense](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/suspense.md)
+[mystery](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/mystery.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/thriller.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/crime.md), [suspense](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/suspense.md)
 
 ### Összefoglalás
 <div>
@@ -20,7 +20,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/A%20Paganini-szerzodes%20%28674%29/A%20Paganini-szerzodes%20-%20Lars%20Kepler.epub)
 
 ### Tagek
-[kortárs](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/kort%c3%a1rs.md), [macska](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/macska.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/sorozat%20r%c3%a9sze.md), [svéd szerző](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/sv%c3%a9d%20szerz%c5%91.md), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/thriller.md), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/krimi.md), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/skandin%c3%a1v.md)
+[kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/kort%c3%a1rs.md), [macska](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/macska.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/sorozat%20r%c3%a9sze.md), [svéd szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/sv%c3%a9d%20szerz%c5%91.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/thriller.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/krimi.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/skandin%c3%a1v.md)
 
 ### Összefoglalás
 <div>
@@ -34,7 +34,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/A%20tuz%20tanuja%20%281677%29/A%20tuz%20tanuja%20-%20Lars%20Kepler.epub)
 
 ### Tagek
-[thriller](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/thriller.md), [mystery](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/mystery.md), [suspense](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/suspense.md)
+[thriller](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/thriller.md), [mystery](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/mystery.md), [suspense](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/suspense.md)
 
 ### Összefoglalás
 <div>
@@ -45,7 +45,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/A%20Bosszuallo%20%281678%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-[thriller](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/thriller.md), [mystery](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/mystery.md), [suspense](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/suspense.md)
+[thriller](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/thriller.md), [mystery](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/mystery.md), [suspense](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/suspense.md)
 
 ### Összefoglalás
 <div>
@@ -56,7 +56,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/Lesben%20%281680%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-[krimi](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/reg%c3%a9ny.md), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/skandin%c3%a1v.md)
+[krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/reg%c3%a9ny.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/skandin%c3%a1v.md)
 
 ### Összefoglalás
 <p class="description">A ​svéd rendőrség szokatlan e-mailt kap: egy videót, amelyen egy nő látszik, akit az ablakon keresztül vettek filmre, titokban, intim közelségből. Másnap a nőt holtan találják otthonában, és meggyilkolásának ördögi brutalitása még a sokat látott nyomozókat is sokkolja. Pár nappal később újabb hasonló videó érkezik a rendőrségre, ám esélyük sincs időben azonosítani a potenciális áldozatot – ő is megcsonkítva végzi. Holttestére a férje talál rá, aki annyira kiborul a látványtól, hogy a bűntett összes nyomát eltünteti, felesége testét lemossa, és ágyba fekteti, mintha csak aludna. A kihallgatásával sem sokra mennek: az átélt trauma hatására elveszíti emlékeit. Ekkor fordulnak Dr. Erik Maria Barkhoz, a hipnózisban jártas bűnügyi pszichiáterhez, abban a reményben, hogy neki talán sikerülhet feloldani a férfi emlékképeit. Erik azonban olyasmit derít ki a hipnózis során, amit nem akar megosztani a rendőrséggel. A testületnek nagy szüksége lenne Joona Linna felügyelő segítségére, ám ő a szóbeszéd szerint egy évvel ezelőtt vízbe fulladt.</p>
@@ -66,7 +66,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/Nyulvadasz%20%281679%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-[krimi](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/reg%c3%a9ny.md), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/skandin%c3%a1v.md), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/sorozat%20r%c3%a9sze.md), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/sorozatgyilkoss%c3%a1g.md), [svéd szerző](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/sv%c3%a9d%20szerz%c5%91.md)
+[krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/reg%c3%a9ny.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/skandin%c3%a1v.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/sorozat%20r%c3%a9sze.md), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/sorozatgyilkoss%c3%a1g.md), [svéd szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/sv%c3%a9d%20szerz%c5%91.md)
 
 ### Összefoglalás
 Joona Linna már két évet letöltött büntetéséből a Kumlai Zárt Fegyintézetben, amikor a rendőrség segítségért fordul hozzá egy magas rangú személy brutális meggyilkolásának ügyében. Hamarosan bizonyosságot nyer, hogy az elkövető egy sorozatgyilkos. Áldozatai közt az egyetlen összekötő kapocs az, hogy haláluk előtt valamennyien kaptak egy hangfelvételt, amelyen egy gyerekhang egy nyulakról szóló mondókát ismételget. A sors úgy hozza, hogy Rex Müller, a tévé celebszakácsa kerül az események középpontjába, aki most először tölt el hosszabb időt felnőtt fiával, Sammyval. Három nyugis hét helyett azonban szörnyű élet-halál harc vár rájuk. Joona Linna és Saga Bauer kénytelen titokban együttműködni, hogy megállítsák a Nyúlvadászt, mielőtt az teljesíthetné küldetését…
@@ -89,7 +89,7 @@ Svédország leghírhedtebb sorozatgyilkosát, Jurek Waltert évekkel ezelőtt k
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/Tukorember%20%281682%29/Tukorember%20-%20Lars%20Kepler.epub)
 
 ### Tagek
-[thriller](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/thriller.md), [crime](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/crime.md), [mystery](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/mystery.md), [adult](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/adult.md)
+[thriller](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/thriller.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/crime.md), [mystery](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/mystery.md), [adult](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/adult.md)
 
 ### Összefoglalás
 <div>

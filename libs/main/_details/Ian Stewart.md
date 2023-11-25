@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ian%20Stewart/A%20termeszet%20szamai%20%28781%29/A%20termeszet%20szamai%20-%20Ian%20Stewart.epub)
 
 ### Tagek
-[ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/ismeretterjeszt%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20nyelv%c5%b1.md), [matematika](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/matematika.md), [tudományos](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/tudom%c3%a1nyos.md)
+[ismeretterjesztő](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/ismeretterjeszt%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [matematika](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/matematika.md), [tudományos](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/tudom%c3%a1nyos.md)
 
 ### Összefoglalás
 <div>

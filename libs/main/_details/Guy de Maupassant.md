@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Guy%20de%20Maupassant/Az%20orokseg_%20kisregenyek%20es%20valogato%20%28710%29/Az%20orokseg_%20kisregenyek%20es%20valo%20-%20Guy%20de%20Maupassant.epub)
 
 ### Tagek
-[irodalom](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/sz%c3%a9pirodalom.md), [novella](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/novella.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/elbesz%c3%a9l%c3%a9s.md)
+[irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/sz%c3%a9pirodalom.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/novella.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/elbesz%c3%a9l%c3%a9s.md)
 
 ### Összefoglalás
 <div>

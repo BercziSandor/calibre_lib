@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/John%20Keegan/A%20masodik%20vilaghaboru%20%28997%29/A%20masodik%20vilaghaboru%20-%20John%20Keegan.epub)
 
 ### Tagek
-[2. világháború](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/2.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [atlasz](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/atlasz.md), [történelem](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/t%c3%b6rt%c3%a9nelem.md)
+[2. világháború](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/2.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [atlasz](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/atlasz.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/t%c3%b6rt%c3%a9nelem.md)
 
 ### Összefoglalás
 <div><p class="description">A sorozat ujabb kötete az emberiseg törtenetenek legszörnyűbb és legpusztítóbb fegyveres konfliktusát mutatja be. A második világháború szinte az egész Földre kiterjedt, egyetlen lakott kontinens sem maradt érintetlenül a harcoktól. A Szovjetunió és az Egyesült Államok, Németország, Japán, Nagy-Britannia, Kína, Olaszország, Franciaország és számtalan más nemzet hadserege, hadiflottája és légiereje vett részt a legkülönbözőbb hadműveletekben. Addig soha nem látott méretű katonai összecsapások folytak a különböző szárazföldi és tengeri hadszíntereken, valamint a levegőben. Számtalan új pusztító fegyvert fejlesztettek ki és vetettek be a harcok során, aminek következtében a veszteségek emberéletben és anyagi javakban szinte felmérhetetlenek voltak. Becslések szerint a háború áldozatainak száma meghaladta az</p>

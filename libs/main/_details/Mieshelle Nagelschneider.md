@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mieshelle%20Nagelschneider/Macskakkal%20suttogo%20%281437%29/Macskakkal%20suttogo%20-%20Mieshelle%20Nagelschneider.epub)
 
 ### Tagek
-[állatbarát](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/%c3%a1llatbar%c3%a1t.md), [állatgondozás](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/%c3%a1llatgondoz%c3%a1s.md), [állattartás](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/%c3%a1llattart%c3%a1s.md), [amerikai](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/amerikai.md), [macska](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/macska.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20nyelv%c5%b1.md)
+[állatbarát](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/%c3%a1llatbar%c3%a1t.md), [állatgondozás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/%c3%a1llatgondoz%c3%a1s.md), [állattartás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/%c3%a1llattart%c3%a1s.md), [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/amerikai.md), [macska](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/macska.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md)
 
 ### Összefoglalás
 <div>

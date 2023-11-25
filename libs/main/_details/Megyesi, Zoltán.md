@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Megyesi%2C%20Zoltan/Titkosirasok%20%28413%29/Titkosirasok%20-%20Megyesi%2C%20Zoltan.epub)
 
 ### Tagek
-[ismeretközlő irodalom](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/ismeretk%c3%b6zl%c5%91%20irodalom.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/ismeretterjeszt%c5%91.md), [magyar](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20nyelv%c5%b1.md), [matematika](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/matematika.md), [írástechnika](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/%c3%adr%c3%a1stechnika.md)
+[ismeretközlő irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/ismeretk%c3%b6zl%c5%91%20irodalom.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/ismeretterjeszt%c5%91.md), [magyar](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [matematika](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/matematika.md), [írástechnika](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/%c3%adr%c3%a1stechnika.md)
 
 ### Összefoglalás
 <div>

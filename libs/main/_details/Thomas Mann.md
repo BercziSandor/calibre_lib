@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Thomas%20Mann/Jozsef%20es%20testverei%20%281491%29/Jozsef%20es%20testverei%20-%20Thomas%20Mann.epub)
 
 ### Tagek
-[novels](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/novels.md)
+[novels](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/novels.md)
 
 ### Összefoglalás
 <div>

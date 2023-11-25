@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szilagyi%20Vilmos/Intimkapcsolat%20kezikonyve%20%281523%29/Intimkapcsolat%20kezikonyve%20-%20Szilagyi%20Vilmos.epub)
 
 ### Tagek
-[szexológia](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/szexol%c3%b3gia.md), [szexualitás](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/szexualit%c3%a1s.md), [szexuálpszichológia](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/szexu%c3%a1lpszichol%c3%b3gia.md)
+[szexológia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szexol%c3%b3gia.md), [szexualitás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szexualit%c3%a1s.md), [szexuálpszichológia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/szexu%c3%a1lpszichol%c3%b3gia.md)
 
 ### Összefoglalás
 <div>

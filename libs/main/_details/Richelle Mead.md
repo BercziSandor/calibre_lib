@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Richelle%20Mead/A%20szukkubusz%20dala%20%281509%29/A%20szukkubusz%20dala%20-%20Richelle%20Mead.epub)
 
 ### Tagek
-[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/fantasy.md), [urban fantasy](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/urban%20fantasy.md)
+[fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/fantasy.md), [urban fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/urban%20fantasy.md)
 
 ### Összefoglalás
 <div>

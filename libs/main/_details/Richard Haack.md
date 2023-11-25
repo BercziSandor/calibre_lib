@@ -7,7 +7,7 @@
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Haack%2C%20Richard/Kemek%20konyve%20%28377%29/Kemek%20konyve%20-%20Richard%20Haack.epub)
 
 ### Tagek
-[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/magyar%20szerz%c5%91.md), [titkosszolgálat](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/titkosszolg%c3%a1lat.md), [megtörtént bűnügyek](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/megt%c3%b6rt%c3%a9nt%20b%c5%b1n%c3%bcgyek.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/sz%c3%a9pirodalom.md), [dokumentumregények](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/dokumentumreg%c3%a9nyek.md)
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/magyar%20szerz%c5%91.md), [titkosszolgálat](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/titkosszolg%c3%a1lat.md), [megtörtént bűnügyek](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/megt%c3%b6rt%c3%a9nt%20b%c5%b1n%c3%bcgyek.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/sz%c3%a9pirodalom.md), [dokumentumregények](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/dokumentumreg%c3%a9nyek.md)
 
 ### Összefoglalás
 <div>

@@ -6,7 +6,7 @@
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Brian%20Cox%2C%20Andrew%20Cohen/A%20termeszet%20eroi%20%281517%29/A%20termeszet%20eroi%20-%20Brian%20Cox.epub)
 
 ### Tagek
-[csillagászat](https://github.com/berczisandor/calibre_lib/libs/main/blob/main/_tags/csillag%c3%a1szat.md)
+[csillagászat](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/tags/csillag%c3%a1szat.md)
 
 ### Összefoglalás
 <div>

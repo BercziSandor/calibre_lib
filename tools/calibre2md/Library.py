@@ -105,7 +105,7 @@ class Library:
             tag_file.write_text(str(md_Tag), encoding='utf-8')
 
             tag_file_name_quoted = self.catalog_url + "/blob/main/_tags/" + urllib.parse.quote(
-                    f"{self.get_tag_corrected(tag)}.md")
+                f"{self.get_tag_corrected(tag)}.md")
             tags += f"[{tag}]({tag_file_name_quoted}) "
 
         md_TagList.add_paragraph(tags)
@@ -114,7 +114,6 @@ class Library:
         tagList_file.write_text(str(md_TagList), encoding='utf-8')
 
         return tagList_file
-
 
     def gen_md_by_authors(self):
         details_content = "### Részletek\n"
@@ -198,14 +197,12 @@ class Library:
         # print(md_content)
         return out_file
 
-
     def get_tag_corrected(self, subj):
         return subj.replace("(", " ").replace(")", " ").replace(
             "\\", "_").replace(
             "/", "_").replace("  ", " ").rstrip().lstrip()
 
-
     def get_tag_link(self, subj):
-        tag_file_link = f"{self.catalog_url}/blob/main/_tags/" + \
+        tag_file_link = f"{self.catalog_url.replace('/libs/', '/blob/main/libs/')}/tags/" + \
                         urllib.parse.quote(f"{self.get_tag_corrected(subj)}.md")
         return f"[{subj}]({tag_file_link})"
