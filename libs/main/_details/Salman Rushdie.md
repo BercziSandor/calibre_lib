@@ -5,7 +5,7 @@
 [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Salman%20Rushdie/Furiaduh%20%281452%29/Furiaduh%20-%20Salman%20Rushdie.azw3)
 
 ### Tagek
-1001 könyv listán szerepel, amerikai egyesült államok, brit szerző, indiai szerző, kortárs, mágikus realizmus, magyar nyelvű, new york
+[1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1001 könyv listán szerepel), [amerikai egyesült államok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai egyesült államok), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [indiai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/indiai szerző), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [mágikus realizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mágikus realizmus), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [new york](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/new york)
 
 ### Összefoglalás
 <div>

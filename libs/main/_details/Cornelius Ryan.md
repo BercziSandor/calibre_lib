@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Cornelius%20Ryan/A%20leghosszabb%20nap%20%281455%29/A%20leghosszabb%20nap%20-%20Cornelius%20Ryan.epub)
 
 ### Tagek
-2. világháború, 20. század, amerikai, filmadaptáció, háború, ír szerző, magyar nyelvű, regény, történelmi regény
+[2. világháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/2. világháború), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [amerikai](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [háború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/háború), [ír szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ír szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [történelmi regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelmi regény)
 
 ### Összefoglalás
 <div>

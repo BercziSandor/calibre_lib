@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Polcz%2C%20Alaine/Ideje%20a%20meghalasnak%20%281440%29/Ideje%20a%20meghalasnak%20-%20Polcz%2C%20Alaine.epub)
 
 ### Tagek
-erdélyi magyar szerző, gyász, halál, ismeretterjesztő, magyar nyelvű, magyar szerző, pszichológia, tanatológia, tudományos
+[erdélyi magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erdélyi magyar szerző), [gyász](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyász), [halál](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/halál), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia), [tanatológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tanatológia), [tudományos](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudományos)
 
 ### Összefoglalás
 <p>A halál hosszú ideig tabu volt. Orvosegyetemen nem tanították a haldoklók ellátását, pszichológusoknak sem. Így aztán orvos, nővér, családtagok, barátok egyformán felkészületlenek, többnyire nem tudnak mit kezdeni a haldoklóval, őszinte szó helyett szerepet játszanak, nem tudnak segíteni a szenvedő problémáinak megoldásában. Ügyetlenül küszködünk mindnyájan, hogy aztán magunk is egyedül maradjunk, mikor szembesülnünk kell. A különböző történelmi koroknak és civilizációknak megvolt a halál- és gyászrítusa. A mai modern ember keresi az utat, hogyan tudná elfogadni és feldolgozni a halál problémáját, megadni méltóságát és emberségét a halálhoz vezető útnak, a halálélménynek.E könyv témája ez az izgalmas út: miközben a múlt emberének halálviszonyát vizsgáljuk, azt is kutatjuk, mi az oka annak, hogy a mai ember annyira zavart, tanácstalan a halállal szemben. (Polcz Alaine)</p>
@@ -18,7 +18,7 @@ erdélyi magyar szerző, gyász, halál, ismeretterjesztő, magyar nyelvű, magy
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Polcz%2C%20Alaine/Meghalok%20en%20is_%20%281441%29/Meghalok%20en%20is_%20-%20Polcz%2C%20Alaine.epub)
 
 ### Tagek
-erdélyi magyar szerző, gyermeklélektan, gyermekszemszög, halál, kortárs, magyar nyelvű, magyar szerző, pszichológia, tanatológia
+[erdélyi magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erdélyi magyar szerző), [gyermeklélektan](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermeklélektan), [gyermekszemszög](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekszemszög), [halál](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/halál), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia), [tanatológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tanatológia)
 
 ### Összefoglalás
 <div>
@@ -32,7 +32,7 @@ erdélyi magyar szerző, gyermeklélektan, gyermekszemszög, halál, kortárs, m
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Polcz%2C%20Alaine/Rend%20es%20rendetlenseg%20%281442%29/Rend%20es%20rendetlenseg%20-%20Polcz%2C%20Alaine.epub)
 
 ### Tagek
-életmód, erdélyi magyar szerző, ismeretterjesztő, magyar nyelvű, magyar szerző, pszichológia, szociálpszichológia, tanulmány, psychology, lifestyle, self-help
+[életmód](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életmód), [erdélyi magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erdélyi magyar szerző), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia), [szociálpszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szociálpszichológia), [tanulmány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tanulmány), [psychology](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/psychology), [lifestyle](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lifestyle), [self-help](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/self-help)
 
 ### Összefoglalás
 <div>
@@ -52,7 +52,7 @@ erdélyi magyar szerző, gyermeklélektan, gyermekszemszög, halál, kortárs, m
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Polcz%2C%20Alaine/Macskaregeny%20%281439%29/Macskaregeny%20-%20Polcz%2C%20Alaine.epub)
 
 ### Tagek
-20. század, állattörténet, erdélyi magyar szerző, hangoskönyv, kortárs, kutya, macska, magyar nyelvű, magyar szerző, memoár
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [állattörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állattörténet), [erdélyi magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erdélyi magyar szerző), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [kutya](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kutya), [macska](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/macska), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [memoár](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/memoár)
 
 ### Összefoglalás
 <div>

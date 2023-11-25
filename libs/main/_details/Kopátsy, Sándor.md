@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kopatsy%2C%20Sandor/Az%20Orban%20jelenseg%20%281645%29/Az%20Orban%20jelenseg%20-%20Kopatsy%2C%20Sandor.epub)
 
 ### Tagek
-orbán, politika
+[orbán](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orbán), [politika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/politika)
 
 ### Összefoglalás
 <div>

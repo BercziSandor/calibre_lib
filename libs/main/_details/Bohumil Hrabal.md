@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Ofelsege%20pincere%20voltam%20%28446%29/Ofelsege%20pincere%20voltam%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
-20. század, cseh szerző, felnőtt tartalom, férfi főszereplő, filmadaptáció, groteszk, hangoskönyv, irónia, klasszikus, magyar nyelvű, szatíra, szexualitás, lélektani regények, európa, cseh köztársaság, az író származása szerint, szépirodalom, elbeszélés, regény, karriertörténetek, novella, tartalom szerint
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [cseh szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh szerző), [felnőtt tartalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/felnőtt tartalom), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [groteszk](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/groteszk), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [irónia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irónia), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [szatíra](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szatíra), [szexualitás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szexualitás), [lélektani regények](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lélektani regények), [európa](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/európa), [cseh köztársaság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh köztársaság), [az író származása szerint](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/az író származása szerint), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [karriertörténetek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/karriertörténetek), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [tartalom szerint](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tartalom szerint)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Hazimurik%20%28445%29/Hazimurik%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
-20. század, cseh szerző, magyar nyelvű, önéletrajz, sorozat része, filozófikus regények, európa, cseh köztársaság, az író származása szerint, szépirodalom, elbeszélés, regény, novella, tartalom szerint
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [cseh szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [önéletrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önéletrajz), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [filozófikus regények](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filozófikus regények), [európa](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/európa), [cseh köztársaság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh köztársaság), [az író származása szerint](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/az író származása szerint), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [tartalom szerint](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tartalom szerint)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Vita%20nuova%20%28453%29/Vita%20nuova%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
-biography & autobiography, general, crafts & hobbies, fiction, regény, irodalom, szépirodalom, önéletrajz
+[biography & autobiography](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/biography & autobiography), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general), [crafts & hobbies](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crafts & hobbies), [fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [önéletrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önéletrajz)
 
 ### Összefoglalás
 <div>
@@ -47,7 +47,7 @@ biography & autobiography, general, crafts & hobbies, fiction, regény, irodalom
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Foghijak%20%28442%29/Foghijak%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
-20. század, cseh szerző, magyar nyelvű, önéletrajz, sorozat része, elbeszélés, naplók, európa, cseh köztársaság, az író származása szerint, szépirodalom, életrajzi regények, regény, novella, tartalom szerint, memoár
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [cseh szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [önéletrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önéletrajz), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés), [naplók](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/naplók), [európa](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/európa), [cseh köztársaság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh köztársaság), [az író származása szerint](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/az író származása szerint), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [életrajzi regények](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életrajzi regények), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [tartalom szerint](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tartalom szerint), [memoár](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/memoár)
 
 ### Összefoglalás
 <div>
@@ -61,7 +61,7 @@ biography & autobiography, general, crafts & hobbies, fiction, regény, irodalom
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Sorgyari%20capriccio%20%28448%29/Sorgyari%20capriccio%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
-111 híres regény, 20. század, cseh szerző, filmadaptáció, hangoskönyv, házasság, humoros, kisregény, klasszikus, magyar nyelvű, sorozat része, zsebkönyv, regény, irodalom, szépirodalom
+[111 híres regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/111 híres regény), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [cseh szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh szerző), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [házasság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/házasság), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [kisregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kisregény), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [zsebkönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/zsebkönyv), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>
@@ -75,7 +75,7 @@ biography & autobiography, general, crafts & hobbies, fiction, regény, irodalom
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Diszgyasz%20%28440%29/Diszgyasz%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
-cseh szerző, magyar nyelvű, regény, sorozat része, elbeszélés, cseh, 20. század
+[cseh szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés), [cseh](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század)
 
 ### Összefoglalás
 <div>
@@ -95,7 +95,7 @@ cseh szerző, magyar nyelvű, regény, sorozat része, elbeszélés, cseh, 20. s
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/A%20varoska%2C%20ahol%20megallt%20az%20ido%20%28439%29/A%20varoska%2C%20ahol%20megallt%20az%20ido%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
-20. század, cseh szerző, kisregény, magyar nyelvű, európa, cseh köztársaság, az író származása szerint, szépirodalom, regény, novella, elbeszélés
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [cseh szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh szerző), [kisregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kisregény), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [európa](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/európa), [cseh köztársaság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh köztársaság), [az író származása szerint](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/az író származása szerint), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés)
 
 ### Összefoglalás
 <div>
@@ -109,7 +109,7 @@ cseh szerző, magyar nyelvű, regény, sorozat része, elbeszélés, cseh, 20. s
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Veres%20tortenetek%20es%20legendak%20%28452%29/Veres%20tortenetek%20es%20legendak%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
-cseh szerző, magyar nyelvű, szürrealizmus, elbeszélés, novella, cseh, 20. század
+[cseh szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [szürrealizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szürrealizmus), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [cseh](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század)
 
 ### Összefoglalás
 <div>
@@ -123,7 +123,7 @@ cseh szerző, magyar nyelvű, szürrealizmus, elbeszélés, novella, cseh, 20. s
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Egy%20osztalyismetlo%20emlekezesei%20%28969%29/Egy%20osztalyismetlo%20emlekezesei%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
-20. század, cseh szerző, életrajz, magyar nyelvű, regény
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [cseh szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh szerző), [életrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életrajz), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>
@@ -137,7 +137,7 @@ cseh szerző, magyar nyelvű, szürrealizmus, elbeszélés, novella, cseh, 20. s
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Rozsalovag%20%28447%29/Rozsalovag%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
-20. század, cseh szerző, magyar nyelvű, napló, elbeszélés, naplók, európa, cseh köztársaság, az író származása szerint, szépirodalom, életrajzi regények, regény, novella, tartalom szerint, memoár, önéletrajz
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [cseh szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [napló](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/napló), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés), [naplók](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/naplók), [európa](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/európa), [cseh köztársaság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh köztársaság), [az író származása szerint](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/az író származása szerint), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [életrajzi regények](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életrajzi regények), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [tartalom szerint](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tartalom szerint), [memoár](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/memoár), [önéletrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önéletrajz)
 
 ### Összefoglalás
 <div>
@@ -151,7 +151,7 @@ cseh szerző, magyar nyelvű, szürrealizmus, elbeszélés, novella, cseh, 20. s
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Szigoruan%20ellenorzott%20vonatok%20%28449%29/Szigoruan%20ellenorzott%20vonatok%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
-1940-es évek, cseh szerző, csehország, erotikus, férfi főszereplő, kisregény, klasszikus, magyar nyelvű, öngyilkosság, énregény, hangoskönyv, háború, világháború, 20. század, fejlődésregény, groteszk, cseh, vasút, kortárs, filmadaptáció, halál, fekete humor, szex, 2. világháború, regény, 1001 könyv listán szerepel
+[1940-es évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1940-es évek), [cseh szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh szerző), [csehország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/csehország), [erotikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erotikus), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [kisregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kisregény), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [öngyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/öngyilkosság), [énregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/énregény), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [háború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/háború), [világháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/világháború), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [fejlődésregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fejlődésregény), [groteszk](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/groteszk), [cseh](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh), [vasút](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vasút), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [halál](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/halál), [fekete humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fekete humor), [szex](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szex), [2. világháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/2. világháború), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1001 könyv listán szerepel)
 
 ### Összefoglalás
 <div>
@@ -165,7 +165,7 @@ cseh szerző, magyar nyelvű, szürrealizmus, elbeszélés, novella, cseh, 20. s
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Tukrok%20arulasa%20%28451%29/Tukrok%20arulasa%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
-20. század, abszurd, cseh szerző, groteszk, magyar nyelvű, realizmus, elbeszélés, irodalom, novella, szépirodalom
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [abszurd](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/abszurd), [cseh szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh szerző), [groteszk](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/groteszk), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [realizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/realizmus), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>
@@ -179,7 +179,7 @@ cseh szerző, magyar nyelvű, szürrealizmus, elbeszélés, novella, cseh, 20. s
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Gyonged%20barbarok%20%28443%29/Gyonged%20barbarok%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
-cseh szerző, felnőtt tartalom, magyar nyelvű, zsebkönyv, abszurd, cseh, regény, 20. század
+[cseh szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh szerző), [felnőtt tartalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/felnőtt tartalom), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [zsebkönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/zsebkönyv), [abszurd](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/abszurd), [cseh](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század)
 
 ### Összefoglalás
 <div>
@@ -193,7 +193,7 @@ cseh szerző, felnőtt tartalom, magyar nyelvű, zsebkönyv, abszurd, cseh, reg�
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Tancorak%20idosebbeknek%20es%20haladoknak%20%28450%29/Tancorak%20idosebbeknek%20es%20halado%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
-cseh szerző, énregény, hangoskönyv, magyar nyelvű, 20. század, kisregény, cseh, szépirodalom, válogatás, regény, novella, elbeszélés
+[cseh szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh szerző), [énregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/énregény), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [kisregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kisregény), [cseh](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cseh), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [válogatás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/válogatás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés)
 
 ### Összefoglalás
 <div>

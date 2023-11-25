@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Orvos-Toth%2C%20Noemi/Orokolt%20sors%20%281290%29/Orokolt%20sors%20-%20Orvos-Toth%2C%20Noemi.epub)
 
 ### Tagek
-család, gyermeknevelés, ismeretterjesztő, lélektani, magyar nyelvű, magyar szerző, önismeret, önsegítő, pszichológia, pszichoterápia, személyiségpszichológia, szülői szerep, társadalomtudomány
+[család](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/család), [gyermeknevelés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermeknevelés), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [lélektani](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lélektani), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [önismeret](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önismeret), [önsegítő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önsegítő), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia), [pszichoterápia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichoterápia), [személyiségpszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/személyiségpszichológia), [szülői szerep](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szülői szerep), [társadalomtudomány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társadalomtudomány)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Pasquale%20Festa%20Campanile/A%20szerelmes%20boszorkany%20%28975%29/A%20szerelmes%20boszorkany%20-%20Pasquale%20Festa%20Campanile.epub)
 
 ### Tagek
-17. század, boszorkány, inkvizíció, kurtizán, magyar nyelvű, női főszereplő, olasz szerző, pápa, irodalom, szépirodalom
+[17. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/17. század), [boszorkány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/boszorkány), [inkvizíció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/inkvizíció), [kurtizán](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kurtizán), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [olasz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/olasz szerző), [pápa](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pápa), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>

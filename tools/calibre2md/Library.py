@@ -19,6 +19,8 @@ class Library:
             print(f"Input directory {self.root_dir} does not exist, aborting.")
             sys.exit(1)
         self.repo_url = get_repo_url(root_dir.parent.parent)
+        self.catalog_url = self.repo_url + "/" + root_dir.parent.name + "/" + \
+                           root_dir.parent.parent.name
         self.opfs = self.get_opfs()
 
     @staticmethod

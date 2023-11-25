@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Greg%20Iles/Huszonnegy%20ora%20%28780%29/Huszonnegy%20ora%20-%20Greg%20Iles.epub)
 
 ### Tagek
-21. század, akció, amerikai szerző, gyermekrablás, kaland, magyar nyelvű, regény, irodalom, szórakoztató irodalom, krimi, bûnügyi, thriller
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [akció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/akció), [amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [gyermekrablás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekrablás), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [bûnügyi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/bûnügyi), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vass%2C%20Virag/Krasznaja%20Moszkva%20%28306%29/Krasznaja%20Moszkva%20-%20Vass%2C%20Virag.epub)
 
 ### Tagek
-magyar nyelvű, magyar szerző, regény, kortárs, szórakoztató irodalom, romantikus
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ magyar nyelvű, magyar szerző, regény, kortárs, szórakoztató irodalom, roma
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vass%2C%20Virag/Sokszor%20csokol%2C%20India%21%20%28309%29/Sokszor%20csokol%2C%20India%21%20-%20Vass%2C%20Virag.epub)
 
 ### Tagek
-fiction, romance, general
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [romance](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romance), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general)
 
 ### Összefoglalás
 <div>

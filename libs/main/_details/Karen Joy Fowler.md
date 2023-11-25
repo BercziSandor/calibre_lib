@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karen%20Joy%20Fowler/A%20Jane%20Austen%20konyvklub%20%28629%29/A%20Jane%20Austen%20konyvklub%20-%20Karen%20Joy%20Fowler.epub)
 
 ### Tagek
-21. század, amerikai szerző, chick lit, filmadaptáció, kortárs, magyar nyelvű, regény, romantikus
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [chick lit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/chick lit), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus)
 
 ### Összefoglalás
 <div>

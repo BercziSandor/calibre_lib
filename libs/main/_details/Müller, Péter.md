@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Muller%2C%20Peter/Sorsrol%20es%20eletrol%20%28114%29/Sorsrol%20es%20eletrol%20-%20Muller%2C%20Peter.epub)
 
 ### Tagek
-aforizma, életmód, magyar nyelvű, magyar szerző, sorozat része, ezotéria
+[aforizma](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/aforizma), [életmód](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életmód), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ezotéria)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ aforizma, életmód, magyar nyelvű, magyar szerző, sorozat része, ezotéria
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Muller%2C%20Peter/Boldogsag%20%28112%29/Boldogsag%20-%20Muller%2C%20Peter.epub)
 
 ### Tagek
-ezotéria, hit, kereszténység, magyar nyelvű, magyar szerző, paratudományok, szellemek, vallás
+[ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ezotéria), [hit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hit), [kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kereszténység), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [paratudományok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/paratudományok), [szellemek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szellemek), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallás)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@ ezotéria, hit, kereszténység, magyar nyelvű, magyar szerző, paratudományok
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Muller%2C%20Peter/Kigyo%20es%20kereszt%20%28113%29/Kigyo%20es%20kereszt%20-%20Muller%2C%20Peter.epub)
 
 ### Tagek
-ezotéria, hit, kereszténység, magyar nyelvű, magyar szerző, paratudományok, pszichológia, spiritualitás, szellemek, vallás
+[ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ezotéria), [hit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hit), [kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kereszténység), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [paratudományok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/paratudományok), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia), [spiritualitás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/spiritualitás), [szellemek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szellemek), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallás)
 
 ### Összefoglalás
 <div>
@@ -47,7 +47,7 @@ ezotéria, hit, kereszténység, magyar nyelvű, magyar szerző, paratudományok
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Muller%2C%20Peter/Oromkonyv%20%28110%29/Oromkonyv%20-%20Muller%2C%20Peter.epub)
 
 ### Tagek
-21. század, ezotéria, kereszténység, magyar nyelvű, magyar szerző, önsegítő, vallás
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ezotéria), [kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kereszténység), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [önsegítő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önsegítő), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallás)
 
 ### Összefoglalás
 <div>
@@ -61,7 +61,7 @@ ezotéria, hit, kereszténység, magyar nyelvű, magyar szerző, paratudományok
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Muller%2C%20Peter/Gondviseles%20%28270%29/Gondviseles%20-%20Muller%2C%20Peter.epub)
 
 ### Tagek
-kortárs, magyar nyelvű, magyar szerző, ezotéria
+[kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ezotéria)
 
 ### Összefoglalás
 <div>
@@ -75,7 +75,7 @@ kortárs, magyar nyelvű, magyar szerző, ezotéria
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Muller%2C%20Peter/Titkos%20tanitasok%20%28116%29/Titkos%20tanitasok%20-%20Muller%2C%20Peter.epub)
 
 ### Tagek
-kereszténység, magyar nyelvű, magyar szerző, parapszichológia, paratudományok, spiritualitás, vallás, ezoterikus elméletek, ezotéria
+[kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kereszténység), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [parapszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/parapszichológia), [paratudományok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/paratudományok), [spiritualitás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/spiritualitás), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallás), [ezoterikus elméletek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ezoterikus elméletek), [ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ezotéria)
 
 ### Összefoglalás
 <div>
@@ -89,7 +89,7 @@ kereszténység, magyar nyelvű, magyar szerző, parapszichológia, paratudomán
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Muller%2C%20Peter/Benso%20mosoly%20%28111%29/Benso%20mosoly%20-%20Muller%2C%20Peter.epub)
 
 ### Tagek
-21. század, ezotéria, kereszténység, magyar nyelvű, magyar szerző, vallás, philosophy
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ezotéria), [kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kereszténység), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallás), [philosophy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/philosophy)
 
 ### Összefoglalás
 <div>
@@ -103,7 +103,7 @@ kereszténység, magyar nyelvű, magyar szerző, parapszichológia, paratudomán
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Muller%2C%20Peter/Szeretetkonyv%20%28115%29/Szeretetkonyv%20-%20Muller%2C%20Peter.epub)
 
 ### Tagek
-kereszténység, lélektani, mágia, magyar nyelvű, magyar szerző, paratudományok, pszichológia, spiritualitás, vallás
+[kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kereszténység), [lélektani](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lélektani), [mágia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mágia), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [paratudományok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/paratudományok), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia), [spiritualitás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/spiritualitás), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallás)
 
 ### Összefoglalás
 <div>
@@ -117,7 +117,7 @@ kereszténység, lélektani, mágia, magyar nyelvű, magyar szerző, paratudomá
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Muller%2C%20Peter/Varazsko%20%28117%29/Varazsko%20-%20Muller%2C%20Peter.epub)
 
 ### Tagek
-ezotéria, kereszténység, magyar nyelvű, magyar szerző, vallás
+[ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ezotéria), [kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kereszténység), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallás)
 
 ### Összefoglalás
 <div>

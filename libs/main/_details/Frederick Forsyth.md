@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frederick%20Forsyth/Profi%20munka%20%28775%29/Profi%20munka%20-%20Frederick%20Forsyth.epub)
 
 ### Tagek
-brit, elbeszélés
+[brit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés)
 
 ### Összefoglalás
 <p class="description">A milliomos sikerember szenvedélyes szerelemre gyullad, és elhatározza, hogy megöleti az asszony férjét… Az Írországban tanuló indiai diák rettenetes bosszúra készül az őt gúnyoló és megalázó ír munkavezető ellen… A jámbor banktisztviselő és papucs férj életét gyökeresen megváltoztatja egy tengeri horgászat… Az ártatlanul megrágalmazott hiába keres törvényes úton elégtételt, fortéllyal segít hát magán… A törvényszéki bíró meglepő körülmények között találkozik vonatbeli útitársával és kártyapartnerével… Egy dúsgazdag, rákbeteg üzletember páratlan leleménnyel juttatja vagyonát az arra legérdemesebbeknek… A fiatal ír házaspár kocsija lerobban a francia hegyvidéken, és alkalmi szállásukon megrázó élmény vár rájuk… A lebontásra ítélt ház falában mumifikálódott női holttestre bukkannak… Frederick Forsyth, A sakál napja és más nagyszabású politikai krimik világhírű írója e kötetében bebizonyítja, hogy az elbeszélés műfajának is felülmúlhatatlan mestere. Pergő és izgalmas meseszövés, a történések feszültsége és drámaisága, a mindig váratlan és meglepő, hihetetlenül szellemes megoldás elbűvöli és sokkolja az olvasót, és nemcsak a krimik borzongató izgalmát, hanem a remekbe szabott írásmű szellemi élvezetét is kínálja neki.</p>
@@ -15,7 +15,7 @@ brit, elbeszélés
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frederick%20Forsyth/A%20negyedik%20jegyzokonyv%20%2844%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-angol szerző, brit szerző, kémregény, magyar nyelvű, regény, krimi, filmadaptáció
+[angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [kémregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kémregény), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció)
 
 ### Összefoglalás
 <div>
@@ -29,7 +29,7 @@ angol szerző, brit szerző, kémregény, magyar nyelvű, regény, krimi, filmad
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frederick%20Forsyth/Az%20ordog%20alternativaja%20%2843%29/Az%20ordog%20alternativaja%20-%20Frederick%20Forsyth.epub)
 
 ### Tagek
-angol szerző, brit szerző, hidegháború, kalóz, kémregény, magyar nyelvű, politika, politikai krimi, regény, kalandregény, krimi
+[angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [hidegháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hidegháború), [kalóz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalóz), [kémregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kémregény), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [politika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/politika), [politikai krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/politikai krimi), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [kalandregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalandregény), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <p class="description">„Jó tíz napja repült ide Londonból, hogy átvegye megbízatását. Ezalatt az évszázad egyik legnagyobb kémkedési ügyét csípte meg, az egyetlen olyan ügynököt futtatva, aki valaha is a Kreml szívében működött… Még három hét, és az asszony kijut innen, a biztonságot jelentő Londonba. Ő is abbahagyja, visszavonul a szolgálattól, s új életet kezd az egyetlen emberrel, akit szeret…” Egyszerre kémtörténet, politikai krimi és a tiszta szándékaiban is gyilkos terrorizmus kórképe, de mindenekelőtt letehetetlen, szuperizgalmas regény. Valóság és fikció ötvöződik benne, dörögnek a fegyverek Oroszország szívében és az Északi-tengeren. KGB-ügynökök és nyugati biztonsági emberek viaskodnak egymással, pillanatokon és ördögi cselvetéseken múlik a világ sorsa, de a zseniális, piszkos trükk beválik, csak egy ember válik boldogtalanná…</p>

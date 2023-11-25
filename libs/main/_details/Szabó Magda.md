@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%20Magda/A%20pillanat%20%281336%29/A%20pillanat%20-%20Szabo%20Magda.epub)
 
 ### Tagek
-emberi sorsok, görög, görögország, hangoskönyv, hősköltemény, magyar nyelvű, magyar szerző, mitológia, női főszereplő, ókor, regény, trója
+[emberi sorsok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/emberi sorsok), [görög](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/görög), [görögország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/görögország), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [hősköltemény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hősköltemény), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [mitológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mitológia), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [ókor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ókor), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [trója](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/trója)
 
 ### Összefoglalás
 <div>

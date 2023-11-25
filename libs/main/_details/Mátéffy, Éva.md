@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mateffy%2C%20Eva/Ruby%20%28606%29/Ruby%20-%20Mateffy%2C%20Eva.epub)
 
 ### Tagek
-erotikus, kortárs, lmbtq, magyar nyelvű, magyar szerző, magyarország, regény
+[erotikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erotikus), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [lmbtq](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lmbtq), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [magyarország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyarország), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>

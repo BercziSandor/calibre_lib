@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lackfi%2C%20Janos/Milyenek%20a%20magyarok_%20%281360%29/Milyenek%20a%20magyarok_%20-%20Lackfi%2C%20Janos.epub)
 
 ### Tagek
-21. század, humoros, kortárs, magyar kultúra, magyar nyelvű, magyar szerző, magyar társadalom, magyarság, sorozat része
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar kultúra](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar kultúra), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [magyar társadalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar társadalom), [magyarság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyarság), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lackfi%2C%20Janos/Milyenek%20MEG%20a%20magyarok_%20%28935%29/Milyenek%20MEG%20a%20magyarok_%20-%20Lackfi%2C%20Janos.epub)
 
 ### Tagek
-irodalom, szórakoztató irodalom
+[irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom)
 
 ### Összefoglalás
 <p class="description">A magyar ember eltöprengett, vajon miből tudható, hogy ő éppen magyar.<br>Lackfi János: A humor segít felröhögni a letapadt, évszázados lelki nyákokat. Aki nevetni tud magán, talán ritkábban jön indulatba, javul a kedélye, nem lesz olyan sérülékeny az önbecsülése. Van bennem egy csengő, amely manapság gyakorta jelez szellemi szmogriadót. Olykor fuldoklunk a politikai kipufogógázoktól. A nevetés viszont ózonbuborék. <br>A nagy sikerű Milyenek a magyarok? folytatásában sem csalódunk. Kedvcsinálóként álljon itt néhány görbe tükör: Szadista bölcsődalok, Külmagyarok, Rokonok és rókázások, A kínaiak a golyóikkal számolnak, Jégkocka ingnyakba. <br>A nevetés és/vagy sírás garantált ezúttal is.</p>
@@ -32,7 +32,7 @@ irodalom, szórakoztató irodalom
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lackfi%2C%20Janos/A%20legnehezebb%20kabat%20%28934%29/A%20legnehezebb%20kabat%20-%20Lackfi%2C%20Janos.epub)
 
 ### Tagek
-kortárs, magyar nyelvű, magyar szerző, novella, irodalom, szépirodalom
+[kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>

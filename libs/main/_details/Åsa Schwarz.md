@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Asa%20Schwarz/Nefilim%20%28683%29/Nefilim%20-%20Asa%20Schwarz.epub)
 
 ### Tagek
-angyal, erőszak, magyar nyelvű, misztikus, regény, sorozat része, svéd szerző, svédország, thriller, krimi, skandináv
+[angyal](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angyal), [erőszak](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erőszak), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [misztikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/misztikus), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [svéd szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/svéd szerző), [svédország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/svédország), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skandináv)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ angyal, erőszak, magyar nyelvű, misztikus, regény, sorozat része, svéd szer
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Asa%20Schwarz/Halott%20angyal%20%28684%29/Halott%20angyal%20-%20Asa%20Schwarz.epub)
 
 ### Tagek
-angyal, magyar nyelvű, misztikus, regény, sorozat része, svéd szerző, thriller, krimi, skandináv
+[angyal](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angyal), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [misztikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/misztikus), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [svéd szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/svéd szerző), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skandináv)
 
 ### Összefoglalás
 <div>

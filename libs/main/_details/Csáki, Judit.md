@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csaki%2C%20Judit/Alfoldi%20Robert%20Maganugy%20%28961%29/Alfoldi%20Robert%20Maganugy%20-%20Csaki%2C%20Judit.epub)
 
 ### Tagek
-magyar nyelvű, magyar szerző, magyarország, riport, társadalom, tényfeltáró riport
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [magyarország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyarország), [riport](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/riport), [társadalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társadalom), [tényfeltáró riport](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tényfeltáró riport)
 
 ### Összefoglalás
 <div>

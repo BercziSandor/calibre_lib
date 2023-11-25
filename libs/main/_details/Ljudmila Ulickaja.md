@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Orokbecsu%20limlom%20%281294%29/Orokbecsu%20limlom%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
-életrajz, interjú, kortárs, magyar nyelvű, orosz szerző, szépirodalom
+[életrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életrajz), [interjú](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/interjú), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Kukockij%20esetei%20%281295%29/Kukockij%20esetei%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
-családregény, filmadaptáció, kortárs, magyar nyelvű, orosz szerző, regény
+[családregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/családregény), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@ családregény, filmadaptáció, kortárs, magyar nyelvű, orosz szerző, regén
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Elsok%20es%20utolsok%20%281287%29/Elsok%20es%20utolsok%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
-21. század, elbeszélés, emberi sorsok, kispróza, kortárs, magyar nyelvű, moszkva, női főszereplő, novella, orosz realizmus, orosz szerző, oroszország, összetett regény, realizmus
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés), [emberi sorsok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/emberi sorsok), [kispróza](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kispróza), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [moszkva](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/moszkva), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [orosz realizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz realizmus), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [oroszország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/oroszország), [összetett regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/összetett regény), [realizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/realizmus)
 
 ### Összefoglalás
 <div>
@@ -47,7 +47,7 @@ családregény, filmadaptáció, kortárs, magyar nyelvű, orosz szerző, regén
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Jakob%20lajtorjaja%20%281296%29/Jakob%20lajtorjaja%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
-családtörténet, kortárs, magyar nyelvű, orosz szerző, oroszország, regény
+[családtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/családtörténet), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [oroszország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/oroszország), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>
@@ -61,7 +61,7 @@ családtörténet, kortárs, magyar nyelvű, orosz szerző, oroszország, regén
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Odaado%20hivetek%2C%20Surik%20%281291%29/Odaado%20hivetek%2C%20Surik%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
-21. század, családtörténet, emberi sorsok, erotikus, férfiak, kortárs, magyar nyelvű, orosz szerző, oroszország, regény, tudatregény
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [családtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/családtörténet), [emberi sorsok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/emberi sorsok), [erotikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erotikus), [férfiak](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfiak), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [oroszország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/oroszország), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [tudatregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudatregény)
 
 ### Összefoglalás
 <div>
@@ -75,7 +75,7 @@ családtörténet, kortárs, magyar nyelvű, orosz szerző, oroszország, regén
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Szonyecska%20%281289%29/Szonyecska%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
-20. század, emberi sorsok, festészet, házasság, kisregény, könyvtáros, kortárs, magyar nyelvű, művészet, női főszereplő, orosz szerző, oroszország, regény, tudatregény
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [emberi sorsok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/emberi sorsok), [festészet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/festészet), [házasság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/házasság), [kisregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kisregény), [könyvtáros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/könyvtáros), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [művészet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/művészet), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [oroszország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/oroszország), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [tudatregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudatregény)
 
 ### Összefoglalás
 <div>
@@ -89,7 +89,7 @@ családtörténet, kortárs, magyar nyelvű, orosz szerző, oroszország, regén
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/A%20mi%20Urunk%20nepe%20%281297%29/A%20mi%20Urunk%20nepe%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
-kortárs, magyar nyelvű, novella, orosz szerző, társadalomrajz, novellák
+[kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [társadalomrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társadalomrajz), [novellák](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novellák)
 
 ### Összefoglalás
 <div>
@@ -113,7 +113,7 @@ kortárs, magyar nyelvű, novella, orosz szerző, társadalomrajz, novellák
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Medea%20es%20gyermekei%20%281293%29/Medea%20es%20gyermekei%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
-20. század, család, családregény, családtörténet, kortárs, magyar nyelvű, női főszereplő, orosz szerző, oroszország, regény, történelem
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [család](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/család), [családregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/családregény), [családtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/családtörténet), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [oroszország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/oroszország), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelem)
 
 ### Összefoglalás
 <div>
@@ -127,7 +127,7 @@ kortárs, magyar nyelvű, novella, orosz szerző, társadalomrajz, novellák
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Daniel%20Stein%2C%20tolmacs%20%281285%29/Daniel%20Stein%2C%20tolmacs%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
-2. világháború, 20. század, 21. század, arab világ, dokumentarista, emigráció, izrael, judaizmus, kereszténység, kortárs, levélregény, litvánia, magyar nyelvű, orosz szerző, politika, regény, szeretet, szerzetesség, társadalomtörténet, történelem
+[2. világháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/2. világháború), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [arab világ](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/arab világ), [dokumentarista](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/dokumentarista), [emigráció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/emigráció), [izrael](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/izrael), [judaizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/judaizmus), [kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kereszténység), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [levélregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/levélregény), [litvánia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/litvánia), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [politika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/politika), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [szeretet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szeretet), [szerzetesség](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szerzetesség), [társadalomtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társadalomtörténet), [történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelem)
 
 ### Összefoglalás
 <div>
@@ -141,7 +141,7 @@ kortárs, magyar nyelvű, novella, orosz szerző, társadalomrajz, novellák
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Imago%20%281298%29/Imago%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
-20. század, korrajz, kortárs, lélekrajz, magyar nyelvű, orosz szerző, regény
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [korrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/korrajz), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [lélekrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lélekrajz), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>
@@ -155,7 +155,7 @@ kortárs, magyar nyelvű, novella, orosz szerző, társadalomrajz, novellák
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Vidam%20temetes%20%281288%29/Vidam%20temetes%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
-20. század, amerikai egyesült államok, emigráció, kortárs, magyar nyelvű, new york, orosz szerző, regény, zsidó
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [amerikai egyesült államok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai egyesült államok), [emigráció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/emigráció), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [new york](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/new york), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [zsidó](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/zsidó)
 
 ### Összefoglalás
 <div>
@@ -169,7 +169,7 @@ kortárs, magyar nyelvű, novella, orosz szerző, társadalomrajz, novellák
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/A%20lelek%20testerol%20%281292%29/A%20lelek%20testerol%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
-elbeszélés, kortárs, magyar nyelvű, orosz szerző
+[elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző)
 
 ### Összefoglalás
 <div>
@@ -183,7 +183,7 @@ elbeszélés, kortárs, magyar nyelvű, orosz szerző
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Eletmuvesznok%20%281286%29/Eletmuvesznok%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
-21. század, kortárs, magyar nyelvű, női főszereplő, orosz szerző, regény
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>

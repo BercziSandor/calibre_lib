@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vekerdy%2C%20Tamas/Gyerekek%2C%20ovodak%2C%20iskolak%20%28616%29/Gyerekek%2C%20ovodak%2C%20iskolak%20-%20Vekerdy%2C%20Tamas.epub)
 
 ### Tagek
-gyermeklélektan, gyermeknevelés, iskola, ismeretterjesztő, magyar nyelvű, magyar szerző, oktatás, óvoda, társ. tudományok
+[gyermeklélektan](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermeklélektan), [gyermeknevelés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermeknevelés), [iskola](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/iskola), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [oktatás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/oktatás), [óvoda](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/óvoda), [társ. tudományok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társ. tudományok)
 
 ### Összefoglalás
 <div>

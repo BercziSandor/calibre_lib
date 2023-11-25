@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Brian%20Innes/A%20kinzas%20es%20kinvallatas%20tortenete%20%281448%29/A%20kinzas%20es%20kinvallatas%20tortene%20-%20Brian%20Innes.epub)
 
 ### Tagek
-emberi jogok, erőszak, inkvizíció, korai újkor, középkor, magyar nyelvű, ókor, technikatörténet, történelem, újkor
+[emberi jogok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/emberi jogok), [erőszak](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erőszak), [inkvizíció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/inkvizíció), [korai újkor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/korai újkor), [középkor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/középkor), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [ókor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ókor), [technikatörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/technikatörténet), [történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelem), [újkor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/újkor)
 
 ### Összefoglalás
 <div>

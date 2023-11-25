@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mark%20A%20Gabriel/Islam%20and%20Terrorism%20%28Revised%20and%20Up%20%28906%29/Islam%20and%20Terrorism%20%28Revised%20an%20-%20Mark%20A%20Gabriel.epub)
 
 ### Tagek
-religious intolerance; persecution & conflict, islam, general, religion, islam/general
+[religious intolerance; persecution & conflict](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/religious intolerance; persecution & conflict), [islam](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/islam), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general), [religion](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/religion), [islam/general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/islam/general)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Arpa%20Attila/Ha%20en%20ezt%20a%20klubrol%20egyszer%20elmeselem%20%28517%29/Ha%20en%20ezt%20a%20klubrol%20egyszer%20elm%20-%20Arpa%20Attila.epub)
 
 ### Tagek
-bulvár, magyar nyelvű, magyar szerző, média, televíziózás, dokumentum, ismert ember
+[bulvár](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/bulvár), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [média](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/média), [televíziózás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/televíziózás), [dokumentum](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/dokumentum), [ismert ember](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismert ember)
 
 ### Összefoglalás
 <div>

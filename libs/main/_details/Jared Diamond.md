@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jared%20Diamond/Miert%20elvezet%20a%20szex_%20%28908%29/Miert%20elvezet%20a%20szex_%20-%20Jared%20Diamond.epub)
 
 ### Tagek
-amerikai szerző, evolúció, humánetológia, ismeretterjesztő, magyar nyelvű, szexualitás, tanulmány, természettudomány, tudományos, tudomány és technika, szexológia, szexuálpszichológia
+[amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [evolúció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/evolúció), [humánetológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humánetológia), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [szexualitás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szexualitás), [tanulmány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tanulmány), [természettudomány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/természettudomány), [tudományos](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudományos), [tudomány és technika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudomány és technika), [szexológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szexológia), [szexuálpszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szexuálpszichológia)
 
 ### Összefoglalás
 <div>

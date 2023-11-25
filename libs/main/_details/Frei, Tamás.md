@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frei%2C%20Tamas/A%20megmento%20%28107%29/A%20megmento%20-%20Frei%2C%20Tamas.epub)
 
 ### Tagek
-fiction, thrillers, crime
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [thrillers](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thrillers), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ fiction, thrillers, crime
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frei%2C%20Tamas/A%20bankar%20%28108%29/A%20bankar%20-%20Frei%2C%20Tamas.epub)
 
 ### Tagek
-fiction, thrillers, general
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [thrillers](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thrillers), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@ fiction, thrillers, general
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frei%2C%20Tamas/2015%20%281493%29/2015%20-%20Frei%2C%20Tamas.epub)
 
 ### Tagek
-fiction, thrillers, general
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [thrillers](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thrillers), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general)
 
 ### Összefoglalás
 <div>
@@ -58,7 +58,7 @@ fiction, thrillers, general
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frei%2C%20Tamas/A%20bankar%20%28972%29/A%20bankar%20-%20Frei%2C%20Tamas.epub)
 
 ### Tagek
-fiction, thrillers, general
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [thrillers](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thrillers), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general)
 
 ### Összefoglalás
 <div><p class="description">Jamaicán a rendőrségi terepjárók már dübörögnek, hogy kézre kerítsék a Magyarországról óriási vagyont „kimenekítő” és a távoli karibi szigeten bujkáló, korrupt pesti bankárt.</p>
@@ -75,7 +75,7 @@ fiction, thrillers, general
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frei%2C%20Tamas/Agrarbarok%20%281465%29/Agrarbarok%20-%20Frei%2C%20Tamas.epub)
 
 ### Tagek
-krimi, politika
+[krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [politika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/politika)
 
 ### Összefoglalás
 <div>Pedig André már azt hitte, hogy maga mögött hagyhatja a zaklatott múltat.<br>
@@ -108,7 +108,7 @@ André, a korábbi három kötetből már jól ismert magyar származású franc
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frei%2C%20Tamas/Babel%20%281466%29/Babel%20-%20Frei%2C%20Tamas.epub)
 
 ### Tagek
-true crime, espionage
+[true crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/true crime), [espionage](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/espionage)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joseph%20D%27Lacey/Hus%20%28524%29/Hus%20-%20Joseph%20D%27Lacey.epub)
 
 ### Tagek
-angol szerző, magyar nyelvű, regény, kaland, szórakoztató irodalom, akció, szépirodalom, horror
+[angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom), [akció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/akció), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [horror](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/horror)
 
 ### Összefoglalás
 <div>

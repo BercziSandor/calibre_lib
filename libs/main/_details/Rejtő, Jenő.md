@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/A%20harom%20testor%20Afrikaban%20%28824%29/A%20harom%20testor%20Afrikaban%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-20. század, filmadaptáció, humor, légió, regény
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor), [légió](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/légió), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <p class="description">Vigyázat! Cselekményleírást tartalmaz.<br>Az elátkozott partból megismert együttes – Csülök, Tuskó Hopkins, Senki Alfonz és a Török Szultán – újabb sötét rejtélyek felkutatására indul. Igaz, hogy nem egy úton, hiszen Csülökék, miként a „három testőr”, az izgalmas és halálos veszélyeket ígérő kalandok során lovagi szolgálatot is teljesítenek egy francia lány, Yvonne oldalán, a Török Szultán viszont – úgy tűnik – aljas árulásaival egyre nagyobb veszélyekbe sodorja őket. De Yvonne apja, Duron tábornok megmentése és egy óriási panama leleplezése után kiderül, hogy „aljas” módszereivel a Török Szultán is csak leplezte magát, s az igazság kiderítésében, a veszedelmes kalandok sikeres kimenetelében őneki is jókora része van.</p>
@@ -18,7 +18,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/A%20tizennegy%20karatos%20auto%20%28131%29/A%20tizennegy%20karatos%20auto%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-irodalom, szórakoztató irodalom, humor
+[irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor)
 
 ### Összefoglalás
 Rejtõ Jenõt utánozhatatlan humora, mesteri mondatfûzése, egyedi, könnyed stílusa a magyar irodalom egyedülálló jelenségévé avatja. Gorcsev Iván milliomosként lép fel Vanek úrral, mint magántitkárával egyetemben, akinek munkaköri kötelessége többek között az, hogy helyettesítse fõnökét az idegenlégióban... Vanek úr aztán többször is agyvérzés közeli állapotba juttatja feletteseit, miközben Gorcsev elnyeri szerelme kezét. De hová tûnt közben a színaranyból készült, tizennégy karátos autó?
@@ -31,7 +31,7 @@ Rejtõ Jenõt utánozhatatlan humora, mesteri mondatfûzése, egyedi, könnyed s
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Bradley%20Tamas%20visszaut%20%28138%29/Bradley%20Tamas%20visszaut%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-20. század, humor, kaland, légió, irodalom, szépirodalom, regény
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [légió](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/légió), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div><p class="description">Bradley Tamás, a londoni vegyészmérnökből lett légionista maga sem gondolta hogy a húga és családja becsületén esett csorbáért úgy fog \"visszaütni\" hogy ebbe az ütésbe majdnem maga is, szerelme is belepusztul. Csak később érzi meg, hogy a millió veszélyt rejtő dzsungel és egy szökött légionáriusra leselkedő borzalmak – bizony nem a legkedvezőbb helyzetet teremtik a bosszúhoz. Egyetlen szerencse, hogy a \"Dalol a vadon\" című film forgatására elindult expedició minden tagját, bár már csak haláluk után, felfalják a termeszek, és így az egész felszerelésük a bajba jutott szökevények birtokába kerül, többek között Szép Heléna jelmeze, valamint két lánctalpas kocsi is…</p>
@@ -45,7 +45,7 @@ Rejtõ Jenõt utánozhatatlan humora, mesteri mondatfûzése, egyedi, könnyed s
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Csontbrigad%20%28139%29/Csontbrigad%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-fiction, action & adventure, general fiction
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [action & adventure](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/action & adventure), [general fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general fiction)
 
 ### Összefoglalás
 <p>A Csontbrigádot Rejtő nem más műveiből ismert fortélyos stílusában írta: egyszerű bűnügyi regény ez. Az alaphelyzet egy megsértett gentleman-agreement játékára épül. Az idegenlégió viszontagságaiban megfáradt két barát – Henry Fécamp és John Carew – elhatározza, hogy egyikük a másik halála árán leszerel a légióból. A szabadító ötlet Carewé: egyikük egy már elkövetett gyilkosságot – a másik bizonyító feljelentésének segítségével – vállal magára. Az ötleten túl a felkínálkozó szabadság is az övé: a fej vagy írás játék neki kedvez. De az erkölcsi jóvátétel és a végső igazság mégis Fécampé, mivel a regény végén kiderül, hogy a játékhoz ürügyül választott gyilkosságot Carew követte el. Fécamp meghurcoltatásának voltaképpen barátja bűnös jelleme az oka, mint ahogy a főhőssel egyetemben, a Csontbrigád többi száműzöttje is emberi vétkek miatt szenved – ártatlanul.</p>
@@ -58,7 +58,7 @@ fiction, action & adventure, general fiction
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Az%20eloretolt%20helyorseg%20%28135%29/Az%20eloretolt%20helyorseg%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-humor, kalandregény
+[humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor), [kalandregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalandregény)
 
 ### Összefoglalás
 Az előretolt helyőrség című P. Howard-regény arról szól, hogy élni ugyan nehéz, de meghalni se könnyű. A szépreményű, előkelő családból származó nemesifjúból légióssá lett Galamb mindent elkövet az utóbbi érdekében; nemcsak a legnehezebb szolgálatokat vállalja, kötözködik feljebbvalóival, ragályos betegeket ápol, hanem Troppauer Hümér végtelen hosszúságú költeményeit is végighallgatja. S csak miután minden jóra fordul – esküvője előtt esik súlyos influenzába…
@@ -73,7 +73,7 @@ Esküvővel végződik Az ellopott futár kalandsorozata is, mert a szerelem sö
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Menni%20vagy%20meghalni%20%28145%29/Menni%20vagy%20meghalni%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-fiction, action & adventure
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [action & adventure](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/action & adventure)
 
 ### Összefoglalás
 Észak-Afrika, Marrakesh. Hat elszánt legionárius végez a francia gyarmattartók ellenségével, a rejtőzködő Muhat bejjel, és elrabolja vagyonát. Vakmerően megszöknek a Szaharát átszelő menetszázadból, s rettenetes útjuk a Kongó-vidéki őserdőkben ér véget. Évekkel később, Londonban Connor főfelügyelő és Mackenzie kapitány különös gyilkosságsorozat ügyében nyomoz. A szálak egykori legionáriusokhoz vezetnek, és előlépnek a múltbéli dráma szereplői, akiknek sorsát a háttérből egy hétpróbás nemzetközi kém irányítja. Az izgalmas regényben Rejtő krimiírói tehetségét csillogtatja. A Content 2 Connect Kiadó szerzőjének magyar nyelvű könyve.
@@ -86,7 +86,7 @@ fiction, action & adventure
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Piszkos%20Fred%2C%20a%20kapitany%20%28149%29/Piszkos%20Fred%2C%20a%20kapitany%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-krimi, humor, szórakoztató irodalom, bûnügyi, irodalom, thriller
+[krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom), [bûnügyi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/bûnügyi), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 Rejtõ Jenõ, a "ponyva" mestere, mára már klasszikussá nemesedett. Nemzedékek számára biztosították a szórakozást jellegzetes figurái, Gorcsev Iván, Vanek úr és természetesen maga Piszkos Fred, a kapitány. A szingapúri alvilág legkoszosabb alakja ezúttal érzõ szívû atyaként mutatkozik be, aki mindent elkövet, hogy trónörökössé lett fiát az uralkodói székbe segítse. Feltûnik Fülig Jimmy is, aki bár "beugró" trónörökösnek csapnivaló, csapni viszont senki sem meri, mivel pofonok dolgában professzori katedra dukál neki. S míg az események sora kacagtató fordulatokkal rohan a végkifejlet felé, tanúi lehetünk királyi ütlegeknek csakúgy, mint a csapszékek diplomáciájának... a legjobb rejtõi hagyományok szerint.
@@ -99,7 +99,7 @@ Rejtõ Jenõ, a "ponyva" mestere, mára már klasszikussá nemesedett. Nemzedék
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Piszkos%20Fred%20kozbelep%20%28Fulig%20Jimmy%20%20%28148%29/Piszkos%20Fred%20kozbelep%20%28Fulig%20Ji%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-humor
+[humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor)
 
 ### Összefoglalás
 Régi ismerősünk, Fülig Jimmy ez alkalommal egy ifjú amerikai milliomos expedíciójának lesz fontos szereplője. Legalábbis ilyesmire lehet következtetni gondosan vezetett naplószerű levelezéséből, amelyben St. Antonio főhercegnek számol be kalandjairól. Az események végső kimenetelére mégis Piszkos Fred közbelépése válik döntővé, aki a Na, mi újság, Wagner Úr nevű hajón követi válogatott legénységvel a milliomos hajóját. Az illusztris hajó legénységének és főleg a Kapitánynak lesz tehát érdeme, hogy a rég eltűnt kutató helyett egy banditát fog felfedezni az untakozó milliomos - és az is, hogy Fülig Jimmy a "kölcsönkenyér visszajár" elv alapján a küzdelmes dicsőség ünnepléséből kimarad, s ehelyett karanténba kerül.
@@ -112,7 +112,7 @@ Régi ismerősünk, Fülig Jimmy ez alkalommal egy ifjú amerikai milliomos expe
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Az%20elveszett%20cirkalo%20%28825%29/Az%20elveszett%20cirkalo%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-20. század, humor, kaland, regény
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <p class="description">Vigyázat! Cselekményleírást tartalmaz.<br>Nincs azon semmi csodálkozni való, hogy a Brit Királyi Tengerészet történetének lapjain nem szerepel a Balmoral nevű cirkáló eltűnésének históriája, az érdemes hadihajót ugyanis az éj leple alatt kötötte el Piszkos Fred. El nem ítélhető tettét azért követte el, mert egy hajó bérlésére nála lévő pénzt elrulettezte…<br>Hajóra pedig szüksége volt, hogy elindulhasson az expedíció Indokínába egy eltűnt légionista felkutatására. Szegény Piszkos Fred, ha előre sejti, hogy egy angol hadihajó kapitányának ápoltsági szintjéig mosdatják, aligha vág bele a dologba. De ha már benne voltak, mellékesen megoldották őfelsége birodalmának gyarmatügyi kérdését, lelepleztek egy veszedelmes árulót, többször megmentették a fiatal Earl of Sudessex életét és végül teljesen váratlanul megtalálták a légionistát…</p>
@@ -125,7 +125,7 @@ Régi ismerősünk, Fülig Jimmy ez alkalommal egy ifjú amerikai milliomos expe
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/A%20megkerult%20cirkalo%20%28130%29/A%20megkerult%20cirkalo%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-humor, regény, hangoskönyv
+[humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv)
 
 ### Összefoglalás
 <p class="description">Az olvasók még jól emlékeznek a Balmoral nevű cirkálóra, amely egy ceyloni kikötőből szőrén-lábán eltűnik, hogy azután Radzeer név alatt, Piszkos Fred kapitányi vezérlete mellett dicső tetteket hajtson végre. A Radzeer cirkáló viszont ebben a mostani kötetben újra eltűnik, de eltűnik az André de Rémieux nevű hajó is, amely furcsa „kirándulókat” visz a Csütörtök-szigetek egyikére. Nos, nem azért hívják Piszkos Fredet az „óceán miniszterelnökének”, hogy békés cethalászás közben is ne jusson ideje az eltűnt hajók „megkerítésére”. Az akcióban nagy szerpet kap Fülig Jimmy és a kékszakállú Wagner úr is, akik ez alkalommal a Vakapád nevű bárka fedélzetén jeleskednek.</p>
@@ -138,7 +138,7 @@ humor, regény, hangoskönyv
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Vanek%20ur%20Parizsban%20%28153%29/Vanek%20ur%20Parizsban%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-20. század, afrika, humor, légió, párizs, regény
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [afrika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/afrika), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor), [légió](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/légió), [párizs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/párizs), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 " – Gazdám az állatkertbe adta Wendriner urat, de közben tönkre mentem. Ugyanis a saját fenntartásomra szánt összeget egy véletlen szerencsétlenség elvitte. Véletlenül mindig egy másik szám jött ki a ruletten, mint amire én tettem. Napokig. Vártam, hogy a rulett megunja. De nem. Elvesztettem mindenem hazárdjátékon. Hát hallott már ilyet? Mit tegyek? Saját emeleti szobámat kiadtam Neddának, Wendriner urat pedig elhoztam az állatkertből. A bestia ott úgyis hisztérikus lett, mert a frászt kapja, ha a pávák rikoltoznak. És azt a régebbi ötletemet, hogy az oroszlán nyugalma érdekében a pávákat szájkosárral lássák el, az állatkert ridegen elutasította. Ez jó ok volt arra, hogy kivegyem Wendriner urat, és az ellátására folyósított összegből magamat is fenntartsam. Természetesen a mosónő azóta nem jár ide, mert a ragadozó fél tőle. Csapkod a ruhákkal, meg kiabál. 
@@ -165,7 +165,7 @@ humor, regény, hangoskönyv
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/A%20pokol%20zsoldosai%20_%20Az%20utolso%20szo%20j%20%28136%29/A%20pokol%20zsoldosai%20_%20Az%20utolso%20s%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-légió, regény
+[légió](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/légió), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 # <a name="id_155">Rejtő, Jenő: Trópusi Pokol/Az Ellopott Század/Vissza a Pokolba! (1993)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Tropusi%20Pokol_Az%20Ellopott%20Szazad_Vissza%20a%20Pokolba%21%20%28155%29/cover.jpg" alt="cover" width="300"/>
@@ -174,7 +174,7 @@ légió, regény
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Tropusi%20Pokol_Az%20Ellopott%20Szazad_Vissza%20a%20Pokolba%21%20%28155%29/Tropusi%20Pokol_Az%20Ellopott%20Szaza%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-kaland, szórakoztató irodalom, akció, szépirodalom
+[kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom), [akció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/akció), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <p class="description">- Sok szépet látott maga, Herr Haftl. De bizonyára meg is szenvedett érte. Azt mondják, a légióban szörnyű sorsuk van az embereknek.<br>- A légióban! Kvatsch! Sohasem lesz olyan jó dolgom, mint ott volt. Mióta eljötte, hat és fél kilót fogytam...<br>A walesi herceg mér négy napja nem ment ki a kapun, mert rongyos volt a nadrágja. Nem a jó megjelenés szabályait becsülte ennyire, hanem inkább attól tartott, hogy a káplár, akitől nagyon félt, kihallgatásra küldi, és két  hét celulle-büntetésre terjeszti fel.<br>Barátom, Rézfejű egy pálinkásüveggel könnyedén fejbesújtotta a Kormányost, aztán a tőle megszokott udvariassággal, mintegy kedvesen invitálva, ahogy a fogorvosok szólítják be a következő pácienst, a vigyorogva odaszólt az uraknak:<br>"Parancsolt még valaki?"</p>
@@ -187,7 +187,7 @@ kaland, szórakoztató irodalom, akció, szépirodalom
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Texas%20Bill%2C%20a%20Fenegyerek%20%28151%29/Texas%20Bill%2C%20a%20Fenegyerek%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-irodalom, szépirodalom, regény
+[irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 # <a name="id_141">Rejtő, Jenő: Egy görbe éjszaka + Szerencsés utat + Aki mer, az nyer (1997)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Egy%20gorbe%20ejszaka%20_%20Szerencses%20utat%20%28141%29/cover.jpg" alt="cover" width="300"/>
@@ -197,7 +197,7 @@ irodalom, szépirodalom, regény
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Egy%20gorbe%20ejszaka%20_%20Szerencses%20utat%20%28141%29/Egy%20gorbe%20ejszaka%20_%20Szerencses%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-irodalom, további könyveink
+[irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [további könyveink](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/további könyveink)
 
 # <a name="id_137">Rejtő, Jenő: Bedekker csavargók számára (2003)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Bedekker%20csavargok%20szamara%20%28137%29/cover.jpg" alt="cover" width="300"/>
@@ -207,7 +207,7 @@ irodalom, további könyveink
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Bedekker%20csavargok%20szamara%20%28137%29/Bedekker%20csavargok%20szamara%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-20. század, magyar nyelvű, magyar szerző, novella, útleírás
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [útleírás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/útleírás)
 
 ### Összefoglalás
 <div>
@@ -221,7 +221,7 @@ irodalom, további könyveink
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/A%20Lathatatlan%20Legio%20%28129%29/A%20Lathatatlan%20Legio%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-hangoskönyv, humor, hangoskönyv egyéb
+[hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor), [hangoskönyv egyéb](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv egyéb)
 
 ### Összefoglalás
 A fojtogató szaharai levegõ meg se rezzen. De dél felõl feltámad a szél, furcsa dobpergés hallik, recsegõ trombitán valaki az Aida bevonulási indulóját játssza, és a kísérteteket váró szemek elõtt megjelenik valahol a látóhatár szélén: a Láthatatlan Légió! Hogyan kerül a Szaharába ez a legendákat fakasztó „kísértetlégió"? Mi a misztikus menetelés célja? Errõl szól Rejtõnek ez a története, melyet méltán tartanak egyik legnépszerûbb és legmulatságosabb regényének.
@@ -234,7 +234,7 @@ A fojtogató szaharai levegõ meg se rezzen. De dél felõl feltámad a szél, f
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/A%20Nema%20Revolverek%20Varosa%20es%20mas%20tor%20%28823%29/A%20Nema%20Revolverek%20Varosa%20es%20mas%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-irodalom, szórakoztató irodalom
+[irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom)
 
 ### Összefoglalás
 <p class="description">Rejtõ Jenõt utánozhatatlan humora, mesteri mondatfûzése, egyedi, könnyed stílusa a magyar irodalom egyedülálló jelenségévé avatják. Rejtõ a tündérmesék világának sajátos környezetbe ültetett változatát teremti meg, ahol az alvilág kétes figurái egytõl-egyig úriemberek, a koldusról többnyire kiderül, hogy álruhás koronaherceg, és a szerelmesek egymásra találnak. A hat kötettel Rejtõ Jenõ mûveinek eddigi legteljesebb, bõvített gyûjteményét nyújtjuk át az Olvasóknak.</p>
@@ -247,7 +247,7 @@ irodalom, szórakoztató irodalom
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Pokol%20a%20hegyek%20kozott%20%28150%29/Pokol%20a%20hegyek%20kozott%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-19. század, amerikai egyesült államok, humor, kaland, western
+[19. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/19. század), [amerikai egyesült államok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai egyesült államok), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [western](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/western)
 
 ### Összefoglalás
 Versenyfutással kezdődött az egész gyalázatosság. Több mint száz éve annak, hogy a Lonsdale-ősök elindultak Nyugatra. Versenyt futottak a földért. Hegynek fel! Két Lonsdale család vándorolt akkor ide keletről. Unokafivérek. Ők is futottak. Előzőleg sem fértek meg egymással úgy, ahogy jó rokonokhoz illik, és most úgy akarta a sors, hogy annyi ember közül ketten maradjanak a hegyi ösvény utolsó fordulójában. Hogy azután mi történt, azt senki sem tudja, és nem is fogja megtudni soha. Az egyik Lonsdale elsőnek ért fel a tetőre, a másik bezúzott fejjel, ájultan feküdt nem messze a céltól. Kődobás tette harcképtelenné. Hugh Lonsdale, miután eszméletre tért, azt állította, hogy megelőzte már az unokafivérét, mikor kődobás érte. Ezt Davy Lonsdale nem tagadta, csak azt tagadta, hogy ő dobta a követ. Hugh Lonsdale esküdözött, hogy egy perccel előbb, mikor megfordult, látta, amint Davy lehajolt. Akkoriban nem volt idő holmi aprólékos kivizsgálásra, tárgyalásra. A bizottság a fennsíknak ezt a részét kétfelé osztotta. Egyik területet Davy kapta, a másikat Hugh. Mindkettő úgy érezte, hogy az egész földdarab neki jár. És a versenyfutás azóta nem ér véget…
@@ -260,7 +260,7 @@ Versenyfutással kezdődött az egész gyalázatosság. Több mint száz éve an
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Tigrisver%20%28152%29/Tigrisver%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-humor, kaland, regény, western
+[humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [western](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/western)
 
 ### Összefoglalás
 Molly eléje lépett, egész közel. Tágult szemmel nézett egyenesen a férfi szemébe. Sokáig álltak így.
@@ -288,7 +288,7 @@ A Tigris vigyorgott rájuk. Az ős!
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Halalsziget_%20kisregenyek%20%28142%29/Halalsziget_%20kisregenyek%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-akció és kaland
+[akció és kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/akció és kaland)
 
 ### Összefoglalás
 Vanalder valóban haldoklott, de ez a körülmény egyáltalán nem akadályozta meg abban, hogy szivarozzon. Walter meg akarta vizsgálni, de leintette: <BR>- Felesleges... Mi, régi tópusi csavargók jól tudjuk, mikor lesz végünk. Nem is ezért fárasztottam én magát... Nekem itt van az utalványom, amit említettem: egy írásbeli ígéret négyezer hollandi forintra. Ha én most itt meghalok, akkor ugyebár engem kirabolnak... Ezt szertartásszerűen űzik a halottakkal. Mert itt, uram mindenki lop, kivéve a hollandokat, azok nem lopnak, az Isten verje meg őket... Ők a legnagyobb gazemberek... De ha mondjuk, senki sem lopja el az utalványomat, ami majdnem kizártnak tekinthető... Akkor is... Mire odakerül Batáviába... pláne, ha megtudják, hogy én már nem élek..., addig vándorol majd hivatalról hivatalra... addig kutatják majd a halálom körülményeit..., addig tisztáztatják, hogy kit illet meg, mint örökség..., hogy az én szegény jó húgom, talán tíz év múlva kapja meg az összeg egyharmadát...
@@ -301,7 +301,7 @@ Vanalder valóban haldoklott, de ez a körülmény egyáltalán nem akadályozta
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Pipacs%2C%20a%20fenegyerek%20_%20Az%20elsikkasz%20%28147%29/Pipacs%2C%20a%20fenegyerek%20_%20Az%20elsik%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-hangoskönyv
+[hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv)
 
 ### Összefoglalás
 Rejtõ Délkelet-Ázsia fülledt trópusaira repíti olvasót - és hallgatóit - e két regényében. Pipacs, aki, mint már tudjuk, fenegyerek, a regény másik - jobb sorsra érdemes - hõsét veszi szárnya alá. Az illetõ végül ennek dacára révbe ér - némi dzsungelharc és nem kevés pofon árán. Az elsikkasztott pénztáros címû elbeszélés - hõsnek távolról sem alkalmas - fõszereplõje védtelenül marad húszezer dollár társaságában. Ennek következtében luxusutazásra indul, kifoszt néhány hamiskártyást, találkozik Monte Cristóval, adakozik a vadonban élõ misszionáriusoknak és magába bolondít egy szép szélhámosnõt. És persze sejtelme sincs az egészrõl.
@@ -314,7 +314,7 @@ Rejtõ Délkelet-Ázsia fülledt trópusaira repíti olvasót - és hallgatóit 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/A%20pokol%20zsoldosai%20%28124%29/A%20pokol%20zsoldosai%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-fiction, action & adventure
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [action & adventure](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/action & adventure)
 
 ### Összefoglalás
 Rejtő Jenőt utánozhatatlan humora, mesteri mondatfűzése, egyedi, könnyed stílusa a magyar irodalom egyedülálló jelenségévé avatja. Rejtő a tündérmesék világának sajátos környezetbe ültetett változatát teremti meg, ahol az alvilág kétes figurái egytől egyig úriemberek, a koldusról többnyire kiderül, hogy álruhás koronaherceg, és ahol végül a szerelmesek mindig egymásra találnak.A Content 2 Connect Kiadó szerzőjének magyar nyelvű könyve.
@@ -327,7 +327,7 @@ Rejtő Jenőt utánozhatatlan humora, mesteri mondatfűzése, egyedi, könnyed s
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Nincs%20kegyelem%20%28146%29/Nincs%20kegyelem%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-fiction, action & adventure
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [action & adventure](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/action & adventure)
 
 ### Összefoglalás
 Wardes csendbiztos gyanútlanul állt a folyóparton, mert a Húsos Farkas fegyvertelen kézzel lépett eléje a bokrok közül, és megemelte a kalapját. De nem mondhatta azt, hogy „jó napot” hanem kivett a kalapjából egy revorvert és főbe lőtte vele a csendbiztost. Mindez olyan gyorsan és váratlanul történt, hogy a Denveri Kopó hírhedt ügyessége sem előzhette meg a halálos lövést…  Ez az esemény indítja meg a következmények olyan láncolatát, amelyek őrült sebességgel követik egymást beláthatatlan fordulatokban a végső befejezésig, amely egy nem kevésbé „rejtői” mint az indítás. De ne vágjunk az események elébe. Hiszen addig még oly sok minden történik hőseinkkel.A Content 2 Connect Kiadó szerzőjének magyar nyelvű könyve.
@@ -341,7 +341,7 @@ Wardes csendbiztos gyanútlanul állt a folyóparton, mert a Húsos Farkas fegyv
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20drotnelkuli%20gyilkossag%20%28127%29/A%20drotnelkuli%20gyilkossag%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-fiction, thrillers, crime, mystery & detective, general, 20. század, krimi
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [thrillers](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thrillers), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [mystery & detective](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery & detective), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 „Már majdnem minden együtt volt a bűntényhez: a tettesek, a hatalmas örökség és az áldozat. Csak egy holttest hiányzott. Viszont gyilkosság hulla nélkül még a technika mai fejlettsége mellett is szinte elképzelhetetlen.” Így a három tettes – „az örökké vidám, gyönyörű Jojo” valamint két testvére, Henry és Bob – kénytelenek voltak kitalálni a „drót”, azaz a holttest nélküli gyilkosságot, hogy hozzájuthassanak fukar nagybátyjuk vagyonához. Sikerül is eltüntetni a nagybácsit a színről – eltűnését öngyilkosságnak álcázva. A három ál-gyilkos öröme azonban hamarosan ürömre fordul: a felbontott végrendelet kellemetlen meglepetéseket tartalmaz, ráadásul bácsikájuk tetemét megtalálják egy közeli tengeröbölben. Így menekülniük kell számos kalandot és megpróbáltatást átvészelve…
@@ -354,7 +354,7 @@ fiction, thrillers, crime, mystery & detective, general, 20. század, krimi
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Az%20ellopott%20futar%20%28133%29/Az%20ellopott%20futar%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-20. század, afrika, groteszk, hangoskönyv, humoros, kaland, kalandregény, magyar nyelvű, magyar szerző, regény, romantikus, humor, action & adventure, fiction
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [afrika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/afrika), [groteszk](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/groteszk), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [kalandregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalandregény), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor), [action & adventure](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/action & adventure), [fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction)
 
 ### Összefoglalás
 <div>
@@ -369,7 +369,7 @@ fiction, thrillers, crime, mystery & detective, general, 20. század, krimi
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20boszorkanymester%20%28126%29/A%20boszorkanymester%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-hangoskönyv, humoros, magyar nyelvű, magyar szerző, 20. század, humor, regény
+[hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 „-Mein Herz, was willst du noch mehr! – mondta a főhercegnő, mire Pipi vállat vont, és azt mondta, hogy ha ilyen panaszai lesznek beszállítják majd a klinikára. Itt rendesen kell viselkednie, ha maradni akar. – Egy Vass nevű van itt. Azt mondja, hogy maga biztosan beszélni akar vele. A princessz elgondolkodott. Voltaképpen szó sem lehetett arról, hogy ő beszélni akarjon valakivel, aki egy Vass nevű. Egész generációk kihaltak a családban anélkül, hogy ilyesmi adódott volna. Ő most dohányozni akart. És különben is: családjuk a vikingekkel csónakon ment át Angliába Hódító Vilmos idején, és azóta az ügy nem került szóba. Legfőbb ideje tehát most már, hogy eldöntsék: van-e neki valami beszélni valója egy Vass nevűvel, aki annak idején nem a vikingekkel kelt át, és talán nem is a La Manche csatornán, akinek még az sem dicsőség, ha átkelt.”
@@ -383,7 +383,7 @@ hangoskönyv, humoros, magyar nyelvű, magyar szerző, 20. század, humor, regé
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20feher%20folt%20%28123%29/A%20feher%20folt%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-afrika, humoros, magyar nyelvű, magyar szerző, marokkó, romantikus, sierra leone, szökés, 20. század, humor, kalandregény, légió, regény
+[afrika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/afrika), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [marokkó](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/marokkó), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus), [sierra leone](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sierra leone), [szökés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szökés), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor), [kalandregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalandregény), [légió](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/légió), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>
@@ -398,7 +398,7 @@ afrika, humoros, magyar nyelvű, magyar szerző, marokkó, romantikus, sierra le
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Legeny%20a%20talpan%20%28144%29/Legeny%20a%20talpan%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-20. század, magyar nyelvű, magyar szerző, regény, akció és kaland
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [akció és kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/akció és kaland)
 
 ### Összefoglalás
 <div>
@@ -413,7 +413,7 @@ afrika, humoros, magyar nyelvű, magyar szerző, marokkó, romantikus, sierra le
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Az%20ellopott%20szazad%20%28134%29/Az%20ellopott%20szazad%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-20. század, humoros, kaland, légió, magyar nyelvű, magyar szerző, regény, irodalom, szépirodalom, akció és kaland
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [légió](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/légió), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [akció és kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/akció és kaland)
 
 ### Összefoglalás
 <div>
@@ -428,7 +428,7 @@ afrika, humoros, magyar nyelvű, magyar szerző, marokkó, romantikus, sierra le
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Egy%20bolond%20szaz%20bajt%20csinal%20%28140%29/Egy%20bolond%20szaz%20bajt%20csinal%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-general, family life, marriage & divorce, fiction, humorous, humor
+[general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general), [family life](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/family life), [marriage & divorce](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/marriage & divorce), [fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [humorous](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humorous), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor)
 
 ### Összefoglalás
 <div>
@@ -443,7 +443,7 @@ general, family life, marriage & divorce, fiction, humorous, humor
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Jo%20uzlet%20a%20halal%20%28143%29/Jo%20uzlet%20a%20halal%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
-hangoskönyv, humoros, magyar nyelvű, magyar szerző, kaland, humor, 20. század, légió, regény, akció és kaland
+[hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [légió](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/légió), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [akció és kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/akció és kaland)
 
 ### Összefoglalás
 <div>

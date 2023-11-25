@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tom%20Clancy/Vadaszat%20a%20voros%20oktoberre%20%281030%29/Vadaszat%20a%20Voros%20Oktoberre%20-%20Tom%20Clancy.epub)
 
 ### Tagek
-akció, amerikai szerző, filmadaptáció, háború, hidegháború, kaland, kalandregény, kémregény, magyar nyelvű, regény, sorozat része, tengeralattjáró, thriller, titkosszolgálat
+[akció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/akció), [amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [háború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/háború), [hidegháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hidegháború), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [kalandregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalandregény), [kémregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kémregény), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [tengeralattjáró](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tengeralattjáró), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [titkosszolgálat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/titkosszolgálat)
 
 ### Összefoglalás
 <div>

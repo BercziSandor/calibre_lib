@@ -6,7 +6,7 @@
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Eric%20Berne/Szex%20a%20szerelemben%20%28905%29/Szex%20a%20szerelemben%20-%20Eric%20Berne.epub)
 
 ### Tagek
-kanadai szerző, magyar nyelvű, párkapcsolat, pszichológia, társas kapcsolatok, társ. tudományok
+[kanadai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kanadai szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [párkapcsolat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/párkapcsolat), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia), [társas kapcsolatok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társas kapcsolatok), [társ. tudományok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társ. tudományok)
 
 ### Összefoglalás
 <div>
@@ -20,7 +20,7 @@ kanadai szerző, magyar nyelvű, párkapcsolat, pszichológia, társas kapcsolat
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Eric%20Berne/Emberi%20Jatszmak%20%28291%29/Emberi%20jatszmak%20-%20Eric%20Berne.epub)
 
 ### Tagek
-amerikai, ismeretterjesztő, kanadai szerző, magyar nyelvű, önsegítő, szociálpszichológia, szociológia, társas kapcsolatok, házasság, pszichológia, személyiségpszichológia, szexualitás
+[amerikai](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [kanadai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kanadai szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [önsegítő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önsegítő), [szociálpszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szociálpszichológia), [szociológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szociológia), [társas kapcsolatok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társas kapcsolatok), [házasság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/házasság), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia), [személyiségpszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/személyiségpszichológia), [szexualitás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szexualitás)
 
 ### Összefoglalás
 <div>
@@ -34,7 +34,7 @@ amerikai, ismeretterjesztő, kanadai szerző, magyar nyelvű, önsegítő, szoci
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Eric%20Berne/Sorskonyv%20%28292%29/Sorskonyv%20-%20Eric%20Berne.epub)
 
 ### Tagek
-ismeretterjesztő, kanadai szerző, magyar nyelvű, szociálpszichológia, társas kapcsolatok, tudományos, pszichológia
+[ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [kanadai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kanadai szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [szociálpszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szociálpszichológia), [társas kapcsolatok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társas kapcsolatok), [tudományos](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudományos), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia)
 
 ### Összefoglalás
 <p class="description">Az Emberi játszmák folytatása ez a kötet, melyben a népszerű szerző jóval tovább megy annál, hogy megállapítsa: mindannyiunknak van egy szülői, egy felnőtt valamint egy gyermeki énje, és hogy ezek milyen játszmákat játszanak egymással és másokkal. Ebben a könyvben már a gyermek sem „szabad” – hiszen sorskönyvvel a fejünkben jövünk a világra, attól függően, hogy akarnak vagy nem akarnak bennünket, hogy milyen nevet gondolnak ki nekünk, hogy milyen családba születünk, és így tovább. Sorsunk nem a csillagokban van megírva, hanem saját tudattalanunkban – állítja E. Berne. És kíméletlenül elmondja azt is, hogy hogyan.</p>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mark%20Twain/Elet%20a%20Mississippin%20%28937%29/Elet%20a%20Mississippin%20-%20Mark%20Twain.epub)
 
 ### Tagek
-amerikai polgárháború, amerikai szerző, magyar nyelvű, memoár, történelem, útleírás, 19. század, amerikai, amerikai egyesült államok, amerikai történelem, hajózás, mississippi, regény
+[amerikai polgárháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai polgárháború), [amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [memoár](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/memoár), [történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelem), [útleírás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/útleírás), [19. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/19. század), [amerikai](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai), [amerikai egyesült államok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai egyesült államok), [amerikai történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai történelem), [hajózás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hajózás), [mississippi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mississippi), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ amerikai polgárháború, amerikai szerző, magyar nyelvű, memoár, történele
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mark%20Twain/Megszeliditem%20a%20kerekpart%20%28936%29/Megszeliditem%20a%20kerekpart%20-%20Mark%20Twain.epub)
 
 ### Tagek
-amerikai szerző, magyar nyelvű, 19. század, amerikai, groteszk, humoreszk, humoros, karcolat, kerékpár, novella, paródia, próza, szatíra, válogatás
+[amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [19. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/19. század), [amerikai](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai), [groteszk](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/groteszk), [humoreszk](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoreszk), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [karcolat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/karcolat), [kerékpár](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kerékpár), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [paródia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/paródia), [próza](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/próza), [szatíra](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szatíra), [válogatás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/válogatás)
 
 ### Összefoglalás
 <div>

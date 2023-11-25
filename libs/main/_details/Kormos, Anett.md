@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kormos%2C%20Anett/Dumaszinhaz%20%28585%29/Dumaszinhaz%20-%20Kormos%2C%20Anett.epub)
 
 ### Tagek
-humoros, interjú, magyar nyelvű, magyar szerző
+[humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [interjú](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/interjú), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző)
 
 ### Összefoglalás
 <div>

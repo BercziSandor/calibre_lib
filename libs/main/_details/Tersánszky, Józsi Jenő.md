@@ -25,7 +25,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tersanszky%2C%20Jozsi%20Jeno/A%20havasi%20selyemfiu%20%28611%29/A%20havasi%20selyemfiu%20-%20Tersanszky%2C%20Jozsi%20Jeno.epub)
 
 ### Tagek
-20. század, erotikus, magyar nyelvű, magyar szerző, nyugatosok, regény
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [erotikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erotikus), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [nyugatosok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyugatosok), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 Tersánszky erotikus regényei közé tartozik. Témája a nagytermészetű vén Krizsánné kései, nagy szenvedélye fiatal pakulár szolgája iránt. Az öregedő asszony története során a szerző rendkívül finom lélekrajzot ad a különös, taszító és egyben szánalmas öregasszonyról, aki egy életen keresztül magára erőszakolt keménységét, legendás hírű durvaságát szinte percről percre elhagyván, szerelmes lesz a fiatal legénybe, tulajdonképpen megvásárolja magának, de mint minden effajta üzlet – ez sem jelent egyik félnek sem örömet, csak kényszert és megaláztatásokat.
@@ -39,7 +39,7 @@ Tersánszky különös félvad világot ábrázol, olyan társadalmat mutat be, 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tersanszky%2C%20Jozsi%20Jeno/Viszontlatasra%2C%20draga_.%20_%20Legenda%20a%20%28613%29/Viszontlatasra%2C%20draga_.%20_%20Legen%20-%20Tersanszky%2C%20Jozsi%20Jeno.epub)
 
 ### Tagek
-magyar nyelvű, 20. század, magyar szerző
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző)
 
 ### Összefoglalás
 Milyen ​"egyszerűen" kezdődött ez a háború… Késnek az újságok, megdrágul az élelmiszer, egy-két menekült jön különféle hírekkel, Jakob s Nagyapus esténként összevesznek a térkép fölött, Nela szerelmes regényeket olvas, és a szőke grófról álmodozik…

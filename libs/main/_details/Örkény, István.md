@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Orkeny%2C%20Istvan/%2C%2CRozsakiallitas_%20%28515%29/%2C%2CRozsakiallitas_%20-%20Orkeny%2C%20Istvan.epub)
 
 ### Tagek
-303 magyar regény, abszurd, filmadaptáció, halál, kisregény, magyar nyelvű, magyar szerző, az író származása szerint, szépirodalom, regény, novella, elbeszélés
+[303 magyar regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/303 magyar regény), [abszurd](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/abszurd), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [halál](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/halál), [kisregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kisregény), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [az író származása szerint](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/az író származása szerint), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Orkeny%2C%20Istvan/Valogatott%20egyperces%20novellak%20%28516%29/Valogatott%20egyperces%20novellak%20-%20Orkeny%2C%20Istvan.epub)
 
 ### Tagek
-20. század, egyperces, groteszk, humoros, kispróza, magyar nyelvű, magyar szerző, válogatás, elbeszélés, irodalom, novella, szépirodalom
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [egyperces](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/egyperces), [groteszk](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/groteszk), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [kispróza](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kispróza), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [válogatás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/válogatás), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Orkeny%2C%20Istvan/Egyperces%20novellak%20%28514%29/Egyperces%20novellak%20-%20Orkeny%2C%20Istvan.epub)
 
 ### Tagek
-egyperces, illusztrált, klasszikus, magyar nyelvű, magyar szerző, 20. század, groteszk, szépirodalom, abszurd, novella, elbeszélés
+[egyperces](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/egyperces), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [groteszk](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/groteszk), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [abszurd](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/abszurd), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés)
 
 ### Összefoglalás
 <div>

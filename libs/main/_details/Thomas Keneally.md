@@ -7,7 +7,7 @@
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Keneally%2C%20Thomas/Schindler%20listaja%20%28318%29/Schindler%20listaja%20-%20Thomas%20Keneally.epub)
 
 ### Tagek
-2. világháború, ausztrál szerző, booker-díj, igaz történet alapján, kortárs, magyar nyelvű, regény, történelem, történelmi regény, holokauszt, 1001 könyv listán szerepel, filmadaptáció
+[2. világháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/2. világháború), [ausztrál szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ausztrál szerző), [booker-díj](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/booker-díj), [igaz történet alapján](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/igaz történet alapján), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelem), [történelmi regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelmi regény), [holokauszt](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/holokauszt), [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1001 könyv listán szerepel), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció)
 
 ### Összefoglalás
 <div>

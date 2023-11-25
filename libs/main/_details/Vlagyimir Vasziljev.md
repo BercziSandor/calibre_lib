@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Vasziljev/Kaosz-Orseg%20%28460%29/Kaosz-Orseg%20-%20Vlagyimir%20Vasziljev.epub)
 
 ### Tagek
-fiction, fantasy, urban, orosz, urban fantasy
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [urban](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/urban), [orosz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz), [urban fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/urban fantasy)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lee%20Child/Eltunt%20ellenseg%20%281206%29/Eltunt%20ellenseg%20-%20Lee%20Child.epub)
 
 ### Tagek
-akció, brit szerző, detektívtörténet, gyilkosság, krimi, magyar nyelvű, nyomozás, rejtély, sorozat része, thriller
+[akció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/akció), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [rejtély](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/rejtély), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ akció, brit szerző, detektívtörténet, gyilkosság, krimi, magyar nyelvű, n
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lee%20Child/Csak%20egy%20loves%20%28392%29/Csak%20egy%20loves%20-%20Lee%20Child.epub)
 
 ### Tagek
-akció, brit szerző, detektívtörténet, filmadaptáció, gyilkosság, indiana, katonaság, krimi, magyar nyelvű, nyomozás, sorozat része, thriller
+[akció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/akció), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [indiana](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/indiana), [katonaság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/katonaság), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>

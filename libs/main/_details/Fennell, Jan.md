@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fennell%2C%20Jan/Kutyapszichologia%20%281723%29/Kutyapszichologia%20-%20Fennell%2C%20Jan.epub)
 
 ### Tagek
-kutya
+[kutya](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kutya)
 
 ### Összefoglalás
 <div>

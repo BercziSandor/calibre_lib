@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Martin%20Cruz%20Smith/Gorkij%20Park%20%281214%29/Gorkij%20Park%20-%20Martin%20Cruz%20Smith.epub)
 
 ### Tagek
-amerikai szerző, diktatúra, filmadaptáció, krimi, magyar nyelvű, oroszország, politikai krimi, regény, sorozat része, sorozatgyilkosság, szovjetunió
+[amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [diktatúra](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/diktatúra), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [oroszország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/oroszország), [politikai krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/politikai krimi), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozatgyilkosság), [szovjetunió](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szovjetunió)
 
 ### Összefoglalás
 <div>

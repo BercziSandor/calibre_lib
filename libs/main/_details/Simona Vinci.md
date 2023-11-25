@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Simona%20Vinci/Szegyentelenek%20%28609%29/Szegyentelenek%20-%20Simona%20Vinci.epub)
 
 ### Tagek
-magyar nyelvű, olasz, regény, irodalom, szépirodalom
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [olasz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/olasz), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>

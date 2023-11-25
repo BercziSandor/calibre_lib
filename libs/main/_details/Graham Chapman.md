@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Graham%20Chapman/Monty%20Python%20-%20Brian%20elete%20%28271%29/Monty%20Python%20-%20Brian%20elete%20-%20Graham%20Chapman.epub)
 
 ### Tagek
-abszurd, amerikai szerző, angol humor, angol szerző, brit szerző, filmkönyv, humoros, magyar nyelvű, ókor, movies & tv series
+[abszurd](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/abszurd), [amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [angol humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol humor), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [filmkönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmkönyv), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [ókor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ókor), [movies & tv series](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/movies & tv series)
 
 ### Összefoglalás
 <div>

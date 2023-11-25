@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Maya%20Banks/Venuszdombi%20mesek%20%28285%29/Venuszdombi%20mesek%20-%20Maya%20Banks.epub)
 
 ### Tagek
-amerikai szerző, erotikus, felnőtt tartalom, magyar nyelvű, poliamória, regény, romantikus
+[amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [erotikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erotikus), [felnőtt tartalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/felnőtt tartalom), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [poliamória](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/poliamória), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus)
 
 ### Összefoglalás
 <div>

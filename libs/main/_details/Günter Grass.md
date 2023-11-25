@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gunter%20Grass/Raklepesben%20%28358%29/Raklepesben%20-%20Gunter%20Grass.epub)
 
 ### Tagek
-1940-es évek, 2. világháború, 20. század, 21. század, dokumentumregény, hajó, igaz történet alapján, irodalmi nobel-díj, magyar nyelvű, német szerző, regény, történelmi dokumentum, világháború
+[1940-es évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1940-es évek), [2. világháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/2. világháború), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [dokumentumregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/dokumentumregény), [hajó](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hajó), [igaz történet alapján](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/igaz történet alapján), [irodalmi nobel-díj](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalmi nobel-díj), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [német szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/német szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [történelmi dokumentum](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelmi dokumentum), [világháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/világháború)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Foster%2C%20Alan%20Dean/A%20nyolcadik%20utas_%20a%20Halal%20%28649%29/A%20nyolcadik%20utas_%20a%20Halal%20-%20Foster%2C%20Alan%20Dean.epub)
 
 ### Tagek
-amerikai szerző, filmből készült könyv, földönkívüliek, horror, magyar nyelvű, női főszereplő, regény, robot, sci-fi, sorozat része, szörny, thriller, űropera, űrutazás
+[amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [filmből készült könyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmből készült könyv), [földönkívüliek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/földönkívüliek), [horror](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/horror), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [robot](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/robot), [sci-fi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sci-fi), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [szörny](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szörny), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [űropera](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/űropera), [űrutazás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/űrutazás)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ amerikai szerző, filmből készült könyv, földönkívüliek, horror, magyar 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Foster%2C%20Alan%20Dean/A%20bolygo%20neve_%20Halal%20%28650%29/A%20bolygo%20neve_%20Halal%20-%20Foster%2C%20Alan%20Dean.epub)
 
 ### Tagek
-amerikai szerző, filmből készült könyv, földönkívüliek, horror, katonai sci-fi, katonaság, magyar nyelvű, női főszereplő, regény, robot, sci-fi, sorozat része, szörny, thriller, űrutazás
+[amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [filmből készült könyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmből készült könyv), [földönkívüliek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/földönkívüliek), [horror](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/horror), [katonai sci-fi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/katonai sci-fi), [katonaság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/katonaság), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [robot](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/robot), [sci-fi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sci-fi), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [szörny](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szörny), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [űrutazás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/űrutazás)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@ amerikai szerző, filmből készült könyv, földönkívüliek, horror, katonai
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Foster%2C%20Alan%20Dean/Az%20ut%20vegen%20a%20halal%20%28652%29/Az%20ut%20vegen%20a%20halal%20-%20Foster%2C%20Alan%20Dean.epub)
 
 ### Tagek
-amerikai szerző, börtön, filmből készült könyv, földönkívüliek, horror, magyar nyelvű, női főszereplő, regény, sci-fi, sorozat része, thriller, űrutazás
+[amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [börtön](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/börtön), [filmből készült könyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmből készült könyv), [földönkívüliek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/földönkívüliek), [horror](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/horror), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sci-fi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sci-fi), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [űrutazás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/űrutazás)
 
 ### Összefoglalás
 <div>

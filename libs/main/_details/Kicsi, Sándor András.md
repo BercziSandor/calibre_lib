@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kicsi%2C%20Sandor%20Andras/Turomfu%20es%20jajlapi%20%28384%29/Turomfu%20es%20jajlapi%20-%20Kicsi%2C%20Sandor%20Andras.epub)
 
 ### Tagek
-betegség, egészség, magyar nyelvű, tanulmány
+[betegség](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/betegség), [egészség](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/egészség), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [tanulmány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tanulmány)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Donald%20James/Monstrum%20%28654%29/Monstrum%20-%20Donald%20James.epub)
 
 ### Tagek
-brit szerző, disztópia, krimi, magyar nyelvű, oroszország, sorozat része, thriller
+[brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [disztópia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/disztópia), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [oroszország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/oroszország), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ brit szerző, disztópia, krimi, magyar nyelvű, oroszország, sorozat része, t
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Donald%20James/A%20jovendomondo%20%28653%29/A%20jovendomondo%20-%20Donald%20James.epub)
 
 ### Tagek
-brit szerző, krimi, magyar nyelvű, oroszország, sorozat része, thriller
+[brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [oroszország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/oroszország), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <p>A helyszín: Murmanszk. Az időpont: 2017, száz évvel a Nagy Októberi 
@@ -43,7 +43,7 @@ nyomára bukkanjon egy olyan gyilkosnak, aki egyszerre zseniális,
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Donald%20James/Vadim%20%28655%29/Vadim%20-%20Donald%20James.epub)
 
 ### Tagek
-brit szerző, krimi, magyar nyelvű, oroszország, sorozat része, thriller
+[brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [oroszország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/oroszország), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <p>A polgárháború már a múlté, de Oroszország továbbra sem lélegezhet fel. 

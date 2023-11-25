@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Konrad%20Lorenz/Ember%20es%20kutya%20%28474%29/Ember%20es%20kutya%20-%20Konrad%20Lorenz.epub)
 
 ### Tagek
-állat, állattartás, állattörténet, állatvédelem, etológia, igaz történet alapján, ismeretterjesztő, magyar nyelvű, osztrák szerző, természettudomány, zoológia, kutya
+[állat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állat), [állattartás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állattartás), [állattörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állattörténet), [állatvédelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állatvédelem), [etológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/etológia), [igaz történet alapján](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/igaz történet alapján), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [osztrák szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/osztrák szerző), [természettudomány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/természettudomány), [zoológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/zoológia), [kutya](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kutya)
 
 ### Összefoglalás
 <div>

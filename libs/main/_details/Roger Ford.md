@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roger%20Ford/Nemetorszag%20titkos%20fegyverei%20a%20II.%20%281444%29/Nemetorszag%20titkos%20fegyverei%20a%20-%20Roger%20Ford.epub)
 
 ### Tagek
-2. világháború, 20. század, haditechnika, hadtörténet, magyar nyelvű, német, technikatörténet, történelem
+[2. világháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/2. világháború), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [haditechnika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/haditechnika), [hadtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hadtörténet), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [német](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/német), [technikatörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/technikatörténet), [történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelem)
 
 ### Összefoglalás
 <div>

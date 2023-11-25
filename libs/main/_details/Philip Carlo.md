@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Philip%20Carlo/A%20Jeges%20%28529%29/A%20Jeges%20-%20Philip%20Carlo.epub)
 
 ### Tagek
-amerikai egyesült államok, amerikai szerző, életrajz, filmadaptáció, magyar nyelvű, történelem, maffia, krimi
+[amerikai egyesült államok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai egyesült államok), [amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [életrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életrajz), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelem), [maffia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/maffia), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>

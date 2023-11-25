@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roderick%20Gordon/Az%20alagutak%20rejtelye%20%28971%29/Az%20alagutak%20rejtelye%20-%20Roderick%20Gordon.epub)
 
 ### Tagek
-expedíció, magyar nyelvű, sorozat része, fantasy, ifjúsági, kaland, regény
+[expedíció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/expedíció), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ifjúsági), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ expedíció, magyar nyelvű, sorozat része, fantasy, ifjúsági, kaland, regén
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roderick%20Gordon/Foldmely%20Titka%20%28974%29/Foldmely%20Titka%20-%20Roderick%20Gordon.epub)
 
 ### Tagek
-fantasy, ifjúsági, kaland, magyar nyelvű, regény, sorozat része, váltott szemszög, irodalom, szórakoztató irodalom, gyermek és ifjűsági irodalom
+[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ifjúsági), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [váltott szemszög](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/váltott szemszög), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom), [gyermek és ifjűsági irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermek és ifjűsági irodalom)
 
 ### Összefoglalás
 <div>

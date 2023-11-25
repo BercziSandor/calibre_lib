@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Soren%20Sveistrup/A%20gesztenyeember%20%281490%29/A%20gesztenyeember%20-%20Soren%20Sveistrup.epub)
 
 ### Tagek
-krimi, magyar nyelvű, nyomozás, regény, skandináv, thriller
+[krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skandináv), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div><p class="description">Hátborzongató ​pszichothriller a GYILKOSSÁG – THE KILLING filmsorozat szerzőjétől<br>Koppenhága külvárosban egy csendes októberi reggel a rendőrség egy fiatal, egyedülálló anya holttestére bukkan, akit brutálisan meggyilkoltak és megcsonkítottak: a nőnek levágták az egyik kezét, és a feje fölé egy kis gesztenyéből készült babát lógattak.</p>

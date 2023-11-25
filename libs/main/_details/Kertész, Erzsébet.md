@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kertesz%2C%20Erzsebet/Fiut%20vartak%2C%20lany%20szuletett%20%281418%29/Fiut%20vartak%2C%20lany%20szuletett%20-%20Kertesz%2C%20Erzsebet.epub)
 
 ### Tagek
-feminizmus, magyar nyelvű, magyar szerző, önéletrajz, regény
+[feminizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/feminizmus), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [önéletrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önéletrajz), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roald%20Dahl/Charlie%20and%20the%20Chocolate%20Factory%20%281593%29/Charlie%20and%20the%20Chocolate%20Facto%20-%20Roald%20Dahl.epub)
 
 ### Tagek
-juvenile fiction, classics, fantasy & magic
+[juvenile fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/juvenile fiction), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [fantasy & magic](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy & magic)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ juvenile fiction, classics, fantasy & magic
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roald%20Dahl/Charlie%20and%20the%20Great%20Glass%20Elevato%20%281594%29/Charlie%20and%20the%20Great%20Glass%20Ele%20-%20Roald%20Dahl.epub)
 
 ### Tagek
-juvenile fiction, classics, fantasy & magic
+[juvenile fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/juvenile fiction), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [fantasy & magic](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy & magic)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@ juvenile fiction, classics, fantasy & magic
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roald%20Dahl/Szofi%20es%20a%20HABO%20%28537%29/Szofi%20es%20a%20HABO%20-%20Roald%20Dahl.epub)
 
 ### Tagek
-álom, anglia, árva, brit szerző, filmadaptáció, gyermek főszereplő, gyermekkönyv iskolásoknak, illusztrált, magyar nyelvű, meseregény, női főszereplő, regény
+[álom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/álom), [anglia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/anglia), [árva](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/árva), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [gyermek főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermek főszereplő), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekkönyv iskolásoknak), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [meseregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/meseregény), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>
@@ -47,7 +47,7 @@ juvenile fiction, classics, fantasy & magic
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roald%20Dahl/Roald%20Dahl%20osszes%20meghokkento%20mesej%20%281596%29/Roald%20Dahl%20osszes%20meghokkento%20m%20-%20Roald%20Dahl.epub)
 
 ### Tagek
-brit szerző, elbeszélés, fekete humor, hangoskönyv, humoros, magyar nyelvű, novella
+[brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés), [fekete humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fekete humor), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella)
 
 ### Összefoglalás
 <div>
@@ -61,7 +61,7 @@ brit szerző, elbeszélés, fekete humor, hangoskönyv, humoros, magyar nyelvű,
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roald%20Dahl/Roald%20Dahl%20osszes%20meghokkento%20mesej%20%281595%29/Roald%20Dahl%20osszes%20meghokkento%20m%20-%20Roald%20Dahl.epub)
 
 ### Tagek
-brit szerző, elbeszélés, fekete humor, hangoskönyv, humoros, magyar nyelvű, novella
+[brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés), [fekete humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fekete humor), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella)
 
 ### Összefoglalás
 <div>
@@ -126,7 +126,7 @@ brit szerző, elbeszélés, fekete humor, hangoskönyv, humoros, magyar nyelvű,
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roald%20Dahl/Fantasztikus%20Roka%20ur%20%281601%29/Fantasztikus%20Roka%20ur%20-%20Roald%20Dahl.epub)
 
 ### Tagek
-20. század, állat, állatmese, brit szerző, filmadaptáció, gyermek- és ifjúsági irodalom, gyermekkönyv, humoros, illusztrált, magyar nyelvű, mese, meseregény, róka
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [állat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állat), [állatmese](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állatmese), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [gyermek- és ifjúsági irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermek- és ifjúsági irodalom), [gyermekkönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekkönyv), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [mese](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mese), [meseregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/meseregény), [róka](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/róka)
 
 ### Összefoglalás
 <div><p class="description">Minden alkalommal, amikor Róka úr egy-egy zsíros tyúkkal, libával vagy pulykával tér haza esti portyájáról, a falu három elvetemült gazdája majd szétrobban a dühtől a farmjukat ért támadások miatt.</p>

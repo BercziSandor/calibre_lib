@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leo%20Taxil/A%20szorakoztato%20Biblia%20%28950%29/A%20szorakoztato%20Biblia%20-%20Leo%20Taxil.epub)
 
 ### Tagek
-francia szerző, ismeretterjesztő, magyar nyelvű, ateizmus, biblia, humoros, vallás, valláskritika
+[francia szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/francia szerző), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [ateizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ateizmus), [biblia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/biblia), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallás), [valláskritika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/valláskritika)
 
 ### Összefoglalás
 <p class="description">Taxil Léo francia író, a régi ateista hagyományok, a nagy felvilágosítók méltó örököse. Már fiatalon bekapcsolódott az ateista mozgalomba. XIII. Leo pápa egyik körlevele után nyilvános bűnbocsánatot tartott és visszatért a katolikus egyházba. Ekkor Diana Vaugham címen a szabadgondolkodókat támadó könyvet írt. XIII. Leo pápa személyesen magánkihallgatáson is fogadta. 1897 tavaszán jelentette be, hogy megtérése nem volt őszinte, 12 éven keresztül csapta be az egyházat és a pápát, akinek csalatkozhatatlansága 1870 óta elfogadott hittétel. 1897 nyarán adta ki a Szórakoztató Bibliát, ezt a szellemes olvasmányt.</p>

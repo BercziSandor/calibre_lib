@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Egy%20czitrom%20hajaval%20%281344%29/Egy%20czitrom%20hajaval%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
-gasztronómia, magyar nyelvű, magyar szerző, recept, sorozat része, szakácskönyv
+[gasztronómia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gasztronómia), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [recept](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/recept), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [szakácskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szakácskönyv)
 
 ### Összefoglalás
 <div>
@@ -29,7 +29,7 @@ gasztronómia, magyar nyelvű, magyar szerző, recept, sorozat része, szakácsk
 [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Hullamok%20kergetese%20%281359%29/Hullamok%20kergetese%20-%20Szabo%2C%20Magda.pdf)
 
 ### Tagek
-20. század, esszé, magyar nyelvű, magyar szerző, riport, útleírás
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [esszé](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/esszé), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [riport](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/riport), [útleírás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/útleírás)
 
 ### Összefoglalás
 <div>
@@ -43,7 +43,7 @@ gasztronómia, magyar nyelvű, magyar szerző, recept, sorozat része, szakácsk
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Pilatus%20%28463%29/Pilatus%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
-irodalom, további könyveink
+[irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [további könyveink](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/további könyveink)
 
 ### Összefoglalás
 <p class="description">Egyszerű kis öregasszony indul új életbe a regény első részében. Férjét elveszítette, de vénségére nem marad egyedül, jó gyermeke, a fővárosban elhelyezkedett lánya magához veszi. Nincs hát vége semminek, még így hetvenöt évesen is újra kezdődhet számára minden, annyi segítőkészség mellett, amennyivel gyermeke mellette áll, az élet utolsó szakasza is harmonikus lehet, örömet hozó, vidám.<br>Mi történik ezzel az öregasszonnyal alig nyolc hónap alatt, miközben új otthont kap, gondoskodnak róla, s mindennel elhalmozzák, ami csak pénzzel megvehető? Mi űzi vissza boldogtalanabbul, mint bármikor életében, régi városába, abba az elhagyott otthonba, amelyben már idegen él, az elevenek világából a holtak árnyai közé? Miben vétkezett ártatlan Pilátusa, a gyermeke, aki magához vette, s értetlenül nézi tragédiáját, úgy érzi, mindent megtett érte, ami csak megtehető, nem bűnös abban, ami bekövetkezett.</p>
@@ -56,7 +56,7 @@ irodalom, további könyveink
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Okut%20%28464%29/Okut%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
-életrajzok, költők, írók, visszaemlékezések
+[életrajzok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életrajzok), [költők](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/költők), [írók](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/írók), [visszaemlékezések](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/visszaemlékezések)
 
 ### Összefoglalás
 <p class="description">"Apám már nem érte meg, míg főfoglalkozású író lehettem, anyám igen, de akkorra már tudta, nemhogy egy fogadalom, semmi sem tudja majd életveszélyes pályámon semlegesíteni az alkotót munkára kényszerítő és kitalálhatatlan szakmai helyzetbe hozó vágyat, hogy elmondja mindenkinek, amiről úgy érzi, tilos hallgatnia. Mikor ezeket a sorokat írom, már senkim nem él, akinek szava megállíthatna, maga az ókút <br>sincs, új épület alapozása tüntette el. Pályámat hivatalosan 1945-ben kezdtem a Magyarokban megjelent első, komolyan vehető verssel. Ott állok a szakma ókútja fenekén, senki szeretete nem szól rám, holott a hajdani intelem nem volt balgaság, az alkotás ókútjában bármi történhetik az alkotóval. Bármi. De persze mindegy, hogyne volna mindegy. Sem apám, sem anyám, aki retteghetne, utolsó családtagomat, <br>Konstantint, a macskát, aki az írógépem mellé gömbölyödve kilenc termékeny éven át figyelte, mit kopognak a billentyűk, tegnap váltotta meg kivédhetetlen szenvedésétől a kegyes altatás. Akár táncolhatok is az ókút tetején, nem riasztok meg vele senkit, mert nincs is senkim, csak a mindent megőrző emléke a gyermekkor abszolút biztonságának, a háznak, ahol nem volt határvonal valóság és látomás között, ahol két elvetélt író házasságából megszülettem, felnőttem és megpróbáltam <br>rögzíteni életem első tíz esztendejének irreálisan gyönyörű, boldogítóan abszurd szereplőgárdáját, színpadképét és kuliszszáit."</p>
@@ -69,7 +69,7 @@ irodalom, további könyveink
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Megmaradt%20Szobotkanak%20%28476%29/Megmaradt%20Szobotkanak%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
-az író származása szerint, szépirodalom, regény, novella, elbeszélés
+[az író származása szerint](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/az író származása szerint), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés)
 
 ### Összefoglalás
 <p class="description">1982 tavaszán meghalt Szobotka Tibor, aki nemcsak írótársa volt Szabó Magdának, hanem több mint harminc éven át a férje is. Kettejük élete az egymásra találás első pillanatától kezdve oly elválaszthatatlanul forrott eggyé, hogy a végzet mindkettőjükre sújtott. De Szabó Magda tudta, hogy ő nem köthet alkut a halállal, mert neki olyan feladata van, amit senki más nem végezhet el helyette. S az első pillanatok bénító fájdalma után, amikor heves sistergéssel leégtek az élethez kapcsoló vezetékek, Szabó Magda hozzálátott, hogy megírja élete legnehezebb könyvét. Kinyitotta a lezárt fiókokat, kiürítette a kéziratokkal tömött szekrények mélyét, és megtette azt, amit tennie kellett: életre keltette az igazi Szobotka Tibort. Ez a könyv regény, de nem regényes életrajz, sok tekintetben rendhagyó mű. Természetes módon mosódik egybe benne Szobotka Tibor szövege (memoárrészletek, naplófeljegyzések, gyermekkori írói kísérletek) a Szabó Magdáéval, kiegészítik egymást, szinte felelgetnek egymásnak. Egybeforrnak, hiszen a két élet is egy volt, elválaszthatatlan egész. S ezért szerelmi történet is ez a könyv, persze az is a maga rendhagyó módján. Ez a szerelem maga volt a teljesség, csata, amelyben a szerelmesek megnyerték egymást, és elvesztették önmagukat. <br><br>Szobotka Tibornak már nem volt rá ideje, hogy megírja a memoárjait, alighogy hozzáfogott, a halál közbeszólt. A megkezdett munkát Szabó Magda folytatta, példátlan önfegyelemmel és lelkierővel rekonstruálta annak az írónak szenvedésekkel, kudarcokkal teli életét, akinek tehetségében, elhivatottságában jobban hit, mint a sajátjáéban, olyan embert állít elénk, aki már réges-rég méltó arra, hogy véglegesen fölfedezzük, s akinek könyvei végre elfoglalják méltó helyüket a magyar irodalomban.</p>
@@ -82,7 +82,7 @@ az író származása szerint, szépirodalom, regény, novella, elbeszélés
 [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Az%20ajto%20%281357%29/Az%20ajto%20-%20Szabo%2C%20Magda.pdf)
 
 ### Tagek
-20. század, 303 magyar regény, balassi bálint-emlékkard, barátság, emberi sorsok, filmadaptáció, hangoskönyv, igaz történet alapján, klasszikus, kortárs, lélektani, magyar nyelvű, magyar szerző, nagy könyv, női főszereplő, regény, vallás, vallomásregény
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [303 magyar regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/303 magyar regény), [balassi bálint-emlékkard](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/balassi bálint-emlékkard), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/barátság), [emberi sorsok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/emberi sorsok), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [igaz történet alapján](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/igaz történet alapján), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [lélektani](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lélektani), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [nagy könyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nagy könyv), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallás), [vallomásregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallomásregény)
 
 ### Összefoglalás
 <div>
@@ -96,7 +96,7 @@ az író származása szerint, szépirodalom, regény, novella, elbeszélés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Abigel%20%281338%29/Abigel%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
-1940-es évek, 2. világháború, 20. század, barátság, diákélet, fiatalkor, gyermekszemszög, háború, hangoskönyv, ifjúsági, illusztrált, iskola, kamasz főszereplő, kirekesztés, klasszikus, kollégium, kötelező, középiskola, lányregény, magyar nyelvű
+[1940-es évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1940-es évek), [2. világháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/2. világháború), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/barátság), [diákélet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/diákélet), [fiatalkor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiatalkor), [gyermekszemszög](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekszemszög), [háború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/háború), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ifjúsági), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [iskola](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/iskola), [kamasz főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kamasz főszereplő), [kirekesztés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kirekesztés), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [kollégium](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kollégium), [kötelező](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kötelező), [középiskola](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/középiskola), [lányregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lányregény), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű)
 
 ### Összefoglalás
 <div>
@@ -113,7 +113,7 @@ az író származása szerint, szépirodalom, regény, novella, elbeszélés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Szuletesnap%20%281337%29/Szuletesnap%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
-20. század, barátság, budapest, ifjúsági, illusztrált, karácsony, klasszikus, lányregény, magyar nyelvű, magyar szerző, magyarország, regény, romantikus
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/barátság), [budapest](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/budapest), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ifjúsági), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [karácsony](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/karácsony), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [lányregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lányregény), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [magyarország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyarország), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus)
 
 ### Összefoglalás
 <div>
@@ -127,7 +127,7 @@ az író származása szerint, szépirodalom, regény, novella, elbeszélés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Liber%20Mortis%20%281341%29/Liber%20Mortis%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
-magyar nyelvű, magyar szerző, napló, posztumusz
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [napló](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/napló), [posztumusz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/posztumusz)
 
 ### Összefoglalás
 <div>
@@ -141,7 +141,7 @@ magyar nyelvű, magyar szerző, napló, posztumusz
 [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Regimodi%20tortenet%20%281356%29/Regimodi%20tortenet%20-%20Szabo%2C%20Magda.rtf)
 
 ### Tagek
-1800-as évek, 19. század, 20. század, 303 magyar regény, családregény, családtörténet, debrecen, filmadaptáció, háború, hangoskönyv, klasszikus, magyar nyelvű, magyar szerző, nagy könyv, női főszereplő, nők, regény, századforduló, szociográfia
+[1800-as évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1800-as évek), [19. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/19. század), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [303 magyar regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/303 magyar regény), [családregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/családregény), [családtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/családtörténet), [debrecen](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/debrecen), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [háború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/háború), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [nagy könyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nagy könyv), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [nők](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nők), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [századforduló](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/századforduló), [szociográfia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szociográfia)
 
 ### Összefoglalás
 <div>
@@ -155,7 +155,7 @@ magyar nyelvű, magyar szerző, napló, posztumusz
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/A%20Danaida%20%281350%29/A%20Danaida%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
-20. század, emberi sorsok, filmadaptáció, hangoskönyv, házasság, magyar nyelvű, magyar szerző, női főszereplő, regény, szülői szerep
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [emberi sorsok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/emberi sorsok), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [házasság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/házasság), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [szülői szerep](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szülői szerep)
 
 ### Összefoglalás
 <div>
@@ -166,7 +166,7 @@ magyar nyelvű, magyar szerző, napló, posztumusz
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Tunder%20Lala%20%281354%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-anyaság, férfi főszereplő, filmadaptáció, gyermekkönyv iskolásoknak, hangoskönyv, illusztrált, kortárs, magyar nyelvű, magyar szerző, meseregény, regény, tündér, unikornis, varázslat, varázsló
+[anyaság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/anyaság), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekkönyv iskolásoknak), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [meseregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/meseregény), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [tündér](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tündér), [unikornis](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/unikornis), [varázslat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/varázslat), [varázsló](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/varázsló)
 
 ### Összefoglalás
 <div>
@@ -177,7 +177,7 @@ anyaság, férfi főszereplő, filmadaptáció, gyermekkönyv iskolásoknak, han
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Alarcosbal%20%281352%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-1950-es évek, 2. világháború, 20. század, háború, ifjúsági, illusztrált, iskola, klasszikus, lányregény, magyar nyelvű, magyar szerző, női főszereplő, regény, szülői szerep, tanár, történelem, váltott szemszög
+[1950-es évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1950-es évek), [2. világháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/2. világháború), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [háború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/háború), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ifjúsági), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [iskola](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/iskola), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [lányregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lányregény), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [szülői szerep](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szülői szerep), [tanár](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tanár), [történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelem), [váltott szemszög](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/váltott szemszög)
 
 ### Összefoglalás
 <div>
@@ -188,7 +188,7 @@ anyaság, férfi főszereplő, filmadaptáció, gyermekkönyv iskolásoknak, han
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Katalin%20utca%20%281353%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-20. század, barátság, emberi sorsok, háború, hangoskönyv, klasszikus, lélektani, magyar nyelvű, magyar szerző, női főszereplő, regény, váltott szemszög
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/barátság), [emberi sorsok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/emberi sorsok), [háború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/háború), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [lélektani](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lélektani), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [váltott szemszög](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/váltott szemszög)
 
 ### Összefoglalás
 <div>
@@ -202,7 +202,7 @@ anyaság, férfi főszereplő, filmadaptáció, gyermekkönyv iskolásoknak, han
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Az%20oz%20%281348%29/Az%20oz%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
-2. világháború, 20. század, állat, család, emberi sorsok, gyilkosság, hangoskönyv, klasszikus, lélekrajz, lélektani, magyar nyelvű, magyar szerző, női főszereplő, párkapcsolat, regény, zsebkönyv
+[2. világháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/2. világháború), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [állat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állat), [család](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/család), [emberi sorsok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/emberi sorsok), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [lélekrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lélekrajz), [lélektani](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lélektani), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [párkapcsolat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/párkapcsolat), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [zsebkönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/zsebkönyv)
 
 ### Összefoglalás
 <div>
@@ -216,7 +216,7 @@ anyaság, férfi főszereplő, filmadaptáció, gyermekkönyv iskolásoknak, han
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Fresko%20%281347%29/Fresko%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
-20. század, család, családregény, emberi sorsok, halál, hangoskönyv, klasszikus, lélektani, magyar nyelvű, magyar szerző, regény, társas kapcsolatok, váltott szemszög
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [család](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/család), [családregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/családregény), [emberi sorsok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/emberi sorsok), [halál](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/halál), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [lélektani](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lélektani), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [társas kapcsolatok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társas kapcsolatok), [váltott szemszög](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/váltott szemszög)
 
 ### Összefoglalás
 <div>
@@ -230,7 +230,7 @@ anyaság, férfi főszereplő, filmadaptáció, gyermekkönyv iskolásoknak, han
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Fur%20Elise%20%281339%29/Fur%20Elise%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
-20. század, családregény, énregény, hangoskönyv, magyar nyelvű, magyar szerző, nagy könyv, női főszereplő, regény, testvérek, történelem, visszaemlékezés
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [családregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/családregény), [énregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/énregény), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [nagy könyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nagy könyv), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [testvérek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/testvérek), [történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelem), [visszaemlékezés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/visszaemlékezés)
 
 ### Összefoglalás
 <div>
@@ -244,7 +244,7 @@ anyaság, férfi főszereplő, filmadaptáció, gyermekkönyv iskolásoknak, han
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Mondjak%20meg%20Zsofikanak%20%281346%29/Mondjak%20meg%20Zsofikanak%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
-1950-es évek, 20. század, barátság, budapest, család, gyász, gyermekszemszög, halál, iskola, klasszikus, magyar nyelvű, magyar szerző, magyarország, nyár, nyomozás, örökbefogadás, regény, szünidő
+[1950-es évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1950-es évek), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/barátság), [budapest](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/budapest), [család](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/család), [gyász](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyász), [gyermekszemszög](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekszemszög), [halál](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/halál), [iskola](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/iskola), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [magyarország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyarország), [nyár](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyár), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [örökbefogadás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/örökbefogadás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [szünidő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szünidő)
 
 ### Összefoglalás
 <div>
@@ -258,7 +258,7 @@ anyaság, férfi főszereplő, filmadaptáció, gyermekkönyv iskolásoknak, han
 [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Okut%20%281349%29/Okut%20-%20Szabo%2C%20Magda.rtf)
 
 ### Tagek
-1920-as évek, 20. század, debrecen, életrajz, gyermekkor, hangoskönyv, kisgyermekkor, magyar nyelvű, magyar szerző, memoár, női főszereplő, regény
+[1920-as évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1920-as évek), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [debrecen](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/debrecen), [életrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életrajz), [gyermekkor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekkor), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [kisgyermekkor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kisgyermekkor), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [memoár](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/memoár), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>
@@ -272,7 +272,7 @@ anyaság, férfi főszereplő, filmadaptáció, gyermekkönyv iskolásoknak, han
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Magdalena%20%281342%29/Magdalena%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
-bécs, magyar nyelvű, magyar szerző, posztumusz
+[bécs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/bécs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [posztumusz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/posztumusz)
 
 ### Összefoglalás
 <div>
@@ -286,7 +286,7 @@ bécs, magyar nyelvű, magyar szerző, posztumusz
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Zeusz%20kuszoben%20%281343%29/Zeusz%20kuszoben%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
-20. század, görög, görögország, magyar nyelvű, magyar szerző, mitológia, útleírás, regény, irodalom, szépirodalom
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [görög](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/görög), [görögország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/görögország), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [mitológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mitológia), [útleírás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/útleírás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>
@@ -300,7 +300,7 @@ bécs, magyar nyelvű, magyar szerző, posztumusz
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Csigahaz%20%281345%29/Csigahaz%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
-1930-as évek, 20. század, bécs, klasszikus, barátság, házasság, kisregény, magyar nyelvű, magyar szerző, posztumusz
+[1930-as évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1930-as évek), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [bécs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/bécs), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/barátság), [házasság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/házasság), [kisregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kisregény), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [posztumusz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/posztumusz)
 
 ### Összefoglalás
 <div>
@@ -314,7 +314,7 @@ bécs, magyar nyelvű, magyar szerző, posztumusz
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Pilatus%20%281351%29/Pilatus%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
-20. század, budapest, családregény, családtörténet, emberi sorsok, filmadaptáció, gyász, gyógyfürdő, halál, klasszikus, kortárs, lélektani, magyar nyelvű, magyar szerző, magyarország, női főszereplő, öregedés, orvos, regény, szülői szerep
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [budapest](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/budapest), [családregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/családregény), [családtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/családtörténet), [emberi sorsok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/emberi sorsok), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [gyász](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyász), [gyógyfürdő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyógyfürdő), [halál](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/halál), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [lélektani](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lélektani), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [magyarország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyarország), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [öregedés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/öregedés), [orvos](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orvos), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [szülői szerep](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szülői szerep)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/W.%20E.%20B.%20Griffin/Hadnagyok%20%28320%29/Hadnagyok%20-%20W.%20E.%20B.%20Griffin.epub)
 
 ### Tagek
-2. világháború, amerikai egyesült államok, amerikai szerző, hadsereg, katonaság, magyar nyelvű, sorozat része
+[2. világháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/2. világháború), [amerikai egyesült államok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai egyesült államok), [amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [hadsereg](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hadsereg), [katonaság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/katonaság), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része)
 
 ### Összefoglalás
 <p class="description">Fiatalok voltak és álmodozók, akik jelentkeztek a Hadsereg hívó szavára. Megjárták a második világháború poklát. Észak-Afrika és Európa véres hadszínterein harcoltak, tették kötelességüket – Craig W. Lowell, a milliomos sorkatona, Sanford T. Felter, az aranyszívű kis zsidó, Rudolph G. MacMillan, a dörzsölt skót, IV. Philip S. Parker, a katonaőseire büszke, fekete óriás és társaik. Fiúk voltak, amikor elmentek, és akik férfiként visszatértek, csatában megedződött profi katonákká váltak…</p>
@@ -18,7 +18,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/W.%20E.%20B.%20Griffin/Kulonleges%20kommandosok%20I-II_%20%28321%29/Kulonleges%20kommandosok%20I-II_%20-%20W.%20E.%20B.%20Griffin.epub)
 
 ### Tagek
-amerikai szerző, dél-amerika, forradalom, közép-amerika, kuba, magyar nyelvű, sorozat része
+[amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [dél-amerika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/dél-amerika), [forradalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/forradalom), [közép-amerika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/közép-amerika), [kuba](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kuba), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része)
 
 ### Összefoglalás
 <div>

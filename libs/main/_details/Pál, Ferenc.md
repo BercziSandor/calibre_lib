@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Pal%2C%20Ferenc/A%20fuggosegtol%20az%20intimitasig%20%28664%29/A%20fuggosegtol%20az%20intimitasig%20-%20Pal%2C%20Ferenc.epub)
 
 ### Tagek
-21. század, függőség, ismeretterjesztő, magyar nyelvű, magyar szerző, önismeret, önsegítő, párkapcsolat, társ. tudományok, pszichológia
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [függőség](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/függőség), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [önismeret](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önismeret), [önsegítő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önsegítő), [párkapcsolat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/párkapcsolat), [társ. tudományok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társ. tudományok), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vamos%2C%20Miklos/135%20lehetetlen%20tortenet%20%28601%29/135%20lehetetlen%20tortenet%20-%20Vamos%2C%20Miklos.epub)
 
 ### Tagek
-magyar nyelvű, magyar szerző, napjaink, bulvár, politika, 20. század, kortárs, televíziózás
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [napjaink](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/napjaink), [bulvár](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/bulvár), [politika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/politika), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [televíziózás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/televíziózás)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ magyar nyelvű, magyar szerző, napjaink, bulvár, politika, 20. század, kortá
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vamos%2C%20Miklos/Hogy%20volt%20%281013%29/Hogy%20volt%20-%20Vamos%2C%20Miklos.epub)
 
 ### Tagek
-20. század, anekdota, kortárs, magyar nyelvű, magyar szerző, visszaemlékezés, hangoskönyv
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [anekdota](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/anekdota), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [visszaemlékezés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/visszaemlékezés), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@ magyar nyelvű, magyar szerző, napjaink, bulvár, politika, 20. század, kortá
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vamos%2C%20Miklos/Zenga%20zenek%20%28604%29/Zenga%20zenek%20-%20Vamos%2C%20Miklos.epub)
 
 ### Tagek
-1950-es évek, 1956, 20. század, magyar nyelvű, magyar szerző, gyermekszemszög, kortárs, regény
+[1950-es évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1950-es évek), [1956](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1956), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [gyermekszemszög](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekszemszög), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>
@@ -47,7 +47,7 @@ magyar nyelvű, magyar szerző, napjaink, bulvár, politika, 20. század, kortá
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vamos%2C%20Miklos/Anya%20csak%20egy%20van%20%28603%29/Anya%20csak%20egy%20van%20-%20Vamos%2C%20Miklos.epub)
 
 ### Tagek
-20. század, 21. század, depresszió, kortárs, magyar nyelvű, magyar szerző, nagy könyv, irodalom, szépirodalom, regény
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [depresszió](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/depresszió), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [nagy könyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nagy könyv), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>
@@ -61,7 +61,7 @@ magyar nyelvű, magyar szerző, napjaink, bulvár, politika, 20. század, kortá
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vamos%2C%20Miklos/A%20New%20York-Budapest%20metro%20%28602%29/A%20New%20York-Budapest%20metro%20-%20Vamos%2C%20Miklos.epub)
 
 ### Tagek
-20. század, kortárs, magyar nyelvű, magyar szerző, irodalom, szépirodalom, regény
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>

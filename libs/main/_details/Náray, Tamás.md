@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Naray%2C%20Tamas/Zarah%20%281234%29/Zarah%20-%20Naray%2C%20Tamas.epub)
 
 ### Tagek
-2. világháború, 20. század, családregény, halál, kortárs, magyar nyelvű, magyar szerző, női főszereplő, regény, sorozat része, zsidóság, család, magyar
+[2. világháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/2. világháború), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [családregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/családregény), [halál](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/halál), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [zsidóság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/zsidóság), [család](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/család), [magyar](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Naray%2C%20Tamas/Zarah%20oroksege%20%281233%29/Zarah%20oroksege%20-%20Naray%2C%20Tamas.epub)
 
 ### Tagek
-családregény, krimi, magyar szerző, sorozat része, magyar nyelvű, regény, magyar, családtörténet
+[családregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/családregény), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [magyar](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar), [családtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/családtörténet)
 
 ### Összefoglalás
 <p class="description">Zarah ​és családjának története ott folytatódik, ahol az első kötetben abbamaradt: Carla, az asszony nemrég megtalált unokája épp egy titkos küldetésre indul Dél-Amerikába a hódolójával, Yaakovval, hogy felkutassák a másik elveszett unokát, és kiderítsék, hogyan keveredhetett egy országhatárokon átívelő, szövevényes bűntény kellős közepébe. Az ikerlányok találkozása azonban távolról sem úgy sikerül, ahogy azt eltervezték, ez pedig olyan események lavináját indítja be, mely alapjaiban változtatja meg a család összes tagjának életét – s arra is rákényszeríti őket, hogy mindent felülvizsgáljanak, amit magukról, egymásról, bűnről és bűnhődésről, szeretetről és gyűlöletről korábban gondoltak.<br>Náray Tamás regényének folytatása épp olyan mozgalmas és szerteágazó, mint Zarah családja: hol szerelmi történet, hol izgalmas thriller, hol a II. világháború kimondatlan titkainak nyomába eredő történelmi regény. Leginkább azonban egy fordulatos családtörténetbe csomagolt elmélkedés arról, mennyire kiszámíthatatlan és törékeny kincs az emberi élet.</p>
@@ -32,7 +32,7 @@ családregény, krimi, magyar szerző, sorozat része, magyar nyelvű, regény, 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Naray%2C%20Tamas/Zarah%20alma%20%281235%29/Zarah%20alma%20-%20Naray%2C%20Tamas.epub)
 
 ### Tagek
-krimi, családregény, kortárs, magyar nyelvű, magyar szerző, regény, sorozat része
+[krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [családregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/családregény), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része)
 
 ### Összefoglalás
 <div>

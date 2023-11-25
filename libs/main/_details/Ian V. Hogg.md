@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ian%20V.%20Hogg/A%20II.%20vilaghaboru%20nemet%20titkos%20fegy%20%281454%29/A%20II.%20vilaghaboru%20nemet%20titkos%20-%20Ian%20V.%20Hogg.epub)
 
 ### Tagek
-2. világháború, 20. század, haditechnika, hadtörténet, magyar nyelvű, német, németország, technikatörténet, történelem
+[2. világháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/2. világháború), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [haditechnika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/haditechnika), [hadtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hadtörténet), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [német](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/német), [németország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/németország), [technikatörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/technikatörténet), [történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelem)
 
 ### Összefoglalás
 <div>

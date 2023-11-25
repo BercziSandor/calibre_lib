@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Salinger%2C%20Richard/Omyno%20%28522%29/Omyno%20-%20Salinger%2C%20Richard.epub)
 
 ### Tagek
-budapest, ezotéria, fejlődésregény, hangoskönyv, humoros, kortárs, magyar nyelvű, magyar szerző, magyarország, regény, sorozat része
+[budapest](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/budapest), [ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ezotéria), [fejlődésregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fejlődésregény), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [magyarország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyarország), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része)
 
 ### Összefoglalás
 <div>

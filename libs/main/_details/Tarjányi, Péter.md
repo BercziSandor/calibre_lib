@@ -6,7 +6,7 @@
  [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tarjanyi%2C%20Peter/Meglatni%20es%20megveretni%20%28478%29/Meglatni%20es%20megveretni%20-%20Tarjanyi%2C%20Peter.pdf)
 
 ### Tagek
-1990-es évek, 20. század, bűnüldözés, igazságügyi, kriminalisztika, maffia, magyar nyelvű, magyar szerző, rendszerváltás, megtörtént bűnügyek, dokumentumregények, szépirodalom
+[1990-es évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1990-es évek), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [bűnüldözés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/bűnüldözés), [igazságügyi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/igazságügyi), [kriminalisztika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kriminalisztika), [maffia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/maffia), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [rendszerváltás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/rendszerváltás), [megtörtént bűnügyek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/megtörtént bűnügyek), [dokumentumregények](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/dokumentumregények), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>

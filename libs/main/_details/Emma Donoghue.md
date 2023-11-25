@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Emma%20Donoghue/A%20szoba%20%28356%29/A%20szoba%20-%20Emma%20Donoghue.epub)
 
 ### Tagek
-fiction, literary, regény, szépirodalom
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [literary](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/literary), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kertesz%2C%20Imre/Sorstalansag%20-%20filmforgatokonyv%20%28319%29/Sorstalansag%20-%20filmforgatokonyv%20-%20Kertesz%2C%20Imre.epub)
 
 ### Tagek
-filmadaptáció, holokauszt, irodalmi nobel-díj, magyar nyelvű, magyar szerző, regény, irodalom, szépirodalom
+[filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [holokauszt](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/holokauszt), [irodalmi nobel-díj](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalmi nobel-díj), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>

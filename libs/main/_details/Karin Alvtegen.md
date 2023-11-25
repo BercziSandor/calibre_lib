@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karin%20Alvtegen/A%20kitaszitott%20%28673%29/A%20kitaszitott%20-%20Karin%20Alvtegen.epub)
 
 ### Tagek
-gyilkosság, hajléktalanság, kortárs, magyar nyelvű, regény, svéd szerző, szegénység, társadalomkritika, krimi, skandináv
+[gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [hajléktalanság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hajléktalanság), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [svéd szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/svéd szerző), [szegénység](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szegénység), [társadalomkritika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társadalomkritika), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skandináv)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ gyilkosság, hajléktalanság, kortárs, magyar nyelvű, regény, svéd szerző,
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karin%20Alvtegen/Arnyak%20%28676%29/Arnyak%20-%20Karin%20Alvtegen.epub)
 
 ### Tagek
-családregény, holokauszt, író, lélektani, magyar nyelvű, nyomozás, regény, svéd szerző, thriller, váltott szemszög, krimi, skandináv
+[családregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/családregény), [holokauszt](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/holokauszt), [író](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/író), [lélektani](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lélektani), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [svéd szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/svéd szerző), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [váltott szemszög](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/váltott szemszög), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skandináv)
 
 ### Összefoglalás
 <div>

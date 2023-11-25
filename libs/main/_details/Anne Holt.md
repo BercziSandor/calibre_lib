@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anne%20Holt/1222%20%28958%29/1222%20-%20Anne%20Holt.epub)
 
 ### Tagek
-fogyatékosság, kortárs, krimi, magyar nyelvű, mozgássérült, női főszereplő, norvég szerző, norvégia, regény, tél, fiction, crime
+[fogyatékosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fogyatékosság), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [mozgássérült](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mozgássérült), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [norvég szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/norvég szerző), [norvégia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/norvégia), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [tél](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tél), [fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime)
 
 ### Összefoglalás
 <div>

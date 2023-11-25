@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20R.%20R.%20Tolkien/The%20Fellowship%20of%20the%20Ring%20%2812%29/The%20Fellowship%20of%20the%20Ring%20-%20J.%20R.%20R.%20Tolkien.epub)
 
 ### Tagek
-fantasy
+[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ fantasy
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20R.%20R.%20Tolkien/The%20two%20towers%20%2813%29/The%20two%20towers%20-%20J.%20R.%20R.%20Tolkien.epub)
 
 ### Tagek
-angol nyelvű, angol szerző, brit szerző, kaland, regény, fantasy, irodalom, szórakoztató irodalom
+[angol nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol nyelvű), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@ angol nyelvű, angol szerző, brit szerző, kaland, regény, fantasy, irodalom, 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20R.%20R.%20Tolkien/The%20Return%20of%20the%20King%20%2814%29/The%20Return%20of%20the%20King%20-%20J.%20R.%20R.%20Tolkien.epub)
 
 ### Tagek
-fantasy, irodalom, szórakoztató irodalom
+[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom)
 
 ### Összefoglalás
 <div>
@@ -47,7 +47,7 @@ fantasy, irodalom, szórakoztató irodalom
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20R.%20R.%20Tolkien/A%20szilmarilok%20%2860%29/A%20szilmarilok%20-%20J.%20R.%20R.%20Tolkien.epub)
 
 ### Tagek
-angol szerző, brit szerző, ékszer, elf, fantasy, háború, high fantasy, illusztrált, kaland, klasszikus, locus-díj, mágia, magyar nyelvű, mitológia, posztumusz, regény, sárkány, zene, fantázia
+[angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [ékszer](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ékszer), [elf](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elf), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [háború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/háború), [high fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/high fantasy), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [locus-díj](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/locus-díj), [mágia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mágia), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [mitológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mitológia), [posztumusz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/posztumusz), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sárkány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sárkány), [zene](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/zene), [fantázia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantázia)
 
 ### Összefoglalás
 <div>
@@ -61,7 +61,7 @@ angol szerző, brit szerző, ékszer, elf, fantasy, háború, high fantasy, illu
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20R.%20R.%20Tolkien/A%20hobbit%20%2861%29/A%20hobbit%20-%20J.%20R.%20R.%20Tolkien.epub)
 
 ### Tagek
-1001 könyv listán szerepel, angol szerző, barátság, brit szerző, elf, fantasy, férfi főszereplő, filmadaptáció, gyermekkönyv iskolásoknak, hangoskönyv, high fantasy, kaland, kalandregény, klasszikus, mágia, magyar nyelvű, meseregény, regény, sárkány, utazás, fantázia
+[1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1001 könyv listán szerepel), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/barátság), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [elf](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elf), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekkönyv iskolásoknak), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [high fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/high fantasy), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [kalandregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalandregény), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [mágia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mágia), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [meseregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/meseregény), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sárkány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sárkány), [utazás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/utazás), [fantázia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantázia)
 
 ### Összefoglalás
 <div>
@@ -75,7 +75,7 @@ angol szerző, brit szerző, ékszer, elf, fantasy, háború, high fantasy, illu
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20R.%20R.%20Tolkien/Hurin%20gyermekei%20%2853%29/Hurin%20gyermekei%20-%20J.%20R.%20R.%20Tolkien.epub)
 
 ### Tagek
-angol szerző, brit szerző, dark fantasy, epikus fantasy, illusztrált, magyar nyelvű, regény, sárkány, töredék, fantasy
+[angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [dark fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/dark fantasy), [epikus fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/epikus fantasy), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sárkány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sárkány), [töredék](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/töredék), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy)
 
 ### Összefoglalás
 <div>
@@ -89,7 +89,7 @@ angol szerző, brit szerző, dark fantasy, epikus fantasy, illusztrált, magyar 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20R.%20R.%20Tolkien/J.%20R.%20R.%20Tolkien%20mesei%20%2862%29/J.%20R.%20R.%20Tolkien%20mesei%20-%20J.%20R.%20R.%20Tolkien.epub)
 
 ### Tagek
-angol szerző, brit szerző, fantasy, high fantasy, illusztrált, kaland, kalandregény, mágia, magyar nyelvű, mese, misztikus, novella, regény, sárkány, tündér, verses mese, tales & fables
+[angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [high fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/high fantasy), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [kalandregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalandregény), [mágia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mágia), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [mese](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mese), [misztikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/misztikus), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sárkány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sárkány), [tündér](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tündér), [verses mese](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/verses mese), [tales & fables](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tales & fables)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Peter%20S.%20Caledonian/Hat-tars%20%281222%29/Hat-tars%20-%20Peter%20S.%20Caledonian.epub)
 
 ### Tagek
-reference, survival & emergency preparedness
+[reference](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/reference), [survival & emergency preparedness](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/survival & emergency preparedness)
 
 ### Összefoglalás
 <div>

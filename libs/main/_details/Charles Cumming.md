@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Charles%20Cumming/Egy%20idegen%20orszag%20%28967%29/Egy%20idegen%20orszag%20-%20Charles%20Cumming.epub)
 
 ### Tagek
-brit szerző, kémregény, kortárs, krimi, magyar nyelvű, regény, sorozat része, titkosszolgálat, irodalom, szórakoztató irodalom
+[brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [kémregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kémregény), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [titkosszolgálat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/titkosszolgálat), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom)
 
 ### Összefoglalás
 <div>

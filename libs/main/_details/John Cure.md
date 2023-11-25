@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/John%20Cure/A%20gonosz%20uj%20arca%20%28956%29/A%20gonosz%20uj%20arca%20-%20John%20Cure.epub)
 
 ### Tagek
-gyilkosság, horror, krimi, magyar nyelvű, magyar szerző, misztikus, pszicho-thriller, pszichokrimi, regény, sorozatgyilkosság, szellemek, thriller, irodalom, szórakoztató irodalom
+[gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [horror](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/horror), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [misztikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/misztikus), [pszicho-thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszicho-thriller), [pszichokrimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichokrimi), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozatgyilkosság), [szellemek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szellemek), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/A%20magia%20szine%20%28696%29/A%20magia%20szine%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
-angol szerző, brit szerző, fantasy, fantasyparódia, humoros, kalandregény, kortárs, mágia, magyar nyelvű, paródia, regény, sárkány, sorozat része, turizmus, utazás, varázsló
+[angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [fantasyparódia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasyparódia), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [kalandregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalandregény), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [mágia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mágia), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [paródia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/paródia), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sárkány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sárkány), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [turizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/turizmus), [utazás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/utazás), [varázsló](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/varázsló)
 
 ### Összefoglalás
 Valahol messze, az űr egy eldugott zugában lavíroz A'Tuin, a gigászi teknőc. Hátán a lenyűgözően őrült, páratlanul szórakoztató, sosem látott hősöktől és elvetemültektől hemzsegő Korongvilág… Kard és varázslat. Bárd és kacagás. Kalandok a világ pereméig – és még annál is tovább!
@@ -18,7 +18,7 @@ Valahol messze, az űr egy eldugott zugában lavíroz A'Tuin, a gigászi teknőc
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/A%20magia%20fenye%20%28695%29/A%20magia%20fenye%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
-angol szerző, brit szerző, fantasy, hangoskönyv, humoros, kortárs, magyar nyelvű, regény, sorozat része, varázsló
+[angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [varázsló](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/varázsló)
 
 ### Összefoglalás
 Nagy A'Tuin, a Korongvilágot hátán cipelő csillagteknőc az egyetlen lény kerek e világon, aki pontosan tudja, hová tart. Hamarosan a Korong varázslói is megtudják, és akkor kezdhetnek csak igazán aggódni… A világot katasztrófa fenyegeti, s az egyetlen ember, aki megmenthetné, Széltoló, egy meglehetősen kétes hírű és gyáva varázsló, aki eltűnt. Állítólag legutóbb a Peremről lezuhanni látták egy négyszemű turista társaságában… A legmókásabb és legszokatlanabb fantasy történet az egész galaxisban. (Vagy bármely más galaxisban.)
@@ -31,7 +31,7 @@ Nagy A'Tuin, a Korongvilágot hátán cipelő csillagteknőc az egyetlen lény k
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Egyenjogu%20ritusok%20%28694%29/Egyenjogu%20ritusok%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
-angol szerző, boszorkány, brit szerző, fantasy, fantasyparódia, humoros, kalandregény, kortárs, mágia, magyar nyelvű, regény, sorozat része, varázsló
+[angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [boszorkány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/boszorkány), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [fantasyparódia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasyparódia), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [kalandregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalandregény), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [mágia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mágia), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [varázsló](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/varázsló)
 
 ### Összefoglalás
 Bilét Donát, a varázsló élete utolsó cselekedeteként – mielőtt a Halál csontkezével megkocogtatta volna a vállát – mágusbotját egy nyolcadik fiú nyolcadik fiára hagyta. Hímsoviniszta kollégái szempontjából sajnálatos módon elfelejtette azonban előtte ellenőrizni a kisbaba nemét…
@@ -44,7 +44,7 @@ Bilét Donát, a varázsló élete utolsó cselekedeteként – mielőtt a Halá
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Mort%2C%20a%20halal%20kisinasa%20%28762%29/Mort%2C%20a%20halal%20kisinasa%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
-fantasy, kalandregény, regény, humor, kortárs, brit, angol, fantasyparódia
+[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [kalandregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalandregény), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [brit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit), [angol](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol), [fantasyparódia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasyparódia)
 
 ### Összefoglalás
 <p class="description">A halál mindenkihez eljön. Amikor Morthoz ment, munkát ajánlott neki. Miután biztosították arról, hogy meghalni nem kötelező hozzá, Mort igent mondott. De úgy találta, hogy a romantikus vonzódások nem illenek össze a Halál inasának kötelességeivel.</p>
@@ -57,7 +57,7 @@ fantasy, kalandregény, regény, humor, kortárs, brit, angol, fantasyparódia
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Bubajos%20bajok%20%28697%29/Bubajos%20bajok%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
-angol szerző, brit szerző, fantasy, humoros, kalandregény, kortárs, mágia, magyar nyelvű, regény, sorozat része, varázsló
+[angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [kalandregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalandregény), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [mágia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mágia), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [varázsló](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/varázsló)
 
 ### Összefoglalás
 Volt egyszer egy szegény ember, s annak nyolc fia. A nyolcadik fiú felnőtt, megházasodott, és lett nyolc fia, s mivel csupán egyetlen foglalkozás jöhet szóba egy nyolcadik fiú nyolcadik fiának esetében, hát varázslónak állt. És bölcs lett meg hatalmas, na jó, mindenesetre hatalmas, s viselte a csúcsos kalapot, és itt a vége, fuss el véle…
@@ -75,7 +75,7 @@ Egy bűbájos.
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Veszbanyak%20%28689%29/Veszbanyak%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
-angol szerző, boszorkány, brit szerző, fantasy, fantasyparódia, humoros, kalandregény, kortárs, magyar nyelvű, regény, sorozat része, színjátszás
+[angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [boszorkány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/boszorkány), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [fantasyparódia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasyparódia), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [kalandregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalandregény), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [színjátszás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/színjátszás)
 
 ### Összefoglalás
 A boszorkányok természetüknél fogva nem igazán társas lények, vezetőket pedig egészen biztosan nem választanak maguknak.
@@ -90,7 +90,7 @@ Azonban még ő is kénytelen belátni, hogy a királyi udvar cselszövényeibe 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Erik%20%28699%29/Erik%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
-fantasy, fiction, regény, general, humor, urban, kortárs, brit, angol, fantasyparódia
+[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor), [urban](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/urban), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [brit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit), [angol](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol), [fantasyparódia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasyparódia)
 
 ### Összefoglalás
 Erik a Korongvilág egyetlen démonidéző-hackere.
@@ -107,7 +107,7 @@ Velük az oldalán Erikre nagy utazás vár az időn és a téren át, amitől m
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Vege%20a%20mesenek%20%28690%29/Vege%20a%20mesenek%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
-angol szerző, boszorkány, brit szerző, fantasy, humoros, kortárs, magyar nyelvű, regény, sorozat része
+[angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [boszorkány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/boszorkány), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része)
 
 ### Összefoglalás
 KÖNNYŰ FELADATNAK TŰNT… ELVÉGRE MENNYIRE NEHÉZ LEHET AZT ELINTÉZNI, HOGY A SZOLGÁLÓLÁNYT NE VEGYE NŐÜL A HERCEG?
@@ -123,7 +123,7 @@ Legalábbis nem lehetett – mostanáig…
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Kisistenek%20%28761%29/Kisistenek%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
-sorozat része, további könyveink, irodalom, humoros, istenek, szórakoztató irodalom, kalandregény, brit szerző, regény, angol szerző, kortárs, magyar nyelvű, vallás, hit, fantasy
+[sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [további könyveink](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/további könyveink), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [istenek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/istenek), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom), [kalandregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalandregény), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallás), [hit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hit), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy)
 
 ### Összefoglalás
 KEZDETBEN VALA AZ IGE.
@@ -141,7 +141,7 @@ A legeslegjobban azonban azt szeretné, ha az istene valaki mást választana ki
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Holgyek%20es%20urak%20%28691%29/Holgyek%20es%20urak%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
-angol szerző, boszorkány, brit szerző, fantasy, humoros, kalandregény, kortárs, magyar nyelvű, regény, sorozat része, tündér
+[angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [boszorkány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/boszorkány), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [kalandregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalandregény), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [tündér](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tündér)
 
 ### Összefoglalás
 A TÜNDÉREK VISSZATÉRTEK – DE EZÚTTAL NEM CSAK A FOGAIDAT AKARJÁK…
@@ -158,7 +158,7 @@ A darabban szerepet kapnak még törpék, varázslók, trollok, néptáncosok é
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Erdekes%20idok%20%28698%29/Erdekes%20idok%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
-angol szerző, barátság, brit szerző, fantasy, humoros, kalandregény, kína, kortárs, magyar nyelvű, regény, sorozat része, varázsló
+[angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/barátság), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [kalandregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalandregény), [kína](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kína), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [varázsló](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/varázsló)
 
 ### Összefoglalás
 HATALMAS CSATÁK! FORRADALOM! HALÁL! HÁBORÚ!
@@ -177,7 +177,7 @@ Cohen, az ortopédiás sarujában is legfeljebb négy könyök magas barbár hő
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Maszkabal%20%28692%29/Maszkabal%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
-angol szerző, boszorkány, brit szerző, fantasy, humoros, kortárs, krimi, magyar nyelvű, opera, paródia, regény, sorozat része, színház
+[angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [boszorkány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/boszorkány), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [opera](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/opera), [paródia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/paródia), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [színház](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/színház)
 
 ### Összefoglalás
 AZ ELŐADÁSNAK MÉG AKKOR IS FOLYTATÓDNIA KELL, HA ÖLDÖKLÉS, KÁOSZ ÉS ZŰRZAVAR TOMBOL AZ ÉJSZAKÁBAN…
@@ -193,7 +193,7 @@ Valaki legalábbis ezt reméli. Ám Wiharvész Anyó, a Korongvilág leghíreseb
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Kallodo%20kontinens%20%28700%29/Kallodo%20kontinens%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
-angol szerző, brit szerző, fantasy, humoros, kortárs, magyar nyelvű, regény, sorozat része, varázsló
+[angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [varázsló](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/varázsló)
 
 ### Összefoglalás
 A KORONGVILÁG KALLÓDÓ KONTINENSE PÁR NAPON BELÜL AZ ENYÉSZETÉ LESZ, HACSAK…
@@ -222,7 +222,7 @@ Szóval… gond egy szál se, eh?
  [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Elveszett%20Profeciak%20%28896%29/Elveszett%20Profeciak%20-%20Terry%20Pratchett.rtf)
 
 ### Tagek
-irodalom, szórakoztató irodalom
+[irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom)
 
 ### Összefoglalás
 <p>Ha hihetünk Anges Nutter szép és pontos próféciáinak – az egyetlen teljesen megbízható jövendölésnek a világ jövőjéről –, akkor a világ egy szombati napon ér véget.<br>Ami azt illeti, most szombaton. Nem sokkal uzsonnaidő után…<br>Ami elég nagy fejtörést okoz Crowleynak, a Pokol itt ügyködő démonának (korábban kígyónak), és ellenpárjának, Azirafaelnek, aki aktív angyal és passzív antikvárius.<br>Ők ugyanis szeretnek itt lenni. Így hát meg kell állítaniuk az Apokalipszis Négy Motorosát, kivédeni a Boszorkányvadász hadsereg (létszám: két fő) támadását, mindenekelőtt pedig megtalálni – tibetiek, földönkívüliek, atlantisziak és egyéb helyi érdekek között – az Antikrisztust, akiről annyit lehet tudni, hogy jelenleg tizenegy éves és egy angol kisvárosban unatkozik…</p>

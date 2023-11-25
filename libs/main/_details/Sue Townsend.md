@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sue%20Townsend/Adrian%20Mole%20es%20a%20tomegpusztito%20fegy%20%281456%29/Adrian%20Mole%20es%20a%20tomegpusztito%20-%20Sue%20Townsend.epub)
 
 ### Tagek
-brit szerző, humoros, magyar nyelvű, naplóregény, regény, sorozat része, napló
+[brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [naplóregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/naplóregény), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [napló](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/napló)
 
 ### Összefoglalás
 <div>

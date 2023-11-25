@@ -2,7 +2,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Fulghum/Mar%20langolt%2C%20amikor%20rafekudtem%20%281277%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-amerikai szerző, esszé, magyar nyelvű, pszichológia
+[amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [esszé](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/esszé), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia)
 
 ### Összefoglalás
 <div>
@@ -16,7 +16,7 @@ amerikai szerző, esszé, magyar nyelvű, pszichológia
 [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Fulghum/Mar%20az%20ovodaban%20megtanultam%20mindent%20%281302%29/Mar%20az%20ovodaban%20megtanultam%20min%20-%20Robert%20Fulghum.rtf)
 
 ### Tagek
-amerikai szerző, bölcsesség, elbeszélés, életfilozófia, életmód, esszé, humoros, kortárs, magyar nyelvű, önsegítő
+[amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [bölcsesség](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/bölcsesség), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés), [életfilozófia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életfilozófia), [életmód](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életmód), [esszé](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/esszé), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [önsegítő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önsegítő)
 
 ### Összefoglalás
 <div>

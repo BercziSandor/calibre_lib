@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alex%20Garland/A%20Part%20%281269%29/A%20Part%20-%20Alex%20Garland.epub)
 
 ### Tagek
-20. század, brit szerző, filmadaptáció, halászat, kaland, kalandregény, magyar nyelvű, regény, thriller, utazás, vietnámi háború
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [halászat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/halászat), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [kalandregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalandregény), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [utazás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/utazás), [vietnámi háború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vietnámi háború)
 
 ### Összefoglalás
 <div>

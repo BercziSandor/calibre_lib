@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hegedus%2C%20Hubert/Matrozeveim%20%28160%29/Matrozeveim%20-%20Hegedus%2C%20Hubert.epub)
 
 ### Tagek
-magyar nyelvű, hajózás, útleírás, életrajz, útikönyv, tengeri hajózás
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [hajózás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hajózás), [útleírás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/útleírás), [életrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életrajz), [útikönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/útikönyv), [tengeri hajózás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tengeri hajózás)
 
 ### Összefoglalás
 <div>

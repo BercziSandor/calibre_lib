@@ -32,7 +32,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Gepzongora%20%281618%29/Gepzongora%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
-science fiction, classics, humour, fantasy, utópia, sci-fi
+[science fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [humour](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humour), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [utópia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/utópia), [sci-fi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sci-fi)
 
 ### Összefoglalás
 <div>
@@ -48,7 +48,7 @@ science fiction, classics, humour, fantasy, utópia, sci-fi
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Harrison%20Bergeron%20%28748%29/Harrison%20Bergeron%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
-science fiction, amerika
+[science fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction), [amerika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerika)
 
 # <a name="id_1620">Vonnegut, Kurt: Slaughterhouse-Five (1969)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Slaughterhouse-Five%20%281620%29/cover.jpg" alt="cover" width="300"/>
@@ -57,7 +57,7 @@ science fiction, amerika
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Slaughterhouse-Five%20%281620%29/Slaughterhouse-Five%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
-classics, science fiction, war, fantasy
+[classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [science fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction), [war](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/war), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy)
 
 ### Összefoglalás
 <div>
@@ -82,7 +82,7 @@ classics, science fiction, war, fantasy
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Viragvasarnap%20%281627%29/Viragvasarnap%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
-writing, humour, classics, science fiction, biography
+[writing](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/writing), [humour](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humour), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [science fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction), [biography](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/biography)
 
 ### Összefoglalás
 <div>
@@ -97,7 +97,7 @@ writing, humour, classics, science fiction, biography
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Mesterlovesz%20%281622%29/Mesterlovesz%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
-classics, humour, science fiction, contemporary, horror
+[classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [humour](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humour), [science fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction), [contemporary](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/contemporary), [horror](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/horror)
 
 ### Összefoglalás
 <div>
@@ -111,7 +111,7 @@ classics, humour, science fiction, contemporary, horror
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Halalnal%20is%20rosszabb%20%281628%29/Halalnal%20is%20rosszabb%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
-writing, humour, biography, classics
+[writing](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/writing), [humour](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humour), [biography](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/biography), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics)
 
 ### Összefoglalás
 <div>
@@ -125,7 +125,7 @@ writing, humour, biography, classics
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Galapagos%20%281619%29/Galapagos%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
-humour, fantasy, fiction, american, science fiction, general, science fiction & fantasy, literary criticism, criticism, classics, satire, literature - classics, literary, european, human evolution, satirical fiction, galapagos islands, spanish & portuguese, human nature, islands, ghosts
+[humour](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humour), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [american](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/american), [science fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general), [science fiction & fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction & fantasy), [literary criticism](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/literary criticism), [criticism](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/criticism), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [satire](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/satire), [literature - classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/literature - classics), [literary](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/literary), [european](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/european), [human evolution](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/human evolution), [satirical fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/satirical fiction), [galapagos islands](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/galapagos islands), [spanish & portuguese](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/spanish & portuguese), [human nature](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/human nature), [islands](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/islands), [ghosts](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ghosts)
 
 ### Összefoglalás
 <div>
@@ -139,7 +139,7 @@ humour, fantasy, fiction, american, science fiction, general, science fiction & 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vonnegut%2C%20Kurt/Bluebeard%20%281702%29/Bluebeard%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
-classics, humour, science fiction, art, contemporary
+[classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [humour](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humour), [science fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction), [art](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/art), [contemporary](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/contemporary)
 
 ### Összefoglalás
 <div>
@@ -150,7 +150,7 @@ classics, humour, science fiction, art, contemporary
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Cat%27s%20Cradle%20%281615%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-fiction, fiction - science fiction, science fiction, science fiction - general, general, science fiction & fantasy, doctor who (television program) fiction, time travel fiction
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [fiction - science fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction - science fiction), [science fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction), [science fiction - general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction - general), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general), [science fiction & fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction & fantasy), [doctor who (television program) fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/doctor who (television program) fiction), [time travel fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/time travel fiction)
 
 ### Összefoglalás
 <p class="description">SUMMARY: The third and final book in the Cat's Cradle series. The Tardis's link with Eye of Harmony is becoming ever more tenuous and is in urgent need of repair. But the time machine takes the Doctor and Ace to a village in rural Wales, and a gateway to another world.</p>
@@ -163,7 +163,7 @@ fiction, fiction - science fiction, science fiction, science fiction - general, 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Breakfast%20of%20Champions%20%281614%29/Breakfast%20of%20Champions%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
-fiction, science fiction, general, authorship, satire, literary, fiction - general, humorous fiction, sexuality, kilgore (fictitious character), mental illness, science fiction - authorship, trout
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [science fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general), [authorship](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/authorship), [satire](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/satire), [literary](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/literary), [fiction - general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction - general), [humorous fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humorous fiction), [sexuality](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sexuality), [kilgore (fictitious character)](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kilgore (fictitious character)), [mental illness](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mental illness), [science fiction - authorship](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction - authorship), [trout](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/trout)
 
 ### Összefoglalás
 <p class="description">SUMMARY: Breakfast Of Champions is vintage Vonnegut. One of his favorite characters, aging writer Kilgore Trout, finds to his horror that a Midwest car dealer is taking his fiction as truth. The result is murderously funny satire as Vonnegut looks at war, sex, racism, success, politics, and pollution in America and reminds us how to see the truth.</p>
@@ -176,7 +176,7 @@ fiction, science fiction, general, authorship, satire, literary, fiction - gener
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Deadeye%20Dick%20%281616%29/Deadeye%20Dick%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
-fiction, general, horror, satire, literary, fiction - general, modern & contemporary fiction (post c 1945), modern fiction, general & literary fiction, satirical fiction, hotelkeepers, kurtvonnegut, neutron bomb, haiti
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general), [horror](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/horror), [satire](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/satire), [literary](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/literary), [fiction - general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction - general), [modern & contemporary fiction (post c 1945)](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/modern & contemporary fiction (post c 1945)), [modern fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/modern fiction), [general & literary fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general & literary fiction), [satirical fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/satirical fiction), [hotelkeepers](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hotelkeepers), [kurtvonnegut](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kurtvonnegut), [neutron bomb](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/neutron bomb), [haiti](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/haiti)
 
 ### Összefoglalás
 <p class="description">SUMMARY: Deadeye Dick is Vonnegut's funny, chillingly satirical look at the death of innocence. Amid a true Vonnegutian host of horrors–a double murder, a fatal dose of radioactivity, a decapitation, an annihilation of a city by a neutron bomb–Rudy Waltz, a.k.a. Deadeye Dick, takes us along on a zany search for absolution and happiness. Here is a tale of crime and punishment that makes us rethink what we believe...and who we say we are.</p>
@@ -189,7 +189,7 @@ fiction, general, horror, satire, literary, fiction - general, modern & contempo
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vonnegut%2C%20Kurt/A%20hamvaskek%20sarkany%20%281701%29/A%20hamvaskek%20sarkany%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
-science fiction, classics, humour, anthologies
+[science fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [humour](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humour), [anthologies](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/anthologies)
 
 ### Összefoglalás
 <div>
@@ -205,7 +205,7 @@ science fiction, classics, humour, anthologies
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Isten%20hozott%20a%20majomhazban%21%20%28750%29/Isten%20hozott%20a%20majomhazban%21%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
-amerikai szerző, filmadaptáció, kortárs, magyar nyelvű, sci-fi, 20. század, abszurd, amerikai, fekete humor, novella
+[amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [sci-fi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sci-fi), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [abszurd](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/abszurd), [amerikai](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai), [fekete humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fekete humor), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella)
 
 ### Összefoglalás
 <p class="description">„Íme Kurt Vonnegut rövidebb munkáinak áttekintő seregszemléje, noha Kurt Vonnegut még nagyon is itt él közöttünk. Jócskán Vonnegut volnék továbbra is. Valahol Németországban csordogál a Vonne-patak. Különös nevemet erről a patakról kaptam. 1949 óta vagyok író. Autodidakta. A mesterséggel kapcsolatban nincs semmiféle elméletem, ami kapóra jöhetne másoknak. Amikor írok, egyszerűen azzá válok, amivé nyilvánvalóan lennem kell. Magasságom száznyolcvannyolc centiméter, testsúlyom kilencven kilogramm, mozgásom rendezetlen, kivéve, ha úszom. Ez a kölcsönkapott hústömeg végzi az írást.” Kötetünk a társadalmi szatíra utánozhatatlan és kivételes tehetségű mesterének klasszikus novelláit gyűjti csokorba.</p>
@@ -218,7 +218,7 @@ amerikai szerző, filmadaptáció, kortárs, magyar nyelvű, sci-fi, 20. század
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/The%20Sirens%20of%20Titan_%20A%20Novel%20%281621%29/The%20Sirens%20of%20Titan_%20A%20Novel%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
-fiction, literary, science fiction, space opera, satire
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [literary](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/literary), [science fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction), [space opera](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/space opera), [satire](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/satire)
 
 ### Összefoglalás
 <div>
@@ -255,7 +255,7 @@ fiction, literary, science fiction, space opera, satire
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Mesterlovesz%20_%20Deadeye%20Dick%20%281131%29/Mesterlovesz%20_%20Deadeye%20Dick%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
-20. század, amerikai szerző, fekete humor, magyar nyelvű, ohio, recept, angol nyelvű, kétnyelvű, regény
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [fekete humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fekete humor), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [ohio](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ohio), [recept](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/recept), [angol nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol nyelvű), [kétnyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kétnyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <p class="description">Ez ​a könyv regény, nem pedig történelem, úgyhogy kézikönyvnek nem használható. Szakácskönyvként sem ajánlatos forgatni, noha egy sereg recept van benne – szögezi le Kurt Vonnegut a Mesterlövész előszavában. <br>Ez a könyv bizony ízig-vérig Vonnegut-regény, tele képtelenül groteszk ötletekkel és abszurd helyzetekkel. Ekképp válhat a főhős Rudy Waltz, a „semlegesnemű” patikus, tizenkét évesen kétszeres gyilkossá, majd húszévesen egy díjnyertes, ám előadhatatlan drámával szülőhelye, Midland City Shakespeare-jévé. A regény történései annyira meghökkentőek és komikusak, hogy szüntelenül nevetésre ingerelnek. Nevetésünk azonban – ahogy ezt már megszokhattuk a Mestertől – sohasem önfeledt hahota. <br>Előszavában az akkor hatvanadik születésnapjára készülő író szimbolikus műnek nevezte a Mesterlövészt, amelynek minden sora róla szól. Mellesleg szakácskönyvnek sem rossz… <br>٭ <br>A Maecenas Könyvkiadó szeretne hagyományt teremteni: mivel Az ötös számú vágóhíd angol−magyar kiadását az Olvasók örömmel fogadták, a Mesterlövészt ugyancsak kétnyelvű kötet formájában adjuk közre.</p>
@@ -290,7 +290,7 @@ fiction, literary, science fiction, space opera, satire
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Eden%20a%20folyonal%20%281624%29/Eden%20a%20folyonal%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
-science fiction, classics, writing, anthologies
+[science fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [writing](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/writing), [anthologies](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/anthologies)
 
 ### Összefoglalás
 <div>
@@ -304,7 +304,7 @@ science fiction, classics, writing, anthologies
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Mig%20a%20halandok%20alszanak%20%281617%29/Mig%20a%20halandok%20alszanak%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
-classics, science fiction, humour, contemporary, fantasy, abszurd, amerikai, groteszk, magyar nyelvű, novella, paranormális, történelmi regény
+[classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [science fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction), [humour](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humour), [contemporary](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/contemporary), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [abszurd](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/abszurd), [amerikai](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai), [groteszk](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/groteszk), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [paranormális](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/paranormális), [történelmi regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelmi regény)
 
 ### Összefoglalás
 <div>
@@ -357,7 +357,7 @@ classics, science fiction, humour, contemporary, fantasy, abszurd, amerikai, gro
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vonnegut%2C%20Kurt/Bajnokok%20%20reggelije%20%281139%29/Bajnokok%20%20reggelije%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
-1001 könyv listán szerepel, 1970-es évek, 20. század, abszurd, amerikai, életrajz, fekete humor, filmadaptáció, hangoskönyv, humoros, illusztrált, kortárs, lmbt, posztmodern, regény, társadalomkritika
+[1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1001 könyv listán szerepel), [1970-es évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1970-es évek), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [abszurd](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/abszurd), [amerikai](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai), [életrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életrajz), [fekete humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fekete humor), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [lmbt](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lmbt), [posztmodern](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/posztmodern), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [társadalomkritika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társadalomkritika)
 
 ### Összefoglalás
 <p class="description">Ez a lexikonként is forgatható, gazdagon illusztrált regény valójában születésnapi ajándék. Kurt Vonnegut, Jr. írta önmagának, az ötvenedik születésnapjára. Az volt vele a célja, hogy – miként hajdan a rabszolgatartók tették a rabszolgákkal – felszabadítsa kitalált szereplõit. Személyesen. A Bajnokok reggelije világszerte sokmillió olvasót nevettetett meg és gondolkodtatott el, mert bizony nagyon különös könyv. Sok-sok könyv született arról, hogy a Bajnokok reggelije mennyire nagyon különös könyv.</p>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Aurelius%2C%20Marcus/Marcus%20Aurelius%20elmelkedesei%20%28856%29/Marcus%20Aurelius%20elmelkedesei%20-%20Aurelius%2C%20Marcus.epub)
 
 ### Tagek
-elmélkedés, filozófia, latin, magyar nyelvű, ókor, ókori, római birodalom, római szerző, sztoicizmus, társ. tudományok
+[elmélkedés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elmélkedés), [filozófia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filozófia), [latin](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/latin), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [ókor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ókor), [ókori](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ókori), [római birodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/római birodalom), [római szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/római szerző), [sztoicizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sztoicizmus), [társ. tudományok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társ. tudományok)
 
 ### Összefoglalás
 <div>

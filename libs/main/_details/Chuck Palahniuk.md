@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Chuck%20Palahniuk/Halalraitelt%20%281600%29/Halalraitelt%20-%20Chuck%20Palahniuk.epub)
 
 ### Tagek
-regény, szatíra, szellemek, túlvilág
+[regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [szatíra](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szatíra), [szellemek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szellemek), [túlvilág](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/túlvilág)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ regény, szatíra, szellemek, túlvilág
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Chuck%20Palahniuk/Ciganyut%20%28662%29/Ciganyut%20-%20Chuck%20Palahniuk.epub)
 
 ### Tagek
-1001 könyv listán szerepel, 21. század, amerikai szerző, antihős, felnőtt tartalom, filmadaptáció, függőség, kortárs, magyar nyelvű, regény, szexuális perverzió
+[1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1001 könyv listán szerepel), [21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [antihős](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/antihős), [felnőtt tartalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/felnőtt tartalom), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [függőség](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/függőség), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [szexuális perverzió](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szexuális perverzió)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@ regény, szatíra, szellemek, túlvilág
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Chuck%20Palahniuk/Altato%20%28663%29/Altato%20-%20Chuck%20Palahniuk.epub)
 
 ### Tagek
-21. század, amerikai szerző, fogyasztói társadalom, horror, kortárs, magyar nyelvű, regény
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [fogyasztói társadalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fogyasztói társadalom), [horror](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/horror), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>
@@ -47,7 +47,7 @@ regény, szatíra, szellemek, túlvilág
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Chuck%20Palahniuk/Harcosok%20klubja%20%28660%29/Harcosok%20klubja%20-%20Chuck%20Palahniuk.epub)
 
 ### Tagek
-20. század, amerikai egyesült államok, amerikai szerző, delaware, erőszak, felnőtt tartalom, férfi főszereplő, filmadaptáció, fogyasztói társadalom, klasszikus, kortárs, krimi, kult, magyar nyelvű, minimalista próza, posztmodern, pszichés betegség, regény, szatíra, személyiségzavar, irodalom, szépirodalom
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [amerikai egyesült államok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai egyesült államok), [amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [delaware](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/delaware), [erőszak](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erőszak), [felnőtt tartalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/felnőtt tartalom), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [fogyasztói társadalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fogyasztói társadalom), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [kult](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kult), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [minimalista próza](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/minimalista próza), [posztmodern](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/posztmodern), [pszichés betegség](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichés betegség), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [szatíra](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szatíra), [személyiségzavar](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/személyiségzavar), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>

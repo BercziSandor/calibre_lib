@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Herriot/Egy%20allatorvos%20tortenetei%20%28926%29/Egy%20allatorvos%20tortenetei%20-%20James%20Herriot.epub)
 
 ### Tagek
-állat, állatgyógyászat, állattörténet, anglia, angol, brit szerző, férfi főszereplő, hangoskönyv, humoros, illusztrált, kisváros, kutya, ló, macska, magyar nyelvű
+[állat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állat), [állatgyógyászat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állatgyógyászat), [állattörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állattörténet), [anglia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/anglia), [angol](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [kisváros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kisváros), [kutya](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kutya), [ló](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ló), [macska](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/macska), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Herriot/Az%20allatorvos%20is%20nos%20ember%20%281270%29/Az%20allatorvos%20is%20nos%20ember%20-%20James%20Herriot.epub)
 
 ### Tagek
-állat, állatgyógyászat, anglia, angol, brit szerző, európa, gyógyítás, humoros, kisváros, magyar nyelvű, orvos, visszaemlékezés
+[állat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állat), [állatgyógyászat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állatgyógyászat), [anglia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/anglia), [angol](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [európa](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/európa), [gyógyítás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyógyítás), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [kisváros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kisváros), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [orvos](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orvos), [visszaemlékezés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/visszaemlékezés)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Herriot/Kutyak%20a%20rendelomben%20%28782%29/Kutyak%20a%20rendelomben%20-%20James%20Herriot.epub)
 
 ### Tagek
-állatgyógyászat, angol humor, brit szerző, férfi főszereplő, hangoskönyv, humoros, illusztrált, kisváros, kutya, magyar nyelvű, orvos, állatbarát, állattörténet
+[állatgyógyászat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állatgyógyászat), [angol humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol humor), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [kisváros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kisváros), [kutya](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kutya), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [orvos](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orvos), [állatbarát](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állatbarát), [állattörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állattörténet)
 
 ### Összefoglalás
 <div>
@@ -47,7 +47,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Herriot/Minden%20elo%20az%20eg%20alatt%20%28925%29/Minden%20elo%20az%20eg%20alatt%20-%20James%20Herriot.epub)
 
 ### Tagek
-20. század, állat, állatgyógyászat, állattörténet, állatvilág, angol, brit szerző, férfi főszereplő, hangoskönyv, humoros, kisváros, magyar nyelvű, regény
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [állat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állat), [állatgyógyászat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állatgyógyászat), [állattörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állattörténet), [állatvilág](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állatvilág), [angol](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [kisváros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kisváros), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>
@@ -61,7 +61,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Herriot/A%20repulo%20allatorvos%20%28929%29/A%20repulo%20allatorvos%20-%20James%20Herriot.epub)
 
 ### Tagek
-állat, állatgyógyászat, állattörténet, angol humor, brit szerző, férfi főszereplő, hangoskönyv, humoros, igaz történet alapján, kisváros, kutya, macska, magyar nyelvű, orvos, regény
+[állat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állat), [állatgyógyászat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állatgyógyászat), [állattörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állattörténet), [angol humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol humor), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [igaz történet alapján](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/igaz történet alapján), [kisváros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kisváros), [kutya](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kutya), [macska](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/macska), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [orvos](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orvos), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>
@@ -75,7 +75,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Herriot/Kutyak%20a%20rendelomben%202_%20%28924%29/Kutyak%20a%20rendelomben%202_%20-%20James%20Herriot.epub)
 
 ### Tagek
-állatgyógyászat, állattörténet, angol humor, brit szerző, férfi főszereplő, humoros, kisváros, kutya, magyar nyelvű, orvos
+[állatgyógyászat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állatgyógyászat), [állattörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állattörténet), [angol humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol humor), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [kisváros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kisváros), [kutya](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kutya), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [orvos](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orvos)
 
 ### Összefoglalás
 <div>
@@ -89,7 +89,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Herriot/Allatorvosi%20palyam%20kezdeten__%20%28927%29/Allatorvosi%20palyam%20kezdeten__%20-%20James%20Herriot.epub)
 
 ### Tagek
-1930-as évek, 20. század, állat, állatgyógyászat, állattörténet, állatvilág, angol, brit szerző, férfi főszereplő, filmadaptáció, hangoskönyv, humoros, kisváros, magyar nyelvű, önéletrajz, orvos
+[1930-as évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1930-as évek), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [állat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állat), [állatgyógyászat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állatgyógyászat), [állattörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állattörténet), [állatvilág](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állatvilág), [angol](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [kisváros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kisváros), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [önéletrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önéletrajz), [orvos](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orvos)
 
 ### Összefoglalás
 <div>

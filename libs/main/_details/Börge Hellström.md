@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Borge%20Hellstrom/Harom%20masodperc%20%28680%29/Harom%20masodperc%20-%20Borge%20Hellstrom.epub)
 
 ### Tagek
-magyar nyelvű, svéd szerző, krimi, skandináv
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [svéd szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/svéd szerző), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skandináv)
 
 ### Összefoglalás
 <div>

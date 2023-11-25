@@ -6,7 +6,7 @@
  [prc](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/A%20hipnotizor%20%281681%29/A%20hipnotizor%20-%20Lars%20Kepler.prc)
 
 ### Tagek
-mystery, thriller, crime, suspense
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [suspense](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/suspense)
 
 ### Összefoglalás
 <div>
@@ -20,7 +20,7 @@ mystery, thriller, crime, suspense
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/A%20Paganini-szerzodes%20%28674%29/A%20Paganini-szerzodes%20-%20Lars%20Kepler.epub)
 
 ### Tagek
-kortárs, macska, magyar nyelvű, regény, sorozat része, svéd szerző, thriller, krimi, skandináv
+[kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [macska](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/macska), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [svéd szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/svéd szerző), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skandináv)
 
 ### Összefoglalás
 <div>
@@ -34,7 +34,7 @@ kortárs, macska, magyar nyelvű, regény, sorozat része, svéd szerző, thrill
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/A%20tuz%20tanuja%20%281677%29/A%20tuz%20tanuja%20-%20Lars%20Kepler.epub)
 
 ### Tagek
-thriller, mystery, suspense
+[thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [suspense](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/suspense)
 
 ### Összefoglalás
 <div>
@@ -45,7 +45,7 @@ thriller, mystery, suspense
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/A%20Bosszuallo%20%281678%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-thriller, mystery, suspense
+[thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [suspense](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/suspense)
 
 ### Összefoglalás
 <div>
@@ -56,7 +56,7 @@ thriller, mystery, suspense
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/Lesben%20%281680%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-krimi, magyar nyelvű, regény, skandináv
+[krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skandináv)
 
 ### Összefoglalás
 <p class="description">A ​svéd rendőrség szokatlan e-mailt kap: egy videót, amelyen egy nő látszik, akit az ablakon keresztül vettek filmre, titokban, intim közelségből. Másnap a nőt holtan találják otthonában, és meggyilkolásának ördögi brutalitása még a sokat látott nyomozókat is sokkolja. Pár nappal később újabb hasonló videó érkezik a rendőrségre, ám esélyük sincs időben azonosítani a potenciális áldozatot – ő is megcsonkítva végzi. Holttestére a férje talál rá, aki annyira kiborul a látványtól, hogy a bűntett összes nyomát eltünteti, felesége testét lemossa, és ágyba fekteti, mintha csak aludna. A kihallgatásával sem sokra mennek: az átélt trauma hatására elveszíti emlékeit. Ekkor fordulnak Dr. Erik Maria Barkhoz, a hipnózisban jártas bűnügyi pszichiáterhez, abban a reményben, hogy neki talán sikerülhet feloldani a férfi emlékképeit. Erik azonban olyasmit derít ki a hipnózis során, amit nem akar megosztani a rendőrséggel. A testületnek nagy szüksége lenne Joona Linna felügyelő segítségére, ám ő a szóbeszéd szerint egy évvel ezelőtt vízbe fulladt.</p>
@@ -66,7 +66,7 @@ krimi, magyar nyelvű, regény, skandináv
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/Nyulvadasz%20%281679%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-krimi, magyar nyelvű, regény, skandináv, sorozat része, sorozatgyilkosság, svéd szerző
+[krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skandináv), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozatgyilkosság), [svéd szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/svéd szerző)
 
 ### Összefoglalás
 Joona Linna már két évet letöltött büntetéséből a Kumlai Zárt Fegyintézetben, amikor a rendőrség segítségért fordul hozzá egy magas rangú személy brutális meggyilkolásának ügyében. Hamarosan bizonyosságot nyer, hogy az elkövető egy sorozatgyilkos. Áldozatai közt az egyetlen összekötő kapocs az, hogy haláluk előtt valamennyien kaptak egy hangfelvételt, amelyen egy gyerekhang egy nyulakról szóló mondókát ismételget. A sors úgy hozza, hogy Rex Müller, a tévé celebszakácsa kerül az események középpontjába, aki most először tölt el hosszabb időt felnőtt fiával, Sammyval. Három nyugis hét helyett azonban szörnyű élet-halál harc vár rájuk. Joona Linna és Saga Bauer kénytelen titokban együttműködni, hogy megállítsák a Nyúlvadászt, mielőtt az teljesíthetné küldetését…
@@ -89,7 +89,7 @@ Svédország leghírhedtebb sorozatgyilkosát, Jurek Waltert évekkel ezelőtt k
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/Tukorember%20%281682%29/Tukorember%20-%20Lars%20Kepler.epub)
 
 ### Tagek
-thriller, crime, mystery, adult
+[thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [adult](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/adult)
 
 ### Összefoglalás
 <div>

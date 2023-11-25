@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rhonda%20Byrne/A%20titok%20%28647%29/A%20titok%20-%20Rhonda%20Byrne.epub)
 
 ### Tagek
-body; mind & spirit, spiritualism
+[body; mind & spirit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/body; mind & spirit), [spiritualism](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/spiritualism)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ body; mind & spirit, spiritualism
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rhonda%20Byrne/Az%20Ero%20%28281%29/Az%20Ero%20-%20Rhonda%20Byrne.epub)
 
 ### Tagek
-body; mind & spirit, spiritualism, ezotéria
+[body; mind & spirit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/body; mind & spirit), [spiritualism](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/spiritualism), [ezotéria](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ezotéria)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@ body; mind & spirit, spiritualism, ezotéria
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rhonda%20Byrne/A%20varazslat%20%28286%29/A%20varazslat%20-%20Rhonda%20Byrne.epub)
 
 ### Tagek
-body; mind & spirit, spiritualism
+[body; mind & spirit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/body; mind & spirit), [spiritualism](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/spiritualism)
 
 ### Összefoglalás
 <div>
@@ -44,7 +44,7 @@ body; mind & spirit, spiritualism
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rhonda%20Byrne/Hatartalan%20gondolatok%20%28648%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-body; mind & spirit, spiritualism
+[body; mind & spirit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/body; mind & spirit), [spiritualism](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/spiritualism)
 
 ### Összefoglalás
 <div>

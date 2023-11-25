@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fazekas%2C%20Laszlo/Kapukulcs%20a%20ko%20alatt%20%281271%29/Kapukulcs%20a%20ko%20alatt%20-%20Fazekas%2C%20Laszlo.epub)
 
 ### Tagek
-20. század, balaton, ifjúsági, illusztrált, magyar nyelvű, magyar szerző, nyár, regény, sorozat része, szünidő
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [balaton](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/balaton), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ifjúsági), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [nyár](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyár), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [szünidő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szünidő)
 
 ### Összefoglalás
 <div>

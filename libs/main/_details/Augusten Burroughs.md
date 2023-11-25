@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Augusten%20Burroughs/Farkas%20az%20asztalnal%20%28977%29/Farkas%20az%20asztalnal%20-%20Augusten%20Burroughs.epub)
 
 ### Tagek
-amerikai szerző, családon belüli erőszak, gyermekbántalmazás, kortárs, magyar nyelvű, regény
+[amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [családon belüli erőszak](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/családon belüli erőszak), [gyermekbántalmazás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekbántalmazás), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ amerikai szerző, családon belüli erőszak, gyermekbántalmazás, kortárs, ma
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Augusten%20Burroughs/Kiszaradva%20%28968%29/Kiszaradva%20-%20Augusten%20Burroughs.epub)
 
 ### Tagek
-alkoholizmus, amerikai szerző, függőség, kortárs, lmbtq, magyar nyelvű, memoár, new york, irodalom, szépirodalom
+[alkoholizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/alkoholizmus), [amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [függőség](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/függőség), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [lmbtq](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lmbtq), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [memoár](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/memoár), [new york](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/new york), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>

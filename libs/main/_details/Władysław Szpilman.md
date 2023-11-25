@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Wladyslaw%20Szpilman/A%20zongorista%20%28170%29/A%20zongorista%20-%20Wladyslaw%20Szpilman.epub)
 
 ### Tagek
-2. világháború, 20. század, cd/dvd melléklettel, férfi főszereplő, filmadaptáció, holokauszt, lengyel szerző, magyar nyelvű, memoár, történelem, zene, zsidó, zsidóság
+[2. világháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/2. világháború), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [cd/dvd melléklettel](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/cd/dvd melléklettel), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [holokauszt](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/holokauszt), [lengyel szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lengyel szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [memoár](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/memoár), [történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelem), [zene](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/zene), [zsidó](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/zsidó), [zsidóság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/zsidóság)
 
 ### Összefoglalás
 <div>

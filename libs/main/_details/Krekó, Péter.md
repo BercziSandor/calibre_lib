@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kreko%2C%20Peter/Tomegparanoia%202.0%20%281515%29/Tomegparanoia%202.0%20-%20Kreko%2C%20Peter.epub)
 
 ### Tagek
-összeesküvés-elmélet, álhírek
+[összeesküvés-elmélet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/összeesküvés-elmélet), [álhírek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/álhírek)
 
 ### Összefoglalás
 <div>

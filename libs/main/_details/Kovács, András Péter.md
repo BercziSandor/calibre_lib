@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kovacs%2C%20Andras%20Peter/Medialom%20%28427%29/Medialom%20-%20Kovacs%2C%20Andras%20Peter.epub)
 
 ### Tagek
-magyar nyelvű, magyar szerző, regény, sorozat része, humoros, humor, szórakoztató irodalom
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [humor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humor), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom)
 
 ### Összefoglalás
 <div>

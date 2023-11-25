@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Raana%20Raas/Az%20Ogfak%20Vorose%20%281670%29/Az%20Ogfak%20Vorose%20-%20Raana%20Raas.epub)
 
 ### Tagek
-science fiction
+[science fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ science fiction
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Raana%20Raas/Kiszakadtak%20%281671%29/Kiszakadtak%20-%20Raana%20Raas.epub)
 
 ### Tagek
-science fiction
+[science fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@ science fiction
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Raana%20Raas/Arulas%20%281672%29/Arulas%20-%20Raana%20Raas.epub)
 
 ### Tagek
-science fiction
+[science fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction)
 
 ### Összefoglalás
 <div>
@@ -47,7 +47,7 @@ science fiction
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Raana%20Raas/Hazaterok%20%281673%29/Hazaterok%20-%20Raana%20Raas.epub)
 
 ### Tagek
-science fiction
+[science fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction)
 
 ### Összefoglalás
 <div>
@@ -61,7 +61,7 @@ science fiction
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Raana%20Raas/Elagazo%20utak%20%281674%29/Elagazo%20utak%20-%20Raana%20Raas.epub)
 
 ### Tagek
-science fiction
+[science fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction)
 
 ### Összefoglalás
 <div>
@@ -75,7 +75,7 @@ science fiction
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Raana%20Raas/Ellenallok%20%281675%29/Ellenallok%20-%20Raana%20Raas.epub)
 
 ### Tagek
-science fiction
+[science fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction)
 
 ### Összefoglalás
 <div>
@@ -89,7 +89,7 @@ science fiction
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Raana%20Raas/Menekulok%20%281676%29/Menekulok%20-%20Raana%20Raas.epub)
 
 ### Tagek
-science fiction
+[science fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science fiction)
 
 ### Összefoglalás
 <div>

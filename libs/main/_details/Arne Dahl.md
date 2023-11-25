@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Arne%20Dahl/Valaki%20figyel%20%281664%29/Valaki%20figyel%20-%20Arne%20Dahl.epub)
 
 ### Tagek
-thriller, mystery, skandináv, krimi
+[thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skandináv), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ thriller, mystery, skandináv, krimi
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Arne%20Dahl/Hajsza%20%281666%29/Hajsza%20-%20Arne%20Dahl.epub)
 
 ### Tagek
-thriller, mystery, skandináv, krimi
+[thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skandináv), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@ thriller, mystery, skandináv, krimi
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Arne%20Dahl/Misterioso%20%281667%29/Misterioso%20-%20Arne%20Dahl.epub)
 
 ### Tagek
-mystery, thriller, filmadaptáció, kortárs, krimi, magyar nyelvű, skandináv, sorozat része, sorozatgyilkosság, svéd szerző
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skandináv), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozatgyilkosság), [svéd szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/svéd szerző)
 
 ### Összefoglalás
 <div>
@@ -47,7 +47,7 @@ mystery, thriller, filmadaptáció, kortárs, krimi, magyar nyelvű, skandináv,
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Arne%20Dahl/Rossz%20ver%20%281668%29/Rossz%20ver%20-%20Arne%20Dahl.epub)
 
 ### Tagek
-kortárs, krimi, magyar nyelvű, nyomozás, politikai krimi, skandináv, sorozat része, sorozatgyilkosság, svéd szerző
+[kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [politikai krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/politikai krimi), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skandináv), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozatgyilkosság), [svéd szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/svéd szerző)
 
 ### Összefoglalás
 <div>

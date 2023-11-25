@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tom%20Harper/Titkok%20konyve%20%28614%29/Titkok%20konyve%20-%20Tom%20Harper.epub)
 
 ### Tagek
-fiction, action & adventure, kaland, akció
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [action & adventure](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/action & adventure), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [akció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/akció)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Carl%20Gustav%20Jung/Gondolatok%20a%20szexualitasrol%20es%20a%20sz%20%28770%29/Gondolatok%20a%20szexualitasrol%20es%20-%20Carl%20Gustav%20Jung.epub)
 
 ### Tagek
-magyar nyelvű, svájci szerző, szexuálpszichológia, pszichológia, szerelem, szexualitás
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [svájci szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/svájci szerző), [szexuálpszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szexuálpszichológia), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia), [szerelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szerelem), [szexualitás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szexualitás)
 
 ### Összefoglalás
 <div>

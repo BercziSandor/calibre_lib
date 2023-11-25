@@ -2,7 +2,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kristo%20Nagy%2C%20Istvan/Bolcsessegek%20konyve%20I-II.%20-%20Aforizm%20%281200%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-aforizma, bölcsesség, magyar, magyar nyelvű
+[aforizma](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/aforizma), [bölcsesség](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/bölcsesség), [magyar](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű)
 
 ### Összefoglalás
 <div>
@@ -13,7 +13,7 @@ aforizma, bölcsesség, magyar, magyar nyelvű
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kristo%20Nagy%2C%20Istvan/Bolcsessegek%20konyve%20I-II.%20-%20Aforizm%20%281201%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-aforizma, bölcsesség, magyar, magyar nyelvű
+[aforizma](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/aforizma), [bölcsesség](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/bölcsesség), [magyar](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű)
 
 ### Összefoglalás
 <div>

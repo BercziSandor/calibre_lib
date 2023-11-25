@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20Lucas/Csillagok%20haboruja%20%28718%29/Csillagok%20haboruja%20-%20George%20Lucas.epub)
 
 ### Tagek
-akció, amerikai szerző, filmből készült könyv, kaland, magyar nyelvű, sorozat része, űropera, regény, sci-fi
+[akció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/akció), [amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [filmből készült könyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmből készült könyv), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [űropera](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/űropera), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sci-fi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sci-fi)
 
 ### Összefoglalás
 <div>

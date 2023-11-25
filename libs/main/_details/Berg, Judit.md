@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Rumini%20%28467%29/Rumini%20-%20Berg%2C%20Judit.epub)
 
 ### Tagek
-ibby, kalandregény, gyermek- és ifjúsági irodalom, illusztrált, kortárs, gyermekkönyv, mese
+[ibby](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ibby), [kalandregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalandregény), [gyermek- és ifjúsági irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermek- és ifjúsági irodalom), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [gyermekkönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekkönyv), [mese](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mese)
 
 ### Összefoglalás
 <div><p>Hallottatok már Pelevárról? Egy távoli sziget fővárosa. Ott található
@@ -47,7 +47,7 @@ bazárban is vásároljanak?</p></div>
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Rumini%20Zuzmaragyarmaton%20%28567%29/Rumini%20Zuzmaragyarmaton%20-%20Berg%2C%20Judit.epub)
 
 ### Tagek
-állat főszereplő, egér, gyermekkönyv iskolásoknak, hajó, illusztrált, kaland, kalandregény, kortárs, magyar nyelvű, magyar szerző, meseregény, regény, sorozat része
+[állat főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állat főszereplő), [egér](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/egér), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekkönyv iskolásoknak), [hajó](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hajó), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [kalandregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalandregény), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [meseregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/meseregény), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része)
 
 ### Összefoglalás
 <div>
@@ -61,7 +61,7 @@ bazárban is vásároljanak?</p></div>
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Rumini%20es%20a%20negy%20jogar%20%28570%29/Rumini%20es%20a%20negy%20jogar%20-%20Berg%2C%20Judit.epub)
 
 ### Tagek
-állat, állat főszereplő, egér, gyermekkönyv iskolásoknak, hajó, illusztrált, kalandregény, kortárs, magyar nyelvű, magyar szerző, meseregény, regény, sorozat része, utazás
+[állat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állat), [állat főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állat főszereplő), [egér](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/egér), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekkönyv iskolásoknak), [hajó](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hajó), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [kalandregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalandregény), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [meseregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/meseregény), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [utazás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/utazás)
 
 ### Összefoglalás
 <div>
@@ -75,7 +75,7 @@ bazárban is vásároljanak?</p></div>
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Micsoda%20Ido%21%20%28479%29/Micsoda%20Ido%21%20-%20Berg%2C%20Judit.epub)
 
 ### Tagek
-gyermek- és ifjúsági irodalom, illusztrált, gyermek, kortárs, mese
+[gyermek- és ifjúsági irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermek- és ifjúsági irodalom), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [gyermek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermek), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [mese](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mese)
 
 # <a name="id_1274">Berg, Judit: Alma (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Alma%20%281274%29/cover.jpg" alt="cover" width="300"/>
@@ -84,7 +84,7 @@ gyermek- és ifjúsági irodalom, illusztrált, gyermek, kortárs, mese
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Alma%20%281274%29/Alma%20-%20Berg%2C%20Judit.epub)
 
 ### Tagek
-sakk, ifjúsági
+[sakk](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sakk), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ifjúsági)
 
 ### Összefoglalás
 <div> <p style="margin-bottom: 0in">Egy különös délután, amelyen egymást érik a váratlan és nyugtalanító események, Alma, Drifter, Félix és Bella egy számukra idegen világba kerül. Vissza szeretnének jutni a saját valóságukba, de a sötét birodalom uralkodója próbatételek elé állítja őket. Látni akarja, hogyan lesznek úrrá váratlan helyzeteken. Meg tudnak-e hozni súlyos döntéseket? Képesek-e áldozatokra? S a végén méltó ellenfélnek bizonyul-e Alma? <br>Berg Judit, József Attila- és IBBY-díjas író, Rumini megteremtője és Polgár Judit, minden idők legjobb női sakkozója összefogott, hogy egy izgalmas kalandregényben egy kicsit a sakkról, de inkább a sakkon túl az életről meséljenek fiatal olvasóiknak. Ők már megtapasztalták: senki sem abszolút jó vagy abszolút gonosz, semmi sem fekete-fehér, még a sakktáblán sem, nemhogy az életben. <br>Nem kell, hogy sakkozni tudj. Alma társai sem tudnak. Mégis, nélkülük Alma biztos bukásra lenne ítélve…</p><p style="margin-bottom: 0in"><br></p></div>

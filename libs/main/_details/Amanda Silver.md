@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Amanda%20Silver/A%20kez%2C%20amely%20a%20bolcsot%20ringatja%20%28952%29/A%20kez%2C%20amely%20a%20bolcsot%20ringatja%20-%20Amanda%20Silver.epub)
 
 ### Tagek
-amerikai, magyar nyelvű, 20. század, filmadaptáció, krimi, pszicho-thriller, regény, thriller, mystery & crime
+[amerikai](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [pszicho-thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszicho-thriller), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [mystery & crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery & crime)
 
 ### Összefoglalás
 <div>

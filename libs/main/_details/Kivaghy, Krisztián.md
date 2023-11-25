@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kivaghy%2C%20Krisztian/A%20manipulacio%20tudomanya%20%28293%29/A%20manipulacio%20tudomanya%20-%20Kivaghy%2C%20Krisztian.epub)
 
 ### Tagek
-magyar, magyar nyelvű, társadalompolitika, társadalomrajz, szociológia, szakszociológiák
+[magyar](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [társadalompolitika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társadalompolitika), [társadalomrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társadalomrajz), [szociológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szociológia), [szakszociológiák](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szakszociológiák)
 
 ### Összefoglalás
 <div>

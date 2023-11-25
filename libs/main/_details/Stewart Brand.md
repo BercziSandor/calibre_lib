@@ -6,7 +6,7 @@
  [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stewart%20Brand/Amig%20vilag%20a%20vilag%20%281217%29/Amig%20vilag%20a%20vilag%20-%20Stewart%20Brand.rtf)
 
 ### Tagek
-ismeretterjesztő, magyar nyelvű, tudományos
+[ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [tudományos](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudományos)
 
 ### Összefoglalás
 <div>

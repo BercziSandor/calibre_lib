@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Cesar%20Millan/Hogyan%20neveljunk%20tokeletes%20kutyat%20%281725%29/Hogyan%20neveljunk%20tokeletes%20kuty%20-%20Cesar%20Millan.epub)
 
 ### Tagek
-reference, self help, adult, kutya
+[reference](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/reference), [self help](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/self help), [adult](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/adult), [kutya](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kutya)
 
 ### Összefoglalás
 <div>

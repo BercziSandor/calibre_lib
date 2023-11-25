@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szergej%20Kuznyecov/Pillangobor%20%28527%29/Pillangobor%20-%20Szergej%20Kuznyecov.epub)
 
 ### Tagek
-21. század, magyar nyelvű, orosz szerző, sorozatgyilkosság, szexuális perverzió, orosz, regény, kortárs, thriller
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozatgyilkosság), [szexuális perverzió](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szexuális perverzió), [orosz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>

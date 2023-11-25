@@ -2,7 +2,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexandra%20Fischer-Hunold/Kincsvadasz%20kisertet%20%281414%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-gyermekkönyv iskolásoknak, illusztrált, kaland, kortárs, krimi, magyar nyelvű, német szerző, sorozat része
+[gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekkönyv iskolásoknak), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [német szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/német szerző), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része)
 
 ### Összefoglalás
 <div>
@@ -13,7 +13,7 @@ gyermekkönyv iskolásoknak, illusztrált, kaland, kortárs, krimi, magyar nyelv
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexandra%20Fischer-Hunold/Szornyuseges%20szuletesnap%20%281415%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-gyermekkönyv iskolásoknak, illusztrált, kaland, kortárs, krimi, magyar nyelvű, német szerző, sorozat része
+[gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekkönyv iskolásoknak), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [német szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/német szerző), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része)
 
 ### Összefoglalás
 <div>
@@ -24,7 +24,7 @@ gyermekkönyv iskolásoknak, illusztrált, kaland, kortárs, krimi, magyar nyelv
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexandra%20Fischer-Hunold/A%20dilinyos%20tuzbarat%20%281416%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-gyermekkönyv iskolásoknak, illusztrált, kaland, kortárs, krimi, magyar nyelvű, német szerző, sorozat része
+[gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekkönyv iskolásoknak), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [német szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/német szerző), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része)
 
 ### Összefoglalás
 <div>
@@ -35,7 +35,7 @@ gyermekkönyv iskolásoknak, illusztrált, kaland, kortárs, krimi, magyar nyelv
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexandra%20Fischer-Hunold/Malaclopas%20a%20Kedvenckertben%20%281417%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-gyermekkönyv iskolásoknak, illusztrált, kaland, kortárs, krimi, magyar nyelvű, német szerző, sorozat része
+[gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekkönyv iskolásoknak), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [német szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/német szerző), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része)
 
 ### Összefoglalás
 <div>

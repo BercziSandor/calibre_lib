@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Georg%20Klein/Szilard%20Leo%20tizparancsolata%20%28981%29/Szilard%20Leo%20tizparancsolata%20-%20Georg%20Klein.epub)
 
 ### Tagek
-életrajz, fizika, magyar nyelvű, magyar szerző, magyarság, svéd szerző, életrajzok, visszaemlékezések
+[életrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életrajz), [fizika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fizika), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [magyarság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyarság), [svéd szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/svéd szerző), [életrajzok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életrajzok), [visszaemlékezések](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/visszaemlékezések)
 
 ### Összefoglalás
 <div>

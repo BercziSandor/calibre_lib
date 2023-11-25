@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jorge%20Bucay/Nyitott%20szemmel%20szeretni%20%28385%29/Nyitott%20szemmel%20szeretni%20-%20Jorge%20Bucay.epub)
 
 ### Tagek
-argentin szerző, gestaltpszichológia, magyar nyelvű, regény, párkapcsolat, argentína
+[argentin szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/argentin szerző), [gestaltpszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gestaltpszichológia), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [párkapcsolat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/párkapcsolat), [argentína](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/argentína)
 
 ### Összefoglalás
 <div>

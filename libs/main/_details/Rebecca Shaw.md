@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rebecca%20Shaw/Az%20uj%20lelkesz%20%281009%29/Az%20uj%20lelkesz%20-%20Rebecca%20Shaw.epub)
 
 ### Tagek
-angol, brit szerző, humoros, krimi, magyar nyelvű, regény, sorozat része, váltott szemszög, irodalom, szépirodalom
+[angol](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [váltott szemszög](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/váltott szemszög), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>

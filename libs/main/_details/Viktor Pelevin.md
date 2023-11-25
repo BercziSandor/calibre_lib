@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/A%20rovarok%20elete%20%28837%29/A%20rovarok%20elete%20-%20Viktor%20Pelevin.epub)
 
 ### Tagek
-1001 könyv listán szerepel, 20. század, kortárs, mágikus realizmus, magyar nyelvű, orosz szerző, posztmodern, regény
+[1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1001 könyv listán szerepel), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [mágikus realizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mágikus realizmus), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [posztmodern](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/posztmodern), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 Ez a könyv -amely most ÚJ BORÍTÓVAL jelent meg- volt az ELSŐ magyarul megjelent regénye az 1962-ben született Viktor Pelevinnek, az új orosz írónemzedék fenegyerekének. Gogoli hagyományban gyökerező regényeit és novelláit folyamatosan közlik a folyóiratok, műveit eddig tizenöt nyelvre fordították le. A SZERZŐ 2001-ben a KÖNYVFESZTIVÁL DÍSZVENDÉGE volt.
@@ -20,7 +20,7 @@ Egy krími üdülőhelyen alkoholmérgezést kap a helyi lakosság véréből pr
  [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/A%20tervhivatal%20hercege%20-%20Elbeszelese%20%28835%29/A%20tervhivatal%20hercege%20-%20Elbesze%20-%20Viktor%20Pelevin.rtf)
 
 ### Tagek
-irodalom, szépirodalom
+[irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <p class="description">"Pelevin New Yorktól Moszkváig ma a legolvasottabb orosz író, sõt, az egyik legnépszerûbb európai író."Háy János<br>"Nyugodtan rábízhatjuk magunkat Pelevin mesélõkéjére."<br>Podmaniczky Szilárd<br>"Ott lenni Pelevinnél nem idõfecsérlés, mert elragad a talált világok karneválja, mert hihetetlen bátor ez a fickó, nem pöcsöl a mondatokkal, nem érdekli tetszik-e vagy nem, hogy elvárásoknak megfelel-e vagy nem. Az érdekli, hogy odategye, amit oda akar."<br>Háy János<br>Részlet a könyvbõl:<br>Loading<br>Apró emberi alak szalad a folyosón. Nagy szeretettel rajzolták meg, kissé talán szentimentálisan. Ha megnyomjuk az „Up" billentyût, felugrik, homorít, egy pillanatra megáll a levegõben, és próbál elkapni valamit a feje fölött. Ha a „Down"-t nyomjuk meg, leguggol, és igyekszik felemelni valamit a földrõl. Ha a „Right"-ot nyomjuk meg, jobbra szalad. Ha a „Left"-et, balra. Egyszóval különbözõ billentyûk segítségével lehet irányítani, de ez a négy a legfontosabb.<br>A folyosó, amelyben az emberke szalad, változó. Többnyire valamilyen kõtárna, de néha gyönyörûséges galériává változik, falán keleti díszítésekkel és magas, keskeny ablakokkal. Fáklyák égnek a falon a zsákutcának bizonyuló folyosók végén, a mély aknák fölött átívelõ ingatag hidakon pedig kivont karddal ellenségek állnak - ezekkel harcba száll a kis figura, ha megnyomjuk a „Shift" billentyût. Ha egyszerre több billentyût nyomunk meg, a figura felugrik, hajladozik, vagy inogva egyensúlyoz peremeken, akár nekifutásból át tud ugrani az aknák fölött, melyek alján éles nyársak meredeznek. A játéknak sok szintje van, az alacsonyabbról fel lehet jutni a magasabbra, a magasabbról pedig visszahullani az alacsonyabbra -<br>közben változnak a folyosók, változnak a csapdák, máshogy néznek ki a korsók, amelyekbõl az emberke iszik, hogy fölfrissítse életerejét, de egyébként minden változatlan: az emberke a kõfalak és fáklyák közt szalad, a földön koponyák, a falakon rajzok. <br>A játék célja, hogy eljusson az utolsó szintre, ahol a hercegnõ várja, de ehhez sok idõt kell a játéknak szentelni. Ahhoz, hogy sikeresek legyünk, el kell felejteni, hogy billentyûket nyomogatunk, és át kell változnunk az emberkévé - csak ekkor leszünk olyan ügyesek, hogy képesek legyünk vívni, átugrani a keskeny folyosókon csattogó pengéken, átszökellni az aknák fölött, és végigszaladni a beomló kõlapokon, amelyek csak egy pillanatra tartják meg a test súlyát, bár nincs semmiféle teste a figurának, súlya még kevésbé, mint ahogy, ha jobban belegondolunk, a beszakadó kõlapoknak sincs, bármilyen meggyõzõnek tûnjék is a koppanás, amelyet zuhanásukkal keltenek.</p>
@@ -33,7 +33,7 @@ irodalom, szépirodalom
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/Kristalyvilag%20%28830%29/Kristalyvilag%20-%20Viktor%20Pelevin.epub)
 
 ### Tagek
-kortárs, magyar nyelvű, novella, orosz szerző, zsebkönyv
+[kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [zsebkönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/zsebkönyv)
 
 ### Összefoglalás
 Ott lenni Pelevinnél nem időfecsérlés, mert elragad a talált világok karneválja, mert hihetetlen bátor ez a fickó, nem pöcsöl a mondatokkal, nem érdekli tetszik-e vagy nem, hogy elvárásoknak megfelel-e vagy nem. Az érdekli, hogy odategye, amit oda akar.
@@ -46,7 +46,7 @@ Ott lenni Pelevinnél nem időfecsérlés, mert elragad a talált világok karne
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/A%20hunok%20harmoniaja%20%28826%29/A%20hunok%20harmoniaja%20-%20Viktor%20Pelevin.epub)
 
 ### Tagek
-kortárs, magyar nyelvű, orosz szerző
+[kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző)
 
 ### Összefoglalás
 Minden azzal kezdődött, hogy egyszer napközben Vera életében először nem a létezés értelmén gondolkodott el, mint előtte szinte mindig, hanem a titkán. Ennek az lett az eredménye, hogy beleejtette a rongyot a sötét, szappanos vízzel teli vödörbe, és egy halk „ah” vagy valami „ah”-hoz hasonló hagyta el a torkát. A gondolat váratlan és elviselhetetlen volt, és ami a legfontosabb, semmihez sem kapcsolódott, amit maga körül láthatott – egyszerűen csak az eszébe jutott hirtelen, ott volt a fejében hívatlanul, és ebből a gondolatból az a következtetés adódott, hogy az értelem keresésére fordított szellemi munka sok-sok éve mind elpocsékolt idő volt, mert, lám csak, nem az a lényeg, hanem a titok.
@@ -56,7 +56,7 @@ Minden azzal kezdődött, hogy egyszer napközben Vera életében először nem 
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/A%20Metamor%20Szent%20Konyve%20%28836%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-orosz szerző, regény, magyar nyelvű, kortárs, urban fantasy, alakváltó, orosz, fantasy
+[orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [urban fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/urban fantasy), [alakváltó](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/alakváltó), [orosz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy)
 
 ### Összefoglalás
 Különös ​lények Pelevin új regényének szereplői: metamorok, azaz róka- és farkasemberek, akiknek létezéséről mindeddig talán csak sejtelmeink voltak, s itt-ott borzongató történeteket olvashattunk róluk. Ám azok mind emberek – „farkatlan majmok” – művei voltak. Pelevin most egy metamor saját kezűleg írott igaz történetét adja közre.
@@ -72,7 +72,7 @@ Pelevin új regénye – a szerzőtől meglepő módon – a szerelemről szól.
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/A%20Sarga%20Nyil%20%28828%29/A%20Sarga%20Nyil%20-%20Viktor%20Pelevin.epub)
 
 ### Tagek
-kortárs, magyar nyelvű, novella, orosz szerző
+[kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző)
 
 ### Összefoglalás
 A ​Sárga Nyíl mintha egy tömegtársbérletben játszódna. Aztán kiderül, hogy minden egy végtelen hosszúságú, nem tudni, mikor, hogyan keletkezett, hová (talán egy lerombolt híd felé?) száguldó vonaton történik.
@@ -88,7 +88,7 @@ A Hírek Nepálból és a Buldózeristák napja visszavarázsol minket a kései 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/Empire%20%27V%27%20%28829%29/Empire%20%27V%27%20-%20Viktor%20Pelevin.epub)
 
 ### Tagek
-fantasy, kortárs, magyar nyelvű, orosz szerző, urban fantasy, vámpír
+[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [urban fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/urban fantasy), [vámpír](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vámpír)
 
 ### Összefoglalás
 Roman ​Storkinnak keze-lába egy bordásfalhoz van kötözve, és nem tudja, mi történt vele – csak azt, hogy egy álarcos őrülttel tartózkodik egy szobában. Ráadásul egy perverz őrülttel, aki közli vele, hogy ő vámpír, Brahmának hívják, és hősünket választotta ki, hogy az utódjává változtassa.
@@ -105,7 +105,7 @@ Romannak – immár II. Rama néven – sok mindent meg kell tanulnia, hogy igaz
  [prc](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/P5%20-%20Pindosztan%20politikai%20pigmeusai%20%28832%29/P5%20-%20Pindosztan%20politikai%20pigme%20-%20Viktor%20Pelevin.prc)
 
 ### Tagek
-elbeszélés, orosz szerző, groteszk, magyar nyelvű, novels, novella
+[elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [groteszk](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/groteszk), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [novels](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novels), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella)
 
 ### Összefoglalás
 Figyelem! ​A könyv a harci NLP technikáinak felhasználásával készült.
@@ -123,7 +123,7 @@ S mindezen kalandok mögött ott van annak az új orosz valóságnak a képe, am
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/A%20rettenet%20sisakja%20%28827%29/A%20rettenet%20sisakja%20-%20Viktor%20Pelevin.epub)
 
 ### Tagek
-fantasy, kaland, kortárs, magyar nyelvű, mitológia, orosz szerző
+[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [mitológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mitológia), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző)
 
 ### Összefoglalás
 „Miért ​van a Minótaurosznak bikafeje? És mi jár az eszében, milyen az észjárása? Thészeusz bent van-e a labirintusban? Sokan állították, hogy birtokában vannak az igazságnak. Ám mindezidáig senki nem találta meg a labirintusból kivezető utat. Úgyhogy kellemes sétát. És ha összefutnának a Minótaurosszal, semmiképp ne mondják, hogy MÚÚÚÚÚ! Az ilyesmi kimondottan sértő.” Az agyag géppuska és A rovarok élete szerzőjének új kötete a Minótaurosz és a labirintus témájának merészen XXI. századi feldolgozása. Helyszíne nem más, mint a kibertér, melyben egy maroknyi csoport tagjai egy nap arra ébrednek, hogy megmagyarázhatatlan módon egy internetes útvesztőben találják magukat. Csak számítógép útján tudnak érintkezni egymással, egy közös csevegőszobában, és felfedezéseiket így megosztva próbálnak értelmet találni a különös helyzetben. Egy idő után többen kimerészkednek szobájukból, ám odakint félelmetes és riasztó tapasztalatok várnak rájuk… melyek középpontjában a Rettenet Sisakja áll. Vajon beletörődnek-e, hogy az áradó információ világában a megismerés végső soron hiú remény?
@@ -137,7 +137,7 @@ fantasy, kaland, kortárs, magyar nyelvű, mitológia, orosz szerző
  [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/Az%20agyag%20geppuska%20%28834%29/Az%20agyag%20geppuska%20-%20Viktor%20Pelevin.rtf)
 
 ### Tagek
-szépirodalom, 1910-es évek, irodalom, japán (ország), novella, orosz szerző, 20. század, regény, szatíra, 1001 könyv listán szerepel, elmegyógyintézet, magyar nyelvű, kortárs, oroszország, buddhizmus, álom
+[szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [1910-es évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1910-es évek), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [japán (ország)](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/japán (ország)), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [szatíra](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szatíra), [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1001 könyv listán szerepel), [elmegyógyintézet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elmegyógyintézet), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [oroszország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/oroszország), [buddhizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/buddhizmus), [álom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/álom)
 
 ### Összefoglalás
 Az ​elmúlt évek orosz irodalmának legnagyobb világsikere Az agyag géppuska, s az orosz Playboy szerint ez a XX. század második felének legjobb orosz regénye. Főhőse, Pjotr Puszta egy elmegyógyintézet lakója valamikor a kilencvenes években, s „hamis személyisége” szerint valójában a tizenhetes forradalom után, a polgárháborús Oroszországban él, éspedig ő Csapajev híres komisszárja, Petyka. A két valóságszint a regényben egyenlő mértékben valós (vagy virtuális): hol az elmegyógyintézeti ápoltak között vagyunk, hol a polgárháborús frontokon, ahol Csapajev és Petyka mély filozófiai beszélgetéseket folytat (a regénybeli Csapajev ugyanis nem annyira egy vörös hadvezér, mint inkább keleti guru). A mintegy számítógépes virtuális valóságokat létrehozó mű azonban a részleteiben vaskosan s gyakran parodisztikusan realista: Pelevin remekül ábrázolja mind a polgárháború Oroszországát, mind az elmegyógyintézet világát, ahol Pjotr a többi beteg hallucinációit is végighallgatja, s ezek betétnovellaként szerepelnek a műben – az egyik ilyen például egy mexikói szappanoperahős, Maria és Arnold Schwarzenegger szürreális kalandjait meséli el.
@@ -150,7 +150,7 @@ Az ​elmúlt évek orosz irodalmának legnagyobb világsikere Az agyag géppusk
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/Generation%20P%20%28831%29/Generation%20P%20-%20Viktor%20Pelevin.epub)
 
 ### Tagek
-filmadaptáció, kortárs, magyar nyelvű, orosz szerző, regény, társadalomkritika
+[filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [társadalomkritika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társadalomkritika)
 
 ### Összefoglalás
 Babilen ​Tatarszkij a szovjet rendszer utolsó éveiben eredetileg költőnek készül, de amikor egyszercsak eltűnik a világból az „örökkévalóság” fogalma (s így mindenféle költészet értelmetlenné válik), a villámgyors meggazdagodással kecsegtető orosz reklámbizniszben talál munkát. Mivel a regénybeli Oroszországban már régóta nem termelnek semmit, külföldi termékekhez kell megtalálnia az orosz kulturális sajátosságokhoz legjobban illő jelképeket és szövegeket. S miközben Tatarszkij próbálja kiismerni a bizarr posztkommunista világot, melyet átszőnek a maffiakapcsolatok, még különösebb jelenségekkel kerül kapcsolatba: hol Che Guevara szelleme tart neki előadást a modern reklám filozófiájáról, hol az ókori Babilon mítoszai elevenednek meg kábítószeres hallucinációi során, s fejtik ki hatásukat mai világunkban. Tatarszkij végül ahhoz a céghez kerül, amely az orosz politikai életet „gyártja” – annak vezetői ugyanis, Jelcin, Lebegy, Zjuganov és a többiek már csak számítógépes animációval alkotott virtuális lények, csak a tömegmédiumokban léteznek, s mellesleg nagy nyugati cégek hatékony reklámfigurái. S ugyanakkor hasztalan minden erőfeszítés, hogy Tatarszkij – vagy bárki más – megtudja, milyen érdekek mozgatják ezt a világot, s kik döntenek arról, hogy milyen valóságot kell kreálni. Csak a szörnyű sejtelem lebeg minden fölött, hogy ez immár a világvége kezdete, mely „egyszerű tévéadás lesz”. S mint Che Guevara szelleme mondja: az isteni kegyelem „abban nyilvánul meg, hogy krematóriumok helyett televízióitok és szupermarketjeitek vannak”.

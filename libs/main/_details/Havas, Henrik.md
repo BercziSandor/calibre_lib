@@ -6,7 +6,7 @@
  [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Havas%2C%20Henrik/Porno%20I-II_%20%28804%29/Porno%20I-II_%20-%20Havas%2C%20Henrik.pdf)
 
 ### Tagek
-lmbtq, magyar nyelvű, magyar szerző, pornográfia, riport
+[lmbtq](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lmbtq), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [pornográfia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pornográfia), [riport](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/riport)
 
 ### Összefoglalás
 <div>
@@ -21,7 +21,7 @@ lmbtq, magyar nyelvű, magyar szerző, pornográfia, riport
  [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Havas%2C%20Henrik/Porno%20I-II_%20%28805%29/Porno%20I-II_%20-%20Havas%2C%20Henrik.pdf)
 
 ### Tagek
-lmbtq, magyar nyelvű, magyar szerző, pornográfia, riport
+[lmbtq](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lmbtq), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [pornográfia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pornográfia), [riport](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/riport)
 
 ### Összefoglalás
 <div>
@@ -35,7 +35,7 @@ lmbtq, magyar nyelvű, magyar szerző, pornográfia, riport
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Havas%2C%20Henrik/Kurvaelet%20%28477%29/Kurvaelet%20-%20Havas%2C%20Henrik.epub)
 
 ### Tagek
-fiction, erotica, current events, sociology, szerelem, megtörtént bűnügyek, szex, szépirodalom, dokumentumregények
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [erotica](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erotica), [current events](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/current events), [sociology](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sociology), [szerelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szerelem), [megtörtént bűnügyek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/megtörtént bűnügyek), [szex](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szex), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [dokumentumregények](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/dokumentumregények)
 
 ### Összefoglalás
 <div>

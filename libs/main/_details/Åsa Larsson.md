@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Asa%20Larsson/Kristalytemplom%20%28681%29/Kristalytemplom%20-%20Asa%20Larsson.epub)
 
 ### Tagek
-21. század, filmadaptáció, magyar nyelvű, regény, svéd szerző, krimi, skandináv
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [svéd szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/svéd szerző), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skandináv)
 
 ### Összefoglalás
 <div>

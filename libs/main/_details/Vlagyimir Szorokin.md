@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/A%20jeg%20%28839%29/A%20jeg%20-%20Vlagyimir%20Szorokin.epub)
 
 ### Tagek
-2. világháború, alternatív történelem, fantasztikus, fasizmus, groteszk, koncentrációs tábor, kortárs, mágikus realizmus, magyar nyelvű, orosz szerző, oroszország, regény, sorozat része, utópia
+[2. világháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/2. világháború), [alternatív történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/alternatív történelem), [fantasztikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasztikus), [fasizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fasizmus), [groteszk](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/groteszk), [koncentrációs tábor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/koncentrációs tábor), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [mágikus realizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mágikus realizmus), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [oroszország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/oroszország), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [utópia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/utópia)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/Bro%20utja%20%28840%29/Bro%20utja%20-%20Vlagyimir%20Szorokin.epub)
 
 ### Tagek
-férfi főszereplő, kortárs, magyar nyelvű, orosz szerző, regény, sorozat része
+[férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@ férfi főszereplő, kortárs, magyar nyelvű, orosz szerző, regény, sorozat r
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/23000%20%28838%29/23000%20-%20Vlagyimir%20Szorokin.epub)
 
 ### Tagek
-kortárs, magyar nyelvű, orosz szerző, regény, sorozat része
+[kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része)
 
 ### Összefoglalás
 <div>
@@ -47,7 +47,7 @@ kortárs, magyar nyelvű, orosz szerző, regény, sorozat része
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/Az%20opricsnyik%20egy%20napja%20%28842%29/Az%20opricsnyik%20egy%20napja%20-%20Vlagyimir%20Szorokin.epub)
 
 ### Tagek
-alternatív történelem, disztópia, erotikus, kortárs, magyar nyelvű, orosz szerző, regény, sci-fi, sorozat része
+[alternatív történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/alternatív történelem), [disztópia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/disztópia), [erotikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erotikus), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sci-fi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sci-fi), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része)
 
 ### Összefoglalás
 <div>
@@ -61,7 +61,7 @@ alternatív történelem, disztópia, erotikus, kortárs, magyar nyelvű, orosz 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/Cukor%20Kreml%20%28841%29/Cukor%20Kreml%20-%20Vlagyimir%20Szorokin.epub)
 
 ### Tagek
-alternatív történelem, disztópia, erotikus, kortárs, magyar nyelvű, orosz szerző, regény, robot, sci-fi, sorozat része
+[alternatív történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/alternatív történelem), [disztópia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/disztópia), [erotikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erotikus), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [robot](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/robot), [sci-fi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sci-fi), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része)
 
 ### Összefoglalás
 <div>
@@ -75,7 +75,7 @@ alternatív történelem, disztópia, erotikus, kortárs, magyar nyelvű, orosz 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/Kekhaj%20%28843%29/Kekhaj%20-%20Vlagyimir%20Szorokin.epub)
 
 ### Tagek
-kortárs, magyar nyelvű, orosz szerző, regény
+[kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Esterhazy%2C%20Peter/Hrabal%20konyve%20%281021%29/Hrabal%20konyve%20-%20Esterhazy%2C%20Peter.epub)
 
 ### Tagek
-20. század, kortárs, magyar nyelvű, magyar szerző, regény, irodalom, szépirodalom
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>
@@ -20,7 +20,7 @@
  [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Esterhazy%2C%20Peter/Termelesi-regeny%20%281022%29/Termelesi-regeny%20-%20Esterhazy%2C%20Peter.rtf)
 
 ### Tagek
-magyar nyelvű, magyar szerző, 20. század, kortárs, regény
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>
@@ -40,7 +40,7 @@ magyar nyelvű, magyar szerző, 20. század, kortárs, regény
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Esterhazy%2C%20Peter/A%20sziv%20segedigei%20%281020%29/A%20sziv%20segedigei%20-%20Esterhazy%2C%20Peter.epub)
 
 ### Tagek
-20. század, gyász, halál, kortárs, magyar nyelvű, magyar szerző, posztmodern, irodalom, szépirodalom
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [gyász](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyász), [halál](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/halál), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [posztmodern](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/posztmodern), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>
@@ -55,7 +55,7 @@ magyar nyelvű, magyar szerző, 20. század, kortárs, regény
  [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Esterhazy%2C%20Peter/Ki%20szavatol%20a%20lady%20biztonsagaert_%20%281023%29/Ki%20szavatol%20a%20lady%20biztonsagaer%20-%20Esterhazy%2C%20Peter.pdf)
 
 ### Tagek
-kortárs, magyar nyelvű, magyar szerző, posztmodern, regény, irodalom, szépirodalom
+[kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [posztmodern](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/posztmodern), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>
@@ -69,7 +69,7 @@ kortárs, magyar nyelvű, magyar szerző, posztmodern, regény, irodalom, szépi
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Esterhazy%2C%20Peter/Egy%20no%20%281019%29/Egy%20no%20-%20Esterhazy%2C%20Peter.epub)
 
 ### Tagek
-20. század, elbeszélés, erotikus, experimentális, grafika, hangoskönyv, kortárs, magyar nyelvű, magyar szerző, összetett regény, vilenica-díj, irodalom, szépirodalom
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés), [erotikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erotikus), [experimentális](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/experimentális), [grafika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/grafika), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [összetett regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/összetett regény), [vilenica-díj](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vilenica-díj), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>

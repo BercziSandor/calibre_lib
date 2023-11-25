@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stendhal/Napoleon%20elete%20%28992%29/Napoleon%20elete%20-%20Stendhal.epub)
 
 ### Tagek
-francia szerző, magyar nyelvű, történelmi személy
+[francia szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/francia szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [történelmi személy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelmi személy)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ francia szerző, magyar nyelvű, történelmi személy
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stendhal/Voros%20es%20fekete%20%28562%29/Voros%20es%20fekete%20-%20Stendhal.epub)
 
 ### Tagek
-1001 könyv listán szerepel, 111 híres regény, 19. század, fejlődésregény, filmadaptáció, francia szerző, franciaország, katolikus egyház, klasszikus, kötelező, lélektani, magyar nyelvű, nagy könyv, realizmus, romantikus, személyiségfejlődés, szexualitás, regény, irodalom, szépirodalom
+[1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1001 könyv listán szerepel), [111 híres regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/111 híres regény), [19. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/19. század), [fejlődésregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fejlődésregény), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [francia szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/francia szerző), [franciaország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/franciaország), [katolikus egyház](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/katolikus egyház), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [kötelező](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kötelező), [lélektani](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lélektani), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nagy könyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nagy könyv), [realizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/realizmus), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus), [személyiségfejlődés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/személyiségfejlődés), [szexualitás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szexualitás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>

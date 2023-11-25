@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Joyce/Dublini%20emberek%20%28455%29/Dublini%20emberek%20-%20James%20Joyce.epub)
 
 ### Tagek
-20. század, ír szerző, magyar nyelvű, modernizmus, összetett regény, társadalom, angol, írország, európa, az író származása szerint, szépirodalom, idegennyelv, regény, idegennyelvű könyvek, novella, elbeszélés
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [ír szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ír szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [modernizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/modernizmus), [összetett regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/összetett regény), [társadalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társadalom), [angol](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol), [írország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/írország), [európa](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/európa), [az író származása szerint](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/az író származása szerint), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [idegennyelv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/idegennyelv), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [idegennyelvű könyvek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/idegennyelvű könyvek), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Joyce/Ifjukori%20onarckep%20%28456%29/Ifjukori%20onarckep%20-%20James%20Joyce.epub)
 
 ### Tagek
-1001 könyv listán szerepel, 1910-es évek, 20. század, fejlődésregény, ír szerző, írország, klasszikus, magyar nyelvű, modernizmus, önéletrajz, regény, irodalom, szépirodalom
+[1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1001 könyv listán szerepel), [1910-es évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1910-es évek), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [fejlődésregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fejlődésregény), [ír szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ír szerző), [írország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/írország), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [modernizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/modernizmus), [önéletrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önéletrajz), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Joyce/Ulysses%20%281473%29/Ulysses%20-%20James%20Joyce.epub)
 
 ### Tagek
-fiction, classics, historical, action & adventure, psychological
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [historical](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/historical), [action & adventure](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/action & adventure), [psychological](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/psychological)
 
 ### Összefoglalás
 <div>

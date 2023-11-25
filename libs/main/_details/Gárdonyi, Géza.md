@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gardonyi%2C%20Geza/Isten%20rabjai%20%28619%29/Isten%20rabjai%20-%20Gardonyi%2C%20Geza.epub)
 
 ### Tagek
-13. század, filmadaptáció, hit, kereszténység, klasszikus, középkor, magyar nyelvű, magyar szerző, nagy könyv, regény, szentek, történelem, történelmi személy, vallás, történelmi regény
+[13. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/13. század), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [hit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hit), [kereszténység](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kereszténység), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [középkor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/középkor), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [nagy könyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nagy könyv), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [szentek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szentek), [történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelem), [történelmi személy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelmi személy), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallás), [történelmi regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelmi regény)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gardonyi%2C%20Geza/Egri%20csillagok%20%281603%29/Egri%20csillagok%20-%20Gardonyi%2C%20Geza.epub)
 
 ### Tagek
-fiction, classics
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics)
 
 ### Összefoglalás
 <div>

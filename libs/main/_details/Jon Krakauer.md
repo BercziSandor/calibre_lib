@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jon%20Krakauer/Ut%20a%20vadonba%20%28797%29/Ut%20a%20vadonba%20-%20Jon%20Krakauer.epub)
 
 ### Tagek
-alaszka, amerikai szerző, életrajz, hegymászás, igaz történet alapján, magyar nyelvű, természet, útleírás, amerikai, dokumentumregény, filmadaptáció, igaz történet, kaland
+[alaszka](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/alaszka), [amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [életrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életrajz), [hegymászás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hegymászás), [igaz történet alapján](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/igaz történet alapján), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [természet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/természet), [útleírás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/útleírás), [amerikai](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai), [dokumentumregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/dokumentumregény), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [igaz történet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/igaz történet), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland)
 
 ### Összefoglalás
 <div>

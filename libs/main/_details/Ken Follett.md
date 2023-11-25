@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ken%20Follett/Fall%20of%20Giants%20%281641%29/Fall%20of%20Giants%20-%20Ken%20Follett.epub)
 
 ### Tagek
-war, adult
+[war](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/war), [adult](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/adult)
 
 ### Összefoglalás
 <div>
@@ -29,7 +29,7 @@ war, adult
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ken%20Follett/Az%20ordog%20muve%20%28807%29/Az%20ordog%20muve%20-%20Ken%20Follett.epub)
 
 ### Tagek
-amerikai, brit szerző, krimi, magyar nyelvű, regény, skócia, walesi szerző
+[amerikai](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [skócia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skócia), [walesi szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/walesi szerző)
 
 ### Összefoglalás
 <div>

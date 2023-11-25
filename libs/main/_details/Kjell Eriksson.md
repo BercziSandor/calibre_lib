@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kjell%20Eriksson/Burundi%20hercegnoje%20%28677%29/Burundi%20hercegnoje%20-%20Kjell%20Eriksson.epub)
 
 ### Tagek
-21. század, magyar nyelvű, regény, svéd szerző, krimi, skandináv
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [svéd szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/svéd szerző), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skandináv)
 
 ### Összefoglalás
 <div>

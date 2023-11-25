@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hevesi%2C%20Krisztina/Szextrem%20%28986%29/Szextrem%20-%20Hevesi%2C%20Krisztina.epub)
 
 ### Tagek
-ismeretterjesztő, kortárs, magyar nyelvű, magyar szerző, pszichológia, szexológia, szexuális perverzió, szexuálpszichológia, tudományos, társ. tudományok
+[ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia), [szexológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szexológia), [szexuális perverzió](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szexuális perverzió), [szexuálpszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szexuálpszichológia), [tudományos](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudományos), [társ. tudományok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társ. tudományok)
 
 ### Összefoglalás
 <div>

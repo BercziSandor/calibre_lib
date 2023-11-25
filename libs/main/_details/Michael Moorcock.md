@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Moorcock/Harcikutya%20%28525%29/Harcikutya%20-%20Michael%20Moorcock.epub)
 
 ### Tagek
-brit szerző, dark fantasy, démon, háború, harcosok, magyar nyelvű, regény, sárkány, sorozat része, történelmi regény, vallás, fantasy, szórakoztató irodalom, szépirodalom
+[brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [dark fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/dark fantasy), [démon](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/démon), [háború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/háború), [harcosok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/harcosok), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sárkány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sárkány), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [történelmi regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelmi regény), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallás), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>

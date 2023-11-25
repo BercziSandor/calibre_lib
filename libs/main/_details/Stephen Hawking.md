@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20Hawking/Az%20ido%20meg%20rovidebb%20tortenete%20%28390%29/Az%20ido%20meg%20rovidebb%20tortenete%20-%20Stephen%20Hawking.epub)
 
 ### Tagek
-brit szerző, csillagászat, fizika, ismeretterjesztő, kortárs, kozmológia, magyar nyelvű, természettudomány, tudományos, science & technical
+[brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [csillagászat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/csillagászat), [fizika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fizika), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [kozmológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kozmológia), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [természettudomány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/természettudomány), [tudományos](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudományos), [science & technical](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science & technical)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ brit szerző, csillagászat, fizika, ismeretterjesztő, kortárs, kozmológia, m
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20Hawking/Az%20ido%20rovid%20tortenete%20%281166%29/Az%20ido%20rovid%20tortenete%20-%20Stephen%20Hawking.epub)
 
 ### Tagek
-20. század, angol, brit szerző, csillagászat, filozófia, fizika, ismeretterjesztő, kozmológia, magyar nyelvű, relativitáselmélet, természettudomány, tudományos, science & technical
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [csillagászat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/csillagászat), [filozófia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filozófia), [fizika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fizika), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [kozmológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kozmológia), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [relativitáselmélet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/relativitáselmélet), [természettudomány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/természettudomány), [tudományos](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudományos), [science & technical](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/science & technical)
 
 ### Összefoglalás
 <div>

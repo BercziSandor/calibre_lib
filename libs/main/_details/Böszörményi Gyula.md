@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Bito%20es%20borostyan%20%281578%29/Bito%20es%20borostyan%20-%20Boszormenyi%2C%20Gyula.epub)
 
 ### Tagek
-magyar, krimi, történelmi regény
+[magyar](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [történelmi regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelmi regény)
 
 ### Összefoglalás
 <div>
@@ -74,7 +74,7 @@ magyar, krimi, történelmi regény
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Luzer%20Radio%2C%20Budapest%21%20%281581%29/Luzer%20Radio%2C%20Budapest%21%20-%20Boszormenyi%2C%20Gyula.epub)
 
 ### Tagek
-ifjúsági
+[ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ifjúsági)
 
 ### Összefoglalás
 Marcel 13 éves, mikor a családjával a „Nyócker” színes, zajos, rémisztően forgatagos világába költözik. Mikor a vén bérház padlásán rátalál Volna-K-ra, az ősi rádió adó-vevőre, ötlete támad: félelmeit, örömeit, gondolatait mind az éterbe küldi, miközben az elhagyatott templom titkát is megfejti. A Lúzer rádió az Égigérő fű, a Keménykalap és Krumpliorr és a Szeleburdi család sokak által szeretett világába repíti el az olvasót.

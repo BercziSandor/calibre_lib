@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Richard%20Dawkins/A%20hodito%20gen%20%28359%29/A%20hodito%20gen%20-%20Richard%20Dawkins.epub)
 
 ### Tagek
-biológia, brit szerző, evolúció, ismeretterjesztő, magyar nyelvű, természettudomány, tudományos, tudomány és technika
+[biológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/biológia), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [evolúció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/evolúció), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [természettudomány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/természettudomány), [tudományos](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudományos), [tudomány és technika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudomány és technika)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ biológia, brit szerző, evolúció, ismeretterjesztő, magyar nyelvű, termész
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Richard%20Dawkins/Folyam%20az%20Edenkertbol%20%28362%29/Folyam%20az%20Edenkertbol%20-%20Richard%20Dawkins.epub)
 
 ### Tagek
-biológia, brit szerző, evolúció, ismeretterjesztő, magyar nyelvű, természettudomány, tudományos, tudomány és technika
+[biológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/biológia), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [evolúció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/evolúció), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [természettudomány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/természettudomány), [tudományos](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudományos), [tudomány és technika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudomány és technika)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@ biológia, brit szerző, evolúció, ismeretterjesztő, magyar nyelvű, termész
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Richard%20Dawkins/Az%20Ordog%20Kaplanja%20%28361%29/Az%20Ordog%20Kaplanja%20-%20Richard%20Dawkins.epub)
 
 ### Tagek
-biológia, brit szerző, evolúció, ismeretterjesztő, magyar nyelvű, természettudomány, tudományos, tudomány és technika
+[biológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/biológia), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [evolúció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/evolúció), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [természettudomány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/természettudomány), [tudományos](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudományos), [tudomány és technika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudomány és technika)
 
 ### Összefoglalás
 <div>
@@ -47,7 +47,7 @@ biológia, brit szerző, evolúció, ismeretterjesztő, magyar nyelvű, termész
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Richard%20Dawkins/Az%20onzo%20gen%20%28360%29/Az%20onzo%20gen%20-%20Richard%20Dawkins.epub)
 
 ### Tagek
-biológia, brit szerző, darwinizmus, etológia, evolúció, genetika, ismeretterjesztő, magyar nyelvű, memetika, természettudomány, tudományos, tudomány és technika
+[biológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/biológia), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [darwinizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/darwinizmus), [etológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/etológia), [evolúció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/evolúció), [genetika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/genetika), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [memetika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/memetika), [természettudomány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/természettudomány), [tudományos](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudományos), [tudomány és technika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudomány és technika)
 
 ### Összefoglalás
 <div>
@@ -61,7 +61,7 @@ biológia, brit szerző, darwinizmus, etológia, evolúció, genetika, ismerette
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Richard%20Dawkins/Isteni%20teveszme%20%28363%29/Isteni%20teveszme%20-%20Richard%20Dawkins.epub)
 
 ### Tagek
-angol, ateizmus, brit szerző, evolúció, ismeretterjesztő, kortárs, magyar nyelvű, tudományos, vallás, valláskritika, vitairat, tudomány és technika
+[angol](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol), [ateizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ateizmus), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [evolúció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/evolúció), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [tudományos](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudományos), [vallás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vallás), [valláskritika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/valláskritika), [vitairat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vitairat), [tudomány és technika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudomány és technika)
 
 ### Összefoglalás
 <div>

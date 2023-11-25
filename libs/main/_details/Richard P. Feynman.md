@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Richard%20P.%20Feynman/%2C%2CTrefal%2C%20Feynman%20ur__%20%28820%29/%2C%2CTrefal%2C%20Feynman%20ur__%20-%20Richard%20P.%20Feynman.epub)
 
 ### Tagek
-amerikai szerző, férfi főszereplő, festészet, fizika, humoros, intelligencia, ismeretterjesztő, magyar nyelvű, önéletrajz, tudományos
+[amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [festészet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/festészet), [fizika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fizika), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [intelligencia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/intelligencia), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [önéletrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önéletrajz), [tudományos](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudományos)
 
 ### Összefoglalás
 <div>

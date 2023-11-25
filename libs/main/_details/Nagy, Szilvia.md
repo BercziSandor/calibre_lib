@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nagy%2C%20Szilvia/Egyetemista%20lany%20tamogatot%20keres%20%28389%29/Egyetemista%20lany%20tamogatot%20kere%20-%20Nagy%2C%20Szilvia.epub)
 
 ### Tagek
-magyar nyelvű, magyar szerző, prostitúció, szociológia, társadalom
+[magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [prostitúció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/prostitúció), [szociológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szociológia), [társadalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társadalom)
 
 ### Összefoglalás
 <div>

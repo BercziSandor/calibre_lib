@@ -5,7 +5,7 @@
 [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%20T.%2C%20Anna/A%20Fuszermadar%20%281238%29/A%20Fuszermadar%20-%20Szabo%20T.%2C%20Anna.pdf)
 
 ### Tagek
-fűszernövény, gyermekkönyv iskolásoknak, gyermekkönyv kicsiknek, illusztrált, kortárs, magyar nyelvű, magyar szerző, mese
+[fűszernövény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fűszernövény), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekkönyv iskolásoknak), [gyermekkönyv kicsiknek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekkönyv kicsiknek), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [mese](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mese)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ fűszernövény, gyermekkönyv iskolásoknak, gyermekkönyv kicsiknek, illusztr�
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%20T.%2C%20Anna/Toresteszt%20%281236%29/Toresteszt%20-%20Szabo%20T.%2C%20Anna.epub)
 
 ### Tagek
-férfiak, kortárs, magyar nyelvű, magyar szerző, nők, novella, párkapcsolat, társas kapcsolatok
+[férfiak](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfiak), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [nők](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nők), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [párkapcsolat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/párkapcsolat), [társas kapcsolatok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társas kapcsolatok)
 
 ### Összefoglalás
 <div>

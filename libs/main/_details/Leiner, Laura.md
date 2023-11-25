@@ -60,7 +60,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Utveszto%20%281482%29/Utveszto%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-young adult fiction, general
+[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/young adult fiction), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general)
 
 ### Összefoglalás
 <div>
@@ -74,7 +74,7 @@ young adult fiction, general
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Orokke%20%281499%29/Orokke%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-young adult fiction, general
+[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/young adult fiction), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general)
 
 ### Összefoglalás
 <div>
@@ -88,7 +88,7 @@ young adult fiction, general
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Orokke%20%281500%29/Orokke%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-young adult fiction, general
+[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/young adult fiction), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general)
 
 ### Összefoglalás
 <div>
@@ -102,7 +102,7 @@ young adult fiction, general
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Kestel%20%281474%29/Kestel%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-young adult fiction, general
+[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/young adult fiction), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general)
 
 ### Összefoglalás
 <div>
@@ -116,7 +116,7 @@ young adult fiction, general
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Valahol%20%281487%29/Valahol%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-ifjúsági regény, romantikus
+[ifjúsági regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ifjúsági regény), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus)
 
 ### Összefoglalás
 <div style="text-align: justify;">Márk vagy Tomi? Bexi sokáig azt gondolta, hogy ez a kérdés nem létezik: 
@@ -136,7 +136,7 @@ felforgatott mindent a zenészek életében.
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Egyszer%20%281480%29/Egyszer%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-young adult fiction, general
+[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/young adult fiction), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general)
 
 ### Összefoglalás
 <div>
@@ -150,7 +150,7 @@ young adult fiction, general
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Eg%20veled%20%281476%29/Eg%20veled%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-fiction, general
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general)
 
 ### Összefoglalás
 <div>
@@ -164,7 +164,7 @@ fiction, general
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Maradj%20velem%20%281477%29/Maradj%20velem%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-2010-es évek, 21. század, barátság, gyász, humoros, ifjúsági, kamasz főszereplő, magyar, magyar nyelvű, magyarország, női főszereplő, nyár, regény, romantikus
+[2010-es évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/2010-es évek), [21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/barátság), [gyász](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyász), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ifjúsági), [kamasz főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kamasz főszereplő), [magyar](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyarország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyarország), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [nyár](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyár), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus)
 
 ### Összefoglalás
 <div>
@@ -189,7 +189,7 @@ fiction, general
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Bizz%20bennem%20%281486%29/Bizz%20bennem%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-humoros, ifjúsági, romantikus, magyar szerző, sorozat része
+[humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ifjúsági), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része)
 
 ### Összefoglalás
 <div>
@@ -204,7 +204,7 @@ humoros, ifjúsági, romantikus, magyar szerző, sorozat része
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Higgy%20nekem%20%281479%29/Higgy%20nekem%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-young adult fiction, general
+[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/young adult fiction), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general)
 
 ### Összefoglalás
 <div>
@@ -219,7 +219,7 @@ young adult fiction, general
  [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Allj%20mellem%20%281561%29/Allj%20mellem%20-%20Leiner%2C%20Laura.pdf)
 
 ### Tagek
-young adult nonfiction, general
+[young adult nonfiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/young adult nonfiction), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general)
 
 ### Összefoglalás
 <div>
@@ -233,7 +233,7 @@ young adult nonfiction, general
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Remek%21%20%281502%29/Remek%21%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-young adult fiction, romance, romantic comedy
+[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/young adult fiction), [romance](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romance), [romantic comedy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantic comedy)
 
 ### Összefoglalás
 <div>
@@ -247,7 +247,7 @@ young adult fiction, romance, romantic comedy
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Ez%20is%20Remek%21%21%20%281475%29/Ez%20is%20Remek%21%21%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-21. század, énregény, ifjúsági, magyar, magyar nyelvű, női főszereplő, regény
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [énregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/énregény), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ifjúsági), [magyar](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>
@@ -261,7 +261,7 @@ young adult fiction, romance, romantic comedy
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Babel%20%28644%29/Babel%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-2010-es évek, 21. század, barátság, blog, énregény, humoros, ifjúsági, kamasz főszereplő, kortárs, lányregény, magyar nyelvű, magyar szerző, magyarország, női főszereplő, nyár, regény, romantikus, zene
+[2010-es évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/2010-es évek), [21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/barátság), [blog](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/blog), [énregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/énregény), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ifjúsági), [kamasz főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kamasz főszereplő), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [lányregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lányregény), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [magyarország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyarország), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [nyár](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyár), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus), [zene](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/zene)
 
 ### Összefoglalás
 <div>
@@ -275,7 +275,7 @@ young adult fiction, romance, romantic comedy
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Mindig%20karacsony%20%281494%29/Mindig%20karacsony%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-young adult fiction, general
+[young adult fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/young adult fiction), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general)
 
 ### Összefoglalás
 <div>
@@ -289,7 +289,7 @@ young adult fiction, general
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leiner%2C%20Laura/Kozhelyek%20%281481%29/Kozhelyek%20-%20Leiner%2C%20Laura.epub)
 
 ### Tagek
-fiction, romance, new adult, workplace, betegség, kórház, magyar nyelvű, magyar szerző, párizs, rákbetegség, regény, újságírás
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [romance](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romance), [new adult](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/new adult), [workplace](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/workplace), [betegség](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/betegség), [kórház](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kórház), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [párizs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/párizs), [rákbetegség](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/rákbetegség), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [újságírás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/újságírás)
 
 ### Összefoglalás
 <div>

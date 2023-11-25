@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szergej%20Lukjanyenko/Alkonyi%20orseg%20%28462%29/Alkonyi%20orseg%20-%20Szergej%20Lukjanyenko.epub)
 
 ### Tagek
-szépirodalom, sci-fi, szórakoztató irodalom
+[szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [sci-fi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sci-fi), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom)
 
 ### Összefoglalás
 <p class="description">A Fény és a Setét erői immár harmadszor feszülnek egymásnak, és az ügy, amely kezdetben csupán néhány névtelen levél lenyomozásáról szólt, hamarosan sokkal nagyobb méreteket ölt. Az Éjszakai és a Nappali Őrség közös vizsgálatába az Inkvizíció is bekapcsolódik, és a képet tovább árnyalja egy elveszettnek hitt misztikus tárgy felbukkanása, amely akár valamennyi földi halandót Másfélévé változtathatja. A nyomok egészen Bajkonurig vezetnek, és kiderül, hogy a legfőbb hatalomra törő titokzatos személy még a Nemzetközi Űrállomást is tervének részévé tette. Mágia és tudomány csap össze a végső leszámolás során, amelyben a mit sem sejtő emberiség jövője a tét.<br>Szergej Lukjanyenko Eurocon-díjas szerző kultikus regénysorozatának harmadik részében is bebizonyítja, hogy az igazán jó fantasztikus történetekben legalább olyan fontos szerep jut magának az embernek, mint a fantáziának és az izgalomnak.</p>
@@ -18,7 +18,7 @@ szépirodalom, sci-fi, szórakoztató irodalom
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szergej%20Lukjanyenko/Utolso%20orseg%20%28457%29/Utolso%20orseg%20-%20Szergej%20Lukjanyenko.epub)
 
 ### Tagek
-orosz, urban fantasy
+[orosz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz), [urban fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/urban fantasy)
 
 ### Összefoglalás
 <p class="description">Különös vámpírtámadás áldozata lesz a skóciai Edinburgh-ban egy orosz fiatalember. A Nappali és az Éjszakai Őrség, no meg persze az Inkvizíció egyaránt szeretné kideríteni, mi is történt valójában. A megindult nyomozás egyre furcsább fordulatokat vesz. Kiderül, hogy megtörtént az, ami korábban elképzelhetetlen volt: összefogott egy vámpír, egy Fénypárti mágus és egy Inkvizítor, hogy megszerezzék a világ leghatalmasabb talizmánját, a Minden Koronáját, amelyet még maga Merlin készített. Utolsó Őrségnek nevezik magukat, mind a hárman Legfelső szintűek. A világ feletti uralomra törnek? Ezért nem fognának össze a Fény és a Setét erői. Valami más, ennél is nagyobb cél vezérli őket.<br>A nyomozás szálai Edinburgh-ból a távoli és ősi Szamarkandba, majd ismét Skóciába vezetnek. A küzdelem egyre kegyetlenebb, kíméletlenebb, az Utolsó őrség minden szabályt, magát a Megállapodást is megszegve mágikus eszközökkel felfegyverzett embereket is bevon a harcba. A tét a Másfélék megmaradása...<br>Az Eurocon-díjas szerző sorozatának újabb kötete talán az előzőeknél is feszültebb, fordulatosabb. Szergej Lukjanyenko ezúttal sem okoz csalódást rajongóinak. ......<br>A sorozatnak eddig ez a „befejező" kötete, bár legújabb információink szerint a hazájában ikonként tisztelt író már készülőfolytatásra...</p>
@@ -31,7 +31,7 @@ orosz, urban fantasy
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szergej%20Lukjanyenko/Uj%20Orseg%20%28458%29/Uj%20Orseg%20-%20Szergej%20Lukjanyenko.epub)
 
 ### Tagek
-orosz, urban fantasy
+[orosz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz), [urban fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/urban fantasy)
 
 # <a name="id_461">Szergej Lukjanyenko: Éjszakai őrség (Őrség 1) (2006)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szergej%20Lukjanyenko/Ejszakai%20orseg%20%28461%29/cover.jpg" alt="cover" width="300"/>
@@ -40,7 +40,7 @@ orosz, urban fantasy
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szergej%20Lukjanyenko/Ejszakai%20orseg%20%28461%29/Ejszakai%20orseg%20-%20Szergej%20Lukjanyenko.epub)
 
 ### Tagek
-fiction, fantasy, urban, boszorkány, orosz, filmadaptáció, alakváltó, vámpír, urban fantasy
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [urban](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/urban), [boszorkány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/boszorkány), [orosz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [alakváltó](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/alakváltó), [vámpír](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vámpír), [urban fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/urban fantasy)
 
 ### Összefoglalás
 <div>
@@ -54,7 +54,7 @@ fiction, fantasy, urban, boszorkány, orosz, filmadaptáció, alakváltó, vámp
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szergej%20Lukjanyenko/Nappali%20orseg%20%28459%29/Nappali%20orseg%20-%20Szergej%20Lukjanyenko.epub)
 
 ### Tagek
-alakváltó, boszorkány, fantasy, filmadaptáció, magyar nyelvű, moszkva, orosz szerző, regény, sorozat része, urban fantasy, vámpír, szépirodalom, sci-fi, szórakoztató irodalom
+[alakváltó](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/alakváltó), [boszorkány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/boszorkány), [fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [moszkva](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/moszkva), [orosz szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orosz szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [urban fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/urban fantasy), [vámpír](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vámpír), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom), [sci-fi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sci-fi), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom)
 
 ### Összefoglalás
 <div>

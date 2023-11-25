@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Holly%20Smale/A%20lany%2C%20akit%20soha%20senki%20sem%20vett%20es%20%281002%29/A%20lany%2C%20akit%20soha%20senki%20sem%20vet%20-%20Holly%20Smale.epub)
 
 ### Tagek
-21. század, anglia, barátság, brit szerző, divat, iskola, kortárs, magyar nyelvű, regény, sorozat része, ifjúsági, humoros
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [anglia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/anglia), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/barátság), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [divat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/divat), [iskola](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/iskola), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ifjúsági), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Holly%20Smale/A%20lany%2C%20aki%20mindig%20mindent%20felreert%20%281003%29/A%20lany%2C%20aki%20mindig%20mindent%20felr%20-%20Holly%20Smale.epub)
 
 ### Tagek
-21. század, anglia, brit szerző, divat, gyermekkönyv iskolásoknak, japán (ország), magyar nyelvű, regény, romantikus, sorozat része, humoros, ifjúsági
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [anglia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/anglia), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [divat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/divat), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekkönyv iskolásoknak), [japán (ország)](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/japán (ország)), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ifjúsági)
 
 ### Összefoglalás
 <div>

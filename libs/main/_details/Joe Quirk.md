@@ -6,7 +6,7 @@
  [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joe%20Quirk/Prudek%20es%20paraznak%20%281524%29/Prudek%20es%20paraznak%20-%20Joe%20Quirk.pdf)
 
 ### Tagek
-szexuálpszichológia, szexualitás
+[szexuálpszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szexuálpszichológia), [szexualitás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szexualitás)
 
 ### Összefoglalás
 <div>

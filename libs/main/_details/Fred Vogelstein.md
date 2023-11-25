@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fred%20Vogelstein/Dogfight_%20How%20Apple%20and%20Google%20Went%20%28642%29/Dogfight_%20How%20Apple%20and%20Google%20-%20Fred%20Vogelstein.epub)
 
 ### Tagek
-business & economics, industries, computers & information technology, corporate & business history
+[business & economics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/business & economics), [industries](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/industries), [computers & information technology](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/computers & information technology), [corporate & business history](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/corporate & business history)
 
 ### Összefoglalás
 <div>

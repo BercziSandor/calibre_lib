@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Megyesi%2C%20Zoltan/Titkosirasok%20%28413%29/Titkosirasok%20-%20Megyesi%2C%20Zoltan.epub)
 
 ### Tagek
-ismeretközlő irodalom, ismeretterjesztő, magyar, magyar nyelvű, matematika, írástechnika
+[ismeretközlő irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretközlő irodalom), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [magyar](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [matematika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/matematika), [írástechnika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/írástechnika)
 
 ### Összefoglalás
 <div>

@@ -6,7 +6,7 @@
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Bubajos%20gyilkosok%20%281771%29/Bubajos%20gyilkosok%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-mystery, crime, classics, thriller
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>
@@ -21,7 +21,7 @@ mystery, crime, classics, thriller
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20het%20szamlap%20rejtelye%20%281748%29/A%20het%20szamlap%20rejtelye%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-mystery, crime, classics, thriller, adult
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [adult](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/adult)
 
 ### Összefoglalás
 <div>
@@ -37,7 +37,7 @@ mystery, crime, classics, thriller, adult
 [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Ejfeltajt%20%2866%29/Ejfeltajt%20-%20Agatha%20Christie.azw3)
 
 ### Tagek
-20. század, angol szerző, brit szerző, detektívtörténet, filmadaptáció, magyar nyelvű, nyomozás, regény, sorozat része, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -51,7 +51,7 @@ mystery, crime, classics, thriller, adult
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20pollensai%20problema%20%28235%29/A%20pollensai%20problema%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, angol szerző, brit szerző, magándetektív, magyar nyelvű, novella, nyomozás, regény, sorozat része, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [magándetektív](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magándetektív), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -65,7 +65,7 @@ mystery, crime, classics, thriller, adult
 [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20Ackroyd-gyilkossag%20%2863%29/Az%20Ackroyd-gyilkossag%20-%20Agatha%20Christie.azw3)
 
 ### Tagek
-1001 könyv listán szerepel, 20. század, anglia, angol szerző, brit szerző, detektívtörténet, férfi főszereplő, gyilkosság, klasszikus, magándetektív, magyar nyelvű, nyomozás, ősz, regény, sorozat része, krimi
+[1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1001 könyv listán szerepel), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [anglia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/anglia), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [magándetektív](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magándetektív), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [ősz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ősz), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -79,7 +79,7 @@ mystery, crime, classics, thriller, adult
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20titokzatos%20Negyes%20%28238%29/A%20titokzatos%20Negyes%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-mystery, crime, classics, thriller, 20. század, angol szerző, brit szerző, detektívtörténet, férfi főszereplő, filmadaptáció, ikrek, magándetektív, magyar nyelvű, nyomozás, regény, sorozat része, krimi
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [ikrek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ikrek), [magándetektív](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magándetektív), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -93,7 +93,7 @@ mystery, crime, classics, thriller, 20. század, angol szerző, brit szerző, de
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20titokzatos%20Kek%20Vonat%20%281757%29/A%20titokzatos%20Kek%20Vonat%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-mystery, crime, classics, thriller
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>
@@ -107,7 +107,7 @@ mystery, crime, classics, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Haz%20a%20sziklan%20%28249%29/Haz%20a%20sziklan%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, angol szerző, brit szerző, férfi főszereplő, filmadaptáció, gyilkosság, magándetektív, magyar nyelvű, nyomozás, regény, sorozat része, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [magándetektív](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magándetektív), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -121,7 +121,7 @@ mystery, crime, classics, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Halal%20a%20felhok%20kozott%20%2869%29/Halal%20a%20felhok%20kozott%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-1930-as évek, 20. század, angol szerző, brit szerző, detektívtörténet, filmadaptáció, gyilkosság, klasszikus, london, magándetektív, magyar nyelvű, nyomozás, párizs, regény, repülő, sorozat része, krimi
+[1930-as évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1930-as évek), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [london](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/london), [magándetektív](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magándetektív), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [párizs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/párizs), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [repülő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/repülő), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -136,7 +136,7 @@ mystery, crime, classics, thriller
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20ABC-gyilkossagok%20%281764%29/Az%20ABC-gyilkossagok%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-mystery, classics, crime, thriller
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>
@@ -150,7 +150,7 @@ mystery, classics, crime, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20kutya%20se%20latta%20%281751%29/A%20kutya%20se%20latta%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-mystery, crime, classics, thriller, mystery & crime
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [mystery & crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery & crime)
 
 ### Összefoglalás
 <div>
@@ -164,7 +164,7 @@ mystery, crime, classics, thriller, mystery & crime
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Halal%20a%20Niluson%20%2875%29/Halal%20a%20Niluson%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-1930-as évek, 20. század, angol szerző, brit szerző, detektívtörténet, egyiptom, filmadaptáció, gyilkosság, hangoskönyv, magándetektív, magyar nyelvű, nyár, nyomozás, regény, sorozat része, krimi
+[1930-as évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1930-as évek), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [egyiptom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/egyiptom), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [magándetektív](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magándetektív), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyár](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyár), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -179,7 +179,7 @@ mystery, crime, classics, thriller, mystery & crime
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Cipruskoporso%20%281772%29/Cipruskoporso%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-mystery, crime, classics, thriller
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>
@@ -194,7 +194,7 @@ mystery, crime, classics, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Nyaralo%20gyilkosok%20%2873%29/Nyaralo%20gyilkosok%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, anglia, angol szerző, brit szerző, detektívtörténet, filmadaptáció, gyilkosság, hangoskönyv, magándetektív, mágia, magyar nyelvű, nyár, nyomozás, regény, sorozat része, sorozatgyilkosság, sziget, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [anglia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/anglia), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [magándetektív](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magándetektív), [mágia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mágia), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyár](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyár), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozatgyilkosság), [sziget](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sziget), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -208,7 +208,7 @@ mystery, crime, classics, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Hetvegi%20gyilkossag%20%28251%29/Hetvegi%20gyilkossag%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, angol szerző, brit szerző, detektívtörténet, magándetektív, magyar nyelvű, nyomozás, regény, sorozat része, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [magándetektív](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magándetektív), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -222,7 +222,7 @@ mystery, crime, classics, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Mrs.%20McGinty%20meghalt%20%28252%29/Mrs.%20McGinty%20meghalt%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, angol szerző, brit szerző, detektívtörténet, filmadaptáció, gyilkosság, magándetektív, magyar nyelvű, nyomozás, regény, sorozat része, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [magándetektív](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magándetektív), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -236,7 +236,7 @@ mystery, crime, classics, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Temetni%20veszelyes%20%2878%29/Temetni%20veszelyes%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, angol szerző, brit szerző, család, filmadaptáció, magándetektív, magyar nyelvű, nyomozás, regény, sorozat része, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [család](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/család), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [magándetektív](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magándetektív), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -251,7 +251,7 @@ mystery, crime, classics, thriller
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gloriett%20a%20hullanak%20%281777%29/Gloriett%20a%20hullanak%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-mystery, crime, classics, thriller
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>
@@ -265,7 +265,7 @@ mystery, crime, classics, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20karacsonyi%20puding%20esete%20%281749%29/A%20karacsonyi%20puding%20esete%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-mystery, crime, classics
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics)
 
 ### Összefoglalás
 <div>
@@ -279,7 +279,7 @@ mystery, crime, classics
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20orak%20%281768%29/Az%20orak%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-mystery, crime, classics, thriller
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>
@@ -293,7 +293,7 @@ mystery, crime, classics, thriller
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20harmadik%20lany%20%28234%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-mystery, crime, classics, thriller, 1960-as évek, 20. század, angol szerző, brit szerző, fiatalkor, gyilkosság, london, magándetektív, magyar nyelvű, női főszereplő, nyomozás, regény, sorozat része, krimi
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [1960-as évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1960-as évek), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [fiatalkor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiatalkor), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [london](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/london), [magándetektív](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magándetektív), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -306,7 +306,7 @@ mystery, crime, classics, thriller, 1960-as évek, 20. század, angol szerző, b
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Ellopott%20gyilkossag%20%2867%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-mystery, crime, classics, thriller, krimi
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -333,7 +333,7 @@ mystery, crime, classics, thriller, krimi
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Poirot%20bravurjai%20I_%20%28257%29/Poirot%20bravurjai%20I_%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, angol szerző, brit szerző, elbeszélés, magándetektív, magyar nyelvű, novella, nyomozás, regény, sorozat része, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés), [magándetektív](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magándetektív), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -348,7 +348,7 @@ mystery, crime, classics, thriller, krimi
  [prc](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20titokzatos%20stylesi%20eset%20_%20Fuggony%20%281758%29/A%20titokzatos%20stylesi%20eset%20_%20Fug%20-%20Agatha%20Christie.prc)
 
 ### Tagek
-mystery, classics, crime, thriller, mystery & crime
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [mystery & crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery & crime)
 
 ### Összefoglalás
 <div>
@@ -362,7 +362,7 @@ mystery, classics, crime, thriller, mystery & crime
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20Greenshore-gloriett%20%281762%29/A%20Greenshore-gloriett%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-mystery, crime, classics, thriller
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>
@@ -377,7 +377,7 @@ mystery, crime, classics, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20almok%20haza%20%28241%29/Az%20almok%20haza%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, álom, angol szerző, brit szerző, detektívtörténet, elbeszélés, kaland, magándetektív, magyar nyelvű, novella, nyomozás, regény, sorozat része, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [álom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/álom), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [magándetektív](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magándetektív), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -391,7 +391,7 @@ mystery, crime, classics, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gyilkossag%20a%20paplakban%20%2868%29/Gyilkossag%20a%20paplakban%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, angol szerző, brit szerző, filmadaptáció, gyilkosság, halál, kisváros, magyar nyelvű, nyomozás, regény, sorozat része, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [halál](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/halál), [kisváros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kisváros), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -405,7 +405,7 @@ mystery, crime, classics, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Tizenharom%20rejtely%20%28259%29/Tizenharom%20rejtely%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, anglia, angol szerző, barátság, brit szerző, gyilkosság, karácsony, magyar nyelvű, novella, nyomozás, rejtély, sorozat része, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [anglia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/anglia), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/barátság), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [karácsony](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/karácsony), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [rejtély](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/rejtély), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -419,7 +419,7 @@ mystery, crime, classics, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Holttest%20a%20konyvtarszobaban%20%2871%29/Holttest%20a%20konyvtarszobaban%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, angol szerző, brit szerző, filmadaptáció, kisváros, klasszikus, magyar nyelvű, nyomozás, regény, rejtély, sorozat része, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [kisváros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kisváros), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [rejtély](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/rejtély), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -433,7 +433,7 @@ mystery, crime, classics, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Nem%20zorog%20a%20haraszt%20%28311%29/Nem%20zorog%20a%20haraszt%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, angol szerző, brit szerző, filmadaptáció, gyilkosság, kisváros, magyar nyelvű, nyomozás, regény, sorozat része, krimi, szórakoztató irodalom, szépirodalom
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [kisváros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kisváros), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>
@@ -447,7 +447,7 @@ mystery, crime, classics, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Egy%20marek%20rozs%20%281773%29/Egy%20marek%20rozs%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-mystery, crime, classics, thriller
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>
@@ -461,7 +461,7 @@ mystery, crime, classics, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Paddington%2016.50%20%2874%29/Paddington%2016.50%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, angol szerző, brit szerző, család, detektívtörténet, filmadaptáció, gyilkosság, klasszikus, magyar nyelvű, nyomozás, regény, sorozat része, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [család](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/család), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -475,7 +475,7 @@ mystery, crime, classics, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20kristalytukor%20meghasadt%20%281750%29/A%20kristalytukor%20meghasadt%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-mystery, crime, classics
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics)
 
 ### Összefoglalás
 <div>
@@ -489,7 +489,7 @@ mystery, crime, classics
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Rejtely%20az%20Antillakon%20%2876%29/Rejtely%20az%20Antillakon%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, angol szerző, brit szerző, detektívtörténet, filmadaptáció, gyilkosság, hangoskönyv, magyar nyelvű, nyomozás, regény, sorozat része, sorozatgyilkosság, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozatgyilkosság), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -503,7 +503,7 @@ mystery, crime, classics
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20Bertram%20szallo%20%281746%29/A%20Bertram%20szallo%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-mystery, crime, classics, thriller
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>
@@ -517,7 +517,7 @@ mystery, crime, classics, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Nemezis%20%2872%29/Nemezis%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, angol szerző, brit szerző, detektívtörténet, filmadaptáció, gyilkosság, klasszikus, magyar nyelvű, nyomozás, regény, sorozat része, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -531,7 +531,7 @@ mystery, crime, classics, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Szunnyado%20gyilkossag%20%2877%29/Szunnyado%20gyilkossag%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-1930-as évek, 20. század, angol szerző, brit szerző, detektívtörténet, filmadaptáció, magyar nyelvű, nyomozás, regény, sorozat része, krimi
+[1930-as évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1930-as évek), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -545,7 +545,7 @@ mystery, crime, classics, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20barna%20ruhas%20ferfi%20%281745%29/A%20barna%20ruhas%20ferfi%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-mystery, crime, classics, thriller, adventure, romance
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [adventure](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/adventure), [romance](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romance)
 
 ### Összefoglalás
 <div>
@@ -560,7 +560,7 @@ mystery, crime, classics, thriller, adventure, romance
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gyongyozo%20cian%20%28247%29/Gyongyozo%20cian%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, angol szerző, brit szerző, gyilkosság, magyar nyelvű, regény, sorozat része, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -574,7 +574,7 @@ mystery, crime, classics, thriller, adventure, romance
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Titkos%20ellenfel%20%281756%29/Titkos%20ellenfel%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-mystery, classics, crime, thriller, adventure
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [adventure](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/adventure)
 
 ### Összefoglalás
 <div>
@@ -590,7 +590,7 @@ mystery, classics, crime, thriller, adventure
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/No.%2016%20%28254%29/No.%2016%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, angol szerző, brit szerző, detektívtörténet, filmadaptáció, gyilkosság, kaland, magyar nyelvű, novella, nyomozás, sorozat része, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -601,7 +601,7 @@ mystery, classics, crime, thriller, adventure
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Balhuvelykem%20bizsereg%20%28242%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-20. század, angol szerző, brit szerző, magyar nyelvű, regény, sorozat része, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -615,7 +615,7 @@ mystery, classics, crime, thriller, adventure
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20sors%20kapuja%20%281755%29/A%20sors%20kapuja%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-mystery, crime, classics, thriller
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>
@@ -641,7 +641,7 @@ mystery, crime, classics, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20Sittaford-rejtely%20%281754%29/A%20Sittaford-rejtely%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-mystery, crime, classics, thriller
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>
@@ -655,7 +655,7 @@ mystery, crime, classics, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20Listerdale-rejtely%20%281753%29/A%20Listerdale-rejtely%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-mystery, crime, classics, thriller
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>
@@ -669,7 +669,7 @@ mystery, crime, classics, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20alibi%20%281765%29/Az%20alibi%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-mystery, crime, classics, thriller
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>
@@ -686,7 +686,7 @@ mystery, crime, classics, thriller
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Eletem%20%281774%29/Eletem%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-biography, mystery, history, crime, életrajzok, visszaemlékezések
+[biography](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/biography), [mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [history](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/history), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [életrajzok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életrajzok), [visszaemlékezések](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/visszaemlékezések)
 
 ### Összefoglalás
 <div>
@@ -721,7 +721,7 @@ biography, mystery, history, crime, életrajzok, visszaemlékezések
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Parker%20Pyne%20nyomoz%20%28255%29/Parker%20Pyne%20nyomoz%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, angol szerző, brit szerző, detektívtörténet, magyar nyelvű, novella, nyomozás, sorozat része, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -746,7 +746,7 @@ biography, mystery, history, crime, életrajzok, visszaemlékezések
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Harom%20vak%20eger%20%2870%29/Harom%20vak%20eger%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, anglia, angol szerző, brit szerző, gyilkosság, hangoskönyv, kisregény, magyar nyelvű, novella, nyomozás, regény, tél, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [anglia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/anglia), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [kisregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kisregény), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [tél](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tél), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -760,7 +760,7 @@ biography, mystery, history, crime, életrajzok, visszaemlékezések
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Eljottek%20Bagdadba%20%2865%29/Eljottek%20Bagdadba%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, angol szerző, brit szerző, gyilkosság, kaland, kalandregény, közel-kelet, magyar nyelvű, női főszereplő, regény, rejtély, sivatag, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [kaland](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kaland), [kalandregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalandregény), [közel-kelet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/közel-kelet), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [rejtély](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/rejtély), [sivatag](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sivatag), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -785,7 +785,7 @@ biography, mystery, history, crime, életrajzok, visszaemlékezések
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Tiz%20kicsi%20neger%20%2879%29/Tiz%20kicsi%20neger%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-1930-as évek, 20. század, anglia, angol szerző, brit szerző, filmadaptáció, gyilkosság, hangoskönyv, klasszikus, magyar nyelvű, nagy könyv, nyár, regény, sorozatgyilkosság, sziget, thriller, krimi
+[1930-as évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1930-as évek), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [anglia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/anglia), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nagy könyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nagy könyv), [nyár](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyár), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozatgyilkosság), [sziget](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sziget), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -799,7 +799,7 @@ biography, mystery, history, crime, életrajzok, visszaemlékezések
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20ferde%20haz%20%2864%29/A%20ferde%20haz%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-20. század, angol szerző, brit szerző, család, detektívtörténet, férfi főszereplő, filmadaptáció, gyilkosság, klasszikus, magyar nyelvű, nyomozás, regény, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [család](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/család), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [klasszikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/klasszikus), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -810,7 +810,7 @@ biography, mystery, history, crime, életrajzok, visszaemlékezések
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20vad%20tanuja%20%28240%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-20. század, 21. század, angol szerző, brit szerző, magyar nyelvű, misztikus, novella, nyomozás, okkultizmus, pszichoanalízis, regény, krimi
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [misztikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/misztikus), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [okkultizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/okkultizmus), [pszichoanalízis](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichoanalízis), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi)
 
 ### Összefoglalás
 <div>
@@ -824,7 +824,7 @@ biography, mystery, history, crime, életrajzok, visszaemlékezések
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Es%20eljo%20a%20halal__%20%28312%29/Es%20eljo%20a%20halal__%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-afrika, angol szerző, brit szerző, család, magyar nyelvű, nyomozás, történelmi krimi, angol, 20. század, szórakoztató irodalom, ókor, egyiptom, krimi, regény
+[afrika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/afrika), [angol szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol szerző), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [család](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/család), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [történelmi krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelmi krimi), [angol](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/angol), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom), [ókor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ókor), [egyiptom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/egyiptom), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>
@@ -838,7 +838,7 @@ afrika, angol szerző, brit szerző, család, magyar nyelvű, nyomozás, törté
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Adventi%20krimik%20%281761%29/Adventi%20krimik%20-%20Agatha%20Christie.epub)
 
 ### Tagek
-mystery, classics, crime, adult, 820-32=945.11, (udc/eto)
+[mystery](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mystery), [classics](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/classics), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [adult](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/adult), [820-32=945.11](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/820-32=945.11), [(udc/eto)](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/(udc/eto))
 
 ### Összefoglalás
 <div>

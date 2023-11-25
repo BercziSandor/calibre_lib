@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bertrice%20Small/Titkos%20oromok%20%28769%29/Titkos%20oromok%20-%20Bertrice%20Small.epub)
 
 ### Tagek
-amerikai szerző, erotikus, magyar nyelvű, romantikus, sorozat része
+[amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [erotikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erotikus), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része)
 
 ### Összefoglalás
 <div>

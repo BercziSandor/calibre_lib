@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Beck%2C%20Judit/Nagy%20drogkonyv%20%28646%29/Nagy%20drogkonyv%20-%20Beck%2C%20Judit.epub)
 
 ### Tagek
-drog, függőség, gyógyszeripar, jazz, magyar nyelvű, rock, szenvedélybetegségek, társadalomkritika, titkosszolgálat, történelem
+[drog](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/drog), [függőség](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/függőség), [gyógyszeripar](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyógyszeripar), [jazz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/jazz), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [rock](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/rock), [szenvedélybetegségek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szenvedélybetegségek), [társadalomkritika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társadalomkritika), [titkosszolgálat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/titkosszolgálat), [történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelem)
 
 ### Összefoglalás
 <div>

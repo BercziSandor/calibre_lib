@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csukas%2C%20Istvan/Pom%20Pom%20mesei%20%28799%29/Pom%20Pom%20mesei%20-%20Csukas%2C%20Istvan.epub)
 
 ### Tagek
-filmadaptáció, gyermekkönyv kicsiknek, illusztrált, kortárs, magyar nyelvű, magyar szerző, mese, sorozat része, children's 9-12
+[filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [gyermekkönyv kicsiknek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekkönyv kicsiknek), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [mese](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mese), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [children's 9-12](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/children's 9-12)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ filmadaptáció, gyermekkönyv kicsiknek, illusztrált, kortárs, magyar nyelvű
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csukas%2C%20Istvan/Vakacio%20a%20halott%20utcaban%20%281412%29/Vakacio%20a%20halott%20utcaban%20-%20Csukas%2C%20Istvan.epub)
 
 ### Tagek
-20. század, budapest, filmadaptáció, gyermek főszereplő, gyermekkönyv iskolásoknak, gyermekszemszög, ifjúsági, illusztrált, kalandregény, krimi, magyar nyelvű, magyar szerző, magyarország, nyár, nyomozás, regény, szünidő
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [budapest](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/budapest), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [gyermek főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermek főszereplő), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekkönyv iskolásoknak), [gyermekszemszög](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekszemszög), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ifjúsági), [illusztrált](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/illusztrált), [kalandregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalandregény), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [magyarország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyarország), [nyár](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyár), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [szünidő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szünidő)
 
 ### Összefoglalás
 <div>

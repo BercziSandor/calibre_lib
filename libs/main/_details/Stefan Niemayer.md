@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stefan%20Niemayer/Titkos%20kiserletek%20a%20naci%20birodalomb%20%28806%29/Titkos%20kiserletek%20a%20naci%20biroda%20-%20Stefan%20Niemayer.epub)
 
 ### Tagek
-2. világháború, koncentrációs tábor, magyar nyelvű, magyar szerző, nácizmus, háború
+[2. világháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/2. világháború), [koncentrációs tábor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/koncentrációs tábor), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [nácizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nácizmus), [háború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/háború)
 
 ### Összefoglalás
 <p>A cím tökéletesen fedi a tartalmat. Elsősorban a koncentrációs táborokban végrehajtott orvosi és fizikai kísérletekről van szó, amelyek során a náci orvosok és tudósok (?) sok tízezer szerencsétlen foglyot „használtak fel”. Döbbenetes erejű dokumentum-munka.</p>

@@ -6,7 +6,7 @@
  [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Valerie%20Tasso/A%20szex%20antikezikonyve%20%28907%29/A%20szex%20antikezikonyve%20-%20Valerie%20Tasso.pdf)
 
 ### Tagek
-francia szerző, magyar nyelvű, párkapcsolat, prostitúció, spanyol, szexológia, szexualitás, életmód, egészség
+[francia szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/francia szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [párkapcsolat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/párkapcsolat), [prostitúció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/prostitúció), [spanyol](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/spanyol), [szexológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szexológia), [szexualitás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szexualitás), [életmód](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életmód), [egészség](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/egészség)
 
 ### Összefoglalás
 <div>

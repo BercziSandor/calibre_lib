@@ -2,7 +2,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fejos%2C%20Eva/Csajok%20%28771%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-kortárs, magyar nyelvű, magyar szerző, regény, sorozat része
+[kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része)
 
 ### Összefoglalás
 <div>
@@ -16,7 +16,7 @@ kortárs, magyar nyelvű, magyar szerző, regény, sorozat része
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fejos%2C%20Eva/Eper%20reggelire%20%2817%29/Eper%20reggelire%20-%20Fejos%2C%20Eva.epub)
 
 ### Tagek
-21. század, bali, barátság, budapest, chick lit, magyar nyelvű, magyar szerző, női főszereplő, párizs, sorozat része, utazás, asian interest, szórakoztató irodalom, kortárs, romantikus, regény
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [bali](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/bali), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/barátság), [budapest](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/budapest), [chick lit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/chick lit), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [párizs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/párizs), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [utazás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/utazás), [asian interest](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/asian interest), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>
@@ -30,7 +30,7 @@ kortárs, magyar nyelvű, magyar szerző, regény, sorozat része
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fejos%2C%20Eva/Ejszaka%20Bangkokban%20%28773%29/Ejszaka%20Bangkokban%20-%20Fejos%2C%20Eva.epub)
 
 ### Tagek
-fiction, romance, general
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [romance](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romance), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general)
 
 ### Összefoglalás
 <div>
@@ -44,7 +44,7 @@ fiction, romance, general
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fejos%2C%20Eva/Holtodiglan%20%28426%29/Holtodiglan%20-%20Fejos%2C%20Eva.epub)
 
 ### Tagek
-chick lit, magyar nyelvű, magyar szerző, romantikus, kortárs, vámpír
+[chick lit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/chick lit), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [vámpír](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vámpír)
 
 ### Összefoglalás
 <div>
@@ -58,7 +58,7 @@ chick lit, magyar nyelvű, magyar szerző, romantikus, kortárs, vámpír
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fejos%2C%20Eva/Szeretlek%2C%20Bangkok%20%28774%29/Szeretlek%2C%20Bangkok%20-%20Fejos%2C%20Eva.epub)
 
 ### Tagek
-21. század, délkelet-ázsia, kortárs, magyar nyelvű, magyar szerző, thaiföld, útleírás
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [délkelet-ázsia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/délkelet-ázsia), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [thaiföld](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thaiföld), [útleírás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/útleírás)
 
 ### Összefoglalás
 <div>

@@ -6,7 +6,7 @@
  [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Desmond%20Morris/Miert%20csinalja_._%20A%20lo%20%28416%29/Miert%20csinalja_._%20A%20lo%20-%20Desmond%20Morris.rtf)
 
 ### Tagek
-brit szerző, emlősök, magyar nyelvű, ismeretterjesztő, természettudomány, ló, etológia, állatvilág
+[brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [emlősök](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/emlősök), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [természettudomány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/természettudomány), [ló](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ló), [etológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/etológia), [állatvilág](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állatvilág)
 
 ### Összefoglalás
 <div>
@@ -21,7 +21,7 @@ brit szerző, emlősök, magyar nyelvű, ismeretterjesztő, természettudomány,
  [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Desmond%20Morris/Miert%20csinalja_._%20A%20macska%20%28415%29/Miert%20csinalja_._%20A%20macska%20-%20Desmond%20Morris.rtf)
 
 ### Tagek
-állat, állattan, állattartás, állatvilág, brit szerző, emlősök, etológia, háziállat, ismeretterjesztő, macska, magyar nyelvű, természettudomány
+[állat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állat), [állattan](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állattan), [állattartás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állattartás), [állatvilág](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/állatvilág), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [emlősök](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/emlősök), [etológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/etológia), [háziállat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/háziállat), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [macska](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/macska), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [természettudomány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/természettudomány)
 
 ### Összefoglalás
 <div>
@@ -32,7 +32,7 @@ brit szerző, emlősök, magyar nyelvű, ismeretterjesztő, természettudomány,
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Desmond%20Morris/A%20csupasz%20majom%20%28536%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-20. század, antropológia, biológia, brit szerző, etológia, evolúció, evolúcióbiológia, evolúciós pszichológia, humánetológia, ismeretterjesztő, magyar nyelvű, természettudomány, tudományos
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [antropológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/antropológia), [biológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/biológia), [brit szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit szerző), [etológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/etológia), [evolúció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/evolúció), [evolúcióbiológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/evolúcióbiológia), [evolúciós pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/evolúciós pszichológia), [humánetológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humánetológia), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [természettudomány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/természettudomány), [tudományos](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudományos)
 
 ### Összefoglalás
 <div>
@@ -46,5 +46,5 @@ brit szerző, emlősök, magyar nyelvű, ismeretterjesztő, természettudomány,
 [djvu](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Desmond%20Morris/Miert%20csinalja%20_._%20a%20kutya_%20nelkulo%20%281722%29/Miert%20csinalja%20_._%20a%20kutya_%20nel%20-%20Desmond%20Morris.djvu)
 
 ### Tagek
-kutya
+[kutya](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kutya)
 

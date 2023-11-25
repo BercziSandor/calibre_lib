@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20C.%20Dennett/Micsoda%20elmek%20%28631%29/Micsoda%20elmek%20-%20Daniel%20C.%20Dennett.epub)
 
 ### Tagek
-amerikai szerző, filozófia, magyar nyelvű, tudományfilozófia
+[amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [filozófia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filozófia), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [tudományfilozófia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tudományfilozófia)
 
 ### Összefoglalás
 <div>

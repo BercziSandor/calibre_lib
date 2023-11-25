@@ -6,7 +6,7 @@
  [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Kis%20kiruccanas%20%281427%29/Kis%20kiruccanas%20-%20Anna%20Gavalda.pdf)
 
 ### Tagek
-21. század, család, emberi sorsok, francia szerző, kisregény, kortárs, magyar nyelvű, regény, szeretet, testvérek
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [család](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/család), [emberi sorsok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/emberi sorsok), [francia szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/francia szerző), [kisregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kisregény), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [szeretet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szeretet), [testvérek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/testvérek)
 
 ### Összefoglalás
 <div>
@@ -20,7 +20,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Billie%20%28959%29/Billie%20-%20Anna%20Gavalda.epub)
 
 ### Tagek
-fiction, friendship, coming of age, lgbt, gay, szépirodalom
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [friendship](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/friendship), [coming of age](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/coming of age), [lgbt](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lgbt), [gay](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gay), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>
@@ -34,7 +34,7 @@ fiction, friendship, coming of age, lgbt, gay, szépirodalom
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Egyutt%20lehetnenk%20%281306%29/Egyutt%20lehetnenk%20-%20Anna%20Gavalda.epub)
 
 ### Tagek
-21. század, anorexia, barátság, emberi sorsok, filmadaptáció, francia szerző, franciaország, kortárs, lélekrajz, magyar nyelvű, művészet, női főszereplő, öregedés, párizs, regény, romantikus, szeretet, társas kapcsolatok
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [anorexia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/anorexia), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/barátság), [emberi sorsok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/emberi sorsok), [filmadaptáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/filmadaptáció), [francia szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/francia szerző), [franciaország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/franciaország), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [lélekrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lélekrajz), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [művészet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/művészet), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [öregedés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/öregedés), [párizs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/párizs), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus), [szeretet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szeretet), [társas kapcsolatok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társas kapcsolatok)
 
 ### Összefoglalás
 <div>
@@ -48,7 +48,7 @@ fiction, friendship, coming of age, lgbt, gay, szépirodalom
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/35%20kilo%20remeny%20%281308%29/35%20kilo%20remeny%20-%20Anna%20Gavalda.epub)
 
 ### Tagek
-21. század, énregény, francia szerző, gyermekszemszög, ifjúsági, kisregény, kortárs, magyar nyelvű, regény
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [énregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/énregény), [francia szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/francia szerző), [gyermekszemszög](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekszemszög), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ifjúsági), [kisregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kisregény), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>
@@ -62,7 +62,7 @@ fiction, friendship, coming of age, lgbt, gay, szépirodalom
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Csak%20azt%20szeretnem%2C%20ha%20valaki%20varna%20%281305%29/Csak%20azt%20szeretnem%2C%20ha%20valaki%20v%20-%20Anna%20Gavalda.epub)
 
 ### Tagek
-20. század, emberi sorsok, francia szerző, kortárs, magyar nyelvű, novella, párkapcsolat, regény
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [emberi sorsok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/emberi sorsok), [francia szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/francia szerző), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [párkapcsolat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/párkapcsolat), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>
@@ -76,7 +76,7 @@ fiction, friendship, coming of age, lgbt, gay, szépirodalom
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Vigaszag%20%2815%29/Vigaszag%20-%20Anna%20Gavalda.epub)
 
 ### Tagek
-21. század, barátság, férfi főszereplő, francia szerző, franciaország, magyar nyelvű, párizs, párkapcsolat, romantikus, francia, regény, kortárs
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [barátság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/barátság), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [francia szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/francia szerző), [franciaország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/franciaország), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [párizs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/párizs), [párkapcsolat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/párkapcsolat), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus), [francia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/francia), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs)
 
 ### Összefoglalás
 <div>
@@ -90,7 +90,7 @@ fiction, friendship, coming of age, lgbt, gay, szépirodalom
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Eletre%20kelni%20%281303%29/Eletre%20kelni%20-%20Anna%20Gavalda.epub)
 
 ### Tagek
-barátság, betegség, férfi főszereplő, francia szerző, franciaország, gyász, halál, házasság, kortárs, magyar nyelvű, női főszereplő, novella, párizs, terápia, elbeszélés
+[barátság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/barátság), [betegség](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/betegség), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [francia szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/francia szerző), [franciaország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/franciaország), [gyász](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyász), [halál](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/halál), [házasság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/házasság), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [párizs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/párizs), [terápia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/terápia), [elbeszélés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/elbeszélés)
 
 ### Összefoglalás
 <div>
@@ -104,7 +104,7 @@ barátság, betegség, férfi főszereplő, francia szerző, franciaország, gy�
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Szerettem%20ot%20%281304%29/Szerettem%20ot%20-%20Anna%20Gavalda.epub)
 
 ### Tagek
-21. század, francia szerző, házasság, kortárs, magyar nyelvű, párkapcsolat, regény, romantikus
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [francia szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/francia szerző), [házasság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/házasság), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [párkapcsolat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/párkapcsolat), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [romantikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/romantikus)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Thomas%20Enger/Hegek%20%28617%29/Hegek%20-%20Thomas%20Enger.epub)
 
 ### Tagek
-21. század, gyilkosság, magyar nyelvű, norvég szerző, regény, sorozat része, krimi, bűnügyi, thriller, skandináv
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [norvég szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/norvég szerző), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [bűnügyi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/bűnügyi), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skandináv)
 
 ### Összefoglalás
 <div>

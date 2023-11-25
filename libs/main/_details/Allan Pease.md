@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Allan%20Pease/Szo-beszed%20%283%29/Szo-beszed%20-%20Allan%20Pease.epub)
 
 ### Tagek
-amerikai szerző, ausztrál szerző, beszélgetés, életmód, ismeretterjesztő, kommunikáció, magyar nyelvű, önsegítő, tárgyalástechnika, társalgás, pszichológia
+[amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [ausztrál szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ausztrál szerző), [beszélgetés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/beszélgetés), [életmód](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életmód), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [kommunikáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kommunikáció), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [önsegítő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önsegítő), [tárgyalástechnika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/tárgyalástechnika), [társalgás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társalgás), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia)
 
 ### Összefoglalás
 <div>

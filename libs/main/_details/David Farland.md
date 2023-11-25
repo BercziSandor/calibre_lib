@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/David%20Farland/A%20sotetseg%20harcosa%20%28510%29/A%20sotetseg%20harcosa%20-%20David%20Farland.epub)
 
 ### Tagek
-fantasy
+[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy)
 
 ### Összefoglalás
 A tűzszövők élő lángokként énekeltek és táncoltak. Hamarosan egy zölden világító kapu jelent meg előttük. A tűzszövők eléálltak, megidézve a lángnyelveket és a hamut. Egyikük odalépett a kapuhoz, és eltűnt az Alvilágban. Egy idő múltán egy lény körvonalai öltöttek lassan testet. Sötét férfialak, hosszú, göndör, bozontos sörénnyel. A teremtmény kibontotta csillogó szárnyát. A lángok fodrozódtak és játszottak a húsán. Szemöldökén fény vibrált végig, és ugyanez áradt belőle is, amikor a vállára ejtette szárnyait. De valahogy furcsa volt a tekintete. Amikor felpillantott, a szeméből a legsötétebb mélység rettenete sugárzott. Raj Ahten csapatainak harcedzett katonái felkiáltottak a döbbenettől, a harcikutyák visszahőköltek. és szűkölni kezdtek a rémülettől…

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mika%20Waltari/Cselszovok%20%28679%29/Cselszovok%20-%20Mika%20Waltari.epub)
 
 ### Tagek
-20. század, detektívtörténet, finn szerző, magyar nyelvű, regény, sorozat része, krimi, skandináv
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [finn szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/finn szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skandináv)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mika%20Waltari/Palmu%20felugyelo%20tevedese%20%28685%29/Palmu%20felugyelo%20tevedese%20-%20Mika%20Waltari.epub)
 
 ### Tagek
-20. század, detektívtörténet, finn szerző, gyilkosság, magyar nyelvű, regény, sorozat része, krimi, skandináv
+[20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [finn szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/finn szerző), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [skandináv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skandináv)
 
 ### Összefoglalás
 <div>

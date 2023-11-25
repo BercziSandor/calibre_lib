@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szalai%2C%20Vivien/Stohl%20-%20Oszinten%20%28407%29/Stohl%20-%20Oszinten%20-%20Szalai%2C%20Vivien.epub)
 
 ### Tagek
-bulvár, celeb, életrajz, interjú, magyar nyelvű, magyar szerző, magyarország, színész
+[bulvár](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/bulvár), [celeb](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/celeb), [életrajz](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/életrajz), [interjú](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/interjú), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [magyarország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyarország), [színész](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/színész)
 
 ### Összefoglalás
 <div>

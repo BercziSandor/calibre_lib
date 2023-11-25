@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dan%20Brown/The%20Da%20Vinci%20Code%20%281639%29/The%20Da%20Vinci%20Code%20-%20Dan%20Brown.epub)
 
 ### Tagek
-fiction, thrillers, general
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [thrillers](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thrillers), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general)
 
 ### Összefoglalás
 <div>
@@ -30,7 +30,7 @@ fiction, thrillers, general
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dan%20Brown/Diabolus%20%281636%29/Diabolus%20-%20Dan%20Brown.epub)
 
 ### Tagek
-thriller
+[thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 Die kryptographische Abteilung des US-Geheimdienstes NSA verfügt über einen geheimen Super-Computer, der in der Lage ist, innerhalb kürzester Zeit jeden Code (und somit jede verschlüsselte Botschaft) zu knacken. Der Rechner kommt zum Einsatz, wenn Terroristen, Drogenhändler und andere Kriminelle ihre Pläne mittels codierter Texte verschleiern und die Sicherheit der USA auf dem Spiel steht. In der Vergangenheit konnten die Kryptographen täglich hunderte von Codes knacken - bis zu dem Tage, als Diabolus zum Einsatz kommt: Ein mysteriöses Programm, das den Super-Rechner offenbar überfordert. Der Entwickler des Programms droht, Diabolus der Öffentlichkeit zugänglich zu machen. Würde dieses Programm zum Verschlüsselungs-Standard werden, wäre der erfolgreichen Verbrechensbekämpfung der NSA über Nacht die Basis entzogen. Die Mitarbeiter des Geheimdienstes setzen alle Hebel in Bewegung, das drohende Desaster zu verhindern ...

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Barbara%20Pease/Miert%20hazudik%20a%20ferfi_%20Miert%20sir%20a%20n%20%285%29/Miert%20hazudik%20a%20ferfi_%20Miert%20si%20-%20Barbara%20Pease.epub)
 
 ### Tagek
-ausztrál szerző, ismeretterjesztő, magyar nyelvű, önsegítő, párkapcsolat, általános, pszichológia
+[ausztrál szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ausztrál szerző), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [önsegítő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önsegítő), [párkapcsolat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/párkapcsolat), [általános](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/általános), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ ausztrál szerző, ismeretterjesztő, magyar nyelvű, önsegítő, párkapcsolat
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Barbara%20Pease/A%20ferfinak%20szex%20kell%2C%20a%20nonek%20szere%20%28576%29/A%20ferfinak%20szex%20kell%2C%20a%20nonek%20s%20-%20Barbara%20Pease.epub)
 
 ### Tagek
-ausztrál szerző, ismeretterjesztő, magyar nyelvű, önsegítő, párkapcsolat, pszichológia, szexualitás
+[ausztrál szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ausztrál szerző), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [önsegítő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önsegítő), [párkapcsolat](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/párkapcsolat), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia), [szexualitás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szexualitás)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@ ausztrál szerző, ismeretterjesztő, magyar nyelvű, önsegítő, párkapcsolat
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Barbara%20Pease/A%20testbeszed%20enciklopediaja%20%28294%29/A%20testbeszed%20enciklopediaja%20-%20Barbara%20Pease.epub)
 
 ### Tagek
-ausztrál szerző, ismeretterjesztő, magyar nyelvű, önsegítő, szociológia, társadalomtudomány, testbeszéd, konfliktuskezelés, pszichotechnika, pszichológia, kommunikáció, lexikonok, alkalmazott lélektan
+[ausztrál szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ausztrál szerző), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ismeretterjesztő), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [önsegítő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/önsegítő), [szociológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szociológia), [társadalomtudomány](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/társadalomtudomány), [testbeszéd](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/testbeszéd), [konfliktuskezelés](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/konfliktuskezelés), [pszichotechnika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichotechnika), [pszichológia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszichológia), [kommunikáció](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kommunikáció), [lexikonok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/lexikonok), [alkalmazott lélektan](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/alkalmazott lélektan)
 
 ### Összefoglalás
 <div>

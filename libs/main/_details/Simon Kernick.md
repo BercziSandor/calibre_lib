@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Simon%20Kernick/Rossz%20idoben%2C%20rossz%20helyen%20%281006%29/Rossz%20idoben%2C%20rossz%20helyen%20-%20Simon%20Kernick.epub)
 
 ### Tagek
-brit, gyilkosság, krimi, magyar nyelvű, regény, szingapúr, thriller, irodalom, szórakoztató irodalom
+[brit](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/brit), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [szingapúr](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szingapúr), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom)
 
 ### Összefoglalás
 <div>

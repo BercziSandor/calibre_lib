@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/A%20pusztitas%20konyve%20%281192%29/A%20pusztitas%20konyve%20-%20Dragoman%2C%20Gyorgy.epub)
 
 ### Tagek
-erdélyi, erdélyi magyar szerző, kortárs, magyar nyelvű, magyar szerző, noir irodalom, regény
+[erdélyi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erdélyi), [erdélyi magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erdélyi magyar szerző), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [noir irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/noir irodalom), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ erdélyi, erdélyi magyar szerző, kortárs, magyar nyelvű, magyar szerző, noi
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/Oroszlankorus%20%281191%29/Oroszlankorus%20-%20Dragoman%2C%20Gyorgy.epub)
 
 ### Tagek
-erdélyi magyar szerző, hangoskönyv, kortárs, magyar nyelvű, magyar szerző, novella, zene
+[erdélyi magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erdélyi magyar szerző), [hangoskönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/hangoskönyv), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [zene](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/zene)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@ erdélyi magyar szerző, hangoskönyv, kortárs, magyar nyelvű, magyar szerző,
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/A%20feher%20kiraly%20%281193%29/A%20feher%20kiraly%20-%20Dragoman%2C%20Gyorgy.epub)
 
 ### Tagek
-literary collections, european, general
+[literary collections](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/literary collections), [european](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/european), [general](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/general)
 
 ### Összefoglalás
 <div>
@@ -47,7 +47,7 @@ literary collections, european, general
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/Rendszerujra%20%281223%29/Rendszerujra%20-%20Dragoman%2C%20Gyorgy.epub)
 
 ### Tagek
-disztópia, erdélyi magyar szerző, magyar szerző, fantasztikus, kortárs, magyar, magyar nyelvű, novella, sci-fi
+[disztópia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/disztópia), [erdélyi magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erdélyi magyar szerző), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [fantasztikus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasztikus), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [novella](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/novella), [sci-fi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sci-fi)
 
 ### Összefoglalás
 <div>
@@ -61,7 +61,7 @@ disztópia, erdélyi magyar szerző, magyar szerző, fantasztikus, kortárs, mag
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/Maglya%20%281194%29/Maglya%20-%20Dragoman%2C%20Gyorgy.epub)
 
 ### Tagek
-családtörténet, énregény, erdély, erdélyi magyar szerző, gyermekkor, gyermekszemszög, határon túli, kortárs, mágikus realizmus, magyar nyelvű, magyar szerző, merítés-díj, női főszereplő, regény, rendszerváltás, történelem, szépirodalom
+[családtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/családtörténet), [énregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/énregény), [erdély](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erdély), [erdélyi magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/erdélyi magyar szerző), [gyermekkor](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekkor), [gyermekszemszög](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermekszemszög), [határon túli](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/határon túli), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [mágikus realizmus](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mágikus realizmus), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [merítés-díj](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/merítés-díj), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [rendszerváltás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/rendszerváltás), [történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/történelem), [szépirodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szépirodalom)
 
 ### Összefoglalás
 <div>

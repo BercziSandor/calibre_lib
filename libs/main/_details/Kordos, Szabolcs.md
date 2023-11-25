@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kordos%2C%20Szabolcs/Luxushotel%2C%20Hungary%20%28159%29/Luxushotel%2C%20Hungary%20-%20Kordos%2C%20Szabolcs.epub)
 
 ### Tagek
-21. század, budapest, bulvár, humoros, idegenforgalom, magyar nyelvű, magyar szerző, magyarország, riport, vendéglátás
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [budapest](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/budapest), [bulvár](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/bulvár), [humoros](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/humoros), [idegenforgalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/idegenforgalom), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [magyar szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar szerző), [magyarország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyarország), [riport](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/riport), [vendéglátás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/vendéglátás)
 
 ### Összefoglalás
 <div>

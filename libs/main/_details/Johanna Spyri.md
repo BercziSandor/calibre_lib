@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Johanna%20Spyri/Heidi%20%28983%29/Heidi%20-%20Johanna%20Spyri.epub)
 
 ### Tagek
-átdolgozás, ifjúsági, magyar nyelvű, mese, német szerző, svájci szerző, gyermek és ifjúsági, mesekönyv
+[átdolgozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/átdolgozás), [ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ifjúsági), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [mese](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mese), [német szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/német szerző), [svájci szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/svájci szerző), [gyermek és ifjúsági](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyermek és ifjúsági), [mesekönyv](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/mesekönyv)
 
 ### Összefoglalás
 <div>

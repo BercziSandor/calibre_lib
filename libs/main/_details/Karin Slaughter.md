@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karin%20Slaughter/Nadragulya%20%28788%29/Nadragulya%20-%20Karin%20Slaughter.epub)
 
 ### Tagek
-21. század, amerikai egyesült államok, amerikai szerző, detektívtörténet, georgia, gyilkosság, igazságügyi orvosszakértő, magyar nyelvű, nyomozás, orvos, pszicho-thriller, regény, sorozat része, sorozatgyilkosság, irodalom, szórakoztató irodalom, krimi, bûnügyi, thriller
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [amerikai egyesült államok](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai egyesült államok), [amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [georgia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/georgia), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [igazságügyi orvosszakértő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/igazságügyi orvosszakértő), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [orvos](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/orvos), [pszicho-thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/pszicho-thriller), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozatgyilkosság), [irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/irodalom), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [bûnügyi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/bûnügyi), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karin%20Slaughter/Bor%20%28599%29/Bor%20-%20Karin%20Slaughter.epub)
 
 ### Tagek
-21. század, amerikai szerző, detektívtörténet, gyilkosság, kortárs, magyar nyelvű, nyomozás, regény, sorozat része, krimi, bűnügyi, thriller
+[21. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század), [amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [gyilkosság](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/gyilkosság), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [bűnügyi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/bűnügyi), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karin%20Slaughter/Osszetorve%20%281488%29/Osszetorve%20-%20Karin%20Slaughter.epub)
 
 ### Tagek
-fiction, crime, thrillers, 21. század amerikai egyesült államok amerikai szerző férfi főszereplő gyilkosság krimi magyar nyelvű regény sorozat része thriller
+[fiction](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fiction), [crime](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/crime), [thrillers](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thrillers), [21. század amerikai egyesült államok amerikai szerző férfi főszereplő gyilkosság krimi magyar nyelvű regény sorozat része thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/21. század amerikai egyesült államok amerikai szerző férfi főszereplő gyilkosság krimi magyar nyelvű regény sorozat része thriller)
 
 ### Összefoglalás
 <div>

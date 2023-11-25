@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexander%20McCall%20Smith/Az%20elso%20noi%20detektiv%20iroda%20%28Az%20Elso%20%28921%29/Az%20elso%20noi%20detektiv%20iroda%20-%20Alexander%20McCall%20Smith.epub)
 
 ### Tagek
-afrika, botswana, detektívtörténet, kortárs, krimi, magándetektív, magyar nyelvű, női főszereplő, nyomozás, regény, skót szerző, sorozat része, zimbabwei szerző
+[afrika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/afrika), [botswana](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/botswana), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magándetektív](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magándetektív), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [női főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/női főszereplő), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [skót szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skót szerző), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [zimbabwei szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/zimbabwei szerző)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@ afrika, botswana, detektívtörténet, kortárs, krimi, magándetektív, magyar 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexander%20McCall%20Smith/Zsirafkonnyek%20%28920%29/Zsirafkonnyek%20-%20Alexander%20McCall%20Smith.epub)
 
 ### Tagek
-afrika, botswana, detektívtörténet, kortárs, krimi, magándetektív, magyar nyelvű, nyomozás, regény, skót szerző, sorozat része, zimbabwei szerző
+[afrika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/afrika), [botswana](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/botswana), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magándetektív](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magándetektív), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [nyomozás](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/nyomozás), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [skót szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skót szerző), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [zimbabwei szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/zimbabwei szerző)
 
 ### Összefoglalás
 <div>
@@ -33,7 +33,7 @@ afrika, botswana, detektívtörténet, kortárs, krimi, magándetektív, magyar 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexander%20McCall%20Smith/Erkolcstan%20Szep%20Lanyoknak%20%28918%29/Erkolcstan%20szep%20lanyoknak%20-%20Alexander%20McCall%20Smith.epub)
 
 ### Tagek
-afrika, botswana, detektívtörténet, kortárs, krimi, magándetektív, magyar nyelvű, regény, skót szerző, sorozat része, zimbabwei szerző
+[afrika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/afrika), [botswana](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/botswana), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magándetektív](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magándetektív), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [skót szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skót szerző), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [zimbabwei szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/zimbabwei szerző)
 
 ### Összefoglalás
 <div>
@@ -47,7 +47,7 @@ afrika, botswana, detektívtörténet, kortárs, krimi, magándetektív, magyar 
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexander%20McCall%20Smith/Kalahari%20gepiroiskola%20ferfiak%20resze%20%28919%29/Kalahari%20gepiroiskola%20ferfiak%20r%20-%20Alexander%20McCall%20Smith.epub)
 
 ### Tagek
-afrika, botswana, detektívtörténet, kortárs, krimi, magándetektív, magyar nyelvű, regény, skót szerző, sorozat része, zimbabwei szerző
+[afrika](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/afrika), [botswana](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/botswana), [detektívtörténet](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/detektívtörténet), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [krimi](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/krimi), [magándetektív](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magándetektív), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [skót szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/skót szerző), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [zimbabwei szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/zimbabwei szerző)
 
 ### Összefoglalás
 <div>

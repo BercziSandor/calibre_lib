@@ -42,6 +42,10 @@ class Opf:
                f"{str(self.series_index) + ') ' if self.series_index else ''}" \
                f"{'(' + str(self.dt.year) + ')' if self.dt.year > 101 else ''}"
 
+    def get_tag_link(self, subj):
+        tag_file_link = self.library[0].catalog_url + f"/_details/_tags/{subj}"
+        return f"[{subj}]({tag_file_link})"
+
     def get_md_details(self):
         md_details = ""
         md_details += f"# <a name=\"id_{self.id}\">{self}</a>\n"
@@ -58,7 +62,8 @@ class Opf:
 
         if len(self.subjects) > 0:
             md_details += "### Tagek\n"
-            t = ', '.join(self.subjects)
+            t = ', '.join(self.get_tag_link(subj) for subj in
+                          self.subjects)
             md_details += t.lower()
             md_details += "\n\n"
 

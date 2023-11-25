@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Darren%20Shan/A%20holtak%20vonulasa%20%28277%29/A%20holtak%20vonulasa%20-%20Darren%20Shan.epub)
 
 ### Tagek
-férfi főszereplő, ír szerző, magyar nyelvű, sorozat része, horror, szórakoztató irodalom, kortárs, trilógia, regény, thriller
+[férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [ír szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ír szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [horror](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/horror), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [trilógia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/trilógia), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>
@@ -20,7 +20,7 @@ férfi főszereplő, ír szerző, magyar nyelvű, sorozat része, horror, szóra
  [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Darren%20Shan/A%20Pokol%20Pereme%20%28278%29/A%20pokol%20pereme%20-%20Darren%20Shan.rtf)
 
 ### Tagek
-férfi főszereplő, horror, ír szerző, magyar nyelvű, sorozat része, trilógia, regény, kortárs, szórakoztató irodalom, thriller
+[férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [horror](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/horror), [ír szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ír szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [trilógia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/trilógia), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>
@@ -31,7 +31,7 @@ férfi főszereplő, horror, ír szerző, magyar nyelvű, sorozat része, triló
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Darren%20Shan/A%20Kigyok%20Varosa%20%28279%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-fantasy, férfi főszereplő, horror, ír szerző, magyar nyelvű, sorozat része, trilógia, regény, kortárs, szórakoztató irodalom, thriller
+[fantasy](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/fantasy), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/férfi főszereplő), [horror](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/horror), [ír szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/ír szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [sorozat része](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/sorozat része), [trilógia](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/trilógia), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [kortárs](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kortárs), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/szórakoztató irodalom), [thriller](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/thriller)
 
 ### Összefoglalás
 <div>

@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joseph%20Heywood/Hozd%20el%20nekem%20Hitlert%21%20%28404%29/Hozd%20el%20nekem%20Hitlert%21%20-%20Joseph%20Heywood.epub)
 
 ### Tagek
-1940-es évek, 2. világháború, 20. század, alternatív történelem, amerikai szerző, magyar nyelvű, németország, regény, kalandregény, háború
+[1940-es évek](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/1940-es évek), [2. világháború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/2. világháború), [20. század](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/20. század), [alternatív történelem](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/alternatív történelem), [amerikai szerző](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/amerikai szerző), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/magyar nyelvű), [németország](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/németország), [regény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/regény), [kalandregény](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/kalandregény), [háború](https://github.com/berczisandor/calibre_lib/libs/main/_details/_tags/háború)
 
 ### Összefoglalás
 <div>
