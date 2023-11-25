@@ -59,6 +59,7 @@ def main():
 
     lib = Library(root_dir=library)
     lib.gen_md_by_authors()
+    lib.gen_md_by_tags()
 
 
 if __name__ == '__main__':
