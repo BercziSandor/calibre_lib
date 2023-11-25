@@ -3,7 +3,7 @@ import pathlib
 import sys
 import urllib
 from collections import defaultdict
-from typing import Dict
+from typing import Dict, List
 
 import snakemd
 
@@ -14,14 +14,16 @@ from utils import get_repo_url, find_opf_paths_in_dir
 class Library:
 
     def __init__(self, root_dir: pathlib.Path):
+        self.url = None
         self.root_dir = root_dir
         if not self.root_dir.exists():
             print(f"Input directory {self.root_dir} does not exist, aborting.")
             sys.exit(1)
-        self.repo_url = get_repo_url(root_dir.parent.parent)
-        self.catalog_url = self.repo_url + "/" + root_dir.parent.name + "/" + \
-                           root_dir.parent.parent.name
-        self.opfs = self.get_opfs()
+        self.repo_url: str = get_repo_url(root_dir.parent.parent)
+        self.catalog_url: str = self.repo_url + "/" + root_dir.parent.name + "/" \
+                                + \
+                                root_dir.parent.parent.name
+        self.opfs: List[Opf] = self.get_opfs
 
     @staticmethod
     def sort_books_tag(opfs) -> Dict:
@@ -54,7 +56,7 @@ class Library:
 
         return dict(data_auth_year_series)
 
-    def get_url(self, file_path: pathlib.Path):
+    def get_url(self, file_path: pathlib.Path) -> str:
         u = urllib.parse.quote(
             str(file_path.relative_to(self.root_dir.parent.parent)).replace(
                 '\\', '/'))
@@ -62,15 +64,14 @@ class Library:
         self.url = url
         return url
 
+    @property
     def get_opfs(self):
         opfs = []
         for opf_path in find_opf_paths_in_dir(self.root_dir):
-            opfs.append(Opf.Opf(path=opf_path, repo_url=self.repo_url,
+            opfs.append(Opf.Opf(path=str(opf_path.absolute()),
+                                repo_url=self.repo_url,
                                 library=self))
         return opfs
-
-    def get_md_for_auth(self, creator, books):
-        doc = snakemd.new_doc("Example")
 
     def gen_md_by_tags(self):
         tagList_file_name = 'catalog_tags.md'
@@ -200,12 +201,12 @@ class Library:
         # print(md_content)
         return out_file
 
-    def get_tag_corrected(self, subj):
+    def get_tag_corrected(self, subj) -> str:
         return subj.replace("(", " ").replace(")", " ").replace(
             "\\", "_").replace(
             "/", "_").replace("  ", " ").rstrip().lstrip()
 
-    def get_tag_link(self, subj):
+    def get_tag_link(self, subj) -> str:
         tag_file_link = self.catalog_url.replace('/libs/', '/blob/main/libs/') \
                         + "/_tags/" + \
                         urllib.parse.quote(f"{self.get_tag_corrected(subj)}.md")

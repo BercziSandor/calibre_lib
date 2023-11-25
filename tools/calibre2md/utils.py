@@ -1,10 +1,12 @@
 import os
+import pathlib
 import re
 import subprocess
+from typing import List
 
 
-def get_repo_url(rootDir):
-    repo_url = ''
+def get_repo_url(rootDir) -> str:
+    repo_url: str = ''
     dir_orig = os.getcwd()
 
     if not os.path.exists(os.path.join(rootDir, '.git')):
@@ -22,11 +24,12 @@ def get_repo_url(rootDir):
     return repo_url
 
 
-def find_opf_paths_in_dir(root=os.getcwd(), file_ending='.opf'):
-    found_opf_paths = []
+def find_opf_paths_in_dir(root=os.getcwd(), file_ending='.opf') -> List[pathlib.Path]:
+    found_opf_paths: List[str] = []
     for p, d, files in os.walk(root):
         for file in files:
             if file.lower().endswith(file_ending):
-                found_opf_paths.append(os.path.abspath(os.path.join(p,
-                                                                    file)))
+                found_opf_paths.append(pathlib.Path(os.path.abspath(
+                    os.path.join(p,
+                                 file))))
     return found_opf_paths
