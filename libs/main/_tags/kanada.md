@@ -1,0 +1,18 @@
+# Kanada
+
+- Kathy Reichs: A holtak beszélnek [részletek](../_details/Kathy%20Reichs.md#id_157)
+- Kenneth Roberts: Északnyugati átjáró [részletek](../_details/Kenneth%20Roberts.md#id_745)
+- L. M. Montgomery: A Mesélő Lány [részletek](../_details/L.%20M.%20Montgomery.md#id_492)
+- L. M. Montgomery: Anne az élet iskolájában [részletek](../_details/L.%20M.%20Montgomery.md#id_483)
+- L. M. Montgomery: Anne családja körében [részletek](../_details/L.%20M.%20Montgomery.md#id_484)
+- L. M. Montgomery: Anne és a Szivárvány-völgy [részletek](../_details/L.%20M.%20Montgomery.md#id_485)
+- L. M. Montgomery: Anne férjhez megy [részletek](../_details/L.%20M.%20Montgomery.md#id_486)
+- L. M. Montgomery: Anne gyermekei a háborúban [részletek](../_details/L.%20M.%20Montgomery.md#id_487)
+- L. M. Montgomery: Anne otthonra talál [részletek](../_details/L.%20M.%20Montgomery.md#id_488)
+- L. M. Montgomery: Anne új vizekre evez [részletek](../_details/L.%20M.%20Montgomery.md#id_489)
+- L. M. Montgomery: Anne válaszúton [részletek](../_details/L.%20M.%20Montgomery.md#id_490)
+- L. M. Montgomery: Az arany út [részletek](../_details/L.%20M.%20Montgomery.md#id_491)
+- L. M. Montgomery: Bagolykacaj [részletek](../_details/L.%20M.%20Montgomery.md#id_495)
+- L. M. Montgomery: Forgószél [részletek](../_details/L.%20M.%20Montgomery.md#id_496)
+- L. M. Montgomery: Szerelmek [részletek](../_details/L.%20M.%20Montgomery.md#id_497)
+- Yann Martel: Pi élete [részletek](../_details/Yann%20Martel.md#id_1458)

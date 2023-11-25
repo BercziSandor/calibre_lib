@@ -1,0 +1,14 @@
+# <a name="id_3">Allan Pease: Szó-beszéd (2011)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Allan%20Pease/Szo-beszed%20%283%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Allan%20Pease/Szo-beszed%20%283%29/Szo-beszed%20-%20Allan%20Pease.epub)
+
+### Tagek
+[amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/amerikai%20szerz%c5%91.md), [ausztrál szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/ausztr%c3%a1l%20szerz%c5%91.md), [beszélgetés](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/besz%c3%a9lget%c3%a9s.md), [életmód](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/%c3%a9letm%c3%b3d.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/ismeretterjeszt%c5%91.md), [kommunikáció](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kommunik%c3%a1ci%c3%b3.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [önsegítő](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/%c3%b6nseg%c3%adt%c5%91.md), [tárgyalástechnika](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/t%c3%a1rgyal%c3%a1stechnika.md), [társalgás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/t%c3%a1rsalg%c3%a1s.md), [pszichológia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/pszichol%c3%b3gia.md)
+
+### Összefoglalás
+<div>
+<p>Hogyan használjuk helyesen a nyelvet? Hogyan értsük helyesen partnereink beszédét? Hogyan indítsuk és hogyan tartsuk fenn a beszélgetést? Hogyan hallgassunk másokat, hogy népszerűek és sikeresek legyünk? Hogyan mondjunk őszinte bókokat és hogyan alakítsunk ki beszédünk segítségével hiteles képet magunkról? A könyv­ választ ad a fenti kérdésekre és megtanít a beszéd hatékony használatára.</p></div>
+
+

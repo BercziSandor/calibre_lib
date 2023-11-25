@@ -1,0 +1,10 @@
+# Japán (ország)
+
+- Abe Kóbó: A negyedik jégkorszak [részletek](../_details/Abe%20K%C3%B3b%C3%B3.md#id_948)
+- Akunyin, Borisz: A ​gyémántszekér I-II. [részletek](../_details/Akunyin%2C%20Borisz.md#id_1110)
+- Arthur Golden: Egy gésa emlékiratai [részletek](../_details/Arthur%20Golden.md#id_280)
+- Dean R. Koontz: Kulcs az éjfélhez [részletek](../_details/Dean%20R.%20Koontz.md#id_1082)
+- Holly Smale: A lány, aki mindig mindent félreért [részletek](../_details/Holly%20Smale.md#id_1003)
+- James Clavell: A sógun [részletek](../_details/James%20Clavell.md#id_168)
+- James Clavell: Gajdzsin [részletek](../_details/James%20Clavell.md#id_1028)
+- Viktor Pelevin: Az agyag géppuska [részletek](../_details/Viktor%20Pelevin.md#id_834)

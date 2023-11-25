@@ -1,0 +1,15 @@
+# mitológia
+
+- J. R. R. Tolkien: A szilmarilok [részletek](../_details/J.%20R.%20R.%20Tolkien.md#id_60)
+- Joanne Harris: Rúnajelek [részletek](../_details/Joanne%20Harris.md#id_1125)
+- Jorge Luis Borges: Körkörös romok [részletek](../_details/Jorge%20Luis%20Borges.md#id_1207)
+- Michael Crichton: Ködsárkányok [részletek](../_details/Michael%20Crichton.md#id_755)
+- Neil Gaiman: Anansi fiúk [részletek](../_details/Neil%20Gaiman.md#id_1432)
+- Neil Gaiman: Északi mitológia [részletek](../_details/Neil%20Gaiman.md#id_1435)
+- Rick Riordan: A lángoló Labirintus [részletek](../_details/Rick%20Riordan.md#id_1655)
+- Rick Riordan: Az elrejtett orákulum [részletek](../_details/Rick%20Riordan.md#id_1656)
+- Rick Riordan: Percy Jackson és a görög istenek [részletek](../_details/Rick%20Riordan.md#id_1660)
+- Szabó Magda: A pillanat [részletek](../_details/Szab%C3%B3%20Magda.md#id_1336)
+- Szabó, Magda: Zeusz küszöbén [részletek](../_details/Szab%C3%B3%2C%20Magda.md#id_1343)
+- Umberto Eco: A Foucault-inga [részletek](../_details/Umberto%20Eco.md#id_1024)
+- Viktor Pelevin: A rettenet sisakja [részletek](../_details/Viktor%20Pelevin.md#id_827)

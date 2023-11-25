@@ -1,0 +1,18 @@
+# Action & Adventure
+
+- Fable, Vavyan: A Halkirálynő és a dzsinnek [részletek](../_details/Fable%2C%20Vavyan.md#id_173)
+- Fable, Vavyan: A Hold forró jegén [részletek](../_details/Fable%2C%20Vavyan.md#id_175)
+- Fable, Vavyan: A pokol is elnyeli [részletek](../_details/Fable%2C%20Vavyan.md#id_176)
+- Fable, Vavyan: Apád, anyád ide lőjön! [részletek](../_details/Fable%2C%20Vavyan.md#id_179)
+- Fable, Vavyan: Ébredj velem! [részletek](../_details/Fable%2C%20Vavyan.md#id_180)
+- Fable, Vavyan: Halkirálynő [részletek](../_details/Fable%2C%20Vavyan.md#id_174)
+- Fable, Vavyan: Ki feküdt az ágyamban? [részletek](../_details/Fable%2C%20Vavyan.md#id_181)
+- J. K. Rowling: Harry Potter and the Chamber of Secrets (Book 2) [részletek](../_details/J.%20K.%20Rowling.md#id_711)
+- J. K. Rowling: Harry Potter és az azkabani fogoly [részletek](../_details/J.%20K.%20Rowling.md#id_20)
+- James Joyce: Ulysses [részletek](../_details/James%20Joyce.md#id_1473)
+- Rejtő, Jenő: A pokol zsoldosai [részletek](../_details/Rejt%C5%91%2C%20Jen%C5%91.md#id_124)
+- Rejtő, Jenő: Az ellopott futár [részletek](../_details/Rejt%C5%91%2C%20Jen%C5%91.md#id_133)
+- Rejtő, Jenő: Csontbrigád [részletek](../_details/Rejt%C5%91%2C%20Jen%C5%91.md#id_139)
+- Rejtő, Jenő: Menni vagy meghalni [részletek](../_details/Rejt%C5%91%2C%20Jen%C5%91.md#id_145)
+- Rejtő, Jenő: Nincs kegyelem [részletek](../_details/Rejt%C5%91%2C%20Jen%C5%91.md#id_146)
+- Tom Harper: Titkok könyve [részletek](../_details/Tom%20Harper.md#id_614)
