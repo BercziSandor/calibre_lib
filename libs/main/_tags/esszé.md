@@ -1,6 +1,6 @@
 # esszé
 
-- Akunyin, Borisz: Temetői történetek [részletek](_details/Akunyin%2C%20Borisz.md#id_714)
-- Hamvas Béla: Scientia sacra [részletek](_details/Hamvas%20B%C3%A9la.md#id_777)
-- Robert Fulghum: Már az óvodában megtanultam mindent, amit tudni érdemes [részletek](_details/Robert%20Fulghum.md#id_1302)
-- Szabó, Magda: Hullámok kergetése [részletek](_details/Szab%C3%B3%2C%20Magda.md#id_1359)
+- Akunyin, Borisz: Temetői történetek [részletek](../_details/Akunyin%2C%20Borisz.md#id_714)
+- Hamvas Béla: Scientia sacra [részletek](../_details/Hamvas%20B%C3%A9la.md#id_777)
+- Robert Fulghum: Már az óvodában megtanultam mindent, amit tudni érdemes [részletek](../_details/Robert%20Fulghum.md#id_1302)
+- Szabó, Magda: Hullámok kergetése [részletek](../_details/Szab%C3%B3%2C%20Magda.md#id_1359)

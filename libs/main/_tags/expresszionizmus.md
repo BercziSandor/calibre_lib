@@ -1,3 +1,3 @@
 # expresszionizmus
 
-- Jevgenyij Zamjatyin: Mi [részletek](_details/Jevgenyij%20Zamjatyin.md#id_607)
+- Jevgenyij Zamjatyin: Mi [részletek](../_details/Jevgenyij%20Zamjatyin.md#id_607)

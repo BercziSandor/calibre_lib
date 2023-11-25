@@ -90,14 +90,14 @@ class Library:
             tag_file = self.root_dir / "_tags" / f"{self.get_tag_corrected(tag)}.md"
 
             # generate content for tag X
-            docTag = snakemd.new_doc("Example")
+            docTag = snakemd.new_doc(tag)
             docTag.add_header(tag)
             opfs = books_tags.get(tag)
             books = []
             for opf in opfs:
                 if len(opf.books) > 0:
                     details_file_name_quoted = urllib.parse.quote(
-                        f"_details/{opf.creator}.md")
+                        "../_details/" + opf.creator + ".md")
                     link_details = f"[részletek]({details_file_name_quoted}#id_{opf.id})"
                     books.append(f"{opf.creator}: {opf.title} {link_details}")
             docTag.add_unordered_list(books)

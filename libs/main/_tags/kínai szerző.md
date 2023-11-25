@@ -1,3 +1,3 @@
 # kínai szerző
 
-- Cixin Liu: A háromtest-probléma [részletek](_details/Cixin%20Liu.md#id_1451)
+- Cixin Liu: A háromtest-probléma [részletek](../_details/Cixin%20Liu.md#id_1451)

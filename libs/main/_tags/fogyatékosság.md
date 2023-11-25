@@ -1,3 +1,3 @@
 # fogyatékosság
 
-- Anne Holt: 1222 [részletek](_details/Anne%20Holt.md#id_958)
+- Anne Holt: 1222 [részletek](../_details/Anne%20Holt.md#id_958)

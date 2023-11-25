@@ -1,4 +1,4 @@
 # ördög
 
-- Imre, Viktória Anna: Kísértés Rt. [részletek](_details/Imre%2C%20Vikt%C3%B3ria%20Anna.md#id_632)
-- Stephen King: Minden haláli [részletek](_details/Stephen%20King.md#id_573)
+- Imre, Viktória Anna: Kísértés Rt. [részletek](../_details/Imre%2C%20Vikt%C3%B3ria%20Anna.md#id_632)
+- Stephen King: Minden haláli [részletek](../_details/Stephen%20King.md#id_573)

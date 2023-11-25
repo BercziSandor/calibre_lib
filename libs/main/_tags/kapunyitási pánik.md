@@ -1,3 +1,3 @@
 # kapunyitási pánik
 
-- Erlend Loe: Naiv.Szuper. [részletek](_details/Erlend%20Loe.md#id_532)
+- Erlend Loe: Naiv.Szuper. [részletek](../_details/Erlend%20Loe.md#id_532)

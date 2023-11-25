@@ -1,3 +1,3 @@
 # Új-Zéland
 
-- Gerald Durrell: Vadászat felvevőgéppel [részletek](_details/Gerald%20Durrell.md#id_863)
+- Gerald Durrell: Vadászat felvevőgéppel [részletek](../_details/Gerald%20Durrell.md#id_863)

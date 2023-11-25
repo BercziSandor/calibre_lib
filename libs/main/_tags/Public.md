@@ -1,3 +1,3 @@
 # Public
 
-- Erich Kästner: A repülő osztály [részletek](_details/Erich%20K%C3%A4stner.md#id_964)
+- Erich Kästner: A repülő osztály [részletek](../_details/Erich%20K%C3%A4stner.md#id_964)
