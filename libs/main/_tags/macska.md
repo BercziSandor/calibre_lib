@@ -1,0 +1,15 @@
+# macska
+
+- Cassandra Clare: Hamuváros [részletek](../_details/Cassandra%20Clare.md#id_636)
+- Desmond Morris: Miért csinálja…? A macska [részletek](../_details/Desmond%20Morris.md#id_415)
+- James Herriot: A repülő állatorvos [részletek](../_details/James%20Herriot.md#id_929)
+- James Herriot: Egy állatorvos történetei [részletek](../_details/James%20Herriot.md#id_926)
+- L. M. Montgomery: A Mesélő Lány [részletek](../_details/L.%20M.%20Montgomery.md#id_492)
+- L. M. Montgomery: Az arany út [részletek](../_details/L.%20M.%20Montgomery.md#id_491)
+- Lars Kepler: A Paganini-szerződés [részletek](../_details/Lars%20Kepler.md#id_674)
+- Mieshelle Nagelschneider: Macskákkal suttogó [részletek](../_details/Mieshelle%20Nagelschneider.md#id_1437)
+- Mihail Bulgakov: A Mester és Margarita [részletek](../_details/Mihail%20Bulgakov.md#id_275)
+- Neil Gaiman: Coraline (angol) [részletek](../_details/Neil%20Gaiman.md#id_1431)
+- Pam Johnson-Bennett: Gondolkodj macskául [részletek](../_details/Pam%20Johnson-Bennett.md#id_1438)
+- Polcz, Alaine: Macskaregény [részletek](../_details/Polcz%2C%20Alaine.md#id_1439)
+- Rachel Vincent: Stray – Kóborok [részletek](../_details/Rachel%20Vincent.md#id_428)

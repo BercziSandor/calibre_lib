@@ -1,0 +1,18 @@
+# New York
+
+- Alan Glynn: Csúcshatás [részletek](../_details/Alan%20Glynn.md#id_295)
+- Augusten Burroughs: Kiszáradva [részletek](../_details/Augusten%20Burroughs.md#id_968)
+- Cassandra Clare: Bukott angyalok városa [részletek](../_details/Cassandra%20Clare.md#id_638)
+- Cassandra Clare: Csontváros [részletek](../_details/Cassandra%20Clare.md#id_635)
+- Cassandra Clare: Hamuváros [részletek](../_details/Cassandra%20Clare.md#id_636)
+- Dean R. Koontz: Pokoli hordák [részletek](../_details/Dean%20R.%20Koontz.md#id_1077)
+- Dean R. Koontz: Rettegés [részletek](../_details/Dean%20R.%20Koontz.md#id_1076)
+- Erlend Loe: Naiv.Szuper. [részletek](../_details/Erlend%20Loe.md#id_532)
+- Ljudmila Ulickaja: Vidám temetés [részletek](../_details/Ljudmila%20Ulickaja.md#id_1288)
+- P. G. Wodehouse: Folytassa, Jeeves! [részletek](../_details/P.%20G.%20Wodehouse.md#id_502)
+- P. G. Wodehouse: Halihó, Jeeves! [részletek](../_details/P.%20G.%20Wodehouse.md#id_945)
+- Robin Cook: Fertőzés [részletek](../_details/Robin%20Cook.md#id_89)
+- Salman Rushdie: Fúriadüh [részletek](../_details/Salman%20Rushdie.md#id_1452)
+- Stephen King: A hármak elhívatása [részletek](../_details/Stephen%20King.md#id_540)
+- Stephen King: Callai farkasok [részletek](../_details/Stephen%20King.md#id_847)
+- Stephen King: Susannah dala [részletek](../_details/Stephen%20King.md#id_542)

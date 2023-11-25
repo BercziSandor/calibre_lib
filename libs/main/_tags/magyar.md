@@ -1,0 +1,17 @@
+# magyar
+
+- Böszörményi, Gyula: Ármány ​és kézfogó [részletek](../_details/B%C3%B6sz%C3%B6rm%C3%A9nyi%2C%20Gyula.md#id_1565)
+- Böszörményi Gyula: Bitó és borostyán [részletek](../_details/B%C3%B6sz%C3%B6rm%C3%A9nyi%20Gyula.md#id_1578)
+- Dragomán, György: Rendszerújra [részletek](../_details/Dragom%C3%A1n%2C%20Gy%C3%B6rgy.md#id_1223)
+- Grecsó, Krisztián: Harminc év napsütés [részletek](../_details/Grecs%C3%B3%2C%20Kriszti%C3%A1n.md#id_1227)
+- Kepes, András: Istenek és emberek [részletek](../_details/Kepes%2C%20Andr%C3%A1s.md#id_1232)
+- Kepes, András: Tövispuszta [részletek](../_details/Kepes%2C%20Andr%C3%A1s.md#id_109)
+- Kivaghy, Krisztián: A manipuláció tudománya [részletek](../_details/Kivaghy%2C%20Kriszti%C3%A1n.md#id_293)
+- Králig, Helga: Állati egypercesek [részletek](../_details/Kr%C3%A1lig%2C%20Helga.md#id_928)
+- Leiner, Laura: Ez is Remek!! [részletek](../_details/Leiner%2C%20Laura.md#id_1475)
+- Leiner, Laura: Maradj velem [részletek](../_details/Leiner%2C%20Laura.md#id_1477)
+- Megyesi, Zoltán: Titkosírások [részletek](../_details/Megyesi%2C%20Zolt%C3%A1n.md#id_413)
+- Moldova, György: Az utóvéd [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1372)
+- Náray, Tamás: Zarah [részletek](../_details/N%C3%A1ray%2C%20Tam%C3%A1s.md#id_1234)
+- Náray, Tamás: Zarah öröksége [részletek](../_details/N%C3%A1ray%2C%20Tam%C3%A1s.md#id_1233)
+- Wass, Albert: Jönnek! / Adjátok vissza a hegyeimet! [részletek](../_details/Wass%2C%20Albert.md#id_220)

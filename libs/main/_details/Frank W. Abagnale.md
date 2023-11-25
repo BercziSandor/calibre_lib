@@ -1,0 +1,14 @@
+# <a name="id_669">Frank W. Abagnale: Kapj el, ha tudsz (2003)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frank%20W.%20Abagnale/Kapj%20el%2C%20ha%20tudsz%20%28669%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frank%20W.%20Abagnale/Kapj%20el%2C%20ha%20tudsz%20%28669%29/Kapj%20el%2C%20ha%20tudsz%20-%20Frank%20W.%20Abagnale.epub)
+
+### Tagek
+[amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/amerikai%20szerz%c5%91.md), [bűnözés](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/b%c5%b1n%c3%b6z%c3%a9s.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/hangosk%c3%b6nyv.md), [igaz történet alapján](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/igaz%20t%c3%b6rt%c3%a9net%20alapj%c3%a1n.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kaland.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [önéletrajz](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/%c3%b6n%c3%a9letrajz.md), [utazás](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/utaz%c3%a1s.md), [börtön](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/b%c3%b6rt%c3%b6n.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [igaz történet](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/igaz%20t%c3%b6rt%c3%a9net.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reg%c3%a9ny.md), [repülés](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/rep%c3%bcl%c3%a9s.md), [true crime](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/true%20crime.md)
+
+### Összefoglalás
+<div>
+<p>Frank W. Abagnale, alias Frank Williams, Robert Conrad, Frank Adams és Robert Monjo a világ legpofátlanabb szélhámosa, hamisítója, imposztora és menekülőművésze. Rövid, de annál tartalmasabb bűnözői karrierje során, még nagykorúsága elérése előtt egyenruhát öltött, és Pan Am-pilótának, majd rezidens felügyelő orvosnak adta ki magát. Diploma nélkül ügyészkedett, szociológiát tanított az egyetemen, és 2,4 millió dollárt kaszált hamis csekkjeivel. Huszonhat ország rendőrsége körözte, majd hosszú éveket töltött francia, svéd és amerikai börtönökben. Lenyűgöző könyve nyomán Steven Spielberg forgatott filmet, amelyben Leonardo DiCaprio alakítja a főszerepet.</p></div>
+
+

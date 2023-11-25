@@ -1,0 +1,13 @@
+# Literary
+
+- David Vann: Akvárium [részletek](../_details/David%20Vann.md#id_946)
+- Emma Donoghue: A szoba [részletek](../_details/Emma%20Donoghue.md#id_356)
+- Ernest Hemingway: Akiért a harang szól [részletek](../_details/Ernest%20Hemingway.md#id_1196)
+- Ernest Hemingway: Az öreg halász és a tenger [részletek](../_details/Ernest%20Hemingway.md#id_1025)
+- J. D. Salinger: Rozsban a fogó [részletek](../_details/J.%20D.%20Salinger.md#id_1409)
+- Jane Austen: Emma [részletek](../_details/Jane%20Austen.md#id_57)
+- Jostein Gaarder: A kártya titka [részletek](../_details/Jostein%20Gaarder.md#id_1410)
+- Vonnegut, Kurt: Breakfast of Champions [részletek](../_details/Vonnegut%2C%20Kurt.md#id_1614)
+- Vonnegut, Kurt: Deadeye Dick [részletek](../_details/Vonnegut%2C%20Kurt.md#id_1616)
+- Vonnegut, Kurt: The Sirens of Titan: A Novel [részletek](../_details/Vonnegut%2C%20Kurt.md#id_1621)
+- Vonnegut, Kurt: Galápagos [részletek](../_details/Vonnegut%2C%20Kurt.md#id_1619)

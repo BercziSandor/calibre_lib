@@ -1,0 +1,17 @@
+# rendőr
+
+- Dean R. Koontz: Pokoli hordák [részletek](../_details/Dean%20R.%20Koontz.md#id_1077)
+- Dean R. Koontz: Téli hold [részletek](../_details/Dean%20R.%20Koontz.md#id_1075)
+- Fable, Vavyan: A halál zsoldjában [részletek](../_details/Fable%2C%20Vavyan.md#id_701)
+- Fable, Vavyan: A Halkirálynő és a dzsinnek [részletek](../_details/Fable%2C%20Vavyan.md#id_173)
+- Fable, Vavyan: A Hold forró jegén [részletek](../_details/Fable%2C%20Vavyan.md#id_175)
+- Fable, Vavyan: A pokol is elnyeli [részletek](../_details/Fable%2C%20Vavyan.md#id_176)
+- Fable, Vavyan: Ébredj velem! [részletek](../_details/Fable%2C%20Vavyan.md#id_180)
+- Fable, Vavyan: Ki feküdt az ágyamban? [részletek](../_details/Fable%2C%20Vavyan.md#id_181)
+- Fable, Vavyan: Mogorva nyár [részletek](../_details/Fable%2C%20Vavyan.md#id_1152)
+- Fable, Vavyan: Szamurájszív [részletek](../_details/Fable%2C%20Vavyan.md#id_1014)
+- Fable, Vavyan: Szennyből az angyal [részletek](../_details/Fable%2C%20Vavyan.md#id_1159)
+- Fable, Vavyan: Vészbejárat [részletek](../_details/Fable%2C%20Vavyan.md#id_1154)
+- Jo Nesbø: Denevérember [részletek](../_details/Jo%20Nesb%C3%B8.md#id_581)
+- Jo Nesbø: Police [részletek](../_details/Jo%20Nesb%C3%B8.md#id_578)
+- Robin Cook: Invázió [részletek](../_details/Robin%20Cook.md#id_92)

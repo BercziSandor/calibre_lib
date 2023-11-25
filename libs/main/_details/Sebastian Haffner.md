@@ -1,0 +1,15 @@
+# <a name="id_1445">Sebastian Haffner: A Német Birodalom hét főbűne az első világháborúban (2008)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sebastian%20Haffne/A%20Nemet%20Birodalom%20het%20fobune%20az%20els%20%281445%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sebastian%20Haffne/A%20Nemet%20Birodalom%20het%20fobune%20az%20els%20%281445%29/A%20Nemet%20Birodalom%20het%20fobune%20az%20-%20Sebastian%20Haffne.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sebastian%20Haffne/A%20Nemet%20Birodalom%20het%20fobune%20az%20els%20%281445%29/A%20Nemet%20Birodalom%20het%20fobune%20az%20-%20Sebastian%20Haffner.epub)
+
+### Tagek
+[20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/20.%20sz%c3%a1zad.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [német szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/n%c3%a9met%20szerz%c5%91.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/t%c3%b6rt%c3%a9nelem.md)
+
+### Összefoglalás
+<div>
+<p>Sebastian ​Haffner, remek történelmi esszék jól ismert szerzője – Megjegyzések Hitlerhez, Churchill, Egy német története, Az elárult forradalom – hét főbűnt ír a vilmosi birodalom számlájára, úgymint: 1. letérés a bismarcki politika útjáról, 2. a Schlieffen-terv, 3. 1916-ban: a békekötés elmulasztása, 4. a korlátlan tengeralattjáró-háború, 5. Oroszország bolsevizálása, 6. a kétfrontos háború folytatása Breszt-Litovszk után, 7. a vereség kezelése a végjátékban. Mindezekkel a bűnökkel csak a híres történész vita szembesítette az NSZK társadalmát, fél évszázaddal a világháború kitörése után. Maga Haffner később így írt tanulmányáról, mely 1964-ben jelent meg először: „A hatvanas években, különösen az évtized elején mindenekelőtt az első világháborúról szóló, úgynevezett 'Fischer-vita' foglalkoztatta a német történészeket. A vitát Fritz Fischer Kísérlet a világuralom megragadására című munkája indította el, egy monumentális vádirat, amely a német háborús célok politikáját veszi górcső alá. Ezt a szerző Az illúziók háborúja című műve követte, amely ugyanilyen súlyos vádakkal illeti a háború előtti német politikát… A vita eredményeképpen teljesen más, sokkal távolságtartóbb kép alakult ki a Német Birodalom első világháborús szerepéről. A polémia összefoglalásának Peter Kielmannsegg Németország és az első világháború című műve tekinthető, amely 1968-ban jelent meg. Büszke vagyok rá, hogy jelen, rövidre fogott, inkább zsurnalisztikai, mint szaktörténészi próbálkozásomat, amelyben megkíséreltem a Fischer-vita eredményeit a saját értelmezésem szerint összefoglalni és a szélesebb olvasóközönséggel megismertetni, Kielmannsegg négy évvel később kiadott, nagy műve inkább igazolja, mint cáfolja.”</p></div>
+
+

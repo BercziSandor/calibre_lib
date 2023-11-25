@@ -1,0 +1,16 @@
+# francia
+
+- Anna Gavalda: Vigaszág [részletek](../_details/Anna%20Gavalda.md#id_15)
+- James Clavell: Gajdzsin [részletek](../_details/James%20Clavell.md#id_1028)
+- Laura D.: Szex és tandíj [részletek](../_details/Laura%20D..md#id_904)
+- Michael Crichton: Idővonal [részletek](../_details/Michael%20Crichton.md#id_754)
+- Philippe Pozzo Di Borgo: Életrevalók [részletek](../_details/Philippe%20Pozzo%20Di%20Borgo.md#id_1267)
+- Robert Merle: A gyermekkirály [részletek](../_details/Robert%20Merle.md#id_323)
+- Robert Merle: A pirkadat [részletek](../_details/Robert%20Merle.md#id_324)
+- Robert Merle: Az élet rózsái [részletek](../_details/Robert%20Merle.md#id_328)
+- Robert Merle: Csikóéveink [részletek](../_details/Robert%20Merle.md#id_329)
+- Robert Merle: Francia história [részletek](../_details/Robert%20Merle.md#id_330)
+- Robert Merle: Libben a szoknya [részletek](../_details/Robert%20Merle.md#id_332)
+- Robert Merle: Szenvedélyes szeretet [részletek](../_details/Robert%20Merle.md#id_338)
+- Robert Merle: Veszedelem és dicsőség [részletek](../_details/Robert%20Merle.md#id_341)
+- Wm. Paul Young: A viskó [részletek](../_details/Wm.%20Paul%20Young.md#id_962)
