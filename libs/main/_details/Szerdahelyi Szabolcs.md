@@ -1,8 +1,8 @@
 # <a name="id_903">Szerdahelyi Szabolcs: Szex-tusa (1988)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szerdahelyi%20Szabolcs/Szex-tusa%20%28903%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szerdahelyi%20Szabolcs/Szex-tusa%20%28903%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szerdahelyi%20Szabolcs/Szex-tusa%20%28903%29/Szex-tusa%20-%20Szerdahelyi%20Szabolcs.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szerdahelyi%20Szabolcs/Szex-tusa%20%28903%29/Szex-tusa%20-%20Szerdahelyi%20Szabolcs.epub)
 
 ### Tagek
 20. század, magyar nyelvű, magyarország, 1980-as évek, nemi élet, nemi szerep, párkapcsolat, szexualitás, szociológia, társadalomrajz

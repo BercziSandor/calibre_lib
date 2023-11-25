@@ -1,8 +1,8 @@
 # <a name="id_391">Fodor, Sándor: Csipike (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fodor%2C%20Sandor/Csipike%20%28391%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fodor%2C%20Sandor/Csipike%20%28391%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fodor%2C%20Sandor/Csipike%20%28391%29/Csipike%20-%20Fodor%2C%20Sandor.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fodor%2C%20Sandor/Csipike%20%28391%29/Csipike%20-%20Fodor%2C%20Sandor.epub)
 
 ### Tagek
 állat, erdélyi magyar szerző, erdő, gyermekkönyv kicsiknek, illusztrált, magyar nyelvű, magyar szerző, törpe, meseregény, az író származása szerint, gyermek- és ifjúsági irodalom, szépirodalom, mesék, erdélyi magyar írók, tartalom szerint

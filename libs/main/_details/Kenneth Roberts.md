@@ -1,8 +1,8 @@
 # <a name="id_745">Kenneth Roberts: Északnyugati átjáró (1992)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kenneth%20Roberts/Eszaknyugati%20atjaro%20%28745%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kenneth%20Roberts/Eszaknyugati%20atjaro%20%28745%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kenneth%20Roberts/Eszaknyugati%20atjaro%20%28745%29/Eszaknyugati%20atjaro%20-%20Kenneth%20Roberts.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kenneth%20Roberts/Eszaknyugati%20atjaro%20%28745%29/Eszaknyugati%20atjaro%20-%20Kenneth%20Roberts.epub)
 
 ### Tagek
 18. század, 20. század, amerikai egyesült államok, amerikai szerző, anglia, erőszak, felfedezés, filmadaptáció, gyarmatosítás, háború, indián, kaland, kalandregény, kanada, katonaság, klasszikus, london, magyar nyelvű, regény, történelem

@@ -1,8 +1,8 @@
 # <a name="id_998">Majtényi, Zoltán: A furfangos Thyl (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Majtenyi%2C%20Zoltan/A%20furfangos%20Thyl%20%28998%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Majtenyi%2C%20Zoltan/A%20furfangos%20Thyl%20%28998%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Majtenyi%2C%20Zoltan/A%20furfangos%20Thyl%20%28998%29/A%20furfangos%20Thyl%20-%20Majtenyi%2C%20Zoltan.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Majtenyi%2C%20Zoltan/A%20furfangos%20Thyl%20%28998%29/A%20furfangos%20Thyl%20-%20Majtenyi%2C%20Zoltan.epub)
 
 ### Tagek
 magyar nyelvű, magyar szerző, regény, 20. század, 16. század, átdolgozás, gyermek- és ifjúsági irodalom, ifjúsági, németalföld, szabadságharc, történelem, történelmi regény

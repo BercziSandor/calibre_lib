@@ -1,8 +1,8 @@
 # <a name="id_718">George Lucas: Csillagok háborúja (Csillagok háborúja 4) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/George%20Lucas/Csillagok%20haboruja%20%28718%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20Lucas/Csillagok%20haboruja%20%28718%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20Lucas/Csillagok%20haboruja%20%28718%29/Csillagok%20haboruja%20-%20George%20Lucas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20Lucas/Csillagok%20haboruja%20%28718%29/Csillagok%20haboruja%20-%20George%20Lucas.epub)
 
 ### Tagek
 akció, amerikai szerző, filmből készült könyv, kaland, magyar nyelvű, sorozat része, űropera, regény, sci-fi

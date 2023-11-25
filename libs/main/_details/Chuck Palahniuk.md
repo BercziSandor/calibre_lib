@@ -1,8 +1,8 @@
 # <a name="id_1600">Chuck Palahniuk: Halálraítélt (Kárhozott 2) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Chuck%20Palahniuk/Halalraitelt%20%281600%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Chuck%20Palahniuk/Halalraitelt%20%281600%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Chuck%20Palahniuk/Halalraitelt%20%281600%29/Halalraitelt%20-%20Chuck%20Palahniuk.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Chuck%20Palahniuk/Halalraitelt%20%281600%29/Halalraitelt%20-%20Chuck%20Palahniuk.epub)
 
 ### Tagek
 regény, szatíra, szellemek, túlvilág
@@ -13,10 +13,10 @@ regény, szatíra, szellemek, túlvilág
 
 
 # <a name="id_662">Chuck Palahniuk: Cigányút (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Chuck%20Palahniuk/Ciganyut%20%28662%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Chuck%20Palahniuk/Ciganyut%20%28662%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Chuck%20Palahniuk/Ciganyut%20%28662%29/Ciganyut%20-%20Chuck%20Palahniuk.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Chuck%20Palahniuk/Ciganyut%20%28662%29/Ciganyut%20-%20Chuck%20Palahniuk.epub)
 
 ### Tagek
 1001 könyv listán szerepel, 21. század, amerikai szerző, antihős, felnőtt tartalom, filmadaptáció, függőség, kortárs, magyar nyelvű, regény, szexuális perverzió
@@ -27,10 +27,10 @@ regény, szatíra, szellemek, túlvilág
 
 
 # <a name="id_663">Chuck Palahniuk: Altató (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Chuck%20Palahniuk/Altato%20%28663%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Chuck%20Palahniuk/Altato%20%28663%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Chuck%20Palahniuk/Altato%20%28663%29/Altato%20-%20Chuck%20Palahniuk.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Chuck%20Palahniuk/Altato%20%28663%29/Altato%20-%20Chuck%20Palahniuk.epub)
 
 ### Tagek
 21. század, amerikai szerző, fogyasztói társadalom, horror, kortárs, magyar nyelvű, regény
@@ -41,10 +41,10 @@ regény, szatíra, szellemek, túlvilág
 
 
 # <a name="id_660">Chuck Palahniuk: Harcosok klubja (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Chuck%20Palahniuk/Harcosok%20klubja%20%28660%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Chuck%20Palahniuk/Harcosok%20klubja%20%28660%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Chuck%20Palahniuk/Harcosok%20klubja%20%28660%29/Harcosok%20klubja%20-%20Chuck%20Palahniuk.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Chuck%20Palahniuk/Harcosok%20klubja%20%28660%29/Harcosok%20klubja%20-%20Chuck%20Palahniuk.epub)
 
 ### Tagek
 20. század, amerikai egyesült államok, amerikai szerző, delaware, erőszak, felnőtt tartalom, férfi főszereplő, filmadaptáció, fogyasztói társadalom, klasszikus, kortárs, krimi, kult, magyar nyelvű, minimalista próza, posztmodern, pszichés betegség, regény, szatíra, személyiségzavar, irodalom, szépirodalom

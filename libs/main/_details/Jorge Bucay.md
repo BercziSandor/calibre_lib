@@ -1,8 +1,8 @@
 # <a name="id_385">Jorge Bucay: Nyitott szemmel szeretni (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jorge%20Bucay/Nyitott%20szemmel%20szeretni%20%28385%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jorge%20Bucay/Nyitott%20szemmel%20szeretni%20%28385%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jorge%20Bucay/Nyitott%20szemmel%20szeretni%20%28385%29/Nyitott%20szemmel%20szeretni%20-%20Jorge%20Bucay.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jorge%20Bucay/Nyitott%20szemmel%20szeretni%20%28385%29/Nyitott%20szemmel%20szeretni%20-%20Jorge%20Bucay.epub)
 
 ### Tagek
 argentin szerző, gestaltpszichológia, magyar nyelvű, regény, párkapcsolat, argentína

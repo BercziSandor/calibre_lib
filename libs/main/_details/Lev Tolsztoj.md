@@ -1,8 +1,8 @@
 # <a name="id_778">Lev Tolsztoj: Anna Karenina (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Lev%20Tolsztoj/Anna%20Karenina%20%28778%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lev%20Tolsztoj/Anna%20Karenina%20%28778%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lev%20Tolsztoj/Anna%20Karenina%20%28778%29/Anna%20Karenina%20-%20Lev%20Tolsztoj.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lev%20Tolsztoj/Anna%20Karenina%20%28778%29/Anna%20Karenina%20-%20Lev%20Tolsztoj.epub)
 
 ### Tagek
 1001 könyv listán szerepel, 111 híres regény, 19. század, arisztokrácia, emberi sorsok, filmadaptáció, házasság, klasszikus, kötelező, lélektani, magyar nyelvű, nagy könyv, női főszereplő, orosz realizmus, orosz szerző, oroszország, párkapcsolat, realizmus, regény
@@ -13,10 +13,10 @@
 
 
 # <a name="id_563">Lev Tolsztoj: Háború és béke (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Lev%20Tolsztoj/Haboru%20es%20beke%20%28563%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lev%20Tolsztoj/Haboru%20es%20beke%20%28563%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lev%20Tolsztoj/Haboru%20es%20beke%20%28563%29/Haboru%20es%20beke%20-%20Lev%20Tolsztoj.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lev%20Tolsztoj/Haboru%20es%20beke%20%28563%29/Haboru%20es%20beke%20-%20Lev%20Tolsztoj.epub)
 
 ### Tagek
 1001 könyv listán szerepel, 111 híres regény, 18. század, 1800-as évek, 1810-es évek, 19. század, arisztokrácia, emberi sorsok, filmadaptáció, háború, klasszikus, lélekrajz, magyar nyelvű, nagy könyv, orosz, orosz realizmus, orosz szerző, oroszország, realizmus, egyéb, európa, novella, az író származása szerint, szépirodalom, történelmi regények, elbeszélés, orosz föderáció, romantikus regények, újkor, regény, kor- és társadalomrajz, tartalom szerint

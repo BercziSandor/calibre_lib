@@ -1,8 +1,8 @@
 # <a name="id_977">Augusten Burroughs: Farkas az asztalnál (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Augusten%20Burroughs/Farkas%20az%20asztalnal%20%28977%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Augusten%20Burroughs/Farkas%20az%20asztalnal%20%28977%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Augusten%20Burroughs/Farkas%20az%20asztalnal%20%28977%29/Farkas%20az%20asztalnal%20-%20Augusten%20Burroughs.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Augusten%20Burroughs/Farkas%20az%20asztalnal%20%28977%29/Farkas%20az%20asztalnal%20-%20Augusten%20Burroughs.epub)
 
 ### Tagek
 amerikai szerző, családon belüli erőszak, gyermekbántalmazás, kortárs, magyar nyelvű, regény
@@ -13,10 +13,10 @@ amerikai szerző, családon belüli erőszak, gyermekbántalmazás, kortárs, ma
 
 
 # <a name="id_968">Augusten Burroughs: Kiszáradva (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Augusten%20Burroughs/Kiszaradva%20%28968%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Augusten%20Burroughs/Kiszaradva%20%28968%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Augusten%20Burroughs/Kiszaradva%20%28968%29/Kiszaradva%20-%20Augusten%20Burroughs.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Augusten%20Burroughs/Kiszaradva%20%28968%29/Kiszaradva%20-%20Augusten%20Burroughs.epub)
 
 ### Tagek
 alkoholizmus, amerikai szerző, függőség, kortárs, lmbtq, magyar nyelvű, memoár, new york, irodalom, szépirodalom

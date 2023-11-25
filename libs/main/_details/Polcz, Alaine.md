@@ -1,8 +1,8 @@
 # <a name="id_1440">Polcz, Alaine: Ideje a meghalásnak (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Ideje%20a%20meghalasnak%20%281440%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Polcz%2C%20Alaine/Ideje%20a%20meghalasnak%20%281440%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Ideje%20a%20meghalasnak%20%281440%29/Ideje%20a%20meghalasnak%20-%20Polcz%2C%20Alaine.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Polcz%2C%20Alaine/Ideje%20a%20meghalasnak%20%281440%29/Ideje%20a%20meghalasnak%20-%20Polcz%2C%20Alaine.epub)
 
 ### Tagek
 erdélyi magyar szerző, gyász, halál, ismeretterjesztő, magyar nyelvű, magyar szerző, pszichológia, tanatológia, tudományos
@@ -12,10 +12,10 @@ erdélyi magyar szerző, gyász, halál, ismeretterjesztő, magyar nyelvű, magy
 
 
 # <a name="id_1441">Polcz, Alaine: Meghalok én is? (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Meghalok%20en%20is_%20%281441%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Polcz%2C%20Alaine/Meghalok%20en%20is_%20%281441%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Meghalok%20en%20is_%20%281441%29/Meghalok%20en%20is_%20-%20Polcz%2C%20Alaine.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Polcz%2C%20Alaine/Meghalok%20en%20is_%20%281441%29/Meghalok%20en%20is_%20-%20Polcz%2C%20Alaine.epub)
 
 ### Tagek
 erdélyi magyar szerző, gyermeklélektan, gyermekszemszög, halál, kortárs, magyar nyelvű, magyar szerző, pszichológia, tanatológia
@@ -26,10 +26,10 @@ erdélyi magyar szerző, gyermeklélektan, gyermekszemszög, halál, kortárs, m
 
 
 # <a name="id_1442">Polcz, Alaine: Rend és rendetlenség (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Rend%20es%20rendetlenseg%20%281442%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Polcz%2C%20Alaine/Rend%20es%20rendetlenseg%20%281442%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Rend%20es%20rendetlenseg%20%281442%29/Rend%20es%20rendetlenseg%20-%20Polcz%2C%20Alaine.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Polcz%2C%20Alaine/Rend%20es%20rendetlenseg%20%281442%29/Rend%20es%20rendetlenseg%20-%20Polcz%2C%20Alaine.epub)
 
 ### Tagek
 életmód, erdélyi magyar szerző, ismeretterjesztő, magyar nyelvű, magyar szerző, pszichológia, szociálpszichológia, tanulmány, psychology, lifestyle, self-help
@@ -40,16 +40,16 @@ erdélyi magyar szerző, gyermeklélektan, gyermekszemszög, halál, kortárs, m
 
 
 # <a name="id_1504">Polcz, Alaine: Kit siratok? Mit siratok? (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Kit%20siratok_%20Mit%20siratok_%20%281504%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Polcz%2C%20Alaine/Kit%20siratok_%20Mit%20siratok_%20%281504%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Kit%20siratok_%20Mit%20siratok_%20%281504%29/Kit%20siratok_%20Mit%20siratok_%20-%20Polcz%2C%20Alaine.pdf)
+[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Polcz%2C%20Alaine/Kit%20siratok_%20Mit%20siratok_%20%281504%29/Kit%20siratok_%20Mit%20siratok_%20-%20Polcz%2C%20Alaine.pdf)
 
 # <a name="id_1439">Polcz, Alaine: Macskaregény (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Macskaregeny%20%281439%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Polcz%2C%20Alaine/Macskaregeny%20%281439%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Macskaregeny%20%281439%29/Macskaregeny%20-%20Polcz%2C%20Alaine.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Polcz%2C%20Alaine/Macskaregeny%20%281439%29/Macskaregeny%20-%20Polcz%2C%20Alaine.epub)
 
 ### Tagek
 20. század, állattörténet, erdélyi magyar szerző, hangoskönyv, kortárs, kutya, macska, magyar nyelvű, magyar szerző, memoár

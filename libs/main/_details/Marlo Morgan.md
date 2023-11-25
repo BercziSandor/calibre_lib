@@ -1,8 +1,8 @@
 # <a name="id_1010">Marlo Morgan: Vidd hírét az Igazaknak (Vidd hírét az Igazaknak 1) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Marlo%20Morgan/Vidd%20hiret%20az%20Igazaknak%20%281010%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Marlo%20Morgan/Vidd%20hiret%20az%20Igazaknak%20%281010%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Marlo%20Morgan/Vidd%20hiret%20az%20Igazaknak%20%281010%29/Vidd%20hiret%20az%20Igazaknak%20-%20Marlo%20Morgan.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Marlo%20Morgan/Vidd%20hiret%20az%20Igazaknak%20%281010%29/Vidd%20hiret%20az%20Igazaknak%20-%20Marlo%20Morgan.epub)
 
 ### Tagek
 amerikai szerző, ausztrál, ausztrália, indián, kortárs, kultúra, lélektani, magyar nyelvű, néprajz, női főszereplő, őslakos, regény, sorozat része, spiritualitás, útleírás, irodalom, szépirodalom

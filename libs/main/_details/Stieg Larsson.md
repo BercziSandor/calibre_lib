@@ -1,8 +1,8 @@
 # <a name="id_29">Stieg Larsson: A tetovált lány (Millennium 1) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stieg%20Larsson/A%20tetovalt%20lany%20%2829%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stieg%20Larsson/A%20tetovalt%20lany%20%2829%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stieg%20Larsson/A%20tetovalt%20lany%20%2829%29/A%20tetovalt%20lany%20-%20Stieg%20Larsson.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stieg%20Larsson/A%20tetovalt%20lany%20%2829%29/A%20tetovalt%20lany%20-%20Stieg%20Larsson.epub)
 
 ### Tagek
 2000-es évek, 21. század, családon belüli erőszak, erőszak, filmadaptáció, hangoskönyv, kaland, kortárs, kult, lmbtq, magyar nyelvű, női főszereplő, nyomozás, regény, skandináv, sorozat része, svéd szerző, thriller, újságírás, krimi, szórakoztató irodalom, szépirodalom
@@ -13,10 +13,10 @@
 
 
 # <a name="id_26">Stieg Larsson: A lány, aki a tűzzel játszik (Millennium 2) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stieg%20Larsson/A%20Lany%2C%20Aki%20a%20Tuzzel%20Jatszik%20%2826%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stieg%20Larsson/A%20Lany%2C%20Aki%20a%20Tuzzel%20Jatszik%20%2826%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stieg%20Larsson/A%20Lany%2C%20Aki%20a%20Tuzzel%20Jatszik%20%2826%29/A%20lany%2C%20aki%20a%20tuzzel%20jatszik%20-%20Stieg%20Larsson.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stieg%20Larsson/A%20Lany%2C%20Aki%20a%20Tuzzel%20Jatszik%20%2826%29/A%20lany%2C%20aki%20a%20tuzzel%20jatszik%20-%20Stieg%20Larsson.epub)
 
 ### Tagek
 2000-es évek, 21. század, erőszak, filmadaptáció, gyilkosság, hangoskönyv, kortárs, magyar nyelvű, nők elleni erőszak, nyomozás, prostitúció, regény, skandináv, sorozat része, svéd szerző, thriller, újságírás, újságíró, krimi, szórakoztató irodalom, szépirodalom
@@ -27,10 +27,10 @@
 
 
 # <a name="id_27">Stieg Larsson: A kártyavár összedől (Millennium 3) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stieg%20Larsson/A%20kartyavar%20osszedol%20%2827%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stieg%20Larsson/A%20kartyavar%20osszedol%20%2827%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stieg%20Larsson/A%20kartyavar%20osszedol%20%2827%29/A%20kartyavar%20osszedol%20-%20Stieg%20Larsson.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stieg%20Larsson/A%20kartyavar%20osszedol%20%2827%29/A%20kartyavar%20osszedol%20-%20Stieg%20Larsson.epub)
 
 ### Tagek
 21. század, filmadaptáció, hangoskönyv, kalandregény, kémregény, magyar nyelvű, politika, regény, sorozat része, svéd szerző, thriller, titkosszolgálat, újságírás, skandináv, millennium trilógia, svéd, újságíró, kortárs, politikai krimi, krimi

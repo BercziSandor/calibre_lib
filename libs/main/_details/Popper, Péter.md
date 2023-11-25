@@ -1,8 +1,8 @@
 # <a name="id_763">Popper, Péter: Lélekrágcsálók (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Popper%2C%20Peter/Lelekragcsalok%20%28763%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Popper%2C%20Peter/Lelekragcsalok%20%28763%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Popper%2C%20Peter/Lelekragcsalok%20%28763%29/Lelekragcsalok%20-%20Popper%2C%20Peter.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Popper%2C%20Peter/Lelekragcsalok%20%28763%29/Lelekragcsalok%20-%20Popper%2C%20Peter.epub)
 
 ### Tagek
 bibliai történetek, depresszió, előadás, ismeretterjesztő, keresztény, konfliktuskezelés, magyar nyelvű, magyar szerző, nevelés, önismeret, önsegítő, párkapcsolat, szorongás, szülői szerep, társas kapcsolatok, pszichológia

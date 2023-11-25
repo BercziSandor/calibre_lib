@@ -1,8 +1,8 @@
 # <a name="id_1448">Brian Innes: A kínzás és kínvallatás története (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Brian%20Innes/A%20kinzas%20es%20kinvallatas%20tortenete%20%281448%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Brian%20Innes/A%20kinzas%20es%20kinvallatas%20tortenete%20%281448%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Brian%20Innes/A%20kinzas%20es%20kinvallatas%20tortenete%20%281448%29/A%20kinzas%20es%20kinvallatas%20tortene%20-%20Brian%20Innes.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Brian%20Innes/A%20kinzas%20es%20kinvallatas%20tortenete%20%281448%29/A%20kinzas%20es%20kinvallatas%20tortene%20-%20Brian%20Innes.epub)
 
 ### Tagek
 emberi jogok, erőszak, inkvizíció, korai újkor, középkor, magyar nyelvű, ókor, technikatörténet, történelem, újkor

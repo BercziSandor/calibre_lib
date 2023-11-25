@@ -1,8 +1,8 @@
 # <a name="id_277">Darren Shan: A holtak vonulása (Város-trilógia 1) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Darren%20Shan/A%20holtak%20vonulasa%20%28277%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Darren%20Shan/A%20holtak%20vonulasa%20%28277%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Darren%20Shan/A%20holtak%20vonulasa%20%28277%29/A%20holtak%20vonulasa%20-%20Darren%20Shan.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Darren%20Shan/A%20holtak%20vonulasa%20%28277%29/A%20holtak%20vonulasa%20-%20Darren%20Shan.epub)
 
 ### Tagek
 férfi főszereplő, ír szerző, magyar nyelvű, sorozat része, horror, szórakoztató irodalom, kortárs, trilógia, regény, thriller
@@ -13,11 +13,11 @@ férfi főszereplő, ír szerző, magyar nyelvű, sorozat része, horror, szóra
 
 
 # <a name="id_278">Darren Shan: A pokol pereme (Város-trilógia 2) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Darren%20Shan/A%20Pokol%20Pereme%20%28278%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Darren%20Shan/A%20Pokol%20Pereme%20%28278%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Darren%20Shan/A%20Pokol%20Pereme%20%28278%29/A%20pokol%20pereme%20-%20Darren%20Shan.epub) 
- [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Darren%20Shan/A%20Pokol%20Pereme%20%28278%29/A%20pokol%20pereme%20-%20Darren%20Shan.rtf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Darren%20Shan/A%20Pokol%20Pereme%20%28278%29/A%20pokol%20pereme%20-%20Darren%20Shan.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Darren%20Shan/A%20Pokol%20Pereme%20%28278%29/A%20pokol%20pereme%20-%20Darren%20Shan.rtf)
 
 ### Tagek
 férfi főszereplő, horror, ír szerző, magyar nyelvű, sorozat része, trilógia, regény, kortárs, szórakoztató irodalom, thriller
@@ -28,7 +28,7 @@ férfi főszereplő, horror, ír szerző, magyar nyelvű, sorozat része, triló
 
 
 # <a name="id_279">Darren Shan: A kígyók városa (Város-trilógia 3) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Darren%20Shan/A%20Kigyok%20Varosa%20%28279%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Darren%20Shan/A%20Kigyok%20Varosa%20%28279%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 fantasy, férfi főszereplő, horror, ír szerző, magyar nyelvű, sorozat része, trilógia, regény, kortárs, szórakoztató irodalom, thriller

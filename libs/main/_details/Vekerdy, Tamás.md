@@ -1,8 +1,8 @@
 # <a name="id_616">Vekerdy, Tamás: Gyerekek, óvodák, iskolák (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Vekerdy%2C%20Tamas/Gyerekek%2C%20ovodak%2C%20iskolak%20%28616%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vekerdy%2C%20Tamas/Gyerekek%2C%20ovodak%2C%20iskolak%20%28616%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vekerdy%2C%20Tamas/Gyerekek%2C%20ovodak%2C%20iskolak%20%28616%29/Gyerekek%2C%20ovodak%2C%20iskolak%20-%20Vekerdy%2C%20Tamas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vekerdy%2C%20Tamas/Gyerekek%2C%20ovodak%2C%20iskolak%20%28616%29/Gyerekek%2C%20ovodak%2C%20iskolak%20-%20Vekerdy%2C%20Tamas.epub)
 
 ### Tagek
 gyermeklélektan, gyermeknevelés, iskola, ismeretterjesztő, magyar nyelvű, magyar szerző, oktatás, óvoda, társ. tudományok

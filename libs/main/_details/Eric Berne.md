@@ -1,9 +1,9 @@
 # <a name="id_905">Eric Berne: Szex a szerelemben (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Eric%20Berne/Szex%20a%20szerelemben%20%28905%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Eric%20Berne/Szex%20a%20szerelemben%20%28905%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[djvu](https://github.com/BercziSandor/calibre_lib/raw/main/Eric%20Berne/Szex%20a%20szerelemben%20%28905%29/Szex%20a%20szerelemben%20-%20Eric%20Berne.djvu) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Eric%20Berne/Szex%20a%20szerelemben%20%28905%29/Szex%20a%20szerelemben%20-%20Eric%20Berne.epub)
+[djvu](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Eric%20Berne/Szex%20a%20szerelemben%20%28905%29/Szex%20a%20szerelemben%20-%20Eric%20Berne.djvu) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Eric%20Berne/Szex%20a%20szerelemben%20%28905%29/Szex%20a%20szerelemben%20-%20Eric%20Berne.epub)
 
 ### Tagek
 kanadai szerző, magyar nyelvű, párkapcsolat, pszichológia, társas kapcsolatok, társ. tudományok
@@ -14,10 +14,10 @@ kanadai szerző, magyar nyelvű, párkapcsolat, pszichológia, társas kapcsolat
 
 
 # <a name="id_291">Eric Berne: Emberi játszmák (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Eric%20Berne/Emberi%20Jatszmak%20%28291%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Eric%20Berne/Emberi%20Jatszmak%20%28291%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Eric%20Berne/Emberi%20Jatszmak%20%28291%29/Emberi%20jatszmak%20-%20Eric%20Berne.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Eric%20Berne/Emberi%20Jatszmak%20%28291%29/Emberi%20jatszmak%20-%20Eric%20Berne.epub)
 
 ### Tagek
 amerikai, ismeretterjesztő, kanadai szerző, magyar nyelvű, önsegítő, szociálpszichológia, szociológia, társas kapcsolatok, házasság, pszichológia, személyiségpszichológia, szexualitás
@@ -28,10 +28,10 @@ amerikai, ismeretterjesztő, kanadai szerző, magyar nyelvű, önsegítő, szoci
 
 
 # <a name="id_292">Eric Berne: Sorskönyv (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Eric%20Berne/Sorskonyv%20%28292%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Eric%20Berne/Sorskonyv%20%28292%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Eric%20Berne/Sorskonyv%20%28292%29/Sorskonyv%20-%20Eric%20Berne.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Eric%20Berne/Sorskonyv%20%28292%29/Sorskonyv%20-%20Eric%20Berne.epub)
 
 ### Tagek
 ismeretterjesztő, kanadai szerző, magyar nyelvű, szociálpszichológia, társas kapcsolatok, tudományos, pszichológia

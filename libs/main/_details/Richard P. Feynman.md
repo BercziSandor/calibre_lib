@@ -1,8 +1,8 @@
 # <a name="id_820">Richard P. Feynman: „Tréfál, Feynman úr?” (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Richard%20P.%20Feynman/%2C%2CTrefal%2C%20Feynman%20ur__%20%28820%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Richard%20P.%20Feynman/%2C%2CTrefal%2C%20Feynman%20ur__%20%28820%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Richard%20P.%20Feynman/%2C%2CTrefal%2C%20Feynman%20ur__%20%28820%29/%2C%2CTrefal%2C%20Feynman%20ur__%20-%20Richard%20P.%20Feynman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Richard%20P.%20Feynman/%2C%2CTrefal%2C%20Feynman%20ur__%20%28820%29/%2C%2CTrefal%2C%20Feynman%20ur__%20-%20Richard%20P.%20Feynman.epub)
 
 ### Tagek
 amerikai szerző, férfi főszereplő, festészet, fizika, humoros, intelligencia, ismeretterjesztő, magyar nyelvű, önéletrajz, tudományos

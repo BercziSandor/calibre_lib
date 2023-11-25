@@ -1,8 +1,8 @@
 # <a name="id_383">Jonas Jonasson: A százéves ember, aki kimászott az ablakon és eltűnt (A százéves ember aki... 1) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jonas%20Jonasson/A%20szazeves%20ember%2C%20aki%20kimaszott%20az%20%28383%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jonas%20Jonasson/A%20szazeves%20ember%2C%20aki%20kimaszott%20az%20%28383%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jonas%20Jonasson/A%20szazeves%20ember%2C%20aki%20kimaszott%20az%20%28383%29/A%20szazeves%20ember%2C%20aki%20kimaszott%20-%20Jonas%20Jonasson.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jonas%20Jonasson/A%20szazeves%20ember%2C%20aki%20kimaszott%20az%20%28383%29/A%20szazeves%20ember%2C%20aki%20kimaszott%20-%20Jonas%20Jonasson.epub)
 
 ### Tagek
 21. század, amerikai egyesült államok, elefánt, hangoskönyv, humoros, kaland, kalandregény, kína, magyar nyelvű, oroszország, sztálin, korrupció, diáklázadás, humor, világháború, 20. század, korrajz, svéd, hidegháború, szórakoztató irodalom, gulág, történelmi személy, kortárs, párizs, regény, 2. világháború, indonézia
@@ -12,10 +12,10 @@
 
 
 # <a name="id_984">Jonas Jonasson: Gyilkos-Anders és barátai (meg akik nem azok) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jonas%20Jonasson/Gyilkos-Anders%20es%20baratai%20%28meg%20akik%20%28984%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jonas%20Jonasson/Gyilkos-Anders%20es%20baratai%20%28meg%20akik%20%28984%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jonas%20Jonasson/Gyilkos-Anders%20es%20baratai%20%28meg%20akik%20%28984%29/Gyilkos-Anders%20es%20baratai%20%28meg%20-%20Jonas%20Jonasson.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jonas%20Jonasson/Gyilkos-Anders%20es%20baratai%20%28meg%20akik%20%28984%29/Gyilkos-Anders%20es%20baratai%20%28meg%20-%20Jonas%20Jonasson.epub)
 
 ### Tagek
 fekete humor, kortárs, magyar nyelvű, svéd szerző, egyház, humoros, prostitúció, regény, svéd, humor
@@ -26,10 +26,10 @@ fekete humor, kortárs, magyar nyelvű, svéd szerző, egyház, humoros, prostit
 
 
 # <a name="id_668">Jonas Jonasson: Az analfabéta, aki tudott számolni (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jonas%20Jonasson/Az%20analfabeta%2C%20aki%20tudott%20szamolni%20%28668%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jonas%20Jonasson/Az%20analfabeta%2C%20aki%20tudott%20szamolni%20%28668%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jonas%20Jonasson/Az%20analfabeta%2C%20aki%20tudott%20szamolni%20%28668%29/Az%20analfabeta%2C%20aki%20tudott%20szamo%20-%20Jonas%20Jonasson.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jonas%20Jonasson/Az%20analfabeta%2C%20aki%20tudott%20szamolni%20%28668%29/Az%20analfabeta%2C%20aki%20tudott%20szamo%20-%20Jonas%20Jonasson.epub)
 
 ### Tagek
 21. század, humoros, kortárs, magyar nyelvű, regény, svéd szerző, humor

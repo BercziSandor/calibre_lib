@@ -1,9 +1,9 @@
 # <a name="id_416">Desmond Morris: Miért csinálja…? A ló (Miért csinálja...? 1) (1993)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Desmond%20Morris/Miert%20csinalja_._%20A%20lo%20%28416%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Desmond%20Morris/Miert%20csinalja_._%20A%20lo%20%28416%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Desmond%20Morris/Miert%20csinalja_._%20A%20lo%20%28416%29/Miert%20csinalja_._%20A%20lo%20-%20Desmond%20Morris.epub) 
- [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Desmond%20Morris/Miert%20csinalja_._%20A%20lo%20%28416%29/Miert%20csinalja_._%20A%20lo%20-%20Desmond%20Morris.rtf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Desmond%20Morris/Miert%20csinalja_._%20A%20lo%20%28416%29/Miert%20csinalja_._%20A%20lo%20-%20Desmond%20Morris.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Desmond%20Morris/Miert%20csinalja_._%20A%20lo%20%28416%29/Miert%20csinalja_._%20A%20lo%20-%20Desmond%20Morris.rtf)
 
 ### Tagek
 brit szerző, emlősök, magyar nyelvű, ismeretterjesztő, természettudomány, ló, etológia, állatvilág
@@ -14,11 +14,11 @@ brit szerző, emlősök, magyar nyelvű, ismeretterjesztő, természettudomány,
 
 
 # <a name="id_415">Desmond Morris: Miért csinálja…? A macska (Miért csinálja...? 2) (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Desmond%20Morris/Miert%20csinalja_._%20A%20macska%20%28415%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Desmond%20Morris/Miert%20csinalja_._%20A%20macska%20%28415%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Desmond%20Morris/Miert%20csinalja_._%20A%20macska%20%28415%29/Miert%20csinalja_._%20A%20macska%20-%20Desmond%20Morris.epub) 
- [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Desmond%20Morris/Miert%20csinalja_._%20A%20macska%20%28415%29/Miert%20csinalja_._%20A%20macska%20-%20Desmond%20Morris.rtf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Desmond%20Morris/Miert%20csinalja_._%20A%20macska%20%28415%29/Miert%20csinalja_._%20A%20macska%20-%20Desmond%20Morris.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Desmond%20Morris/Miert%20csinalja_._%20A%20macska%20%28415%29/Miert%20csinalja_._%20A%20macska%20-%20Desmond%20Morris.rtf)
 
 ### Tagek
 állat, állattan, állattartás, állatvilág, brit szerző, emlősök, etológia, háziállat, ismeretterjesztő, macska, magyar nyelvű, természettudomány
@@ -29,7 +29,7 @@ brit szerző, emlősök, magyar nyelvű, ismeretterjesztő, természettudomány,
 
 
 # <a name="id_536">Desmond Morris: A csupasz majom (1989)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Desmond%20Morris/A%20csupasz%20majom%20%28536%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Desmond%20Morris/A%20csupasz%20majom%20%28536%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 20. század, antropológia, biológia, brit szerző, etológia, evolúció, evolúcióbiológia, evolúciós pszichológia, humánetológia, ismeretterjesztő, magyar nyelvű, természettudomány, tudományos
@@ -40,10 +40,10 @@ brit szerző, emlősök, magyar nyelvű, ismeretterjesztő, természettudomány,
 
 
 # <a name="id_1722">Desmond Morris: Miért csinálja ...? a kutya: nélkülözhetetlen útmutato a kutyák viselkedéséhez (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Desmond%20Morris/Miert%20csinalja%20_._%20a%20kutya_%20nelkulo%20%281722%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Desmond%20Morris/Miert%20csinalja%20_._%20a%20kutya_%20nelkulo%20%281722%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[djvu](https://github.com/BercziSandor/calibre_lib/raw/main/Desmond%20Morris/Miert%20csinalja%20_._%20a%20kutya_%20nelkulo%20%281722%29/Miert%20csinalja%20_._%20a%20kutya_%20nel%20-%20Desmond%20Morris.djvu)
+[djvu](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Desmond%20Morris/Miert%20csinalja%20_._%20a%20kutya_%20nelkulo%20%281722%29/Miert%20csinalja%20_._%20a%20kutya_%20nel%20-%20Desmond%20Morris.djvu)
 
 ### Tagek
 kutya

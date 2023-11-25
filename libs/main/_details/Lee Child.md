@@ -1,8 +1,8 @@
 # <a name="id_1206">Lee Child: Eltűnt ellenség (Jack Reacher 8) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Lee%20Child/Eltunt%20ellenseg%20%281206%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lee%20Child/Eltunt%20ellenseg%20%281206%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lee%20Child/Eltunt%20ellenseg%20%281206%29/Eltunt%20ellenseg%20-%20Lee%20Child.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lee%20Child/Eltunt%20ellenseg%20%281206%29/Eltunt%20ellenseg%20-%20Lee%20Child.epub)
 
 ### Tagek
 akció, brit szerző, detektívtörténet, gyilkosság, krimi, magyar nyelvű, nyomozás, rejtély, sorozat része, thriller
@@ -13,10 +13,10 @@ akció, brit szerző, detektívtörténet, gyilkosság, krimi, magyar nyelvű, n
 
 
 # <a name="id_392">Lee Child: Csak egy lövés (Jack Reacher 9) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Lee%20Child/Csak%20egy%20loves%20%28392%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lee%20Child/Csak%20egy%20loves%20%28392%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lee%20Child/Csak%20egy%20loves%20%28392%29/Csak%20egy%20loves%20-%20Lee%20Child.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lee%20Child/Csak%20egy%20loves%20%28392%29/Csak%20egy%20loves%20-%20Lee%20Child.epub)
 
 ### Tagek
 akció, brit szerző, detektívtörténet, filmadaptáció, gyilkosság, indiana, katonaság, krimi, magyar nyelvű, nyomozás, sorozat része, thriller

@@ -1,8 +1,8 @@
 # <a name="id_1446">Bret Easton Ellis: Amerikai psycho (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bret%20Easton%20Ellis/Amerikai%20Psycho%20%281446%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bret%20Easton%20Ellis/Amerikai%20Psycho%20%281446%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bret%20Easton%20Ellis/Amerikai%20Psycho%20%281446%29/Amerikai%20psycho%20-%20Bret%20Easton%20Ellis.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bret%20Easton%20Ellis/Amerikai%20Psycho%20%281446%29/Amerikai%20psycho%20-%20Bret%20Easton%20Ellis.epub)
 
 ### Tagek
 1001 könyv listán szerepel, 1980-as évek, 20. század, amerikai egyesült államok, amerikai szerző, antihős, bűnözés, erőszak, fekete humor, felnőtt tartalom, férfi főszereplő, filmadaptáció, fogyasztói társadalom, gyilkosság, halál, horror, kortárs, krimi, kult, magyar nyelvű
@@ -13,10 +13,10 @@
 
 
 # <a name="id_1447">Bret Easton Ellis: Az informátorok (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bret%20Easton%20Ellis/Az%20informatorok%20%281447%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bret%20Easton%20Ellis/Az%20informatorok%20%281447%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bret%20Easton%20Ellis/Az%20informatorok%20%281447%29/Az%20informatorok%20-%20Bret%20Easton%20Ellis.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bret%20Easton%20Ellis/Az%20informatorok%20%281447%29/Az%20informatorok%20-%20Bret%20Easton%20Ellis.epub)
 
 ### Tagek
 1980-as évek, 20. század, amerikai egyesült államok, amerikai szerző, elbeszélés, filmadaptáció, kalifornia, los angeles, magyar nyelvű, minimalista próza, novella, összetett regény, regény
@@ -27,10 +27,10 @@
 
 
 # <a name="id_1273">Bret Easton Ellis: Nullánál is kevesebb (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bret%20Easton%20Ellis/Nullanal%20is%20kevesebb%20%281273%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bret%20Easton%20Ellis/Nullanal%20is%20kevesebb%20%281273%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bret%20Easton%20Ellis/Nullanal%20is%20kevesebb%20%281273%29/Nullanal%20is%20kevesebb%20-%20Bret%20Easton%20Ellis.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bret%20Easton%20Ellis/Nullanal%20is%20kevesebb%20%281273%29/Nullanal%20is%20kevesebb%20-%20Bret%20Easton%20Ellis.epub)
 
 ### Tagek
 1001 könyv listán szerepel, 1980-as évek, 20. század, amerikai egyesült államok, amerikai szerző, drog, filmadaptáció, kalifornia, kortárs, los angeles, magyar nyelvű, minimalista próza, regény, társadalomkritika

@@ -1,8 +1,8 @@
 # <a name="id_802">Elizabeth Gilbert: Ízek, imák, szerelmek (Eat, Pray, Love 1) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Elizabeth%20Gilbert/Izek%2C%20imak%2C%20szerelmek%20%28802%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Elizabeth%20Gilbert/Izek%2C%20imak%2C%20szerelmek%20%28802%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Elizabeth%20Gilbert/Izek%2C%20imak%2C%20szerelmek%20%28802%29/Izek%2C%20imak%2C%20szerelmek%20-%20Elizabeth%20Gilbert.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Elizabeth%20Gilbert/Izek%2C%20imak%2C%20szerelmek%20%28802%29/Izek%2C%20imak%2C%20szerelmek%20-%20Elizabeth%20Gilbert.epub)
 
 ### Tagek
 21. század, amerikai egyesült államok, amerikai szerző, bali, barátság, depresszió, filmadaptáció, házasság, humoros, india, indonézia, kortárs, magyar nyelvű, női főszereplő, olaszország, regény, róma, romantikus, sorozat része, spiritualitás

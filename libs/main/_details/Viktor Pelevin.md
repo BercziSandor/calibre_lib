@@ -1,8 +1,8 @@
 # <a name="id_837">Viktor Pelevin: A rovarok élete (1999)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20rovarok%20elete%20%28837%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/A%20rovarok%20elete%20%28837%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20rovarok%20elete%20%28837%29/A%20rovarok%20elete%20-%20Viktor%20Pelevin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/A%20rovarok%20elete%20%28837%29/A%20rovarok%20elete%20-%20Viktor%20Pelevin.epub)
 
 ### Tagek
 1001 könyv listán szerepel, 20. század, kortárs, mágikus realizmus, magyar nyelvű, orosz szerző, posztmodern, regény
@@ -13,11 +13,11 @@ Egy krími üdülőhelyen alkoholmérgezést kap a helyi lakosság véréből pr
 
 
 # <a name="id_835">Viktor Pelevin: A tervhivatal hercege – Elbeszélések (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20tervhivatal%20hercege%20-%20Elbeszelese%20%28835%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/A%20tervhivatal%20hercege%20-%20Elbeszelese%20%28835%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20tervhivatal%20hercege%20-%20Elbeszelese%20%28835%29/A%20tervhivatal%20hercege%20-%20Elbesze%20-%20Viktor%20Pelevin.epub) 
- [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20tervhivatal%20hercege%20-%20Elbeszelese%20%28835%29/A%20tervhivatal%20hercege%20-%20Elbesze%20-%20Viktor%20Pelevin.rtf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/A%20tervhivatal%20hercege%20-%20Elbeszelese%20%28835%29/A%20tervhivatal%20hercege%20-%20Elbesze%20-%20Viktor%20Pelevin.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/A%20tervhivatal%20hercege%20-%20Elbeszelese%20%28835%29/A%20tervhivatal%20hercege%20-%20Elbesze%20-%20Viktor%20Pelevin.rtf)
 
 ### Tagek
 irodalom, szépirodalom
@@ -27,10 +27,10 @@ irodalom, szépirodalom
 
 
 # <a name="id_830">Viktor Pelevin: Kristályvilág (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Kristalyvilag%20%28830%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/Kristalyvilag%20%28830%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Kristalyvilag%20%28830%29/Kristalyvilag%20-%20Viktor%20Pelevin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/Kristalyvilag%20%28830%29/Kristalyvilag%20-%20Viktor%20Pelevin.epub)
 
 ### Tagek
 kortárs, magyar nyelvű, novella, orosz szerző, zsebkönyv
@@ -40,10 +40,10 @@ Ott lenni Pelevinnél nem időfecsérlés, mert elragad a talált világok karne
 
 
 # <a name="id_826">Viktor Pelevin: A hunok harmóniája (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20hunok%20harmoniaja%20%28826%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/A%20hunok%20harmoniaja%20%28826%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20hunok%20harmoniaja%20%28826%29/A%20hunok%20harmoniaja%20-%20Viktor%20Pelevin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/A%20hunok%20harmoniaja%20%28826%29/A%20hunok%20harmoniaja%20-%20Viktor%20Pelevin.epub)
 
 ### Tagek
 kortárs, magyar nyelvű, orosz szerző
@@ -53,7 +53,7 @@ Minden azzal kezdődött, hogy egyszer napközben Vera életében először nem 
 
 
 # <a name="id_836">Viktor Pelevin: A Metamor Szent Könyve (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20Metamor%20Szent%20Konyve%20%28836%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/A%20Metamor%20Szent%20Konyve%20%28836%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 orosz szerző, regény, magyar nyelvű, kortárs, urban fantasy, alakváltó, orosz, fantasy
@@ -66,10 +66,10 @@ Pelevin új regénye – a szerzőtől meglepő módon – a szerelemről szól.
 
 
 # <a name="id_828">Viktor Pelevin: A Sárga Nyíl (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20Sarga%20Nyil%20%28828%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/A%20Sarga%20Nyil%20%28828%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20Sarga%20Nyil%20%28828%29/A%20Sarga%20Nyil%20-%20Viktor%20Pelevin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/A%20Sarga%20Nyil%20%28828%29/A%20Sarga%20Nyil%20-%20Viktor%20Pelevin.epub)
 
 ### Tagek
 kortárs, magyar nyelvű, novella, orosz szerző
@@ -82,10 +82,10 @@ A Hírek Nepálból és a Buldózeristák napja visszavarázsol minket a kései 
 
 
 # <a name="id_829">Viktor Pelevin: Empire 'V' (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Empire%20%27V%27%20%28829%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/Empire%20%27V%27%20%28829%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Empire%20%27V%27%20%28829%29/Empire%20%27V%27%20-%20Viktor%20Pelevin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/Empire%20%27V%27%20%28829%29/Empire%20%27V%27%20-%20Viktor%20Pelevin.epub)
 
 ### Tagek
 fantasy, kortárs, magyar nyelvű, orosz szerző, urban fantasy, vámpír
@@ -98,11 +98,11 @@ Romannak – immár II. Rama néven – sok mindent meg kell tanulnia, hogy igaz
 
 
 # <a name="id_832">Viktor Pelevin: P5 – Pindosztán politikai pigmeusai – Pá, pederaszták (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/P5%20-%20Pindosztan%20politikai%20pigmeusai%20%28832%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/P5%20-%20Pindosztan%20politikai%20pigmeusai%20%28832%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/P5%20-%20Pindosztan%20politikai%20pigmeusai%20%28832%29/P5%20-%20Pindosztan%20politikai%20pigme%20-%20Viktor%20Pelevin.epub) 
- [prc](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/P5%20-%20Pindosztan%20politikai%20pigmeusai%20%28832%29/P5%20-%20Pindosztan%20politikai%20pigme%20-%20Viktor%20Pelevin.prc)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/P5%20-%20Pindosztan%20politikai%20pigmeusai%20%28832%29/P5%20-%20Pindosztan%20politikai%20pigme%20-%20Viktor%20Pelevin.epub) 
+ [prc](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/P5%20-%20Pindosztan%20politikai%20pigmeusai%20%28832%29/P5%20-%20Pindosztan%20politikai%20pigme%20-%20Viktor%20Pelevin.prc)
 
 ### Tagek
 elbeszélés, orosz szerző, groteszk, magyar nyelvű, novels, novella
@@ -117,10 +117,10 @@ S mindezen kalandok mögött ott van annak az új orosz valóságnak a képe, am
 
 
 # <a name="id_827">Viktor Pelevin: A rettenet sisakja (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20rettenet%20sisakja%20%28827%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/A%20rettenet%20sisakja%20%28827%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/A%20rettenet%20sisakja%20%28827%29/A%20rettenet%20sisakja%20-%20Viktor%20Pelevin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/A%20rettenet%20sisakja%20%28827%29/A%20rettenet%20sisakja%20-%20Viktor%20Pelevin.epub)
 
 ### Tagek
 fantasy, kaland, kortárs, magyar nyelvű, mitológia, orosz szerző
@@ -130,11 +130,11 @@ fantasy, kaland, kortárs, magyar nyelvű, mitológia, orosz szerző
 
 
 # <a name="id_834">Viktor Pelevin: Az agyag géppuska (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Az%20agyag%20geppuska%20%28834%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/Az%20agyag%20geppuska%20%28834%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Az%20agyag%20geppuska%20%28834%29/Az%20agyag%20geppuska%20-%20Viktor%20Pelevin.epub) 
- [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Az%20agyag%20geppuska%20%28834%29/Az%20agyag%20geppuska%20-%20Viktor%20Pelevin.rtf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/Az%20agyag%20geppuska%20%28834%29/Az%20agyag%20geppuska%20-%20Viktor%20Pelevin.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/Az%20agyag%20geppuska%20%28834%29/Az%20agyag%20geppuska%20-%20Viktor%20Pelevin.rtf)
 
 ### Tagek
 szépirodalom, 1910-es évek, irodalom, japán (ország), novella, orosz szerző, 20. század, regény, szatíra, 1001 könyv listán szerepel, elmegyógyintézet, magyar nyelvű, kortárs, oroszország, buddhizmus, álom
@@ -144,10 +144,10 @@ Az ​elmúlt évek orosz irodalmának legnagyobb világsikere Az agyag géppusk
 
 
 # <a name="id_831">Viktor Pelevin: Generation P (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Generation%20P%20%28831%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/Generation%20P%20%28831%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Viktor%20Pelevin/Generation%20P%20%28831%29/Generation%20P%20-%20Viktor%20Pelevin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Viktor%20Pelevin/Generation%20P%20%28831%29/Generation%20P%20-%20Viktor%20Pelevin.epub)
 
 ### Tagek
 filmadaptáció, kortárs, magyar nyelvű, orosz szerző, regény, társadalomkritika

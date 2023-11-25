@@ -1,8 +1,8 @@
 # <a name="id_1710">Badár, Sándor: Jappán (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Badar%2C%20Sandor/Jappan%20%281710%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Badar%2C%20Sandor/Jappan%20%281710%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Badar%2C%20Sandor/Jappan%20%281710%29/Jappan%20-%20Badar%2C%20Sandor.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Badar%2C%20Sandor/Jappan%20%281710%29/Jappan%20-%20Badar%2C%20Sandor.epub)
 
 ### Tagek
 humor
@@ -12,8 +12,8 @@ Badár Sándor és Horváth János, a humorista és a színművész, napjaink k�
 
 
 # <a name="id_1709">Badár, Sándor: Ámerika avagy a véredény nyomában (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Badar%2C%20Sandor/Amerika%20avagy%20a%20veredeny%20nyomaban%20%281709%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Badar%2C%20Sandor/Amerika%20avagy%20a%20veredeny%20nyomaban%20%281709%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Badar%2C%20Sandor/Amerika%20avagy%20a%20veredeny%20nyomaban%20%281709%29/Amerika%20avagy%20a%20veredeny%20nyomab%20-%20Badar%2C%20Sandor.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Badar%2C%20Sandor/Amerika%20avagy%20a%20veredeny%20nyomaban%20%281709%29/Amerika%20avagy%20a%20veredeny%20nyomab%20-%20Badar%2C%20Sandor.epub)
 

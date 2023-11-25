@@ -1,8 +1,8 @@
 # <a name="id_683">Åsa Schwarz: Nefilim (Nova Barakel 1) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Asa%20Schwarz/Nefilim%20%28683%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Asa%20Schwarz/Nefilim%20%28683%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Asa%20Schwarz/Nefilim%20%28683%29/Nefilim%20-%20Asa%20Schwarz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Asa%20Schwarz/Nefilim%20%28683%29/Nefilim%20-%20Asa%20Schwarz.epub)
 
 ### Tagek
 angyal, erőszak, magyar nyelvű, misztikus, regény, sorozat része, svéd szerző, svédország, thriller, krimi, skandináv
@@ -13,10 +13,10 @@ angyal, erőszak, magyar nyelvű, misztikus, regény, sorozat része, svéd szer
 
 
 # <a name="id_684">Åsa Schwarz: Halott angyal (Nova Barakel 2) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Asa%20Schwarz/Halott%20angyal%20%28684%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Asa%20Schwarz/Halott%20angyal%20%28684%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Asa%20Schwarz/Halott%20angyal%20%28684%29/Halott%20angyal%20-%20Asa%20Schwarz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Asa%20Schwarz/Halott%20angyal%20%28684%29/Halott%20angyal%20-%20Asa%20Schwarz.epub)
 
 ### Tagek
 angyal, magyar nyelvű, misztikus, regény, sorozat része, svéd szerző, thriller, krimi, skandináv

@@ -1,8 +1,8 @@
 # <a name="id_634">Arto Paasilinna: A nyúl éve (1983)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Arto%20Paasilinna/A%20nyul%20eve%20%28634%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Arto%20Paasilinna/A%20nyul%20eve%20%28634%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Arto%20Paasilinna/A%20nyul%20eve%20%28634%29/A%20nyul%20eve%20-%20Arto%20Paasilinna.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Arto%20Paasilinna/A%20nyul%20eve%20%28634%29/A%20nyul%20eve%20-%20Arto%20Paasilinna.epub)
 
 ### Tagek
 1001 könyv listán szerepel, 1970-es évek, 20. század, állat, férfi főszereplő, filmadaptáció, finn, finn szerző, finnország, humoros, kaland, kortárs, lappföld, magyar nyelvű, nyúl, regény, számi (lapp), szatíra, társadalomkritika, társadalomrajz

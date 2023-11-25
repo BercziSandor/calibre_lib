@@ -48,7 +48,7 @@ class Library:
 
     def get_url(self, file_path: pathlib.Path):
         u = urllib.parse.quote(
-            str(file_path.relative_to(self.root_dir)).replace(
+            str(file_path.relative_to(self.root_dir.parent.parent)).replace(
                 '\\', '/'))
         url = f"{self.repo_url}/raw/main/{u}"
         self.url = url

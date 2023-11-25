@@ -1,8 +1,8 @@
 # <a name="id_649">Foster, Alan Dean: A nyolcadik utas: a Halál (Alien 1) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Foster%2C%20Alan%20Dean/A%20nyolcadik%20utas_%20a%20Halal%20%28649%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Foster%2C%20Alan%20Dean/A%20nyolcadik%20utas_%20a%20Halal%20%28649%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Foster%2C%20Alan%20Dean/A%20nyolcadik%20utas_%20a%20Halal%20%28649%29/A%20nyolcadik%20utas_%20a%20Halal%20-%20Foster%2C%20Alan%20Dean.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Foster%2C%20Alan%20Dean/A%20nyolcadik%20utas_%20a%20Halal%20%28649%29/A%20nyolcadik%20utas_%20a%20Halal%20-%20Foster%2C%20Alan%20Dean.epub)
 
 ### Tagek
 amerikai szerző, filmből készült könyv, földönkívüliek, horror, magyar nyelvű, női főszereplő, regény, robot, sci-fi, sorozat része, szörny, thriller, űropera, űrutazás
@@ -13,10 +13,10 @@ amerikai szerző, filmből készült könyv, földönkívüliek, horror, magyar 
 
 
 # <a name="id_650">Foster, Alan Dean: A bolygó neve: Halál (Alien 2) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Foster%2C%20Alan%20Dean/A%20bolygo%20neve_%20Halal%20%28650%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Foster%2C%20Alan%20Dean/A%20bolygo%20neve_%20Halal%20%28650%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Foster%2C%20Alan%20Dean/A%20bolygo%20neve_%20Halal%20%28650%29/A%20bolygo%20neve_%20Halal%20-%20Foster%2C%20Alan%20Dean.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Foster%2C%20Alan%20Dean/A%20bolygo%20neve_%20Halal%20%28650%29/A%20bolygo%20neve_%20Halal%20-%20Foster%2C%20Alan%20Dean.epub)
 
 ### Tagek
 amerikai szerző, filmből készült könyv, földönkívüliek, horror, katonai sci-fi, katonaság, magyar nyelvű, női főszereplő, regény, robot, sci-fi, sorozat része, szörny, thriller, űrutazás
@@ -27,10 +27,10 @@ amerikai szerző, filmből készült könyv, földönkívüliek, horror, katonai
 
 
 # <a name="id_652">Foster, Alan Dean: Az út végén a halál (Alien 3) (1992)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Foster%2C%20Alan%20Dean/Az%20ut%20vegen%20a%20halal%20%28652%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Foster%2C%20Alan%20Dean/Az%20ut%20vegen%20a%20halal%20%28652%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Foster%2C%20Alan%20Dean/Az%20ut%20vegen%20a%20halal%20%28652%29/Az%20ut%20vegen%20a%20halal%20-%20Foster%2C%20Alan%20Dean.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Foster%2C%20Alan%20Dean/Az%20ut%20vegen%20a%20halal%20%28652%29/Az%20ut%20vegen%20a%20halal%20-%20Foster%2C%20Alan%20Dean.epub)
 
 ### Tagek
 amerikai szerző, börtön, filmből készült könyv, földönkívüliek, horror, magyar nyelvű, női főszereplő, regény, sci-fi, sorozat része, thriller, űrutazás

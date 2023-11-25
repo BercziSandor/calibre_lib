@@ -1,23 +1,9 @@
-# <a name="id_237">Agatha Christie: A titkos ellenfél (A titkos ellenfél 2) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/.caltrash/b/237/cover.jpg" alt="cover" width="300"/>
-
-### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/.caltrash/b/237/A%20titkos%20ellenfel%20-%20Agatha%20Christie.epub)
-
-### Tagek
-20. század, angol szerző, brit szerző, férfi főszereplő, fiatalkor, filmadaptáció, klasszikus, london, magyar nyelvű, női főszereplő, nyomozás, regény, rejtély, sorozat része, szökés, krimi
-
-### Összefoglalás
-<div>
-<p>Az Agatha Christie-krimik rajongói már ismerik Tuppence-t és Tommyt, a két kalandvágyó fiatal „magándetektívet”, akiknek karrierje ebben a regényben indul, amikor megalapítják az Ifjú Kalandorok Rt.-t.<br>Maguk sem hiszik, hogy milyen veszélyes vállalkozás megkeresni Jane Finnt, a fiatal amerikai lányt, és az eltűnt dokumentumokat, ha útjukat folyton keresztezi a titkos ellenfél.</p></div>
-
-
 # <a name="id_1771">Agatha Christie: Bűbájos gyilkosok (Ariadne Oliver 5) (1961)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Bubajos%20gyilkosok%20%281771%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Bubajos%20gyilkosok%20%281771%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Bubajos%20gyilkosok%20%281771%29/Bubajos%20gyilkosok%20-%20Agatha%20Christie.azw3) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Bubajos%20gyilkosok%20%281771%29/Bubajos%20gyilkosok%20-%20Agatha%20Christie.epub)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Bubajos%20gyilkosok%20%281771%29/Bubajos%20gyilkosok%20-%20Agatha%20Christie.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Bubajos%20gyilkosok%20%281771%29/Bubajos%20gyilkosok%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 mystery, crime, classics, thriller
@@ -28,11 +14,11 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_1748">Agatha Christie: A hét számlap rejtélye (Battle főfelügyelő 2) (1941)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20het%20szamlap%20rejtelye%20%281748%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20het%20szamlap%20rejtelye%20%281748%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20het%20szamlap%20rejtelye%20%281748%29/A%20het%20szamlap%20rejtelye%20-%20Agatha%20Christie.azw3) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20het%20szamlap%20rejtelye%20%281748%29/A%20het%20szamlap%20rejtelye%20-%20Agatha%20Christie.epub)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20het%20szamlap%20rejtelye%20%281748%29/A%20het%20szamlap%20rejtelye%20-%20Agatha%20Christie.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20het%20szamlap%20rejtelye%20%281748%29/A%20het%20szamlap%20rejtelye%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 mystery, crime, classics, thriller, adult
@@ -45,10 +31,10 @@ mystery, crime, classics, thriller, adult
 
 
 # <a name="id_66">Agatha Christie: Éjféltájt (Battle főfelügyelő 5) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Ejfeltajt%20%2866%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Ejfeltajt%20%2866%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Ejfeltajt%20%2866%29/Ejfeltajt%20-%20Agatha%20Christie.azw3)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Ejfeltajt%20%2866%29/Ejfeltajt%20-%20Agatha%20Christie.azw3)
 
 ### Tagek
 20. század, angol szerző, brit szerző, detektívtörténet, filmadaptáció, magyar nyelvű, nyomozás, regény, sorozat része, krimi
@@ -59,10 +45,10 @@ mystery, crime, classics, thriller, adult
 
 
 # <a name="id_235">Agatha Christie: A pollensai probléma (Hercule Poirot 1) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20pollensai%20problema%20%28235%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20pollensai%20problema%20%28235%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20pollensai%20problema%20%28235%29/A%20pollensai%20problema%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20pollensai%20problema%20%28235%29/A%20pollensai%20problema%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 20. század, angol szerző, brit szerző, magándetektív, magyar nyelvű, novella, nyomozás, regény, sorozat része, krimi
@@ -73,10 +59,10 @@ mystery, crime, classics, thriller, adult
 
 
 # <a name="id_63">Agatha Christie: Az Ackroyd-gyilkosság (Hercule Poirot 4) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20Ackroyd-gyilkossag%20%2863%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20Ackroyd-gyilkossag%20%2863%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20Ackroyd-gyilkossag%20%2863%29/Az%20Ackroyd-gyilkossag%20-%20Agatha%20Christie.azw3)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20Ackroyd-gyilkossag%20%2863%29/Az%20Ackroyd-gyilkossag%20-%20Agatha%20Christie.azw3)
 
 ### Tagek
 1001 könyv listán szerepel, 20. század, anglia, angol szerző, brit szerző, detektívtörténet, férfi főszereplő, gyilkosság, klasszikus, magándetektív, magyar nyelvű, nyomozás, ősz, regény, sorozat része, krimi
@@ -87,10 +73,10 @@ mystery, crime, classics, thriller, adult
 
 
 # <a name="id_238">Agatha Christie: A titokzatos Négyes (Hercule Poirot 5) (1927)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20Negyes%20%28238%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20titokzatos%20Negyes%20%28238%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20Negyes%20%28238%29/A%20titokzatos%20Negyes%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20titokzatos%20Negyes%20%28238%29/A%20titokzatos%20Negyes%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 mystery, crime, classics, thriller, 20. század, angol szerző, brit szerző, detektívtörténet, férfi főszereplő, filmadaptáció, ikrek, magándetektív, magyar nyelvű, nyomozás, regény, sorozat része, krimi
@@ -101,10 +87,10 @@ mystery, crime, classics, thriller, 20. század, angol szerző, brit szerző, de
 
 
 # <a name="id_1757">Agatha Christie: A titokzatos Kék Vonat (Hercule Poirot 6) (1928)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20Kek%20Vonat%20%281757%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20titokzatos%20Kek%20Vonat%20%281757%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20Kek%20Vonat%20%281757%29/A%20titokzatos%20Kek%20Vonat%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20titokzatos%20Kek%20Vonat%20%281757%29/A%20titokzatos%20Kek%20Vonat%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 mystery, crime, classics, thriller
@@ -115,10 +101,10 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_249">Agatha Christie: Ház a sziklán (Hercule Poirot 8) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Haz%20a%20sziklan%20%28249%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Haz%20a%20sziklan%20%28249%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Haz%20a%20sziklan%20%28249%29/Haz%20a%20sziklan%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Haz%20a%20sziklan%20%28249%29/Haz%20a%20sziklan%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 20. század, angol szerző, brit szerző, férfi főszereplő, filmadaptáció, gyilkosság, magándetektív, magyar nyelvű, nyomozás, regény, sorozat része, krimi
@@ -129,10 +115,10 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_69">Agatha Christie: Halál a felhők között (Hercule Poirot 12) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Halal%20a%20felhok%20kozott%20%2869%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Halal%20a%20felhok%20kozott%20%2869%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Halal%20a%20felhok%20kozott%20%2869%29/Halal%20a%20felhok%20kozott%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Halal%20a%20felhok%20kozott%20%2869%29/Halal%20a%20felhok%20kozott%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 1930-as évek, 20. század, angol szerző, brit szerző, detektívtörténet, filmadaptáció, gyilkosság, klasszikus, london, magándetektív, magyar nyelvű, nyomozás, párizs, regény, repülő, sorozat része, krimi
@@ -143,11 +129,11 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_1764">Agatha Christie: Az ABC-gyilkosságok (Hercule Poirot 13) (1936)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20ABC-gyilkossagok%20%281764%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20ABC-gyilkossagok%20%281764%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20ABC-gyilkossagok%20%281764%29/Az%20ABC-gyilkossagok%20-%20Agatha%20Christie.azw3) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20ABC-gyilkossagok%20%281764%29/Az%20ABC-gyilkossagok%20-%20Agatha%20Christie.epub)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20ABC-gyilkossagok%20%281764%29/Az%20ABC-gyilkossagok%20-%20Agatha%20Christie.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20ABC-gyilkossagok%20%281764%29/Az%20ABC-gyilkossagok%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 mystery, classics, crime, thriller
@@ -158,10 +144,10 @@ mystery, classics, crime, thriller
 
 
 # <a name="id_1751">Agatha Christie: A kutya se látta (Hercule Poirot 16) (1937)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20kutya%20se%20latta%20%281751%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20kutya%20se%20latta%20%281751%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20kutya%20se%20latta%20%281751%29/A%20kutya%20se%20latta%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20kutya%20se%20latta%20%281751%29/A%20kutya%20se%20latta%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 mystery, crime, classics, thriller, mystery & crime
@@ -172,10 +158,10 @@ mystery, crime, classics, thriller, mystery & crime
 
 
 # <a name="id_75">Agatha Christie: Halál a Níluson (Hercule Poirot 17) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Halal%20a%20Niluson%20%2875%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Halal%20a%20Niluson%20%2875%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Halal%20a%20Niluson%20%2875%29/Halal%20a%20Niluson%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Halal%20a%20Niluson%20%2875%29/Halal%20a%20Niluson%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 1930-as évek, 20. század, angol szerző, brit szerző, detektívtörténet, egyiptom, filmadaptáció, gyilkosság, hangoskönyv, magándetektív, magyar nyelvű, nyár, nyomozás, regény, sorozat része, krimi
@@ -186,11 +172,11 @@ mystery, crime, classics, thriller, mystery & crime
 
 
 # <a name="id_1772">Agatha Christie: Cipruskoporsó (Hercule Poirot 21) (1940)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Cipruskoporso%20%281772%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Cipruskoporso%20%281772%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Cipruskoporso%20%281772%29/Cipruskoporso%20-%20Agatha%20Christie.azw3) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Cipruskoporso%20%281772%29/Cipruskoporso%20-%20Agatha%20Christie.epub)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Cipruskoporso%20%281772%29/Cipruskoporso%20-%20Agatha%20Christie.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Cipruskoporso%20%281772%29/Cipruskoporso%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 mystery, crime, classics, thriller
@@ -202,10 +188,10 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_73">Agatha Christie: Nyaraló gyilkosok (Hercule Poirot 23) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Nyaralo%20gyilkosok%20%2873%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Nyaralo%20gyilkosok%20%2873%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Nyaralo%20gyilkosok%20%2873%29/Nyaralo%20gyilkosok%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Nyaralo%20gyilkosok%20%2873%29/Nyaralo%20gyilkosok%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 20. század, anglia, angol szerző, brit szerző, detektívtörténet, filmadaptáció, gyilkosság, hangoskönyv, magándetektív, mágia, magyar nyelvű, nyár, nyomozás, regény, sorozat része, sorozatgyilkosság, sziget, krimi
@@ -216,10 +202,10 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_251">Agatha Christie: Hétvégi gyilkosság (Hercule Poirot 25) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Hetvegi%20gyilkossag%20%28251%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Hetvegi%20gyilkossag%20%28251%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Hetvegi%20gyilkossag%20%28251%29/Hetvegi%20gyilkossag%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Hetvegi%20gyilkossag%20%28251%29/Hetvegi%20gyilkossag%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 20. század, angol szerző, brit szerző, detektívtörténet, magándetektív, magyar nyelvű, nyomozás, regény, sorozat része, krimi
@@ -230,10 +216,10 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_252">Agatha Christie: Mrs. McGinty meghalt (Hercule Poirot 28) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Mrs.%20McGinty%20meghalt%20%28252%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Mrs.%20McGinty%20meghalt%20%28252%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Mrs.%20McGinty%20meghalt%20%28252%29/Mrs.%20McGinty%20meghalt%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Mrs.%20McGinty%20meghalt%20%28252%29/Mrs.%20McGinty%20meghalt%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 20. század, angol szerző, brit szerző, detektívtörténet, filmadaptáció, gyilkosság, magándetektív, magyar nyelvű, nyomozás, regény, sorozat része, krimi
@@ -244,10 +230,10 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_78">Agatha Christie: Temetni veszélyes (Hercule Poirot 29) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Temetni%20veszelyes%20%2878%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Temetni%20veszelyes%20%2878%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Temetni%20veszelyes%20%2878%29/Temetni%20veszelyes%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Temetni%20veszelyes%20%2878%29/Temetni%20veszelyes%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 20. század, angol szerző, brit szerző, család, filmadaptáció, magándetektív, magyar nyelvű, nyomozás, regény, sorozat része, krimi
@@ -258,11 +244,11 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_1777">Agatha Christie: Gloriett a hullának (Hercule Poirot 31) (1956)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Gloriett%20a%20hullanak%20%281777%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gloriett%20a%20hullanak%20%281777%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Gloriett%20a%20hullanak%20%281777%29/Gloriett%20a%20hullanak%20-%20Agatha%20Christie.azw3) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Gloriett%20a%20hullanak%20%281777%29/Gloriett%20a%20hullanak%20-%20Agatha%20Christie.epub)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gloriett%20a%20hullanak%20%281777%29/Gloriett%20a%20hullanak%20-%20Agatha%20Christie.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gloriett%20a%20hullanak%20%281777%29/Gloriett%20a%20hullanak%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 mystery, crime, classics, thriller
@@ -273,10 +259,10 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_1749">Agatha Christie: A karácsonyi puding esete (Hercule Poirot 33) (1923)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20karacsonyi%20puding%20esete%20%281749%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20karacsonyi%20puding%20esete%20%281749%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20karacsonyi%20puding%20esete%20%281749%29/A%20karacsonyi%20puding%20esete%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20karacsonyi%20puding%20esete%20%281749%29/A%20karacsonyi%20puding%20esete%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 mystery, crime, classics
@@ -287,10 +273,10 @@ mystery, crime, classics
 
 
 # <a name="id_1768">Agatha Christie: Az órák (Hercule Poirot 34) (1963)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20orak%20%281768%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20orak%20%281768%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20orak%20%281768%29/Az%20orak%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20orak%20%281768%29/Az%20orak%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 mystery, crime, classics, thriller
@@ -304,7 +290,7 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_234">Agatha Christie: A harmadik lány (Hercule Poirot 35) (1966)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20harmadik%20lany%20%28234%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20harmadik%20lany%20%28234%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 mystery, crime, classics, thriller, 1960-as évek, 20. század, angol szerző, brit szerző, fiatalkor, gyilkosság, london, magándetektív, magyar nyelvű, női főszereplő, nyomozás, regény, sorozat része, krimi
@@ -317,7 +303,7 @@ mystery, crime, classics, thriller, 1960-as évek, 20. század, angol szerző, b
 
 
 # <a name="id_67">Agatha Christie: Ellopott gyilkosság (Hercule Poirot 36) (1969)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Ellopott%20gyilkossag%20%2867%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Ellopott%20gyilkossag%20%2867%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 mystery, crime, classics, thriller, krimi
@@ -329,11 +315,11 @@ mystery, crime, classics, thriller, krimi
 
 
 # <a name="id_1766">Agatha Christie: Az elefántok nem felejtenek (Hercule Poirot 37) (1992)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20elefantok%20nem%20felejtenek%20%281766%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20elefantok%20nem%20felejtenek%20%281766%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20elefantok%20nem%20felejtenek%20%281766%29/Az%20elefantok%20nem%20felejtenek%20-%20Agatha%20Christie.azw3) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20elefantok%20nem%20felejtenek%20%281766%29/Az%20elefantok%20nem%20felejtenek%20-%20Agatha%20Christie.epub)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20elefantok%20nem%20felejtenek%20%281766%29/Az%20elefantok%20nem%20felejtenek%20-%20Agatha%20Christie.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20elefantok%20nem%20felejtenek%20%281766%29/Az%20elefantok%20nem%20felejtenek%20-%20Agatha%20Christie.epub)
 
 ### Összefoglalás
 <div>
@@ -341,10 +327,10 @@ mystery, crime, classics, thriller, krimi
 
 
 # <a name="id_257">Agatha Christie: Poirot bravúrjai I. (Hercule Poirot 38) (1994)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Poirot%20bravurjai%20I_%20%28257%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Poirot%20bravurjai%20I_%20%28257%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Poirot%20bravurjai%20I_%20%28257%29/Poirot%20bravurjai%20I_%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Poirot%20bravurjai%20I_%20%28257%29/Poirot%20bravurjai%20I_%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 20. század, angol szerző, brit szerző, elbeszélés, magándetektív, magyar nyelvű, novella, nyomozás, regény, sorozat része, krimi
@@ -355,11 +341,11 @@ mystery, crime, classics, thriller, krimi
 
 
 # <a name="id_1758">Agatha Christie: A titokzatos stylesi eset / Függöny (Hercule Poirot 39) (1974)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20stylesi%20eset%20_%20Fuggony%20%281758%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20titokzatos%20stylesi%20eset%20_%20Fuggony%20%281758%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20stylesi%20eset%20_%20Fuggony%20%281758%29/A%20titokzatos%20stylesi%20eset%20_%20Fug%20-%20Agatha%20Christie.epub) 
- [prc](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20titokzatos%20stylesi%20eset%20_%20Fuggony%20%281758%29/A%20titokzatos%20stylesi%20eset%20_%20Fug%20-%20Agatha%20Christie.prc)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20titokzatos%20stylesi%20eset%20_%20Fuggony%20%281758%29/A%20titokzatos%20stylesi%20eset%20_%20Fug%20-%20Agatha%20Christie.epub) 
+ [prc](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20titokzatos%20stylesi%20eset%20_%20Fuggony%20%281758%29/A%20titokzatos%20stylesi%20eset%20_%20Fug%20-%20Agatha%20Christie.prc)
 
 ### Tagek
 mystery, classics, crime, thriller, mystery & crime
@@ -370,10 +356,10 @@ mystery, classics, crime, thriller, mystery & crime
 
 
 # <a name="id_1762">Agatha Christie: A Greenshore-gloriett (Hercule Poirot 40) (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20Greenshore-gloriett%20%281762%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20Greenshore-gloriett%20%281762%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20Greenshore-gloriett%20%281762%29/A%20Greenshore-gloriett%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20Greenshore-gloriett%20%281762%29/A%20Greenshore-gloriett%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 mystery, crime, classics, thriller
@@ -385,10 +371,10 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_241">Agatha Christie: Az álmok háza (Hercule Poirot 99) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20almok%20haza%20%28241%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20almok%20haza%20%28241%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20almok%20haza%20%28241%29/Az%20almok%20haza%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20almok%20haza%20%28241%29/Az%20almok%20haza%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 20. század, álom, angol szerző, brit szerző, detektívtörténet, elbeszélés, kaland, magándetektív, magyar nyelvű, novella, nyomozás, regény, sorozat része, krimi
@@ -399,10 +385,10 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_68">Agatha Christie: Gyilkosság a paplakban (Miss Marple 1) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Gyilkossag%20a%20paplakban%20%2868%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gyilkossag%20a%20paplakban%20%2868%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Gyilkossag%20a%20paplakban%20%2868%29/Gyilkossag%20a%20paplakban%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gyilkossag%20a%20paplakban%20%2868%29/Gyilkossag%20a%20paplakban%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 20. század, angol szerző, brit szerző, filmadaptáció, gyilkosság, halál, kisváros, magyar nyelvű, nyomozás, regény, sorozat része, krimi
@@ -413,10 +399,10 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_259">Agatha Christie: Tizenhárom rejtély (Miss Marple 2) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Tizenharom%20rejtely%20%28259%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Tizenharom%20rejtely%20%28259%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Tizenharom%20rejtely%20%28259%29/Tizenharom%20rejtely%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Tizenharom%20rejtely%20%28259%29/Tizenharom%20rejtely%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 20. század, anglia, angol szerző, barátság, brit szerző, gyilkosság, karácsony, magyar nyelvű, novella, nyomozás, rejtély, sorozat része, krimi
@@ -427,10 +413,10 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_71">Agatha Christie: Holttest a könyvtárszobában (Miss Marple 3) (1969)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Holttest%20a%20konyvtarszobaban%20%2871%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Holttest%20a%20konyvtarszobaban%20%2871%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Holttest%20a%20konyvtarszobaban%20%2871%29/Holttest%20a%20konyvtarszobaban%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Holttest%20a%20konyvtarszobaban%20%2871%29/Holttest%20a%20konyvtarszobaban%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 20. század, angol szerző, brit szerző, filmadaptáció, kisváros, klasszikus, magyar nyelvű, nyomozás, regény, rejtély, sorozat része, krimi
@@ -441,10 +427,10 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_311">Agatha Christie: Nem zörög a haraszt (Miss Marple 4) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Nem%20zorog%20a%20haraszt%20%28311%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Nem%20zorog%20a%20haraszt%20%28311%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Nem%20zorog%20a%20haraszt%20%28311%29/Nem%20zorog%20a%20haraszt%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Nem%20zorog%20a%20haraszt%20%28311%29/Nem%20zorog%20a%20haraszt%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 20. század, angol szerző, brit szerző, filmadaptáció, gyilkosság, kisváros, magyar nyelvű, nyomozás, regény, sorozat része, krimi, szórakoztató irodalom, szépirodalom
@@ -455,10 +441,10 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_1773">Agatha Christie: Egy marék rozs (Miss Marple 7) (1953)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Egy%20marek%20rozs%20%281773%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Egy%20marek%20rozs%20%281773%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Egy%20marek%20rozs%20%281773%29/Egy%20marek%20rozs%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Egy%20marek%20rozs%20%281773%29/Egy%20marek%20rozs%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 mystery, crime, classics, thriller
@@ -469,10 +455,10 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_74">Agatha Christie: Paddington 16.50 (Miss Marple 8) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Paddington%2016.50%20%2874%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Paddington%2016.50%20%2874%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Paddington%2016.50%20%2874%29/Paddington%2016.50%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Paddington%2016.50%20%2874%29/Paddington%2016.50%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 20. század, angol szerző, brit szerző, család, detektívtörténet, filmadaptáció, gyilkosság, klasszikus, magyar nyelvű, nyomozás, regény, sorozat része, krimi
@@ -483,10 +469,10 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_1750">Agatha Christie: A kristálytükör meghasadt (Miss Marple 9) (1962)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20kristalytukor%20meghasadt%20%281750%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20kristalytukor%20meghasadt%20%281750%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20kristalytukor%20meghasadt%20%281750%29/A%20kristalytukor%20meghasadt%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20kristalytukor%20meghasadt%20%281750%29/A%20kristalytukor%20meghasadt%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 mystery, crime, classics
@@ -497,10 +483,10 @@ mystery, crime, classics
 
 
 # <a name="id_76">Agatha Christie: Rejtély az Antillákon (Miss Marple 10) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Rejtely%20az%20Antillakon%20%2876%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Rejtely%20az%20Antillakon%20%2876%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Rejtely%20az%20Antillakon%20%2876%29/Rejtely%20az%20Antillakon%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Rejtely%20az%20Antillakon%20%2876%29/Rejtely%20az%20Antillakon%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 20. század, angol szerző, brit szerző, detektívtörténet, filmadaptáció, gyilkosság, hangoskönyv, magyar nyelvű, nyomozás, regény, sorozat része, sorozatgyilkosság, krimi
@@ -511,10 +497,10 @@ mystery, crime, classics
 
 
 # <a name="id_1746">Agatha Christie: A Bertram szálló (Miss Marple 11) (1964)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20Bertram%20szallo%20%281746%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20Bertram%20szallo%20%281746%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20Bertram%20szallo%20%281746%29/A%20Bertram%20szallo%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20Bertram%20szallo%20%281746%29/A%20Bertram%20szallo%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 mystery, crime, classics, thriller
@@ -525,10 +511,10 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_72">Agatha Christie: Nemezis (Miss Marple 12) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Nemezis%20%2872%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Nemezis%20%2872%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Nemezis%20%2872%29/Nemezis%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Nemezis%20%2872%29/Nemezis%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 20. század, angol szerző, brit szerző, detektívtörténet, filmadaptáció, gyilkosság, klasszikus, magyar nyelvű, nyomozás, regény, sorozat része, krimi
@@ -539,10 +525,10 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_77">Agatha Christie: Szunnyadó gyilkosság (Miss Marple 13) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Szunnyado%20gyilkossag%20%2877%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Szunnyado%20gyilkossag%20%2877%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Szunnyado%20gyilkossag%20%2877%29/Szunnyado%20gyilkossag%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Szunnyado%20gyilkossag%20%2877%29/Szunnyado%20gyilkossag%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 1930-as évek, 20. század, angol szerző, brit szerző, detektívtörténet, filmadaptáció, magyar nyelvű, nyomozás, regény, sorozat része, krimi
@@ -553,10 +539,10 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_1745">Agatha Christie: A barna ruhás férfi (Race ezredes 1) (1924)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20barna%20ruhas%20ferfi%20%281745%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20barna%20ruhas%20ferfi%20%281745%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20barna%20ruhas%20ferfi%20%281745%29/A%20barna%20ruhas%20ferfi%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20barna%20ruhas%20ferfi%20%281745%29/A%20barna%20ruhas%20ferfi%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 mystery, crime, classics, thriller, adventure, romance
@@ -568,10 +554,10 @@ mystery, crime, classics, thriller, adventure, romance
 
 
 # <a name="id_247">Agatha Christie: Gyöngyöző cián (Race ezredes 4) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Gyongyozo%20cian%20%28247%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gyongyozo%20cian%20%28247%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Gyongyozo%20cian%20%28247%29/Gyongyozo%20cian%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gyongyozo%20cian%20%28247%29/Gyongyozo%20cian%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 20. század, angol szerző, brit szerző, gyilkosság, magyar nyelvű, regény, sorozat része, krimi
@@ -582,10 +568,10 @@ mystery, crime, classics, thriller, adventure, romance
 
 
 # <a name="id_1756">Agatha Christie: Titkos ellenfél (Tommy és Tuppence 1) (1921)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Titkos%20ellenfel%20%281756%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Titkos%20ellenfel%20%281756%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Titkos%20ellenfel%20%281756%29/Titkos%20ellenfel%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Titkos%20ellenfel%20%281756%29/Titkos%20ellenfel%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 mystery, classics, crime, thriller, adventure
@@ -598,10 +584,10 @@ mystery, classics, crime, thriller, adventure
 
 
 # <a name="id_254">Agatha Christie: No. 16 (Tommy és Tuppence 2) (1997)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/No.%2016%20%28254%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/No.%2016%20%28254%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/No.%2016%20%28254%29/No.%2016%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/No.%2016%20%28254%29/No.%2016%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 20. század, angol szerző, brit szerző, detektívtörténet, filmadaptáció, gyilkosság, kaland, magyar nyelvű, novella, nyomozás, sorozat része, krimi
@@ -612,7 +598,7 @@ mystery, classics, crime, thriller, adventure
 
 
 # <a name="id_242">Agatha Christie: Balhüvelykem bizsereg (Tommy és Tuppence 4) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Balhuvelykem%20bizsereg%20%28242%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Balhuvelykem%20bizsereg%20%28242%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 20. század, angol szerző, brit szerző, magyar nyelvű, regény, sorozat része, krimi
@@ -623,10 +609,10 @@ mystery, classics, crime, thriller, adventure
 
 
 # <a name="id_1755">Agatha Christie: A sors kapuja (Tommy és Tuppence 5) (1973)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20sors%20kapuja%20%281755%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20sors%20kapuja%20%281755%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20sors%20kapuja%20%281755%29/A%20sors%20kapuja%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20sors%20kapuja%20%281755%29/A%20sors%20kapuja%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 mystery, crime, classics, thriller
@@ -637,11 +623,11 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_1767">Agatha Christie: Az élet súlya </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20elet%20sulya%20%281767%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20elet%20sulya%20%281767%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20elet%20sulya%20%281767%29/Az%20elet%20sulya%20-%20Agatha%20Christie.azw3) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20elet%20sulya%20%281767%29/Az%20elet%20sulya%20-%20Agatha%20Christie.epub)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20elet%20sulya%20%281767%29/Az%20elet%20sulya%20-%20Agatha%20Christie.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20elet%20sulya%20%281767%29/Az%20elet%20sulya%20-%20Agatha%20Christie.epub)
 
 ### Összefoglalás
 <div>
@@ -649,10 +635,10 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_1754">Agatha Christie: A Sittaford-rejtély (1931)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20Sittaford-rejtely%20%281754%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20Sittaford-rejtely%20%281754%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20Sittaford-rejtely%20%281754%29/A%20Sittaford-rejtely%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20Sittaford-rejtely%20%281754%29/A%20Sittaford-rejtely%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 mystery, crime, classics, thriller
@@ -663,10 +649,10 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_1753">Agatha Christie: A Listerdale-rejtély (1933)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20Listerdale-rejtely%20%281753%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20Listerdale-rejtely%20%281753%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20Listerdale-rejtely%20%281753%29/A%20Listerdale-rejtely%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20Listerdale-rejtely%20%281753%29/A%20Listerdale-rejtely%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 mystery, crime, classics, thriller
@@ -677,10 +663,10 @@ mystery, crime, classics, thriller
 
 
 # <a name="id_1765">Agatha Christie: Az alibi (1958)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20alibi%20%281765%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20alibi%20%281765%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20alibi%20%281765%29/Az%20alibi%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20alibi%20%281765%29/Az%20alibi%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 mystery, crime, classics, thriller
@@ -693,26 +679,11 @@ mystery, crime, classics, thriller
 <p>Még egy gyilkosságba és egy gyilkossági kísérletbe kerül, míg dr. Calgary levezekli „vétkét”, és bravúros amatőr nyomozással felgöngyölíti az eredeti és az új bűnügyeket.</p></div>
 
 
-# <a name="id_1776">Agatha Christie: Frankfurti utas (1970)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/.caltrash/b/1776/cover.jpg" alt="cover" width="300"/>
-
-### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/.caltrash/b/1776/Frankfurti%20utas%20-%20Agatha%20Christie.epub)
-
-### Tagek
-mystery, crime, classics, thriller, suspense
-
-### Összefoglalás
-<div>
-<p>A frankfurti repülőtérre irányítják át a köd miatt a genfi járatot. Sir Stafford Nye közömbös, neki egyik repülőtér olyan, mint a másik. De bájos útitársnője hihetetlen történetet ad elő neki. Ha nem segít, a nő életébe kerül a köd. Arra kéri, adja kölcsön személyazonosságát, hogy épségben elérhessen Londonba. Sir Staffordnak tetszik a kockázat (és a nő), odaadja hát jellegzetes köpenyét és útlevelét. </p>
-<p>Legközelebb Londonban találkoznak, egy hangversenyen a Royal Albert Hallban. Aztán eljutnak együtt a világ négy sarkába, amíg a nagy összeesküvést próbálják leleplezni, ami lázadásra, rombolásra bujtogatja a fiatalokat. De mi köze mindehhez az ifjú Siegfriednek Wagner operájából?</p></div>
-
-
 # <a name="id_1774">Agatha Christie: Életem (1977)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Eletem%20%281774%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Eletem%20%281774%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Eletem%20%281774%29/Eletem%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Eletem%20%281774%29/Eletem%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 biography, mystery, history, crime, életrajzok, visszaemlékezések
@@ -723,20 +694,20 @@ biography, mystery, history, crime, életrajzok, visszaemlékezések
 
 
 # <a name="id_1752">Agatha Christie: A lányom mindig a lányom (1991)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20lanyom%20mindig%20a%20lanyom%20%281752%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20lanyom%20mindig%20a%20lanyom%20%281752%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20lanyom%20mindig%20a%20lanyom%20%281752%29/A%20lanyom%20mindig%20a%20lanyom%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20lanyom%20mindig%20a%20lanyom%20%281752%29/A%20lanyom%20mindig%20a%20lanyom%20-%20Agatha%20Christie.epub)
 
 ### Összefoglalás
 <div> <p style="margin-bottom: 0in">Finom rajzolatú lélektani regények írója is volt Agatha Christie. Akkor is, ha Mary Westmacott írói álnév alatt jelentette meg őket, mindegyiken megtalálható a krimikirálynő kézjegye. Az intim belső terek, az elrejtett igazságok, az izgalom lassú-lusta, majd egyre erőteljesebb fokozása nem kell, hogy abszurdomig, netán gyilkosságig vigye el a történetet. A többnyire női főszereplő lelkében lezajló konfliktus sorsfordító lesz hullák nélkül is! Ann Prentice vonzó érett asszony. Amit ő természetesen figyelmen kívül hagy, csak a lányáért és csak a lányának él, így nem veszi észre, hogy nem hagyja felnőni gyermekét. Amikor lánya hosszabb időre elutazik, sorsa váratlan fordulatot vesz. Megismerkedik egy férfival, aki megcsillantja előtte az újrakezdés lehetőségét. Ám egyszerre csak megint élni kezd. Egyre nyilvánvalóbb azonban, hogy a lánya nem akarja elveszíteni anyja kizárólagos szeretetét. Bosszúhadjáratba kezd a "betolakodó" ellen. Amikor célját eléri, rádöbben, hogy az egykori anya-lány kapcsolatot már nem lehet visszaállítani. A két nő között elkezdődik egy furcsa párviadal, nem nyílt sisakkal, hanem igazi női fegyverekkel. Milyen árat fizetnek azért, hogy örökké csak a szőnyeg alá sepernek dolgokat? Meg kell-e maradni a belülről marcangoló önvád és harag állapotában.</p><p style="margin-bottom: 0in"><br></p></div>
 
 
 # <a name="id_1770">Agatha Christie: Bagdadba jöttek (1995)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Bagdadba%20jottek%20%281770%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Bagdadba%20jottek%20%281770%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Bagdadba%20jottek%20%281770%29/Bagdadba%20jottek%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Bagdadba%20jottek%20%281770%29/Bagdadba%20jottek%20-%20Agatha%20Christie.epub)
 
 ### Összefoglalás
 <div>
@@ -744,10 +715,10 @@ biography, mystery, history, crime, életrajzok, visszaemlékezések
 
 
 # <a name="id_255">Agatha Christie: Parker Pyne nyomoz (1996)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Parker%20Pyne%20nyomoz%20%28255%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Parker%20Pyne%20nyomoz%20%28255%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Parker%20Pyne%20nyomoz%20%28255%29/Parker%20Pyne%20nyomoz%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Parker%20Pyne%20nyomoz%20%28255%29/Parker%20Pyne%20nyomoz%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 20. század, angol szerző, brit szerző, detektívtörténet, magyar nyelvű, novella, nyomozás, sorozat része, krimi
@@ -758,10 +729,10 @@ biography, mystery, history, crime, életrajzok, visszaemlékezések
 
 
 # <a name="id_1769">Agatha Christie: Az óriás kenyere (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20orias%20kenyere%20%281769%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20orias%20kenyere%20%281769%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Az%20orias%20kenyere%20%281769%29/Az%20orias%20kenyere%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20orias%20kenyere%20%281769%29/Az%20orias%20kenyere%20-%20Agatha%20Christie.epub)
 
 ### Összefoglalás
 <div>
@@ -769,10 +740,10 @@ biography, mystery, history, crime, életrajzok, visszaemlékezések
 
 
 # <a name="id_70">Agatha Christie: Három vak egér (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Harom%20vak%20eger%20%2870%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Harom%20vak%20eger%20%2870%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Harom%20vak%20eger%20%2870%29/Harom%20vak%20eger%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Harom%20vak%20eger%20%2870%29/Harom%20vak%20eger%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 20. század, anglia, angol szerző, brit szerző, gyilkosság, hangoskönyv, kisregény, magyar nyelvű, novella, nyomozás, regény, tél, krimi
@@ -783,10 +754,10 @@ biography, mystery, history, crime, életrajzok, visszaemlékezések
 
 
 # <a name="id_65">Agatha Christie: Eljöttek Bagdadba (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Eljottek%20Bagdadba%20%2865%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Eljottek%20Bagdadba%20%2865%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Eljottek%20Bagdadba%20%2865%29/Eljottek%20Bagdadba%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Eljottek%20Bagdadba%20%2865%29/Eljottek%20Bagdadba%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 20. század, angol szerző, brit szerző, gyilkosság, kaland, kalandregény, közel-kelet, magyar nyelvű, női főszereplő, regény, rejtély, sivatag, krimi
@@ -797,10 +768,10 @@ biography, mystery, history, crime, életrajzok, visszaemlékezések
 
 
 # <a name="id_1760">Agatha Christie: A váratlan vendég (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20varatlan%20vendeg%20%281760%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20varatlan%20vendeg%20%281760%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20varatlan%20vendeg%20%281760%29/A%20varatlan%20vendeg%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20varatlan%20vendeg%20%281760%29/A%20varatlan%20vendeg%20-%20Agatha%20Christie.epub)
 
 ### Összefoglalás
 <div>
@@ -808,10 +779,10 @@ biography, mystery, history, crime, életrajzok, visszaemlékezések
 
 
 # <a name="id_79">Agatha Christie: Tíz kicsi néger (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Tiz%20kicsi%20neger%20%2879%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Tiz%20kicsi%20neger%20%2879%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Tiz%20kicsi%20neger%20%2879%29/Tiz%20kicsi%20neger%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Tiz%20kicsi%20neger%20%2879%29/Tiz%20kicsi%20neger%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 1930-as évek, 20. század, anglia, angol szerző, brit szerző, filmadaptáció, gyilkosság, hangoskönyv, klasszikus, magyar nyelvű, nagy könyv, nyár, regény, sorozatgyilkosság, sziget, thriller, krimi
@@ -822,10 +793,10 @@ biography, mystery, history, crime, életrajzok, visszaemlékezések
 
 
 # <a name="id_64">Agatha Christie: A ferde ház (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20ferde%20haz%20%2864%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20ferde%20haz%20%2864%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20ferde%20haz%20%2864%29/A%20ferde%20haz%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20ferde%20haz%20%2864%29/A%20ferde%20haz%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 20. század, angol szerző, brit szerző, család, detektívtörténet, férfi főszereplő, filmadaptáció, gyilkosság, klasszikus, magyar nyelvű, nyomozás, regény, krimi
@@ -836,7 +807,7 @@ biography, mystery, history, crime, életrajzok, visszaemlékezések
 
 
 # <a name="id_240">Agatha Christie: A vád tanúja (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/A%20vad%20tanuja%20%28240%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20vad%20tanuja%20%28240%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 20. század, 21. század, angol szerző, brit szerző, magyar nyelvű, misztikus, novella, nyomozás, okkultizmus, pszichoanalízis, regény, krimi
@@ -847,10 +818,10 @@ biography, mystery, history, crime, életrajzok, visszaemlékezések
 
 
 # <a name="id_312">Agatha Christie: És eljő a halál… (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Es%20eljo%20a%20halal__%20%28312%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Es%20eljo%20a%20halal__%20%28312%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Es%20eljo%20a%20halal__%20%28312%29/Es%20eljo%20a%20halal__%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Es%20eljo%20a%20halal__%20%28312%29/Es%20eljo%20a%20halal__%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 afrika, angol szerző, brit szerző, család, magyar nyelvű, nyomozás, történelmi krimi, angol, 20. század, szórakoztató irodalom, ókor, egyiptom, krimi, regény
@@ -861,10 +832,10 @@ afrika, angol szerző, brit szerző, család, magyar nyelvű, nyomozás, törté
 
 
 # <a name="id_1761">Agatha Christie: Adventi krimik (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Adventi%20krimik%20%281761%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Adventi%20krimik%20%281761%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Agatha%20Christie/Adventi%20krimik%20%281761%29/Adventi%20krimik%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Adventi%20krimik%20%281761%29/Adventi%20krimik%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 mystery, classics, crime, adult, 820-32=945.11, (udc/eto)

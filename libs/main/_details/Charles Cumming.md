@@ -1,8 +1,8 @@
 # <a name="id_967">Charles Cumming: Egy idegen ország (Thomas Kell 1) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Charles%20Cumming/Egy%20idegen%20orszag%20%28967%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Charles%20Cumming/Egy%20idegen%20orszag%20%28967%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Charles%20Cumming/Egy%20idegen%20orszag%20%28967%29/Egy%20idegen%20orszag%20-%20Charles%20Cumming.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Charles%20Cumming/Egy%20idegen%20orszag%20%28967%29/Egy%20idegen%20orszag%20-%20Charles%20Cumming.epub)
 
 ### Tagek
 brit szerző, kémregény, kortárs, krimi, magyar nyelvű, regény, sorozat része, titkosszolgálat, irodalom, szórakoztató irodalom

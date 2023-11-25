@@ -1,8 +1,8 @@
 # <a name="id_197">Adams, Douglas: Galaxis útikalauz stopposoknak (Galaxis utikalauz stopposoknak 1) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Adams%2C%20Douglas/Galaxis%20utikalauz%20stopposoknak%20%28197%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Adams%2C%20Douglas/Galaxis%20utikalauz%20stopposoknak%20%28197%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Adams%2C%20Douglas/Galaxis%20utikalauz%20stopposoknak%20%28197%29/Galaxis%20utikalauz%20stopposoknak%20-%20Adams%2C%20Douglas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Adams%2C%20Douglas/Galaxis%20utikalauz%20stopposoknak%20%28197%29/Galaxis%20utikalauz%20stopposoknak%20-%20Adams%2C%20Douglas.epub)
 
 ### Tagek
 science fiction
@@ -12,10 +12,10 @@ science fiction
 
 
 # <a name="id_199">Adams, Douglas: Vendéglő a Világ Végén (Galaxis utikalauz stopposoknak 2) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Adams%2C%20Douglas/Vendeglo%20a%20Vilag%20Vegen%20%28199%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Adams%2C%20Douglas/Vendeglo%20a%20Vilag%20Vegen%20%28199%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Adams%2C%20Douglas/Vendeglo%20a%20Vilag%20Vegen%20%28199%29/Vendeglo%20a%20Vilag%20Vegen%20-%20Adams%2C%20Douglas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Adams%2C%20Douglas/Vendeglo%20a%20Vilag%20Vegen%20%28199%29/Vendeglo%20a%20Vilag%20Vegen%20-%20Adams%2C%20Douglas.epub)
 
 ### Tagek
 science fiction
@@ -25,10 +25,10 @@ A fantasztikus szatíra kedvelői még jól emlékeznek a szerző korábbi "SF-b
 
 
 # <a name="id_196">Adams, Douglas: Az Élet, a Világmindenség meg Minden (Galaxis utikalauz stopposoknak 3) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Adams%2C%20Douglas/Az%20Elet%2C%20a%20Vilagmindenseg%20meg%20Minden%20%28196%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Adams%2C%20Douglas/Az%20Elet%2C%20a%20Vilagmindenseg%20meg%20Minden%20%28196%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Adams%2C%20Douglas/Az%20Elet%2C%20a%20Vilagmindenseg%20meg%20Minden%20%28196%29/Az%20Elet%2C%20a%20Vilagmindenseg%20meg%20M%20-%20Adams%2C%20Douglas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Adams%2C%20Douglas/Az%20Elet%2C%20a%20Vilagmindenseg%20meg%20Minden%20%28196%29/Az%20Elet%2C%20a%20Vilagmindenseg%20meg%20M%20-%20Adams%2C%20Douglas.epub)
 
 ### Tagek
 science fiction
@@ -38,10 +38,10 @@ science fiction
 
 
 # <a name="id_200">Adams, Douglas: Viszlát, és kösz a halakat! (Galaxis utikalauz stopposoknak 4) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Adams%2C%20Douglas/Viszlat%2C%20es%20kosz%20a%20halakat%21%20%28200%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Adams%2C%20Douglas/Viszlat%2C%20es%20kosz%20a%20halakat%21%20%28200%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Adams%2C%20Douglas/Viszlat%2C%20es%20kosz%20a%20halakat%21%20%28200%29/Viszlat%2C%20es%20kosz%20a%20halakat%21%20-%20Adams%2C%20Douglas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Adams%2C%20Douglas/Viszlat%2C%20es%20kosz%20a%20halakat%21%20%28200%29/Viszlat%2C%20es%20kosz%20a%20halakat%21%20-%20Adams%2C%20Douglas.epub)
 
 ### Tagek
 science fiction
@@ -51,10 +51,10 @@ Az emberiség ellen sok rémtettet elkövettek már a történelem folyamán, de
 
 
 # <a name="id_198">Adams, Douglas: Jobbára ártalmatlan (Galaxis utikalauz stopposoknak 5) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Adams%2C%20Douglas/Jobbara%20artalmatlan%20%28198%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Adams%2C%20Douglas/Jobbara%20artalmatlan%20%28198%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Adams%2C%20Douglas/Jobbara%20artalmatlan%20%28198%29/Jobbara%20artalmatlan%20-%20Adams%2C%20Douglas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Adams%2C%20Douglas/Jobbara%20artalmatlan%20%28198%29/Jobbara%20artalmatlan%20-%20Adams%2C%20Douglas.epub)
 
 ### Tagek
 science fiction

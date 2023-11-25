@@ -1,5 +1,5 @@
 # <a name="id_1704">Cserna-Szabó, András: Zerkó (2022)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Cserna-Szabo%2C%20Andras/Zerko%20%281704%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Cserna-Szabo%2C%20Andras/Zerko%20%281704%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 regény, humor, történelem

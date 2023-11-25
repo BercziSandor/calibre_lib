@@ -1,8 +1,8 @@
 # <a name="id_1511">Boris Vian: Tajtékos napok (1979)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Boris%20Vian/Tajtekos%20napok%20%281511%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boris%20Vian/Tajtekos%20napok%20%281511%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boris%20Vian/Tajtekos%20napok%20%281511%29/Tajtekos%20napok%20-%20Boris%20Vian.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boris%20Vian/Tajtekos%20napok%20%281511%29/Tajtekos%20napok%20-%20Boris%20Vian.epub)
 
 ### Összefoglalás
 <div>

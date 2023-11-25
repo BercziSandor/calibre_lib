@@ -1,8 +1,8 @@
 # <a name="id_1410">Jostein Gaarder: A kártya titka (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jostein%20Gaarder/A%20kartya%20titka%20%281410%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jostein%20Gaarder/A%20kartya%20titka%20%281410%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jostein%20Gaarder/A%20kartya%20titka%20%281410%29/A%20kartya%20titka%20-%20Jostein%20Gaarder.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jostein%20Gaarder/A%20kartya%20titka%20%281410%29/A%20kartya%20titka%20-%20Jostein%20Gaarder.epub)
 
 ### Tagek
 fiction, literary, család, ifjúsági
@@ -12,10 +12,10 @@ fiction, literary, család, ifjúsági
 
 
 # <a name="id_1411">Jostein Gaarder: Anna világa (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jostein%20Gaarder/Anna%20vilaga%20%281411%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jostein%20Gaarder/Anna%20vilaga%20%281411%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Jostein%20Gaarder/Anna%20vilaga%20%281411%29/Anna%20vilaga%20-%20Jostein%20Gaarder.azw3)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jostein%20Gaarder/Anna%20vilaga%20%281411%29/Anna%20vilaga%20-%20Jostein%20Gaarder.azw3)
 
 ### Tagek
 21. század, álom, cli-fi, időutazás, ifjúsági, ismeretterjesztő, kamasz főszereplő, klímaváltozás, környezetvédelem, kortárs, magyar nyelvű, norvég szerző, regény

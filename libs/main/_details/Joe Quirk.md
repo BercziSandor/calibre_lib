@@ -1,9 +1,9 @@
 # <a name="id_1524">Joe Quirk: Prűdek és paráznák (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joe%20Quirk/Prudek%20es%20paraznak%20%281524%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joe%20Quirk/Prudek%20es%20paraznak%20%281524%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joe%20Quirk/Prudek%20es%20paraznak%20%281524%29/Prudek%20es%20paraznak%20-%20Joe%20Quirk.epub) 
- [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Joe%20Quirk/Prudek%20es%20paraznak%20%281524%29/Prudek%20es%20paraznak%20-%20Joe%20Quirk.pdf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joe%20Quirk/Prudek%20es%20paraznak%20%281524%29/Prudek%20es%20paraznak%20-%20Joe%20Quirk.epub) 
+ [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joe%20Quirk/Prudek%20es%20paraznak%20%281524%29/Prudek%20es%20paraznak%20-%20Joe%20Quirk.pdf)
 
 ### Tagek
 szexuálpszichológia, szexualitás

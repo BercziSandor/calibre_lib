@@ -1,8 +1,8 @@
 # <a name="id_995">Elin Hilderbrand: Mezítláb (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Elin%20Hilderbrand/Mezitlab%20%28995%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Elin%20Hilderbrand/Mezitlab%20%28995%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Elin%20Hilderbrand/Mezitlab%20%28995%29/Mezitlab%20-%20Elin%20Hilderbrand.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Elin%20Hilderbrand/Mezitlab%20%28995%29/Mezitlab%20-%20Elin%20Hilderbrand.epub)
 
 ### Tagek
 amerikai szerző, betegség, kortárs, magyar nyelvű, rákbetegség, regény, romantikus, irodalom, szépirodalom

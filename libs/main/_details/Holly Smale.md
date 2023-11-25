@@ -1,8 +1,8 @@
 # <a name="id_1002">Holly Smale: A lány, akit soha senki sem vett észre (Geek girl 1) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Holly%20Smale/A%20lany%2C%20akit%20soha%20senki%20sem%20vett%20es%20%281002%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Holly%20Smale/A%20lany%2C%20akit%20soha%20senki%20sem%20vett%20es%20%281002%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Holly%20Smale/A%20lany%2C%20akit%20soha%20senki%20sem%20vett%20es%20%281002%29/A%20lany%2C%20akit%20soha%20senki%20sem%20vet%20-%20Holly%20Smale.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Holly%20Smale/A%20lany%2C%20akit%20soha%20senki%20sem%20vett%20es%20%281002%29/A%20lany%2C%20akit%20soha%20senki%20sem%20vet%20-%20Holly%20Smale.epub)
 
 ### Tagek
 21. század, anglia, barátság, brit szerző, divat, iskola, kortárs, magyar nyelvű, regény, sorozat része, ifjúsági, humoros
@@ -13,10 +13,10 @@
 
 
 # <a name="id_1003">Holly Smale: A lány, aki mindig mindent félreért (Geek girl 2) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Holly%20Smale/A%20lany%2C%20aki%20mindig%20mindent%20felreert%20%281003%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Holly%20Smale/A%20lany%2C%20aki%20mindig%20mindent%20felreert%20%281003%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Holly%20Smale/A%20lany%2C%20aki%20mindig%20mindent%20felreert%20%281003%29/A%20lany%2C%20aki%20mindig%20mindent%20felr%20-%20Holly%20Smale.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Holly%20Smale/A%20lany%2C%20aki%20mindig%20mindent%20felreert%20%281003%29/A%20lany%2C%20aki%20mindig%20mindent%20felr%20-%20Holly%20Smale.epub)
 
 ### Tagek
 21. század, anglia, brit szerző, divat, gyermekkönyv iskolásoknak, japán (ország), magyar nyelvű, regény, romantikus, sorozat része, humoros, ifjúsági

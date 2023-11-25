@@ -1,8 +1,8 @@
 # <a name="id_330">Robert Merle: Francia história (Francia história 1) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Francia%20historia%20%28330%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Francia%20historia%20%28330%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Francia%20historia%20%28330%29/Francia%20historia%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Francia%20historia%20%28330%29/Francia%20historia%20-%20Robert%20Merle.epub)
 
 ### Tagek
 16. század, francia, francia szerző, franciaország, magyar nyelvű, regény, sorozat része, történelem, történelmi regény, vallásháború, világtörténelem
@@ -12,10 +12,10 @@ Valóságos ​írói rekordot állított fel a Magyarországon is rendkívül n
 
 
 # <a name="id_329">Robert Merle: Csikóéveink (Francia história 2) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Csikoeveink%20%28329%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Csikoeveink%20%28329%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Csikoeveink%20%28329%29/Csikoeveink%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Csikoeveink%20%28329%29/Csikoeveink%20-%20Robert%20Merle.epub)
 
 ### Tagek
 16. század, francia, francia szerző, franciaország, magyar nyelvű, regény, sorozat része, történelem, vallásháború
@@ -25,10 +25,10 @@ A ​XVI. századi Franciaországot, a hugenották viharos, vérzivataros száza
 
 
 # <a name="id_338">Robert Merle: Szenvedélyes szeretet (Francia história 5) (1993)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Szenvedelyes%20szeretet%20%28338%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Szenvedelyes%20szeretet%20%28338%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Szenvedelyes%20szeretet%20%28338%29/Szenvedelyes%20szeretet%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Szenvedelyes%20szeretet%20%28338%29/Szenvedelyes%20szeretet%20-%20Robert%20Merle.epub)
 
 ### Tagek
 16. század, férfi főszereplő, francia, francia szerző, király, magyar nyelvű, párizs, regény, sorozat része, történelem, történelmi regény, vallásháború
@@ -39,10 +39,10 @@ A történelmi és irodalmi fordulatokban bővelkedő, remekbe szabott, amúgy i
 
 
 # <a name="id_324">Robert Merle: A pirkadat (Francia história 6) (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/A%20pirkadat%20%28324%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/A%20pirkadat%20%28324%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/A%20pirkadat%20%28324%29/A%20pirkadat%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/A%20pirkadat%20%28324%29/A%20pirkadat%20-%20Robert%20Merle.epub)
 
 ### Tagek
 16. század, férfi főszereplő, francia, francia szerző, király, magyar nyelvű, párizs, regény, róma, sorozat része, történelem, történelmi regény
@@ -52,10 +52,10 @@ A ​XVI. századi Franciaországot, a hugenották viharos, vérzivataros száza
 
 
 # <a name="id_332">Robert Merle: Libben a szoknya (Francia história 7) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Libben%20a%20szoknya%20%28332%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Libben%20a%20szoknya%20%28332%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Libben%20a%20szoknya%20%28332%29/Libben%20a%20szoknya%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Libben%20a%20szoknya%20%28332%29/Libben%20a%20szoknya%20-%20Robert%20Merle.epub)
 
 ### Tagek
 17. század, francia, francia szerző, magyar nyelvű, regény, sorozat része, történelem, történelmi regény
@@ -65,10 +65,10 @@ A ​XVI. századi Franciaországot, a hugenották viharos, vérzivataros száza
 
 
 # <a name="id_323">Robert Merle: A gyermekkirály (Francia história 8) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/A%20gyermekkiraly%20%28323%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/A%20gyermekkiraly%20%28323%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/A%20gyermekkiraly%20%28323%29/A%20gyermekkiraly%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/A%20gyermekkiraly%20%28323%29/A%20gyermekkiraly%20-%20Robert%20Merle.epub)
 
 ### Tagek
 17. század, francia, francia szerző, magyar nyelvű, regény, sorozat része, történelem, történelmi regény
@@ -84,10 +84,10 @@ A következő évek a hatalom megszerzéséről (a trónörökös), illetve anna
 
 
 # <a name="id_328">Robert Merle: Az élet rózsái (Francia história 9) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Az%20elet%20rozsai%20%28328%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Az%20elet%20rozsai%20%28328%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Az%20elet%20rozsai%20%28328%29/Az%20elet%20rozsai%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Az%20elet%20rozsai%20%28328%29/Az%20elet%20rozsai%20-%20Robert%20Merle.epub)
 
 ### Tagek
 17. század, francia, francia szerző, magyar nyelvű, regény, sorozat része, történelem, történelmi regény
@@ -106,10 +106,10 @@ A válaszokat a következő részekben kapjuk meg, egyvalamiben azonban teljesen
 
 
 # <a name="id_333">Robert Merle: Liliom és bíbor (Francia história 10) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Liliom%20es%20bibor%20%28333%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Liliom%20es%20bibor%20%28333%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Liliom%20es%20bibor%20%28333%29/Liliom%20es%20bibor%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Liliom%20es%20bibor%20%28333%29/Liliom%20es%20bibor%20-%20Robert%20Merle.epub)
 
 ### Tagek
 17. század, francia szerző, magyar nyelvű, regény, sorozat része, történelem, történelmi regény
@@ -132,10 +132,10 @@ A ​Magyarországon hallatlanul népszerű francia író, Robert Merle immáron
 
 
 # <a name="id_341">Robert Merle: Veszedelem és dicsőség (Francia história 11) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Veszedelem%20es%20dicsoseg%20%28341%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Veszedelem%20es%20dicsoseg%20%28341%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Veszedelem%20es%20dicsoseg%20%28341%29/Veszedelem%20es%20dicsoseg%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Veszedelem%20es%20dicsoseg%20%28341%29/Veszedelem%20es%20dicsoseg%20-%20Robert%20Merle.epub)
 
 ### Tagek
 17. század, francia, francia szerző, magyar nyelvű, regény, sorozat része, történelem, történelmi regény
@@ -146,10 +146,10 @@ A ​XVI. és XVII. századi Franciaországot, a hugenották viharos, vérzivata
 
 
 # <a name="id_327">Robert Merle: Ármány és cselszövés (Francia história 12) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Armany%20es%20cselszoves%20%28327%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Armany%20es%20cselszoves%20%28327%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Armany%20es%20cselszoves%20%28327%29/Armany%20es%20cselszoves%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Armany%20es%20cselszoves%20%28327%29/Armany%20es%20cselszoves%20-%20Robert%20Merle.epub)
 
 ### Tagek
 17. század, francia szerző, magyar nyelvű, regény, sorozat része, történelem, történelmi regény
@@ -160,10 +160,10 @@ A ​XVI. és XVII. századi Franciaországot, a hugenották viharos, vérzivata
 
 
 # <a name="id_337">Robert Merle: Pallos és szerelem (Francia história 13) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Pallos%20es%20szerelem%20%28337%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Pallos%20es%20szerelem%20%28337%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Pallos%20es%20szerelem%20%28337%29/Pallos%20es%20szerelem%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Pallos%20es%20szerelem%20%28337%29/Pallos%20es%20szerelem%20-%20Robert%20Merle.epub)
 
 ### Tagek
 17. század, francia szerző, magyar nyelvű, regény, sorozat része, történelem, történelmi regény
@@ -173,10 +173,10 @@ A ​Francia história e tizenharmadik s egyben utolsó kötete hiszen Robert Me
 
 
 # <a name="id_331">Robert Merle: Két nap az élet (1961)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Ket%20nap%20az%20elet%20%28331%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Ket%20nap%20az%20elet%20%28331%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Ket%20nap%20az%20elet%20%28331%29/Ket%20nap%20az%20elet%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Ket%20nap%20az%20elet%20%28331%29/Ket%20nap%20az%20elet%20-%20Robert%20Merle.epub)
 
 ### Tagek
 2. világháború, 20. század, filmadaptáció, francia szerző, franciaország, goncourt-díj, háború, halál, hangoskönyv, lélektani, magyar nyelvű, regény, történelem, történelmi regény
@@ -186,10 +186,10 @@ Fülledt nyári szombat délután. Tengerkék ég, égszínkék tenger. Lustán 
 
 
 # <a name="id_334">Robert Merle: Madrapur (1981)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Madrapur%20%28334%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Madrapur%20%28334%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Madrapur%20%28334%29/Madrapur%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Madrapur%20%28334%29/Madrapur%20-%20Robert%20Merle.epub)
 
 ### Tagek
 20. század, betegség, francia szerző, halál, klasszikus, kommunikáció, lélektani, magyar nyelvű, regény, repülő, szocializáció, szociálpszichológia, terrorizmus, utazás
@@ -199,10 +199,10 @@ Fülledt nyári szombat délután. Tengerkék ég, égszínkék tenger. Lustán 
 
 
 # <a name="id_340">Robert Merle: Védett férfiak (1983)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Vedett%20ferfiak%20%28340%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Vedett%20ferfiak%20%28340%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Vedett%20ferfiak%20%28340%29/Vedett%20ferfiak%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Vedett%20ferfiak%20%28340%29/Vedett%20ferfiak%20-%20Robert%20Merle.epub)
 
 ### Tagek
 20. század, disztópia, feminizmus, férfi főszereplő, francia szerző, járvány, klasszikus, kortárs, magyar nyelvű, nagy könyv, nemi szerep, regény, sci-fi, szexualitás, társadalmi sci-fi, vírus
@@ -215,10 +215,10 @@ A járvány radikálisan átalakítja a társadalmat, s különösképpen a csal
 
 
 # <a name="id_325">Robert Merle: A sziget (1988)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/A%20sziget%20%28325%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/A%20sziget%20%28325%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/A%20sziget%20%28325%29/A%20sziget%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/A%20sziget%20%28325%29/A%20sziget%20-%20Robert%20Merle.epub)
 
 ### Tagek
 18. század, csendes-óceán, disztópia, férfi főszereplő, francia szerző, kalandregény, magyar nyelvű, nagy könyv, regény, sziget
@@ -228,10 +228,10 @@ A ​kitűnő, Goncourt-díjas francia írót ismeri és szereti a magyar olvas�
 
 
 # <a name="id_326">Robert Merle: Állati elmék (1993)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Allati%20elmek%20%28326%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Allati%20elmek%20%28326%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Allati%20elmek%20%28326%29/Allati%20elmek%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Allati%20elmek%20%28326%29/Allati%20elmek%20-%20Robert%20Merle.epub)
 
 ### Tagek
 intelligencia, etológia, civil-katonai kapcsolatok, állat, florida, delfin, general fiction, 1970-es évek, klasszikus, francia szerző, állattörténet, katonaság, háború, amerikai egyesült államok, drámai cselekmény, algéria, disztópia, filmadaptáció, 20. század, 1001 könyv listán szerepel, illusztrált
@@ -241,10 +241,10 @@ Robert Merle /sz. 1908/ Goncourt-díjas francia regény- és drámaíró, a legm
 
 
 # <a name="id_335">Robert Merle: Majomábécé (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Majomabece%20%28335%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Majomabece%20%28335%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Majomabece%20%28335%29/Majomabece%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Majomabece%20%28335%29/Majomabece%20-%20Robert%20Merle.epub)
 
 ### Tagek
 állattörténet, biológia, etológia, francia szerző, ismeretterjesztő, magyar nyelvű, majom, regény, természettudomány
@@ -254,10 +254,10 @@ Egy etológus házaspár örökbe fogad egy csimpánzbébit, s úgy nevelik mint
 
 
 # <a name="id_339">Robert Merle: Üvegfal mögött (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Uvegfal%20mogott%20%28339%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Uvegfal%20mogott%20%28339%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Uvegfal%20mogott%20%28339%29/Uvegfal%20mogott%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Uvegfal%20mogott%20%28339%29/Uvegfal%20mogott%20-%20Robert%20Merle.epub)
 
 ### Tagek
 20. század, francia szerző, magyar nyelvű, regény
@@ -267,10 +267,10 @@ A ​regény színhelye a nanterre-i egyetem „üvegfallal” körülvett, zár
 
 
 # <a name="id_322">Robert Merle: A bálvány (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/A%20balvany%20%28322%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/A%20balvany%20%28322%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/A%20balvany%20%28322%29/A%20balvany%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/A%20balvany%20%28322%29/A%20balvany%20-%20Robert%20Merle.epub)
 
 ### Tagek
 16. század, francia szerző, magyar nyelvű, regény, reneszánsz, róma, romantikus, történelem, történelmi regény, történelmi romantikus, történelmi személy
@@ -280,10 +280,10 @@ A ​bálványban Merle (akárcsak nagy történelmi regénysorozatában, a Fran
 
 
 # <a name="id_336">Robert Merle: Malevil (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Malevil%20%28336%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Malevil%20%28336%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Merle/Malevil%20%28336%29/Malevil%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Malevil%20%28336%29/Malevil%20-%20Robert%20Merle.epub)
 
 ### Tagek
 20. század, apokalipszis, atomháború, disztópia, férfi főszereplő, filmadaptáció, francia szerző, franciaország, john w. campbell emlékdíj, kaland, kalandregény, klasszikus, magyar nyelvű, nagy könyv, posztapokaliptikus, regény, sci-fi, utópia

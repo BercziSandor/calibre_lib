@@ -1,8 +1,8 @@
 # <a name="id_615">Robert Louis Stevenson: Dr. Jekyll és Mr. Hyde különös esete (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Louis%20Stevenson/Dr.%20Jekyll%20es%20Mr.%20Hyde%20kulonos%20eset%20%28615%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Louis%20Stevenson/Dr.%20Jekyll%20es%20Mr.%20Hyde%20kulonos%20eset%20%28615%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Louis%20Stevenson/Dr.%20Jekyll%20es%20Mr.%20Hyde%20kulonos%20eset%20%28615%29/Dr.%20Jekyll%20es%20Mr.%20Hyde%20kulonos%20-%20Robert%20Louis%20Stevenson.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Louis%20Stevenson/Dr.%20Jekyll%20es%20Mr.%20Hyde%20kulonos%20eset%20%28615%29/Dr.%20Jekyll%20es%20Mr.%20Hyde%20kulonos%20-%20Robert%20Louis%20Stevenson.epub)
 
 ### Tagek
 1001 könyv listán szerepel, 19. század, anglia, antihős, brit szerző, fantasy, férfi főszereplő, filmadaptáció, gótikus irodalom, hangoskönyv, horror, illusztrált, kisregény, klasszikus, lélektani, london, magyar nyelvű, novella, orvos, pszicho-thriller

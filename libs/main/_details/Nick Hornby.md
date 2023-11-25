@@ -1,18 +1,18 @@
 # <a name="id_704">Nick Hornby: Pop, csajok satöbbi </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Nick%20Hornby/Pop%2C%20csajok%20satobbi%20%28704%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Pop%2C%20csajok%20satobbi%20%28704%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Nick%20Hornby/Pop%2C%20csajok%20satobbi%20%28704%29/Pop%2C%20csajok%20satobbi%20-%20Nick%20Hornby.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Pop%2C%20csajok%20satobbi%20%28704%29/Pop%2C%20csajok%20satobbi%20-%20Nick%20Hornby.epub)
 
 ### Összefoglalás
 <p>„Ha férfi vagy, el kell olvasnod ezt a könyvet, aztán elolvastatnod a partnereddel is…” írta Nick Hornby regényéről egy angol kritikusa. És a tanácsát sokan meg is fogadták, hiszen a Pop, csajok, satöbbi az utóbbi évek angol irodalmának egyik legolvasottabb, legnépszerűbb könyve. Rob Fleming, a harmincöt éves popzenerajongó, poplemezgyűjtő, poplemezboltos történetében, boldog és boldogtalan szerelmeiben, szexuális hőstetteiben és leégéseiben, fájdalmas szakításaiban és olykor Woody Allent idéző szerencsétlenkedéseiben bizonnyal sokan ráismernek a saját életükre – és jólesően kinevetik a főhőssel együtt saját magukat is. Nick Hornby ugyanis egyre terebélyesedő sikerét leginkább egészen utánozhatatlan humorának és öniróniájának köszönheti. Egy szó mint száz: ha férfi vagy (vagy nő, aki szeretné megismerni a mai férfiak mafla, gyötrődő lelkét), ha voltál már szerelmes (vagy leszel), ha valaha elhagyott a partnered (vagy te hagytad el őt), ha szereted a popzenét (bár akkor is, ha nem), ha még kezdő vagy, és szeretnéd tudni, milyen megpróbáltatások várnak rád a szexben és a szerelemben, vagy ha már túl vagy sok mindenen, ha olykor a szexet zűrös dolognak érzed, máskor meg az egyetlen örömnek az életben, ha olykor elfog a halálfélelem, ha sehogy sem sikerül felnőnöd, ha néha szörnyen elcseszed az életed… akkor el kell olvasnod ezt a könyvet.</p>
 
 
 # <a name="id_304">Nick Hornby: Hogy legyünk jók? (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Nick%20Hornby/Hogy%20legyunk%20jok_%20%28304%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Hogy%20legyunk%20jok_%20%28304%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Nick%20Hornby/Hogy%20legyunk%20jok_%20%28304%29/Hogy%20legyunk%20jok_%20-%20Nick%20Hornby.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Hogy%20legyunk%20jok_%20%28304%29/Hogy%20legyunk%20jok_%20-%20Nick%20Hornby.epub)
 
 ### Tagek
 21. század, angol szerző, brit szerző, kereszténység, magyar nyelvű, vallás, 20. század, angol, brit, házasság, kortárs, regény
@@ -23,10 +23,10 @@
 
 
 # <a name="id_708">Nick Hornby: Betoncsók (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Nick%20Hornby/Betoncsok%20%28708%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Betoncsok%20%28708%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Nick%20Hornby/Betoncsok%20%28708%29/Betoncsok%20-%20Nick%20Hornby.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Betoncsok%20%28708%29/Betoncsok%20-%20Nick%20Hornby.epub)
 
 ### Tagek
 21. század, angol szerző, brit szerző, férfi főszereplő, gördeszka, időutazás, ifjúsági, kamasz főszereplő, kamaszkor, kortárs, magyar nyelvű, párkapcsolat, regény, szülői szerep, terhesség
@@ -37,10 +37,10 @@
 
 
 # <a name="id_709">Nick Hornby: A Meztelen Juliet (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Nick%20Hornby/A%20Meztelen%20Juliet%20%28709%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/A%20Meztelen%20Juliet%20%28709%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Nick%20Hornby/A%20Meztelen%20Juliet%20%28709%29/A%20Meztelen%20Juliet%20-%20Nick%20Hornby.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/A%20Meztelen%20Juliet%20%28709%29/A%20Meztelen%20Juliet%20-%20Nick%20Hornby.epub)
 
 ### Tagek
 21. század, angol szerző, brit szerző, filmadaptáció, humoros, kortárs, magyar nyelvű, női főszereplő, párkapcsolat, popkultúra, regény, zenész
@@ -51,10 +51,10 @@
 
 
 # <a name="id_703">Nick Hornby: Fociláz (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Nick%20Hornby/Focilaz%20%28703%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Focilaz%20%28703%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Nick%20Hornby/Focilaz%20%28703%29/Focilaz%20-%20Nick%20Hornby.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Focilaz%20%28703%29/Focilaz%20-%20Nick%20Hornby.epub)
 
 ### Tagek
 20. század, angol szerző, brit szerző, férfi főszereplő, filmadaptáció, humoros, ismeretközlő irodalom, kortárs, labdarúgás, london, magyar nyelvű, memoár, sport
@@ -65,10 +65,10 @@
 
 
 # <a name="id_705">Nick Hornby: Hosszú út lefelé (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Nick%20Hornby/Hosszu%20ut%20lefele%20%28705%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Hosszu%20ut%20lefele%20%28705%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Nick%20Hornby/Hosszu%20ut%20lefele%20%28705%29/Hosszu%20ut%20lefele%20-%20Nick%20Hornby.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Hosszu%20ut%20lefele%20%28705%29/Hosszu%20ut%20lefele%20-%20Nick%20Hornby.epub)
 
 ### Tagek
 21. század, angol szerző, barátság, brit szerző, filmadaptáció, hangoskönyv, kortárs, london, magyar nyelvű, öngyilkosság, önismeret, popkultúra, pszichológia, regény, váltott szemszög
@@ -79,10 +79,10 @@
 
 
 # <a name="id_707">Nick Hornby: Egy fiúról (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Nick%20Hornby/Egy%20fiurol%20%28707%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Egy%20fiurol%20%28707%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Nick%20Hornby/Egy%20fiurol%20%28707%29/Egy%20fiurol%20-%20Nick%20Hornby.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Egy%20fiurol%20%28707%29/Egy%20fiurol%20-%20Nick%20Hornby.epub)
 
 ### Tagek
 20. század, angol szerző, barátság, brit szerző, bullying, depresszió, filmadaptáció, hangoskönyv, humoros, kortárs, london, magyar nyelvű, öngyilkosság, regény, szülői szerep

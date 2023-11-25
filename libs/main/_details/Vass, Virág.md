@@ -1,8 +1,8 @@
 # <a name="id_306">Vass, Virág: Krásznájá Moszkva (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Vass%2C%20Virag/Krasznaja%20Moszkva%20%28306%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vass%2C%20Virag/Krasznaja%20Moszkva%20%28306%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vass%2C%20Virag/Krasznaja%20Moszkva%20%28306%29/Krasznaja%20Moszkva%20-%20Vass%2C%20Virag.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vass%2C%20Virag/Krasznaja%20Moszkva%20%28306%29/Krasznaja%20Moszkva%20-%20Vass%2C%20Virag.epub)
 
 ### Tagek
 magyar nyelvű, magyar szerző, regény, kortárs, szórakoztató irodalom, romantikus
@@ -13,10 +13,10 @@ magyar nyelvű, magyar szerző, regény, kortárs, szórakoztató irodalom, roma
 
 
 # <a name="id_309">Vass, Virág: Sokszor csókol, India! (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Vass%2C%20Virag/Sokszor%20csokol%2C%20India%21%20%28309%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vass%2C%20Virag/Sokszor%20csokol%2C%20India%21%20%28309%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vass%2C%20Virag/Sokszor%20csokol%2C%20India%21%20%28309%29/Sokszor%20csokol%2C%20India%21%20-%20Vass%2C%20Virag.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vass%2C%20Virag/Sokszor%20csokol%2C%20India%21%20%28309%29/Sokszor%20csokol%2C%20India%21%20-%20Vass%2C%20Virag.epub)
 
 ### Tagek
 fiction, romance, general

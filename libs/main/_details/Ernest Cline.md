@@ -1,8 +1,8 @@
 # <a name="id_1275">Ernest Cline: Ready Player One (Ready Player One 1) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ernest%20Cline/Ready%20Player%20One%20%281275%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ernest%20Cline/Ready%20Player%20One%20%281275%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ernest%20Cline/Ready%20Player%20One%20%281275%29/Ready%20Player%20One%20-%20Ernest%20Cline.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ernest%20Cline/Ready%20Player%20One%20%281275%29/Ready%20Player%20One%20-%20Ernest%20Cline.epub)
 
 ### Tagek
 1980-as évek, 20. század, 21. század, amerikai szerző, cyberpunk, disztópia, férfi főszereplő, filmadaptáció, ifjúsági, játék, jövőben játszódik, kortárs, magyar nyelvű, regény, sorozat része, számítógép, virtuális valóság, sci-fi

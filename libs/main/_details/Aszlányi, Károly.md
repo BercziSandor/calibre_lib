@@ -1,8 +1,8 @@
 # <a name="id_851">Aszlányi, Károly: Az Északi Park felfedezése </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Az%20Eszaki%20Park%20felfedezese%20%28851%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Aszlanyi%2C%20Karoly/Az%20Eszaki%20Park%20felfedezese%20%28851%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Az%20Eszaki%20Park%20felfedezese%20%28851%29/Az%20Eszaki%20Park%20felfedezese%20-%20Aszlanyi%2C%20Karoly.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Aszlanyi%2C%20Karoly/Az%20Eszaki%20Park%20felfedezese%20%28851%29/Az%20Eszaki%20Park%20felfedezese%20-%20Aszlanyi%2C%20Karoly.epub)
 
 ### Tagek
 ifjúsági
@@ -12,10 +12,10 @@ ifjúsági
 
 
 # <a name="id_853">Aszlányi, Károly: Sok hűhó Emmiért (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Sok%20huho%20Emmiert%20%28853%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Aszlanyi%2C%20Karoly/Sok%20huho%20Emmiert%20%28853%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Sok%20huho%20Emmiert%20%28853%29/Sok%20huho%20Emmiert%20-%20Aszlanyi%2C%20Karoly.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Aszlanyi%2C%20Karoly/Sok%20huho%20Emmiert%20%28853%29/Sok%20huho%20Emmiert%20-%20Aszlanyi%2C%20Karoly.epub)
 
 ### Tagek
 20. század, humor, kortárs, regény, romantikus
@@ -25,10 +25,10 @@ ifjúsági
 
 
 # <a name="id_852">Aszlányi, Károly: Pénz a láthatáron (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Penz%20a%20lathataron%20%28852%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Aszlanyi%2C%20Karoly/Penz%20a%20lathataron%20%28852%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Penz%20a%20lathataron%20%28852%29/Penz%20a%20lathataron%20-%20Aszlanyi%2C%20Karoly.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Aszlanyi%2C%20Karoly/Penz%20a%20lathataron%20%28852%29/Penz%20a%20lathataron%20-%20Aszlanyi%2C%20Karoly.epub)
 
 ### Tagek
 humor
@@ -47,10 +47,10 @@ humor
 
 
 # <a name="id_854">Aszlányi, Károly: Brentford rendet csinál (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Brentford%20rendet%20csinal%20%28854%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Aszlanyi%2C%20Karoly/Brentford%20rendet%20csinal%20%28854%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Brentford%20rendet%20csinal%20%28854%29/Brentford%20rendet%20csinal%20-%20Aszlanyi%2C%20Karoly.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Aszlanyi%2C%20Karoly/Brentford%20rendet%20csinal%20%28854%29/Brentford%20rendet%20csinal%20-%20Aszlanyi%2C%20Karoly.epub)
 
 ### Tagek
 irodalom, szórakoztató irodalom
@@ -61,11 +61,11 @@ irodalom, szórakoztató irodalom
 
 
 # <a name="id_855">Aszlányi, Károly: Haybodyt nem lehet agyonütni (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Haybodyt%20nem%20lehet%20agyonutni%20%28855%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Aszlanyi%2C%20Karoly/Haybodyt%20nem%20lehet%20agyonutni%20%28855%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Haybodyt%20nem%20lehet%20agyonutni%20%28855%29/Haybodyt%20nem%20lehet%20agyonutni%20-%20Aszlanyi%2C%20Karoly.epub) 
- [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Haybodyt%20nem%20lehet%20agyonutni%20%28855%29/Haybodyt%20nem%20lehet%20agyonutni%20-%20Aszlanyi%2C%20Karoly.rtf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Aszlanyi%2C%20Karoly/Haybodyt%20nem%20lehet%20agyonutni%20%28855%29/Haybodyt%20nem%20lehet%20agyonutni%20-%20Aszlanyi%2C%20Karoly.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Aszlanyi%2C%20Karoly/Haybodyt%20nem%20lehet%20agyonutni%20%28855%29/Haybodyt%20nem%20lehet%20agyonutni%20-%20Aszlanyi%2C%20Karoly.rtf)
 
 ### Tagek
 irodalom, szépirodalom
@@ -81,10 +81,10 @@ irodalom, szépirodalom
 
 
 # <a name="id_850">Aszlányi, Károly: Hét pofon (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Het%20pofon%20%28850%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Aszlanyi%2C%20Karoly/Het%20pofon%20%28850%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Het%20pofon%20%28850%29/Het%20pofon%20-%20Aszlanyi%2C%20Karoly.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Aszlanyi%2C%20Karoly/Het%20pofon%20%28850%29/Het%20pofon%20-%20Aszlanyi%2C%20Karoly.epub)
 
 ### Tagek
 irodalom, szórakoztató irodalom, 20. század, próza, regény
@@ -94,11 +94,11 @@ irodalom, szórakoztató irodalom, 20. század, próza, regény
 
 
 # <a name="id_787">Aszlányi, Károly: Kalandos vakáció (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Kalandos%20vakacio%20%28787%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Aszlanyi%2C%20Karoly/Kalandos%20vakacio%20%28787%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Kalandos%20vakacio%20%28787%29/Kalandos%20vakacio%20-%20Aszlanyi%2C%20Karoly.epub) 
- [prc](https://github.com/BercziSandor/calibre_lib/raw/main/Aszlanyi%2C%20Karoly/Kalandos%20vakacio%20%28787%29/Kalandos%20vakacio%20-%20Aszlanyi%2C%20Karoly.prc)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Aszlanyi%2C%20Karoly/Kalandos%20vakacio%20%28787%29/Kalandos%20vakacio%20-%20Aszlanyi%2C%20Karoly.epub) 
+ [prc](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Aszlanyi%2C%20Karoly/Kalandos%20vakacio%20%28787%29/Kalandos%20vakacio%20-%20Aszlanyi%2C%20Karoly.prc)
 
 ### Tagek
 gyermek- és ifjúsági irodalom, ifjúsági, illusztrált

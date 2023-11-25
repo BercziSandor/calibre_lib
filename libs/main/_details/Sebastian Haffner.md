@@ -1,9 +1,9 @@
 # <a name="id_1445">Sebastian Haffner: A Német Birodalom hét főbűne az első világháborúban (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Sebastian%20Haffne/A%20Nemet%20Birodalom%20het%20fobune%20az%20els%20%281445%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sebastian%20Haffne/A%20Nemet%20Birodalom%20het%20fobune%20az%20els%20%281445%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Sebastian%20Haffne/A%20Nemet%20Birodalom%20het%20fobune%20az%20els%20%281445%29/A%20Nemet%20Birodalom%20het%20fobune%20az%20-%20Sebastian%20Haffne.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Sebastian%20Haffne/A%20Nemet%20Birodalom%20het%20fobune%20az%20els%20%281445%29/A%20Nemet%20Birodalom%20het%20fobune%20az%20-%20Sebastian%20Haffner.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sebastian%20Haffne/A%20Nemet%20Birodalom%20het%20fobune%20az%20els%20%281445%29/A%20Nemet%20Birodalom%20het%20fobune%20az%20-%20Sebastian%20Haffne.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sebastian%20Haffne/A%20Nemet%20Birodalom%20het%20fobune%20az%20els%20%281445%29/A%20Nemet%20Birodalom%20het%20fobune%20az%20-%20Sebastian%20Haffner.epub)
 
 ### Tagek
 20. század, magyar nyelvű, német szerző, történelem

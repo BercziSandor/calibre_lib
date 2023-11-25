@@ -1,8 +1,8 @@
 # <a name="id_904">Laura D.: Szex és tandíj (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Laura%20D_/Szex%20es%20tandij%20%28904%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Laura%20D_/Szex%20es%20tandij%20%28904%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Laura%20D_/Szex%20es%20tandij%20%28904%29/Szex%20es%20tandij%20-%20Laura%20D_.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Laura%20D_/Szex%20es%20tandij%20%28904%29/Szex%20es%20tandij%20-%20Laura%20D_.epub)
 
 ### Tagek
 21. század, chick lit, diákélet, egyetem, erotikus, felnőtt tartalom, filmadaptáció, francia, franciaország, igaz történet alapján, iskola, kaland, kalandregény, magyar nyelvű, new adult, női főszereplő, prostitúció, regény, romantikus, tanulás, erotika

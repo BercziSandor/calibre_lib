@@ -1,8 +1,8 @@
 # <a name="id_617">Thomas Enger: Hegek (Henning Juul 1) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Thomas%20Enger/Hegek%20%28617%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Thomas%20Enger/Hegek%20%28617%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Thomas%20Enger/Hegek%20%28617%29/Hegek%20-%20Thomas%20Enger.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Thomas%20Enger/Hegek%20%28617%29/Hegek%20-%20Thomas%20Enger.epub)
 
 ### Tagek
 21. század, gyilkosság, magyar nyelvű, norvég szerző, regény, sorozat része, krimi, bűnügyi, thriller, skandináv

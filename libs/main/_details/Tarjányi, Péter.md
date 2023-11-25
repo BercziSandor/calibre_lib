@@ -1,9 +1,9 @@
 # <a name="id_478">Tarjányi, Péter: Meglátni és megveretni (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Tarjanyi%2C%20Peter/Meglatni%20es%20megveretni%20%28478%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tarjanyi%2C%20Peter/Meglatni%20es%20megveretni%20%28478%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Tarjanyi%2C%20Peter/Meglatni%20es%20megveretni%20%28478%29/Meglatni%20es%20megveretni%20-%20Tarjanyi%2C%20Peter.epub) 
- [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Tarjanyi%2C%20Peter/Meglatni%20es%20megveretni%20%28478%29/Meglatni%20es%20megveretni%20-%20Tarjanyi%2C%20Peter.pdf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tarjanyi%2C%20Peter/Meglatni%20es%20megveretni%20%28478%29/Meglatni%20es%20megveretni%20-%20Tarjanyi%2C%20Peter.epub) 
+ [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tarjanyi%2C%20Peter/Meglatni%20es%20megveretni%20%28478%29/Meglatni%20es%20megveretni%20-%20Tarjanyi%2C%20Peter.pdf)
 
 ### Tagek
 1990-es évek, 20. század, bűnüldözés, igazságügyi, kriminalisztika, maffia, magyar nyelvű, magyar szerző, rendszerváltás, megtörtént bűnügyek, dokumentumregények, szépirodalom

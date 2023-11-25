@@ -1,8 +1,8 @@
 # <a name="id_779">Elizabeth Hand: 12 majom (1996)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Elizabeth%20Hand/12%20Majom%20%28779%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Elizabeth%20Hand/12%20Majom%20%28779%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Elizabeth%20Hand/12%20Majom%20%28779%29/12%20majom%20-%20Elizabeth%20Hand.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Elizabeth%20Hand/12%20Majom%20%28779%29/12%20majom%20-%20Elizabeth%20Hand.epub)
 
 ### Tagek
 amerikai szerző, filmből készült könyv, időutazás, magyar nyelvű, sci-fi, irodalom, szépirodalom, regény, filmadaptáció

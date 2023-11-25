@@ -1,8 +1,8 @@
 # <a name="id_1449">David Attenborough: Egy ifjú természettudós történetei (Zoo Quest 1) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/David%20Attenborough/Egy%20ifju%20termeszettudos%20tortenetei%20%281449%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/David%20Attenborough/Egy%20ifju%20termeszettudos%20tortenetei%20%281449%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/David%20Attenborough/Egy%20ifju%20termeszettudos%20tortenetei%20%281449%29/Egy%20ifju%20termeszettudos%20tortene%20-%20David%20Attenborough.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/David%20Attenborough/Egy%20ifju%20termeszettudos%20tortenetei%20%281449%29/Egy%20ifju%20termeszettudos%20tortene%20-%20David%20Attenborough.epub)
 
 ### Tagek
 állat, állatkert, állattan, állatvilág, angol szerző, argentína, biológia, dél-amerika, délkelet-ázsia, guyana, indonézia, kaland, környezetvédelem, önéletrajz, paraguay, sorozat része, angol, élővilág, illusztrált, ismeretterjesztő, magyar nyelvű, természetvédelem

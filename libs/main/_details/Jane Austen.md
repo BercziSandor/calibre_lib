@@ -1,8 +1,8 @@
 # <a name="id_58">Jane Austen: Értelem és érzelem (A világirodalom remekei 1) (1986)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Austen/Ertelem%20es%20erzelem%20%2858%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/Ertelem%20es%20erzelem%20%2858%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Austen/Ertelem%20es%20erzelem%20%2858%29/Ertelem%20es%20erzelem%20-%20Jane%20Austen.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/Ertelem%20es%20erzelem%20%2858%29/Ertelem%20es%20erzelem%20-%20Jane%20Austen.epub)
 
 ### Tagek
 irodalom, további könyveink, szépirodalom
@@ -14,10 +14,10 @@ irodalom, további könyveink, szépirodalom
 
 
 # <a name="id_56">Jane Austen: Büszkeség és Balítélet (1975)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Austen/Buszkeseg%20es%20Balitelet%20%2856%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/Buszkeseg%20es%20Balitelet%20%2856%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Austen/Buszkeseg%20es%20Balitelet%20%2856%29/Buszkeseg%20es%20Balitelet%20-%20Jane%20Austen.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/Buszkeseg%20es%20Balitelet%20%2856%29/Buszkeseg%20es%20Balitelet%20-%20Jane%20Austen.epub)
 
 ### Tagek
 regény, irodalom, szépirodalom
@@ -27,10 +27,10 @@ regény, irodalom, szépirodalom
 
 
 # <a name="id_54">Jane Austen: A Klastrom Titka (1983)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Austen/A%20Klastrom%20Titka%20%2854%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/A%20Klastrom%20Titka%20%2854%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Austen/A%20Klastrom%20Titka%20%2854%29/A%20Klastrom%20Titka%20-%20Jane%20Austen.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/A%20Klastrom%20Titka%20%2854%29/A%20Klastrom%20Titka%20-%20Jane%20Austen.epub)
 
 ### Tagek
 love stories
@@ -43,10 +43,10 @@ Catherine Morland végül mégiscsak eléri az "igaz hősnői magaslatokat"- enn
 
 
 # <a name="id_55">Jane Austen: A Mansfieldi Kastély (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Austen/A%20Mansfieldi%20Kastely%20%2855%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/A%20Mansfieldi%20Kastely%20%2855%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Austen/A%20Mansfieldi%20Kastely%20%2855%29/A%20Mansfieldi%20Kastely%20-%20Jane%20Austen.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/A%20Mansfieldi%20Kastely%20%2855%29/A%20Mansfieldi%20Kastely%20-%20Jane%20Austen.epub)
 
 ### Tagek
 1001 könyv listán szerepel, angol, a világirodalom remekei, 19. század, 10-es évek, házasság, női sors, filmadaptáció, családtörténet, romantikus, regény, szépirodalom, szerelem, film
@@ -58,10 +58,10 @@ Fanny Price-nak számos szerelmi intrika közepette is sikerül megóvnia tiszta
 
 
 # <a name="id_57">Jane Austen: Emma (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Austen/Emma%20%2857%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/Emma%20%2857%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Austen/Emma%20%2857%29/Emma%20-%20Jane%20Austen.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/Emma%20%2857%29/Emma%20-%20Jane%20Austen.epub)
 
 ### Tagek
 anglia, fiction, literary, filmadaptáció, romantikus, regény, classics, fathers and daughters, female friendship, young women, courtship, man-woman relationships, angol, juvenile fiction, 19. század, coming of age, női sors, 1001 könyv listán szerepel, england - social life and customs - 19th century, england, humorous, young women - england
@@ -71,10 +71,10 @@ anglia, fiction, literary, filmadaptáció, romantikus, regény, classics, fathe
 
 
 # <a name="id_59">Jane Austen: Meggyőző érvek (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Austen/Meggyozo%20ervek%20%2859%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/Meggyozo%20ervek%20%2859%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Austen/Meggyozo%20ervek%20%2859%29/Meggyozo%20ervek%20-%20Jane%20Austen.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/Meggyozo%20ervek%20%2859%29/Meggyozo%20ervek%20-%20Jane%20Austen.epub)
 
 ### Tagek
 anglia, ship captains, angol, motherless families, 19. század, rejection (psychology), brit, england, női sors, filmadaptáció, romantikus, young women, regény, psychological fiction
@@ -84,10 +84,10 @@ anglia, ship captains, angol, motherless families, 19. század, rejection (psych
 
 
 # <a name="id_996">Jane Austen: Meggyőző érvek (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Austen/Meggyozo%20ervek%20%28996%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/Meggyozo%20ervek%20%28996%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jane%20Austen/Meggyozo%20ervek%20%28996%29/Meggyozo%20ervek%20-%20Jane%20Austen.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/Meggyozo%20ervek%20%28996%29/Meggyozo%20ervek%20-%20Jane%20Austen.epub)
 
 ### Tagek
 1001 könyv listán szerepel, 19. század, anglia, angol, brit, filmadaptáció, klasszikus, lányregény, nagy-britannia, női sors, próza, regény, romantikus, szerelem, testvérek, viktoriánus, világirodalom

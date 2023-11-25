@@ -1,8 +1,8 @@
 # <a name="id_468">Okszana Zabuzsko: Terepvizsgálatok az ukránok szexuális életéről (1999)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Okszana%20Zabuzsko/Terepvizsgalatok%20az%20ukranok%20szexualis%20eleterol%20%28468%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Okszana%20Zabuzsko/Terepvizsgalatok%20az%20ukranok%20szexualis%20eleterol%20%28468%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Okszana%20Zabuzsko/Terepvizsgalatok%20az%20ukranok%20szexualis%20eleterol%20%28468%29/Terepvizsgalatok%20az%20ukranok%20sze%20-%20Okszana%20Zabuzsko.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Okszana%20Zabuzsko/Terepvizsgalatok%20az%20ukranok%20szexualis%20eleterol%20%28468%29/Terepvizsgalatok%20az%20ukranok%20sze%20-%20Okszana%20Zabuzsko.epub)
 
 ### Tagek
 20. század, feminizmus, fizikai bántalmazás, kortárs, magyar nyelvű, monológ, nők elleni erőszak, ukrán szerző, európa, ukrajna, az író származása szerint, szépirodalom, szex, regény, szerelem, novella, elbeszélés

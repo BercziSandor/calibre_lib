@@ -1,8 +1,8 @@
 # <a name="id_285">Maya Banks: Vénuszdombi mesék (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Maya%20Banks/Venuszdombi%20mesek%20%28285%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Maya%20Banks/Venuszdombi%20mesek%20%28285%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Maya%20Banks/Venuszdombi%20mesek%20%28285%29/Venuszdombi%20mesek%20-%20Maya%20Banks.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Maya%20Banks/Venuszdombi%20mesek%20%28285%29/Venuszdombi%20mesek%20-%20Maya%20Banks.epub)
 
 ### Tagek
 amerikai szerző, erotikus, felnőtt tartalom, magyar nyelvű, poliamória, regény, romantikus

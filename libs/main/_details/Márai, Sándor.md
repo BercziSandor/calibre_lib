@@ -1,8 +1,8 @@
 # <a name="id_1419">Márai, Sándor: Füves könyv (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Marai%2C%20Sandor/Fuves%20konyv%20%281419%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Marai%2C%20Sandor/Fuves%20konyv%20%281419%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Marai%2C%20Sandor/Fuves%20konyv%20%281419%29/Fuves%20konyv%20-%20Marai%2C%20Sandor.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Marai%2C%20Sandor/Fuves%20konyv%20%281419%29/Fuves%20konyv%20-%20Marai%2C%20Sandor.epub)
 
 ### Tagek
 20. század, bölcsesség, filozófia, füveskönyv, hangoskönyv, magyar nyelvű, magyar szerző, sztoicizmus

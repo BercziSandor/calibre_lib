@@ -1,8 +1,8 @@
 # <a name="id_629">Karen Joy Fowler: A Jane Austen könyvklub (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Karen%20Joy%20Fowler/A%20Jane%20Austen%20konyvklub%20%28629%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karen%20Joy%20Fowler/A%20Jane%20Austen%20konyvklub%20%28629%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Karen%20Joy%20Fowler/A%20Jane%20Austen%20konyvklub%20%28629%29/A%20Jane%20Austen%20konyvklub%20-%20Karen%20Joy%20Fowler.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karen%20Joy%20Fowler/A%20Jane%20Austen%20konyvklub%20%28629%29/A%20Jane%20Austen%20konyvklub%20-%20Karen%20Joy%20Fowler.epub)
 
 ### Tagek
 21. század, amerikai szerző, chick lit, filmadaptáció, kortárs, magyar nyelvű, regény, romantikus

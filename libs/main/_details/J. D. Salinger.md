@@ -1,8 +1,8 @@
 # <a name="id_561">J. D. Salinger: Zabhegyező (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/J.%20D.%20Salinger/Zabhegyezo%20%28561%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20D.%20Salinger/Zabhegyezo%20%28561%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/J.%20D.%20Salinger/Zabhegyezo%20%28561%29/Zabhegyezo%20-%20J.%20D.%20Salinger.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20D.%20Salinger/Zabhegyezo%20%28561%29/Zabhegyezo%20-%20J.%20D.%20Salinger.epub)
 
 ### Tagek
 1001 könyv listán szerepel, 111 híres regény, 1940-es évek, 20. század, amerikai egyesült államok, amerikai szerző, antihős, beat-nemzedék, énregény, fejlődésregény, felnőtté válás, férfi főszereplő, ifjúsági, kamasz főszereplő, kirekesztés, klasszikus, kollégium, kortárs, kötelező, középiskola, irodalom, további könyveink, szépirodalom
@@ -13,10 +13,10 @@
 
 
 # <a name="id_1409">J. D. Salinger: Rozsban a fogó (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/J.%20D.%20Salinger/Rozsban%20a%20fogo%20%281409%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20D.%20Salinger/Rozsban%20a%20fogo%20%281409%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/J.%20D.%20Salinger/Rozsban%20a%20fogo%20%281409%29/Rozsban%20a%20fogo%20-%20J.%20D.%20Salinger.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20D.%20Salinger/Rozsban%20a%20fogo%20%281409%29/Rozsban%20a%20fogo%20-%20J.%20D.%20Salinger.epub)
 
 ### Tagek
 fiction, general, literary, 1001 könyv listán szerepel, 111 híres regény, 1940-es évek, 20. század, amerikai egyesült államok, amerikai szerző, antihős, beat-nemzedék, énregény, fejlődésregény, felnőtté válás, férfi főszereplő, ifjúsági, kamasz főszereplő, kirekesztés, klasszikus, kollégium, kortárs, kötelező, középiskola, irodalom, további könyveink, szépirodalom

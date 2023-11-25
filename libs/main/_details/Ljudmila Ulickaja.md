@@ -1,8 +1,8 @@
 # <a name="id_1294">Ljudmila Ulickaja: Örökbecsű limlom (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Orokbecsu%20limlom%20%281294%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Orokbecsu%20limlom%20%281294%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Orokbecsu%20limlom%20%281294%29/Orokbecsu%20limlom%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Orokbecsu%20limlom%20%281294%29/Orokbecsu%20limlom%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 életrajz, interjú, kortárs, magyar nyelvű, orosz szerző, szépirodalom
@@ -13,10 +13,10 @@
 
 
 # <a name="id_1295">Ljudmila Ulickaja: Kukockij esetei (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Kukockij%20esetei%20%281295%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Kukockij%20esetei%20%281295%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Kukockij%20esetei%20%281295%29/Kukockij%20esetei%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Kukockij%20esetei%20%281295%29/Kukockij%20esetei%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 családregény, filmadaptáció, kortárs, magyar nyelvű, orosz szerző, regény
@@ -27,10 +27,10 @@ családregény, filmadaptáció, kortárs, magyar nyelvű, orosz szerző, regén
 
 
 # <a name="id_1287">Ljudmila Ulickaja: Elsők és utolsók (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Elsok%20es%20utolsok%20%281287%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Elsok%20es%20utolsok%20%281287%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Elsok%20es%20utolsok%20%281287%29/Elsok%20es%20utolsok%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Elsok%20es%20utolsok%20%281287%29/Elsok%20es%20utolsok%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 21. század, elbeszélés, emberi sorsok, kispróza, kortárs, magyar nyelvű, moszkva, női főszereplő, novella, orosz realizmus, orosz szerző, oroszország, összetett regény, realizmus
@@ -41,10 +41,10 @@ családregény, filmadaptáció, kortárs, magyar nyelvű, orosz szerző, regén
 
 
 # <a name="id_1296">Ljudmila Ulickaja: Jákob lajtorjája (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Jakob%20lajtorjaja%20%281296%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Jakob%20lajtorjaja%20%281296%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Jakob%20lajtorjaja%20%281296%29/Jakob%20lajtorjaja%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Jakob%20lajtorjaja%20%281296%29/Jakob%20lajtorjaja%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 családtörténet, kortárs, magyar nyelvű, orosz szerző, oroszország, regény
@@ -55,10 +55,10 @@ családtörténet, kortárs, magyar nyelvű, orosz szerző, oroszország, regén
 
 
 # <a name="id_1291">Ljudmila Ulickaja: Odaadó hívetek, Surik (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Odaado%20hivetek%2C%20Surik%20%281291%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Odaado%20hivetek%2C%20Surik%20%281291%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Odaado%20hivetek%2C%20Surik%20%281291%29/Odaado%20hivetek%2C%20Surik%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Odaado%20hivetek%2C%20Surik%20%281291%29/Odaado%20hivetek%2C%20Surik%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 21. század, családtörténet, emberi sorsok, erotikus, férfiak, kortárs, magyar nyelvű, orosz szerző, oroszország, regény, tudatregény
@@ -69,10 +69,10 @@ családtörténet, kortárs, magyar nyelvű, orosz szerző, oroszország, regén
 
 
 # <a name="id_1289">Ljudmila Ulickaja: Szonyecska (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Szonyecska%20%281289%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Szonyecska%20%281289%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Szonyecska%20%281289%29/Szonyecska%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Szonyecska%20%281289%29/Szonyecska%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 20. század, emberi sorsok, festészet, házasság, kisregény, könyvtáros, kortárs, magyar nyelvű, művészet, női főszereplő, orosz szerző, oroszország, regény, tudatregény
@@ -83,10 +83,10 @@ családtörténet, kortárs, magyar nyelvű, orosz szerző, oroszország, regén
 
 
 # <a name="id_1297">Ljudmila Ulickaja: A mi Urunk népe (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/A%20mi%20Urunk%20nepe%20%281297%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/A%20mi%20Urunk%20nepe%20%281297%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/A%20mi%20Urunk%20nepe%20%281297%29/A%20mi%20Urunk%20nepe%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/A%20mi%20Urunk%20nepe%20%281297%29/A%20mi%20Urunk%20nepe%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 kortárs, magyar nyelvű, novella, orosz szerző, társadalomrajz, novellák
@@ -107,10 +107,10 @@ kortárs, magyar nyelvű, novella, orosz szerző, társadalomrajz, novellák
 
 
 # <a name="id_1293">Ljudmila Ulickaja: Médea és gyermekei (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Medea%20es%20gyermekei%20%281293%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Medea%20es%20gyermekei%20%281293%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Medea%20es%20gyermekei%20%281293%29/Medea%20es%20gyermekei%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Medea%20es%20gyermekei%20%281293%29/Medea%20es%20gyermekei%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 20. század, család, családregény, családtörténet, kortárs, magyar nyelvű, női főszereplő, orosz szerző, oroszország, regény, történelem
@@ -121,10 +121,10 @@ kortárs, magyar nyelvű, novella, orosz szerző, társadalomrajz, novellák
 
 
 # <a name="id_1285">Ljudmila Ulickaja: Daniel Stein, tolmács (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Daniel%20Stein%2C%20tolmacs%20%281285%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Daniel%20Stein%2C%20tolmacs%20%281285%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Daniel%20Stein%2C%20tolmacs%20%281285%29/Daniel%20Stein%2C%20tolmacs%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Daniel%20Stein%2C%20tolmacs%20%281285%29/Daniel%20Stein%2C%20tolmacs%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 2. világháború, 20. század, 21. század, arab világ, dokumentarista, emigráció, izrael, judaizmus, kereszténység, kortárs, levélregény, litvánia, magyar nyelvű, orosz szerző, politika, regény, szeretet, szerzetesség, társadalomtörténet, történelem
@@ -135,10 +135,10 @@ kortárs, magyar nyelvű, novella, orosz szerző, társadalomrajz, novellák
 
 
 # <a name="id_1298">Ljudmila Ulickaja: Imágó (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Imago%20%281298%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Imago%20%281298%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Imago%20%281298%29/Imago%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Imago%20%281298%29/Imago%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 20. század, korrajz, kortárs, lélekrajz, magyar nyelvű, orosz szerző, regény
@@ -149,10 +149,10 @@ kortárs, magyar nyelvű, novella, orosz szerző, társadalomrajz, novellák
 
 
 # <a name="id_1288">Ljudmila Ulickaja: Vidám temetés (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Vidam%20temetes%20%281288%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Vidam%20temetes%20%281288%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Vidam%20temetes%20%281288%29/Vidam%20temetes%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Vidam%20temetes%20%281288%29/Vidam%20temetes%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 20. század, amerikai egyesült államok, emigráció, kortárs, magyar nyelvű, new york, orosz szerző, regény, zsidó
@@ -163,10 +163,10 @@ kortárs, magyar nyelvű, novella, orosz szerző, társadalomrajz, novellák
 
 
 # <a name="id_1292">Ljudmila Ulickaja: A lélek testéről (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/A%20lelek%20testerol%20%281292%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/A%20lelek%20testerol%20%281292%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/A%20lelek%20testerol%20%281292%29/A%20lelek%20testerol%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/A%20lelek%20testerol%20%281292%29/A%20lelek%20testerol%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 elbeszélés, kortárs, magyar nyelvű, orosz szerző
@@ -177,10 +177,10 @@ elbeszélés, kortárs, magyar nyelvű, orosz szerző
 
 
 # <a name="id_1286">Ljudmila Ulickaja: Életművésznők (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Eletmuvesznok%20%281286%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Eletmuvesznok%20%281286%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Ljudmila%20Ulickaja/Eletmuvesznok%20%281286%29/Eletmuvesznok%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Eletmuvesznok%20%281286%29/Eletmuvesznok%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 21. század, kortárs, magyar nyelvű, női főszereplő, orosz szerző, regény

@@ -1,8 +1,8 @@
 # <a name="id_1505">Polcz Alaine: Világjáték (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Vilagjatek%20%281505%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Polcz%2C%20Alaine/Vilagjatek%20%281505%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[djvu](https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Vilagjatek%20%281505%29/Vilagjatek%20-%20Polcz%20Alaine.djvu)
+[djvu](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Polcz%2C%20Alaine/Vilagjatek%20%281505%29/Vilagjatek%20-%20Polcz%20Alaine.djvu)
 
 ### Összefoglalás
 <div>
@@ -10,10 +10,10 @@
 
 
 # <a name="id_1506">Polcz Alaine: Főzzünk örömmel! (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Fozzunk%20orommel%21%20%281506%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Polcz%2C%20Alaine/Fozzunk%20orommel%21%20%281506%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Fozzunk%20orommel%21%20%281506%29/Fozzunk%20orommel%21%20-%20Polcz%20Alaine.pdf)
+[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Polcz%2C%20Alaine/Fozzunk%20orommel%21%20%281506%29/Fozzunk%20orommel%21%20-%20Polcz%20Alaine.pdf)
 
 ### Összefoglalás
 <div>
@@ -21,10 +21,10 @@
 
 
 # <a name="id_1443">Polcz Alaine: Asszony a fronton (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Asszony%20a%20fronton%20%281443%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Polcz%2C%20Alaine/Asszony%20a%20fronton%20%281443%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Polcz%2C%20Alaine/Asszony%20a%20fronton%20%281443%29/Asszony%20a%20fronton%20-%20Polcz%20Alaine.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Polcz%2C%20Alaine/Asszony%20a%20fronton%20%281443%29/Asszony%20a%20fronton%20-%20Polcz%20Alaine.epub)
 
 ### Tagek
 2. világháború, 20. század, 303 magyar regény, betegség, budapest, erdély, erdélyi magyar szerző, háború, házasság, kolozsvár, kórház, magyar nyelvű, magyar szerző, magyarország, memoár, nemi erőszak, női főszereplő, nők elleni erőszak, románia, történelem

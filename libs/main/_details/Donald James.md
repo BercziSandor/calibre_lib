@@ -1,8 +1,8 @@
 # <a name="id_654">Donald James: Monstrum (Vadim-trilógia 1) (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Donald%20James/Monstrum%20%28654%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Donald%20James/Monstrum%20%28654%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Donald%20James/Monstrum%20%28654%29/Monstrum%20-%20Donald%20James.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Donald%20James/Monstrum%20%28654%29/Monstrum%20-%20Donald%20James.epub)
 
 ### Tagek
 brit szerző, disztópia, krimi, magyar nyelvű, oroszország, sorozat része, thriller
@@ -13,10 +13,10 @@ brit szerző, disztópia, krimi, magyar nyelvű, oroszország, sorozat része, t
 
 
 # <a name="id_653">Donald James: A jövendőmondó (Vadim-trilógia 2) (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Donald%20James/A%20jovendomondo%20%28653%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Donald%20James/A%20jovendomondo%20%28653%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Donald%20James/A%20jovendomondo%20%28653%29/A%20jovendomondo%20-%20Donald%20James.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Donald%20James/A%20jovendomondo%20%28653%29/A%20jovendomondo%20-%20Donald%20James.epub)
 
 ### Tagek
 brit szerző, krimi, magyar nyelvű, oroszország, sorozat része, thriller
@@ -37,10 +37,10 @@ nyomára bukkanjon egy olyan gyilkosnak, aki egyszerre zseniális,
 
 
 # <a name="id_655">Donald James: Vadim (Vadim-trilógia 3) (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Donald%20James/Vadim%20%28655%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Donald%20James/Vadim%20%28655%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Donald%20James/Vadim%20%28655%29/Vadim%20-%20Donald%20James.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Donald%20James/Vadim%20%28655%29/Vadim%20-%20Donald%20James.epub)
 
 ### Tagek
 brit szerző, krimi, magyar nyelvű, oroszország, sorozat része, thriller

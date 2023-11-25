@@ -1,8 +1,8 @@
 # <a name="id_1024">Umberto Eco: A Foucault-inga (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Umberto%20Eco/A%20Foucault-inga%20%281024%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Umberto%20Eco/A%20Foucault-inga%20%281024%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Umberto%20Eco/A%20Foucault-inga%20%281024%29/A%20Foucault-inga%20-%20Umberto%20Eco.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Umberto%20Eco/A%20Foucault-inga%20%281024%29/A%20Foucault-inga%20-%20Umberto%20Eco.epub)
 
 ### Tagek
 1001 könyv listán szerepel, egyháztörténet, ezotéria, fasizmus, filozófia, hangoskönyv, klasszikus, kortárs, magyar nyelvű, mitológia, művészet, okkultizmus, olasz szerző, összeesküvés-elmélet, posztmodern, regény, szabadkőművesség, történelem, vallás, vallástörténet, irodalom, szépirodalom
@@ -13,10 +13,10 @@
 
 
 # <a name="id_789">Umberto Eco: A rózsa neve (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Umberto%20Eco/A%20rozsa%20neve%20%28789%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Umberto%20Eco/A%20rozsa%20neve%20%28789%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Umberto%20Eco/A%20rozsa%20neve%20%28789%29/A%20rozsa%20neve%20-%20Umberto%20Eco.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Umberto%20Eco/A%20rozsa%20neve%20%28789%29/A%20rozsa%20neve%20-%20Umberto%20Eco.epub)
 
 ### Tagek
 1001 könyv listán szerepel, 14. század, egyháztörténet, filmadaptáció, filozófia, filozofikus regény, inkvizíció, klasszikus, kolostor, könyvtár, kortárs, középkor, krimi, kultúrtörténet, magyar nyelvű, nagy könyv, olasz szerző, olaszország, posztmodern, regény, irodalom, szépirodalom, romantikus, kalandos

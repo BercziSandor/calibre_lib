@@ -1,8 +1,8 @@
 # <a name="id_1005">Samantha Shannon: Csontszüret (Csontszüret 1) (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Samantha%20Shannon/Csontszuret%20%281005%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Samantha%20Shannon/Csontszuret%20%281005%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Samantha%20Shannon/Csontszuret%20%281005%29/Csontszuret%20-%20Samantha%20Shannon.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Samantha%20Shannon/Csontszuret%20%281005%29/Csontszuret%20-%20Samantha%20Shannon.epub)
 
 ### Tagek
 álom, alternatív történelem, brit szerző, disztópia, jövőben játszódik, krimi, london, magyar nyelvű, női főszereplő, okkultizmus, paranormális, regény, sorozat része, szellemek, túlélés, fiction, science fiction, apocalyptic & post-apocalyptic, sci-fi, ifjúsági, fantasy

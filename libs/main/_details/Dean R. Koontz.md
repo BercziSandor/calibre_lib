@@ -1,8 +1,8 @@
 # <a name="id_1073">Dean R. Koontz: Ticktak (BB Fiction 1) (1997)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Ticktak%20%281073%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Ticktak%20%281073%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Ticktak%20%281073%29/Ticktak%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Ticktak%20%281073%29/Ticktak%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 fantasy, szórakoztató irodalom, szépirodalom, idegennyelv, idegennyelvű könyvek, angol, kaland, akció
@@ -12,11 +12,11 @@ fantasy, szórakoztató irodalom, szépirodalom, idegennyelv, idegennyelvű kön
 
 
 # <a name="id_1069">Dean R. Koontz: A halottlátó (Odd Thomas 1) (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20halottlato%20%281069%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20halottlato%20%281069%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20halottlato%20%281069%29/A%20halottlato%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20halottlato%20%281069%29/A%20halottlato%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20halottlato%20%281069%29/A%20halottlato%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20halottlato%20%281069%29/A%20halottlato%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 nyomozás, misztikus, amerikai egyesült államok, nyár, magyar nyelvű, krimi, regény, filmadaptáció, fantasy, szellemek, thriller, kalifornia, sorozat része, amerikai szerző
@@ -26,10 +26,10 @@ A 21 éves fiatalember, Odd Thomas, egy csendes és békés amerikai kisvárosba
 
 
 # <a name="id_1510">Dean R. Koontz: A rossz hely (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20Rossz%20Hely%20%281510%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20Rossz%20Hely%20%281510%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20Rossz%20Hely%20%281510%29/A%20rossz%20hely%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20Rossz%20Hely%20%281510%29/A%20rossz%20hely%20-%20Dean%20R.%20Koontz.epub)
 
 ### Összefoglalás
 <div>
@@ -37,10 +37,10 @@ A 21 éves fiatalember, Odd Thomas, egy csendes és békés amerikai kisvárosba
 
 
 # <a name="id_1076">Dean R. Koontz: Rettegés (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Retteges%20%281076%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Retteges%20%281076%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Retteges%20%281076%29/Retteges%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Retteges%20%281076%29/Retteges%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 amerikai egyesült államok, sorozatgyilkosság, new york, magyar nyelvű, krimi, szórakoztató irodalom, fantasy, akció, szépirodalom, gyilkosság, nők elleni erőszak, thriller, pszicho-thriller, kaland, idegennyelv, angol, idegennyelvű könyvek, amerikai szerző
@@ -50,11 +50,11 @@ Ne nézz le, mert csapdába kerültél. Egy gyönyörű, rémült nő társaság
 
 
 # <a name="id_1092">Dean R. Koontz: Az éjszaka hangjai (1997)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Az%20ejszaka%20hangjai%20%281092%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Az%20ejszaka%20hangjai%20%281092%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Az%20ejszaka%20hangjai%20%281092%29/Az%20ejszaka%20hangjai%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Az%20ejszaka%20hangjai%20%281092%29/Az%20ejszaka%20hangjai%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Az%20ejszaka%20hangjai%20%281092%29/Az%20ejszaka%20hangjai%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Az%20ejszaka%20hangjai%20%281092%29/Az%20ejszaka%20hangjai%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 20. század, horror, amerikai egyesült államok, magyar nyelvű, krimi, regény, fantasy, thriller, kalifornia, amerikai szerző
@@ -64,11 +64,11 @@ A szemérmes, tartózkodó Colin és a népszerű, lányok kedvence Roy jó bar�
 
 
 # <a name="id_1075">Dean R. Koontz: Téli hold (1997)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Teli%20hold%20%281075%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Teli%20hold%20%281075%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Teli%20hold%20%281075%29/Teli%20hold%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Teli%20hold%20%281075%29/Teli%20hold%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Teli%20hold%20%281075%29/Teli%20hold%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Teli%20hold%20%281075%29/Teli%20hold%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 los angeles, horror, fegyverek, misztikus, magyar nyelvű, paranormális, montana, fantasy, rendőr, thriller, sci-fi, amerikai szerző
@@ -78,11 +78,11 @@ A szolgálat közben súlyosan megsebesült Los Angeles-i nyomozó, Jack McGarve
 
 
 # <a name="id_1090">Dean R. Koontz: Égi jel (2000)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Egi%20jel%20%281090%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Egi%20jel%20%281090%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Egi%20jel%20%281090%29/Egi%20jel%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Egi%20jel%20%281090%29/Egi%20jel%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Egi%20jel%20%281090%29/Egi%20jel%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Egi%20jel%20%281090%29/Egi%20jel%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 20. század, alternatív történelem, időutazás, író, amerikai egyesült államok, fegyverek, női főszereplő, magyar nyelvű, krimi, regény, fantasy, sci-fi, thriller, kalifornia, amerikai szerző, posztapokaliptikus
@@ -92,10 +92,10 @@ Rejtélyes égi jelenség kíséri a férfi érkezését, aki a náci Németorsz
 
 
 # <a name="id_1087">Dean R. Koontz: A rettegés ajtaja (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20retteges%20ajtaja%20%281087%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20retteges%20ajtaja%20%281087%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20retteges%20ajtaja%20%281087%29/A%20retteges%20ajtaja%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20retteges%20ajtaja%20%281087%29/A%20retteges%20ajtaja%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 horror, misztikus, magyar nyelvű, regény, krimi, fantasy, thriller, amerikai szerző
@@ -105,10 +105,10 @@ A kilencéves Melanie öntudatlanul kóborol az utcán, amikor rátalálnak. Min
 
 
 # <a name="id_1099">Dean R. Koontz: A Szeme Sarkából 1-2. (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20Szeme%20Sarkabol%201-2_%20%281099%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20Szeme%20Sarkabol%201-2_%20%281099%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20Szeme%20Sarkabol%201-2_%20%281099%29/A%20Szeme%20Sarkabol%201-2_%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20Szeme%20Sarkabol%201-2_%20%281099%29/A%20Szeme%20Sarkabol%201-2_%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 fantasy, szórakoztató irodalom, akció, kaland
@@ -118,11 +118,11 @@ fantasy, szórakoztató irodalom, akció, kaland
 
 
 # <a name="id_1098">Dean R. Koontz: A szív sötét folyói (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20sziv%20sotet%20folyoi%20%281098%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20sziv%20sotet%20folyoi%20%281098%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20sziv%20sotet%20folyoi%20%281098%29/A%20sziv%20sotet%20folyoi%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20sziv%20sotet%20folyoi%20%281098%29/A%20sziv%20sotet%20folyoi%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20sziv%20sotet%20folyoi%20%281098%29/A%20sziv%20sotet%20folyoi%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20sziv%20sotet%20folyoi%20%281098%29/A%20sziv%20sotet%20folyoi%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 magyar nyelvű, krimi, regény, fantasy, thriller, amerikai szerző
@@ -132,10 +132,10 @@ A magányos Spencer Grant betér egy bárba, ahol az egyik pincérnő jóvoltáb
 
 
 # <a name="id_1097">Dean R. Koontz: A túlélő (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20tulelo%20%281097%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20tulelo%20%281097%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20tulelo%20%281097%29/A%20tulelo%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20tulelo%20%281097%29/A%20tulelo%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 20. század, horror, misztikus, magyar nyelvű, filmadaptáció, regény, fantasy, thriller, katasztrófa, repülő, kísérlet, amerikai szerző
@@ -145,11 +145,11 @@ Joe Carpenter, egy repülőgép-szerencsétlenség során – 330 halott, nincs 
 
 
 # <a name="id_1082">Dean R. Koontz: Kulcs az éjfélhez (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Kulcs%20az%20ejfelhez%20%281082%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Kulcs%20az%20ejfelhez%20%281082%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Kulcs%20az%20ejfelhez%20%281082%29/Kulcs%20az%20ejfelhez%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Kulcs%20az%20ejfelhez%20%281082%29/Kulcs%20az%20ejfelhez%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Kulcs%20az%20ejfelhez%20%281082%29/Kulcs%20az%20ejfelhez%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Kulcs%20az%20ejfelhez%20%281082%29/Kulcs%20az%20ejfelhez%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 nyomozás, horror, japán (ország), misztikus, magyar nyelvű, krimi, szórakoztató irodalom, fantasy, akció, szépirodalom, thriller, kaland, pszicho-thriller, amerikai szerző
@@ -159,10 +159,10 @@ Az amerikai Joanna Rand lassan tíz éve dolgozik Japánban, mint egy nightclub 
 
 
 # <a name="id_1081">Dean R. Koontz: Látomás (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Latomas%20%281081%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Latomas%20%281081%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Latomas%20%281081%29/Latomas%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Latomas%20%281081%29/Latomas%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 sorozatgyilkosság, fantasy, szépirodalom, thriller, novella, amerikai egyesült államok, magyar nyelvű, regény, krimi, szórakoztató irodalom, nők elleni erőszak, elbeszélés, kaland, kalifornia, akció, tartalom szerint, misztikus, amerikai szerző, kísértet- és rémtörténetek
@@ -172,10 +172,10 @@ Mary Bergen „látó”. Gyilkosságokat képes megérezni és meglátni még a
 
 
 # <a name="id_1101">Dean R. Koontz: Maszk (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Maszk%20%281101%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Maszk%20%281101%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Maszk%20%281101%29/Maszk%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Maszk%20%281101%29/Maszk%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 20. század, horror, misztikus, magyar nyelvű, krimi, paranormális, fantasy, halál, akció, szellemek, thriller, kaland, lélekvándorlás, amerikai szerző
@@ -185,10 +185,10 @@ Dr. Carol Tracy egy esős napon elüt az autójával egy elragadó szőke kislá
 
 
 # <a name="id_1071">Dean R. Koontz: Végsőkig (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Vegsokig%20%281071%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Vegsokig%20%281071%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Vegsokig%20%281071%29/Vegsokig%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Vegsokig%20%281071%29/Vegsokig%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 női főszereplő, fantasy, szépirodalom, thriller, novella, magyar nyelvű, regény, krimi, szórakoztató irodalom, nők elleni erőszak, elbeszélés, kaland, horror, erőszak, akció, tartalom szerint, misztikus, amerikai szerző, kísértet- és rémtörténetek, gyilkosság, nemi erőszak, pszicho-thriller
@@ -198,10 +198,10 @@ Chyna Shepherd álmatlanul bámulja a holdfényben fürdő szőlőt a vendégszo
 
 
 # <a name="id_1095">Dean R. Koontz: A visszatérő (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20visszatero%20%281095%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20visszatero%20%281095%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20visszatero%20%281095%29/A%20visszatero%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20visszatero%20%281095%29/A%20visszatero%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 20. század, nyomozás, író, horror, misztikus, magyar nyelvű, filmadaptáció, krimi, regény, fantasy, nők elleni erőszak, thriller, romantikus, hollywood, amerikai szerző, kortárs
@@ -211,10 +211,10 @@ Hilary Thomas már gyerekkorában megtapasztalhatta, mi is az erőszak. Ami azon
 
 
 # <a name="id_1080">Dean R. Koontz: Menekülés (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Menekules%20%281080%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Menekules%20%281080%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Menekules%20%281080%29/Menekules%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Menekules%20%281080%29/Menekules%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 humoros, nyomozás, kutya, földönkívüliek, magyar nyelvű, függőség, krimi, szórakoztató irodalom, fantasy, akció, sci-fi, thriller, kaland, ufo, alkoholizmus, amerikai szerző
@@ -224,10 +224,10 @@ Preston Maddoc fanatikus ufó hívő. Ettől még békében élhetne családjáv
 
 
 # <a name="id_1094">Dean R. Koontz: Amnézia (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Amnezia%20%281094%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Amnezia%20%281094%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Amnezia%20%281094%29/Amnezia%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Amnezia%20%281094%29/Amnezia%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 orosz, magyar nyelvű, krimi, fantasy, thriller, katonaság, amnézia, kgb, kísérlet, amerikai szerző
@@ -237,10 +237,10 @@ Susan, a harminc körüli fizikusnő egy ismeretlen városka kórházában ébre
 
 
 # <a name="id_1074">Dean R. Koontz: A Hold fényénél (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20Hold%20Fenyenel%20%281074%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20Hold%20Fenyenel%20%281074%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20Hold%20Fenyenel%20%281074%29/A%20Hold%20fenyenel%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20Hold%20Fenyenel%20%281074%29/A%20Hold%20fenyenel%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 20. század, horror, amerikai egyesült államok, magyar nyelvű, autizmus, krimi, fantasy, szuperhős, thriller, kísérlet, amerikai szerző
@@ -250,11 +250,11 @@ Dylan O'Conner, a tehetséges fiatal festő és autista öccse Shep, egy művés
 
 
 # <a name="id_1093">Dean R. Koontz: Az arc (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Az%20arc%20%281093%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Az%20arc%20%281093%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Az%20arc%20%281093%29/Az%20arc%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Az%20arc%20%281093%29/Az%20arc%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Az%20arc%20%281093%29/Az%20arc%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Az%20arc%20%281093%29/Az%20arc%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 20. század, misztikus, magyar nyelvű, krimi, szórakoztató irodalom, fantasy, akció, thriller, kaland, hollywood, amerikai szerző
@@ -264,10 +264,10 @@ Milliók rajonganak Hollywood talán leghódítóbb szárjáért, ám hírneve e
 
 
 # <a name="id_1085">Dean R. Koontz: Hideglelés (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Hidegleles%20%281085%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Hidegleles%20%281085%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Hidegleles%20%281085%29/Hidegleles%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Hidegleles%20%281085%29/Hidegleles%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 20. század, magyar nyelvű, krimi, regény, szórakoztató irodalom, fantasy, akció, thriller, pszicho-thriller, kaland, kísérlet, amerikai szerző
@@ -277,10 +277,10 @@ A Hideglelés a szerző egyik mesterműve. lankadatlan, nemegyszer a tűréshat�
 
 
 # <a name="id_1086">Dean R. Koontz: Idegenek (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Idegenek%20%281086%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Idegenek%20%281086%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Idegenek%20%281086%29/Idegenek%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Idegenek%20%281086%29/Idegenek%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 fantasy, sci-fi, szépirodalom, thriller, novella, magyar nyelvű, regény, krimi, szórakoztató irodalom, katonaság, elbeszélés, kaland, ufo, akció, tartalom szerint, kísérlet, amerikai szerző, kísértet- és rémtörténetek, nevada
@@ -290,10 +290,10 @@ Idegenek voltak. Egy maroknyi ember más-más városból, más-más háttérrel.
 
 
 # <a name="id_1091">Dean R. Koontz: Az eljövetel (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Az%20eljovetel%20%281091%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Az%20eljovetel%20%281091%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Az%20eljovetel%20%281091%29/Az%20eljovetel%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Az%20eljovetel%20%281091%29/Az%20eljovetel%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 horror, misztikus, földönkívüliek, magyar nyelvű, észak-amerika, krimi, szórakoztató irodalom, fantasy, paranormális, sci-fi, thriller, amerikai szerző, posztapokaliptikus
@@ -303,11 +303,11 @@ Molly és férje Neil özönvízszerű viharra ébrednek a kaliforniai hegyi vá
 
 
 # <a name="id_1089">Dean R. Koontz: Hideg tűz (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Hideg%20tuz%20%281089%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Hideg%20tuz%20%281089%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Hideg%20tuz%20%281089%29/Hideg%20tuz%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Hideg%20tuz%20%281089%29/Hideg%20tuz%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Hideg%20tuz%20%281089%29/Hideg%20tuz%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Hideg%20tuz%20%281089%29/Hideg%20tuz%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 horror, misztikus, magyar nyelvű, regény, szórakoztató irodalom, fantasy, akció, thriller, kaland, amerikai szerző
@@ -319,10 +319,10 @@ A lélegzetelállító történet végén fény derül arra, miért perzseli a h
 
 
 # <a name="id_1070">Dean R. Koontz: Virrasztók (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Virrasztok%20%281070%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Virrasztok%20%281070%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Virrasztok%20%281070%29/Virrasztok%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Virrasztok%20%281070%29/Virrasztok%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 kutya, horror, misztikus, magyar nyelvű, filmadaptáció, krimi, szórakoztató irodalom, fantasy, akció, nők elleni erőszak, paranormális, sci-fi, thriller, titkosszolgálat, kaland, kísérlet, amerikai szerző
@@ -333,10 +333,10 @@ kutya, horror, misztikus, magyar nyelvű, filmadaptáció, krimi, szórakoztató
 
 
 # <a name="id_1096">Dean R. Koontz: A Tékozló Fiú (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20Tekozlo%20Fiu%20%281096%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20Tekozlo%20Fiu%20%281096%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20Tekozlo%20Fiu%20%281096%29/A%20Tekozlo%20Fiu%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20Tekozlo%20Fiu%20%281096%29/A%20Tekozlo%20Fiu%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 fantasy, regény, horror
@@ -346,10 +346,10 @@ fantasy, regény, horror
 
 
 # <a name="id_1083">Dean R. Koontz: Jégcsapda (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Jegcsapda%20%281083%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Jegcsapda%20%281083%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Jegcsapda%20%281083%29/Jegcsapda%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Jegcsapda%20%281083%29/Jegcsapda%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 fantasztikus regények, novella, amerikai egyesült államok, az író származása szerint, magyar nyelvű, regény, amerika, északi-sark, fantasy, krimi, szépirodalom, thriller, tartalom szerint, elbeszélés, természet, amerikai szerző
@@ -359,10 +359,10 @@ Koontz egyik korai művét tartja kezében az olvasó, melynek hangja, stílusa 
 
 
 # <a name="id_1079">Dean R. Koontz: Mr. Murder (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Mr.%20Murder%20%281079%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Mr.%20Murder%20%281079%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Mr.%20Murder%20%281079%29/Mr.%20Murder%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Mr.%20Murder%20%281079%29/Mr.%20Murder%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 nyomozás, író, horror, misztikus, magyar nyelvű, filmadaptáció, krimi, regény, fantasy, thriller, bűnüldözés, amerikai szerző, kortárs
@@ -372,10 +372,10 @@ A regény főhőse, Martin Stillwater igazán boldognak érezheti magát. Sikere
 
 
 # <a name="id_1100">Dean R. Koontz: A sötétség szeme (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20sotetseg%20szeme%20%281100%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20sotetseg%20szeme%20%281100%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/A%20sotetseg%20szeme%20%281100%29/A%20sotetseg%20szeme%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20sotetseg%20szeme%20%281100%29/A%20sotetseg%20szeme%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 20. század, horror, misztikus, magyar nyelvű, krimi, szórakoztató irodalom, fantasy, las vegas, thriller, vírus, kísérlet, amerikai szerző, kortárs
@@ -385,10 +385,10 @@ Egy tizenkét éves kisfiú kirándulni megy iskolatársaival a hegyekbe, de soh
 
 
 # <a name="id_1078">Dean R. Koontz: Összetörve (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Osszetorve%20%281078%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Osszetorve%20%281078%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Osszetorve%20%281078%29/Osszetorve%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Osszetorve%20%281078%29/Osszetorve%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 20. század, san francisco, magyar nyelvű, krimi, észak-amerika, regény, fantasy, thriller, amerikai szerző
@@ -398,10 +398,10 @@ A Thunderbird Philadelphiából indult. Az úti cél: a nyugati part. Alex és a
 
 
 # <a name="id_1084">Dean R. Koontz: Kényszerjátszma (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Kenyszerjatszma%20%281084%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Kenyszerjatszma%20%281084%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Kenyszerjatszma%20%281084%29/Kenyszerjatszma%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Kenyszerjatszma%20%281084%29/Kenyszerjatszma%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 horror, misztikus, magyar nyelvű, krimi, regény, szórakoztató irodalom, fantasy, thriller, amerikai szerző
@@ -411,10 +411,10 @@ A bárpultos Billy Wiles egyhangú élete egy csapásra megváltozik, amikor egy
 
 
 # <a name="id_1072">Dean R. Koontz: Váltságdíj (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Valtsagdij%20%281072%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Valtsagdij%20%281072%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Valtsagdij%20%281072%29/Valtsagdij%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Valtsagdij%20%281072%29/Valtsagdij%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 horror, misztikus, magyar nyelvű, krimi, regény, szórakoztató irodalom, fantasy, akció, thriller, kaland, pszicho-thriller, amerikai szerző
@@ -424,11 +424,11 @@ Elkaptuk a feleségét. Kétmillió kápéért visszakaphatja. Egy hétköznapi 
 
 
 # <a name="id_1077">Dean R. Koontz: Pokoli hordák (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Pokoli%20hordak%20%281077%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Pokoli%20hordak%20%281077%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Pokoli%20hordak%20%281077%29/Pokoli%20hordak%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dean%20R.%20Koontz/Pokoli%20hordak%20%281077%29/Pokoli%20hordak%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Pokoli%20hordak%20%281077%29/Pokoli%20hordak%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Pokoli%20hordak%20%281077%29/Pokoli%20hordak%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 20. század, horror, amerikai egyesült államok, misztikus, new york, magyar nyelvű, krimi, szórakoztató irodalom, fantasy, akció, mágia, rendőr, thriller, kaland, amerikai szerző

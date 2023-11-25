@@ -1,8 +1,8 @@
 # <a name="id_364">George Orwell: 1984 (Európa Diákkönyvtár 1) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/George%20Orwell/1984%20%28364%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20Orwell/1984%20%28364%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20Orwell/1984%20%28364%29/1984%20-%20George%20Orwell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20Orwell/1984%20%28364%29/1984%20-%20George%20Orwell.epub)
 
 ### Tagek
 1001 könyv listán szerepel, 111 híres regény, 20. század, angol szerző, brit szerző, diktatúra, disztópia, erőszak, férfi főszereplő, filmadaptáció, filozofikus regény, futurizmus, hangoskönyv, jövőben játszódik, klasszikus, london, magyar nyelvű, nagy könyv, politikai filozófia, regény, irodalom, szépirodalom

@@ -1,8 +1,8 @@
 # <a name="id_606">Mátéffy, Éva: Ruby (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Mateffy%2C%20Eva/Ruby%20%28606%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mateffy%2C%20Eva/Ruby%20%28606%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mateffy%2C%20Eva/Ruby%20%28606%29/Ruby%20-%20Mateffy%2C%20Eva.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mateffy%2C%20Eva/Ruby%20%28606%29/Ruby%20-%20Mateffy%2C%20Eva.epub)
 
 ### Tagek
 erotikus, kortárs, lmbtq, magyar nyelvű, magyar szerző, magyarország, regény

@@ -1,8 +1,8 @@
 # <a name="id_384">Kicsi, Sándor András: Tűrömfű és jajlapi (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kicsi%2C%20Sandor%20Andras/Turomfu%20es%20jajlapi%20%28384%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kicsi%2C%20Sandor%20Andras/Turomfu%20es%20jajlapi%20%28384%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kicsi%2C%20Sandor%20Andras/Turomfu%20es%20jajlapi%20%28384%29/Turomfu%20es%20jajlapi%20-%20Kicsi%2C%20Sandor%20Andras.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kicsi%2C%20Sandor%20Andras/Turomfu%20es%20jajlapi%20%28384%29/Turomfu%20es%20jajlapi%20-%20Kicsi%2C%20Sandor%20Andras.epub)
 
 ### Tagek
 betegség, egészség, magyar nyelvű, tanulmány

@@ -1,8 +1,8 @@
 # <a name="id_777">Hamvas Béla: Scientia sacra (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Hamvas%20Bela/Scientia%20sacra%20%28777%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hamvas%20Bela/Scientia%20sacra%20%28777%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Hamvas%20Bela/Scientia%20sacra%20%28777%29/Scientia%20sacra%20-%20Hamvas%20Bela.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hamvas%20Bela/Scientia%20sacra%20%28777%29/Scientia%20sacra%20-%20Hamvas%20Bela.epub)
 
 ### Tagek
 kereszténység, magyar nyelvű, magyar szerző, 20. század, esszé, filozófia, vallás, vallásfilozófia
@@ -12,10 +12,10 @@ kereszténység, magyar nyelvű, magyar szerző, 20. század, esszé, filozófia
 
 
 # <a name="id_776">Hamvas Béla: A bor filozófiája (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Hamvas%20Bela/A%20bor%20filozofiaja%20%28776%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hamvas%20Bela/A%20bor%20filozofiaja%20%28776%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Hamvas%20Bela/A%20bor%20filozofiaja%20%28776%29/A%20bor%20filozofiaja%20-%20Hamvas%20Bela.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hamvas%20Bela/A%20bor%20filozofiaja%20%28776%29/A%20bor%20filozofiaja%20-%20Hamvas%20Bela.epub)
 
 ### Tagek
 ateizmus, bor, életmód, férfiak, gasztronómia, hangoskönyv, hit, isten, keresztény, magyar nyelvű, magyar szerző, magyarország, nők, recept, vallás, társ. tudományok, filozófia

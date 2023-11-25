@@ -1,8 +1,8 @@
 # <a name="id_467">Berg, Judit: Rumini (Rumini 1) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Rumini%20%28467%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Rumini%20%28467%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Rumini%20%28467%29/Rumini%20-%20Berg%2C%20Judit.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Rumini%20%28467%29/Rumini%20-%20Berg%2C%20Judit.epub)
 
 ### Tagek
 ibby, kalandregény, gyermek- és ifjúsági irodalom, illusztrált, kortárs, gyermekkönyv, mese
@@ -41,10 +41,10 @@ bazárban is vásároljanak?</p></div>
 
 
 # <a name="id_567">Berg, Judit: Rumini Zúzmaragyarmaton (Rumini 2) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Rumini%20Zuzmaragyarmaton%20%28567%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Rumini%20Zuzmaragyarmaton%20%28567%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Rumini%20Zuzmaragyarmaton%20%28567%29/Rumini%20Zuzmaragyarmaton%20-%20Berg%2C%20Judit.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Rumini%20Zuzmaragyarmaton%20%28567%29/Rumini%20Zuzmaragyarmaton%20-%20Berg%2C%20Judit.epub)
 
 ### Tagek
 állat főszereplő, egér, gyermekkönyv iskolásoknak, hajó, illusztrált, kaland, kalandregény, kortárs, magyar nyelvű, magyar szerző, meseregény, regény, sorozat része
@@ -55,10 +55,10 @@ bazárban is vásároljanak?</p></div>
 
 
 # <a name="id_570">Berg, Judit: Rumini és a négy jogar (Rumini 3) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Rumini%20es%20a%20negy%20jogar%20%28570%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Rumini%20es%20a%20negy%20jogar%20%28570%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Rumini%20es%20a%20negy%20jogar%20%28570%29/Rumini%20es%20a%20negy%20jogar%20-%20Berg%2C%20Judit.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Rumini%20es%20a%20negy%20jogar%20%28570%29/Rumini%20es%20a%20negy%20jogar%20-%20Berg%2C%20Judit.epub)
 
 ### Tagek
 állat, állat főszereplő, egér, gyermekkönyv iskolásoknak, hajó, illusztrált, kalandregény, kortárs, magyar nyelvű, magyar szerző, meseregény, regény, sorozat része, utazás
@@ -69,19 +69,19 @@ bazárban is vásároljanak?</p></div>
 
 
 # <a name="id_479">Berg, Judit: Micsoda Idő! (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Micsoda%20Ido%21%20%28479%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Micsoda%20Ido%21%20%28479%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Micsoda%20Ido%21%20%28479%29/Micsoda%20Ido%21%20-%20Berg%2C%20Judit.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Micsoda%20Ido%21%20%28479%29/Micsoda%20Ido%21%20-%20Berg%2C%20Judit.epub)
 
 ### Tagek
 gyermek- és ifjúsági irodalom, illusztrált, gyermek, kortárs, mese
 
 # <a name="id_1274">Berg, Judit: Alma (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Alma%20%281274%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Alma%20%281274%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Berg%2C%20Judit/Alma%20%281274%29/Alma%20-%20Berg%2C%20Judit.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Alma%20%281274%29/Alma%20-%20Berg%2C%20Judit.epub)
 
 ### Tagek
 sakk, ifjúsági

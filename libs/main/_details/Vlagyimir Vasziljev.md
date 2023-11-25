@@ -1,8 +1,8 @@
 # <a name="id_460">Vlagyimir Vasziljev: Káosz-Őrség (Őrség 5) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Vasziljev/Kaosz-Orseg%20%28460%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Vasziljev/Kaosz-Orseg%20%28460%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Vasziljev/Kaosz-Orseg%20%28460%29/Kaosz-Orseg%20-%20Vlagyimir%20Vasziljev.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Vasziljev/Kaosz-Orseg%20%28460%29/Kaosz-Orseg%20-%20Vlagyimir%20Vasziljev.epub)
 
 ### Tagek
 fiction, fantasy, urban, orosz, urban fantasy

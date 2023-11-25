@@ -1,8 +1,8 @@
 # <a name="id_50">Gerald Durrell: Családom és egyéb állatfajták (Korfu-trilógia 1) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Csaladom%20es%20egyeb%20allatfajtak%20%2850%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Csaladom%20es%20egyeb%20allatfajtak%20%2850%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Csaladom%20es%20egyeb%20allatfajtak%20%2850%29/Csaladom%20es%20egyeb%20allatfajtak%20-%20Gerald%20Durrell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Csaladom%20es%20egyeb%20allatfajtak%20%2850%29/Csaladom%20es%20egyeb%20allatfajtak%20-%20Gerald%20Durrell.epub)
 
 ### Tagek
 családtörténet, gyermek főszereplő, travel, család, non-fiction, classics, családregény, filmadaptáció, állat, kaland, 1930-as évek, önéletrajz, állatbarát, humour, biography, hangoskönyv, 20. század, állatvilág, igaz történet alapján, brit szerző, görögország, állattartás, regény, angol humor, humoros, ifjúsági, gyermekszemszög, illusztrált
@@ -12,10 +12,10 @@ Gerald Durrell könyvei az évek során rendszertelen önéletrajzi ciklussá á
 
 
 # <a name="id_867">Gerald Durrell: Madarak, vadak, rokonok (Korfu-trilógia 2) (1974)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Madarak%2C%20vadak%2C%20rokonok%20%28867%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Madarak%2C%20vadak%2C%20rokonok%20%28867%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Madarak%2C%20vadak%2C%20rokonok%20%28867%29/Madarak%2C%20vadak%2C%20rokonok%20-%20Gerald%20Durrell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Madarak%2C%20vadak%2C%20rokonok%20%28867%29/Madarak%2C%20vadak%2C%20rokonok%20-%20Gerald%20Durrell.epub)
 
 ### Tagek
 családtörténet, gyermek főszereplő, ismeretterjesztő, travel, család, non-fiction, classics, családregény, állat, kaland, humour, biography, korfu, 20. század, állatvilág, igaz történet alapján, magyar nyelvű, brit szerző, állattartás, görögország, angol humor, humoros, ifjúsági, gyermekszemszög, illusztrált
@@ -26,10 +26,10 @@ Durrellék kalandjai folytatódnak! A Családom és egyéb állatfajták című 
 
 
 # <a name="id_868">Gerald Durrell: Istenek kertje (Korfu-trilógia 3) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Istenek%20kertje%20%28868%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Istenek%20kertje%20%28868%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Istenek%20kertje%20%28868%29/Istenek%20kertje%20-%20Gerald%20Durrell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Istenek%20kertje%20%28868%29/Istenek%20kertje%20-%20Gerald%20Durrell.epub)
 
 ### Tagek
 családtörténet, gyermek főszereplő, ismeretterjesztő, család, családregény, állat, kaland, korfu, 20. század, állatvilág, igaz történet alapján, magyar nyelvű, brit szerző, állattartás, görögország, irodalom, angol humor, humoros, ifjúsági, gyermekszemszög, szórakoztató irodalom, illusztrált
@@ -40,10 +40,10 @@ A Korfu-trilógia záródarabjában a Családom és egyéb állatfajták, illetv
 
 
 # <a name="id_879">Gerald Durrell: A halak jelleme (1978)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/A%20halak%20jelleme%20%28879%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/A%20halak%20jelleme%20%28879%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/A%20halak%20jelleme%20%28879%29/A%20halak%20jelleme%20-%20Gerald%20Durrell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/A%20halak%20jelleme%20%28879%29/A%20halak%20jelleme%20-%20Gerald%20Durrell.epub)
 
 ### Tagek
 20. század, állattan, angol humor, brit szerző, férfi főszereplő, görögország, halak, humoros, illusztrált, ismeretterjesztő, klasszikus, korfu, magyar nyelvű, memoár, novella, sziget
@@ -54,10 +54,10 @@ Korfu: ​romantikus születésnapi mulatság, jégszekrényeltérítéssel, meg
 
 
 # <a name="id_864">Gerald Durrell: Vadállatok bolondja (1982)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Vadallatok%20bolondja%20%28864%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Vadallatok%20bolondja%20%28864%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Vadallatok%20bolondja%20%28864%29/Vadallatok%20bolondja%20-%20Gerald%20Durrell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Vadallatok%20bolondja%20%28864%29/Vadallatok%20bolondja%20-%20Gerald%20Durrell.epub)
 
 ### Tagek
 ismeretterjesztő, környezetvédelem, magyar nyelvű, humor, állatbarát, brit, brit szerző, humoros, ifjúsági, természetvédelem, 20. század, állat, angol, állatkert, életrajz
@@ -68,10 +68,10 @@ ismeretterjesztő, környezetvédelem, magyar nyelvű, humor, állatbarát, brit
 
 
 # <a name="id_866">Gerald Durrell: Vadak a vadonban (1988)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Vadak%20a%20vadonban%20%28866%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Vadak%20a%20vadonban%20%28866%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Vadak%20a%20vadonban%20%28866%29/Vadak%20a%20vadonban%20-%20Gerald%20Durrell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Vadak%20a%20vadonban%20%28866%29/Vadak%20a%20vadonban%20-%20Gerald%20Durrell.epub)
 
 ### Tagek
 magyar nyelvű, brit szerző, travel, humour, biography, non-fiction, humoros, 20. század, állat, adventure
@@ -82,10 +82,10 @@ Gerald Durrell ezt a kéziratát a BBC-ben elhangzott egyik rádiós sorozatána
 
 
 # <a name="id_869">Gerald Durrell: Hogyan lőjünk amatőr természetbúvárt? (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Hogyan%20lojunk%20amator%20termeszetbuvar%20%28869%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Hogyan%20lojunk%20amator%20termeszetbuvar%20%28869%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Hogyan%20lojunk%20amator%20termeszetbuvar%20%28869%29/Hogyan%20lojunk%20amator%20termeszetb%20-%20Gerald%20Durrell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Hogyan%20lojunk%20amator%20termeszetbuvar%20%28869%29/Hogyan%20lojunk%20amator%20termeszetb%20-%20Gerald%20Durrell.epub)
 
 ### Tagek
 természettudomány, ismeretterjesztő, magyar nyelvű, humor, állatbarát, brit, brit szerző, biológia, természet, humoros, 20. század, állat, angol
@@ -95,10 +95,10 @@ Ha Ön borzokat szeretne filmezni egy erdőben, dobálna-e odújuk elé földimo
 
 
 # <a name="id_870">Gerald Durrell: Noé bárkáján (1992)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Noe%20barkajan%20%28870%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Noe%20barkajan%20%28870%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Noe%20barkajan%20%28870%29/Noe%20barkajan%20-%20Gerald%20Durrell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Noe%20barkajan%20%28870%29/Noe%20barkajan%20-%20Gerald%20Durrell.epub)
 
 ### Tagek
 ismeretterjesztő, kalandregény, humor, brit, természet, állat, dél-afrika (ország), kaland, állatbarát, 20. század, állatvilág, útleírás, állatgondozás, magyar nyelvű, brit szerző, állattartás, regény, kamerun, afrika, memoár, humoros, ifjúsági, természetjárás, expedíció
@@ -108,10 +108,10 @@ E könyv az első kameruni gyűjtőexpedíció fergeteges története, ellenáll
 
 
 # <a name="id_874">Gerald Durrell: Szamártolvajok (1994)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Szamartolvajok%20%28874%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Szamartolvajok%20%28874%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Szamartolvajok%20%28874%29/Szamartolvajok%20-%20Gerald%20Durrell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Szamartolvajok%20%28874%29/Szamartolvajok%20-%20Gerald%20Durrell.epub)
 
 ### Tagek
 gyermekkönyv iskolásoknak, magyar nyelvű, humor, brit szerző, brit, görögország, humoros, nyár, ifjúsági, 20. század, állat, angol, gyermek- és ifjúsági irodalom
@@ -129,10 +129,10 @@ A polgármester és a Menelousz Stafili, még mindig lihegve, lerogytak egy szé
 
 
 # <a name="id_872">Gerald Durrell: Férjhez adjuk a mamát (1995)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Ferjhez%20adjuk%20a%20mamat%20%28872%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Ferjhez%20adjuk%20a%20mamat%20%28872%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Ferjhez%20adjuk%20a%20mamat%20%28872%29/Ferjhez%20adjuk%20a%20mamat%20-%20Gerald%20Durrell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Ferjhez%20adjuk%20a%20mamat%20%28872%29/Ferjhez%20adjuk%20a%20mamat%20-%20Gerald%20Durrell.epub)
 
 ### Tagek
 magyar nyelvű, brit szerző, humoros, novella, ifjúsági, hangoskönyv, 20. század, irodalom, állat, igaz történet alapján, elbeszélés, szórakoztató irodalom, illusztrált
@@ -142,10 +142,10 @@ A ​Családom és egyéb állatfajták-ból meg a többi korfui emlékből megi
 
 
 # <a name="id_310">Gerald Durrell: Állatkert a kastély körül (1996)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Allatkert%20a%20kastely%20korul%20%28310%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Allatkert%20a%20kastely%20korul%20%28310%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Allatkert%20a%20kastely%20korul%20%28310%29/Allatkert%20a%20kastely%20korul%20-%20Gerald%20Durrell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Allatkert%20a%20kastely%20korul%20%28310%29/Allatkert%20a%20kastely%20korul%20-%20Gerald%20Durrell.epub)
 
 ### Tagek
 ismeretterjesztő, oroszlán, magyar nyelvű, brit szerző, állatbarát, brit, humoros, regény, természetvédelem, 20. század, állat, angol humor, állatkert, illusztrált
@@ -155,10 +155,10 @@ A szerző nevét igen jól ismeri az egész magyar olvasóközönség, nagy nép
 
 
 # <a name="id_862">Gerald Durrell: A bafuti kopók (2000)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/A%20bafuti%20kopok%20%28862%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/A%20bafuti%20kopok%20%28862%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/A%20bafuti%20kopok%20%28862%29/A%20bafuti%20kopok%20-%20Gerald%20Durrell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/A%20bafuti%20kopok%20%28862%29/A%20bafuti%20kopok%20-%20Gerald%20Durrell.epub)
 
 ### Tagek
 ismeretterjesztő, kalandregény, humor, brit, természet, állat, kaland, angol, 20. század, állatvilág, magyar nyelvű, brit szerző, állattartás, regény, kamerun, angol humor, afrika, memoár, humoros, ifjúsági, természetjárás, expedíció, illusztrált
@@ -171,10 +171,10 @@ ismeretterjesztő, kalandregény, humor, brit, természet, állat, kaland, angol
 
 
 # <a name="id_863">Gerald Durrell: Vadászat felvevőgéppel (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Vadaszat%20felvevogeppel%20%28863%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Vadaszat%20felvevogeppel%20%28863%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Vadaszat%20felvevogeppel%20%28863%29/Vadaszat%20felvevogeppel%20-%20Gerald%20Durrell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Vadaszat%20felvevogeppel%20%28863%29/Vadaszat%20felvevogeppel%20-%20Gerald%20Durrell.epub)
 
 ### Tagek
 ismeretterjesztő, humor, brit, délkelet-ázsia, természet, állatvédelem, állat, kaland, környezet, angol, ausztrália, állatbarát, malajzia, 20. század, állatvilág, útleírás, környezetvédelem, magyar nyelvű, brit szerző, természetvédelem, memoár, humoros, madarak, új-zéland, illusztrált
@@ -184,10 +184,10 @@ A ​közelmúltban elhunyt Gerald – mint barátai, tisztelői és olvasói em
 
 
 # <a name="id_865">Gerald Durrell: A hahagáj (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/A%20hahagaj%20%28865%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/A%20hahagaj%20%28865%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/A%20hahagaj%20%28865%29/A%20hahagaj%20-%20Gerald%20Durrell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/A%20hahagaj%20%28865%29/A%20hahagaj%20-%20Gerald%20Durrell.epub)
 
 ### Tagek
 20. század, brit szerző, humoros, illusztrált, ismeretterjesztő, környezetvédelem, magyar nyelvű, meseregény, ökológia, regény, szatíra, természetvédelem
@@ -197,10 +197,10 @@ Zenkali – az Indiai-óceán egy mesebeli szigete – épp a nemzeti független
 
 
 # <a name="id_49">Gerald Durrell: Állatkert a poggyászomban (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Allatkert%20a%20poggyaszomban%20%2849%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Allatkert%20a%20poggyaszomban%20%2849%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Allatkert%20a%20poggyaszomban%20%2849%29/Allatkert%20a%20poggyaszomban%20-%20Gerald%20Durrell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Allatkert%20a%20poggyaszomban%20%2849%29/Allatkert%20a%20poggyaszomban%20-%20Gerald%20Durrell.epub)
 
 ### Tagek
 ismeretterjesztő, humor, elbeszélések, természet, tartalom szerint, állattörténetek, állatvédelem, állat, kaland, európa, gyermek- és ifjúsági irodalom, természettudomány, szépirodalom, nagy-britannia, 20. század, állatvilág, magyar nyelvű, brit szerző, állattartás, regény, kamerun, regények, afrika, memoár, humoros, ifjúsági, természetjárás, az író származása szerint, expedíció, állatkert
@@ -210,10 +210,10 @@ Gerald Durrell 1933–1939 között Korfu szigetén élt. Ez idő alatt speciál
 
 
 # <a name="id_875">Gerald Durrell: Aranydenevérek, rózsaszín galambok (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Aranydeneverek%2C%20rozsaszin%20galambok%20%28875%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Aranydeneverek%2C%20rozsaszin%20galambok%20%28875%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Aranydeneverek%2C%20rozsaszin%20galambok%20%28875%29/Aranydeneverek%2C%20rozsaszin%20galam%20-%20Gerald%20Durrell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Aranydeneverek%2C%20rozsaszin%20galambok%20%28875%29/Aranydeneverek%2C%20rozsaszin%20galam%20-%20Gerald%20Durrell.epub)
 
 ### Tagek
 ismeretterjesztő, természet, állatvédelem, állat, kaland, indiai-óceán, 20. század, állatvilág, mauritius, magyar nyelvű, brit szerző, regény, irodalom, angol humor, afrika, memoár, humoros, természetjárás, férfi főszereplő, szórakoztató irodalom, illusztrált, állattan
@@ -223,10 +223,10 @@ Gerald Durrell e könyvében két expedícióját írja le az elbűvölő Maurit
 
 
 # <a name="id_878">Gerald Durrell: A részeg erdő (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/A%20reszeg%20erdo%20%28878%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/A%20reszeg%20erdo%20%28878%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/A%20reszeg%20erdo%20%28878%29/A%20reszeg%20erdo%20-%20Gerald%20Durrell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/A%20reszeg%20erdo%20%28878%29/A%20reszeg%20erdo%20-%20Gerald%20Durrell.epub)
 
 ### Tagek
 ismeretterjesztő, természet, állat, kaland, dél-amerika, 20. század, állatvilág, útleírás, magyar nyelvű, állatkert, brit szerző, állattartás, regény, természetvédelem, irodalom, memoár, humoros, argentína, ifjúsági, szórakoztató irodalom, illusztrált
@@ -237,10 +237,10 @@ ismeretterjesztő, természet, állat, kaland, dél-amerika, 20. század, állat
 
 
 # <a name="id_871">Gerald Durrell: A susogó táj (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/A%20susogo%20taj%20%28871%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/A%20susogo%20taj%20%28871%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/A%20susogo%20taj%20%28871%29/A%20susogo%20taj%20-%20Gerald%20Durrell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/A%20susogo%20taj%20%28871%29/A%20susogo%20taj%20-%20Gerald%20Durrell.epub)
 
 ### Tagek
 ismeretterjesztő, kalandregény, természet, állat, kaland, dél-amerika, természettudomány, 20. század, állatvilág, magyar nyelvű, brit szerző, regény, irodalom, memoár, humoros, argentína, ifjúsági, természetjárás, expedíció, szórakoztató irodalom, illusztrált, állattan
@@ -250,10 +250,10 @@ ismeretterjesztő, kalandregény, természet, állat, kaland, dél-amerika, term
 
 
 # <a name="id_873">Gerald Durrell: Életem értelme (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Eletem%20ertelme%20%28873%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Eletem%20ertelme%20%28873%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gerald%20Durrell/Eletem%20ertelme%20%28873%29/Eletem%20ertelme%20-%20Gerald%20Durrell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gerald%20Durrell/Eletem%20ertelme%20%28873%29/Eletem%20ertelme%20-%20Gerald%20Durrell.epub)
 
 ### Tagek
 ismeretterjesztő, természet, állatvédelem, állat, szépirodalom, 20. század, állatvilág, környezetvédelem, magyar nyelvű, brit szerző, állattartás, regény, természetvédelem, irodalom, memoár, humoros, ifjúsági, állatkert, illusztrált

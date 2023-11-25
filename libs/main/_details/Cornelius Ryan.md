@@ -1,8 +1,8 @@
 # <a name="id_1455">Cornelius Ryan: A leghosszabb nap (1999)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Cornelius%20Ryan/A%20leghosszabb%20nap%20%281455%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Cornelius%20Ryan/A%20leghosszabb%20nap%20%281455%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Cornelius%20Ryan/A%20leghosszabb%20nap%20%281455%29/A%20leghosszabb%20nap%20-%20Cornelius%20Ryan.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Cornelius%20Ryan/A%20leghosszabb%20nap%20%281455%29/A%20leghosszabb%20nap%20-%20Cornelius%20Ryan.epub)
 
 ### Tagek
 2. világháború, 20. század, amerikai, filmadaptáció, háború, ír szerző, magyar nyelvű, regény, történelmi regény

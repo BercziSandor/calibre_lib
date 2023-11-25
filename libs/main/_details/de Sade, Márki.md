@@ -1,8 +1,8 @@
 # <a name="id_1216">de Sade, Márki: Szodoma százhúsz napja (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/de%20Sade%2C%20Marki/Szodoma%20szazhusz%20napja%20%281216%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/de%20Sade%2C%20Marki/Szodoma%20szazhusz%20napja%20%281216%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/de%20Sade%2C%20Marki/Szodoma%20szazhusz%20napja%20%281216%29/Szodoma%20szazhusz%20napja%20-%20de%20Sade%2C%20Marki.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/de%20Sade%2C%20Marki/Szodoma%20szazhusz%20napja%20%281216%29/Szodoma%20szazhusz%20napja%20-%20de%20Sade%2C%20Marki.epub)
 
 ### Tagek
 1001 könyv listán szerepel, 18. század, bdsm, erotikus, francia szerző, horror, klasszikus, lmbtq, magyar nyelvű, pajzán, pedofília, prostitúció, regény, szexuális perverzió, tabu

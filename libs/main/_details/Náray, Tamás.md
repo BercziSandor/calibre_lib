@@ -1,8 +1,8 @@
 # <a name="id_1234">Náray, Tamás: Zarah (Zarah 1) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Naray%2C%20Tamas/Zarah%20%281234%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Naray%2C%20Tamas/Zarah%20%281234%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Naray%2C%20Tamas/Zarah%20%281234%29/Zarah%20-%20Naray%2C%20Tamas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Naray%2C%20Tamas/Zarah%20%281234%29/Zarah%20-%20Naray%2C%20Tamas.epub)
 
 ### Tagek
 2. világháború, 20. század, családregény, halál, kortárs, magyar nyelvű, magyar szerző, női főszereplő, regény, sorozat része, zsidóság, család, magyar
@@ -13,10 +13,10 @@
 
 
 # <a name="id_1233">Náray, Tamás: Zarah öröksége (Zarah 2) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Naray%2C%20Tamas/Zarah%20oroksege%20%281233%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Naray%2C%20Tamas/Zarah%20oroksege%20%281233%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Naray%2C%20Tamas/Zarah%20oroksege%20%281233%29/Zarah%20oroksege%20-%20Naray%2C%20Tamas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Naray%2C%20Tamas/Zarah%20oroksege%20%281233%29/Zarah%20oroksege%20-%20Naray%2C%20Tamas.epub)
 
 ### Tagek
 családregény, krimi, magyar szerző, sorozat része, magyar nyelvű, regény, magyar, családtörténet
@@ -26,10 +26,10 @@ családregény, krimi, magyar szerző, sorozat része, magyar nyelvű, regény, 
 
 
 # <a name="id_1235">Náray, Tamás: Zarah álma (Zarah 3) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Naray%2C%20Tamas/Zarah%20alma%20%281235%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Naray%2C%20Tamas/Zarah%20alma%20%281235%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Naray%2C%20Tamas/Zarah%20alma%20%281235%29/Zarah%20alma%20-%20Naray%2C%20Tamas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Naray%2C%20Tamas/Zarah%20alma%20%281235%29/Zarah%20alma%20-%20Naray%2C%20Tamas.epub)
 
 ### Tagek
 krimi, családregény, kortárs, magyar nyelvű, magyar szerző, regény, sorozat része

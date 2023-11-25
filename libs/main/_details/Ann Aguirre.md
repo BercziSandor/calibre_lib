@@ -1,8 +1,8 @@
 # <a name="id_1518">Ann Aguirre: Menedék (Razorland-trilógia 1) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Ann%20Aguirre/Menedek%20%281518%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ann%20Aguirre/Menedek%20%281518%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Ann%20Aguirre/Menedek%20%281518%29/Menedek%20-%20Ann%20Aguirre.pdf)
+[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ann%20Aguirre/Menedek%20%281518%29/Menedek%20-%20Ann%20Aguirre.pdf)
 
 ### Tagek
 science fiction

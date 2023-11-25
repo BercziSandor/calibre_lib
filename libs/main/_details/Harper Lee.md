@@ -1,8 +1,8 @@
 # <a name="id_987">Harper Lee: Ne bántsátok a feketerigót! (Ne bántsátok a feketerigót! 1) (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Harper%20Lee/Ne%20bantsatok%20a%20feketerigot%21%20%28987%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Harper%20Lee/Ne%20bantsatok%20a%20feketerigot%21%20%28987%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Harper%20Lee/Ne%20bantsatok%20a%20feketerigot%21%20%28987%29/Ne%20bantsatok%20a%20feketerigot%21%20-%20Harper%20Lee.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Harper%20Lee/Ne%20bantsatok%20a%20feketerigot%21%20%28987%29/Ne%20bantsatok%20a%20feketerigot%21%20-%20Harper%20Lee.epub)
 
 ### Tagek
 1001 könyv listán szerepel, 1930-as évek, 20. század, afroamerikai, alabama, amerikai dél (irányzat), amerikai egyesült államok, amerikai szerző, apaság, bíróság, család, erőszak, filmadaptáció, gótikus irodalom, gyermek főszereplő, gyermekszemszög, klasszikus, magyar nyelvű, női főszereplő, pulitzer-díj, irodalom, szépirodalom

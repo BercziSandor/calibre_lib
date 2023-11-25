@@ -1,8 +1,8 @@
 # <a name="id_607">Jevgenyij Zamjatyin: Mi (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jevgenyij%20Zamjatyin/Mi%20%28607%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jevgenyij%20Zamjatyin/Mi%20%28607%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Jevgenyij%20Zamjatyin/Mi%20%28607%29/Mi%20-%20Jevgenyij%20Zamjatyin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jevgenyij%20Zamjatyin/Mi%20%28607%29/Mi%20-%20Jevgenyij%20Zamjatyin.epub)
 
 ### Tagek
 1001 könyv listán szerepel, avantgárd, disztópia, expresszionizmus, filozofikus regény, kommunizmus, magyar nyelvű, matematika, orosz szerző, regény, sci-fi, szovjet, társadalmi sci-fi

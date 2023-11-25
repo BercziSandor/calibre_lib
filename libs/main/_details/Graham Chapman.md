@@ -1,8 +1,8 @@
 # <a name="id_271">Graham Chapman: Monty Python – Brian élete (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Graham%20Chapman/Monty%20Python%20-%20Brian%20elete%20%28271%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Graham%20Chapman/Monty%20Python%20-%20Brian%20elete%20%28271%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Graham%20Chapman/Monty%20Python%20-%20Brian%20elete%20%28271%29/Monty%20Python%20-%20Brian%20elete%20-%20Graham%20Chapman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Graham%20Chapman/Monty%20Python%20-%20Brian%20elete%20%28271%29/Monty%20Python%20-%20Brian%20elete%20-%20Graham%20Chapman.epub)
 
 ### Tagek
 abszurd, amerikai szerző, angol humor, angol szerző, brit szerző, filmkönyv, humoros, magyar nyelvű, ókor, movies & tv series

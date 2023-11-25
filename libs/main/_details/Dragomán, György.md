@@ -1,8 +1,8 @@
 # <a name="id_1192">Dragomán, György: A pusztítás könyve (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dragoman%2C%20Gyorgy/A%20pusztitas%20konyve%20%281192%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/A%20pusztitas%20konyve%20%281192%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dragoman%2C%20Gyorgy/A%20pusztitas%20konyve%20%281192%29/A%20pusztitas%20konyve%20-%20Dragoman%2C%20Gyorgy.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/A%20pusztitas%20konyve%20%281192%29/A%20pusztitas%20konyve%20-%20Dragoman%2C%20Gyorgy.epub)
 
 ### Tagek
 erdélyi, erdélyi magyar szerző, kortárs, magyar nyelvű, magyar szerző, noir irodalom, regény
@@ -13,10 +13,10 @@ erdélyi, erdélyi magyar szerző, kortárs, magyar nyelvű, magyar szerző, noi
 
 
 # <a name="id_1191">Dragomán, György: Oroszlánkórus (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dragoman%2C%20Gyorgy/Oroszlankorus%20%281191%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/Oroszlankorus%20%281191%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dragoman%2C%20Gyorgy/Oroszlankorus%20%281191%29/Oroszlankorus%20-%20Dragoman%2C%20Gyorgy.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/Oroszlankorus%20%281191%29/Oroszlankorus%20-%20Dragoman%2C%20Gyorgy.epub)
 
 ### Tagek
 erdélyi magyar szerző, hangoskönyv, kortárs, magyar nyelvű, magyar szerző, novella, zene
@@ -27,10 +27,10 @@ erdélyi magyar szerző, hangoskönyv, kortárs, magyar nyelvű, magyar szerző,
 
 
 # <a name="id_1193">Dragomán, György: A fehér király (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dragoman%2C%20Gyorgy/A%20feher%20kiraly%20%281193%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/A%20feher%20kiraly%20%281193%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dragoman%2C%20Gyorgy/A%20feher%20kiraly%20%281193%29/A%20feher%20kiraly%20-%20Dragoman%2C%20Gyorgy.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/A%20feher%20kiraly%20%281193%29/A%20feher%20kiraly%20-%20Dragoman%2C%20Gyorgy.epub)
 
 ### Tagek
 literary collections, european, general
@@ -41,10 +41,10 @@ literary collections, european, general
 
 
 # <a name="id_1223">Dragomán, György: Rendszerújra (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dragoman%2C%20Gyorgy/Rendszerujra%20%281223%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/Rendszerujra%20%281223%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dragoman%2C%20Gyorgy/Rendszerujra%20%281223%29/Rendszerujra%20-%20Dragoman%2C%20Gyorgy.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/Rendszerujra%20%281223%29/Rendszerujra%20-%20Dragoman%2C%20Gyorgy.epub)
 
 ### Tagek
 disztópia, erdélyi magyar szerző, magyar szerző, fantasztikus, kortárs, magyar, magyar nyelvű, novella, sci-fi
@@ -55,10 +55,10 @@ disztópia, erdélyi magyar szerző, magyar szerző, fantasztikus, kortárs, mag
 
 
 # <a name="id_1194">Dragomán, György: Máglya (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dragoman%2C%20Gyorgy/Maglya%20%281194%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/Maglya%20%281194%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dragoman%2C%20Gyorgy/Maglya%20%281194%29/Maglya%20-%20Dragoman%2C%20Gyorgy.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/Maglya%20%281194%29/Maglya%20-%20Dragoman%2C%20Gyorgy.epub)
 
 ### Tagek
 családtörténet, énregény, erdély, erdélyi magyar szerző, gyermekkor, gyermekszemszög, határon túli, kortárs, mágikus realizmus, magyar nyelvű, magyar szerző, merítés-díj, női főszereplő, regény, rendszerváltás, történelem, szépirodalom

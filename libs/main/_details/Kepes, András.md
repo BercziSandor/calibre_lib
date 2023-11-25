@@ -1,8 +1,8 @@
 # <a name="id_109">Kepes, András: Tövispuszta (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kepes%2C%20Andras/Tovispuszta%20%28109%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kepes%2C%20Andras/Tovispuszta%20%28109%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kepes%2C%20Andras/Tovispuszta%20%28109%29/Tovispuszta%20-%20Kepes%2C%20Andras.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kepes%2C%20Andras/Tovispuszta%20%28109%29/Tovispuszta%20-%20Kepes%2C%20Andras.epub)
 
 ### Tagek
 21. század, magyar, magyar nyelvű, magyar szerző, regény, kortárs, családregény, 20. század
@@ -13,10 +13,10 @@
 
 
 # <a name="id_1232">Kepes, András: Istenek és emberek (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kepes%2C%20Andras/Istenek%20es%20emberek%20%281232%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kepes%2C%20Andras/Istenek%20es%20emberek%20%281232%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kepes%2C%20Andras/Istenek%20es%20emberek%20%281232%29/Istenek%20es%20emberek%20-%20Kepes%2C%20Andras.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kepes%2C%20Andras/Istenek%20es%20emberek%20%281232%29/Istenek%20es%20emberek%20-%20Kepes%2C%20Andras.epub)
 
 ### Tagek
 21. század, fogság, gasztronómia, házasság, katasztrófa, kortárs, magyar, magyar nyelvű, magyar szerző, regény, svájc, társadalomtudomány, természet

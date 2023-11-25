@@ -1,8 +1,8 @@
 # <a name="id_1214">Martin Cruz Smith: Gorkij Park (Arkagyij Renko 1) (1991)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Martin%20Cruz%20Smith/Gorkij%20Park%20%281214%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Martin%20Cruz%20Smith/Gorkij%20Park%20%281214%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Martin%20Cruz%20Smith/Gorkij%20Park%20%281214%29/Gorkij%20Park%20-%20Martin%20Cruz%20Smith.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Martin%20Cruz%20Smith/Gorkij%20Park%20%281214%29/Gorkij%20Park%20-%20Martin%20Cruz%20Smith.epub)
 
 ### Tagek
 amerikai szerző, diktatúra, filmadaptáció, krimi, magyar nyelvű, oroszország, politikai krimi, regény, sorozat része, sorozatgyilkosság, szovjetunió

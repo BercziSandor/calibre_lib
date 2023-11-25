@@ -1,8 +1,8 @@
 # <a name="id_223">Gabriel García Márquez: Száz év magány (1994)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gabriel%20Garcia%20Marquez/Szaz%20ev%20magany%20%28223%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gabriel%20Garcia%20Marquez/Szaz%20ev%20magany%20%28223%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gabriel%20Garcia%20Marquez/Szaz%20ev%20magany%20%28223%29/Szaz%20ev%20magany%20-%20Gabriel%20Garcia%20Marquez.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gabriel%20Garcia%20Marquez/Szaz%20ev%20magany%20%28223%29/Szaz%20ev%20magany%20-%20Gabriel%20Garcia%20Marquez.epub)
 
 ### Tagek
 1001 könyv listán szerepel, 111 híres regény, cigányság, családregény, családtörténet, dél-amerikai, drámai cselekmény, háború, irodalmi nobel-díj, klasszikus, kolumbiai szerző, kortárs, latin-amerika, latin-amerikai, mágikus realizmus, magyar nyelvű, nagy könyv, neustadt nemzetközi irodalmi díj, amerika, az író származása szerint, kolumbia, szépirodalom, elbeszélés, novella, regény
@@ -13,10 +13,10 @@
 
 
 # <a name="id_342">Gabriel García Márquez: Szerelem a kolera idején (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gabriel%20Garcia%20Marquez/Szerelem%20a%20kolera%20idejen%20%28342%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gabriel%20Garcia%20Marquez/Szerelem%20a%20kolera%20idejen%20%28342%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gabriel%20Garcia%20Marquez/Szerelem%20a%20kolera%20idejen%20%28342%29/Szerelem%20a%20kolera%20idejen%20-%20Gabriel%20Garcia%20Marquez.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gabriel%20Garcia%20Marquez/Szerelem%20a%20kolera%20idejen%20%28342%29/Szerelem%20a%20kolera%20idejen%20-%20Gabriel%20Garcia%20Marquez.epub)
 
 ### Tagek
 1001 könyv listán szerepel, 20. század, dél-amerika, dél-amerikai, erotikus, filmadaptáció, groteszk, házasság, irodalmi nobel-díj, járvány, klasszikus, kolumbiai szerző, kortárs, latin-amerika, latin-amerikai, lélekrajz, mágikus realizmus, magyar nyelvű, nagy könyv, amerika, kolumbia, az író származása szerint, szépirodalom, regény, novella, elbeszélés

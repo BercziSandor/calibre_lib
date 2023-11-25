@@ -1,8 +1,8 @@
 # <a name="id_8">Trevor Warner: Kutya-testbeszéd </a>
-<img src="???/raw/main/Trevor%20Warner/Kutya-testbeszed%20%288%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Trevor%20Warner/Kutya-testbeszed%20%288%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[djvu](???/raw/main/Trevor%20Warner/Kutya-testbeszed%20%288%29/Kutya-testbeszed%20-%20Trevor%20Warner.djvu)
+[djvu](https://github.com/BercziSandor/calibre_lib/raw/main/Trevor%20Warner/Kutya-testbeszed%20%288%29/Kutya-testbeszed%20-%20Trevor%20Warner.djvu)
 
 ### Összefoglalás
 <div>

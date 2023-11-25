@@ -1,8 +1,8 @@
 # <a name="id_1029">Patrick Rothfuss: A bölcs ember félelme (A királygyilkos krónikája 2) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Patrick%20Rothfuss/A%20bolcs%20ember%20felelme%20%281029%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Patrick%20Rothfuss/A%20bolcs%20ember%20felelme%20%281029%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Patrick%20Rothfuss/A%20bolcs%20ember%20felelme%20%281029%29/A%20bolcs%20ember%20felelme%20-%20Patrick%20Rothfuss.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Patrick%20Rothfuss/A%20bolcs%20ember%20felelme%20%281029%29/A%20bolcs%20ember%20felelme%20-%20Patrick%20Rothfuss.epub)
 
 ### Tagek
 21. század, amerikai szerző, barátság, david gemmell-díj, egyetem, epikus fantasy, fantasy, férfi főszereplő, high fantasy, iskola, kaland, kalandregény, kortárs, mágia, magyar nyelvű, regény, sorozat része, utazás, zene

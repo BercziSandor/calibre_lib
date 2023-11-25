@@ -1,8 +1,8 @@
 # <a name="id_1492">Michael Ende: Gombos ​Jim és Lukács, a masiniszta (Gombos Jim 1) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Ende/Gombos%20%20Jim%20es%20Lukacs%2C%20a%20masiniszta%20%281492%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Ende/Gombos%20%20Jim%20es%20Lukacs%2C%20a%20masiniszta%20%281492%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Ende/Gombos%20%20Jim%20es%20Lukacs%2C%20a%20masiniszta%20%281492%29/Gombos%20%20Jim%20es%20Lukacs%2C%20a%20masini%20-%20Michael%20Ende.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Ende/Gombos%20%20Jim%20es%20Lukacs%2C%20a%20masiniszta%20%281492%29/Gombos%20%20Jim%20es%20Lukacs%2C%20a%20masini%20-%20Michael%20Ende.epub)
 
 ### Tagek
 20. század, gyermek- és ifjúsági irodalom, illusztrált, magyar nyelvű, meseregény, német, sárkány
@@ -12,10 +12,10 @@
 
 
 # <a name="id_353">Michael Ende: A végtelen történet (1985)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Ende/A%20vegtelen%20tortenet%20%28353%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Ende/A%20vegtelen%20tortenet%20%28353%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Ende/A%20vegtelen%20tortenet%20%28353%29/A%20vegtelen%20tortenet%20-%20Michael%20Ende.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Ende/A%20vegtelen%20tortenet%20%28353%29/A%20vegtelen%20tortenet%20-%20Michael%20Ende.epub)
 
 ### Tagek
 allegorikus, barátság, emlékezet, fejlődésregény, férfi főszereplő, filozofikus regény, gyermek főszereplő, gyermekkönyv iskolásoknak, gyermekszemszög, kalandregény, klasszikus, könyvesbolt, magyar nyelvű, meseregény, nagy könyv, német szerző, német irodalom, emlékek, 20. század, kortalan mesék, gyermek- és ifjúsági irodalom, szeretet, illusztrált, fantasy, filmadaptáció, kaland, regény, könyv
@@ -26,10 +26,10 @@ allegorikus, barátság, emlékezet, fejlődésregény, férfi főszereplő, fil
 
 
 # <a name="id_1430">Michael Ende: Momo (1985)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Ende/Momo%20%281430%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Ende/Momo%20%281430%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Ende/Momo%20%281430%29/Momo%20-%20Michael%20Ende.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Ende/Momo%20%281430%29/Momo%20-%20Michael%20Ende.epub)
 
 ### Tagek
 20. század, barátság, dél-európa, disztópia, filmadaptáció, gyermek főszereplő, gyermekkönyv iskolásoknak, időgazdálkodás, illusztrált, kaland, klasszikus, magyar nyelvű, meseregény, német szerző, regény, társadalomkritika, teknős, titkos társaságok, utazás, visszaemlékezés

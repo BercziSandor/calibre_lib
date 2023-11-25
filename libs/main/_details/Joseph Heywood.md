@@ -1,8 +1,8 @@
 # <a name="id_404">Joseph Heywood: Hozd el nekem Hitlert! (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joseph%20Heywood/Hozd%20el%20nekem%20Hitlert%21%20%28404%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joseph%20Heywood/Hozd%20el%20nekem%20Hitlert%21%20%28404%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joseph%20Heywood/Hozd%20el%20nekem%20Hitlert%21%20%28404%29/Hozd%20el%20nekem%20Hitlert%21%20-%20Joseph%20Heywood.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joseph%20Heywood/Hozd%20el%20nekem%20Hitlert%21%20%28404%29/Hozd%20el%20nekem%20Hitlert%21%20-%20Joseph%20Heywood.epub)
 
 ### Tagek
 1940-es évek, 2. világháború, 20. század, alternatív történelem, amerikai szerző, magyar nyelvű, németország, regény, kalandregény, háború

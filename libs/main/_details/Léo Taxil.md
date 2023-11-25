@@ -1,8 +1,8 @@
 # <a name="id_950">Léo Taxil: A szórakoztató Biblia (1995)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Leo%20Taxil/A%20szorakoztato%20Biblia%20%28950%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leo%20Taxil/A%20szorakoztato%20Biblia%20%28950%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leo%20Taxil/A%20szorakoztato%20Biblia%20%28950%29/A%20szorakoztato%20Biblia%20-%20Leo%20Taxil.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leo%20Taxil/A%20szorakoztato%20Biblia%20%28950%29/A%20szorakoztato%20Biblia%20-%20Leo%20Taxil.epub)
 
 ### Tagek
 francia szerző, ismeretterjesztő, magyar nyelvű, ateizmus, biblia, humoros, vallás, valláskritika

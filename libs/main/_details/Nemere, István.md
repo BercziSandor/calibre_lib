@@ -1,8 +1,8 @@
 # <a name="id_1015">Nemere, István: Szélhámosok könyve (1993)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Nemere%2C%20Istvan/Szelhamosok%20konyve%20%281015%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nemere%2C%20Istvan/Szelhamosok%20konyve%20%281015%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Nemere%2C%20Istvan/Szelhamosok%20konyve%20%281015%29/Szelhamosok%20konyve%20-%20Nemere%2C%20Istvan.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nemere%2C%20Istvan/Szelhamosok%20konyve%20%281015%29/Szelhamosok%20konyve%20-%20Nemere%2C%20Istvan.epub)
 
 ### Tagek
 magyar nyelvű, magyar szerző, kortárs, krimi

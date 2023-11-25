@@ -1,8 +1,8 @@
 # <a name="id_1644">Amélie Poinssot: Orbán Viktor fejében (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Amelie%20Poinssot/Orban%20Viktor%20fejeben%20%281644%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Amelie%20Poinssot/Orban%20Viktor%20fejeben%20%281644%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Amelie%20Poinssot/Orban%20Viktor%20fejeben%20%281644%29/Orban%20Viktor%20fejeben%20-%20Amelie%20Poinssot.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Amelie%20Poinssot/Orban%20Viktor%20fejeben%20%281644%29/Orban%20Viktor%20fejeben%20-%20Amelie%20Poinssot.epub)
 
 ### Tagek
 politika, ismeretterjesztő, orbán

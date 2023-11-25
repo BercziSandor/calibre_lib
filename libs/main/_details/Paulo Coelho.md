@@ -1,8 +1,8 @@
 # <a name="id_264">Paulo Coelho: Veronika meg akar halni (És a hetedik 1) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Paulo%20Coelho/Veronika%20meg%20akar%20halni%20%28264%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Paulo%20Coelho/Veronika%20meg%20akar%20halni%20%28264%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Paulo%20Coelho/Veronika%20meg%20akar%20halni%20%28264%29/Veronika%20meg%20akar%20halni%20-%20Paulo%20Coelho.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Paulo%20Coelho/Veronika%20meg%20akar%20halni%20%28264%29/Veronika%20meg%20akar%20halni%20-%20Paulo%20Coelho.epub)
 
 ### Tagek
 1001 könyv listán szerepel, 1990-es évek, 20. század, brazil szerző, dél-amerikai, elmegyógyintézet, emberi sorsok, filmadaptáció, kortárs, magyar nyelvű, női főszereplő, öngyilkosság, pszichés betegség, pszichiátria, pszichológia, regény, romantikus, sorozat része, szlovénia, literature
@@ -13,10 +13,10 @@
 
 
 # <a name="id_260">Paulo Coelho: A zarándoklat (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Paulo%20Coelho/A%20zarandoklat%20%28260%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Paulo%20Coelho/A%20zarandoklat%20%28260%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Paulo%20Coelho/A%20zarandoklat%20%28260%29/A%20zarandoklat%20-%20Paulo%20Coelho.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Paulo%20Coelho/A%20zarandoklat%20%28260%29/A%20zarandoklat%20-%20Paulo%20Coelho.epub)
 
 ### Tagek
 20. század, brazil szerző, magyar nyelvű, spanyolország, útleírás, zarándoklat, general fiction
@@ -27,10 +27,10 @@
 
 
 # <a name="id_261">Paulo Coelho: Az alkimista (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Paulo%20Coelho/Az%20alkimista%20%28261%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Paulo%20Coelho/Az%20alkimista%20%28261%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Paulo%20Coelho/Az%20alkimista%20%28261%29/Az%20alkimista%20-%20Paulo%20Coelho.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Paulo%20Coelho/Az%20alkimista%20%28261%29/Az%20alkimista%20-%20Paulo%20Coelho.epub)
 
 ### Tagek
 20. század, afrika, alkímia, allegorikus, álom, arab világ, bölcsesség, brazil szerző, dél-amerikai, egyiptom, életfilozófia, életmód, ezotéria, fejlődésregény, férfi főszereplő, hangoskönyv, identitás, klasszikus, kortárs, magyar nyelvű, literature
@@ -41,10 +41,10 @@
 
 
 # <a name="id_263">Paulo Coelho: Tizenegy perc (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Paulo%20Coelho/Tizenegy%20perc%20%28263%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Paulo%20Coelho/Tizenegy%20perc%20%28263%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Paulo%20Coelho/Tizenegy%20perc%20%28263%29/Tizenegy%20perc%20-%20Paulo%20Coelho.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Paulo%20Coelho/Tizenegy%20perc%20%28263%29/Tizenegy%20perc%20-%20Paulo%20Coelho.epub)
 
 ### Tagek
 20. század, brazil szerző, dél-amerikai, emberi sorsok, erotikus, fejlődésregény, hangoskönyv, kortárs, magyar nyelvű, nemi élet, női főszereplő, prostitúció, regény, romantikus, spiritualitás, svájc, tánc, general fiction

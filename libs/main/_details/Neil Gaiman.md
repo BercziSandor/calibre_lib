@@ -1,14 +1,14 @@
 # <a name="id_890">Neil Gaiman: Shoggoth Különleges (Novellák 1) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Shoggoth%20Kulonleges%20%28890%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Shoggoth%20Kulonleges%20%28890%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Shoggoth%20Kulonleges%20%28890%29/Shoggoth%20Kulonleges%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Shoggoth%20Kulonleges%20%28890%29/Shoggoth%20Kulonleges%20-%20Neil%20Gaiman.epub)
 
 # <a name="id_665">Neil Gaiman: 27 képtelen történet </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/27%20keptelen%20tortenet%20%28665%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/27%20keptelen%20tortenet%20%28665%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/27%20keptelen%20tortenet%20%28665%29/27%20keptelen%20tortenet%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/27%20keptelen%20tortenet%20%28665%29/27%20keptelen%20tortenet%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 science fiction
@@ -18,22 +18,22 @@ science fiction
 
 
 # <a name="id_887">Neil Gaiman: Góliát </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Goliat%20%28887%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Goliat%20%28887%29/cover.jpg" alt="cover" width="300"/>
 
 # <a name="id_888">Neil Gaiman: Hó, tükör, almák </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Ho%2C%20tukor%2C%20almak%20%28888%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Ho%2C%20tukor%2C%20almak%20%28888%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Ho%2C%20tukor%2C%20almak%20%28888%29/Ho%2C%20tukor%2C%20almak%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Ho%2C%20tukor%2C%20almak%20%28888%29/Ho%2C%20tukor%2C%20almak%20-%20Neil%20Gaiman.epub)
 
 # <a name="id_889">Neil Gaiman: Mátrix </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Matrix%20%28889%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Matrix%20%28889%29/cover.jpg" alt="cover" width="300"/>
 
 # <a name="id_224">Neil Gaiman: Amerikai Istenek (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Amerikai%20Istenek%20%28224%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Amerikai%20Istenek%20%28224%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Amerikai%20Istenek%20%28224%29/Amerikai%20Istenek%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Amerikai%20Istenek%20%28224%29/Amerikai%20Istenek%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 szépirodalom, sci-fi, szórakoztató irodalom
@@ -43,10 +43,10 @@ szépirodalom, sci-fi, szórakoztató irodalom
 
 
 # <a name="id_1706">Neil Gaiman: Ne ess pánikba! (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Ne%20ess%20panikba%21%20%281706%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Ne%20ess%20panikba%21%20%281706%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Ne%20ess%20panikba%21%20%281706%29/Ne%20ess%20panikba%21%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Ne%20ess%20panikba%21%20%281706%29/Ne%20ess%20panikba%21%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 sci-fi, életrajz, angol humor
@@ -57,10 +57,10 @@ sci-fi, életrajz, angol humor
 
 
 # <a name="id_1433">Neil Gaiman: Óceán az út végén (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Ocean%20az%20ut%20vegen%20%281433%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Ocean%20az%20ut%20vegen%20%281433%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Ocean%20az%20ut%20vegen%20%281433%29/Ocean%20az%20ut%20vegen%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Ocean%20az%20ut%20vegen%20%281433%29/Ocean%20az%20ut%20vegen%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 20. század, 21. század, állat, anglia, angol szerző, barátság, brit szerző, család, dark fantasy, emlékezet, énelbeszélő, fantasy, férfi főszereplő, fizikai bántalmazás, gyermek főszereplő, gyermekkor, gyermekszemszög, horror, kortárs, locus-díj
@@ -71,10 +71,10 @@ sci-fi, életrajz, angol humor
 
 
 # <a name="id_1432">Neil Gaiman: Anansi fiúk (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Anansi%20fiuk%20%281432%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Anansi%20fiuk%20%281432%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Anansi%20fiuk%20%281432%29/Anansi%20fiuk%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Anansi%20fiuk%20%281432%29/Anansi%20fiuk%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 21. század, angol szerző, august derleth-díj, brit szerző, british fantasy-díj, fantasy, férfi főszereplő, humoros, istenek, kaland, kortárs, locus-díj, madarak, mágikus realizmus, magyar nyelvű, mitológia, pókok, posztmodern, regény, testvérek
@@ -85,10 +85,10 @@ sci-fi, életrajz, angol humor
 
 
 # <a name="id_1431">Neil Gaiman: Coraline (angol) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Coraline%20%28angol%29%20%281431%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Coraline%20%28angol%29%20%281431%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Coraline%20%28angol%29%20%281431%29/Coraline%20%28angol%29%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Coraline%20%28angol%29%20%281431%29/Coraline%20%28angol%29%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 21. század, angol nyelvű, angol szerző, boszorkány, brit szerző, család, dark fantasy, fantasy, filmadaptáció, gyermek főszereplő, gyermekszemszög, horror, hugo-díj, ifjúsági, illusztrált, kortárs, locus-díj, macska, mágikus realizmus, meseregény
@@ -99,10 +99,10 @@ sci-fi, életrajz, angol humor
 
 
 # <a name="id_976">Neil Gaiman: Felkavaró tartalom (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Felkavaro%20tartalom%20%28976%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Felkavaro%20tartalom%20%28976%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Felkavaro%20tartalom%20%28976%29/Felkavaro%20tartalom%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Felkavaro%20tartalom%20%28976%29/Felkavaro%20tartalom%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 amerikai, angol szerző, brit szerző, fantasy, kortárs, magyar nyelvű, misztikus, novella, urban fantasy, weird fiction
@@ -113,10 +113,10 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 
 
 # <a name="id_1435">Neil Gaiman: Északi mitológia (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Eszaki%20mitologia%20%281435%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Eszaki%20mitologia%20%281435%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Eszaki%20mitologia%20%281435%29/Eszaki%20mitologia%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Eszaki%20mitologia%20%281435%29/Eszaki%20mitologia%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 angol szerző, brit szerző, északi népek, harcosok, ifjúsági, istenek, kortárs, magyar nyelvű, mítosz, novella, összetett regény, regény, skandináv, skandinávia, tél, viking, fantasy, mitológia
@@ -127,10 +127,10 @@ angol szerző, brit szerző, északi népek, harcosok, ifjúsági, istenek, kort
 
 
 # <a name="id_1436">Neil Gaiman: Törékeny holmik (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Torekeny%20holmik%20%281436%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Torekeny%20holmik%20%281436%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Torekeny%20holmik%20%281436%29/Torekeny%20holmik%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Torekeny%20holmik%20%281436%29/Torekeny%20holmik%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 angol szerző, brit szerző, cirkusz, démon, drog, elbeszélés, fantasy, filmadaptáció, halál, horror, hugo-díj, kortárs, magyar nyelvű, misztikus, novella, pedofília, sci-fi, szellemek, thriller, urban fantasy
@@ -141,10 +141,10 @@ angol szerző, brit szerző, cirkusz, démon, drog, elbeszélés, fantasy, filma
 
 
 # <a name="id_1434">Neil Gaiman: Tükör és füst (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Tukor%20es%20fust%20%281434%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Tukor%20es%20fust%20%281434%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Tukor%20es%20fust%20%281434%29/Tukor%20es%20fust%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Tukor%20es%20fust%20%281434%29/Tukor%20es%20fust%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 20. század, adaptáció, angol szerző, angyal, brit szerző, dark fantasy, démon, elbeszélés, erőszak, fantasy, horror, mágikus realizmus, magyar nyelvű, novella, pedofília, thriller, válogatás, vérfarkas, vers, short stories
@@ -155,10 +155,10 @@ angol szerző, brit szerző, cirkusz, démon, drog, elbeszélés, fantasy, filma
 
 
 # <a name="id_222">Neil Gaiman: Sosehol (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Sosehol%20%28222%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Sosehol%20%28222%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Sosehol%20%28222%29/Sosehol%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Sosehol%20%28222%29/Sosehol%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 20. század, london, anglia, urban fantasy, kalandregény, magyar nyelvű, regény, fantasy, mágia, metró, brit szerző, angol szerző, kaland, angyal, weird fiction, portál fantasy, kortárs
@@ -170,10 +170,10 @@ A csatornák és metróalagutak labirintusában velük kell boldogulnia Richardn
 
 
 # <a name="id_886">Neil Gaiman: Csillagpor (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Csillagpor%20%28886%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Csillagpor%20%28886%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/Csillagpor%20%28886%29/Csillagpor%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Csillagpor%20%28886%29/Csillagpor%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 anglia, 19. század, fantasy, angol szerző, testvérek, meseregény, portál fantasy, magyar nyelvű, regény, szórakoztató irodalom, férfi főszereplő, brit szerző, kaland, tündér, kortárs, illusztrált, kalandregény, boszorkány, filmadaptáció, romantikus, szellemek, irodalom
@@ -184,10 +184,10 @@ Falva falva egy aprócska település Angliában. Arról a falról kapta a nevé
 
 
 # <a name="id_1424">Neil Gaiman: A temető könyve (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/A%20temeto%20konyve%20%281424%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/A%20temeto%20konyve%20%281424%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Gaiman/A%20temeto%20konyve%20%281424%29/A%20temeto%20konyve%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/A%20temeto%20konyve%20%281424%29/A%20temeto%20konyve%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 21. század, anglia, angol szerző, barátság, brit szerző, carnegie-medál, dark fantasy, fantasy, fejlődésregény, gyermek főszereplő, gyilkosság, halál, halloween, horror, hugo-díj, ifjúsági, illusztrált, locus-díj, magyar nyelvű, meseregény

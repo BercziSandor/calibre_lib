@@ -1,8 +1,8 @@
 # <a name="id_382">Henryk Sienkiewicz: Sivatagon és vadonban (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Henryk%20Sienkiewicz/Sivatagon%20es%20vadonban%20%28382%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Henryk%20Sienkiewicz/Sivatagon%20es%20vadonban%20%28382%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Henryk%20Sienkiewicz/Sivatagon%20es%20vadonban%20%28382%29/Sivatagon%20es%20vadonban%20-%20Henryk%20Sienkiewicz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Henryk%20Sienkiewicz/Sivatagon%20es%20vadonban%20%28382%29/Sivatagon%20es%20vadonban%20-%20Henryk%20Sienkiewicz.epub)
 
 ### Tagek
 erdő, gyermekkönyv iskolásoknak, illusztrált, irodalmi nobel-díj, klasszikus, lengyel szerző, magyar nyelvű, 20. század, afrika, filmadaptáció, ifjúsági, kaland, kalandregény, lengyel, nobel-díj, regény, sivatag, túlélés, utazás
@@ -12,10 +12,10 @@ erdő, gyermekkönyv iskolásoknak, illusztrált, irodalmi nobel-díj, klassziku
 
 
 # <a name="id_386">Henryk Sienkiewicz: Quo vadis? (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Henryk%20Sienkiewicz/Quo%20vadis_%20%28386%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Henryk%20Sienkiewicz/Quo%20vadis_%20%28386%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Henryk%20Sienkiewicz/Quo%20vadis_%20%28386%29/Quo%20vadis_%20-%20Henryk%20Sienkiewicz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Henryk%20Sienkiewicz/Quo%20vadis_%20%28386%29/Quo%20vadis_%20-%20Henryk%20Sienkiewicz.epub)
 
 ### Tagek
 1. század, császár, filmadaptáció, hangoskönyv, irodalmi nobel-díj, klasszikus, lengyel szerző, magyar nyelvű, római birodalom, történelem, történelmi regény, lengyel, nagy könyv, ókori róma, nobel-díj, 111 híres regény, szépirodalom, kereszténység, lengyel irodalom, történelmi, róma, romantikus, regény, 1001 könyv listán szerepel, ókor

@@ -1,8 +1,8 @@
 # <a name="id_1572">Böszörményi, Gyula: Leányrablás Budapesten (Ambrózy báró esetei 1) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Leanyrablas%20Budapesten%20%281572%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Leanyrablas%20Budapesten%20%281572%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Leanyrablas%20Budapesten%20%281572%29/Leanyrablas%20Budapesten%20-%20Boszormenyi%2C%20Gyula.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Leanyrablas%20Budapesten%20%281572%29/Leanyrablas%20Budapesten%20-%20Boszormenyi%2C%20Gyula.epub)
 
 ### Tagek
 krimi
@@ -13,10 +13,10 @@ krimi
 
 
 # <a name="id_1573">Böszörményi, Gyula: A Rudnay-gyilkosságok (Ambrózy báró esetei 2) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/A%20Rudnay-gyilkossagok%20%281573%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/A%20Rudnay-gyilkossagok%20%281573%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/A%20Rudnay-gyilkossagok%20%281573%29/A%20Rudnay-gyilkossagok%20-%20Boszormenyi%2C%20Gyula.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/A%20Rudnay-gyilkossagok%20%281573%29/A%20Rudnay-gyilkossagok%20-%20Boszormenyi%2C%20Gyula.epub)
 
 ### Tagek
 krimi
@@ -27,10 +27,10 @@ krimi
 
 
 # <a name="id_1577">Böszörményi, Gyula: Beretva és tőr (Ambrózy báró esetei 2.5) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Beretva%20es%20tor%20%281577%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Beretva%20es%20tor%20%281577%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Beretva%20es%20tor%20%281577%29/Beretva%20es%20tor%20-%20Boszormenyi%2C%20Gyula.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Beretva%20es%20tor%20%281577%29/Beretva%20es%20tor%20-%20Boszormenyi%2C%20Gyula.epub)
 
 ### Összefoglalás
 <div>
@@ -38,10 +38,10 @@ krimi
 
 
 # <a name="id_1565">Böszörményi, Gyula: Ármány ​és kézfogó (Ambrózy báró esetei 3) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Armany%20%20es%20kezfogo%20%281565%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Armany%20%20es%20kezfogo%20%281565%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Armany%20%20es%20kezfogo%20%281565%29/Armany%20%20es%20kezfogo%20-%20Boszormenyi%2C%20Gyula.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Armany%20%20es%20kezfogo%20%281565%29/Armany%20%20es%20kezfogo%20-%20Boszormenyi%2C%20Gyula.epub)
 
 ### Tagek
 krimi, romantikus, magyar, történelmi regény
@@ -72,10 +72,10 @@ magyar, krimi, történelmi regény
 
 
 # <a name="id_1574">Böszörményi, Gyula: A Barnum-rejtély (Ambrózy báró esetei 6) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/A%20Barnum-rejtely%20%281574%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/A%20Barnum-rejtely%20%281574%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/A%20Barnum-rejtely%20%281574%29/A%20Barnum-rejtely%20-%20Boszormenyi%2C%20Gyula.pdf)
+[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/A%20Barnum-rejtely%20%281574%29/A%20Barnum-rejtely%20-%20Boszormenyi%2C%20Gyula.pdf)
 
 ### Összefoglalás
 <div>
@@ -83,10 +83,10 @@ magyar, krimi, történelmi regény
 
 
 # <a name="id_1568">Böszörményi, Gyula: Gergő és az álomfogók (Gergő-regények 1) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Gergo%20es%20az%20alomfogok%20%281568%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Gergo%20es%20az%20alomfogok%20%281568%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Gergo%20es%20az%20alomfogok%20%281568%29/Gergo%20es%20az%20alomfogok%20-%20Boszormenyi%2C%20Gyula.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Gergo%20es%20az%20alomfogok%20%281568%29/Gergo%20es%20az%20alomfogok%20-%20Boszormenyi%2C%20Gyula.epub)
 
 ### Összefoglalás
 <div>
@@ -106,22 +106,22 @@ magyar, krimi, történelmi regény
 
 
 # <a name="id_1569">Böszörményi, Gyula: Gergő és az álomvámpírok 1 (Gergő-regények 4) (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Gergo%20es%20az%20alomvampirok%201%20%281569%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Gergo%20es%20az%20alomvampirok%201%20%281569%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Gergo%20es%20az%20alomvampirok%201%20%281569%29/Gergo%20es%20az%20alomvampirok%201%20-%20Boszormenyi%2C%20Gyula.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Gergo%20es%20az%20alomvampirok%201%20%281569%29/Gergo%20es%20az%20alomvampirok%201%20-%20Boszormenyi%2C%20Gyula.epub)
 
 # <a name="id_1570">Böszörményi, Gyula: Gergő és az álomvámpírok 2 (Gergő-regények 5) (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Gergo%20es%20az%20alomvampirok%202%20%281570%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Gergo%20es%20az%20alomvampirok%202%20%281570%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Gergo%20es%20az%20alomvampirok%202%20%281570%29/Gergo%20es%20az%20alomvampirok%202%20-%20Boszormenyi%2C%20Gyula.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Gergo%20es%20az%20alomvampirok%202%20%281570%29/Gergo%20es%20az%20alomvampirok%202%20-%20Boszormenyi%2C%20Gyula.epub)
 
 # <a name="id_1576">Böszörményi, Gyula: Az elveszett történet (Jonatán kalandjai 1) (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Az%20elveszett%20tortenet%20%281576%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Az%20elveszett%20tortenet%20%281576%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Az%20elveszett%20tortenet%20%281576%29/Az%20elveszett%20tortenet%20-%20Boszormenyi%2C%20Gyula.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Az%20elveszett%20tortenet%20%281576%29/Az%20elveszett%20tortenet%20-%20Boszormenyi%2C%20Gyula.epub)
 
 ### Összefoglalás
 <div>
@@ -129,10 +129,10 @@ magyar, krimi, történelmi regény
 
 
 # <a name="id_1563">Böszörményi, Gyula: A Gutenberg Lovagrend (Jonatán kalandjai 2) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/A%20Gutenberg%20Lovagrend%20%281563%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/A%20Gutenberg%20Lovagrend%20%281563%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/A%20Gutenberg%20Lovagrend%20%281563%29/A%20Gutenberg%20Lovagrend%20-%20Boszormenyi%2C%20Gyula.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/A%20Gutenberg%20Lovagrend%20%281563%29/A%20Gutenberg%20Lovagrend%20-%20Boszormenyi%2C%20Gyula.epub)
 
 ### Összefoglalás
 <div>
@@ -140,10 +140,10 @@ magyar, krimi, történelmi regény
 
 
 # <a name="id_1564">Böszörményi, Gyula: Árnyvadászok (Jonatán kalandjai 3) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Arnyvadaszok%20%281564%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Arnyvadaszok%20%281564%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Arnyvadaszok%20%281564%29/Arnyvadaszok%20-%20Boszormenyi%2C%20Gyula.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Arnyvadaszok%20%281564%29/Arnyvadaszok%20-%20Boszormenyi%2C%20Gyula.epub)
 
 ### Összefoglalás
 <div>
@@ -171,10 +171,10 @@ Marcel 13 éves, mikor a családjával a „Nyócker” színes, zajos, rémiszt
 
 
 # <a name="id_1588">Böszörményi, Gyula: Monyákos Tuba, a pipamocsok-lidérc élettörténete (Monyákos Tuba-történetek 3) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Monyakos%20Tuba%2C%20a%20pipamocsok-liderc%20%281588%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Monyakos%20Tuba%2C%20a%20pipamocsok-liderc%20%281588%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Monyakos%20Tuba%2C%20a%20pipamocsok-liderc%20%281588%29/Monyakos%20Tuba%2C%20a%20pipamocsok-lid%20-%20Boszormenyi%20Gyula.pdf)
+[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Monyakos%20Tuba%2C%20a%20pipamocsok-liderc%20%281588%29/Monyakos%20Tuba%2C%20a%20pipamocsok-lid%20-%20Boszormenyi%20Gyula.pdf)
 
 # <a name="id_1587">Böszörményi, Gyula: Ütközet a Meridim felett (Mysterious 1) (2004)</a>
 ### Összefoglalás
@@ -189,10 +189,10 @@ Marcel 13 éves, mikor a családjával a „Nyócker” színes, zajos, rémiszt
 
 
 # <a name="id_1589">Böszörményi, Gyula: Rúvel hegyi legenda (Rúvel hegy 1) (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Ruvel%20hegyi%20legenda%20%281589%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Ruvel%20hegyi%20legenda%20%281589%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Boszormenyi%2C%20Gyula/Ruvel%20hegyi%20legenda%20%281589%29/Ruvel%20hegyi%20legenda%20-%20Boszormenyi%2C%20Gyula.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Ruvel%20hegyi%20legenda%20%281589%29/Ruvel%20hegyi%20legenda%20-%20Boszormenyi%2C%20Gyula.epub)
 
 ### Tagek
 gyermek- és ifjúsági irodalom, ifjúsági, kaland, kalandregény, kortárs, magyar nyelvű, magyar szerző, mese, meseregény, regény, sorozat része, fantasy

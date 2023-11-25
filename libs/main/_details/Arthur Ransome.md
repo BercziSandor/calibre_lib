@@ -1,8 +1,8 @@
 # <a name="id_422">Arthur Ransome: Fecske-völgy (Fecskék és Fruskák 2) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Arthur%20Ransome/Fecske-volgy%20%28422%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Arthur%20Ransome/Fecske-volgy%20%28422%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Arthur%20Ransome/Fecske-volgy%20%28422%29/Fecske-volgy%20-%20Arthur%20Ransome.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Arthur%20Ransome/Fecske-volgy%20%28422%29/Fecske-volgy%20-%20Arthur%20Ransome.epub)
 
 ### Tagek
 1930-as évek, 20. század, angol szerző, brit szerző, gyermekkönyv iskolásoknak, hajótörés, hajózás, illusztrált, kamasz főszereplő, magyar nyelvű, sorozat része, szünidő, kaland, angol, európa, az író származása szerint, gyermek- és ifjúsági irodalom, szépirodalom, regények, ifjúsági, kalandregények, elbeszélések, nagy-britannia, regény, tartalom szerint
@@ -13,10 +13,10 @@
 
 
 # <a name="id_423">Arthur Ransome: A kincskeresők (Fecskék és Fruskák 3) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Arthur%20Ransome/A%20Kincskeresok%20%28423%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Arthur%20Ransome/A%20Kincskeresok%20%28423%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Arthur%20Ransome/A%20Kincskeresok%20%28423%29/A%20kincskeresok%20-%20Arthur%20Ransome.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Arthur%20Ransome/A%20Kincskeresok%20%28423%29/A%20kincskeresok%20-%20Arthur%20Ransome.epub)
 
 ### Tagek
 1930-as évek, 20. század, angol szerző, brit szerző, gyermekkönyv iskolásoknak, illusztrált, kaland, kamasz főszereplő, magyar nyelvű, regény, sorozat része, ifjúsági, angol
@@ -27,10 +27,10 @@
 
 
 # <a name="id_429">Arthur Ransome: Téli szünidő (Fecskék és Fruskák 4) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Arthur%20Ransome/Teli%20szunido%20%28429%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Arthur%20Ransome/Teli%20szunido%20%28429%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Arthur%20Ransome/Teli%20szunido%20%28429%29/Teli%20szunido%20-%20Arthur%20Ransome.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Arthur%20Ransome/Teli%20szunido%20%28429%29/Teli%20szunido%20-%20Arthur%20Ransome.epub)
 
 ### Tagek
 1930-as évek, 20. század, angol szerző, barátság, brit szerző, gyermekkönyv iskolásoknak, illusztrált, kamasz főszereplő, magyar nyelvű, sorozat része, tél, ifjúsági, regény, angol, kaland
@@ -41,10 +41,10 @@
 
 
 # <a name="id_431">Arthur Ransome: Galambposta (Fecskék és Fruskák 6) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Arthur%20Ransome/Galambposta%20%28431%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Arthur%20Ransome/Galambposta%20%28431%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Arthur%20Ransome/Galambposta%20%28431%29/Galambposta%20-%20Arthur%20Ransome.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Arthur%20Ransome/Galambposta%20%28431%29/Galambposta%20-%20Arthur%20Ransome.epub)
 
 ### Tagek
 1930-as évek, 20. század, angol szerző, brit szerző, carnegie-medál, galamb, gyermekkönyv iskolásoknak, kaland, kamasz főszereplő, magyar nyelvű, regény, sorozat része, szünidő, nagy-britannia, európa, az író származása szerint, gyermek- és ifjúsági irodalom, szépirodalom, regények, gyerektörténetek, kalandregények, elbeszélések, tartalom szerint
@@ -54,10 +54,10 @@
 
 
 # <a name="id_430">Arthur Ransome: Nem akartunk tengerre szállni (Fecskék és Fruskák 7) (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Arthur%20Ransome/Nem%20akartunk%20tengerre%20szallni%20%28430%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Arthur%20Ransome/Nem%20akartunk%20tengerre%20szallni%20%28430%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Arthur%20Ransome/Nem%20akartunk%20tengerre%20szallni%20%28430%29/Nem%20akartunk%20tengerre%20szallni%20-%20Arthur%20Ransome.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Arthur%20Ransome/Nem%20akartunk%20tengerre%20szallni%20%28430%29/Nem%20akartunk%20tengerre%20szallni%20-%20Arthur%20Ransome.epub)
 
 ### Tagek
 1930-as évek, 20. század, angol szerző, atlanti-óceán, brit szerző, gyermekkönyv iskolásoknak, hajó, hajózás, kamasz főszereplő, magyar nyelvű, sorozat része, kaland, regény, angol, ifjúsági

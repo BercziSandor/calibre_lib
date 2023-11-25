@@ -1,8 +1,8 @@
 # <a name="id_1238">Szabó T., Anna: A Fűszermadár (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%20T.%2C%20Anna/A%20Fuszermadar%20%281238%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%20T.%2C%20Anna/A%20Fuszermadar%20%281238%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%20T.%2C%20Anna/A%20Fuszermadar%20%281238%29/A%20Fuszermadar%20-%20Szabo%20T.%2C%20Anna.pdf)
+[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%20T.%2C%20Anna/A%20Fuszermadar%20%281238%29/A%20Fuszermadar%20-%20Szabo%20T.%2C%20Anna.pdf)
 
 ### Tagek
 fűszernövény, gyermekkönyv iskolásoknak, gyermekkönyv kicsiknek, illusztrált, kortárs, magyar nyelvű, magyar szerző, mese
@@ -13,10 +13,10 @@ fűszernövény, gyermekkönyv iskolásoknak, gyermekkönyv kicsiknek, illusztr�
 
 
 # <a name="id_1236">Szabó T., Anna: Törésteszt (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%20T.%2C%20Anna/Toresteszt%20%281236%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%20T.%2C%20Anna/Toresteszt%20%281236%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%20T.%2C%20Anna/Toresteszt%20%281236%29/Toresteszt%20-%20Szabo%20T.%2C%20Anna.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%20T.%2C%20Anna/Toresteszt%20%281236%29/Toresteszt%20-%20Szabo%20T.%2C%20Anna.epub)
 
 ### Tagek
 férfiak, kortárs, magyar nyelvű, magyar szerző, nők, novella, párkapcsolat, társas kapcsolatok

@@ -1,8 +1,8 @@
 # <a name="id_681">Åsa Larsson: Kristálytemplom (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Asa%20Larsson/Kristalytemplom%20%28681%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Asa%20Larsson/Kristalytemplom%20%28681%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Asa%20Larsson/Kristalytemplom%20%28681%29/Kristalytemplom%20-%20Asa%20Larsson.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Asa%20Larsson/Kristalytemplom%20%28681%29/Kristalytemplom%20-%20Asa%20Larsson.epub)
 
 ### Tagek
 21. század, filmadaptáció, magyar nyelvű, regény, svéd szerző, krimi, skandináv

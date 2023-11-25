@@ -1,8 +1,8 @@
 # <a name="id_1344">Szabó, Magda: Egy czitrom hajával (Szabó Magda ízei 2) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Egy%20czitrom%20hajaval%20%281344%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Egy%20czitrom%20hajaval%20%281344%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Egy%20czitrom%20hajaval%20%281344%29/Egy%20czitrom%20hajaval%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Egy%20czitrom%20hajaval%20%281344%29/Egy%20czitrom%20hajaval%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 gasztronómia, magyar nyelvű, magyar szerző, recept, sorozat része, szakácskönyv
@@ -13,20 +13,20 @@ gasztronómia, magyar nyelvű, magyar szerző, recept, sorozat része, szakácsk
 
 
 # <a name="id_1340">Szabó, Magda: A szemlélők </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/A%20szemlelok%20%281340%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/A%20szemlelok%20%281340%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/A%20szemlelok%20%281340%29/A%20szemlelok%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/A%20szemlelok%20%281340%29/A%20szemlelok%20-%20Szabo%2C%20Magda.epub)
 
 ### Összefoglalás
 <p>A szemlélők - ha úgy tetszik - voltaképpen szerelmes regény, ám egymásba szerető, ezúttal még csak nem is fiatal hősei nyugati és kelet-európai szemléletük következtében nem egyesíthetik életüket: a jelenkori Montague és Capulet csak olyan kurta időre állapodhatik meg egymás mellett, amennyire egy madár költöző útján pihenni ereszkedik alá a lomb közé. Persze nemcsak szerelmes regény. Nincsenek kipreparálható, elidegeníthető, csak önmagukban egyedül jelentkező érzelmek, minden mindennel összefügg. Ebben a könyvben is. <br>(Szabó Magda) </p>
 
 
 # <a name="id_1359">Szabó, Magda: Hullámok kergetése (1965)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Hullamok%20kergetese%20%281359%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Hullamok%20kergetese%20%281359%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Hullamok%20kergetese%20%281359%29/Hullamok%20kergetese%20-%20Szabo%2C%20Magda.pdf)
+[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Hullamok%20kergetese%20%281359%29/Hullamok%20kergetese%20-%20Szabo%2C%20Magda.pdf)
 
 ### Tagek
 20. század, esszé, magyar nyelvű, magyar szerző, riport, útleírás
@@ -37,10 +37,10 @@ gasztronómia, magyar nyelvű, magyar szerző, recept, sorozat része, szakácsk
 
 
 # <a name="id_463">Szabó, Magda: Pilátus (1965)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Pilatus%20%28463%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Pilatus%20%28463%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Pilatus%20%28463%29/Pilatus%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Pilatus%20%28463%29/Pilatus%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 irodalom, további könyveink
@@ -50,10 +50,10 @@ irodalom, további könyveink
 
 
 # <a name="id_464">Szabó, Magda: Ókút (1976)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Okut%20%28464%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Okut%20%28464%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Okut%20%28464%29/Okut%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Okut%20%28464%29/Okut%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 életrajzok, költők, írók, visszaemlékezések
@@ -63,10 +63,10 @@ irodalom, további könyveink
 
 
 # <a name="id_476">Szabó, Magda: Megmaradt Szobotkának (1983)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Megmaradt%20Szobotkanak%20%28476%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Megmaradt%20Szobotkanak%20%28476%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Megmaradt%20Szobotkanak%20%28476%29/Megmaradt%20Szobotkanak%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Megmaradt%20Szobotkanak%20%28476%29/Megmaradt%20Szobotkanak%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 az író származása szerint, szépirodalom, regény, novella, elbeszélés
@@ -76,10 +76,10 @@ az író származása szerint, szépirodalom, regény, novella, elbeszélés
 
 
 # <a name="id_1357">Szabó, Magda: Az ajtó (1987)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Az%20ajto%20%281357%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Az%20ajto%20%281357%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Az%20ajto%20%281357%29/Az%20ajto%20-%20Szabo%2C%20Magda.pdf)
+[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Az%20ajto%20%281357%29/Az%20ajto%20-%20Szabo%2C%20Magda.pdf)
 
 ### Tagek
 20. század, 303 magyar regény, balassi bálint-emlékkard, barátság, emberi sorsok, filmadaptáció, hangoskönyv, igaz történet alapján, klasszikus, kortárs, lélektani, magyar nyelvű, magyar szerző, nagy könyv, női főszereplő, regény, vallás, vallomásregény
@@ -90,10 +90,10 @@ az író származása szerint, szépirodalom, regény, novella, elbeszélés
 
 
 # <a name="id_1338">Szabó, Magda: Abigél (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Abigel%20%281338%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Abigel%20%281338%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Abigel%20%281338%29/Abigel%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Abigel%20%281338%29/Abigel%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 1940-es évek, 2. világháború, 20. század, barátság, diákélet, fiatalkor, gyermekszemszög, háború, hangoskönyv, ifjúsági, illusztrált, iskola, kamasz főszereplő, kirekesztés, klasszikus, kollégium, kötelező, középiskola, lányregény, magyar nyelvű
@@ -107,10 +107,10 @@ az író származása szerint, szépirodalom, regény, novella, elbeszélés
 
 
 # <a name="id_1337">Szabó, Magda: Születésnap (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Szuletesnap%20%281337%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Szuletesnap%20%281337%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Szuletesnap%20%281337%29/Szuletesnap%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Szuletesnap%20%281337%29/Szuletesnap%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 20. század, barátság, budapest, ifjúsági, illusztrált, karácsony, klasszikus, lányregény, magyar nyelvű, magyar szerző, magyarország, regény, romantikus
@@ -121,10 +121,10 @@ az író származása szerint, szépirodalom, regény, novella, elbeszélés
 
 
 # <a name="id_1341">Szabó, Magda: Liber Mortis (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Liber%20Mortis%20%281341%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Liber%20Mortis%20%281341%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Liber%20Mortis%20%281341%29/Liber%20Mortis%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Liber%20Mortis%20%281341%29/Liber%20Mortis%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 magyar nyelvű, magyar szerző, napló, posztumusz
@@ -135,10 +135,10 @@ magyar nyelvű, magyar szerző, napló, posztumusz
 
 
 # <a name="id_1356">Szabó, Magda: Régimódi történet (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Regimodi%20tortenet%20%281356%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Regimodi%20tortenet%20%281356%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Regimodi%20tortenet%20%281356%29/Regimodi%20tortenet%20-%20Szabo%2C%20Magda.rtf)
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Regimodi%20tortenet%20%281356%29/Regimodi%20tortenet%20-%20Szabo%2C%20Magda.rtf)
 
 ### Tagek
 1800-as évek, 19. század, 20. század, 303 magyar regény, családregény, családtörténet, debrecen, filmadaptáció, háború, hangoskönyv, klasszikus, magyar nyelvű, magyar szerző, nagy könyv, női főszereplő, nők, regény, századforduló, szociográfia
@@ -149,10 +149,10 @@ magyar nyelvű, magyar szerző, napló, posztumusz
 
 
 # <a name="id_1350">Szabó, Magda: A Danaida (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/A%20Danaida%20%281350%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/A%20Danaida%20%281350%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/A%20Danaida%20%281350%29/A%20Danaida%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/A%20Danaida%20%281350%29/A%20Danaida%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 20. század, emberi sorsok, filmadaptáció, hangoskönyv, házasság, magyar nyelvű, magyar szerző, női főszereplő, regény, szülői szerep
@@ -163,7 +163,7 @@ magyar nyelvű, magyar szerző, napló, posztumusz
 
 
 # <a name="id_1354">Szabó, Magda: Tündér Lala (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Tunder%20Lala%20%281354%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Tunder%20Lala%20%281354%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 anyaság, férfi főszereplő, filmadaptáció, gyermekkönyv iskolásoknak, hangoskönyv, illusztrált, kortárs, magyar nyelvű, magyar szerző, meseregény, regény, tündér, unikornis, varázslat, varázsló
@@ -174,7 +174,7 @@ anyaság, férfi főszereplő, filmadaptáció, gyermekkönyv iskolásoknak, han
 
 
 # <a name="id_1352">Szabó, Magda: Álarcosbál (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Alarcosbal%20%281352%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Alarcosbal%20%281352%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 1950-es évek, 2. világháború, 20. század, háború, ifjúsági, illusztrált, iskola, klasszikus, lányregény, magyar nyelvű, magyar szerző, női főszereplő, regény, szülői szerep, tanár, történelem, váltott szemszög
@@ -185,7 +185,7 @@ anyaság, férfi főszereplő, filmadaptáció, gyermekkönyv iskolásoknak, han
 
 
 # <a name="id_1353">Szabó, Magda: Katalin utca (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Katalin%20utca%20%281353%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Katalin%20utca%20%281353%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 20. század, barátság, emberi sorsok, háború, hangoskönyv, klasszikus, lélektani, magyar nyelvű, magyar szerző, női főszereplő, regény, váltott szemszög
@@ -196,10 +196,10 @@ anyaság, férfi főszereplő, filmadaptáció, gyermekkönyv iskolásoknak, han
 
 
 # <a name="id_1348">Szabó, Magda: Az őz (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Az%20oz%20%281348%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Az%20oz%20%281348%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Az%20oz%20%281348%29/Az%20oz%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Az%20oz%20%281348%29/Az%20oz%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 2. világháború, 20. század, állat, család, emberi sorsok, gyilkosság, hangoskönyv, klasszikus, lélekrajz, lélektani, magyar nyelvű, magyar szerző, női főszereplő, párkapcsolat, regény, zsebkönyv
@@ -210,10 +210,10 @@ anyaság, férfi főszereplő, filmadaptáció, gyermekkönyv iskolásoknak, han
 
 
 # <a name="id_1347">Szabó, Magda: Freskó (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Fresko%20%281347%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Fresko%20%281347%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Fresko%20%281347%29/Fresko%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Fresko%20%281347%29/Fresko%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 20. század, család, családregény, emberi sorsok, halál, hangoskönyv, klasszikus, lélektani, magyar nyelvű, magyar szerző, regény, társas kapcsolatok, váltott szemszög
@@ -224,10 +224,10 @@ anyaság, férfi főszereplő, filmadaptáció, gyermekkönyv iskolásoknak, han
 
 
 # <a name="id_1339">Szabó, Magda: Für Elise (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Fur%20Elise%20%281339%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Fur%20Elise%20%281339%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Fur%20Elise%20%281339%29/Fur%20Elise%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Fur%20Elise%20%281339%29/Fur%20Elise%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 20. század, családregény, énregény, hangoskönyv, magyar nyelvű, magyar szerző, nagy könyv, női főszereplő, regény, testvérek, történelem, visszaemlékezés
@@ -238,10 +238,10 @@ anyaság, férfi főszereplő, filmadaptáció, gyermekkönyv iskolásoknak, han
 
 
 # <a name="id_1346">Szabó, Magda: Mondják meg Zsófikának (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Mondjak%20meg%20Zsofikanak%20%281346%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Mondjak%20meg%20Zsofikanak%20%281346%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Mondjak%20meg%20Zsofikanak%20%281346%29/Mondjak%20meg%20Zsofikanak%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Mondjak%20meg%20Zsofikanak%20%281346%29/Mondjak%20meg%20Zsofikanak%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 1950-es évek, 20. század, barátság, budapest, család, gyász, gyermekszemszög, halál, iskola, klasszikus, magyar nyelvű, magyar szerző, magyarország, nyár, nyomozás, örökbefogadás, regény, szünidő
@@ -252,10 +252,10 @@ anyaság, férfi főszereplő, filmadaptáció, gyermekkönyv iskolásoknak, han
 
 
 # <a name="id_1349">Szabó, Magda: Ókút (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Okut%20%281349%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Okut%20%281349%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Okut%20%281349%29/Okut%20-%20Szabo%2C%20Magda.rtf)
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Okut%20%281349%29/Okut%20-%20Szabo%2C%20Magda.rtf)
 
 ### Tagek
 1920-as évek, 20. század, debrecen, életrajz, gyermekkor, hangoskönyv, kisgyermekkor, magyar nyelvű, magyar szerző, memoár, női főszereplő, regény
@@ -266,10 +266,10 @@ anyaság, férfi főszereplő, filmadaptáció, gyermekkönyv iskolásoknak, han
 
 
 # <a name="id_1342">Szabó, Magda: Magdaléna (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Magdalena%20%281342%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Magdalena%20%281342%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Magdalena%20%281342%29/Magdalena%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Magdalena%20%281342%29/Magdalena%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 bécs, magyar nyelvű, magyar szerző, posztumusz
@@ -280,10 +280,10 @@ bécs, magyar nyelvű, magyar szerző, posztumusz
 
 
 # <a name="id_1343">Szabó, Magda: Zeusz küszöbén (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Zeusz%20kuszoben%20%281343%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Zeusz%20kuszoben%20%281343%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Zeusz%20kuszoben%20%281343%29/Zeusz%20kuszoben%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Zeusz%20kuszoben%20%281343%29/Zeusz%20kuszoben%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 20. század, görög, görögország, magyar nyelvű, magyar szerző, mitológia, útleírás, regény, irodalom, szépirodalom
@@ -294,10 +294,10 @@ bécs, magyar nyelvű, magyar szerző, posztumusz
 
 
 # <a name="id_1345">Szabó, Magda: Csigaház (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Csigahaz%20%281345%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Csigahaz%20%281345%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Csigahaz%20%281345%29/Csigahaz%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Csigahaz%20%281345%29/Csigahaz%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 1930-as évek, 20. század, bécs, klasszikus, barátság, házasság, kisregény, magyar nyelvű, magyar szerző, posztumusz
@@ -308,10 +308,10 @@ bécs, magyar nyelvű, magyar szerző, posztumusz
 
 
 # <a name="id_1351">Szabó, Magda: Pilátus (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Pilatus%20%281351%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Pilatus%20%281351%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szabo%2C%20Magda/Pilatus%20%281351%29/Pilatus%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Pilatus%20%281351%29/Pilatus%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 20. század, budapest, családregény, családtörténet, emberi sorsok, filmadaptáció, gyász, gyógyfürdő, halál, klasszikus, kortárs, lélektani, magyar nyelvű, magyar szerző, magyarország, női főszereplő, öregedés, orvos, regény, szülői szerep

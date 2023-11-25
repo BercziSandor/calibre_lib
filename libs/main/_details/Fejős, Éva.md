@@ -1,5 +1,5 @@
 # <a name="id_771">Fejős, Éva: Csajok (Csajok 1) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fejos%2C%20Eva/Csajok%20%28771%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fejos%2C%20Eva/Csajok%20%28771%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 kortárs, magyar nyelvű, magyar szerző, regény, sorozat része
@@ -10,10 +10,10 @@ kortárs, magyar nyelvű, magyar szerző, regény, sorozat része
 
 
 # <a name="id_17">Fejős, Éva: Eper reggelire (Hotel Bali 2) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fejos%2C%20Eva/Eper%20reggelire%20%2817%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fejos%2C%20Eva/Eper%20reggelire%20%2817%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fejos%2C%20Eva/Eper%20reggelire%20%2817%29/Eper%20reggelire%20-%20Fejos%2C%20Eva.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fejos%2C%20Eva/Eper%20reggelire%20%2817%29/Eper%20reggelire%20-%20Fejos%2C%20Eva.epub)
 
 ### Tagek
 21. század, bali, barátság, budapest, chick lit, magyar nyelvű, magyar szerző, női főszereplő, párizs, sorozat része, utazás, asian interest, szórakoztató irodalom, kortárs, romantikus, regény
@@ -24,10 +24,10 @@ kortárs, magyar nyelvű, magyar szerző, regény, sorozat része
 
 
 # <a name="id_773">Fejős, Éva: Éjszaka Bangkokban (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fejos%2C%20Eva/Ejszaka%20Bangkokban%20%28773%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fejos%2C%20Eva/Ejszaka%20Bangkokban%20%28773%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fejos%2C%20Eva/Ejszaka%20Bangkokban%20%28773%29/Ejszaka%20Bangkokban%20-%20Fejos%2C%20Eva.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fejos%2C%20Eva/Ejszaka%20Bangkokban%20%28773%29/Ejszaka%20Bangkokban%20-%20Fejos%2C%20Eva.epub)
 
 ### Tagek
 fiction, romance, general
@@ -38,10 +38,10 @@ fiction, romance, general
 
 
 # <a name="id_426">Fejős, Éva: Holtodiglan (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fejos%2C%20Eva/Holtodiglan%20%28426%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fejos%2C%20Eva/Holtodiglan%20%28426%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fejos%2C%20Eva/Holtodiglan%20%28426%29/Holtodiglan%20-%20Fejos%2C%20Eva.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fejos%2C%20Eva/Holtodiglan%20%28426%29/Holtodiglan%20-%20Fejos%2C%20Eva.epub)
 
 ### Tagek
 chick lit, magyar nyelvű, magyar szerző, romantikus, kortárs, vámpír
@@ -52,10 +52,10 @@ chick lit, magyar nyelvű, magyar szerző, romantikus, kortárs, vámpír
 
 
 # <a name="id_774">Fejős, Éva: Szeretlek, Bangkok (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Fejos%2C%20Eva/Szeretlek%2C%20Bangkok%20%28774%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fejos%2C%20Eva/Szeretlek%2C%20Bangkok%20%28774%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Fejos%2C%20Eva/Szeretlek%2C%20Bangkok%20%28774%29/Szeretlek%2C%20Bangkok%20-%20Fejos%2C%20Eva.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fejos%2C%20Eva/Szeretlek%2C%20Bangkok%20%28774%29/Szeretlek%2C%20Bangkok%20-%20Fejos%2C%20Eva.epub)
 
 ### Tagek
 21. század, délkelet-ázsia, kortárs, magyar nyelvű, magyar szerző, thaiföld, útleírás

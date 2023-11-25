@@ -1,8 +1,8 @@
 # <a name="id_390">Stephen Hawking: Az idő még rövidebb története (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20Hawking/Az%20ido%20meg%20rovidebb%20tortenete%20%28390%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20Hawking/Az%20ido%20meg%20rovidebb%20tortenete%20%28390%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20Hawking/Az%20ido%20meg%20rovidebb%20tortenete%20%28390%29/Az%20ido%20meg%20rovidebb%20tortenete%20-%20Stephen%20Hawking.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20Hawking/Az%20ido%20meg%20rovidebb%20tortenete%20%28390%29/Az%20ido%20meg%20rovidebb%20tortenete%20-%20Stephen%20Hawking.epub)
 
 ### Tagek
 brit szerző, csillagászat, fizika, ismeretterjesztő, kortárs, kozmológia, magyar nyelvű, természettudomány, tudományos, science & technical
@@ -13,10 +13,10 @@ brit szerző, csillagászat, fizika, ismeretterjesztő, kortárs, kozmológia, m
 
 
 # <a name="id_1166">Stephen Hawking: Az idő rövid története (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20Hawking/Az%20ido%20rovid%20tortenete%20%281166%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20Hawking/Az%20ido%20rovid%20tortenete%20%281166%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20Hawking/Az%20ido%20rovid%20tortenete%20%281166%29/Az%20ido%20rovid%20tortenete%20-%20Stephen%20Hawking.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20Hawking/Az%20ido%20rovid%20tortenete%20%281166%29/Az%20ido%20rovid%20tortenete%20-%20Stephen%20Hawking.epub)
 
 ### Tagek
 20. század, angol, brit szerző, csillagászat, filozófia, fizika, ismeretterjesztő, kozmológia, magyar nyelvű, relativitáselmélet, természettudomány, tudományos, science & technical

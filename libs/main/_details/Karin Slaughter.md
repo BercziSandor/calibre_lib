@@ -1,8 +1,8 @@
 # <a name="id_788">Karin Slaughter: Nadragulya (Grant County 1) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Karin%20Slaughter/Nadragulya%20%28788%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karin%20Slaughter/Nadragulya%20%28788%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Karin%20Slaughter/Nadragulya%20%28788%29/Nadragulya%20-%20Karin%20Slaughter.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karin%20Slaughter/Nadragulya%20%28788%29/Nadragulya%20-%20Karin%20Slaughter.epub)
 
 ### Tagek
 21. század, amerikai egyesült államok, amerikai szerző, detektívtörténet, georgia, gyilkosság, igazságügyi orvosszakértő, magyar nyelvű, nyomozás, orvos, pszicho-thriller, regény, sorozat része, sorozatgyilkosság, irodalom, szórakoztató irodalom, krimi, bûnügyi, thriller
@@ -13,10 +13,10 @@
 
 
 # <a name="id_599">Karin Slaughter: Bőr (Grant County 6) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Karin%20Slaughter/Bor%20%28599%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karin%20Slaughter/Bor%20%28599%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Karin%20Slaughter/Bor%20%28599%29/Bor%20-%20Karin%20Slaughter.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karin%20Slaughter/Bor%20%28599%29/Bor%20-%20Karin%20Slaughter.epub)
 
 ### Tagek
 21. század, amerikai szerző, detektívtörténet, gyilkosság, kortárs, magyar nyelvű, nyomozás, regény, sorozat része, krimi, bűnügyi, thriller
@@ -27,10 +27,10 @@
 
 
 # <a name="id_1488">Karin Slaughter: Összetörve (Will Trent 2) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Karin%20Slaughter/Osszetorve%20%281488%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karin%20Slaughter/Osszetorve%20%281488%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Karin%20Slaughter/Osszetorve%20%281488%29/Osszetorve%20-%20Karin%20Slaughter.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karin%20Slaughter/Osszetorve%20%281488%29/Osszetorve%20-%20Karin%20Slaughter.epub)
 
 ### Tagek
 fiction, crime, thrillers, 21. század amerikai egyesült államok amerikai szerző férfi főszereplő gyilkosság krimi magyar nyelvű regény sorozat része thriller

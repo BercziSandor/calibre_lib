@@ -1,8 +1,8 @@
 # <a name="id_1418">Kertész, Erzsébet: Fiút vártak, lány született (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kertesz%2C%20Erzsebet/Fiut%20vartak%2C%20lany%20szuletett%20%281418%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kertesz%2C%20Erzsebet/Fiut%20vartak%2C%20lany%20szuletett%20%281418%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kertesz%2C%20Erzsebet/Fiut%20vartak%2C%20lany%20szuletett%20%281418%29/Fiut%20vartak%2C%20lany%20szuletett%20-%20Kertesz%2C%20Erzsebet.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kertesz%2C%20Erzsebet/Fiut%20vartak%2C%20lany%20szuletett%20%281418%29/Fiut%20vartak%2C%20lany%20szuletett%20-%20Kertesz%2C%20Erzsebet.epub)
 
 ### Tagek
 feminizmus, magyar nyelvű, magyar szerző, önéletrajz, regény

@@ -1,8 +1,8 @@
 # <a name="id_40">Robert Ludlum: Bourne Hatalma (Bourne 1) (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Bourne%20Hatalma%20%2840%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Bourne%20Hatalma%20%2840%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Bourne%20Hatalma%20%2840%29/Bourne%20Hatalma%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Bourne%20Hatalma%20%2840%29/Bourne%20Hatalma%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 elbeszélés, amerika, ázsia, amerikai egyesült államok, az író származása szerint, szépirodalom, földrajzi besorolások, regény, novella, tartalom szerint
@@ -12,10 +12,10 @@ elbeszélés, amerika, ázsia, amerikai egyesült államok, az író származás
 
 
 # <a name="id_33">Robert Ludlum: A Hádész faktor (Covert-One 1) (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/A%20Hadesz%20faktor%20%2833%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Hadesz%20faktor%20%2833%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/A%20Hadesz%20faktor%20%2833%29/A%20Hadesz%20faktor%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Hadesz%20faktor%20%2833%29/A%20Hadesz%20faktor%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 amerikai egyesült államok, amerikai szerző, tartalom szerint, thriller, kaland, krimi, amerika, elbeszélés, az író származása szerint, akció, sorozat része, szépirodalom, orvosregények, novella, kémregény, misztikus, regény, magyar nyelvű
@@ -25,10 +25,10 @@ Három ​ember gyors egymásutánban, érthetetlen módon meghal az Egyesült �
 
 
 # <a name="id_37">Robert Ludlum: A Párizs opció (Covert-One 3) (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/A%20Parizs%20opcio%20%2837%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Parizs%20opcio%20%2837%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/A%20Parizs%20opcio%20%2837%29/A%20Parizs%20opcio%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Parizs%20opcio%20%2837%29/A%20Parizs%20opcio%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 amerikai szerző, thriller, krimi, sorozat része, amerikai, akció, kaland, kémregény, misztikus, regény, magyar nyelvű
@@ -38,10 +38,10 @@ A tudományos világban általánosan elterjedt vélemény szerint még évek ke
 
 
 # <a name="id_30">Robert Ludlum: A Bourne-rejtély (Fantom/Bourne 1) (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/A%20Bourne-Rejtely%20%2830%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Bourne-Rejtely%20%2830%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/A%20Bourne-Rejtely%20%2830%29/A%20Bourne-rejtely%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Bourne-Rejtely%20%2830%29/A%20Bourne-rejtely%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 20. század, amerikai szerző, amnézia, bérgyilkos, erőszak, fegyverek, felnőtt tartalom, halál, kaland, kalandregény, kémregény, krimi, magyar nyelvű, regény, rejtély, sorozat része, svájc, filmadaptáció, akció, amerikai, thriller
@@ -52,11 +52,11 @@ A tudományos világban általánosan elterjedt vélemény szerint még évek ke
 
 
 # <a name="id_32">Robert Ludlum: Bourne ultimátuma (Fantom/Bourne 3) (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Bourne%20ultimatuma%20%2832%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Bourne%20ultimatuma%20%2832%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Bourne%20ultimatuma%20%2832%29/Bourne%20ultimatuma%20-%20Robert%20Ludlum%20%28Case%20Conflict%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Bourne%20ultimatuma%20%2832%29/Bourne%20ultimatuma%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Bourne%20ultimatuma%20%2832%29/Bourne%20ultimatuma%20-%20Robert%20Ludlum%20%28Case%20Conflict%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Bourne%20ultimatuma%20%2832%29/Bourne%20ultimatuma%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 20. század, amerikai szerző, bérgyilkos, erőszak, gyilkosság, halál, kaland, kémregény, krimi, magyar nyelvű, regény, rejtély, sorozat része, filmadaptáció, akció, amerikai, thriller
@@ -67,10 +67,10 @@ A tudományos világban általánosan elterjedt vélemény szerint még évek ke
 
 
 # <a name="id_35">Robert Ludlum: Matarese klán (Matarese Klán 1) (1979)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Matarese%20klan%20%2835%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Matarese%20klan%20%2835%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Matarese%20klan%20%2835%29/Matarese%20klan%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Matarese%20klan%20%2835%29/Matarese%20klan%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 thriller, mystery, suspense, adventure, crime
@@ -82,13 +82,13 @@ thriller, mystery, suspense, adventure, crime
 
 # <a name="id_36">Robert Ludlum: Matarese Klán(2) (Matarese Klán 2) </a>
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Matarese%20Klan%282%29%20%2836%29/Matarese%20Klan%282%29%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Matarese%20Klan%282%29%20%2836%29/Matarese%20Klan%282%29%20-%20Robert%20Ludlum.epub)
 
 # <a name="id_772">Robert Ludlum: Csak tanú ne maradjon! (1988)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Csak%20tanu%20ne%20maradjon%21%20%28772%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Csak%20tanu%20ne%20maradjon%21%20%28772%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Csak%20tanu%20ne%20maradjon%21%20%28772%29/Csak%20tanu%20ne%20maradjon%21%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Csak%20tanu%20ne%20maradjon%21%20%28772%29/Csak%20tanu%20ne%20maradjon%21%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 amerikai szerző, kalandregény, krimi, magyar nyelvű, regény
@@ -98,10 +98,10 @@ Hosszú ​hetekig vezette az amerikai bestsellerlistát ezzel a regényével Ro
 
 
 # <a name="id_38">Robert Ludlum: A Skorpió illúzió I-II. (2000)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/A%20Skorpio%20illuzio%20I-II_%20%2838%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Skorpio%20illuzio%20I-II_%20%2838%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/A%20Skorpio%20illuzio%20I-II_%20%2838%29/A%20Skorpio%20illuzio%20I-II_%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Skorpio%20illuzio%20I-II_%20%2838%29/A%20Skorpio%20illuzio%20I-II_%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 amerikai szerző, krimi, magyar nyelvű, regény
@@ -112,10 +112,10 @@ amerikai szerző, krimi, magyar nyelvű, regény
 
 
 # <a name="id_39">Robert Ludlum: A Skorpió illúzió I-II. (2000)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/A%20Skorpio%20illuzio%20I-II_%20%2839%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Skorpio%20illuzio%20I-II_%20%2839%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/A%20Skorpio%20illuzio%20I-II_%20%2839%29/A%20Skorpio%20illuzio%20I-II_%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Skorpio%20illuzio%20I-II_%20%2839%29/A%20Skorpio%20illuzio%20I-II_%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 amerikai szerző, krimi, magyar nyelvű, regény
@@ -126,10 +126,10 @@ amerikai szerző, krimi, magyar nyelvű, regény
 
 
 # <a name="id_34">Robert Ludlum: Holcroft szövetség (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Holcroft%20szovetseg%20%2834%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Holcroft%20szovetseg%20%2834%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Holcroft%20szovetseg%20%2834%29/Holcroft%20szovetseg%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Holcroft%20szovetseg%20%2834%29/Holcroft%20szovetseg%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 kalandregény, amerikai szerző, thriller, történelem, krimi, világtörténelem, akció, 20. század, kémregény, 2. világháború, kaland, filmadaptáció, misztikus, regény, magyar nyelvű
@@ -145,10 +145,10 @@ Végezetül: Ludlum eme korai regénye rendkívül izgalmas és érdekfeszítő.
 
 
 # <a name="id_41">Robert Ludlum: Parsifal mozaik (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Parsifal%20mozaik%20%2841%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Parsifal%20mozaik%20%2841%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Parsifal%20mozaik%20%2841%29/Parsifal%20mozaik%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Parsifal%20mozaik%20%2841%29/Parsifal%20mozaik%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 akció, amerikai szerző, kaland, kémregény, krimi, magyar nyelvű, misztikus, regény, thriller
@@ -158,10 +158,10 @@ Michael Havelock számára egy holdsütötte Costa Brava-tengerparton összedől
 
 
 # <a name="id_42">Robert Ludlum: Parsifal mozaik (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Parsifal%20mozaik%20%2842%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Parsifal%20mozaik%20%2842%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/Parsifal%20mozaik%20%2842%29/Parsifal%20mozaik%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Parsifal%20mozaik%20%2842%29/Parsifal%20mozaik%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 akció, amerikai szerző, kaland, kémregény, krimi, magyar nyelvű, misztikus, regény, thriller
@@ -171,10 +171,10 @@ Michael Havelock számára egy holdsütötte Costa Brava-tengerparton összedől
 
 
 # <a name="id_801">Robert Ludlum: A Chancellor kézirat (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/A%20Chancellor%20kezirat%20%28801%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Chancellor%20kezirat%20%28801%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Robert%20Ludlum/A%20Chancellor%20kezirat%20%28801%29/A%20Chancellor%20kezirat%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Chancellor%20kezirat%20%28801%29/A%20Chancellor%20kezirat%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 20. század, akció, amerikai szerző, író, kaland, kémregény, krimi, magyar nyelvű, misztikus, regény, thriller, titkosszolgálat

@@ -1,8 +1,8 @@
 # <a name="id_524">Joseph D'Lacey: Hús (Bloody Good Books 1) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joseph%20D%27Lacey/Hus%20%28524%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joseph%20D%27Lacey/Hus%20%28524%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joseph%20D%27Lacey/Hus%20%28524%29/Hus%20-%20Joseph%20D%27Lacey.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joseph%20D%27Lacey/Hus%20%28524%29/Hus%20-%20Joseph%20D%27Lacey.epub)
 
 ### Tagek
 angol szerző, magyar nyelvű, regény, kaland, szórakoztató irodalom, akció, szépirodalom, horror

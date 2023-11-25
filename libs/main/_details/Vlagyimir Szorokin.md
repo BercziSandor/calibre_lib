@@ -1,8 +1,8 @@
 # <a name="id_839">Vlagyimir Szorokin: A jég (Jég-trilógia 1) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/A%20jeg%20%28839%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/A%20jeg%20%28839%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/A%20jeg%20%28839%29/A%20jeg%20-%20Vlagyimir%20Szorokin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/A%20jeg%20%28839%29/A%20jeg%20-%20Vlagyimir%20Szorokin.epub)
 
 ### Tagek
 2. világháború, alternatív történelem, fantasztikus, fasizmus, groteszk, koncentrációs tábor, kortárs, mágikus realizmus, magyar nyelvű, orosz szerző, oroszország, regény, sorozat része, utópia
@@ -13,10 +13,10 @@
 
 
 # <a name="id_840">Vlagyimir Szorokin: Bro útja (Jég-trilógia 2) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/Bro%20utja%20%28840%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/Bro%20utja%20%28840%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/Bro%20utja%20%28840%29/Bro%20utja%20-%20Vlagyimir%20Szorokin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/Bro%20utja%20%28840%29/Bro%20utja%20-%20Vlagyimir%20Szorokin.epub)
 
 ### Tagek
 férfi főszereplő, kortárs, magyar nyelvű, orosz szerző, regény, sorozat része
@@ -27,10 +27,10 @@ férfi főszereplő, kortárs, magyar nyelvű, orosz szerző, regény, sorozat r
 
 
 # <a name="id_838">Vlagyimir Szorokin: 23000 (Jég-trilógia 3) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/23000%20%28838%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/23000%20%28838%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/23000%20%28838%29/23000%20-%20Vlagyimir%20Szorokin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/23000%20%28838%29/23000%20-%20Vlagyimir%20Szorokin.epub)
 
 ### Tagek
 kortárs, magyar nyelvű, orosz szerző, regény, sorozat része
@@ -41,10 +41,10 @@ kortárs, magyar nyelvű, orosz szerző, regény, sorozat része
 
 
 # <a name="id_842">Vlagyimir Szorokin: Az opricsnyik egy napja (Kreml 1) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/Az%20opricsnyik%20egy%20napja%20%28842%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/Az%20opricsnyik%20egy%20napja%20%28842%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/Az%20opricsnyik%20egy%20napja%20%28842%29/Az%20opricsnyik%20egy%20napja%20-%20Vlagyimir%20Szorokin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/Az%20opricsnyik%20egy%20napja%20%28842%29/Az%20opricsnyik%20egy%20napja%20-%20Vlagyimir%20Szorokin.epub)
 
 ### Tagek
 alternatív történelem, disztópia, erotikus, kortárs, magyar nyelvű, orosz szerző, regény, sci-fi, sorozat része
@@ -55,10 +55,10 @@ alternatív történelem, disztópia, erotikus, kortárs, magyar nyelvű, orosz 
 
 
 # <a name="id_841">Vlagyimir Szorokin: Cukor Kreml (Kreml 2) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/Cukor%20Kreml%20%28841%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/Cukor%20Kreml%20%28841%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/Cukor%20Kreml%20%28841%29/Cukor%20Kreml%20-%20Vlagyimir%20Szorokin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/Cukor%20Kreml%20%28841%29/Cukor%20Kreml%20-%20Vlagyimir%20Szorokin.epub)
 
 ### Tagek
 alternatív történelem, disztópia, erotikus, kortárs, magyar nyelvű, orosz szerző, regény, robot, sci-fi, sorozat része
@@ -69,10 +69,10 @@ alternatív történelem, disztópia, erotikus, kortárs, magyar nyelvű, orosz 
 
 
 # <a name="id_843">Vlagyimir Szorokin: Kékháj (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/Kekhaj%20%28843%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/Kekhaj%20%28843%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Vlagyimir%20Szorokin/Kekhaj%20%28843%29/Kekhaj%20-%20Vlagyimir%20Szorokin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/Kekhaj%20%28843%29/Kekhaj%20-%20Vlagyimir%20Szorokin.epub)
 
 ### Tagek
 kortárs, magyar nyelvű, orosz szerző, regény

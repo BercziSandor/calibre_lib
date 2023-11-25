@@ -1,8 +1,8 @@
 # <a name="id_1269">Alex Garland: A Part (2000)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Alex%20Garland/A%20Part%20%281269%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alex%20Garland/A%20Part%20%281269%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Alex%20Garland/A%20Part%20%281269%29/A%20Part%20-%20Alex%20Garland.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alex%20Garland/A%20Part%20%281269%29/A%20Part%20-%20Alex%20Garland.epub)
 
 ### Tagek
 20. század, brit szerző, filmadaptáció, halászat, kaland, kalandregény, magyar nyelvű, regény, thriller, utazás, vietnámi háború

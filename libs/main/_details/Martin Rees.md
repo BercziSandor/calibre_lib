@@ -1,5 +1,5 @@
 # <a name="id_800">Martin Rees: Csak hat szám (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Martin%20Rees/Csak%20hat%20szam%20%28800%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Martin%20Rees/Csak%20hat%20szam%20%28800%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 elméleti fizika, fizika, ismeretterjesztő, magyar nyelvű, tudományos, asztrofizika, kozmológia, tudomány, tudományos ismeretterjesztő

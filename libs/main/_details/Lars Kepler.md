@@ -1,9 +1,9 @@
 # <a name="id_1681">Lars Kepler: A hipnotizőr (Joona Linna 1) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/A%20hipnotizor%20%281681%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/A%20hipnotizor%20%281681%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/A%20hipnotizor%20%281681%29/A%20hipnotizor%20-%20Lars%20Kepler.epub) 
- [prc](https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/A%20hipnotizor%20%281681%29/A%20hipnotizor%20-%20Lars%20Kepler.prc)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/A%20hipnotizor%20%281681%29/A%20hipnotizor%20-%20Lars%20Kepler.epub) 
+ [prc](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/A%20hipnotizor%20%281681%29/A%20hipnotizor%20-%20Lars%20Kepler.prc)
 
 ### Tagek
 mystery, thriller, crime, suspense
@@ -14,10 +14,10 @@ mystery, thriller, crime, suspense
 
 
 # <a name="id_674">Lars Kepler: A Paganini-szerződés (Joona Linna 2) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/A%20Paganini-szerzodes%20%28674%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/A%20Paganini-szerzodes%20%28674%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/A%20Paganini-szerzodes%20%28674%29/A%20Paganini-szerzodes%20-%20Lars%20Kepler.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/A%20Paganini-szerzodes%20%28674%29/A%20Paganini-szerzodes%20-%20Lars%20Kepler.epub)
 
 ### Tagek
 kortárs, macska, magyar nyelvű, regény, sorozat része, svéd szerző, thriller, krimi, skandináv
@@ -28,10 +28,10 @@ kortárs, macska, magyar nyelvű, regény, sorozat része, svéd szerző, thrill
 
 
 # <a name="id_1677">Lars Kepler: A tűz tanúja (Joona Linna 3) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/A%20tuz%20tanuja%20%281677%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/A%20tuz%20tanuja%20%281677%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/A%20tuz%20tanuja%20%281677%29/A%20tuz%20tanuja%20-%20Lars%20Kepler.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/A%20tuz%20tanuja%20%281677%29/A%20tuz%20tanuja%20-%20Lars%20Kepler.epub)
 
 ### Tagek
 thriller, mystery, suspense
@@ -42,7 +42,7 @@ thriller, mystery, suspense
 
 
 # <a name="id_1678">Lars Kepler: A Bosszúálló (Joona Linna 4) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/A%20Bosszuallo%20%281678%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/A%20Bosszuallo%20%281678%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 thriller, mystery, suspense
@@ -53,7 +53,7 @@ thriller, mystery, suspense
 
 
 # <a name="id_1680">Lars Kepler: Lesben (Joona Linna 5) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/Lesben%20%281680%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/Lesben%20%281680%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 krimi, magyar nyelvű, regény, skandináv
@@ -63,7 +63,7 @@ krimi, magyar nyelvű, regény, skandináv
 
 
 # <a name="id_1679">Lars Kepler: Nyúlvadász (Joona Linna 6) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/Nyulvadasz%20%281679%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/Nyulvadasz%20%281679%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 krimi, magyar nyelvű, regény, skandináv, sorozat része, sorozatgyilkosság, svéd szerző
@@ -73,20 +73,20 @@ Joona Linna már két évet letöltött büntetéséből a Kumlai Zárt Fegyint�
 
 
 # <a name="id_1683">Lars Kepler: Lázár (Joona Linna 7) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/Lazar%20%281683%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/Lazar%20%281683%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/Lazar%20%281683%29/Lazar%20-%20Lars%20Kepler.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/Lazar%20%281683%29/Lazar%20-%20Lars%20Kepler.epub)
 
 ### Összefoglalás
 Svédország leghírhedtebb sorozatgyilkosát, Jurek Waltert évekkel ezelőtt kiiktatták, de a nyomozók sosem pihenhetnek, hiszen valaki mindig a helyébe lép. Ezúttal egy rejtélyes gyilkos után kutatnak, aki egymás után végzi ki Európa leggyűlöltebb bűnözőit. A holttestek száma rohamosan nő, és a rendőrség legnagyobb döbbenetére a nyomok a halott Walterre utalnak. Joona Linna nyomozó úgy érzi, a legszörnyűbb rémálma válik valóra: az ember, aki szétszakította a családját, visszatért, hogy befejezze, amit elkezdett. Balsejtelme beigazolódik, amikor barátnőjét elrabolják, és iszonyú sorsot szánnak neki, lenn, a föld mélyén… Joonának két választása van: hagyja meghalni, akit szeret, vagy besétál legnagyobb ellenfele csapdájába.
 
 
 # <a name="id_1682">Lars Kepler: Tükörember (Joona Linna 8) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/Tukorember%20%281682%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/Tukorember%20%281682%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Lars%20Kepler/Tukorember%20%281682%29/Tukorember%20-%20Lars%20Kepler.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lars%20Kepler/Tukorember%20%281682%29/Tukorember%20-%20Lars%20Kepler.epub)
 
 ### Tagek
 thriller, crime, mystery, adult

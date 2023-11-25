@@ -1,8 +1,8 @@
 # <a name="id_1526">Yann Martel: Life of Pi (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Yann%20Martel/Life%20of%20Pi%20%281526%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yann%20Martel/Life%20of%20Pi%20%281526%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yann%20Martel/Life%20of%20Pi%20%281526%29/Life%20of%20Pi%20-%20Yann%20Martel.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yann%20Martel/Life%20of%20Pi%20%281526%29/Life%20of%20Pi%20-%20Yann%20Martel.epub)
 
 ### Tagek
 retail, azizex666
@@ -12,10 +12,10 @@ retail, azizex666
 
 
 # <a name="id_1458">Yann Martel: Pi élete (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Yann%20Martel/Pi%20elete%20%281458%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yann%20Martel/Pi%20elete%20%281458%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yann%20Martel/Pi%20elete%20%281458%29/Pi%20elete%20-%20Yann%20Martel.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yann%20Martel/Pi%20elete%20%281458%29/Pi%20elete%20-%20Yann%20Martel.epub)
 
 ### Tagek
 1001 könyv listán szerepel, 1970-es évek, 20. század, 21. század, állatkert, booker-díj, csendes-óceán, énelbeszélő, férfi főszereplő, filmadaptáció, hajótörés, illusztrált, india, kanada, kanadai szerző, kortárs, lélektani, magyar nyelvű, regény, robinzonád, novels

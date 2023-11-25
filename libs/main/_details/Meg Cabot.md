@@ -1,8 +1,8 @@
 # <a name="id_432">Meg Cabot: A neveletlen hercegnő naplója 1. (A neveletlen hercegnö naploja 1) (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Meg%20Cabot/A%20neveletlen%20hercegno%20naploja%201_%20%28432%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/A%20neveletlen%20hercegno%20naploja%201_%20%28432%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Meg%20Cabot/A%20neveletlen%20hercegno%20naploja%201_%20%28432%29/A%20neveletlen%20hercegno%20naploja%201%20-%20Meg%20Cabot.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/A%20neveletlen%20hercegno%20naploja%201_%20%28432%29/A%20neveletlen%20hercegno%20naploja%201%20-%20Meg%20Cabot.epub)
 
 ### Tagek
 amerika, amerikai egyesült államok, az író származása szerint, szépirodalom, regények, gyermek- és ifjúsági irodalom, lányregények, elbeszélések, tartalom szerint
@@ -12,10 +12,10 @@ amerika, amerikai egyesült államok, az író származása szerint, szépirodal
 
 
 # <a name="id_433">Meg Cabot: Reflektorfényben (A neveletlen hercegnö naploja 2) (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Meg%20Cabot/Reflektorfenyben%20%28433%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/Reflektorfenyben%20%28433%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Meg%20Cabot/Reflektorfenyben%20%28433%29/Reflektorfenyben%20-%20Meg%20Cabot.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/Reflektorfenyben%20%28433%29/Reflektorfenyben%20-%20Meg%20Cabot.epub)
 
 ### Tagek
 lányregény, 21. század, napló, amerikai, ifjúsági, romantikus, regény
@@ -25,10 +25,10 @@ lányregény, 21. század, napló, amerikai, ifjúsági, romantikus, regény
 
 
 # <a name="id_434">Meg Cabot: A Szerelmes Hercegnő (A neveletlen hercegnö naploja 3) (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Meg%20Cabot/A%20Szerelmes%20Hercegno%20%28434%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/A%20Szerelmes%20Hercegno%20%28434%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Meg%20Cabot/A%20Szerelmes%20Hercegno%20%28434%29/A%20Szerelmes%20Hercegno%20-%20Meg%20Cabot.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/A%20Szerelmes%20Hercegno%20%28434%29/A%20Szerelmes%20Hercegno%20-%20Meg%20Cabot.epub)
 
 ### Tagek
 lányregény, 21. század, napló, amerikai, ifjúsági, romantikus, regény
@@ -38,10 +38,10 @@ lányregény, 21. század, napló, amerikai, ifjúsági, romantikus, regény
 
 
 # <a name="id_435">Meg Cabot: Mia Genoviában (A neveletlen hercegnö naploja 4) (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Meg%20Cabot/Mia%20Genoviaban%20%28435%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/Mia%20Genoviaban%20%28435%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Meg%20Cabot/Mia%20Genoviaban%20%28435%29/Mia%20Genoviaban%20-%20Meg%20Cabot.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/Mia%20Genoviaban%20%28435%29/Mia%20Genoviaban%20-%20Meg%20Cabot.epub)
 
 ### Tagek
 lányregény, 21. század, napló, amerikai, ifjúsági, romantikus, regény
@@ -51,10 +51,10 @@ lányregény, 21. század, napló, amerikai, ifjúsági, romantikus, regény
 
 
 # <a name="id_436">Meg Cabot: Talpig Rózsaszínben (A neveletlen hercegnö naploja 5) (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Meg%20Cabot/Talpig%20Rozsaszinben%20%28436%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/Talpig%20Rozsaszinben%20%28436%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Meg%20Cabot/Talpig%20Rozsaszinben%20%28436%29/Talpig%20Rozsaszinben%20-%20Meg%20Cabot.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/Talpig%20Rozsaszinben%20%28436%29/Talpig%20Rozsaszinben%20-%20Meg%20Cabot.epub)
 
 ### Tagek
 lányregény, 21. század, napló, amerikai, ifjúsági, romantikus
@@ -64,10 +64,10 @@ lányregény, 21. század, napló, amerikai, ifjúsági, romantikus
 
 
 # <a name="id_437">Meg Cabot: Hajrá Hercegnő! (A neveletlen hercegnö naploja 6) (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Meg%20Cabot/Hajra%20Hercegno%21%20%28437%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/Hajra%20Hercegno%21%20%28437%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Meg%20Cabot/Hajra%20Hercegno%21%20%28437%29/Hajra%20Hercegno%21%20-%20Meg%20Cabot.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/Hajra%20Hercegno%21%20%28437%29/Hajra%20Hercegno%21%20-%20Meg%20Cabot.epub)
 
 ### Tagek
 lányregény, 21. század, napló, amerikai, ifjúsági, romantikus

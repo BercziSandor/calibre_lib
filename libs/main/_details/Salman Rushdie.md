@@ -1,8 +1,8 @@
 # <a name="id_1452">Salman Rushdie: Fúriadüh (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Salman%20Rushdie/Furiaduh%20%281452%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Salman%20Rushdie/Furiaduh%20%281452%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/Salman%20Rushdie/Furiaduh%20%281452%29/Furiaduh%20-%20Salman%20Rushdie.azw3)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Salman%20Rushdie/Furiaduh%20%281452%29/Furiaduh%20-%20Salman%20Rushdie.azw3)
 
 ### Tagek
 1001 könyv listán szerepel, amerikai egyesült államok, brit szerző, indiai szerző, kortárs, mágikus realizmus, magyar nyelvű, new york

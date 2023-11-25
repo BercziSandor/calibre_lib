@@ -1,8 +1,8 @@
 # <a name="id_454">David Mitchell: Felhőatlasz (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/David%20Mitchell/Felhoatlasz%20%28454%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/David%20Mitchell/Felhoatlasz%20%28454%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/David%20Mitchell/Felhoatlasz%20%28454%29/Felhoatlasz%20-%20David%20Mitchell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/David%20Mitchell/Felhoatlasz%20%28454%29/Felhoatlasz%20-%20David%20Mitchell.epub)
 
 ### Tagek
 1850-es évek, 19. század, 1930-as évek, 1970-es évek, 20. század, 2000-es évek, 21. század, amerikai egyesült államok, belgium, brit szerző, disztópia, experimentális, fantasy, filozofikus regény, hajó, időutazás, indián, angol, sci-fi, kortárs, filmadaptáció, regény, 1001 könyv listán szerepel

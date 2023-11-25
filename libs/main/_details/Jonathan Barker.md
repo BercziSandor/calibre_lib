@@ -1,5 +1,5 @@
 # <a name="id_885">Jonathan Barker: A terrorizmus (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Jonathan%20Barker/A%20terrorizmus%20%28885%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jonathan%20Barker/A%20terrorizmus%20%28885%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 magyar nyelvű, szociológia, dokumentarista, terrorizmus

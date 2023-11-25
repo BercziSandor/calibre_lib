@@ -1,8 +1,8 @@
 # <a name="id_991">Nógrádi, György: 40 év alatt a Föld körül (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Nogradi%2C%20Gyorgy/40%20ev%20alatt%20a%20Fold%20korul%20%28991%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nogradi%2C%20Gyorgy/40%20ev%20alatt%20a%20Fold%20korul%20%28991%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Nogradi%2C%20Gyorgy/40%20ev%20alatt%20a%20Fold%20korul%20%28991%29/40%20ev%20alatt%20a%20Fold%20korul%20-%20Nogradi%2C%20Gyorgy.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nogradi%2C%20Gyorgy/40%20ev%20alatt%20a%20Fold%20korul%20%28991%29/40%20ev%20alatt%20a%20Fold%20korul%20-%20Nogradi%2C%20Gyorgy.epub)
 
 ### Tagek
 biography & autobiography, életrajzok, visszaemlékezések, önéletrajz

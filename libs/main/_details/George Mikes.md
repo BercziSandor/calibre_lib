@@ -1,8 +1,8 @@
 # <a name="id_406">George Mikes: Papucsban (1987)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/George%20Mikes/Papucsban%20%28406%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20Mikes/Papucsban%20%28406%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20Mikes/Papucsban%20%28406%29/Papucsban%20-%20George%20Mikes.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20Mikes/Papucsban%20%28406%29/Papucsban%20-%20George%20Mikes.epub)
 
 ### Tagek
 brit szerző, magyar nyelvű, magyar szerző, anglia, humoreszk, angol humor, szatíra
@@ -13,10 +13,10 @@ brit szerző, magyar nyelvű, magyar szerző, anglia, humoreszk, angol humor, sz
 
 
 # <a name="id_985">George Mikes: Hogyan legyünk szegények (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/George%20Mikes/Hogyan%20legyunk%20szegenyek%20%28985%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20Mikes/Hogyan%20legyunk%20szegenyek%20%28985%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20Mikes/Hogyan%20legyunk%20szegenyek%20%28985%29/Hogyan%20legyunk%20szegenyek%20-%20George%20Mikes.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20Mikes/Hogyan%20legyunk%20szegenyek%20%28985%29/Hogyan%20legyunk%20szegenyek%20-%20George%20Mikes.epub)
 
 ### Tagek
 brit szerző, elbeszélés, humoros, illusztrált, magyar nyelvű, magyar szerző, nagy-britannia, novella, szegénység, irodalom, szórakoztató irodalom, humor

@@ -1,8 +1,8 @@
 # <a name="id_515">Örkény, István: „Rózsakiállítás” (1979)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Orkeny%2C%20Istvan/%2C%2CRozsakiallitas_%20%28515%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Orkeny%2C%20Istvan/%2C%2CRozsakiallitas_%20%28515%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Orkeny%2C%20Istvan/%2C%2CRozsakiallitas_%20%28515%29/%2C%2CRozsakiallitas_%20-%20Orkeny%2C%20Istvan.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Orkeny%2C%20Istvan/%2C%2CRozsakiallitas_%20%28515%29/%2C%2CRozsakiallitas_%20-%20Orkeny%2C%20Istvan.epub)
 
 ### Tagek
 303 magyar regény, abszurd, filmadaptáció, halál, kisregény, magyar nyelvű, magyar szerző, az író származása szerint, szépirodalom, regény, novella, elbeszélés
@@ -13,10 +13,10 @@
 
 
 # <a name="id_516">Örkény, István: Válogatott egyperces novellák (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Orkeny%2C%20Istvan/Valogatott%20egyperces%20novellak%20%28516%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Orkeny%2C%20Istvan/Valogatott%20egyperces%20novellak%20%28516%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Orkeny%2C%20Istvan/Valogatott%20egyperces%20novellak%20%28516%29/Valogatott%20egyperces%20novellak%20-%20Orkeny%2C%20Istvan.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Orkeny%2C%20Istvan/Valogatott%20egyperces%20novellak%20%28516%29/Valogatott%20egyperces%20novellak%20-%20Orkeny%2C%20Istvan.epub)
 
 ### Tagek
 20. század, egyperces, groteszk, humoros, kispróza, magyar nyelvű, magyar szerző, válogatás, elbeszélés, irodalom, novella, szépirodalom
@@ -27,10 +27,10 @@
 
 
 # <a name="id_514">Örkény, István: Egyperces novellák (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Orkeny%2C%20Istvan/Egyperces%20novellak%20%28514%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Orkeny%2C%20Istvan/Egyperces%20novellak%20%28514%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Orkeny%2C%20Istvan/Egyperces%20novellak%20%28514%29/Egyperces%20novellak%20-%20Orkeny%2C%20Istvan.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Orkeny%2C%20Istvan/Egyperces%20novellak%20%28514%29/Egyperces%20novellak%20-%20Orkeny%2C%20Istvan.epub)
 
 ### Tagek
 egyperces, illusztrált, klasszikus, magyar nyelvű, magyar szerző, 20. század, groteszk, szépirodalom, abszurd, novella, elbeszélés

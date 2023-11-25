@@ -1,8 +1,8 @@
 # <a name="id_670">Kárpáti, Andor: Kurvajó! (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Karpati%2C%20Andor/Kurvajo%21%20%28670%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karpati%2C%20Andor/Kurvajo%21%20%28670%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Karpati%2C%20Andor/Kurvajo%21%20%28670%29/Kurvajo%21%20-%20Karpati%2C%20Andor.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karpati%2C%20Andor/Kurvajo%21%20%28670%29/Kurvajo%21%20-%20Karpati%2C%20Andor.epub)
 
 ### Tagek
 20. század, erotikus, humoros, magyar nyelvű, magyar szerző, memoár, regény, irodalom, további könyveink

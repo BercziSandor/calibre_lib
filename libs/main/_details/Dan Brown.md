@@ -1,8 +1,8 @@
 # <a name="id_1639">Dan Brown: The Da Vinci Code (Robert Langdon 2) (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dan%20Brown/The%20Da%20Vinci%20Code%20%281639%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dan%20Brown/The%20Da%20Vinci%20Code%20%281639%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dan%20Brown/The%20Da%20Vinci%20Code%20%281639%29/The%20Da%20Vinci%20Code%20-%20Dan%20Brown.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dan%20Brown/The%20Da%20Vinci%20Code%20%281639%29/The%20Da%20Vinci%20Code%20-%20Dan%20Brown.epub)
 
 ### Tagek
 fiction, thrillers, general
@@ -13,10 +13,10 @@ fiction, thrillers, general
 
 
 # <a name="id_1637">Dan Brown: Origin (Robert Langdon 5) (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dan%20Brown/Origin%20%281637%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dan%20Brown/Origin%20%281637%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dan%20Brown/Origin%20%281637%29/Origin%20-%20Dan%20Brown.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dan%20Brown/Origin%20%281637%29/Origin%20-%20Dan%20Brown.epub)
 
 ### Összefoglalás
 <div>
@@ -24,10 +24,10 @@ fiction, thrillers, general
 
 
 # <a name="id_1636">Dan Brown: Diabolus </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dan%20Brown/Diabolus%20%281636%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dan%20Brown/Diabolus%20%281636%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dan%20Brown/Diabolus%20%281636%29/Diabolus%20-%20Dan%20Brown.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dan%20Brown/Diabolus%20%281636%29/Diabolus%20-%20Dan%20Brown.epub)
 
 ### Tagek
 thriller
@@ -37,10 +37,10 @@ Die kryptographische Abteilung des US-Geheimdienstes NSA verfügt über einen ge
 
 
 # <a name="id_1643">Dan Brown: Digital Fortress (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dan%20Brown/Digital%20Fortress%20%281643%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dan%20Brown/Digital%20Fortress%20%281643%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Dan%20Brown/Digital%20Fortress%20%281643%29/Digital%20Fortress%20-%20Dan%20Brown.pdf)
+[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dan%20Brown/Digital%20Fortress%20%281643%29/Digital%20Fortress%20-%20Dan%20Brown.pdf)
 
 ### Összefoglalás
 <div>
@@ -48,10 +48,10 @@ Die kryptographische Abteilung des US-Geheimdienstes NSA verfügt über einen ge
 
 
 # <a name="id_1638">Dan Brown: Az elveszett jelkép (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dan%20Brown/Az%20elveszett%20jelkep%20%281638%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dan%20Brown/Az%20elveszett%20jelkep%20%281638%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dan%20Brown/Az%20elveszett%20jelkep%20%281638%29/Az%20elveszett%20jelkep%20-%20Dan%20Brown.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dan%20Brown/Az%20elveszett%20jelkep%20%281638%29/Az%20elveszett%20jelkep%20-%20Dan%20Brown.epub)
 
 ### Összefoglalás
 <div><p> </p><p>Megkerül, ami elveszett...</p> <p>Robert Langdont, a Harvard szimbólumkutatóját az utolsó percben kérik fel egy esti előadásra a washingtoni Capitolium épületében. Közvetlenül megérkezése után azonban egy hátborzongató szimbólumokkal rejtjelezett, nyugtalanító tárgyat fedeznek fel a Rotunda kellős közepén. Langdon egy ősi meghívót közvetít benne, amely a titkos ezoterikus bölcsesség rég letűnt világába invitálja megfejtőjét. Amikor brutálisan elrabolják Peter Solomont, a híres filantrópot és szabadkőművest, Langdon nagyra becsült mentorát, a professzor ráébred, hogy csak úgy mentheti meg barátja életét, ha elfogadja a rejtélyes meghívást és követi az utat, akárhova vezessen is. Langdon gyorsan ott találja magát Amerika legnagyobb hatalmi központjának színfalai mögött, a város láthatatlan termeiben, templomaiban, alagútjaiban. Ami mindeddig ismerős volt, az most átváltozik egy mesterien elleplezett múlt titokzatos, félhomályos világává, amelyben szabadkőműves rejtélyek és sosem látott felfedezések vezetik őt az egyetlen lehetséges és felfoghatatlan igazsághoz.</p> <p>Az elveszett jelkép az eltitkolt históriák, misztikus ikonok és kódok ragyogóan összecsómozott szőttese; intelligens, vllámgyors tempójú thriller, amelyben egymást érik a meglepetések. Hiszen- miként azt Robert Langdon felfedezi- nincs páratlanabb vagy megrendítőbb, mint az a titok, amely mindvégig a szemünk előtt volt...</p> <p></p><br></div>

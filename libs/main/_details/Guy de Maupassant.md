@@ -1,8 +1,8 @@
 # <a name="id_710">Guy de Maupassant: Az örökség: kisregények és válogatott elbeszélések (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Guy%20de%20Maupassant/Az%20orokseg_%20kisregenyek%20es%20valogato%20%28710%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Guy%20de%20Maupassant/Az%20orokseg_%20kisregenyek%20es%20valogato%20%28710%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Guy%20de%20Maupassant/Az%20orokseg_%20kisregenyek%20es%20valogato%20%28710%29/Az%20orokseg_%20kisregenyek%20es%20valo%20-%20Guy%20de%20Maupassant.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Guy%20de%20Maupassant/Az%20orokseg_%20kisregenyek%20es%20valogato%20%28710%29/Az%20orokseg_%20kisregenyek%20es%20valo%20-%20Guy%20de%20Maupassant.epub)
 
 ### Tagek
 irodalom, szépirodalom, novella, elbeszélés

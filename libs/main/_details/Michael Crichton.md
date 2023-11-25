@@ -1,8 +1,8 @@
 # <a name="id_751">Michael Crichton: Az Androméda-törzs (Androméda 1) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Az%20Andromeda-torzs%20%28751%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Az%20Andromeda-torzs%20%28751%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Az%20Andromeda-torzs%20%28751%29/Az%20Andromeda-torzs%20-%20Michael%20Crichton.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Az%20Andromeda-torzs%20%28751%29/Az%20Andromeda-torzs%20-%20Michael%20Crichton.epub)
 
 ### Tagek
 amerikai, amerikai szerző, filmadaptáció, járvány, magyar nyelvű, regény, sci-fi, sorozat része, vírus
@@ -14,10 +14,10 @@ Michael Crichton ezzel a regénnyel új műfajt teremtett: a techno-thrillert. A
 
 
 # <a name="id_757">Michael Crichton: Őslénypark (Jurassic Park 1) (1993)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Oslenypark%20%28757%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Oslenypark%20%28757%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Oslenypark%20%28757%29/Oslenypark%20-%20Michael%20Crichton.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Oslenypark%20%28757%29/Oslenypark%20-%20Michael%20Crichton.epub)
 
 ### Tagek
 20. század, amerikai szerző, costa rica, dinoszaurusz, filmadaptáció, géntechnológia, horror, kaland, kalandregény, kortárs, magyar nyelvű, őskor, őslénytan, regény, sci-fi, sorozat része, sziget, váltott szemszög
@@ -29,10 +29,10 @@ De hiába a számítógépes tervezés, a tökéletesnek hitt biztonsági rendsz
 
 
 # <a name="id_760">Michael Crichton: Szörnyek szigete (Jurassic Park 2) (1996)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Szornyek%20szigete%20%28760%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Szornyek%20szigete%20%28760%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Szornyek%20szigete%20%28760%29/Szornyek%20szigete%20-%20Michael%20Crichton.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Szornyek%20szigete%20%28760%29/Szornyek%20szigete%20-%20Michael%20Crichton.epub)
 
 ### Tagek
 20. század, akció, amerikai szerző, dinoszaurusz, filmadaptáció, genetika, géntechnológia, horror, kaland, kalandregény, kortárs, kutatás, magyar nyelvű, regény, sci-fi, sorozat része, sziget, thriller, tudományos, váltott szemszög
@@ -42,10 +42,10 @@ A gyerekek szeretik a dinoszauruszokat. És úgy tűnik mindnyájunkban él egy 
 
 
 # <a name="id_755">Michael Crichton: Ködsárkányok (1993)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Kodsarkanyok%20%28755%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Kodsarkanyok%20%28755%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Kodsarkanyok%20%28755%29/Kodsarkanyok%20-%20Michael%20Crichton.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Kodsarkanyok%20%28755%29/Kodsarkanyok%20-%20Michael%20Crichton.epub)
 
 ### Tagek
 akció, amerikai szerző, erőszak, fantasy, fegyverek, felnőtt tartalom, filmadaptáció, hajó, halál, harcosok, horror, kalandregény, kannibalizmus, középkor, magyar nyelvű, mitológia, regény, skandinávia, thriller
@@ -55,10 +55,10 @@ Kr. u. 922-ben a bagdadi kalifa követet küld a Béke Városából, hogy keljen
 
 
 # <a name="id_752">Michael Crichton: Az átprogramozott ember (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Az%20atprogramozott%20ember%20%28752%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Az%20atprogramozott%20ember%20%28752%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Az%20atprogramozott%20ember%20%28752%29/Az%20atprogramozott%20ember%20-%20Michael%20Crichton.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Az%20atprogramozott%20ember%20%28752%29/Az%20atprogramozott%20ember%20-%20Michael%20Crichton.epub)
 
 ### Tagek
 magyar nyelvű, sci-fi, regény, szépirodalom, akció, kaland, szórakoztató irodalom, amerikai szerző
@@ -68,10 +68,10 @@ magyar nyelvű, sci-fi, regény, szépirodalom, akció, kaland, szórakoztató i
 
 
 # <a name="id_759">Michael Crichton: Repülő koporsó (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Repulo%20koporso%20%28759%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Repulo%20koporso%20%28759%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Repulo%20koporso%20%28759%29/Repulo%20koporso%20-%20Michael%20Crichton.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Repulo%20koporso%20%28759%29/Repulo%20koporso%20-%20Michael%20Crichton.epub)
 
 ### Tagek
 amerikai szerző, krimi, magyar nyelvű, nyomozás, regény, repülés, repülő
@@ -81,10 +81,10 @@ amerikai szerző, krimi, magyar nyelvű, nyomozás, regény, repülés, repülő
 
 
 # <a name="id_754">Michael Crichton: Idővonal (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Idovonal%20%28754%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Idovonal%20%28754%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Idovonal%20%28754%29/Idovonal%20-%20Michael%20Crichton.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Idovonal%20%28754%29/Idovonal%20-%20Michael%20Crichton.epub)
 
 ### Tagek
 franciaország, háború, lovag, magyar nyelvű, történelem, időutazás, sci-fi, francia, szépirodalom, filmadaptáció, regény, középkor, kaland, fantasy, thriller, 14. század, szórakoztató irodalom, amerikai szerző
@@ -94,10 +94,10 @@ Ekkora hatalom eddig soha nem létezett, de most, a 21. század küszöbén, ami
 
 
 # <a name="id_758">Michael Crichton: Préda / Viharos szerelem / Hajsza Tokióban / Utcagyerekek (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Preda%20_%20Viharos%20szerelem%20_%20Hajsza%20T%20%28758%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Preda%20_%20Viharos%20szerelem%20_%20Hajsza%20T%20%28758%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Preda%20_%20Viharos%20szerelem%20_%20Hajsza%20T%20%28758%29/Preda%20_%20Viharos%20szerelem%20_%20Hajs%20-%20Michael%20Crichton.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Preda%20_%20Viharos%20szerelem%20_%20Hajsza%20T%20%28758%29/Preda%20_%20Viharos%20szerelem%20_%20Hajs%20-%20Michael%20Crichton.epub)
 
 ### Tagek
 romantikus, háború, magyar nyelvű, kisregény, olaszország, artificial life, nevada, molecular biologists, chick lit, amerikai szerző
@@ -114,10 +114,10 @@ Lorenzo Carcaterra: Utcagyerekek
 
 
 # <a name="id_753">Michael Crichton: A Gömb (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/A%20gomb%20%28753%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/A%20gomb%20%28753%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/A%20gomb%20%28753%29/A%20Gomb%20-%20Michael%20Crichton.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/A%20gomb%20%28753%29/A%20Gomb%20-%20Michael%20Crichton.epub)
 
 ### Tagek
 fiction, science fiction, general
@@ -127,10 +127,10 @@ A Csendes-óceán déli részén, 300 méterrel a felszín alatt az amerikai had
 
 
 # <a name="id_756">Michael Crichton: Kongó (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Kongo%20%28756%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Kongo%20%28756%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Crichton/Kongo%20%28756%29/Kongo%20-%20Michael%20Crichton.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Kongo%20%28756%29/Kongo%20-%20Michael%20Crichton.epub)
 
 ### Tagek
 fiction, science fiction, general

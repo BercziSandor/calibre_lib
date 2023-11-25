@@ -1,8 +1,8 @@
 # <a name="id_673">Karin Alvtegen: A kitaszított (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Karin%20Alvtegen/A%20kitaszitott%20%28673%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karin%20Alvtegen/A%20kitaszitott%20%28673%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Karin%20Alvtegen/A%20kitaszitott%20%28673%29/A%20kitaszitott%20-%20Karin%20Alvtegen.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karin%20Alvtegen/A%20kitaszitott%20%28673%29/A%20kitaszitott%20-%20Karin%20Alvtegen.epub)
 
 ### Tagek
 gyilkosság, hajléktalanság, kortárs, magyar nyelvű, regény, svéd szerző, szegénység, társadalomkritika, krimi, skandináv
@@ -13,10 +13,10 @@ gyilkosság, hajléktalanság, kortárs, magyar nyelvű, regény, svéd szerző,
 
 
 # <a name="id_676">Karin Alvtegen: Árnyak (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Karin%20Alvtegen/Arnyak%20%28676%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karin%20Alvtegen/Arnyak%20%28676%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Karin%20Alvtegen/Arnyak%20%28676%29/Arnyak%20-%20Karin%20Alvtegen.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karin%20Alvtegen/Arnyak%20%28676%29/Arnyak%20-%20Karin%20Alvtegen.epub)
 
 ### Tagek
 családregény, holokauszt, író, lélektani, magyar nyelvű, nyomozás, regény, svéd szerző, thriller, váltott szemszög, krimi, skandináv

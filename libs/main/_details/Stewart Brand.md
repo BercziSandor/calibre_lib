@@ -1,9 +1,9 @@
 # <a name="id_1217">Stewart Brand: Amíg világ a világ (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stewart%20Brand/Amig%20vilag%20a%20vilag%20%281217%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stewart%20Brand/Amig%20vilag%20a%20vilag%20%281217%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stewart%20Brand/Amig%20vilag%20a%20vilag%20%281217%29/Amig%20vilag%20a%20vilag%20-%20Stewart%20Brand.epub) 
- [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Stewart%20Brand/Amig%20vilag%20a%20vilag%20%281217%29/Amig%20vilag%20a%20vilag%20-%20Stewart%20Brand.rtf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stewart%20Brand/Amig%20vilag%20a%20vilag%20%281217%29/Amig%20vilag%20a%20vilag%20-%20Stewart%20Brand.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stewart%20Brand/Amig%20vilag%20a%20vilag%20%281217%29/Amig%20vilag%20a%20vilag%20-%20Stewart%20Brand.rtf)
 
 ### Tagek
 ismeretterjesztő, magyar nyelvű, tudományos

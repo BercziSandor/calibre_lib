@@ -1,8 +1,8 @@
 # <a name="id_295">Alan Glynn: Csúcshatás (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Alan%20Glynn/Csucshatas%20%28295%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alan%20Glynn/Csucshatas%20%28295%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Alan%20Glynn/Csucshatas%20%28295%29/Csucshatas%20-%20Alan%20Glynn.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alan%20Glynn/Csucshatas%20%28295%29/Csucshatas%20-%20Alan%20Glynn.epub)
 
 ### Tagek
 amerikai egyesült államok, függőség, ír szerző, magyar nyelvű, new york, sci-fi, tőzsde, filmadaptáció

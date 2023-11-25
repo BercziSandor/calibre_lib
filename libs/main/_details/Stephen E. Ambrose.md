@@ -1,8 +1,8 @@
 # <a name="id_316">Stephen E. Ambrose: Az elit alakulat (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20E.%20Ambrose/Az%20elit%20alakulat%20%28316%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20E.%20Ambrose/Az%20elit%20alakulat%20%28316%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20E.%20Ambrose/Az%20elit%20alakulat%20%28316%29/Az%20elit%20alakulat%20-%20Stephen%20E.%20Ambrose.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20E.%20Ambrose/Az%20elit%20alakulat%20%28316%29/Az%20elit%20alakulat%20-%20Stephen%20E.%20Ambrose.epub)
 
 ### Tagek
 1940-es évek, 2. világháború, 20. század, amerikai egyesült államok, amerikai szerző, dokumentumregény, európa, háború, hadtörténet, hadviselés, katonai megszállás, katonaság, magyar nyelvű, nácizmus, német, németország, regény, tévésorozat-adaptáció, történelem, váltott szemszög, történelmi regény

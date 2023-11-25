@@ -1,5 +1,5 @@
 # <a name="id_1278">C. S. Lewis: A varázsló unokaöccse (Narnia krónikái 1) (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/C.%20S.%20Lewis/A%20varazslo%20unokaoccse%20%281278%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/C.%20S.%20Lewis/A%20varazslo%20unokaoccse%20%281278%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 20. század, boszorkány, fantasy, gyermekkönyv iskolásoknak, ír szerző, kaland, kalandregény, london, mágia, magyar nyelvű, meseregény, oroszlán, portál fantasy, regény, sorozat része
@@ -10,7 +10,7 @@
 
 
 # <a name="id_1279">C. S. Lewis: Az oroszlán, a boszorkány és a ruhásszekrény (Narnia krónikái 2) (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/C.%20S.%20Lewis/Az%20oroszlan%2C%20a%20boszorkany%20es%20a%20ruha%20%281279%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/C.%20S.%20Lewis/Az%20oroszlan%2C%20a%20boszorkany%20es%20a%20ruha%20%281279%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 20. század, boszorkány, fantasy, fejlődésregény, filmadaptáció, gyermekkönyv iskolásoknak, hugo-díj, ifjúsági, ír szerző, kaland, kalandregény, macska, mágia, magyar nyelvű, meseregény, oroszlán, portál fantasy, regény, sorozat része, tél
@@ -21,7 +21,7 @@
 
 
 # <a name="id_1283">C. S. Lewis: A ló és kis gazdája (Narnia krónikái 3) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/C.%20S.%20Lewis/A%20lo%20es%20kis%20gazdaja%20%281283%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/C.%20S.%20Lewis/A%20lo%20es%20kis%20gazdaja%20%281283%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 fantasy, férfi főszereplő, gyermek főszereplő, gyermekkönyv iskolásoknak, illusztrált, ír szerző, kaland, kalandregény, ló, magyar nyelvű, meseregény, regény, sorozat része
@@ -32,7 +32,7 @@ fantasy, férfi főszereplő, gyermek főszereplő, gyermekkönyv iskolásoknak,
 
 
 # <a name="id_1284">C. S. Lewis: Caspian herceg (Narnia krónikái 4) (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/C.%20S.%20Lewis/Caspian%20herceg%20%281284%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/C.%20S.%20Lewis/Caspian%20herceg%20%281284%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 20. század, fantasy, filmadaptáció, gyermekkönyv iskolásoknak, herceg, illusztrált, ír szerző, kaland, kalandregény, magyar nyelvű, meseregény, portál fantasy, regény, sorozat része
@@ -43,7 +43,7 @@ fantasy, férfi főszereplő, gyermek főszereplő, gyermekkönyv iskolásoknak,
 
 
 # <a name="id_1282">C. S. Lewis: A Hajnalvándor útja (Narnia krónikái 5) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/C.%20S.%20Lewis/A%20Hajnalvandor%20utja%20%281282%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/C.%20S.%20Lewis/A%20Hajnalvandor%20utja%20%281282%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 20. század, egér, fantasy, felfedezés, filmadaptáció, gyermekkönyv iskolásoknak, hajó, időutazás, ír szerző, kaland, kalandregény, magyar nyelvű, meseregény, portál fantasy, regény, sárkány, sorozat része, tenger, varázslat, varázsló
@@ -54,7 +54,7 @@ fantasy, férfi főszereplő, gyermek főszereplő, gyermekkönyv iskolásoknak,
 
 
 # <a name="id_1281">C. S. Lewis: Az ezüsttrón (Narnia krónikái 6) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/C.%20S.%20Lewis/Az%20ezusttron%20%281281%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/C.%20S.%20Lewis/Az%20ezusttron%20%281281%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 20. század, fantasy, filmadaptáció, gyermekkönyv iskolásoknak, illusztrált, ír szerző, kaland, kalandregény, magyar nyelvű, meseregény, oroszlán, portál fantasy, regény, sorozat része
@@ -65,7 +65,7 @@ fantasy, férfi főszereplő, gyermek főszereplő, gyermekkönyv iskolásoknak,
 
 
 # <a name="id_1280">C. S. Lewis: A végső ütközet (Narnia krónikái 7) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/C.%20S.%20Lewis/A%20vegso%20utkozet%20%281280%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/C.%20S.%20Lewis/A%20vegso%20utkozet%20%281280%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 20. század, carnegie-medál, fantasy, gyermekkönyv iskolásoknak, háború, illusztrált, ír szerző, kaland, kalandregény, macska, magyar nyelvű, meseregény, portál fantasy, regény, sorozat része, unikornis

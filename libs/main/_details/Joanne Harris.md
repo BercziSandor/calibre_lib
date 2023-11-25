@@ -1,18 +1,18 @@
 # <a name="id_1124">Joanne Harris: Csokoládé trilógia (Csokoládé 4) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Csokolade%20trilogia%20%281124%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Harris/Csokolade%20trilogia%20%281124%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Csokolade%20trilogia%20%281124%29/Csokolade%20trilogia%20-%20Joanne%20Harris.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Harris/Csokolade%20trilogia%20%281124%29/Csokolade%20trilogia%20-%20Joanne%20Harris.epub)
 
 ### Összefoglalás
 <div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">*******************************************************************************</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">Joanne.Harris.Csokolade.trilogia.2014.azw3.ebook-wówapi</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">*******************************************************************************</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;"><br></span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">-------------------------------------------------------------------------------</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">                                      ADATOK</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">-------------------------------------------------------------------------------</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;"><br></span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">Szerző...............: Joanne Harris</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">Könyv címe...........: Csokoládé trilógia</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">Könyv alcíme(i)......: Csokoládé, Csokoládécipő, Csokoládés barack</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">Kiadás ideje.........: 2014</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">Nyelv................: magyar</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">Formátum.............: .azw3</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">Link.................: http://moly.hu/polcok/csokolade-trilogia</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;"><br></span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;"><br></span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">-------------------------------------------------------------------------------</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">                              TARTALOM, FüLSZöVEG</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">-------------------------------------------------------------------------------</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;"><br></span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">CSOKOLÁDÉ</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">Ismeretlen, titokzatos fiatal nő, Vianne Rocher érkezik a kis faluba, Lasquenet-be, és megnyitja „csokoládézóját” – a tenyérnyi kávézóval kombinált csokoládéboltot. Végre van egy hely, ahol elsuttoghatók a titkok, megszellőztethetők a sérelmek, kipróbálhatók az álmok. Amikor Vianne húsvétra csokoládéfesztivált szervez, a falu egész közösségét megosztja… Íme az első olyan regény, amelyben a csokoládé elfoglalja a maga méltó helyét. A tartalmas, okos és franciásan pajzán könyv valamennyi érzékszervnek irodalmi ünnepet kínál.</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;"><br></span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">CSOKOLÁDÉCIPŐ</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">Öt év telt el a Csokoládé óta, amelyben egy „jó boszorkányt” hatéves lányával együtt egy előítéletekkel teli kis faluba fújt be a szél, hogy megnyissák a hírhedt csokoládéboltot, sokak örömére, és a helybeli pap bosszúságára.</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">Sok minden megváltozott. Vianne-nak született egy másik lánya, Rosette. Anouk elkezdte a középiskolát, és hármasban egy chocolaterie fölött laknak Párizsban, a Montmartre-on. Látszatra minden rendben: Vianne végre nyugalmat talált, a szél – egy időre – megszűnt fújni. De mindez nagy áldozatokkal járt; Vianne felhagyott a varázslással, nem készít csokoládét, lemondott élete nagy szerelméről, és férjhez készül menni az unalmas háziurához, aki anyagi biztonságot ígér. Anouk közben magányos kamasszá ért, aki gyűlöli Párizst, és kétségbeesetten vágyódik a régi melegség után.</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">Ekkor robban be az életükbe Zozie de l'Alba, a gyönyörű, szenvedélyes bohém, aki összebarátkozik Anoukkal, dolgozni kezd a boltban, és könnyed bájával elbűvöli a környékbelieket. De Zozie-t nem az önzetlen segítőkészség vezérli. Fokozatosan hatalmába keríti Vianne-t, a csokoládéboltot, a vevőket, de elsősorban Anoukot, aki az anyja félelmektől nem gáncsolt, régi énjét látja benne. Ahogy közeledik a karácsony, nyilvánvaló lesz, hogy a család egy hideg és rosszakaratú lény karmaiba került, aki mohóbb minden csokievőnél…</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">Joanne Harris, a világszerte népszerű Szederbor és Ötnegyed narancs szerzőnője megírta a Csokoládé folytatását, amely saját szavaival: „néhol olvadós tejcsoki, máskor keserű csoki, de végül is, minden csoki finom”.</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;"><br></span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">CSOKOLÁDÉS BARACK</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">Nem mindig kap levelet az ember a halottaktól. </span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">Négy év telt el a Csokoládécipő óta, és Vianne még mindig Párizsban, egy lakóhajón él Roux-val. Ám a változást hozó nyárvégi széllel levél érkezik egy halottól, és visszafújja őket Lansquenet-be, a délnyugat-franciaországi faluba, ahol Vianne annak idején csokoládéboltot nyitott… </span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">Az elmúlt években azonban Lansquenet is megváltozott. Les Marauds-ban, a folyó túlpartján marokkói közösség telepedett le, tetőtől talpig feketébe öltözött, lefátyolozott nők járnak-kelnek, a levegőben tömjén, főszerek kif és mentatea illata úszik, és a templommal egy minaret néz farkasszemet… És nem csak a betelepülők hoztak magukkal változást. Vianne egykori ellensége, Francis Reynaud atya kegyvesztett lett, és fenyegetés veszi körül. Lehet, hogy Vianne az egyetlen, aki megmentheti?</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;"><br></span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">„Nagyobb szükségünk van a varázslatra, mint valaha – vallja az írónő. – De az én varázslatom sosem a tűzijátékról szólt, hanem a hétköznapi dolgok mágiájáról … arról, hogy apránként megváltoztassuk a körülöttünk levő világot és persze azt is, hogy mások látnak minket, mert az az a mágia, amelyhez mindnyájan hozzáférünk”.</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;"><br></span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">-------------------------------------------------------------------------------</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">                                EGYéB MEGJEGYZéS</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">-------------------------------------------------------------------------------</span></font></div><div><font face="MS Shell Dlg 2, sans-serif"><span style="font-size: 14px;">Ebben az összevont formában kereskedelmi forgalomban nem jelent meg.</span></font></div><div style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 14px;"><br></div></div>
 
 
 # <a name="id_1125">Joanne Harris: Rúnajelek (Rúnajelek 1) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Runajelek%20%281125%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Harris/Runajelek%20%281125%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Runajelek%20%281125%29/Runajelek%20-%20Joanne%20Harris.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Harris/Runajelek%20%281125%29/Runajelek%20-%20Joanne%20Harris.epub)
 
 ### Tagek
 21. század, brit szerző, fantasy, francia szerző, istenek, kaland, kalandregény, kortárs, magyar nyelvű, mitológia, regény, sorozat része
@@ -22,10 +22,10 @@ Hétfő ​reggel, hét óra, ötszáz évvel a Világvége után, és megint ko
 
 
 # <a name="id_1117">Joanne Harris: Kékszeműfiú (St. Oswald 1) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Kekszemufiu%20%281117%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Harris/Kekszemufiu%20%281117%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Kekszemufiu%20%281117%29/Kekszemufiu%20-%20Joanne%20Harris.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Harris/Kekszemufiu%20%281117%29/Kekszemufiu%20-%20Joanne%20Harris.epub)
 
 ### Tagek
 brit szerző, pszicho-thriller, francia szerző, web, 21. század, sorozat része, magyar nyelvű, regény, blog, thriller
@@ -38,10 +38,10 @@ De az anya kedvence Kék volt: a gyilkos.
 
 
 # <a name="id_1120">Joanne Harris: Szent bolondok (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Szent%20bolondok%20%281120%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Harris/Szent%20bolondok%20%281120%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Szent%20bolondok%20%281120%29/Szent%20bolondok%20-%20Joanne%20Harris.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Harris/Szent%20bolondok%20%281120%29/Szent%20bolondok%20-%20Joanne%20Harris.epub)
 
 ### Tagek
 17. század, apáca, boszorkányság, brit szerző, cirkusz, egyház, francia szerző, franciaország, kolostor, magyar nyelvű, regény, vallás, váltott szemszög
@@ -53,10 +53,10 @@ Az apátnő halála után megérkezik Isabelle, az új rendfőnöknő, és Julie
 
 
 # <a name="id_1121">Joanne Harris: Bársony és keserű mandula (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Barsony%20es%20keseru%20mandula%20%281121%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Harris/Barsony%20es%20keseru%20mandula%20%281121%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Barsony%20es%20keseru%20mandula%20%281121%29/Barsony%20es%20keseru%20mandula%20-%20Joanne%20Harris.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Harris/Barsony%20es%20keseru%20mandula%20%281121%29/Barsony%20es%20keseru%20mandula%20-%20Joanne%20Harris.epub)
 
 ### Tagek
 21. század, brit szerző, francia szerző, mágikus realizmus, magyar nyelvű, novella
@@ -66,10 +66,10 @@ Ezt az elragadó gyűjteményt olvasni olyan, akár a legfinomabb bonbonosdobozb
 
 
 # <a name="id_1126">Joanne Harris: Aludj kislány (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Aludj%20kislany%20%281126%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Harris/Aludj%20kislany%20%281126%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Aludj%20kislany%20%281126%29/Aludj%20kislany%20-%20Joanne%20Harris.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Harris/Aludj%20kislany%20%281126%29/Aludj%20kislany%20-%20Joanne%20Harris.epub)
 
 ### Tagek
 20. század, brit szerző, francia szerző, kortárs, mágikus realizmus, magyar nyelvű, misztikus, regény, váltott szemszög, viktoriánus
@@ -79,10 +79,10 @@ Henry Chester, a vagyonos, de nem különösebben tehetséges festő szüntelen�
 
 
 # <a name="id_1127">Joanne Harris: Szederbor (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Szederbor%20%281127%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Harris/Szederbor%20%281127%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Szederbor%20%281127%29/Szederbor%20-%20Joanne%20Harris.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Harris/Szederbor%20%281127%29/Szederbor%20-%20Joanne%20Harris.epub)
 
 ### Tagek
 21. század, bor, brit szerző, fejlődésregény, francia szerző, franciaország, gasztroregény, kortárs, mágikus realizmus, magyar nyelvű, misztikus, regény, romantikus, tavasz
@@ -94,10 +94,10 @@ Joanne Harris ebben a könyvében is csak szépet és jót tartogat az olvasó s
 
 
 # <a name="id_1123">Joanne Harris: Ötnegyed narancs (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Otnegyed%20narancs%20%281123%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Harris/Otnegyed%20narancs%20%281123%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Otnegyed%20narancs%20%281123%29/Otnegyed%20narancs%20-%20Joanne%20Harris.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Harris/Otnegyed%20narancs%20%281123%29/Otnegyed%20narancs%20-%20Joanne%20Harris.epub)
 
 ### Tagek
 2. világháború, 21. század, anyaság, brit szerző, francia szerző, franciaország, gasztroregény, magyar nyelvű, nemi erőszak, női főszereplő, regény, romantikus, történelmi regény
@@ -109,10 +109,10 @@ A Csokoládé és a Szederbor szerzője, Joanne Harris e kötetében is bámulat
 
 
 # <a name="id_1128">Joanne Harris: Partvidékiek (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Partvidekiek%20%281128%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Harris/Partvidekiek%20%281128%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Harris/Partvidekiek%20%281128%29/Partvidekiek%20-%20Joanne%20Harris.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Harris/Partvidekiek%20%281128%29/Partvidekiek%20-%20Joanne%20Harris.epub)
 
 ### Tagek
 21. század, babona, bretagne, brit szerző, család, francia szerző, franciaország, kortárs, magyar nyelvű, női főszereplő, regény, tenger, természet

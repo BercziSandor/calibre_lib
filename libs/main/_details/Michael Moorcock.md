@@ -1,8 +1,8 @@
 # <a name="id_525">Michael Moorcock: Harcikutya (Von Bek 1) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Moorcock/Harcikutya%20%28525%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Moorcock/Harcikutya%20%28525%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Moorcock/Harcikutya%20%28525%29/Harcikutya%20-%20Michael%20Moorcock.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Moorcock/Harcikutya%20%28525%29/Harcikutya%20-%20Michael%20Moorcock.epub)
 
 ### Tagek
 brit szerző, dark fantasy, démon, háború, harcosok, magyar nyelvű, regény, sárkány, sorozat része, történelmi regény, vallás, fantasy, szórakoztató irodalom, szépirodalom

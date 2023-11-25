@@ -1,8 +1,8 @@
 # <a name="id_1724">Brian Hare: Az okos kutya - A kutyák sokkal többre képesek, mint gondolnád (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Brian%20Hare/Az%20okos%20kutya%20-%20A%20kutyak%20sokkal%20tob%20%281724%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Brian%20Hare/Az%20okos%20kutya%20-%20A%20kutyak%20sokkal%20tob%20%281724%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Brian%20Hare/Az%20okos%20kutya%20-%20A%20kutyak%20sokkal%20tob%20%281724%29/Az%20okos%20kutya%20-%20A%20kutyak%20sokkal%20-%20Brian%20Hare.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Brian%20Hare/Az%20okos%20kutya%20-%20A%20kutyak%20sokkal%20tob%20%281724%29/Az%20okos%20kutya%20-%20A%20kutyak%20sokkal%20-%20Brian%20Hare.epub)
 
 ### Tagek
 science, psychology, adult, kutya

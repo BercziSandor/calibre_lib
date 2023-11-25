@@ -1,8 +1,8 @@
 # <a name="id_168">James Clavell: A sógun (Ázsia-saga 1) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/James%20Clavell/A%20Sogun%20%28168%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Clavell/A%20Sogun%20%28168%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Clavell/A%20Sogun%20%28168%29/A%20sogun%20-%20James%20Clavell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Clavell/A%20Sogun%20%28168%29/A%20sogun%20-%20James%20Clavell.epub)
 
 ### Tagek
 ázsia, brit szerző, hajózás, kalóz, magyar nyelvű, regény, romantikus, sorozat része, szamuráj, távol-kelet, történelem, 20. század, kalandregény, amerikai, történelmi, filmadaptáció, japán (ország)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_1027">James Clavell: A Tajpan (Ázsia-saga 2) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/James%20Clavell/A%20Tajpan%20%281027%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Clavell/A%20Tajpan%20%281027%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Clavell/A%20Tajpan%20%281027%29/A%20Tajpan%20-%20James%20Clavell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Clavell/A%20Tajpan%20%281027%29/A%20Tajpan%20-%20James%20Clavell.epub)
 
 ### Tagek
 19. század, 20. század, angol, ázsia, brit szerző, filmadaptáció, kaland, kalandregény, kalóz, kína, magyar nyelvű, regény, sorozat része, távol-kelet, történelem
@@ -27,10 +27,10 @@
 
 
 # <a name="id_1028">James Clavell: Gajdzsin (Ázsia-saga 3) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/James%20Clavell/Gajdzsin%20%281028%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Clavell/Gajdzsin%20%281028%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/James%20Clavell/Gajdzsin%20%281028%29/Gajdzsin%20-%20James%20Clavell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Clavell/Gajdzsin%20%281028%29/Gajdzsin%20-%20James%20Clavell.epub)
 
 ### Tagek
 19. század, 20. század, angol, ázsia, brit szerző, férfiak, francia, japán (ország), kaland, kalandregény, katonaság, magyar nyelvű, politika, regény, sorozat része, szamuráj, távol-kelet, történelem

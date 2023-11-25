@@ -1,8 +1,8 @@
 # <a name="id_408">Patrick Süskind: A parfüm (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Patrick%20Suskind/A%20parfum%20%28408%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Patrick%20Suskind/A%20parfum%20%28408%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Patrick%20Suskind/A%20parfum%20%28408%29/A%20parfum%20-%20Patrick%20Suskind.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Patrick%20Suskind/A%20parfum%20%28408%29/A%20parfum%20-%20Patrick%20Suskind.epub)
 
 ### Tagek
 antihős, életregény, felnőtt tartalom, férfi főszereplő, horror, klasszikus, krimi, magyar nyelvű, német szerző, sorozatgyilkosság, thriller, world fantasy díj, franciaország, gyilkosság, filmadaptáció, 18. század, utazás, regény, 1001 könyv listán szerepel

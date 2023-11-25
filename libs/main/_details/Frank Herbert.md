@@ -1,8 +1,8 @@
 # <a name="id_182">Frank Herbert: Dune (A Dűne 1) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Frank%20Herbert/Dune%20%28182%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frank%20Herbert/Dune%20%28182%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Frank%20Herbert/Dune%20%28182%29/Dune%20-%20Frank%20Herbert.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frank%20Herbert/Dune%20%28182%29/Dune%20-%20Frank%20Herbert.epub)
 
 ### Tagek
 amerikai szerző, fantasy, férfi főszereplő, filmadaptáció, gyilkosság, gyűjtemény, háború, halál, hugo-díj, jövőben játszódik, kaland, klasszikus, magyar nyelvű, nebula-díj, regény, sci-fi, sivatag, sorozat része, társadalmi sci-fi, tévésorozat-adaptáció, science fiction
@@ -13,10 +13,10 @@ amerikai szerző, fantasy, férfi főszereplő, filmadaptáció, gyilkosság, gy
 
 
 # <a name="id_184">Frank Herbert: A Dűne gyermekei (A Dűne 3) (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Frank%20Herbert/A%20Dune%20gyermekei%20%28184%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frank%20Herbert/A%20Dune%20gyermekei%20%28184%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Frank%20Herbert/A%20Dune%20gyermekei%20%28184%29/A%20Dune%20gyermekei%20-%20Frank%20Herbert.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frank%20Herbert/A%20Dune%20gyermekei%20%28184%29/A%20Dune%20gyermekei%20-%20Frank%20Herbert.epub)
 
 ### Tagek
 20. század, amerikai szerző, filmadaptáció, magyar nyelvű, regény, sci-fi, sorozat része, űropera, science fiction

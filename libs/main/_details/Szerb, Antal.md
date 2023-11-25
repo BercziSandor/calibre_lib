@@ -1,8 +1,8 @@
 # <a name="id_387">Szerb, Antal: Utas és holdvilág (1985)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szerb%2C%20Antal/Utas%20es%20holdvilag%20%28387%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szerb%2C%20Antal/Utas%20es%20holdvilag%20%28387%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szerb%2C%20Antal/Utas%20es%20holdvilag%20%28387%29/Utas%20es%20holdvilag%20-%20Szerb%2C%20Antal.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szerb%2C%20Antal/Utas%20es%20holdvilag%20%28387%29/Utas%20es%20holdvilag%20-%20Szerb%2C%20Antal.epub)
 
 ### Tagek
 misztikus, nagy könyv, 66 híres magyar regény, 30-as évek, ifjúság, hangjáték, szexualitás, szépirodalom, házasság, róma, itália, halál, filozofikus regény, lélektani, párizs, regény, hangoskönyv, szerelem, firenze
@@ -12,10 +12,10 @@ misztikus, nagy könyv, 66 híres magyar regény, 30-as évek, ifjúság, hangj�
 
 
 # <a name="id_272">Szerb, Antal: A Legszebb Kutyatörténetek Gerald Durrell Válogatásában (1996)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szerb%2C%20Antal/A%20Legszebb%20Kutyatortenetek%20Gerald%20Durrell%20Valogatasaban%20%28272%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szerb%2C%20Antal/A%20Legszebb%20Kutyatortenetek%20Gerald%20Durrell%20Valogatasaban%20%28272%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szerb%2C%20Antal/A%20Legszebb%20Kutyatortenetek%20Gerald%20Durrell%20Valogatasaban%20%28272%29/A%20Legszebb%20Kutyatortenetek%20Gera%20-%20Szerb%2C%20Antal.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szerb%2C%20Antal/A%20Legszebb%20Kutyatortenetek%20Gerald%20Durrell%20Valogatasaban%20%28272%29/A%20Legszebb%20Kutyatortenetek%20Gera%20-%20Szerb%2C%20Antal.epub)
 
 ### Tagek
 elbeszélés, kutya

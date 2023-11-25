@@ -1,8 +1,8 @@
 # <a name="id_696">Terry Pratchett: A mágia színe (Korongvilág 1) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/A%20magia%20szine%20%28696%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/A%20magia%20szine%20%28696%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/A%20magia%20szine%20%28696%29/A%20magia%20szine%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/A%20magia%20szine%20%28696%29/A%20magia%20szine%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 angol szerző, brit szerző, fantasy, fantasyparódia, humoros, kalandregény, kortárs, mágia, magyar nyelvű, paródia, regény, sárkány, sorozat része, turizmus, utazás, varázsló
@@ -12,10 +12,10 @@ Valahol messze, az űr egy eldugott zugában lavíroz A'Tuin, a gigászi teknőc
 
 
 # <a name="id_695">Terry Pratchett: A mágia fénye (Korongvilág 2) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/A%20magia%20fenye%20%28695%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/A%20magia%20fenye%20%28695%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/A%20magia%20fenye%20%28695%29/A%20magia%20fenye%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/A%20magia%20fenye%20%28695%29/A%20magia%20fenye%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 angol szerző, brit szerző, fantasy, hangoskönyv, humoros, kortárs, magyar nyelvű, regény, sorozat része, varázsló
@@ -25,10 +25,10 @@ Nagy A'Tuin, a Korongvilágot hátán cipelő csillagteknőc az egyetlen lény k
 
 
 # <a name="id_694">Terry Pratchett: Egyenjogú rítusok (Korongvilág 3) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Egyenjogu%20ritusok%20%28694%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Egyenjogu%20ritusok%20%28694%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Egyenjogu%20ritusok%20%28694%29/Egyenjogu%20ritusok%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Egyenjogu%20ritusok%20%28694%29/Egyenjogu%20ritusok%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 angol szerző, boszorkány, brit szerző, fantasy, fantasyparódia, humoros, kalandregény, kortárs, mágia, magyar nyelvű, regény, sorozat része, varázsló
@@ -38,10 +38,10 @@ Bilét Donát, a varázsló élete utolsó cselekedeteként – mielőtt a Halá
 
 
 # <a name="id_762">Terry Pratchett: Mort, a halál kisinasa (Korongvilág 4) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Mort%2C%20a%20halal%20kisinasa%20%28762%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Mort%2C%20a%20halal%20kisinasa%20%28762%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Mort%2C%20a%20halal%20kisinasa%20%28762%29/Mort%2C%20a%20halal%20kisinasa%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Mort%2C%20a%20halal%20kisinasa%20%28762%29/Mort%2C%20a%20halal%20kisinasa%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 fantasy, kalandregény, regény, humor, kortárs, brit, angol, fantasyparódia
@@ -51,10 +51,10 @@ fantasy, kalandregény, regény, humor, kortárs, brit, angol, fantasyparódia
 
 
 # <a name="id_697">Terry Pratchett: Bűbájos bajok (Korongvilág 5) (1999)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Bubajos%20bajok%20%28697%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Bubajos%20bajok%20%28697%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Bubajos%20bajok%20%28697%29/Bubajos%20bajok%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Bubajos%20bajok%20%28697%29/Bubajos%20bajok%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 angol szerző, brit szerző, fantasy, humoros, kalandregény, kortárs, mágia, magyar nyelvű, regény, sorozat része, varázsló
@@ -69,10 +69,10 @@ Egy bűbájos.
 
 
 # <a name="id_689">Terry Pratchett: Vészbanyák (Korongvilág 6) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Veszbanyak%20%28689%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Veszbanyak%20%28689%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Veszbanyak%20%28689%29/Veszbanyak%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Veszbanyak%20%28689%29/Veszbanyak%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 angol szerző, boszorkány, brit szerző, fantasy, fantasyparódia, humoros, kalandregény, kortárs, magyar nyelvű, regény, sorozat része, színjátszás
@@ -84,10 +84,10 @@ Azonban még ő is kénytelen belátni, hogy a királyi udvar cselszövényeibe 
 
 
 # <a name="id_699">Terry Pratchett: Erik (Korongvilág 9) (1996)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Erik%20%28699%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Erik%20%28699%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Erik%20%28699%29/Erik%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Erik%20%28699%29/Erik%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 fantasy, fiction, regény, general, humor, urban, kortárs, brit, angol, fantasyparódia
@@ -101,10 +101,10 @@ Velük az oldalán Erikre nagy utazás vár az időn és a téren át, amitől m
 
 
 # <a name="id_690">Terry Pratchett: Vége a mesének (Korongvilág 12) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Vege%20a%20mesenek%20%28690%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Vege%20a%20mesenek%20%28690%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Vege%20a%20mesenek%20%28690%29/Vege%20a%20mesenek%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Vege%20a%20mesenek%20%28690%29/Vege%20a%20mesenek%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 angol szerző, boszorkány, brit szerző, fantasy, humoros, kortárs, magyar nyelvű, regény, sorozat része
@@ -117,10 +117,10 @@ Legalábbis nem lehetett – mostanáig…
 
 
 # <a name="id_761">Terry Pratchett: Kisistenek (Korongvilág 13) (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Kisistenek%20%28761%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Kisistenek%20%28761%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Kisistenek%20%28761%29/Kisistenek%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Kisistenek%20%28761%29/Kisistenek%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 sorozat része, további könyveink, irodalom, humoros, istenek, szórakoztató irodalom, kalandregény, brit szerző, regény, angol szerző, kortárs, magyar nyelvű, vallás, hit, fantasy
@@ -135,10 +135,10 @@ A legeslegjobban azonban azt szeretné, ha az istene valaki mást választana ki
 
 
 # <a name="id_691">Terry Pratchett: Hölgyek és urak (Korongvilág 14) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Holgyek%20es%20urak%20%28691%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Holgyek%20es%20urak%20%28691%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Holgyek%20es%20urak%20%28691%29/Holgyek%20es%20urak%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Holgyek%20es%20urak%20%28691%29/Holgyek%20es%20urak%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 angol szerző, boszorkány, brit szerző, fantasy, humoros, kalandregény, kortárs, magyar nyelvű, regény, sorozat része, tündér
@@ -152,10 +152,10 @@ A darabban szerepet kapnak még törpék, varázslók, trollok, néptáncosok é
 
 
 # <a name="id_698">Terry Pratchett: Érdekes idők (Korongvilág 17) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Erdekes%20idok%20%28698%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Erdekes%20idok%20%28698%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Erdekes%20idok%20%28698%29/Erdekes%20idok%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Erdekes%20idok%20%28698%29/Erdekes%20idok%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 angol szerző, barátság, brit szerző, fantasy, humoros, kalandregény, kína, kortárs, magyar nyelvű, regény, sorozat része, varázsló
@@ -171,10 +171,10 @@ Cohen, az ortopédiás sarujában is legfeljebb négy könyök magas barbár hő
 
 
 # <a name="id_692">Terry Pratchett: Maszkabál (Korongvilág 18) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Maszkabal%20%28692%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Maszkabal%20%28692%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Maszkabal%20%28692%29/Maszkabal%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Maszkabal%20%28692%29/Maszkabal%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 angol szerző, boszorkány, brit szerző, fantasy, humoros, kortárs, krimi, magyar nyelvű, opera, paródia, regény, sorozat része, színház
@@ -187,10 +187,10 @@ Valaki legalábbis ezt reméli. Ám Wiharvész Anyó, a Korongvilág leghíreseb
 
 
 # <a name="id_700">Terry Pratchett: Kallódó kontinens (Korongvilág 22) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Kallodo%20kontinens%20%28700%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Kallodo%20kontinens%20%28700%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Kallodo%20kontinens%20%28700%29/Kallodo%20kontinens%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Kallodo%20kontinens%20%28700%29/Kallodo%20kontinens%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 angol szerző, brit szerző, fantasy, humoros, kortárs, magyar nyelvű, regény, sorozat része, varázsló
@@ -205,21 +205,21 @@ Szóval… gond egy szál se, eh?
 
 
 # <a name="id_693">Terry Pratchett: Carpe Jugulum (Korongvilág 23) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Carpe%20Jugulum%20%28693%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Carpe%20Jugulum%20%28693%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Carpe%20Jugulum%20%28693%29/Carpe%20Jugulum%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Carpe%20Jugulum%20%28693%29/Carpe%20Jugulum%20-%20Terry%20Pratchett.epub)
 
 ### Összefoglalás
 <div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;">FOHÁSSZAL OTTOKÁR NEM TÚL JÓ IDŐBEN AKARJA GYAKOROLNI PAPI HIVATÁSÁT. VAGY NEM TÚL JÓ HELYEN. AZT HITTE, CSUPÁN EGY EGYSZERŰ SZERTARTÁS MIATT KELL LANCRE-BE MENNIE, DE RÁ KELL ÉBREDNIE, HOGY A VÁMPÍROK ÉS A BOSZORKÁNYOK KÖZÖTT DÚLÓ HÁBORÚ KELLŐS KÖZEPÉBE CSÖPPENT.</span></font></div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;"><br></span></font></div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;">Boszorkányok alatt pedig az ifjú Ágnes értendő, aki tényleg nem tud még saját magával sem egyetérteni; Magrat, aki a boszorkánykodást a pelenkákkal próbálja ötvözni; Ogg Nagyi… </span></font></div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;">…valamint Wiharvész Anyó, aki már önmagában súlyos gondot jelent.</span></font></div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;"><br></span></font></div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;">A vámpírok viszont intelligensek, a stílus mellett díszes mellényekkel is rendelkeznek, és kiszabadultak. Ők is szeretnének egy harapásnyit a jövőből.</span></font></div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;"><br></span></font></div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;">Fohásszal Ottokár tudja, hogy vele van az ima ereje – de azt kívánja, bárcsak lenne nála egy bárd is.</span></font></div></div>
 
 
 # <a name="id_896">Terry Pratchett: Elveszett Próféciák (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Elveszett%20Profeciak%20%28896%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Elveszett%20Profeciak%20%28896%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Elveszett%20Profeciak%20%28896%29/Elveszett%20Profeciak%20-%20Terry%20Pratchett.epub) 
- [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Terry%20Pratchett/Elveszett%20Profeciak%20%28896%29/Elveszett%20Profeciak%20-%20Terry%20Pratchett.rtf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Elveszett%20Profeciak%20%28896%29/Elveszett%20Profeciak%20-%20Terry%20Pratchett.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Elveszett%20Profeciak%20%28896%29/Elveszett%20Profeciak%20-%20Terry%20Pratchett.rtf)
 
 ### Tagek
 irodalom, szórakoztató irodalom

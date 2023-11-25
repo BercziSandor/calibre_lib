@@ -1,8 +1,8 @@
 # <a name="id_1211">Elizabeth Adler: Toszkánai nyár (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Elizabeth%20Adler/Toszkanai%20nyar%20%281211%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Elizabeth%20Adler/Toszkanai%20nyar%20%281211%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Elizabeth%20Adler/Toszkanai%20nyar%20%281211%29/Toszkanai%20nyar%20-%20Elizabeth%20Adler.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Elizabeth%20Adler/Toszkanai%20nyar%20%281211%29/Toszkanai%20nyar%20-%20Elizabeth%20Adler.epub)
 
 ### Tagek
 romance, travel, contemporary, adult, brit szerző, chick lit, firenze, magyar nyelvű, női főszereplő, nyár, olaszország, orvos, regény, róma, romantikus, toszkána, váltott szemszög

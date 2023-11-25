@@ -1,8 +1,8 @@
 # <a name="id_283">Mario Puzo: A Keresztapa (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Mario%20Puzo/A%20Keresztapa%20%28283%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mario%20Puzo/A%20Keresztapa%20%28283%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mario%20Puzo/A%20Keresztapa%20%28283%29/A%20Keresztapa%20-%20Mario%20Puzo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mario%20Puzo/A%20Keresztapa%20%28283%29/A%20Keresztapa%20-%20Mario%20Puzo.epub)
 
 ### Tagek
 1940-es évek, 20. század, amerikai egyesült államok, amerikai szerző, antihős, bérgyilkos, bűnözés, család, családregény, drámai cselekmény, erőszak, férfi főszereplő, gyilkosság, klasszikus, krimi, las vegas, olasz-amerikai, amerikai, maffia, kortárs, filmadaptáció, regény, 1001 könyv listán szerepel

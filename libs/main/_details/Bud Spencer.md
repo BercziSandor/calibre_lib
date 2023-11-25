@@ -1,8 +1,8 @@
 # <a name="id_1212">Bud Spencer: Különben dühbe jövök (Bud Spencer önéletrajza 1) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bud%20Spencer/Kulonben%20duhbe%20jovok%20%281212%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bud%20Spencer/Kulonben%20duhbe%20jovok%20%281212%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bud%20Spencer/Kulonben%20duhbe%20jovok%20%281212%29/Kulonben%20duhbe%20jovok%20-%20Bud%20Spencer.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bud%20Spencer/Kulonben%20duhbe%20jovok%20%281212%29/Kulonben%20duhbe%20jovok%20-%20Bud%20Spencer.epub)
 
 ### Tagek
 celeb, férfi főszereplő, filmtörténet, magyar nyelvű, olasz szerző, olaszország, önéletrajz, sorozat része, színész
@@ -13,10 +13,10 @@ celeb, férfi főszereplő, filmtörténet, magyar nyelvű, olasz szerző, olasz
 
 
 # <a name="id_966">Bud Spencer: Eszem, tehát vagyok (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Bud%20Spencer/Eszem%2C%20tehat%20vagyok%20%28966%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bud%20Spencer/Eszem%2C%20tehat%20vagyok%20%28966%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Bud%20Spencer/Eszem%2C%20tehat%20vagyok%20%28966%29/Eszem%2C%20tehat%20vagyok%20-%20Bud%20Spencer.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bud%20Spencer/Eszem%2C%20tehat%20vagyok%20%28966%29/Eszem%2C%20tehat%20vagyok%20-%20Bud%20Spencer.epub)
 
 ### Tagek
 filozófia, magyar nyelvű, olasz szerző, gasztronómia, szakácskönyv

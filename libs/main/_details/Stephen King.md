@@ -1,8 +1,8 @@
 # <a name="id_573">Stephen King: Minden haláli (A Setét 1) (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Minden%20halali%20%28573%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Minden%20halali%20%28573%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Minden%20halali%20%28573%29/Minden%20halali%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Minden%20halali%20%28573%29/Minden%20halali%20-%20Stephen%20King.epub)
 
 ### Tagek
 21. század, amerikai szerző, elbeszélés, fantasy, filmadaptáció, halál, horror, krimi, magyar nyelvű, novella, ördög, paranormális, regény, rémtörténet, sorozat része, thriller, vámpír
@@ -15,10 +15,10 @@ Vagy… de tudja mit, Kedves Olvasó? Üljön bele kedvenc karosszékébe, és o
 
 
 # <a name="id_556">Stephen King: A búra alatt (A búra alatt 1) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20bura%20alatt%20%28556%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20bura%20alatt%20%28556%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20bura%20alatt%20%28556%29/A%20bura%20alatt%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20bura%20alatt%20%28556%29/A%20bura%20alatt%20-%20Stephen%20King.epub)
 
 ### Tagek
 maine, földönkívüliek, fantasy, sci-fi, szépirodalom, amerikai egyesült államok, magyar nyelvű, regény, szórakoztató irodalom, kaland, drámai cselekmény, horror, erőszak, akció, 21. század, amerikai szerző, misztikus, filmadaptáció, gyilkosság, halál, disztópia, nemi erőszak, drog, társadalomkritika
@@ -28,10 +28,10 @@ A világ első számú horrorírójának 2009-es nagyregénye valamikor 2012 ut�
 
 
 # <a name="id_557">Stephen King: A búra alatt (A búra alatt 2) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20bura%20alatt%20%28557%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20bura%20alatt%20%28557%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20bura%20alatt%20%28557%29/A%20bura%20alatt%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20bura%20alatt%20%28557%29/A%20bura%20alatt%20-%20Stephen%20King.epub)
 
 ### Tagek
 maine, földönkívüliek, fantasy, sci-fi, thriller, amerikai egyesült államok, magyar nyelvű, krimi, regény, szórakoztató irodalom, drámai cselekmény, horror, bűnügyi, erőszak, 21. század, amerikai szerző, misztikus, filmadaptáció, gyilkosság, halál, disztópia, nemi erőszak, drog, irodalom, társadalomkritika
@@ -41,10 +41,10 @@ A világ első számú horrorírójának 2009-es nagyregénye valamikor 2012 ut�
 
 
 # <a name="id_539">Stephen King: A harcos (A setét torony 1) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20harcos%20%28539%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20harcos%20%28539%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20harcos%20%28539%29/A%20harcos%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20harcos%20%28539%29/A%20harcos%20-%20Stephen%20King.epub)
 
 ### Tagek
 20. század, undefined, fantasy, mágikus realizmus, dark fantasy, magyar nyelvű, férfi főszereplő, kaland, harcosok, horror, mágia, amerikai szerző, kortárs, antihős, grimdark, epikus fantasy, filmadaptáció, gyilkosság, halál, felnőtt tartalom, disztópia
@@ -58,10 +58,10 @@ Egy páratlan sorozat Stephen King tollából, ami utat nyit az olvasó fantázi
 
 
 # <a name="id_540">Stephen King: A hármak elhívatása (A setét torony 2) (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20harmak%20elhivatasa%20%28540%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20harmak%20elhivatasa%20%28540%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20harmak%20elhivatasa%20%28540%29/A%20harmak%20elhivatasa%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20harmak%20elhivatasa%20%28540%29/A%20harmak%20elhivatasa%20-%20Stephen%20King.epub)
 
 ### Tagek
 20. század, időutazás, new york, undefined, fantasy, mágikus realizmus, portál fantasy, dark fantasy, fegyverek, magyar nyelvű, kaland, horror, misztikus, amerikai szerző, kortárs, epikus fantasy, filmadaptáció, gyilkosság, halál, felnőtt tartalom, drog
@@ -71,10 +71,10 @@ A harcos-ban megismert Roland sebesülten, betegen, ám rendíthetetlenül halad
 
 
 # <a name="id_845">Stephen King: Puszta földek (A setét torony 3) (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Puszta%20foldek%20%28845%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Puszta%20foldek%20%28845%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Puszta%20foldek%20%28845%29/Puszta%20foldek%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Puszta%20foldek%20%28845%29/Puszta%20foldek%20-%20Stephen%20King.epub)
 
 ### Tagek
 20. század, undefined, fantasy, sci-fi, thriller, weird fiction, portál fantasy, magyar nyelvű, regény, western, vasút, kaland, sorozat része, horror, urban fantasy, misztikus, amerikai szerző, kortárs, posztapokaliptikus, filmadaptáció
@@ -84,10 +84,10 @@ Roland és barátai, Eddie és Susannah Dean elszántan haladnak úti céljuk, a
 
 
 # <a name="id_846">Stephen King: Varázsló és üveg (A setét torony 4) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Varazslo%20es%20uveg%20%28846%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Varazslo%20es%20uveg%20%28846%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Varazslo%20es%20uveg%20%28846%29/Varazslo%20es%20uveg%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Varazslo%20es%20uveg%20%28846%29/Varazslo%20es%20uveg%20-%20Stephen%20King.epub)
 
 ### Tagek
 20. század, undefined, fantasy, sci-fi, thriller, mágikus realizmus, weird fiction, dark fantasy, magyar nyelvű, regény, kaland, sorozat része, horror, urban fantasy, misztikus, amerikai szerző, kortárs, posztapokaliptikus, filmadaptáció, romantikus, disztópia
@@ -97,10 +97,10 @@ Roland és hűséges barátai sikeresen megküzdöttek Blaine-nel, a Monóval. E
 
 
 # <a name="id_847">Stephen King: Callai farkasok (A setét torony 5) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Callai%20farkasok%20%28847%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Callai%20farkasok%20%28847%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Callai%20farkasok%20%28847%29/Callai%20farkasok%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Callai%20farkasok%20%28847%29/Callai%20farkasok%20-%20Stephen%20King.epub)
 
 ### Tagek
 időutazás, new york, undefined, fantasy, sci-fi, dark fantasy, magyar nyelvű, regény, kaland, sorozat része, horror, 21. század, misztikus, amerikai szerző, posztapokaliptikus, epikus fantasy, kalandregény, filmadaptáció, robot, gyilkosság, halál
@@ -110,10 +110,10 @@ Roland Deschaint, aki a civilizáció pusztulása után a Setét Tornyot keresi,
 
 
 # <a name="id_542">Stephen King: Susannah dala (A setét torony 6) (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Susannah%20dala%20%28542%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Susannah%20dala%20%28542%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Susannah%20dala%20%28542%29/Susannah%20dala%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Susannah%20dala%20%28542%29/Susannah%20dala%20-%20Stephen%20King.epub)
 
 ### Tagek
 20. század, időutazás, new york, undefined, fantasy, sci-fi, dark fantasy, magyar nyelvű, regény, kaland, drámai cselekmény, horror, 21. század, misztikus, amerikai szerző, posztapokaliptikus, epikus fantasy, filmadaptáció, gyilkosság, halál, disztópia
@@ -127,10 +127,10 @@ A Setét Torony, minden világok pillére pedig egyre jobban inog…
 
 
 # <a name="id_541">Stephen King: A Setét Torony (A setét torony 7) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20Setet%20Torony%20%28541%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20Setet%20Torony%20%28541%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20Setet%20Torony%20%28541%29/A%20Setet%20Torony%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20Setet%20Torony%20%28541%29/A%20Setet%20Torony%20-%20Stephen%20King.epub)
 
 ### Tagek
 undefined
@@ -140,16 +140,16 @@ A Susannah dala ott ér véget, hogy közeleg a szülés ideje... és a Dixie Ma
 
 
 # <a name="id_1268">Stephen King: Átfúj a szél a kulcslyukon (A setét torony 8) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Atfuj%20a%20szel%20a%20kulcslyukon%20%281268%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Atfuj%20a%20szel%20a%20kulcslyukon%20%281268%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Atfuj%20a%20szel%20a%20kulcslyukon%20%281268%29/Atfuj%20a%20szel%20a%20kulcslyukon%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Atfuj%20a%20szel%20a%20kulcslyukon%20%281268%29/Atfuj%20a%20szel%20a%20kulcslyukon%20-%20Stephen%20King.epub)
 
 # <a name="id_549">Stephen King: A talizmán (A talizmán 1) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20talizman%20%28549%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20talizman%20%28549%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20talizman%20%28549%29/A%20talizman%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20talizman%20%28549%29/A%20talizman%20-%20Stephen%20King.epub)
 
 ### Tagek
 20. század, amerikai szerző, dark fantasy, gyermek főszereplő, horror, kaland, kisváros, kortárs, magyar nyelvű, misztikus, portál fantasy, regény, sorozat része, thriller, utazás, vérfarkas, fantasy
@@ -160,10 +160,10 @@ A Susannah dala ott ér véget, hogy közeleg a szülés ideje... és a Dixie Ma
 
 
 # <a name="id_118">Stephen King: Az 1-2. (Az 1) (1995)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Az%201-2_%20%28118%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Az%201-2_%20%28118%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Az%201-2_%20%28118%29/Az%201-2_%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Az%201-2_%20%28118%29/Az%201-2_%20-%20Stephen%20King.epub)
 
 ### Tagek
 elbeszélés, kaland, szórakoztató irodalom, szépirodalom, kísértet- és rémtörténetek, regény, novella, tartalom szerint, akció
@@ -173,10 +173,10 @@ elbeszélés, kaland, szórakoztató irodalom, szépirodalom, kísértet- és r�
 
 
 # <a name="id_119">Stephen King: Az 1-2. (Az 2) (1995)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Az%201-2_%20%28119%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Az%201-2_%20%28119%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Az%201-2_%20%28119%29/Az%201-2_%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Az%201-2_%20%28119%29/Az%201-2_%20-%20Stephen%20King.epub)
 
 ### Tagek
 kaland, szórakoztató irodalom, szépirodalom, tartalom szerint, akció, regény, novella, elbeszélés, kísértet- és rémtörténetek
@@ -186,10 +186,10 @@ kaland, szórakoztató irodalom, szépirodalom, tartalom szerint, akció, regén
 
 
 # <a name="id_931">Stephen King: Aki kapja, marja (Bill Hodges 2) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Aki%20kapja%2C%20marja%20%28931%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Aki%20kapja%2C%20marja%20%28931%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Aki%20kapja%2C%20marja%20%28931%29/Aki%20kapja%2C%20marja%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Aki%20kapja%2C%20marja%20%28931%29/Aki%20kapja%2C%20marja%20-%20Stephen%20King.epub)
 
 ### Tagek
 nyomozás, magyar nyelvű, krimi, regény, férfi főszereplő, gyilkosság, thriller, 2010-es évek, detektívtörténet, sorozat része, 21. század, thiller, amerikai szerző, kortárs
@@ -202,10 +202,10 @@ King a Tortúra óta nem foglalkozott az olvasóval, aki addig bálványozza az 
 
 
 # <a name="id_553">Stephen King: Végítélet I-II. (Végítélet 1) (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Vegitelet%20I-II_%20%28553%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Vegitelet%20I-II_%20%28553%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Vegitelet%20I-II_%20%28553%29/Vegitelet%20I-II_%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Vegitelet%20I-II_%20%28553%29/Vegitelet%20I-II_%20-%20Stephen%20King.epub)
 
 ### Tagek
 kaland, szórakoztató irodalom, szépirodalom, fantasztikus regények, tartalom szerint, elbeszélés, novella, regény, akció
@@ -215,19 +215,19 @@ kaland, szórakoztató irodalom, szépirodalom, fantasztikus regények, tartalom
 
 
 # <a name="id_930">Stephen King: Dans macabre </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Dans%20macabre%20%28930%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Dans%20macabre%20%28930%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Dans%20macabre%20%28930%29/Dans%20macabre%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Dans%20macabre%20%28930%29/Dans%20macabre%20-%20Stephen%20King.epub)
 
 ### Tagek
 esszé a horroról
 
 # <a name="id_572">Stephen King: Ezüst pisztolygolyók (1989)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Ezust%20pisztolygolyok%20%28572%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Ezust%20pisztolygolyok%20%28572%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Ezust%20pisztolygolyok%20%28572%29/Ezust%20pisztolygolyok%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Ezust%20pisztolygolyok%20%28572%29/Ezust%20pisztolygolyok%20-%20Stephen%20King.epub)
 
 ### Tagek
 20. század, alakváltó, amerikai szerző, fantasy, filmadaptáció, horror, illusztrált, kisregény, kortárs, magyar nyelvű, novella, thriller, vérfarkas
@@ -237,10 +237,10 @@ A hold minden lelkes, avatott vagy amatőr bámulójának feltünhetett, hogy j�
 
 
 # <a name="id_535">Stephen King: A rémkoppantók (1992)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20remkoppantok%20%28535%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20remkoppantok%20%28535%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20remkoppantok%20%28535%29/A%20remkoppantok%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20remkoppantok%20%28535%29/A%20remkoppantok%20-%20Stephen%20King.epub)
 
 ### Tagek
 maine, földönkívüliek, függőség, fantasy, sci-fi, szépirodalom, thriller, novella, magyar nyelvű, regény, szórakoztató irodalom, kaland, elbeszélés, ufo, alkoholizmus, horror, akció, tartalom szerint, kisváros, amerikai szerző, kortárs, misztikus, író, kísértet- és rémtörténetek, filmadaptáció
@@ -250,10 +250,10 @@ Roberta Andersen westernírónő a Haven kisváros peremén fekvő birtokán él
 
 
 # <a name="id_469">Stephen King: Sorvadj el! (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Sorvadj%20el%21%20%28469%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Sorvadj%20el%21%20%28469%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Sorvadj%20el%21%20%28469%29/Sorvadj%20el%21%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Sorvadj%20el%21%20%28469%29/Sorvadj%20el%21%20-%20Stephen%20King.epub)
 
 ### Tagek
 20. század, mystery & crime, fantasy, szépirodalom, thriller, novella, amerikai egyesült államok, magyar nyelvű, regény, szórakoztató irodalom, kaland, elbeszélés, horror, cigány, akció, tartalom szerint, amerikai szerző, antihős, kortárs, misztikus, paranormális, connecticut, kísértet- és rémtörténetek, filmadaptáció
@@ -263,10 +263,10 @@ Megszokott amerikai kisváros, szokványos középosztálybeli jómód, unalmas 
 
 
 # <a name="id_571">Stephen King: Csontkollekció (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Csontkollekcio%20%28571%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Csontkollekcio%20%28571%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Csontkollekcio%20%28571%29/Csontkollekcio%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Csontkollekcio%20%28571%29/Csontkollekcio%20-%20Stephen%20King.epub)
 
 ### Tagek
 20. század, öngyilkosság, horror, amerikai egyesült államok, maine, misztikus, novella, magyar nyelvű, paranormális, fantasy, short stories, gyilkosság, halál, sci-fi, thriller, űrutazás, amerikai szerző
@@ -279,10 +279,10 @@ A kimeríthetetlen fantáziájú Stephen King vérfagyasztó történeteinek új
 
 
 # <a name="id_547">Stephen King: A sárkány szeme (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20sarkany%20szeme%20%28547%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20sarkany%20szeme%20%28547%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20sarkany%20szeme%20%28547%29/A%20sarkany%20szeme%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20sarkany%20szeme%20%28547%29/A%20sarkany%20szeme%20-%20Stephen%20King.epub)
 
 ### Tagek
 20. század, amerikai szerző, barátság, fantasy, herceg, ifjúsági, kaland, király, mágia, magyar nyelvű, meseregény, regény, sárkány, varázsló
@@ -295,10 +295,10 @@ Európa Könyvkiadó, 2006
 
 
 # <a name="id_551">Stephen King: Christine (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Christine%20%28551%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Christine%20%28551%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Christine%20%28551%29/Christine%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Christine%20%28551%29/Christine%20-%20Stephen%20King.epub)
 
 ### Tagek
 media tie-in, thrillers, horror, bűnügyi, krimi, szórakoztató irodalom, thriller, suspense, fiction, supernatural, irodalom
@@ -308,10 +308,10 @@ A ​szerelem öl, butít és nyomorba dönt – szokták mondani a sokat tapasz
 
 
 # <a name="id_546">Stephen King: Lisey története (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Lisey%20tortenete%20%28546%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Lisey%20tortenete%20%28546%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Lisey%20tortenete%20%28546%29/Lisey%20tortenete%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Lisey%20tortenete%20%28546%29/Lisey%20tortenete%20-%20Stephen%20King.epub)
 
 ### Tagek
 bram stoker-díj, pszichés betegség, önéletrajz, író, horror, misztikus, női főszereplő, magyar nyelvű, regény, paranormális, szórakoztató irodalom, fantasy, thriller, gótikus irodalom, gyermekbántalmazás, amerikai szerző, amerikai, irodalom
@@ -321,10 +321,10 @@ Lisey ​Debusher Landon huszonöt év házasság után vesztette el férjét, S
 
 
 # <a name="id_550">Stephen King: Blaze (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Blaze%20%28550%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Blaze%20%28550%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Blaze%20%28550%29/Blaze%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Blaze%20%28550%29/Blaze%20-%20Stephen%20King.epub)
 
 ### Tagek
 magyar nyelvű, krimi, regény, szórakoztató irodalom, akció, szépirodalom, thriller, kaland, 21. század, pszicho-thriller, amerikai szerző, kortárs, drámai cselekmény
@@ -336,10 +336,10 @@ Stephen King íróasztala mélyérõl ásta elõ ifjúkori írását, a Blaze er
 
 
 # <a name="id_548">Stephen King: A mobil (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20mobil%20%28548%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20mobil%20%28548%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20mobil%20%28548%29/A%20mobil%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20mobil%20%28548%29/A%20mobil%20-%20Stephen%20King.epub)
 
 ### Tagek
 zombi, horror, misztikus, magyar nyelvű, filmadaptáció, paranormális, regény, fantasy, sci-fi, thriller, massachusetts, disztópia, apokalipszis, 21. század, pszicho-thriller, amerikai szerző
@@ -351,10 +351,10 @@ Stephen King, a thriller kimeríthetetlen fantáziájú mestere, mindenből ihle
 
 
 # <a name="id_554">Stephen King: Duma Key (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Duma%20Key%20%28554%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Duma%20Key%20%28554%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Duma%20Key%20%28554%29/Duma%20Key%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Duma%20Key%20%28554%29/Duma%20Key%20-%20Stephen%20King.epub)
 
 ### Tagek
 bram stoker-díj, horror, misztikus, bűnügyi, tenger, festészet, magyar nyelvű, florida, krimi, regény, szórakoztató irodalom, fantasy, thriller, amerikai szerző, pszicho-thriller, irodalom
@@ -366,10 +366,10 @@ Edgar Freemantle jól menő építési vállalkozó, gazdag, kiegyensúlyozott, 
 
 
 # <a name="id_523">Stephen King: 11/22/63 (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/11_22_63%20%28523%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/11_22_63%20%28523%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/11_22_63%20%28523%29/11_22_63%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/11_22_63%20%28523%29/11_22_63%20-%20Stephen%20King.epub)
 
 ### Tagek
 20. század, időutazás, maine, amerikai történelem, thriller, amnézia, amerikai egyesült államok, magyar nyelvű, regény, férfi főszereplő, 1950-es évek, erőszak, 21. század, amerikai, amerikai szerző, 1960-as évek, misztikus, alternatív történelem, gyilkosság, halál, családon belüli erőszak, felnőtt tartalom, disztópia
@@ -381,10 +381,10 @@ Stephen King most is elemében van, fantáziája korlátlan, szereplői és mili
 
 
 # <a name="id_933">Stephen King: Sherlock Holmes lehetetlen kalandjai (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Sherlock%20Holmes%20lehetetlen%20kalandja%20%28933%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Sherlock%20Holmes%20lehetetlen%20kalandja%20%28933%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Sherlock%20Holmes%20lehetetlen%20kalandja%20%28933%29/Sherlock%20Holmes%20lehetetlen%20kala%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Sherlock%20Holmes%20lehetetlen%20kalandja%20%28933%29/Sherlock%20Holmes%20lehetetlen%20kala%20-%20Stephen%20King.epub)
 
 ### Tagek
 horror, antológia, kanadai szerző, misztikus, novella, magyar nyelvű, krimi, fantasy, brit szerző, angol szerző, amerikai szerző
@@ -396,10 +396,10 @@ Az Ad Astra kiadó e monumentális kötetében a fantasztikus irodalom nagyjaina
 
 
 # <a name="id_932">Stephen King: A hosszú menetelés (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20hosszu%20meneteles%20%28932%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20hosszu%20meneteles%20%28932%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/A%20hosszu%20meneteles%20%28932%29/A%20hosszu%20meneteles%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20hosszu%20meneteles%20%28932%29/A%20hosszu%20meneteles%20-%20Stephen%20King.epub)
 
 ### Tagek
 20. század, amerikai szerző, diktatúra, disztópia, észak-amerika, fiatalkor, gyilkosság, halál, katonaság, kortárs, magyar nyelvű, maine, posztapokaliptikus, regény, túlélés
@@ -410,10 +410,10 @@ Stephen King korai, álnéven írt gyöngyszeme az Éhezők viadalá-hoz hasonl�
 
 
 # <a name="id_555">Stephen King: Az (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Az%20%28555%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Az%20%28555%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Az%20%28555%29/Az%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Az%20%28555%29/Az%20-%20Stephen%20King.epub)
 
 ### Tagek
 20. század, maine, földönkívüliek, gyermek főszereplő, magyar nyelvű, krimi, regény, barátság, british fantasy-díj, gyermekszemszög, horror, misztikus, kortárs, paranormális, amerikai szerző, august derleth-díj, filmadaptáció, felnőtt tartalom, lélektani, pszicho-thriller
@@ -423,10 +423,10 @@ Heten ​voltak, gyerekek – mind a heten a másság számkivetettjei: Bill, a 
 
 
 # <a name="id_1204">Stephen King: Csipkerózsikák (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Csipkerozsikak%20%281204%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Csipkerozsikak%20%281204%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephen%20King/Csipkerozsikak%20%281204%29/Csipkerozsikak%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Csipkerozsikak%20%281204%29/Csipkerozsikak%20-%20Stephen%20King.epub)
 
 ### Tagek
 21. század, álom, amerikai szerző, apokalipszis, börtön, család, disztópia, drog, fantasy, felnőtt tartalom, feminizmus, férfi főszereplő, függőség, gyilkosság, horror, kortárs, magyar nyelvű, misztikus, női főszereplő, nők

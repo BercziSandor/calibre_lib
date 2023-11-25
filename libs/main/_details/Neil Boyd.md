@@ -1,8 +1,8 @@
 # <a name="id_922">Neil Boyd: Egek, mitévő legyek? (1997)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Boyd/Egek%2C%20mitevo%20legyek_%20%28922%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Boyd/Egek%2C%20mitevo%20legyek_%20%28922%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Boyd/Egek%2C%20mitevo%20legyek_%20%28922%29/Egek%2C%20mitevo%20legyek_%20-%20Neil%20Boyd.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Boyd/Egek%2C%20mitevo%20legyek_%20%28922%29/Egek%2C%20mitevo%20legyek_%20-%20Neil%20Boyd.epub)
 
 ### Tagek
 magyar nyelvű, anekdota, angol humor, humoros
@@ -12,10 +12,10 @@ magyar nyelvű, anekdota, angol humor, humoros
 
 
 # <a name="id_923">Neil Boyd: Atyák pácban (1999)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Boyd/Atyak%20pacban%20%28923%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Boyd/Atyak%20pacban%20%28923%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Neil%20Boyd/Atyak%20pacban%20%28923%29/Atyak%20pacban%20-%20Neil%20Boyd.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Boyd/Atyak%20pacban%20%28923%29/Atyak%20pacban%20-%20Neil%20Boyd.epub)
 
 ### Tagek
 magyar nyelvű, humoros, papság, vallás

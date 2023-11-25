@@ -1,8 +1,8 @@
 # <a name="id_7">Gácsi Márta: Kutyaiskola </a>
-<img src="???/raw/main/Gacsi%20Marta/Kutyaiskola%20%287%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gacsi%20Marta/Kutyaiskola%20%287%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[djvu](???/raw/main/Gacsi%20Marta/Kutyaiskola%20%287%29/Kutyaiskola%20-%20Gacsi%20Marta.djvu)
+[djvu](https://github.com/BercziSandor/calibre_lib/raw/main/Gacsi%20Marta/Kutyaiskola%20%287%29/Kutyaiskola%20-%20Gacsi%20Marta.djvu)
 
 ### Tagek
 kutya

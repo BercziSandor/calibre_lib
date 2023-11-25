@@ -1,8 +1,8 @@
 # <a name="id_1420">Csehov, Anton Pavlovics: Három nővér (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Csehov%2C%20Anton%20Pavlovics/Harom%20nover%20%281420%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csehov%2C%20Anton%20Pavlovics/Harom%20nover%20%281420%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csehov%2C%20Anton%20Pavlovics/Harom%20nover%20%281420%29/Harom%20nover%20-%20Csehov%2C%20Anton%20Pavlovics.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csehov%2C%20Anton%20Pavlovics/Harom%20nover%20%281420%29/Harom%20nover%20-%20Csehov%2C%20Anton%20Pavlovics.epub)
 
 ### Tagek
 20. század, dráma (műnem), hangoskönyv, klasszikus, magyar nyelvű, női főszereplő, orosz szerző

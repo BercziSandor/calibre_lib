@@ -1,8 +1,8 @@
 # <a name="id_16">Csernus, Imre: A nő (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Csernus%2C%20Imre/A%20no%20%2816%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csernus%2C%20Imre/A%20no%20%2816%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csernus%2C%20Imre/A%20no%20%2816%29/A%20no%20-%20Csernus%2C%20Imre.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csernus%2C%20Imre/A%20no%20%2816%29/A%20no%20-%20Csernus%2C%20Imre.epub)
 
 ### Tagek
 általános, személyiség, pszichológia, általános lélektan
@@ -12,10 +12,10 @@
 
 
 # <a name="id_378">Csernus, Imre: Felnőtt Húsleves (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Csernus%2C%20Imre/Felnott%20Husleves%20%28378%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csernus%2C%20Imre/Felnott%20Husleves%20%28378%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Csernus%2C%20Imre/Felnott%20Husleves%20%28378%29/Felnott%20Husleves%20-%20Csernus%2C%20Imre.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csernus%2C%20Imre/Felnott%20Husleves%20%28378%29/Felnott%20Husleves%20-%20Csernus%2C%20Imre.epub)
 
 ### Tagek
 szakácskönyv, társas kapcsolatok, életbölcsesség, szociálpszichológia, önfejlesztés

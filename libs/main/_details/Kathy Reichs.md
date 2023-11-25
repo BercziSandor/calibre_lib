@@ -1,8 +1,8 @@
 # <a name="id_157">Kathy Reichs: A holtak beszélnek (Temperance Brennan 1) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kathy%20Reichs/A%20holtak%20beszelnek%20%28157%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kathy%20Reichs/A%20holtak%20beszelnek%20%28157%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kathy%20Reichs/A%20holtak%20beszelnek%20%28157%29/A%20holtak%20beszelnek%20-%20Kathy%20Reichs.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kathy%20Reichs/A%20holtak%20beszelnek%20%28157%29/A%20holtak%20beszelnek%20-%20Kathy%20Reichs.epub)
 
 ### Tagek
 amerikai szerző, antropológia, filmadaptáció, gyilkosság, igazságügyi orvosszakértő, kanada, magyar nyelvű, nyomozás, orvosi krimi, regény, sorozat része, sorozatgyilkosság, kaland, women detectives, detective and mystery stories, brennan; temperance (fictitious character), dr. csont, montréal (québec), szórakoztató irodalom, szépirodalom, thriller, halottkém, krimi, medical examiners (law), akció

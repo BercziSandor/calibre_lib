@@ -1,8 +1,8 @@
 # <a name="id_1219">Philip Pullman: Északi fény (Az Úr Sötét Anyagai 1) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Philip%20Pullman/Eszaki%20feny%20%281219%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Philip%20Pullman/Eszaki%20feny%20%281219%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Philip%20Pullman/Eszaki%20feny%20%281219%29/Eszaki%20feny%20-%20Philip%20Pullman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Philip%20Pullman/Eszaki%20feny%20%281219%29/Eszaki%20feny%20-%20Philip%20Pullman.epub)
 
 ### Tagek
 astrid lindgren-emlékdíj, boszorkány, brit szerző, gyermek főszereplő, mágia, párhuzamos világ, alakváltó, állat, anglia, angol, carnegie-medál, északi-sark, fantasy, filmadaptáció, ifjúsági, kaland, kalandregény, magyar nyelvű, regény, sorozat része, steampunk, tél
@@ -12,10 +12,10 @@ astrid lindgren-emlékdíj, boszorkány, brit szerző, gyermek főszereplő, má
 
 
 # <a name="id_1220">Philip Pullman: A titokzatos kés (Az Úr Sötét Anyagai 2) (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Philip%20Pullman/A%20titokzatos%20kes%20%281220%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Philip%20Pullman/A%20titokzatos%20kes%20%281220%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Philip%20Pullman/A%20titokzatos%20kes%20%281220%29/A%20titokzatos%20kes%20-%20Philip%20Pullman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Philip%20Pullman/A%20titokzatos%20kes%20%281220%29/A%20titokzatos%20kes%20-%20Philip%20Pullman.epub)
 
 ### Tagek
 astrid lindgren-emlékdíj, brit szerző, gyermek főszereplő, tévésorozat-adaptáció, állat, anglia, angol, fantasy, ifjúsági, kaland, kalandregény, magyar nyelvű, portál fantasy, regény, sorozat része, steampunk
@@ -25,10 +25,10 @@ astrid lindgren-emlékdíj, brit szerző, gyermek főszereplő, tévésorozat-ad
 
 
 # <a name="id_1221">Philip Pullman: A borostyán látcső (Az Úr Sötét Anyagai 3) (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Philip%20Pullman/A%20borostyan%20latcso%20%281221%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Philip%20Pullman/A%20borostyan%20latcso%20%281221%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Philip%20Pullman/A%20borostyan%20latcso%20%281221%29/A%20borostyan%20latcso%20-%20Philip%20Pullman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Philip%20Pullman/A%20borostyan%20latcso%20%281221%29/A%20borostyan%20latcso%20-%20Philip%20Pullman.epub)
 
 ### Tagek
 anglia, astrid lindgren-emlékdíj, brit szerző, gyermek főszereplő, angol, costa könyvdíj, fantasy, ifjúsági, kaland, kalandregény, magyar nyelvű, portál fantasy, regény, sorozat része, steampunk

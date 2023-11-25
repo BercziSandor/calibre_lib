@@ -1,5 +1,5 @@
 # <a name="id_1414">Alexandra Fischer-Hunold: Kincsvadász kísértet (Sódervári Sherlock báró 1) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Alexandra%20Fischer-Hunold/Kincsvadasz%20kisertet%20%281414%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexandra%20Fischer-Hunold/Kincsvadasz%20kisertet%20%281414%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 gyermekkönyv iskolásoknak, illusztrált, kaland, kortárs, krimi, magyar nyelvű, német szerző, sorozat része
@@ -10,7 +10,7 @@ gyermekkönyv iskolásoknak, illusztrált, kaland, kortárs, krimi, magyar nyelv
 
 
 # <a name="id_1415">Alexandra Fischer-Hunold: Szörnyűséges születésnap (Sódervári Sherlock báró 2) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Alexandra%20Fischer-Hunold/Szornyuseges%20szuletesnap%20%281415%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexandra%20Fischer-Hunold/Szornyuseges%20szuletesnap%20%281415%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 gyermekkönyv iskolásoknak, illusztrált, kaland, kortárs, krimi, magyar nyelvű, német szerző, sorozat része
@@ -21,7 +21,7 @@ gyermekkönyv iskolásoknak, illusztrált, kaland, kortárs, krimi, magyar nyelv
 
 
 # <a name="id_1416">Alexandra Fischer-Hunold: A dilinyós tűzbarát (Sódervári Sherlock báró 3) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Alexandra%20Fischer-Hunold/A%20dilinyos%20tuzbarat%20%281416%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexandra%20Fischer-Hunold/A%20dilinyos%20tuzbarat%20%281416%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 gyermekkönyv iskolásoknak, illusztrált, kaland, kortárs, krimi, magyar nyelvű, német szerző, sorozat része
@@ -32,7 +32,7 @@ gyermekkönyv iskolásoknak, illusztrált, kaland, kortárs, krimi, magyar nyelv
 
 
 # <a name="id_1417">Alexandra Fischer-Hunold: Malaclopás a Kedvenckertben (Sódervári Sherlock báró 4) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Alexandra%20Fischer-Hunold/Malaclopas%20a%20Kedvenckertben%20%281417%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexandra%20Fischer-Hunold/Malaclopas%20a%20Kedvenckertben%20%281417%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 gyermekkönyv iskolásoknak, illusztrált, kaland, kortárs, krimi, magyar nyelvű, német szerző, sorozat része

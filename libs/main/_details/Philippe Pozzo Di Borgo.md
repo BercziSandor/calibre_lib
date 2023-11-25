@@ -1,8 +1,8 @@
 # <a name="id_1267">Philippe Pozzo Di Borgo: Életrevalók (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Philippe%20Pozzo%20Di%20Borgo/Eletrevalok%20%281267%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Philippe%20Pozzo%20Di%20Borgo/Eletrevalok%20%281267%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Philippe%20Pozzo%20Di%20Borgo/Eletrevalok%20%281267%29/Eletrevalok%20-%20Philippe%20Pozzo%20Di%20Borgo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Philippe%20Pozzo%20Di%20Borgo/Eletrevalok%20%281267%29/Eletrevalok%20-%20Philippe%20Pozzo%20Di%20Borgo.epub)
 
 ### Tagek
 barátság, betegség, férfi főszereplő, filmadaptáció, francia, franciaország, igaz történet alapján, jelen időben írt, kortárs, magyar nyelvű, marokkó, mozgássérült, önéletrajz, regény, tunéziai szerző

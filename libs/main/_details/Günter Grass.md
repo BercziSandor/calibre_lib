@@ -1,8 +1,8 @@
 # <a name="id_358">Günter Grass: Ráklépésben (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Gunter%20Grass/Raklepesben%20%28358%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gunter%20Grass/Raklepesben%20%28358%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Gunter%20Grass/Raklepesben%20%28358%29/Raklepesben%20-%20Gunter%20Grass.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gunter%20Grass/Raklepesben%20%28358%29/Raklepesben%20-%20Gunter%20Grass.epub)
 
 ### Tagek
 1940-es évek, 2. világháború, 20. század, 21. század, dokumentumregény, hajó, igaz történet alapján, irodalmi nobel-díj, magyar nyelvű, német szerző, regény, történelmi dokumentum, világháború

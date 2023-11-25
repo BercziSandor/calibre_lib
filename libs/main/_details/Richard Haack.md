@@ -1,10 +1,10 @@
 # <a name="id_377">Richard Haack: Kémek könyve (1994)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Haack%2C%20Richard/Kemek%20konyve%20%28377%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Haack%2C%20Richard/Kemek%20konyve%20%28377%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Haack%2C%20Richard/Kemek%20konyve%20%28377%29/Kemek%20konyve%20-%20Haack%2C%20Richard%20%28Case%20Conflict%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Haack%2C%20Richard/Kemek%20konyve%20%28377%29/Kemek%20konyve%20-%20Haack%2C%20Richard.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Haack%2C%20Richard/Kemek%20konyve%20%28377%29/Kemek%20konyve%20-%20Richard%20Haack.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Haack%2C%20Richard/Kemek%20konyve%20%28377%29/Kemek%20konyve%20-%20Haack%2C%20Richard%20%28Case%20Conflict%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Haack%2C%20Richard/Kemek%20konyve%20%28377%29/Kemek%20konyve%20-%20Haack%2C%20Richard.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Haack%2C%20Richard/Kemek%20konyve%20%28377%29/Kemek%20konyve%20-%20Richard%20Haack.epub)
 
 ### Tagek
 magyar nyelvű, magyar szerző, titkosszolgálat, megtörtént bűnügyek, szépirodalom, dokumentumregények

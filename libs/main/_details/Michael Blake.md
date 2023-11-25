@@ -1,8 +1,8 @@
 # <a name="id_721">Michael Blake: Farkasokkal táncoló (1993)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Blake/Farkasokkal%20tancolo%20%28721%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Blake/Farkasokkal%20tancolo%20%28721%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Michael%20Blake/Farkasokkal%20tancolo%20%28721%29/Farkasokkal%20tancolo%20-%20Michael%20Blake.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Blake/Farkasokkal%20tancolo%20%28721%29/Farkasokkal%20tancolo%20-%20Michael%20Blake.epub)
 
 ### Tagek
 19. század, férfi főszereplő, indián kultúrák, kaland, katonaság, magyar nyelvű, regény, amerikai, filmadaptáció, indián, vadnyugat, western

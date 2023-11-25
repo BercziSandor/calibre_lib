@@ -1,8 +1,8 @@
 # <a name="id_1490">Søren Sveistrup: A gesztenyeember (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Soren%20Sveistrup/A%20gesztenyeember%20%281490%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Soren%20Sveistrup/A%20gesztenyeember%20%281490%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Soren%20Sveistrup/A%20gesztenyeember%20%281490%29/A%20gesztenyeember%20-%20Soren%20Sveistrup.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Soren%20Sveistrup/A%20gesztenyeember%20%281490%29/A%20gesztenyeember%20-%20Soren%20Sveistrup.epub)
 
 ### Tagek
 krimi, magyar nyelvű, nyomozás, regény, skandináv, thriller

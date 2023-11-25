@@ -1,5 +1,5 @@
 # <a name="id_883">G. M.: Tesco titok (Tesco titok 1) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/G.%20M_/Tesco%20titok%20%28883%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/G.%20M_/Tesco%20titok%20%28883%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 21. század, igaz történet alapján, kereskedelem, marketing, riport
@@ -9,7 +9,7 @@
 
 
 # <a name="id_884">G. M.: Tesco titok 2. (Tesco titok 2) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/G.%20M_/Tesco%20titok%202_%20%28884%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/G.%20M_/Tesco%20titok%202_%20%28884%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 21. század, igaz történet alapján, kereskedelem, marketing, riport

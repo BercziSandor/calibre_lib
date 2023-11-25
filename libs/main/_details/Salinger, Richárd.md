@@ -1,8 +1,8 @@
 # <a name="id_522">Salinger, Richárd: Omyno (Omyno 1) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Salinger%2C%20Richard/Omyno%20%28522%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Salinger%2C%20Richard/Omyno%20%28522%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Salinger%2C%20Richard/Omyno%20%28522%29/Omyno%20-%20Salinger%2C%20Richard.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Salinger%2C%20Richard/Omyno%20%28522%29/Omyno%20-%20Salinger%2C%20Richard.epub)
 
 ### Tagek
 budapest, ezotéria, fejlődésregény, hangoskönyv, humoros, kortárs, magyar nyelvű, magyar szerző, magyarország, regény, sorozat része

@@ -1,8 +1,8 @@
 # <a name="id_622">Joanne Fluke: Áfonyás muffin és gyilkosság (Hannah Swensen titokzatos esetei 3) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Afonyas%20muffin%20es%20gyilkossag%20%28622%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Fluke/Afonyas%20muffin%20es%20gyilkossag%20%28622%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Afonyas%20muffin%20es%20gyilkossag%20%28622%29/Afonyas%20muffin%20es%20gyilkossag%20-%20Joanne%20Fluke.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Fluke/Afonyas%20muffin%20es%20gyilkossag%20%28622%29/Afonyas%20muffin%20es%20gyilkossag%20-%20Joanne%20Fluke.epub)
 
 ### Tagek
 sütemények, magyar nyelvű, mystery & crime, regény, recept, minnesota, sorozat része, édesség, krimi, gasztroregény, chick lit, amerikai szerző, amerikai egyesült államok
@@ -15,10 +15,10 @@ A sok fordulat és izgalom között már-már alig jut idő a sütésre, de Hann
 
 
 # <a name="id_623">Joanne Fluke: Pikáns meglepetés és gyilkosság (Hannah Swensen titokzatos esetei 4) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Pikans%20meglepetes%20es%20gyilkossag%20%28623%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Fluke/Pikans%20meglepetes%20es%20gyilkossag%20%28623%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Pikans%20meglepetes%20es%20gyilkossag%20%28623%29/Pikans%20meglepetes%20es%20gyilkossag%20-%20Joanne%20Fluke.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Fluke/Pikans%20meglepetes%20es%20gyilkossag%20%28623%29/Pikans%20meglepetes%20es%20gyilkossag%20-%20Joanne%20Fluke.epub)
 
 ### Tagek
 sütemények, magyar nyelvű, gyilkosság, mystery & crime, nyár, recept, amerikai szerző, regény, sorozat része, krimi, sütés, chick lit, gasztroregény
@@ -30,10 +30,10 @@ A nyomozási versenyfutás pedig a legnagyobb amerikai ünnep, a július negyedi
 
 
 # <a name="id_624">Joanne Fluke: Csokis tündértorta és gyilkosság (Hannah Swensen titokzatos esetei 5) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Csokis%20tundertorta%20es%20gyilkossag%20%28624%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Fluke/Csokis%20tundertorta%20es%20gyilkossag%20%28624%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Csokis%20tundertorta%20es%20gyilkossag%20%28624%29/Csokis%20tundertorta%20es%20gyilkossa%20-%20Joanne%20Fluke.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Fluke/Csokis%20tundertorta%20es%20gyilkossag%20%28624%29/Csokis%20tundertorta%20es%20gyilkossa%20-%20Joanne%20Fluke.epub)
 
 ### Tagek
 sütemények, magyar nyelvű, gyilkosság, mystery & crime, regény, recept, amerikai szerző, sorozat része, krimi, chick lit, gasztroregény
@@ -44,10 +44,10 @@ Hannah-nak most mindennél fontosabb, hogy tisztázza sógorát és kiderítse, 
 
 
 # <a name="id_625">Joanne Fluke: Karácsonyi habcsók és gyilkosság (Hannah Swensen titokzatos esetei 6) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Karacsonyi%20habcsok%20es%20gyilkossag%20%28625%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Fluke/Karacsonyi%20habcsok%20es%20gyilkossag%20%28625%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Joanne%20Fluke/Karacsonyi%20habcsok%20es%20gyilkossag%20%28625%29/Karacsonyi%20habcsok%20es%20gyilkossa%20-%20Joanne%20Fluke.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Fluke/Karacsonyi%20habcsok%20es%20gyilkossag%20%28625%29/Karacsonyi%20habcsok%20es%20gyilkossa%20-%20Joanne%20Fluke.epub)
 
 ### Tagek
 sütemények, magyar nyelvű, gyilkosság, mystery & crime, regény, recept, amerikai szerző, sorozat része, karácsony, krimi, chick lit, gasztroregény

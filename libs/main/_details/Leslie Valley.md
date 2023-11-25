@@ -1,8 +1,8 @@
 # <a name="id_628">Leslie Valley: Tökéletes alibi (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Leslie%20Valley/Tokeletes%20alibi%20%28628%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leslie%20Valley/Tokeletes%20alibi%20%28628%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Leslie%20Valley/Tokeletes%20alibi%20%28628%29/Tokeletes%20alibi%20-%20Leslie%20Valley.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Leslie%20Valley/Tokeletes%20alibi%20%28628%29/Tokeletes%20alibi%20-%20Leslie%20Valley.epub)
 
 ### Tagek
 magyar nyelvű, magyar szerző, krimi

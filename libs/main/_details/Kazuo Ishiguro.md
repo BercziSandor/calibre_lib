@@ -1,8 +1,8 @@
 # <a name="id_158">Kazuo Ishiguro: Ne engedj el… (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kazuo%20Ishiguro/Ne%20engedj%20el__%20%28158%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kazuo%20Ishiguro/Ne%20engedj%20el__%20%28158%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kazuo%20Ishiguro/Ne%20engedj%20el__%20%28158%29/Ne%20engedj%20el__%20-%20Kazuo%20Ishiguro.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kazuo%20Ishiguro/Ne%20engedj%20el__%20%28158%29/Ne%20engedj%20el__%20-%20Kazuo%20Ishiguro.epub)
 
 ### Tagek
 1001 könyv listán szerepel, 1990-es évek, 20. század, alternatív történelem, anglia, angol szerző, arthur c. clarke-díj, barátság, disztópia, emberi sorsok, fejlődésregény, filmadaptáció, irodalmi nobel-díj, japán szerző, kortárs, magyar nyelvű, női főszereplő, sci-fi, regény, irodalom, szépirodalom

@@ -1,8 +1,8 @@
 # <a name="id_1731">Yrsa Sigurðardóttir: Gének (Freyja & Huldar 1) (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/Genek%20%281731%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yrsa%20Sigurdardottir/Genek%20%281731%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/Genek%20%281731%29/Genek%20-%20Yrsa%20Sigurdardottir.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yrsa%20Sigurdardottir/Genek%20%281731%29/Genek%20-%20Yrsa%20Sigurdardottir.epub)
 
 ### Tagek
 skandináv, krimi
@@ -12,10 +12,10 @@ skandináv, krimi
 
 
 # <a name="id_1732">Yrsa Sigurðardóttir: Örvény (Freyja & Huldar 2) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/Orveny%20%281732%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yrsa%20Sigurdardottir/Orveny%20%281732%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/Orveny%20%281732%29/Orveny%20-%20Yrsa%20Sigurdardottir.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yrsa%20Sigurdardottir/Orveny%20%281732%29/Orveny%20-%20Yrsa%20Sigurdardottir.epub)
 
 ### Tagek
 magyar nyelvű, skandináv, regény, krimi
@@ -25,10 +25,10 @@ magyar nyelvű, skandináv, regény, krimi
 
 
 # <a name="id_1728">Yrsa Sigurðardóttir: Exit (Freyja & Huldar 3) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/Exit%20%281728%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yrsa%20Sigurdardottir/Exit%20%281728%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/Exit%20%281728%29/Exit%20-%20Yrsa%20Sigurdardottir.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yrsa%20Sigurdardottir/Exit%20%281728%29/Exit%20-%20Yrsa%20Sigurdardottir.epub)
 
 ### Tagek
 gyilkosság, izlandi szerző, krimi, magyar nyelvű, nyomozás, regény, skandináv, sorozat része
@@ -41,10 +41,10 @@ gyilkosság, izlandi szerző, krimi, magyar nyelvű, nyomozás, regény, skandin
 
 
 # <a name="id_1733">Yrsa Sigurðardóttir: Vesztőhely (Freyja & Huldar 4) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/Vesztohely%20%281733%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yrsa%20Sigurdardottir/Vesztohely%20%281733%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/Vesztohely%20%281733%29/Vesztohely%20-%20Yrsa%20Sigurdardottir.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yrsa%20Sigurdardottir/Vesztohely%20%281733%29/Vesztohely%20-%20Yrsa%20Sigurdardottir.epub)
 
 ### Tagek
 erőszak, gyilkosság, izland, izlandi szerző, krimi, magyar nyelvű, nyomozás, sorozat része, thriller, skandináv
@@ -55,10 +55,10 @@ erőszak, gyilkosság, izland, izlandi szerző, krimi, magyar nyelvű, nyomozás
 
 
 # <a name="id_1729">Yrsa Sigurðardóttir: A baba (Freyja & Huldar 5) (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/A%20baba%20%281729%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yrsa%20Sigurdardottir/A%20baba%20%281729%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/A%20baba%20%281729%29/A%20baba%20-%20Yrsa%20Sigurdardottir.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yrsa%20Sigurdardottir/A%20baba%20%281729%29/A%20baba%20-%20Yrsa%20Sigurdardottir.epub)
 
 ### Tagek
 crime, mystery, thriller, horror, skandináv, krimi
@@ -71,10 +71,10 @@ crime, mystery, thriller, horror, skandináv, krimi
 
 
 # <a name="id_1730">Yrsa Sigurðardóttir: Csend (Freyja & Huldar 6) (2023)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/Csend%20%281730%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yrsa%20Sigurdardottir/Csend%20%281730%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/Csend%20%281730%29/Csend%20-%20Yrsa%20Sigurdardottir.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yrsa%20Sigurdardottir/Csend%20%281730%29/Csend%20-%20Yrsa%20Sigurdardottir.epub)
 
 ### Tagek
 skandináv, krimi
@@ -88,19 +88,19 @@ A rendőrség néhány hónappal ezután egy nő megcsonkított, fej nélküli h
 
 
 # <a name="id_1734">Yrsa Sigurðardóttir: Az utolsó rítus </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/Az%20utolso%20ritus%20%281734%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yrsa%20Sigurdardottir/Az%20utolso%20ritus%20%281734%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/Az%20utolso%20ritus%20%281734%29/Az%20utolso%20ritus%20-%20Yrsa%20Sigurdardottir.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yrsa%20Sigurdardottir/Az%20utolso%20ritus%20%281734%29/Az%20utolso%20ritus%20-%20Yrsa%20Sigurdardottir.epub)
 
 ### Tagek
 skandináv, krimi
 
 # <a name="id_1727">Yrsa Sigurðardóttir: Emlékszem ​rád (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/Emlekszem%20%20rad%20%281727%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yrsa%20Sigurdardottir/Emlekszem%20%20rad%20%281727%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Yrsa%20Sigurdardottir/Emlekszem%20%20rad%20%281727%29/Emlekszem%20%20rad%20-%20Yrsa%20Sigurdardottir.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yrsa%20Sigurdardottir/Emlekszem%20%20rad%20%281727%29/Emlekszem%20%20rad%20-%20Yrsa%20Sigurdardottir.epub)
 
 ### Tagek
 izlandi, halál, skandináv, magyar nyelvű, kortárs, krimi

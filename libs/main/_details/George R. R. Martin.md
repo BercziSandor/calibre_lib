@@ -1,9 +1,9 @@
 # <a name="id_420">George R. R. Martin: Trónok harca (A tűz és jég dala 1) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Tronok%20harca%20%28420%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Tronok%20harca%20%28420%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Tronok%20harca%20%28420%29/Tronok%20harca%20-%20George%20R.%20R.%20Martin.epub) 
- [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Tronok%20harca%20%28420%29/Tronok%20harca%20-%20George%20R.%20R.%20Martin.rtf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Tronok%20harca%20%28420%29/Tronok%20harca%20-%20George%20R.%20R.%20Martin.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Tronok%20harca%20%28420%29/Tronok%20harca%20-%20George%20R.%20R.%20Martin.rtf)
 
 ### Tagek
 fantasy, general, fiction
@@ -15,11 +15,11 @@ Martin legnagyobb erőssége hogy meg tudja újítani, élettel tölti fel azt a
 
 
 # <a name="id_418">George R. R. Martin: Királyok csatája (A tűz és jég dala 2) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Kiralyok%20csataja%20%28418%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Kiralyok%20csataja%20%28418%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Kiralyok%20csataja%20%28418%29/Kiralyok%20csataja%20-%20George%20R.%20R.%20Martin.epub) 
- [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Kiralyok%20csataja%20%28418%29/Kiralyok%20csataja%20-%20George%20R.%20R.%20Martin.rtf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Kiralyok%20csataja%20%28418%29/Kiralyok%20csataja%20-%20George%20R.%20R.%20Martin.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Kiralyok%20csataja%20%28418%29/Kiralyok%20csataja%20-%20George%20R.%20R.%20Martin.rtf)
 
 ### Tagek
 fantasy, boszorkány, halál, kortárs, gyilkosság, erőszak, kalandregény, lovag, kaland, háború, drámai cselekmény, filmadaptáció, dark fantasy, locus-díj, epikus fantasy, felnőtt tartalom, grimdark, antihős, amerikai szerző, alkímia
@@ -32,11 +32,11 @@ A Királyok csatája merész, ötletes és bámulatos képzelőerővel megalkoto
 
 
 # <a name="id_424">George R. R. Martin: Kardok vihara (A tűz és jég dala 3) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Kardok%20vihara%20%28424%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Kardok%20vihara%20%28424%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Kardok%20vihara%20%28424%29/Kardok%20vihara%20-%20George%20R.%20R.%20Martin.epub) 
- [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Kardok%20vihara%20%28424%29/Kardok%20vihara%20-%20George%20R.%20R.%20Martin.rtf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Kardok%20vihara%20%28424%29/Kardok%20vihara%20-%20George%20R.%20R.%20Martin.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Kardok%20vihara%20%28424%29/Kardok%20vihara%20-%20George%20R.%20R.%20Martin.rtf)
 
 ### Tagek
 politika, fantasy, boszorkány, halál, kortárs, gyilkosság, szépirodalom, erőszak, lovag, regény, mágia, kaland, háború, drámai cselekmény, magyar nyelvű, filmadaptáció, dark fantasy, szórakoztató irodalom, locus-díj, grimdark, antihős, amerikai szerző
@@ -49,10 +49,10 @@ Ahogy a szembenálló erők a végső, gigászi összecsapásra készülnek, a c
 
 
 # <a name="id_419">George R. R. Martin: Varjak lakomája (A tűz és jég dala 4) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Varjak%20lakomaja%20%28419%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Varjak%20lakomaja%20%28419%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Varjak%20lakomaja%20%28419%29/Varjak%20lakomaja%20-%20George%20R.%20R.%20Martin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Varjak%20lakomaja%20%28419%29/Varjak%20lakomaja%20-%20George%20R.%20R.%20Martin.epub)
 
 ### Tagek
 szépirodalom, fantasy, szórakoztató irodalom, general, fiction
@@ -62,10 +62,10 @@ A ​XXI. század által generált digitalizáció, a modern éra által minden 
 
 
 # <a name="id_898">George R. R. Martin: Sárkányok tánca (A tűz és jég dala 5) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Sarkanyok%20tanca%20%28898%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Sarkanyok%20tanca%20%28898%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/George%20R.%20R.%20Martin/Sarkanyok%20tanca%20%28898%29/Sarkanyok%20tanca%20-%20George%20R.%20R.%20Martin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Sarkanyok%20tanca%20%28898%29/Sarkanyok%20tanca%20-%20George%20R.%20R.%20Martin.epub)
 
 ### Tagek
 politika, fantasy, boszorkány, kortárs, low fantasy, lovag, regény, high fantasy, mágia, kaland, háború, sárkány, 21. század, amerikai, filmadaptáció, fiction, general, locus-díj, antihős, középkor

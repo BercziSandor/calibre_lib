@@ -1,8 +1,8 @@
 # <a name="id_482">Dmitry Glukhovsky: Metró 2033 (Metró 2033 1) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dmitry%20Glukhovsky/Metro%202033%20%28482%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dmitry%20Glukhovsky/Metro%202033%20%28482%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dmitry%20Glukhovsky/Metro%202033%20%28482%29/Metro%202033%20-%20Dmitry%20Glukhovsky.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dmitry%20Glukhovsky/Metro%202033%20%28482%29/Metro%202033%20-%20Dmitry%20Glukhovsky.epub)
 
 ### Tagek
 21. század, apokalipszis, atomháború, disztópia, fegyverek, férfi főszereplő, horror, kortárs, magyar nyelvű, metró, moszkva, orosz szerző, oroszország, posztapokaliptikus, regény, sorozat része, thriller, túlélés, vallás, irodalom, szórakoztató irodalom, sci-fi
@@ -13,11 +13,11 @@
 
 
 # <a name="id_355">Dmitry Glukhovsky: Metró 2034 (Metró 2033 2) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Dmitry%20Glukhovsky/Metro%202034%20%28355%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dmitry%20Glukhovsky/Metro%202034%20%28355%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Dmitry%20Glukhovsky/Metro%202034%20%28355%29/Metro%202034%20-%20Dmitry%20Glukhovsky.epub) 
- [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/Dmitry%20Glukhovsky/Metro%202034%20%28355%29/Metro%202034%20-%20Dmitry%20Glukhovsky.rtf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dmitry%20Glukhovsky/Metro%202034%20%28355%29/Metro%202034%20-%20Dmitry%20Glukhovsky.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dmitry%20Glukhovsky/Metro%202034%20%28355%29/Metro%202034%20-%20Dmitry%20Glukhovsky.rtf)
 
 ### Tagek
 21. század, apokalipszis, atomháború, disztópia, erőszak, fegyverek, halál, horror, kortárs, magyar nyelvű, metró, moszkva, orosz szerző, oroszország, posztapokaliptikus, regény, sci-fi, sorozat része, thriller, váltott szemszög, science fiction

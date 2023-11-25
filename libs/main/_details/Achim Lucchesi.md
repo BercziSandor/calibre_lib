@@ -1,9 +1,9 @@
 # <a name="id_605">Achim Lucchesi: "Die Bombe is' eh im Koffer" - Geschichten aus dem Handgepäck </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Achim%20Lucchesi/_Die%20Bombe%20is%27%20eh%20im%20Koffer_%20-%20Gesc%20%28605%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Achim%20Lucchesi/_Die%20Bombe%20is%27%20eh%20im%20Koffer_%20-%20Gesc%20%28605%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Achim%20Lucchesi/_Die%20Bombe%20is%27%20eh%20im%20Koffer_%20-%20Gesc%20%28605%29/_Die%20Bombe%20is%27%20eh%20im%20Koffer_%20-%20%20-%20Achim%20Lucchesi.pdf) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Achim%20Lucchesi/_Die%20Bombe%20is%27%20eh%20im%20Koffer_%20-%20Gesc%20%28605%29/_Die%20Bombe%20is%27%20eh%20im%20Koffer_%20-%20-%20Achim%20Lucchesi.epub)
+[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Achim%20Lucchesi/_Die%20Bombe%20is%27%20eh%20im%20Koffer_%20-%20Gesc%20%28605%29/_Die%20Bombe%20is%27%20eh%20im%20Koffer_%20-%20%20-%20Achim%20Lucchesi.pdf) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Achim%20Lucchesi/_Die%20Bombe%20is%27%20eh%20im%20Koffer_%20-%20Gesc%20%28605%29/_Die%20Bombe%20is%27%20eh%20im%20Koffer_%20-%20-%20Achim%20Lucchesi.epub)
 
 ### Tagek
 humor

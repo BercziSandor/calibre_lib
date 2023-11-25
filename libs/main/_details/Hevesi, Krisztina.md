@@ -1,8 +1,8 @@
 # <a name="id_986">Hevesi, Krisztina: Szextrém (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Hevesi%2C%20Krisztina/Szextrem%20%28986%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hevesi%2C%20Krisztina/Szextrem%20%28986%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Hevesi%2C%20Krisztina/Szextrem%20%28986%29/Szextrem%20-%20Hevesi%2C%20Krisztina.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hevesi%2C%20Krisztina/Szextrem%20%28986%29/Szextrem%20-%20Hevesi%2C%20Krisztina.epub)
 
 ### Tagek
 ismeretterjesztő, kortárs, magyar nyelvű, magyar szerző, pszichológia, szexológia, szexuális perverzió, szexuálpszichológia, tudományos, társ. tudományok

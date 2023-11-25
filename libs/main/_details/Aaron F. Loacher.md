@@ -1,8 +1,8 @@
 # <a name="id_999">Aaron F. Loacher: Időjárőr (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Aaron%20F.%20Loacher/Idojaror%20%28999%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Aaron%20F.%20Loacher/Idojaror%20%28999%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Aaron%20F.%20Loacher/Idojaror%20%28999%29/Idojaror%20-%20Aaron%20F.%20Loacher.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Aaron%20F.%20Loacher/Idojaror%20%28999%29/Idojaror%20-%20Aaron%20F.%20Loacher.epub)
 
 ### Tagek
 magyar nyelvű, magyar szerző, időutazás, sci-fi

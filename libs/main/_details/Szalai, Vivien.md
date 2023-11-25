@@ -1,8 +1,8 @@
 # <a name="id_407">Szalai, Vivien: Stohl – Őszintén (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Szalai%2C%20Vivien/Stohl%20-%20Oszinten%20%28407%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szalai%2C%20Vivien/Stohl%20-%20Oszinten%20%28407%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Szalai%2C%20Vivien/Stohl%20-%20Oszinten%20%28407%29/Stohl%20-%20Oszinten%20-%20Szalai%2C%20Vivien.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szalai%2C%20Vivien/Stohl%20-%20Oszinten%20%28407%29/Stohl%20-%20Oszinten%20-%20Szalai%2C%20Vivien.epub)
 
 ### Tagek
 bulvár, celeb, életrajz, interjú, magyar nyelvű, magyar szerző, magyarország, színész

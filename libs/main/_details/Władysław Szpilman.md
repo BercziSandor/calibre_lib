@@ -1,8 +1,8 @@
 # <a name="id_170">Władysław Szpilman: A zongorista (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Wladyslaw%20Szpilman/A%20zongorista%20%28170%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Wladyslaw%20Szpilman/A%20zongorista%20%28170%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Wladyslaw%20Szpilman/A%20zongorista%20%28170%29/A%20zongorista%20-%20Wladyslaw%20Szpilman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Wladyslaw%20Szpilman/A%20zongorista%20%28170%29/A%20zongorista%20-%20Wladyslaw%20Szpilman.epub)
 
 ### Tagek
 2. világháború, 20. század, cd/dvd melléklettel, férfi főszereplő, filmadaptáció, holokauszt, lengyel szerző, magyar nyelvű, memoár, történelem, zene, zsidó, zsidóság

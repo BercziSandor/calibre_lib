@@ -1,5 +1,5 @@
 # <a name="id_1200">Kristó Nagy, István: Bölcsességek könyve I-II. – Aforizmák, szállóigék (Bölcsességek könyve 1) (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kristo%20Nagy%2C%20Istvan/Bolcsessegek%20konyve%20I-II.%20-%20Aforizm%20%281200%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kristo%20Nagy%2C%20Istvan/Bolcsessegek%20konyve%20I-II.%20-%20Aforizm%20%281200%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 aforizma, bölcsesség, magyar, magyar nyelvű
@@ -10,7 +10,7 @@ aforizma, bölcsesség, magyar, magyar nyelvű
 
 
 # <a name="id_1201">Kristó Nagy, István: Bölcsességek könyve I-II. – Aforizmák, szállóigék (Bölcsességek könyve 2) (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kristo%20Nagy%2C%20Istvan/Bolcsessegek%20konyve%20I-II.%20-%20Aforizm%20%281201%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kristo%20Nagy%2C%20Istvan/Bolcsessegek%20konyve%20I-II.%20-%20Aforizm%20%281201%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 aforizma, bölcsesség, magyar, magyar nyelvű

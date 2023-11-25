@@ -1,8 +1,8 @@
 # <a name="id_937">Mark Twain: Élet a Mississippin (1971)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Mark%20Twain/Elet%20a%20Mississippin%20%28937%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mark%20Twain/Elet%20a%20Mississippin%20%28937%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mark%20Twain/Elet%20a%20Mississippin%20%28937%29/Elet%20a%20Mississippin%20-%20Mark%20Twain.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mark%20Twain/Elet%20a%20Mississippin%20%28937%29/Elet%20a%20Mississippin%20-%20Mark%20Twain.epub)
 
 ### Tagek
 amerikai polgárháború, amerikai szerző, magyar nyelvű, memoár, történelem, útleírás, 19. század, amerikai, amerikai egyesült államok, amerikai történelem, hajózás, mississippi, regény
@@ -13,10 +13,10 @@ amerikai polgárháború, amerikai szerző, magyar nyelvű, memoár, történele
 
 
 # <a name="id_936">Mark Twain: Megszelídítem a kerékpárt (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Mark%20Twain/Megszeliditem%20a%20kerekpart%20%28936%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mark%20Twain/Megszeliditem%20a%20kerekpart%20%28936%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mark%20Twain/Megszeliditem%20a%20kerekpart%20%28936%29/Megszeliditem%20a%20kerekpart%20-%20Mark%20Twain.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mark%20Twain/Megszeliditem%20a%20kerekpart%20%28936%29/Megszeliditem%20a%20kerekpart%20-%20Mark%20Twain.epub)
 
 ### Tagek
 amerikai szerző, magyar nyelvű, 19. század, amerikai, groteszk, humoreszk, humoros, karcolat, kerékpár, novella, paródia, próza, szatíra, válogatás

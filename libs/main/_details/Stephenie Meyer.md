@@ -1,14 +1,14 @@
 # <a name="id_1213">Stephenie Meyer: Alkonyat (Twilight saga </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephenie%20Meyer/Alkonyat%20%281213%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephenie%20Meyer/Alkonyat%20%281213%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephenie%20Meyer/Alkonyat%20%281213%29/Alkonyat%20-%20Stephenie%20Meyer.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephenie%20Meyer/Alkonyat%20%281213%29/Alkonyat%20-%20Stephenie%20Meyer.epub)
 
 # <a name="id_795">Stephenie Meyer: New Moon – Újhold (Twilight saga 1) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephenie%20Meyer/New%20Moon%20-%20Ujhold%20%28795%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephenie%20Meyer/New%20Moon%20-%20Ujhold%20%28795%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephenie%20Meyer/New%20Moon%20-%20Ujhold%20%28795%29/New%20Moon%20-%20Ujhold%20-%20Stephenie%20Meyer.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephenie%20Meyer/New%20Moon%20-%20Ujhold%20%28795%29/New%20Moon%20-%20Ujhold%20-%20Stephenie%20Meyer.epub)
 
 ### Tagek
 21. század, amerikai egyesült államok, amerikai szerző, énregény, fantasy, filmadaptáció, ifjúsági, iskola, kisváros, kortárs, középiskola, magyar nyelvű, női főszereplő, olaszország, regény, romantikus, sorozat része, szeretet, titkos társaságok, urban fantasy
@@ -19,10 +19,10 @@
 
 
 # <a name="id_794">Stephenie Meyer: Eclipse – Napfogyatkozás (Twilight saga 2) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephenie%20Meyer/Eclipse%20-%20Napfogyatkozas%20%28794%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephenie%20Meyer/Eclipse%20-%20Napfogyatkozas%20%28794%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephenie%20Meyer/Eclipse%20-%20Napfogyatkozas%20%28794%29/Eclipse%20-%20Napfogyatkozas%20-%20Stephenie%20Meyer.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephenie%20Meyer/Eclipse%20-%20Napfogyatkozas%20%28794%29/Eclipse%20-%20Napfogyatkozas%20-%20Stephenie%20Meyer.epub)
 
 ### Tagek
 21. század, alakváltó, amerikai egyesült államok, amerikai szerző, barátság, énregény, fantasy, filmadaptáció, ifjúsági, iskola, kortárs, középiskola, magyar nyelvű, női főszereplő, regény, romantikus, seattle, sorozat része, urban fantasy, vámpír
@@ -33,10 +33,10 @@
 
 
 # <a name="id_793">Stephenie Meyer: Breaking Dawn – Hajnalhasadás (Twilight saga 3) (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephenie%20Meyer/Breaking%20Dawn%20-%20Hajnalhasadas%20%28793%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephenie%20Meyer/Breaking%20Dawn%20-%20Hajnalhasadas%20%28793%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephenie%20Meyer/Breaking%20Dawn%20-%20Hajnalhasadas%20%28793%29/Breaking%20Dawn%20-%20Hajnalhasadas%20-%20Stephenie%20Meyer.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephenie%20Meyer/Breaking%20Dawn%20-%20Hajnalhasadas%20%28793%29/Breaking%20Dawn%20-%20Hajnalhasadas%20-%20Stephenie%20Meyer.epub)
 
 ### Tagek
 2000-es évek, 21. század, alakváltó, amerikai egyesült államok, amerikai szerző, anyaság, barátság, énregény, fantasy, filmadaptáció, ifjúsági, iskola, kortárs, középiskola, magyar nyelvű, női főszereplő, regény, romantikus, seattle, sorozat része
@@ -48,10 +48,10 @@ A Twilight saga legújabb döbbenetes, türelmetlenül várt kötetében, a Hajn
 
 
 # <a name="id_163">Stephenie Meyer: A burok (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Stephenie%20Meyer/A%20burok%20%28163%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephenie%20Meyer/A%20burok%20%28163%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Stephenie%20Meyer/A%20burok%20%28163%29/A%20burok%20-%20Stephenie%20Meyer.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephenie%20Meyer/A%20burok%20%28163%29/A%20burok%20-%20Stephenie%20Meyer.epub)
 
 ### Tagek
 21. század, amerikai szerző, angol, arizona, barátság, család, disztópia, filmadaptáció, földönkívüliek, high fantasy, ifjúsági, kortárs, magyar nyelvű, női főszereplő, posztapokaliptikus, regény, romantikus, sci-fi, szeretet, testvérek

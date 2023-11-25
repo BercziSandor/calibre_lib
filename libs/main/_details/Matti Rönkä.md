@@ -1,8 +1,8 @@
 # <a name="id_671">Matti Rönkä: A határjáró (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Matti%20Ronka/A%20hatarjaro%20%28671%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Matti%20Ronka/A%20hatarjaro%20%28671%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Matti%20Ronka/A%20hatarjaro%20%28671%29/A%20hatarjaro%20-%20Matti%20Ronka.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Matti%20Ronka/A%20hatarjaro%20%28671%29/A%20hatarjaro%20-%20Matti%20Ronka.epub)
 
 ### Tagek
 finn szerző, kortárs, magyar nyelvű, noir irodalom, regény, irodalom, szórakoztató irodalom, bûnügyi, thriller, krimi, skandináv

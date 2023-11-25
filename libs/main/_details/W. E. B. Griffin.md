@@ -1,8 +1,8 @@
 # <a name="id_320">W. E. B. Griffin: Hadnagyok (A háború katonái 1) (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/W.%20E.%20B.%20Griffin/Hadnagyok%20%28320%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/W.%20E.%20B.%20Griffin/Hadnagyok%20%28320%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/W.%20E.%20B.%20Griffin/Hadnagyok%20%28320%29/Hadnagyok%20-%20W.%20E.%20B.%20Griffin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/W.%20E.%20B.%20Griffin/Hadnagyok%20%28320%29/Hadnagyok%20-%20W.%20E.%20B.%20Griffin.epub)
 
 ### Tagek
 2. világháború, amerikai egyesült államok, amerikai szerző, hadsereg, katonaság, magyar nyelvű, sorozat része
@@ -12,10 +12,10 @@
 
 
 # <a name="id_321">W. E. B. Griffin: Különleges kommandósok I-II. (A háború katonái 9) (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/W.%20E.%20B.%20Griffin/Kulonleges%20kommandosok%20I-II_%20%28321%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/W.%20E.%20B.%20Griffin/Kulonleges%20kommandosok%20I-II_%20%28321%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/W.%20E.%20B.%20Griffin/Kulonleges%20kommandosok%20I-II_%20%28321%29/Kulonleges%20kommandosok%20I-II_%20-%20W.%20E.%20B.%20Griffin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/W.%20E.%20B.%20Griffin/Kulonleges%20kommandosok%20I-II_%20%28321%29/Kulonleges%20kommandosok%20I-II_%20-%20W.%20E.%20B.%20Griffin.epub)
 
 ### Tagek
 amerikai szerző, dél-amerika, forradalom, közép-amerika, kuba, magyar nyelvű, sorozat része

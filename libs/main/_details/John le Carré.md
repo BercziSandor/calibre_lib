@@ -1,8 +1,8 @@
 # <a name="id_1000">John le Carré: Egy tökéletes kém (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/John%20le%20Carre/Egy%20tokeletes%20kem%20%281000%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/John%20le%20Carre/Egy%20tokeletes%20kem%20%281000%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/John%20le%20Carre/Egy%20tokeletes%20kem%20%281000%29/Egy%20tokeletes%20kem%20-%20John%20le%20Carre.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/John%20le%20Carre/Egy%20tokeletes%20kem%20%281000%29/Egy%20tokeletes%20kem%20-%20John%20le%20Carre.epub)
 
 ### Tagek
 angol szerző, brit szerző, kémregény, magyar nyelvű, regény, irodalom, szórakoztató irodalom

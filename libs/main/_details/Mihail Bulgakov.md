@@ -1,8 +1,8 @@
 # <a name="id_275">Mihail Bulgakov: A Mester és Margarita (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Mihail%20Bulgakov/A%20Mester%20es%20Margarita%20%28275%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mihail%20Bulgakov/A%20Mester%20es%20Margarita%20%28275%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Mihail%20Bulgakov/A%20Mester%20es%20Margarita%20%28275%29/A%20Mester%20es%20Margarita%20-%20Mihail%20Bulgakov.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mihail%20Bulgakov/A%20Mester%20es%20Margarita%20%28275%29/A%20Mester%20es%20Margarita%20-%20Mihail%20Bulgakov.epub)
 
 ### Tagek
 1. század, 1930-as évek, abszurd, antihős, boszorkány, hangoskönyv, klasszikus, macska, mágia, magyar nyelvű, misztikus, irodalom, elmegyógyintézet, mágikus realizmus, 20. század, európa diákkönyvtár, groteszk, 111 híres regény, szépirodalom, orosz, kortárs, filmadaptáció, biblia, regény, 1001 könyv listán szerepel, kötelező, nagy könyv, a világirodalom remekei

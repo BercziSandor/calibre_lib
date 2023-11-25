@@ -1,8 +1,8 @@
 # <a name="id_635">Cassandra Clare: Csontváros (A Végzet Ereklyéi 1) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Cassandra%20Clare/Csontvaros%20%28635%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Cassandra%20Clare/Csontvaros%20%28635%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Cassandra%20Clare/Csontvaros%20%28635%29/Csontvaros%20-%20Cassandra%20Clare.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Cassandra%20Clare/Csontvaros%20%28635%29/Csontvaros%20-%20Cassandra%20Clare.epub)
 
 ### Tagek
 21. század, amerikai, amerikai egyesült államok, amerikai szerző, barátság, boszorkány, démon, fantasy, férfi főszereplő, filmadaptáció, halál, humoros, ifjúsági, kaland, kortárs, magyar nyelvű, new york, new york (állam), női főszereplő, nyár
@@ -13,10 +13,10 @@
 
 
 # <a name="id_636">Cassandra Clare: Hamuváros (A Végzet Ereklyéi 2) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Cassandra%20Clare/Hamuvaros%20%28636%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Cassandra%20Clare/Hamuvaros%20%28636%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Cassandra%20Clare/Hamuvaros%20%28636%29/Hamuvaros%20-%20Cassandra%20Clare.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Cassandra%20Clare/Hamuvaros%20%28636%29/Hamuvaros%20-%20Cassandra%20Clare.epub)
 
 ### Tagek
 21. század, amerikai egyesült államok, amerikai szerző, barátság, boszorkány, démon, fantasy, férfi főszereplő, ifjúsági, kaland, kamasz főszereplő, kortárs, macska, magyar nyelvű, new york, női főszereplő, regény, sorozat része, testvérek, tévésorozat-adaptáció
@@ -27,10 +27,10 @@
 
 
 # <a name="id_637">Cassandra Clare: Üvegváros (A Végzet Ereklyéi 3) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Cassandra%20Clare/Uvegvaros%20%28637%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Cassandra%20Clare/Uvegvaros%20%28637%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Cassandra%20Clare/Uvegvaros%20%28637%29/Uvegvaros%20-%20Cassandra%20Clare.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Cassandra%20Clare/Uvegvaros%20%28637%29/Uvegvaros%20-%20Cassandra%20Clare.epub)
 
 ### Tagek
 21. század, amerikai szerző, angyal, barátság, boszorkány, démon, fantasy, férfi főszereplő, háború, ifjúsági, kaland, kamasz főszereplő, kortárs, magyar nyelvű, női főszereplő, regény, romantikus, sorozat része, testvérek, tévésorozat-adaptáció
@@ -41,10 +41,10 @@
 
 
 # <a name="id_638">Cassandra Clare: Bukott angyalok városa (A Végzet Ereklyéi 4) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Cassandra%20Clare/Bukott%20angyalok%20varosa%20%28638%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Cassandra%20Clare/Bukott%20angyalok%20varosa%20%28638%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Cassandra%20Clare/Bukott%20angyalok%20varosa%20%28638%29/Bukott%20angyalok%20varosa%20-%20Cassandra%20Clare.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Cassandra%20Clare/Bukott%20angyalok%20varosa%20%28638%29/Bukott%20angyalok%20varosa%20-%20Cassandra%20Clare.epub)
 
 ### Tagek
 21. század, álom, amerikai egyesült államok, amerikai szerző, angyal, barátság, boszorkány, démon, fantasy, férfi főszereplő, gyilkosság, ifjúsági, kamasz főszereplő, kortárs, magyar nyelvű, new york, női főszereplő, regény, romantikus, sorozat része
@@ -55,10 +55,10 @@
 
 
 # <a name="id_639">Cassandra Clare: Elveszett lelkek városa (A Végzet Ereklyéi 5) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Cassandra%20Clare/Elveszett%20lelkek%20varosa%20%28639%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Cassandra%20Clare/Elveszett%20lelkek%20varosa%20%28639%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Cassandra%20Clare/Elveszett%20lelkek%20varosa%20%28639%29/Elveszett%20lelkek%20varosa%20-%20Cassandra%20Clare.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Cassandra%20Clare/Elveszett%20lelkek%20varosa%20%28639%29/Elveszett%20lelkek%20varosa%20-%20Cassandra%20Clare.epub)
 
 ### Tagek
 21. század, amerikai egyesült államok, amerikai szerző, angyal, barátság, boszorkány, démon, fantasy, férfi főszereplő, ifjúsági, kamasz főszereplő, kortárs, mágia, magyar nyelvű, női főszereplő, regény, romantikus, sorozat része, testvérek, tévésorozat-adaptáció
@@ -69,10 +69,10 @@
 
 
 # <a name="id_640">Cassandra Clare: Az angyal (Pokoli szerkezetek 1) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Cassandra%20Clare/Az%20angyal%20%28640%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Cassandra%20Clare/Az%20angyal%20%28640%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Cassandra%20Clare/Az%20angyal%20%28640%29/Az%20angyal%20-%20Cassandra%20Clare.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Cassandra%20Clare/Az%20angyal%20%28640%29/Az%20angyal%20-%20Cassandra%20Clare.epub)
 
 ### Tagek
 19. század, amerikai szerző, anglia, angyal, barátság, boszorkány, démon, férfi főszereplő, ifjúsági, kaland, kalandregény, kortárs, london, mágia, magyar nyelvű, női főszereplő, regény, romantikus, sorozat része, fantasy

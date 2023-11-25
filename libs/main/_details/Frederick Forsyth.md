@@ -1,8 +1,8 @@
 # <a name="id_775">Frederick Forsyth: Profi munka (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Frederick%20Forsyth/Profi%20munka%20%28775%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frederick%20Forsyth/Profi%20munka%20%28775%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Frederick%20Forsyth/Profi%20munka%20%28775%29/Profi%20munka%20-%20Frederick%20Forsyth.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frederick%20Forsyth/Profi%20munka%20%28775%29/Profi%20munka%20-%20Frederick%20Forsyth.epub)
 
 ### Tagek
 brit, elbeszélés
@@ -12,7 +12,7 @@ brit, elbeszélés
 
 
 # <a name="id_44">Frederick Forsyth: A negyedik jegyzőkönyv (2000)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Frederick%20Forsyth/A%20negyedik%20jegyzokonyv%20%2844%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frederick%20Forsyth/A%20negyedik%20jegyzokonyv%20%2844%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 angol szerző, brit szerző, kémregény, magyar nyelvű, regény, krimi, filmadaptáció
@@ -23,10 +23,10 @@ angol szerző, brit szerző, kémregény, magyar nyelvű, regény, krimi, filmad
 
 
 # <a name="id_43">Frederick Forsyth: Az ördög alternatívája (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Frederick%20Forsyth/Az%20ordog%20alternativaja%20%2843%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frederick%20Forsyth/Az%20ordog%20alternativaja%20%2843%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Frederick%20Forsyth/Az%20ordog%20alternativaja%20%2843%29/Az%20ordog%20alternativaja%20-%20Frederick%20Forsyth.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Frederick%20Forsyth/Az%20ordog%20alternativaja%20%2843%29/Az%20ordog%20alternativaja%20-%20Frederick%20Forsyth.epub)
 
 ### Tagek
 angol szerző, brit szerző, hidegháború, kalóz, kémregény, magyar nyelvű, politika, politikai krimi, regény, kalandregény, krimi

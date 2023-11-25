@@ -1,8 +1,8 @@
 # <a name="id_1108">Akunyin, Borisz: A cár könyvtára (A Magiszter Kalandjai 1) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/A%20car%20konyvtara%20%281108%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/A%20car%20konyvtara%20%281108%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/A%20car%20konyvtara%20%281108%29/A%20car%20konyvtara%20-%20Akunyin%2C%20Borisz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/A%20car%20konyvtara%20%281108%29/A%20car%20konyvtara%20-%20Akunyin%2C%20Borisz.epub)
 
 ### Tagek
 irodalom, szórakoztató irodalom
@@ -12,10 +12,10 @@ irodalom, szórakoztató irodalom
 
 
 # <a name="id_1109">Akunyin, Borisz: Magiszter-2-Ajánlott ​olvasmányok (A Magiszter Kalandjai 2) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Magiszter-2-Ajanlott%20%20olvasmanyok%20%281109%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/Magiszter-2-Ajanlott%20%20olvasmanyok%20%281109%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Magiszter-2-Ajanlott%20%20olvasmanyok%20%281109%29/Magiszter-2-Ajanlott%20%20olvasmany%20-%20Akunyin%2C%20Borisz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/Magiszter-2-Ajanlott%20%20olvasmanyok%20%281109%29/Magiszter-2-Ajanlott%20%20olvasmany%20-%20Akunyin%2C%20Borisz.epub)
 
 ### Tagek
 orosz, kortárs, krimi
@@ -25,10 +25,10 @@ orosz, kortárs, krimi
 
 
 # <a name="id_915">Akunyin, Borisz: Azazel (Fandorin 1) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Azazel%20%28915%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/Azazel%20%28915%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Azazel%20%28915%29/Azazel%20-%20Akunyin%2C%20Borisz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/Azazel%20%28915%29/Azazel%20-%20Akunyin%2C%20Borisz.epub)
 
 ### Tagek
 19. század, 20. század, filmadaptáció, gyilkosság, krimi, nyomozás, orosz, regény
@@ -38,10 +38,10 @@ orosz, kortárs, krimi
 
 
 # <a name="id_917">Akunyin, Borisz: Török csel (Fandorin 2) (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Torok%20csel%20%28917%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/Torok%20csel%20%28917%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Torok%20csel%20%28917%29/Torok%20csel%20-%20Akunyin%2C%20Borisz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/Torok%20csel%20%28917%29/Torok%20csel%20-%20Akunyin%2C%20Borisz.epub)
 
 ### Tagek
 kortárs, nyomozás, orosz, regény, történelem
@@ -52,10 +52,10 @@ kortárs, nyomozás, orosz, regény, történelem
 
 
 # <a name="id_910">Akunyin, Borisz: Leviathan (Fandorin 3) (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Leviathan%20%28910%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/Leviathan%20%28910%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Leviathan%20%28910%29/Leviathan%20-%20Akunyin%2C%20Borisz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/Leviathan%20%28910%29/Leviathan%20-%20Akunyin%2C%20Borisz.epub)
 
 ### Tagek
 kortárs, krimi, magyar nyelvű, nyomozás, orosz szerző, regény, sorozat része, mystery & crime
@@ -66,10 +66,10 @@ kortárs, krimi, magyar nyelvű, nyomozás, orosz szerző, regény, sorozat rés
 
 
 # <a name="id_913">Akunyin, Borisz: Akhilleusz halála (Fandorin 4) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Akhilleusz%20halala%20%28913%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/Akhilleusz%20halala%20%28913%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Akhilleusz%20halala%20%28913%29/Akhilleusz%20halala%20-%20Akunyin%2C%20Borisz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/Akhilleusz%20halala%20%28913%29/Akhilleusz%20halala%20-%20Akunyin%2C%20Borisz.epub)
 
 ### Tagek
 kortárs, krimi, orosz, regény
@@ -85,10 +85,10 @@ kortárs, krimi, orosz, regény
 
 
 # <a name="id_911">Akunyin, Borisz: Különleges megbízatások (Fandorin 5) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Kulonleges%20megbizatasok%20%28911%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/Kulonleges%20megbizatasok%20%28911%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Kulonleges%20megbizatasok%20%28911%29/Kulonleges%20megbizatasok%20-%20Akunyin%2C%20Borisz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/Kulonleges%20megbizatasok%20%28911%29/Kulonleges%20megbizatasok%20-%20Akunyin%2C%20Borisz.epub)
 
 ### Tagek
 kisregény, kortárs, krimi, nyomozás, orosz
@@ -100,10 +100,10 @@ kisregény, kortárs, krimi, nyomozás, orosz
 
 
 # <a name="id_912">Akunyin, Borisz: Az államtanácsos (Fandorin 6) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Az%20allamtanacsos%20%28912%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/Az%20allamtanacsos%20%28912%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Az%20allamtanacsos%20%28912%29/Az%20allamtanacsos%20-%20Akunyin%2C%20Borisz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/Az%20allamtanacsos%20%28912%29/Az%20allamtanacsos%20-%20Akunyin%2C%20Borisz.epub)
 
 ### Tagek
 mystery & crime
@@ -113,10 +113,10 @@ mystery & crime
 
 
 # <a name="id_914">Akunyin, Borisz: A koronázás (Fandorin 7) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/A%20koronazas%20%28914%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/A%20koronazas%20%28914%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/A%20koronazas%20%28914%29/A%20koronazas%20-%20Akunyin%2C%20Borisz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/A%20koronazas%20%28914%29/A%20koronazas%20-%20Akunyin%2C%20Borisz.epub)
 
 ### Tagek
 mystery & crime
@@ -126,10 +126,10 @@ mystery & crime
 
 
 # <a name="id_916">Akunyin, Borisz: A halál szerelmese (Fandorin 8) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/A%20halal%20szerelmese%20%28916%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/A%20halal%20szerelmese%20%28916%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/A%20halal%20szerelmese%20%28916%29/A%20halal%20szerelmese%20-%20Akunyin%2C%20Borisz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/A%20halal%20szerelmese%20%28916%29/A%20halal%20szerelmese%20-%20Akunyin%2C%20Borisz.epub)
 
 ### Tagek
 mystery & crime
@@ -139,10 +139,10 @@ mystery & crime
 
 
 # <a name="id_963">Akunyin, Borisz: Halál szeretője (Fandorin 9) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Halal%20szeretoje%20%28963%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/Halal%20szeretoje%20%28963%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Halal%20szeretoje%20%28963%29/Halal%20szeretoje%20-%20Akunyin%2C%20Borisz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/Halal%20szeretoje%20%28963%29/Halal%20szeretoje%20-%20Akunyin%2C%20Borisz.epub)
 
 ### Tagek
 magyar nyelvű, krimi, regény, orosz szerző, sorozat része, kortárs
@@ -155,10 +155,10 @@ A zseniális nyomozó csak azért tér vissza Moszkvába, hogy háromkerekű aut
 
 
 # <a name="id_1110">Akunyin, Borisz: A ​gyémántszekér I-II. (Fandorin 10) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/A%20%20gyemantszeker%20I-II_%20%281110%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/A%20%20gyemantszeker%20I-II_%20%281110%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/A%20%20gyemantszeker%20I-II_%20%281110%29/A%20%20gyemantszeker%20I-II_%20-%20Akunyin%2C%20Borisz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/A%20%20gyemantszeker%20I-II_%20%281110%29/A%20%20gyemantszeker%20I-II_%20-%20Akunyin%2C%20Borisz.epub)
 
 ### Tagek
 krimi, regény, japán (ország), nindzsa, 20. század, orosz, kortárs
@@ -172,10 +172,10 @@ krimi, regény, japán (ország), nindzsa, 20. század, orosz, kortárs
 
 
 # <a name="id_1107">Akunyin, Borisz: Színház ​az egész világ (Fandorin 11) (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Szinhaz%20%20az%20egesz%20vilag%20%281107%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/Szinhaz%20%20az%20egesz%20vilag%20%281107%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Szinhaz%20%20az%20egesz%20vilag%20%281107%29/Szinhaz%20%20az%20egesz%20vilag%20-%20Akunyin%2C%20Borisz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/Szinhaz%20%20az%20egesz%20vilag%20%281107%29/Szinhaz%20%20az%20egesz%20vilag%20-%20Akunyin%2C%20Borisz.epub)
 
 ### Tagek
 romantikus, színház, regény, orosz, 20. század
@@ -185,10 +185,10 @@ romantikus, színház, regény, orosz, 20. század
 
 
 # <a name="id_1111">Akunyin, Borisz: A fekete város (Fandorin 12) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/A%20fekete%20varos%20%281111%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/A%20fekete%20varos%20%281111%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/A%20fekete%20varos%20%281111%29/A%20fekete%20varos%20-%20Akunyin%2C%20Borisz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/A%20fekete%20varos%20%281111%29/A%20fekete%20varos%20-%20Akunyin%2C%20Borisz.epub)
 
 ### Tagek
 fiction, crime
@@ -198,10 +198,10 @@ fiction, crime
 
 
 # <a name="id_714">Akunyin, Borisz: Temetői történetek (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Temetoi%20tortenetek%20%28714%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/Temetoi%20tortenetek%20%28714%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Akunyin%2C%20Borisz/Temetoi%20tortenetek%20%28714%29/Temetoi%20tortenetek%20-%20Akunyin%2C%20Borisz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Akunyin%2C%20Borisz/Temetoi%20tortenetek%20%28714%29/Temetoi%20tortenetek%20-%20Akunyin%2C%20Borisz.epub)
 
 ### Tagek
 esszé, grúz, halál, horror, magyar nyelvű, orosz szerző, szellemek, temető, vámpír, irodalom, szépirodalom, novella, elbeszélés, short stories

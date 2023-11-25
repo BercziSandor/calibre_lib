@@ -1,8 +1,8 @@
 # <a name="id_1031">Thomas Harris: A vörös sárkány (Hannibal 1) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Thomas%20Harris/A%20voros%20sarkany%20%281031%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Thomas%20Harris/A%20voros%20sarkany%20%281031%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Thomas%20Harris/A%20voros%20sarkany%20%281031%29/A%20voros%20sarkany%20-%20Thomas%20Harris.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Thomas%20Harris/A%20voros%20sarkany%20%281031%29/A%20voros%20sarkany%20-%20Thomas%20Harris.epub)
 
 ### Tagek
 amerikai szerző, bram stoker-díj, erőszak, felnőtt tartalom, horror, kortárs, magyar nyelvű, nyomozás, pszichés betegség, pszicho-thriller, rejtély, sorozat része, amerikai, amerikai egyesült államok, filmadaptáció, krimi, lélektani, regény, sorozatgyilkosság, thriller
@@ -13,10 +13,10 @@ amerikai szerző, bram stoker-díj, erőszak, felnőtt tartalom, horror, kortár
 
 
 # <a name="id_1032">Thomas Harris: A bárányok hallgatnak (Hannibal 2) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Thomas%20Harris/A%20baranyok%20hallgatnak%20%281032%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Thomas%20Harris/A%20baranyok%20hallgatnak%20%281032%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Thomas%20Harris/A%20baranyok%20hallgatnak%20%281032%29/A%20baranyok%20hallgatnak%20-%20Thomas%20Harris.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Thomas%20Harris/A%20baranyok%20hallgatnak%20%281032%29/A%20baranyok%20hallgatnak%20-%20Thomas%20Harris.epub)
 
 ### Tagek
 amerikai szerző, börtön, bram stoker-díj, drámai cselekmény, felnőtt tartalom, filmadaptáció, gyilkosság, horror, kannibalizmus, klasszikus, krimi, magyar nyelvű, nyomozás, pszicho-thriller, regény, sorozat része, sorozatgyilkosság, thriller, irodalom, szórakoztató irodalom

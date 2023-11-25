@@ -1,8 +1,8 @@
 # <a name="id_1646">Péter Kende: Az igazi Orbán (A Viktor 2) (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Peter%20Kende/Az%20igazi%20Orban%20%281646%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Peter%20Kende/Az%20igazi%20Orban%20%281646%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Peter%20Kende/Az%20igazi%20Orban%20%281646%29/Az%20igazi%20Orban%20-%20Peter%20Kende.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Peter%20Kende/Az%20igazi%20Orban%20%281646%29/Az%20igazi%20Orban%20-%20Peter%20Kende.epub)
 
 ### Tagek
 orbán, politika

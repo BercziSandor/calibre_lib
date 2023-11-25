@@ -1,9 +1,9 @@
 # <a name="id_1427">Anna Gavalda: Kis kiruccanás (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/Kis%20kiruccanas%20%281427%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Kis%20kiruccanas%20%281427%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/Kis%20kiruccanas%20%281427%29/Kis%20kiruccanas%20-%20Anna%20Gavalda.epub) 
- [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/Kis%20kiruccanas%20%281427%29/Kis%20kiruccanas%20-%20Anna%20Gavalda.pdf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Kis%20kiruccanas%20%281427%29/Kis%20kiruccanas%20-%20Anna%20Gavalda.epub) 
+ [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Kis%20kiruccanas%20%281427%29/Kis%20kiruccanas%20-%20Anna%20Gavalda.pdf)
 
 ### Tagek
 21. század, család, emberi sorsok, francia szerző, kisregény, kortárs, magyar nyelvű, regény, szeretet, testvérek
@@ -14,10 +14,10 @@
 
 
 # <a name="id_959">Anna Gavalda: Billie (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/Billie%20%28959%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Billie%20%28959%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/Billie%20%28959%29/Billie%20-%20Anna%20Gavalda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Billie%20%28959%29/Billie%20-%20Anna%20Gavalda.epub)
 
 ### Tagek
 fiction, friendship, coming of age, lgbt, gay, szépirodalom
@@ -28,10 +28,10 @@ fiction, friendship, coming of age, lgbt, gay, szépirodalom
 
 
 # <a name="id_1306">Anna Gavalda: Együtt lehetnénk (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/Egyutt%20lehetnenk%20%281306%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Egyutt%20lehetnenk%20%281306%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/Egyutt%20lehetnenk%20%281306%29/Egyutt%20lehetnenk%20-%20Anna%20Gavalda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Egyutt%20lehetnenk%20%281306%29/Egyutt%20lehetnenk%20-%20Anna%20Gavalda.epub)
 
 ### Tagek
 21. század, anorexia, barátság, emberi sorsok, filmadaptáció, francia szerző, franciaország, kortárs, lélekrajz, magyar nyelvű, művészet, női főszereplő, öregedés, párizs, regény, romantikus, szeretet, társas kapcsolatok
@@ -42,10 +42,10 @@ fiction, friendship, coming of age, lgbt, gay, szépirodalom
 
 
 # <a name="id_1308">Anna Gavalda: 35 kiló remény (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/35%20kilo%20remeny%20%281308%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/35%20kilo%20remeny%20%281308%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/35%20kilo%20remeny%20%281308%29/35%20kilo%20remeny%20-%20Anna%20Gavalda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/35%20kilo%20remeny%20%281308%29/35%20kilo%20remeny%20-%20Anna%20Gavalda.epub)
 
 ### Tagek
 21. század, énregény, francia szerző, gyermekszemszög, ifjúsági, kisregény, kortárs, magyar nyelvű, regény
@@ -56,10 +56,10 @@ fiction, friendship, coming of age, lgbt, gay, szépirodalom
 
 
 # <a name="id_1305">Anna Gavalda: Csak azt szeretném, ha valaki várna rám valahol (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/Csak%20azt%20szeretnem%2C%20ha%20valaki%20varna%20%281305%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Csak%20azt%20szeretnem%2C%20ha%20valaki%20varna%20%281305%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/Csak%20azt%20szeretnem%2C%20ha%20valaki%20varna%20%281305%29/Csak%20azt%20szeretnem%2C%20ha%20valaki%20v%20-%20Anna%20Gavalda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Csak%20azt%20szeretnem%2C%20ha%20valaki%20varna%20%281305%29/Csak%20azt%20szeretnem%2C%20ha%20valaki%20v%20-%20Anna%20Gavalda.epub)
 
 ### Tagek
 20. század, emberi sorsok, francia szerző, kortárs, magyar nyelvű, novella, párkapcsolat, regény
@@ -70,10 +70,10 @@ fiction, friendship, coming of age, lgbt, gay, szépirodalom
 
 
 # <a name="id_15">Anna Gavalda: Vigaszág (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/Vigaszag%20%2815%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Vigaszag%20%2815%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/Vigaszag%20%2815%29/Vigaszag%20-%20Anna%20Gavalda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Vigaszag%20%2815%29/Vigaszag%20-%20Anna%20Gavalda.epub)
 
 ### Tagek
 21. század, barátság, férfi főszereplő, francia szerző, franciaország, magyar nyelvű, párizs, párkapcsolat, romantikus, francia, regény, kortárs
@@ -84,10 +84,10 @@ fiction, friendship, coming of age, lgbt, gay, szépirodalom
 
 
 # <a name="id_1303">Anna Gavalda: Életre kelni (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/Eletre%20kelni%20%281303%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Eletre%20kelni%20%281303%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/Eletre%20kelni%20%281303%29/Eletre%20kelni%20-%20Anna%20Gavalda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Eletre%20kelni%20%281303%29/Eletre%20kelni%20-%20Anna%20Gavalda.epub)
 
 ### Tagek
 barátság, betegség, férfi főszereplő, francia szerző, franciaország, gyász, halál, házasság, kortárs, magyar nyelvű, női főszereplő, novella, párizs, terápia, elbeszélés
@@ -98,10 +98,10 @@ barátság, betegség, férfi főszereplő, francia szerző, franciaország, gy�
 
 
 # <a name="id_1304">Anna Gavalda: Szerettem őt (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/Szerettem%20ot%20%281304%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Szerettem%20ot%20%281304%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Anna%20Gavalda/Szerettem%20ot%20%281304%29/Szerettem%20ot%20-%20Anna%20Gavalda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Szerettem%20ot%20%281304%29/Szerettem%20ot%20-%20Anna%20Gavalda.epub)
 
 ### Tagek
 21. század, francia szerző, házasság, kortárs, magyar nyelvű, párkapcsolat, regény, romantikus

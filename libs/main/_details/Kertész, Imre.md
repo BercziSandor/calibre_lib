@@ -1,8 +1,8 @@
 # <a name="id_319">Kertész, Imre: Sorstalanság – filmforgatókönyv (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kertesz%2C%20Imre/Sorstalansag%20-%20filmforgatokonyv%20%28319%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kertesz%2C%20Imre/Sorstalansag%20-%20filmforgatokonyv%20%28319%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kertesz%2C%20Imre/Sorstalansag%20-%20filmforgatokonyv%20%28319%29/Sorstalansag%20-%20filmforgatokonyv%20-%20Kertesz%2C%20Imre.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kertesz%2C%20Imre/Sorstalansag%20-%20filmforgatokonyv%20%28319%29/Sorstalansag%20-%20filmforgatokonyv%20-%20Kertesz%2C%20Imre.epub)
 
 ### Tagek
 filmadaptáció, holokauszt, irodalmi nobel-díj, magyar nyelvű, magyar szerző, regény, irodalom, szépirodalom

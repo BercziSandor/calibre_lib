@@ -1,8 +1,8 @@
 # <a name="id_928">Králig, Helga: Állati egypercesek (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Kralig%2C%20Helga/Allati%20egypercesek%20%28928%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kralig%2C%20Helga/Allati%20egypercesek%20%28928%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Kralig%2C%20Helga/Allati%20egypercesek%20%28928%29/Allati%20egypercesek%20-%20Kralig%2C%20Helga.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kralig%2C%20Helga/Allati%20egypercesek%20%28928%29/Allati%20egypercesek%20-%20Kralig%2C%20Helga.epub)
 
 ### Tagek
 állat, állatgyógyászat, állattörténet, igaz történet alapján, kortárs, magyar, magyar nyelvű, novella

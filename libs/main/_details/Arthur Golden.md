@@ -1,9 +1,9 @@
 # <a name="id_280">Arthur Golden: Egy gésa emlékiratai (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/Arthur%20Golden/Egy%20gesa%20emlekiratai%20%28280%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Arthur%20Golden/Egy%20gesa%20emlekiratai%20%28280%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/Arthur%20Golden/Egy%20gesa%20emlekiratai%20%28280%29/Egy%20gesa%20emlekiratai%20-%20Arthur%20Golden%20%28Case%20Conflict%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/Arthur%20Golden/Egy%20gesa%20emlekiratai%20%28280%29/Egy%20gesa%20emlekiratai%20-%20Arthur%20Golden.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Arthur%20Golden/Egy%20gesa%20emlekiratai%20%28280%29/Egy%20gesa%20emlekiratai%20-%20Arthur%20Golden%20%28Case%20Conflict%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Arthur%20Golden/Egy%20gesa%20emlekiratai%20%28280%29/Egy%20gesa%20emlekiratai%20-%20Arthur%20Golden.epub)
 
 ### Tagek
 1930-as évek, 1940-es évek, 2. világháború, amerikai szerző, ázsia, ázsiai, énregény, filmadaptáció, háború, igaz történet alapján, magyar nyelvű, női főszereplő, kortárs, 20. század, japán (ország), 30-as évek, társadalomrajz, szépirodalom, gésa, női sors, életrajz, romantikus, regény, 1001 könyv listán szerepel, 40-es évek, hagyomány
