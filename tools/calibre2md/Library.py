@@ -110,7 +110,7 @@ class Library:
             #                        + "/_tags/" \
             #                        + urllib.parse.quote(
             #     f"{self.get_tag_corrected(tag)}.md")
-            tags += self.get_tag_link(tag)+" "
+            tags += self.get_tag_link(tag) + " | "
 
         md_TagList.add_paragraph(tags)
 
