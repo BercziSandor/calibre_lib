@@ -121,7 +121,7 @@ class Library:
 
     def gen_md_by_authors(self):
         details_content = "### Részletek\n"
-        catalog_file_name = 'catalog.md'
+        catalog_file_name = 'catalog_authors.md'
         details_file_name = 'catalog_details.md'
         books_auth_year_series = self.sort_books_auth_year(self.opfs)
         books_tags = self.sort_books_tag(self.opfs)
