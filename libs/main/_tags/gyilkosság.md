@@ -40,6 +40,7 @@
 - Karin Alvtegen: A kitaszított [részletek](../_details/Karin%20Alvtegen.md#id_673)
 - Karin Slaughter: Bőr [részletek](../_details/Karin%20Slaughter.md#id_599)
 - Karin Slaughter: Nadragulya [részletek](../_details/Karin%20Slaughter.md#id_788)
+- Karin Slaughter: Összetörve [részletek](../_details/Karin%20Slaughter.md#id_1488)
 - Kathy Reichs: A holtak beszélnek [részletek](../_details/Kathy%20Reichs.md#id_157)
 - Lee Child: Csak egy lövés [részletek](../_details/Lee%20Child.md#id_392)
 - Lee Child: Eltűnt ellenség [részletek](../_details/Lee%20Child.md#id_1206)

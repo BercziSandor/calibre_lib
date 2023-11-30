@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b0acc95c-8b26-4530-8af8-e64d39678f93</dc:identifier>
         <dc:title>Puszta földek</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2004-02-20T00:00:00+00:00</dc:date>
         <dc:description>Roland és barátai, Eddie és Susannah Dean elszántan haladnak úti céljuk, a titokzatos Setét Torony felé. A homárszörnyekkel sikeresen megküzdöttek ugyan, ám mepróbáltatásaiknak koránt sincs vége. Új ellenséggel találják szemközt magukat, a félig gép, félig állat ősöreg óriási medvével. Elhívják Jake-et, azt a kisfiút, akit a harcos annak idején kénytelen volt feláldozni. Lud, az egykor szupercivilizált-technicizált város (talán a valahai New York?) – amelyet feltehetőleg szörnyűséges nukleáris katasztrófa pusztított el – romjai között élethalálharcot vívnak a testileg-lelkileg eltorzult, vérszomjas túlélőkkel. Kimerült, ám tántoríthatatlan hőseink folytatják útjukat. Sikerül-e elérniük a Setét Tornyot, s ott vajon mi vár rájuk?</dc:description>
         <dc:publisher>Európa</dc:publisher>
@@ -16,7 +16,7 @@
         <dc:subject>Undefined</dc:subject>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>sci-fi</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>weird fiction</dc:subject>
         <dc:subject>portál fantasy</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
@@ -32,7 +32,6 @@
         <dc:subject>kortárs</dc:subject>
         <dc:subject>posztapokaliptikus</dc:subject>
         <dc:subject>filmadaptáció</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="A setét torony"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>

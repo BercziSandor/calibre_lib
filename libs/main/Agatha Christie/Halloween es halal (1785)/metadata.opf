@@ -11,17 +11,17 @@
 &lt;p&gt;Mrs. Ariadne Oliver Woodleigh Commonban vendégeskedik. A kisvárosban Halloweenkor tinibulit szerveznek: liszttorta-szeletelés, almahorgászás, tűzharapás szerepel a szórakozások között. A tizenhárom éves Joyce Reynolds azzal a meglepő információval áll a híres írónő elé, hogy gyilkosságot látott. Mrs. Oliver hiszi is meg nem is, egészen addig, amíg holtan nem találják a kislányt. Valaki belefojtotta a vödörbe, amiből az almákat kellene kihorgászni. A regényírónő megint jó barátjához, a világhírű kis szürke sejtek tulajdonosához, Hercule Poirot-hoz fordul segítségért. És noha megváltozott a világ azóta, hogy ők először találkoztak, van, ami mindig ugyanolyan marad: Poirot zsenialitása. A regény más kiadónál, más fordításban Ellopott gyilkosság címen jelent meg.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Európa Könyvkiadó</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">088a6842-2763-45bc-a7da-d99d3012d6f2</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9789630790215</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">13419119</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630790215</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>Mystery</dc:subject>
         <dc:subject>Crime</dc:subject>
         <dc:subject>Classics</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:series" content="Hercule Poirot"/>
         <meta name="calibre:series_index" content="36"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-11-27T12:22:14.516441+00:00"/>
+        <meta name="calibre:timestamp" content="2023-11-27T12:22:14+00:00"/>
         <meta name="calibre:title_sort" content="Halloween és halál"/>
         <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;MOBI&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

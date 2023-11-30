@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f6db5292-39b6-4755-b3be-7b92ce93bb6c</dc:identifier>
         <dc:title>Szörnyek szigete</dc:title>
         <dc:creator opf:file-as="Crichton, Michael" opf:role="aut">Michael Crichton</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1996-02-18T00:00:00+00:00</dc:date>
         <dc:description>A gyerekek szeretik a dinoszauruszokat. És úgy tűnik mindnyájunkban él egy gyerek. Legalábbis ezt bizonyítja az Őslénypark sikere. Lakik bennünk egy gyerek, akinek a gondolkodását nem kötik előítéletek, akik kiváncsi és kalandra éhes. Ezt a gyereket hívja új kalandra Michael Crichton. Costa Rica közelében egy trópusi sziget dzsungelének mélyén még élnek a történelem előtti idők kihalt ragadozói. Őrült emberi elme teremtette újjá őket, de kordába tartani már nem tudta a természetet. Két kutatócsoport érkezik titokban a szigetre. Egyikük az evolúciót akarja tanulmányozni, a másik bomba üzletet lát a hatalmas ősállatokban. Az iszonyú valóságra egyikük sem számít. Ahogy az a két gyerek sem, aki potyautasként elkíséri a tudósokat. Olyan könyv ez amit nehéz letenni – de nem is érdemes.</dc:description>
         <dc:publisher>Magyar Könyvklub</dc:publisher>
@@ -30,10 +30,9 @@
         <dc:subject>sci-fi</dc:subject>
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>sziget</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>tudományos</dc:subject>
         <dc:subject>váltott szemszög</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Michael Crichton&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Jurassic Park"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>

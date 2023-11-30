@@ -7,7 +7,6 @@
 - Kondor, Vilmos: A bűntől keletre [részletek](../_details/Kondor%2C%20Vilmos.md#id_980)
 - Kordos, Szabolcs: Luxushotel, Hungary [részletek](../_details/Kordos%2C%20Szabolcs.md#id_159)
 - Moldova, György: Bűn az élet… [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1369)
-- Polcz Alaine: Asszony a fronton [részletek](../_details/Polcz%20Alaine.md#id_1443)
 - Salinger, Richárd: Omyno [részletek](../_details/Salinger%2C%20Rich%C3%A1rd.md#id_522)
 - Szabó, Magda: Mondják meg Zsófikának [részletek](../_details/Szab%C3%B3%2C%20Magda.md#id_1346)
 - Szabó, Magda: Pilátus [részletek](../_details/Szab%C3%B3%2C%20Magda.md#id_1351)

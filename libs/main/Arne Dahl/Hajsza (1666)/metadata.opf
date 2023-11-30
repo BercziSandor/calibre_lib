@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d6ade8cc-ffb2-4989-9da4-107fc48929fc</dc:identifier>
         <dc:title>Hajsza</dc:title>
         <dc:creator opf:file-as="Dahl, Arne" opf:role="aut">Arne Dahl</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-04-09T22:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Desiré Rosenkvist, a stockholmi rendőrség főfelügyelője rejtélyes és bizarr levelet kap, amelyből azonban két dolog teljesen világosan kiderül: egyrészt, hogy egy végsőkig kétségbeesett, valamint súlyosan paranoiás ember írta, másrészt pedig, hogy a levélíró olyan részleteket ismer Desiré egyik korábbi gyilkossági ügyéből, amelyekről csak a gyilkos tudhat.&lt;br&gt;Desiré kapcsolatba lép Sam Berger exnyomozóval, aki a bűnüldöző szervek elől a svéd tundra sűrűjében bújkál a társával, Molly Blommal, és őket bízza meg a levél írójának felkutatásával. Csakhogy valaki mindenáron meg akarja akadályozni, hogy a rejtély mélyére ássanak, és állandóan figyeli őket. A nyomozás hamarosan irányt vált – az üldözöttből üldöző, a nyomozókból préda lesz.&lt;br&gt;A Valaki figyel nemzetközi bestseller lélegzetelállító folytatása, a Hajsza hátborzongató utazás a sötétség jéghideg szíve felé. Arne Dahl a legjobb formáját hozza.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -14,11 +14,10 @@
         <dc:identifier opf:scheme="ISBN">9789633248911</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">60039601</dc:identifier>
         <dc:language>hun</dc:language>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>Mystery</dc:subject>
         <dc:subject>skandináv</dc:subject>
         <dc:subject>krimi</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Arne Dahl&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Berger &amp; Blom"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>

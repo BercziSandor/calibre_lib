@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">30c62108-aeaa-443b-8fcd-3a43ac6c9fd7</dc:identifier>
         <dc:title>A talizmán</dc:title>
         <dc:creator opf:file-as="Stephen King" opf:role="aut">Stephen King</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2007-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;1981. ​szeptember 15-én egy Jack Sawyer nevű gyermek áll a szárazföld és a víz találkozásánál, keze a farmernadrágja zsebében, tekintete a végtelen Atlanti-óceánon… Jack még nem is sejti, milyen iszonyatosan nehéz feladat vár rá: a Sors őt szemelte ki arra, hogy megküzdjön a minden szépséget elpusztító gonoszsággal, s nemcsak Amerikában, hanem egy fantasztikus másik világban, a Territóriumokban is, ebben a csodaszép, szűz, a civilizációtól érintetlen országban, ahol az emberek varázslatban élnek, de ahol most épp gonosz erők készülnek megragadni a hatalmat. Jack még csak annyit tud, hogy anyja, Lily Cavanaugh, a B kategóriájú filmek koronázatlan királynője beteg – talán halálosan beteg – egyre csak menekül valami elől.&lt;br&gt;A tizenkét éves Jack hamarosan nagy útra indul, hogy veszedelmes kalandok során át megszerezze a csodatévő Talizmánt, és megmentse vele anyja életét… s egyúttal az egész világot, a Territóriumokat, a Territóriumok Territóriumait, a világegyetemet! Förtelmes mutánsokkal, eleven, vérszomjas fákkal, farkasemberekkel s még ezer veszéllyel kell megküzdenie, de Jack Sawyert kemény fából faragták, s ha kell, le tudja győzni saját gyávaságát, önzését, bosszúvágyát is.&lt;br&gt;A hallatlanul népszerű amerikai horrorszerző és Peter Straub borzongatóan szép mesét írt, amelyből azért a hamisítatlan Stephen King-i horror sem hiányzik.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -26,11 +26,10 @@
         <dc:subject>portál fantasy</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>sorozat része</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>utazás</dc:subject>
         <dc:subject>vérfarkas</dc:subject>
         <dc:subject>Fantasy</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="A talizmán"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

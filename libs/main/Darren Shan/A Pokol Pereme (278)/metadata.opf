@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">30146d0a-8081-4141-98aa-831ecd05662a</dc:identifier>
         <dc:title>A pokol pereme</dc:title>
         <dc:creator opf:file-as="Shan, Darren" opf:role="aut">Darren Shan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A ​Városban a Kardinális az úr, Al Jeery pedig személyes testőrségének egyik rendíthetetlen oszlopa. Egy nap titokzatos gyilkosság történik a Város legelőkelőbb szállodájában, és Al legnagyobb meglepetésére a Kardinális rá bízza az ügy felderítését.&lt;br&gt;A nyomozás során váratlan felfedezést tesz, ami a végsőkig próbára teszi a hűségét. Egy olyan szörnyű rejtély részesévé válik, amihez a holtaknak, a város inka ősapáinak, a teljhatalmú Kardinálisnak és a már-már misztikus hírű bérgyilkosnak, Paucar Waminak is köze van.&lt;br&gt;Wami egy árnyékba burkolózó, rejtélyes alak, aki akkor öl, amikor csak kedve tartja, láthatóan nem kell tartania semmiféle megtorlástól. Al hamarosan rájön, hogy sokkal több a közös vonása Wamival, mint ahogy azt valaha is képzelte…&lt;br&gt;A pokol pereme Darren Shan első felnőtteknek szánt sorozatának, a Város-trilógiának a második kötete. Egy utópisztikus thriller és egy vérfagyasztó horror elsőrangú keveréke, olyan hátborzongató olvasmány, amely még az erős idegzetűeket is próbára teszi.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -23,8 +23,7 @@
         <dc:subject>regény</dc:subject>
         <dc:subject>kortárs</dc:subject>
         <dc:subject>Szórakoztató irodalom</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Darren Shan&quot;: &quot;&quot;}"/>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:series" content="Város-trilógia"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>

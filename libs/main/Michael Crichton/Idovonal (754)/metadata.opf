@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6fcc9521-9903-4fd6-baab-e6900713558f</dc:identifier>
         <dc:title>Idővonal</dc:title>
         <dc:creator opf:file-as="Crichton, Michael" opf:role="aut">Michael Crichton</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2001-02-18T00:00:00+00:00</dc:date>
         <dc:description>Ekkora hatalom eddig soha nem létezett, de most, a 21. század küszöbén, amikor nem univerzumokról, hanem multiverzumról beszélünk, már valóban létezik. A csúcstechnológia csúcsát jelentő kvantumszámítógéppel bármilyen tömörített információ bárhová továbbítható. A kvantumhab lyukain át akár az emberrel egyenértékű információ is egy másik univerzumba juttatható, s ott hús-vér emberként rekonstruálható. Hol is? Például a 14. századi Franciaországban, a Dordogne gyönyörű vidékén, ahol javában dúl a százéves háború. Miért? Azért, mert korunk embere a kvantumtechnológia segítségével a hiteles múltat akarja újrateremteni, és kihasználni. Nem éri be a töredékes romokkal, neki az egész kell, s persze a turizmus céljaira kiaknázható, dollármilliárdokat fialó, luxusszállodákkal beépíthető pompás környezet…</dc:description>
         <dc:publisher>Magyar Könyvklub</dc:publisher>
@@ -27,11 +27,10 @@
         <dc:subject>középkor</dc:subject>
         <dc:subject>kaland</dc:subject>
         <dc:subject>Fantasy</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>14. század</dc:subject>
         <dc:subject>Szórakoztató irodalom</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Michael Crichton&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2014-09-20T12:32:26+00:00"/>
         <meta name="calibre:title_sort" content="Idővonal"/>

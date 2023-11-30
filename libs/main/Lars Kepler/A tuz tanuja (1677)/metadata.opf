@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">fafc6ac4-08a7-4788-b6ce-b50663ee1681</dc:identifier>
         <dc:title>A tűz tanúja</dc:title>
         <dc:creator opf:file-as="Kepler, Lars" opf:role="aut">Lars Kepler</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-11-10T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A ​HIPNOTIZŐR SZERZŐJÉNEK ÚJABB BESTSELLERE – A JOONA LINNA-SOROZAT HARMADIK KÖTETE.&lt;br&gt;Flora Hansen halottidéző médiumnak nevezi magát, abból él, hogy a holtakkal folytatott beszélgetéseket színlel. Ám miután egy vidéki leányotthonban holtan találják az egyik fiatal lányt, nagyon is valós látomásai támadnak. Jelentkezik a rendőrségen, és előadja, hogy szellemet látott. Csupán egyetlen nyomozó akad, aki a kételyeit félretéve hajlandó meghallgatni a mondandóját.&lt;br&gt;Joona Linna felügyelő jóval több időt töltött a bűntény helyszínén, mint amennyit bármely más kollégája szükségesnek tartott volna. Az eset látszólag egyszerű: egy lány meghalt, egy másiknak pedig, aki a gyilkosság éjjelén eltűnt, a párnája alól egy véres kalapács kerül elő. De miért állítja Flora váltig, hogy a gyilkos szerszám nem kalapács volt, hanem egy kő?&lt;br&gt;Linna kiváló nyomozó, elszánt és makacs, nem elégszik meg a kézenfekvő válaszokkal. Ahogy a történet fokozatosan kibontakozik, minden fejre áll és megkérdőjeleződik: az őrültek normálisnak, az épeszűek őrültnek tűnnek. Az ügy egyszerűnek látszó bűncselekményből a rendőrségen belüli játszmák és egy felkavaró történet elképesztően izgalmas elegyévé alakul. Linna mind mélyebbre ás, mígnem végül saját múltjának egy rémisztően sötét árnyával kell szembenéznie.&lt;br&gt;Ahogy a Linna-sorozat előző részei, A hipnotizőr és A Paganini-szerződés, A tűz tanúja is hosszú hónapokon át megőrizte helyét a svéd bestsellerlisták élén. A feszültséget lebilincselően fenntartó, borzongató hangulatú, megalkuvást nem ismerően sodró lendületű harmadik kötet aztán a sorozat rajongóinak köszönhetően ugyanúgy szenzációs sikert ért el szerte a világon, ahogy elődei.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -15,10 +15,9 @@
         <dc:identifier opf:scheme="ISBN">9789633247464</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">sL12zgEACAAJ</dc:identifier>
         <dc:language>hun</dc:language>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>Mystery</dc:subject>
         <dc:subject>Suspense</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Lars Kepler&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Joona Linna"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>

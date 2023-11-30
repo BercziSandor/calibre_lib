@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">135ee8f9-cc88-4718-b576-43432fdef6f3</dc:identifier>
         <dc:title>Breaking Dawn – Hajnalhasadás</dc:title>
         <dc:creator opf:file-as="Meyer, Stephenie" opf:role="aut">Stephenie Meyer</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-02-22T00:00:00+00:00</dc:date>
         <dc:description>Bellának döntenie kellett: a halhatatlanok sötét, de csábító világát választja-e, vagy a teljes emberi életet? Márpedig ez a döntés lesz az a hajszál, amelyen két törzs élete is múlik.
 Most, hogy Bella meghozta a döntést, megdöbbentő, váratlan események sorát indítja el vele, amelyeknek felmérhetetlen, megsemmisítő következményei is lehetnek.
@@ -17,7 +17,7 @@ A Twilight saga legújabb döbbenetes, türelmetlenül várt kötetében, a Hajn
         <dc:subject>2000-es évek</dc:subject>
         <dc:subject>21. század</dc:subject>
         <dc:subject>alakváltó</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>anyaság</dc:subject>
         <dc:subject>barátság</dc:subject>
@@ -34,7 +34,6 @@ A Twilight saga legújabb döbbenetes, türelmetlenül várt kötetében, a Hajn
         <dc:subject>romantikus</dc:subject>
         <dc:subject>Seattle</dc:subject>
         <dc:subject>sorozat része</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Stephenie Meyer&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Twilight saga"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>

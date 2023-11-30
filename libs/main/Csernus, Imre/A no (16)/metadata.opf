@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">76ce1b16-e9dd-4cd7-a5cc-231f3233a0dc</dc:identifier>
         <dc:title>A nő</dc:title>
         <dc:creator opf:file-as="Csernus, Imre" opf:role="aut">Csernus, Imre</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-02-14T23:00:00+00:00</dc:date>
         <dc:description>&lt;p class="description"&gt;Mitől nő egy nő? És vajon mitől jó nő? Hogyan képes egy nő - vagy akár egy férfi - megélni saját nemiségét? Tud-e jó példával szolgálni gyermekeinek? Tudja-e jól érezni magát a saját bőrében? És tesz-e valamit azért, hogy jobb legyen?&lt;br&gt;Ha Ön elég erős, hogy feltegye magának ezeket a kérdéseket, lapozzon bele Dr. Csernus Imre legújabb könyvébe! Bátraké a szerencse...&lt;br&gt;"Kimondani hangosan magamnak és a másiknak a jó és a rossz érzéseimet, majd mindennek a következményeit napról-napra következetesen vállalni: ez a fejle(szte)tt érzelmi intelligencia!"&lt;br&gt;Dr. Csernus Imre 1966-ban született egy vajdasági kisvárosban. Bár 10 éves korában esküt tett arra, hogy pap lesz, valahogy mégiscsak pszichiáter lett belőle, mert kiderült, hogy van bátorsága feltenni azokat a kérdéseket, amelyekre mások gondolni sem mernek.&lt;br&gt;"Talán mindez egy általános tévhit, hogy a nő csak akkor nő, amikor párkapcsolatban él. Lehet, hogy nem a másikhoz képest kellene meghatároznia magát? Lehet, hogy mindezt egykor a férfiak találták ki, mivel nekik így nagyon kényelmes? A pasitól lesz valaki nő?"&lt;/p&gt;</dc:description>
         <dc:publisher>Jaffa Kiadó</dc:publisher>
@@ -17,8 +17,7 @@
         <dc:subject>általános</dc:subject>
         <dc:subject>Személyiség</dc:subject>
         <dc:subject>pszichológia</dc:subject>
-        <dc:subject>Általános Lélektan</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Csernus, Imre&quot;: &quot;&quot;}"/>
+        <dc:subject>általános lélektan</dc:subject>
         <meta name="calibre:rating" content="6"/>
         <meta name="calibre:timestamp" content="2012-11-13T14:10:24+00:00"/>
         <meta name="calibre:title_sort" content="nő, A"/>

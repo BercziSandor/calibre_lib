@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3fa2a5c2-def2-4909-8f20-bb50bde3e696</dc:identifier>
         <dc:title>A vándorló palota</dc:title>
         <dc:creator opf:file-as="Jones, Diana Wynne" opf:role="aut">Diana Wynne Jones</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-03-14T23:00:00+00:00</dc:date>
         <dc:description>&lt;p class="description"&gt;Ingary földjén, ahol a hétmérföldes csizmák és a láthatatlanná tévő köpenyek tényleg léteznek, Sophie Hatter felhívja magára a Puszták Boszorkányának figyelmét, aki átkot szór a lányra. Sophie-nak nem marad más választása, mint hogy az egyetlen helyre menjen, ahol segítséget kaphat Howl varázsló vándorló palotájába. Ám Howlról azt híresztelik, hogy megeszi a fiatal lányok szívét és kiszívja a lelküket. A regény alapján Hayao Miyazaki készített Oscar-díjas animációs filmet.&lt;/p&gt;</dc:description>
         <dc:publisher>Pongrác</dc:publisher>
@@ -19,7 +19,6 @@
         <dc:subject>20. század</dc:subject>
         <dc:subject>boszorkány</dc:subject>
         <dc:subject>brit szerző</dc:subject>
-        <dc:subject>CD/DVD melléklettel</dc:subject>
         <dc:subject>démon</dc:subject>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>filmadaptáció</dc:subject>
@@ -36,7 +35,6 @@
         <dc:subject>steampunk</dc:subject>
         <dc:subject>szerepcsere</dc:subject>
         <dc:subject>varázslat</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Diana Wynne Jones&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Palota"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="10"/>

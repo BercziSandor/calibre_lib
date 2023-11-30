@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9a0d813e-5399-46e9-ba83-b557e314fded</dc:identifier>
         <dc:title>Állati elmék</dc:title>
         <dc:creator opf:file-as="Merle, Robert" opf:role="aut">Robert Merle</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1993-02-15T00:00:00+00:00</dc:date>
         <dc:description>Robert Merle /sz. 1908/ Goncourt-díjas francia regény- és drámaíró, a legmulatságosabb, a legszellemesebb és legelgondolkodtatóbb művét alkotta meg az Állati elmékkel. Regénye nem csak tudományos-fantasztikus tanmese, szatirikus pamflet, hanem egy mélyen humanista író aggódó töprengése az emberiség jövőjéről.</dc:description>
         <dc:publisher>Európa</dc:publisher>
@@ -26,15 +26,14 @@
         <dc:subject>állattörténet</dc:subject>
         <dc:subject>katonaság</dc:subject>
         <dc:subject>háború</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
-        <dc:subject>drámai cselekmény</dc:subject>
+        <dc:subject>USA</dc:subject>
+        <dc:subject>dráma</dc:subject>
         <dc:subject>Algéria</dc:subject>
         <dc:subject>disztópia</dc:subject>
         <dc:subject>filmadaptáció</dc:subject>
         <dc:subject>20. század</dc:subject>
         <dc:subject>1001 könyv listán szerepel</dc:subject>
         <dc:subject>illusztrált</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Robert Merle&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-11-18T20:22:18+00:00"/>
         <meta name="calibre:title_sort" content="Állati elmék"/>

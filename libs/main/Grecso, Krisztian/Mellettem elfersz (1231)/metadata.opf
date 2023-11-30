@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1600ed0f-53ea-4952-8fc3-c19a28e321fa</dc:identifier>
         <dc:title>Mellettem elférsz</dc:title>
         <dc:creator opf:file-as="Grecsó, Krisztián" opf:role="aut">Grecsó, Krisztián</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-02-19T00:00:00+00:00</dc:date>
         <dc:description>Grecsó Krisztián új regényének hősei hisznek az öröklődésben. Tudják, hogy a génekkel együtt sorsot is kaptak. A főszereplő – egy harmincas éveinek közepén járó férfi – aggódva figyeli magát, saját mozdulatait, testének minden változását. Barátnője elhagyja, ráadásul egy családi titok véletlen lelepleződése miatt rejtélyek hálójába gabalyodik. Miközben az összes talányt földeríti, és lassan megismeri családja viselt dolgait, magára ismer. A türelmetlen lánykérésekben, a titkos szerelmekben, a hosszú évek magányos várakozásaiban egyre inkább ő a főszereplő. Hiszen nem csak a mozdulatait, a haja színét, a testalkatát kapta a családtól, de ha jól figyel – a jövőjét is.
 Az addig széttartó életpályák a ma Budapestjén találkoznak. A Mellettem elférsz nem egyszerűen családok, generációk, szerelmek és vágyak regénye. Mert bár átutazunk vele a huszadik századon és a Kárpát-medencén, mégis, a könyv minden mondatával a mához, a mának szól.</dc:description>
@@ -14,7 +14,6 @@ Az addig széttartó életpályák a ma Budapestjén találkoznak. A Mellettem e
         <dc:identifier opf:scheme="MOBI-ASIN">59ecc6e0-f89e-436e-a611-7d658cd7a2ba</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>21. század</dc:subject>
-        <dc:subject>AEGON Művészeti Díj</dc:subject>
         <dc:subject>családregény</dc:subject>
         <dc:subject>családtörténet</dc:subject>
         <dc:subject>emlékezet</dc:subject>
@@ -25,7 +24,6 @@ Az addig széttartó életpályák a ma Budapestjén találkoznak. A Mellettem e
         <dc:subject>regény</dc:subject>
         <dc:subject>tudatregény</dc:subject>
         <dc:subject>Viharsarok</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Grecsó, Krisztián&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2020-12-26T18:46:26+00:00"/>
         <meta name="calibre:title_sort" content="Mellettem elférsz"/>

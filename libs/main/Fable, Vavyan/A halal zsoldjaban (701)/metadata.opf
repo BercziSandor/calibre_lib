@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">0eef2603-f981-4ee2-8056-87cdc3df7d8a</dc:identifier>
         <dc:title>A halál zsoldjában</dc:title>
         <dc:creator opf:file-as="Fable, Vavyan" opf:role="aut">Fable, Vavyan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-02-18T00:00:00+00:00</dc:date>
         <dc:description>A Halkirálynő és a Kommandó" íróját napjaink vérfagyasztó terrorcselekményei ihlették erre az akcióregényre. Vavyan Fable ezúttal egy terroristaellenes kommandó akcióit meséli el élvezetes, érdekfeszítő stílusban. A könyv hősei – a halál zsoldosai – kommandósok. A komor David Chennes, a kivételes képességű fiatal nő, Tania Tiller, a rézbőrű Sacha, a veszedelmesen verekedő Liu és a többiek. De a halál zsoldosa a bérgyilkos Csen King és Cassagne, a terrorista vezető is. Összeesküvők, ámokfutók, katonák, politikusok. Ők csapnak össze a regényben. A fordulatos történet izgalmait még egy ötletesen beleszőtt bűnügyi szál is fokozza, nem kevés meglepetést tartogatva az olvasó számára. Az események feltartóztathatatlanul száguldanak előre, mígnem kivehetővé válnak a katasztrófa körvonalai. Meglehet, a Halál akar főszereplővé válni, a kommandó szembeszáll vele, hadat üzen neki…</dc:description>
         <dc:publisher>Fabyen</dc:publisher>
@@ -23,11 +23,11 @@
         <dc:subject>kortárs</dc:subject>
         <dc:subject>akció</dc:subject>
         <dc:subject>bûnügyi</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>Irodalom</dc:subject>
         <dc:subject>krimi</dc:subject>
         <dc:subject>Szórakoztató irodalom</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Fable, Vavyan&quot;: &quot;https://hu.wikipedia.org/wiki/Vavyan_Fable&quot;}"/>
+        <meta name="calibre:link_maps" content="{&quot;authors&quot;: {&quot;Fable, Vavyan&quot;: &quot;https://hu.wikipedia.org/wiki/Vavyan_Fable&quot;}}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2014-09-20T06:42:15+00:00"/>
         <meta name="calibre:title_sort" content="halál zsoldjában, A"/>

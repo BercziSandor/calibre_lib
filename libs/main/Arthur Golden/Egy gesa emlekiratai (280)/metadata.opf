@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9abb0d8c-0d11-4709-8d69-eb1e9ef3656d</dc:identifier>
         <dc:title>Egy gésa emlékiratai</dc:title>
         <dc:creator opf:file-as="Golden, Arthur" opf:role="aut">Arthur Golden</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2001-02-14T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Elbűvölő, lélegzetelállító történet egy titokzatos világról, amely egy letűnt kultúra rejtelmeibe, egy japán gésa életébe enged bepillantani. A történet egy szegény halászfaluból elkerülő 9 éves, kék szemű kislányról szól, akit eladnak egy gésa házba . A hű önéletrajzi leírásból tanúi lehetünk élete átalakulásának, miközben beletanul a gésák szigorú művészetébe, ahol a szerelem csak illúzió, ahol a szüzesség a legmagasabb áron kel el, ahol a nő feladata, hogy szolgáljon és tudásával elbűvölje a befolyásos férfiakat. Átélhetjük a háború okozta változást, amely egy új életforma kialakítására kényszeríti a gésákat, nem hoz szabadságot csak kétségbeesést és vívódást.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -19,7 +19,6 @@
         <dc:subject>2. világháború</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>Ázsia</dc:subject>
-        <dc:subject>ázsiai</dc:subject>
         <dc:subject>énregény</dc:subject>
         <dc:subject>filmadaptáció</dc:subject>
         <dc:subject>háború</dc:subject>
@@ -29,7 +28,7 @@
         <dc:subject>kortárs</dc:subject>
         <dc:subject>20. század</dc:subject>
         <dc:subject>Japán (ország)</dc:subject>
-        <dc:subject>30-As évek</dc:subject>
+        <dc:subject>30-as évek</dc:subject>
         <dc:subject>társadalomrajz</dc:subject>
         <dc:subject>Szépirodalom</dc:subject>
         <dc:subject>Gésa</dc:subject>
@@ -38,9 +37,8 @@
         <dc:subject>romantikus</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>1001 könyv listán szerepel</dc:subject>
-        <dc:subject>40-Es évek</dc:subject>
+        <dc:subject>40-es évek</dc:subject>
         <dc:subject>Hagyomány</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Arthur Golden&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-11-17T21:33:12+00:00"/>
         <meta name="calibre:title_sort" content="gésa emlékiratai, Egy"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c94e45f5-971a-4d12-8246-0b1b765a37be</dc:identifier>
         <dc:title>Apád, anyád ide lőjön!</dc:title>
         <dc:creator opf:file-as="Fable, Vavyan" opf:role="aut">Fable, Vavyan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-02-18T00:00:00+00:00</dc:date>
         <dc:description>A ​halkirálynő nevében! Az előrahaladottan állapotos zsarulány, Denisa Wry és szintén viselős – amúgy harcművész és kegyszerűrus – barátnője horrorszerű bűnténybe keveredik, méghozzá életük kritikus napján. Ahelyett, hogy a szülőkádban vajúdnának, motoros hajszában vesznek részt a hóesésben, aztán lambadáznak a kórházban, tovább még egy alaposan kiérdemelt eljegyzési gyűrű is eltűnik – és mily rejtelmes módon! A gólyinváziító követően Denisa gyermekágyi depresszióba süllyed, ám gyógyulása érdekében megfogadja a bölcs krízisteraputa tanácsát. Ebből következően az akciózsaru Daniel Belloq társaságában éjjelente sírkertet, szellemvasutat, hírhedett kocsmákat látogat. Egyébként sincs otthon maradásuk. Hajlékukban go-go görlök, Chippendale-táncosok, halottkémek és pszicophaták adják egymás markába a kilincset, jórészt a szintén kopó foglalkozású, nőbolond fivérnek, Martinnak köszönhetően, aki viszont a háztetőre menekül a problémák elől, és a kéményen extrém-vasal, de később majd új hobbit fejleszt ki magának. Tetézetképpen a szomszédban lakó regényírónál gyakorta vijjog a tűzriasztó, ugyanis a habókos fickó folyton szanaszét feledi a pipáját. Ám a latorvadász párnak nincs ideje kétségbeesésre, miként alvásra sem. Belloq a rendőrgyilkos smasszernőt üldözi. Denisa a nőgyógyászokat öldöklő fanatikus nyomában jár. Mígnem felfigyelnek arra, hogy az ő nyomukban is lopakodnak néhányan. Jöhet a mondóka: kapd el, vagy ő kap el!</dc:description>
         <dc:publisher>Fabyen</dc:publisher>
@@ -22,12 +22,12 @@
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>Action &amp; Adventure</dc:subject>
         <dc:subject>akció</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>terhesség</dc:subject>
         <dc:subject>kortárs</dc:subject>
         <dc:subject>nyomozás</dc:subject>
         <dc:subject>bűnüldözés</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Fable, Vavyan&quot;: &quot;https://hu.wikipedia.org/wiki/Vavyan_Fable&quot;}"/>
+        <meta name="calibre:link_maps" content="{&quot;authors&quot;: {&quot;Fable, Vavyan&quot;: &quot;https://hu.wikipedia.org/wiki/Vavyan_Fable&quot;}}"/>
         <meta name="calibre:series" content="Halkirálynő"/>
         <meta name="calibre:series_index" content="7"/>
         <meta name="calibre:rating" content="8"/>

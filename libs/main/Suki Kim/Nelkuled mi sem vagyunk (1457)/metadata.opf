@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">fefcffbb-aec2-49aa-9725-395df1a3ba42</dc:identifier>
         <dc:title>Nélküled mi sem vagyunk</dc:title>
         <dc:creator opf:file-as="Kim, Suki" opf:role="aut">Suki Kim</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-09-14T22:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;2011-ben, Kim Dzsong Il életének utolsó hat hónapjában Észak-Koreában dolgozott Suki Kim. Ő Szöulban, vagyis Dél-Koreában született, és egy olyan intézményben, evangélikus misszionáriusok által fenntartott elitiskolában (a phenjani műszaki- és tudományegyetemen) volt angol tanár, ahol az észak-koreai uralkodó osztály gyermekei tanultak, erős ideológiai ellenőrzés alatt. Naponta háromszor masíroztak be szabályos sorokban az étkezőbe, az osztálytermek falain pedig Kim Ir Szen és Kim Dzsong Il portréi néztek rájuk. Négy osztálynyi, összesen kétszázhetven fiatalembert tanított angolra, ám természetesen az ő munkáját is erősen korlátozták; miközben cenzúrázták a leveleit, jegyzeteit és fotóit el kellett rejtenie felügyelői, sőt saját kollégái elől is. Erről a megdöbbentő kommunista diktatúráról, az országnak álcázott büntetőtáborról, az elitiskoláról és az ott eltöltött időszakról szól nagy sikert aratott könyve, amely végre magyarul is olvasható (a kötetcím egyébként egy Kim Ir Szent dicsőítő énekből vett idézet). Megtudhatjuk, hogy minden megtartott órájáról előbb óratervet kellett elkészítenie, amit jóvá kellett hagyni, és minden órájáról jelentés készült, kiegészítve a bepoloskázott tanteremben készült hangfelvételekkel. A diákok mindennapjai a tökéletesnek kikiáltott rendszerről szóltak, még szabadidejüket is a Nagy Vezér töltötte ki, miközben a külvilágról tilos volt beszélni, csakúgy, mint a modern kor vívmányairól (a számítástechnikai hallgatók például nem tudták, hogy létezik az internet). Leírja például az első óráját: amikor házi feladatként magánleveleket íratott velük, és egyáltalán nem azt kapta, mint amire számított. Azt is hamar megtanulta, hogy képtelenség megtanítania őket esszét írni: abban ugyanis valaki leírja a saját gondolatait, és azt alátámasztja bizonyítéko&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -15,9 +15,8 @@
         <dc:identifier opf:scheme="MOLY_HU">suki-kim-nelkuled-mi-sem-vagyunk</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>History</dc:subject>
-        <dc:subject>Asia</dc:subject>
+        <dc:subject>Ázsia</dc:subject>
         <dc:subject>Korea</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Suki Kim&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2021-09-30T18:46:31+00:00"/>
         <meta name="calibre:title_sort" content="Nélküled mi sem vagyunk"/>

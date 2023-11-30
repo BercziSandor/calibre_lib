@@ -114,6 +114,7 @@
 - Karen Joy Fowler: A Jane Austen könyvklub [részletek](../_details/Karen%20Joy%20Fowler.md#id_629)
 - Karin Slaughter: Bőr [részletek](../_details/Karin%20Slaughter.md#id_599)
 - Karin Slaughter: Nadragulya [részletek](../_details/Karin%20Slaughter.md#id_788)
+- Karin Slaughter: Összetörve [részletek](../_details/Karin%20Slaughter.md#id_1488)
 - Kathy Reichs: A holtak beszélnek [részletek](../_details/Kathy%20Reichs.md#id_157)
 - Kenneth Roberts: Északnyugati átjáró [részletek](../_details/Kenneth%20Roberts.md#id_745)
 - Vonnegut, Kurt: Isten hozott a majomházban! [részletek](../_details/Vonnegut%2C%20Kurt.md#id_750)

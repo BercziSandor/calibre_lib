@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">06fe6374-6c9e-4c53-b8dd-734aad6ec34d</dc:identifier>
         <dc:title>Halott angyal</dc:title>
         <dc:creator opf:file-as="Schwarz, Åsa" opf:role="aut">Åsa Schwarz</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Ararát ​hegység, Törökország, napjainkban&lt;br&gt;Nova talál egy térképet, amely egykor nagyon fontos volt az édesanyja számára. A térkép egy 5000 méter magasan fekvő katonai övezetet ábrázol, amelyet szinte lehetetlen megközelíteni. Csakhogy Novának senki és semmi nem állhat az útjába! Feltétlenül ki akarja deríteni, mit rejt a titokzatos térkép, miközben abban reménykedik, hogy az Ararát hegy csúcsán végre választ kap az édesanyja halála után felmerült kérdésekre.&lt;br&gt;Nova éppen az Ani nevű örmény romváros felé tart a Greenpeace egyik oszlopos tagjával, Benjaminnal, amikor valaki váratlanul hátba támadja őket. Nova kómába esik, és csak egy hét múlva tér magához egy stockholmi kórházban. A lány semmit sem ért, de leginkább az foglalkoztatja, hogy hová tűnt a fiú.&lt;br&gt;Nova az orvosok figyelmeztetésére fittyet hányva elhatározza, hogy visszautazik Törökországba, hogy megkeresse a barátját, és kiderítse, hogy mit jelentenek az édesanyja lakásában talált, Noé bárkáját jelképező misztikus jelek.&lt;br&gt;„A történelem az elfogadott hazugságok összessége.”&lt;br&gt;Napóleon&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -20,10 +20,9 @@
         <dc:subject>regény</dc:subject>
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>svéd szerző</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>krimi</dc:subject>
         <dc:subject>skandináv</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Åsa Schwarz&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Nova Barakel"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="6"/>

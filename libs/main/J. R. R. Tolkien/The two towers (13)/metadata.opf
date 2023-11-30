@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9dbc639f-8d57-4701-8502-08496a5663d8</dc:identifier>
         <dc:title>The two towers</dc:title>
         <dc:creator opf:file-as="Tolkien, J. R. R." opf:role="aut">J. R. R. Tolkien</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1992-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Hobbits ​and wizards and Sauron--oh, my! Mild-mannered Oxford scholar John Ronald Reuel Tolkien had little inkling when he published The Hobbit; Or, There and Back Again in 1937 that, once hobbits were unleashed upon the world, there would be no turning back. Hobbits are, of course, small, furry creatures who love nothing better than a leisurely life quite free from adventure. But in that first novel and the Lord of the Rings trilogy, the hobbits Bilbo and Frodo and their elfish friends get swept up into a mighty conflict with the dragon Smaug, the dark lord Sauron (who owes much to proud Satan in Paradise Lost), the monstrous Gollum, the Cracks of Doom, and the awful power of the magical Ring. The four books' characters--good and evil--are recognizably human, and the realism is deepened by the magnificent detail of the vast parallel world Tolkien devised, inspired partly by his influential Anglo-Saxon scholarship and his Christian beliefs. (He disapproved of the relative sparseness of detail in the comparable allegorical fantasy his friend C.S. Lewis dreamed up in The Chronicles of Narnia, though he knew Lewis had spun a page-turning yarn.) It has been estimated that one-tenth of all paperbacks sold can trace their ancestry to J.R.R. Tolkien. But even if we had never gotten Robert Jordan's The Path of Daggers and the whole fantasy genre Tolkien inadvertently created by bringing the hobbits so richly to life, Tolkien's epic about the Ring would have left our world enhanced by enchantment.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -16,7 +16,6 @@
         <dc:identifier opf:scheme="MOLY_HU">j-r-r-tolkien-the-hobbit-the-lord-of-the-rings</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B007978PKY</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>angol nyelvű</dc:subject>
         <dc:subject>angol szerző</dc:subject>
         <dc:subject>brit szerző</dc:subject>
         <dc:subject>kaland</dc:subject>
@@ -24,7 +23,6 @@
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Irodalom</dc:subject>
         <dc:subject>Szórakoztató irodalom</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;J. R. R. Tolkien&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="A gyűrűk Ura"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>

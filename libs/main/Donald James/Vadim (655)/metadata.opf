@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">5d21553d-1dce-435d-becd-e0c2307f595f</dc:identifier>
         <dc:title>Vadim</dc:title>
         <dc:creator opf:file-as="James, Donald" opf:role="aut">Donald James</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2006-02-19T23:00:00+00:00</dc:date>
         <dc:description>&lt;p&gt;A polgárháború már a múlté, de Oroszország továbbra sem lélegezhet fel. 
 Tébécé járvány ütötte fel a fejét, tízezrek pusztulnak el. Milliók 
@@ -31,8 +31,7 @@ sejt, mi vár rá az út végén.&lt;/p&gt;</dc:description>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>Oroszország</dc:subject>
         <dc:subject>sorozat része</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Donald James&quot;: &quot;&quot;}"/>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:series" content="Vadim-trilógia"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="10"/>

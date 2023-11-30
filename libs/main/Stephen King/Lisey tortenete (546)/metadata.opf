@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6fa6e2c2-967d-4325-ba82-cc2ded931f56</dc:identifier>
         <dc:title>Lisey története</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-02-20T00:00:00+00:00</dc:date>
         <dc:description>Lisey ​Debusher Landon huszonöt év házasság után vesztette el férjét, Scottot, aki több díjjal kitüntetett, népszerű író volt. Két év telt el azóta, s most végre elég erőt érez magában, hogy rendezze az irodalmi hagyatékot. Ráadásul kutatók és egyetemi könyvtárak is sürgetik, szeretnének hozzájutni a kiadatlan kéziratokhoz. Lisey munkához lát. Egyre több minden kerül elő, nemcsak befejezetlen vagy épphogy elkezdett művek, hanem recenziók, újságcikkek, interjúk, fényképek is. Liseyben megelevenedik a múlt. Mély és nagyon bensőséges kapcsolatukat néha rémisztő elemek árnyékolták. Scott roppant bonyolult személyiség volt, s gyermekkorában rettenetes traumák érték. Ez tükröződött a műveiben is. Lisey, aki rengeteget tanult tőle a könyvekről és az olvasásról általában, megismerhette a lélek mélységeit is. Később megértette, hogy létezett egy hely, ahová Scott visszavonult, egy hely, amely férjét megbetegítette, de ugyanakkor meg is gyógyította, amely elevenen felfalhatta, ám vezérelveket is adott életéhez. Most, Scott halála után Liseynek kell szembenéznie férje démonaival, s miközben átfésüli a papírhalmot, kezdetét veszi egy majdhogynem végzetes utazás a Scott-féle sötétség birodalmába. Kingnek talán ez a legszemélyesebb és legerőteljesebb műve az alkotás gyötrelmeiről, az őrület kísértéséről és a szerelem titokzatos nyelvéről. És mint megszokhattuk, borzongató, feszült, izgalmas olvasmány a kiapadhatatlan fantáziájú író tollából.</dc:description>
         <dc:publisher>Európa</dc:publisher>
@@ -26,13 +26,12 @@
         <dc:subject>paranormális</dc:subject>
         <dc:subject>Szórakoztató irodalom</dc:subject>
         <dc:subject>Fantasy</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>gótikus irodalom</dc:subject>
         <dc:subject>gyermekbántalmazás</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>amerikai</dc:subject>
         <dc:subject>Irodalom</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2013-07-09T11:02:03+00:00"/>
         <meta name="calibre:title_sort" content="Lisey története"/>

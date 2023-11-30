@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">44037a90-6a2e-4f1d-acc4-95953b2fee2b</dc:identifier>
         <dc:title>A titokzatos őzbak</dc:title>
         <dc:creator opf:file-as="Wass, Albert" opf:role="aut">Wass, Albert</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2003-02-22T00:00:00+00:00</dc:date>
         <dc:description>„Minden útnak valahol vége van. S emberi tulajdonság, hogy az út végén visszafordulunk s eltűnődünk életünk értelmén. Addig nem, de akkor igen. Addig csak megyünk ösztönösen s néha vakon is, egy nyom, egy cél, egy gondolat után. Hogy miért, azon majd töprengünk a végén, ha kifut az út lábaink alól s lábainkból kifogy az erő. Talán én is rájövök egyszer, hogy céltalan kapkodás volt az egész s legjobb lett volna semmit sem csinálni. De addig még sok idő van. Sok hegygerinc, sok völgy és sok tető. S keresztül rajtuk a nyom, amit követnem kell.” (Részlet a könyvből)</dc:description>
         <dc:publisher>Kráter</dc:publisher>
@@ -17,10 +17,8 @@
         <dc:subject>határon túli</dc:subject>
         <dc:subject>magyar szerző</dc:subject>
         <dc:subject>erdélyi magyar szerző</dc:subject>
-        <dc:subject>Biographies</dc:subject>
         <dc:subject>Biography</dc:subject>
         <dc:subject>önéletrajz</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Wass, Albert&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-11-17T20:51:12+00:00"/>
         <meta name="calibre:title_sort" content="titokzatos őzbak, A"/>

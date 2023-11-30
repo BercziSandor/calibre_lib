@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">7b5a910e-0f3b-4aa6-931a-44ec3cb4aba2</dc:identifier>
         <dc:title>Hadnagyok</dc:title>
         <dc:creator opf:file-as="Griffin, W. E. B." opf:role="aut">W. E. B. Griffin</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2005-02-18T23:00:00+00:00</dc:date>
         <dc:description>&lt;p class="description"&gt;Fiatalok voltak és álmodozók, akik jelentkeztek a Hadsereg hívó szavára. Megjárták a második világháború poklát. Észak-Afrika és Európa véres hadszínterein harcoltak, tették kötelességüket – Craig W. Lowell, a milliomos sorkatona, Sanford T. Felter, az aranyszívű kis zsidó, Rudolph G. MacMillan, a dörzsölt skót, IV. Philip S. Parker, a katonaőseire büszke, fekete óriás és társaik. Fiúk voltak, amikor elmentek, és akik férfiként visszatértek, csatában megedződött profi katonákká váltak…&lt;/p&gt;</dc:description>
         <dc:publisher>Gold Book</dc:publisher>
@@ -13,13 +13,12 @@
         <dc:identifier opf:scheme="ISBN">9634250386</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>2. világháború</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>hadsereg</dc:subject>
         <dc:subject>katonaság</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>sorozat része</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;W. E. B. Griffin&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="A háború katonái"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2012-11-18T20:09:54+00:00"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">89847845-d9da-46e1-aebc-94a2d146d85c</dc:identifier>
         <dc:title>Az informátorok</dc:title>
         <dc:creator opf:file-as="Ellis, Bret Easton" opf:role="aut">Bret Easton Ellis</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2007-09-29T22:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Ha a tisztelt olvasó netán az Amerikai Psycho élményét szeretné újra átélni – azaz, ne kerteljünk, szadizmusra és perverzitásra vágyik –, akkor lapozza fel nyugodtan A nyár titkai vagy Az ötödik kerék című elbeszélést. Az ezekben szereplő vámpírok bizonnyal kielégítik az igényeit: még hasonlítanak is ránk (vagy legalábbis bármelyik gazdag amerikaira): az egyiknek például „új, méretre szabott, felspécizett koporsója” van „FM rádióval, kazettás magnóval, digitális ébresztőórával, márkás Perry Ellis ágyneművel, telefonnal, kis színes tévével, beépített videóval és kábelcsatlakozással (MTV. HBO)”. Ez a hasonlóság természetesen nem véletlen, s éppen ezért jobb mégiscsak elolvasni a kötetet az elejétől a végéig; a tizenhárom elbeszélés szereplői valamiképpen mind vámpírok, igazi emberi kommunikációra képtelen furcsa lények…&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -17,7 +17,7 @@
         <dc:language>hun</dc:language>
         <dc:subject>1980-as évek</dc:subject>
         <dc:subject>20. század</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>elbeszélés</dc:subject>
         <dc:subject>filmadaptáció</dc:subject>
@@ -28,7 +28,6 @@
         <dc:subject>novella</dc:subject>
         <dc:subject>összetett regény</dc:subject>
         <dc:subject>regény</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Bret Easton Ellis&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2021-09-30T18:38:13+00:00"/>
         <meta name="calibre:title_sort" content="informátorok, Az"/>

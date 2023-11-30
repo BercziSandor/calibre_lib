@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">772bee44-f59c-4998-80de-9fa43629baae</dc:identifier>
         <dc:title>Tizenhárom almafa</dc:title>
         <dc:creator opf:file-as="Wass, Albert" opf:role="aut">Wass, Albert</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-02-22T00:00:00+00:00</dc:date>
         <dc:description>Az 1953-ban írt Tizenhárom almafa a klasszikus történelmi regény hagyományai szerint a nagypolitika történései helyett inkább arra összpontosít, hogy e történések hatása miképpen jelenik meg a kisemberek életében, ez esetben a kommandói vadőr, Tánczos Csuda Mózsi és családja mindennapjaiban. Az újonnan kijelölt magyar-román határ éppen Mózsiék háza alatt szeli ketté Erdélyországot. Mózsi annak idején húsz almafát ültetett a ház mellé, melyekből Észak-Erdély hazatérésekor már csupán tizenhárom fácska növekszik a kommandói hegyoldalban. A remek humorral fűszerezett szatírikus mű visszatérő motívumaként szerepeltetett almafák így válnak a székely megmaradás jelképévé: a csonkokból életrevaló vesszők sarjadnak, bizonyítván azt, hogy „Isten, aki a kivágott csonkból termőfát tud növeszteni újra, nem hagyja elveszni a népeket sem, akik benne hisznek.”</dc:description>
         <dc:publisher>Duna International</dc:publisher>
@@ -17,10 +17,10 @@
         <dc:subject>magyar szerző</dc:subject>
         <dc:subject>Székelyföld</dc:subject>
         <dc:subject>erdészet</dc:subject>
-        <dc:subject>erdélyi magyar</dc:subject>
+        <dc:subject>erdélyi magyar szerző</dc:subject>
         <dc:subject>székely</dc:subject>
         <dc:subject>regény</dc:subject>
-        <dc:subject>erdélyi</dc:subject>
+        <dc:subject>Erdély</dc:subject>
         <dc:subject>1940-es évek</dc:subject>
         <dc:subject>klasszikus</dc:subject>
         <dc:subject>katonaság</dc:subject>
@@ -30,9 +30,7 @@
         <dc:subject>20. század</dc:subject>
         <dc:subject>Historical Fiction</dc:subject>
         <dc:subject>férfi főszereplő</dc:subject>
-        <dc:subject>erdélyi magyar szerző</dc:subject>
         <dc:subject>vadászat</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Wass, Albert&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2012-11-17T20:51:28+00:00"/>
         <meta name="calibre:title_sort" content="Tizenhárom almafa"/>

@@ -183,7 +183,6 @@
 - Örkény, István: Válogatott egyperces novellák [részletek](../_details/%C3%96rk%C3%A9ny%2C%20Istv%C3%A1n.md#id_516)
 - Orvos-Tóth, Noémi: Örökölt sors [részletek](../_details/Orvos-T%C3%B3th%2C%20No%C3%A9mi.md#id_1290)
 - Pál, Ferenc: A függőségtől az intimitásig [részletek](../_details/P%C3%A1l%2C%20Ferenc.md#id_664)
-- Polcz Alaine: Asszony a fronton [részletek](../_details/Polcz%20Alaine.md#id_1443)
 - Polcz, Alaine: Ideje a meghalásnak [részletek](../_details/Polcz%2C%20Alaine.md#id_1440)
 - Polcz, Alaine: Macskaregény [részletek](../_details/Polcz%2C%20Alaine.md#id_1439)
 - Polcz, Alaine: Meghalok én is? [részletek](../_details/Polcz%2C%20Alaine.md#id_1441)

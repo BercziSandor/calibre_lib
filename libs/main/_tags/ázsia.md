@@ -6,4 +6,5 @@
 - James Clavell: Gajdzsin [részletek](../_details/James%20Clavell.md#id_1028)
 - James Ramsey Ullman: A Himalája fia [részletek](../_details/James%20Ramsey%20Ullman.md#id_953)
 - Robert Ludlum: Bourne Hatalma [részletek](../_details/Robert%20Ludlum.md#id_40)
+- Suki Kim: Nélküled mi sem vagyunk [részletek](../_details/Suki%20Kim.md#id_1457)
 - Terebess, Gábor: Ezerízű Kína [részletek](../_details/Terebess%2C%20G%C3%A1bor.md#id_973)

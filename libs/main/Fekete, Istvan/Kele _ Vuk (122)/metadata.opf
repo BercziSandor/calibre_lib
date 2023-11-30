@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">444cbc5c-d693-45a8-a1fb-148df8ce91c1</dc:identifier>
         <dc:title>Kele / Vuk</dc:title>
         <dc:creator opf:file-as="Fekete, István" opf:role="aut">Fekete, István</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1987-02-18T00:00:00+00:00</dc:date>
         <dc:description>KELE
 Megsebesül ​egy gólya, nem tarthat a többiekkel Afrikába. Hogyan veszi gondjába az ember, hogyan szokik össze a háziállatokkal, hogyan vészeli át a telet, milyen ösztönöket ráz fel benne a tavasz és a nyár – ezt mondja el vonzóan és költőien Fekete István, a természeti világ és falusi élet avatott ismerője. Nemcsak a vadon élő és ősidők óta emberhez szelídült állatok találkozásáról van szó azonban. Nemcsak a házőrző kutya, a csacsi és a ló meg tehén tárgyalja meg életének apró-cseprő gondját és baját Kelével, a sérült szárnyú és következésképpen túlzottan érzékeny, szilajul gyanakvó gólyával. Itt az ember is a természet egészének szerves részeként él falusi környezetében. 
@@ -18,7 +18,7 @@ A rókavárban szuszog nyolc rókakölyök. Kag és Iny, az apa- és anyaróka g
         <dc:language>hun</dc:language>
         <dc:subject>magyar szerző</dc:subject>
         <dc:subject>róka</dc:subject>
-        <dc:subject>elbeszélések</dc:subject>
+        <dc:subject>elbeszélés</dc:subject>
         <dc:subject>Tartalom szerint</dc:subject>
         <dc:subject>Állattörténetek</dc:subject>
         <dc:subject>állat</dc:subject>
@@ -36,7 +36,6 @@ A rókavárban szuszog nyolc rókakölyök. Kag és Iny, az apa- és anyaróka g
         <dc:subject>ifjúsági</dc:subject>
         <dc:subject>Az író származása szerint</dc:subject>
         <dc:subject>illusztrált</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Fekete, István&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2012-11-16T19:43:57+00:00"/>
         <meta name="calibre:title_sort" content="Kele / Vuk"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">8fbac55c-e80a-468e-b725-1cb5ed1a31f3</dc:identifier>
         <dc:title>Kóma</dc:title>
         <dc:creator opf:file-as="Cook, Robin" opf:role="aut">Robin Cook</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-02-18T00:00:00+00:00</dc:date>
         <dc:description>„A ​parkoló körül nem látott semmi gyanúsat. Behúzta a függönyt, égve hagyta a villanyt, és bezárta az ajtót. A folyosón megállt, és ahogy a filmekben látta, a padlótól pár centire összehajtogatott papírdarabot dugott az ajtó hasadékába. A kollégium alagsorát folyosó kötötte össze az Anatómiai és Kórélettani Intézettel. Itt futottak a központi fűtés csövei, az elektromos kábelek, és rossz idő esetén a diákok is erre jártak át. Susan nem tudta, nem követik-e, csak azt tudta, hogy ha igen, nem adja meg könnyen magát, és igyekszik lerázni az illetőt. A legtekervényesebb úton haladt. Az Anatómiai Intézet főépületéből átment egy átjárón a központi épületbe, s onnan a könyvtáron keresztül ki a Huntington Avenue-ra, ahol taxiba vágta magát. Pár száz méter után szól a sofőrnek, hogy forduljon meg, és vigye vissza oda, ahol felvette. A kocsiban maradt, felhajtotta a kabátgallérját, hogy ne ismerjék fel, és körülnézett, nem követik-e. Nem követték. Megnyugodott ás szólt a sofőrnek, hogy vigye a Memorial kórházba.”
 Mit keres Susan Wheeler orvostanhallgató a Memorial kórházban? És az Anatómiai Intézetben?
@@ -26,7 +26,7 @@ A regényből készült filmet Magyarországon is nagy sikerrel játszották.</d
         <dc:subject>női főszereplő</dc:subject>
         <dc:subject>orvosi krimi</dc:subject>
         <dc:subject>regény</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-11-15T20:40:53+00:00"/>
         <meta name="calibre:title_sort" content="Kóma"/>

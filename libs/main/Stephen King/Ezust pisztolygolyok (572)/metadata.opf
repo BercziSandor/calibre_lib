@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">611c2b2d-b070-43f8-835f-e5851660eaed</dc:identifier>
         <dc:title>Ezüst pisztolygolyók</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1989-02-20T00:00:00+00:00</dc:date>
         <dc:description>A hold minden lelkes, avatott vagy amatőr bámulójának feltünhetett, hogy jó néhány pontatlanságot engedtem meg magamnak a történeti elképzelt ideje, az 1984-es év holdciklusait illetően. Ezúton üzenem azon kedves olvasóimnak, akik talán azt gondolják,hogy jobb jutott eszembe, hogy de igen… csak túlságosan nagy volt a kísértés, és nem tudtam neki ellenállni.</dc:description>
         <dc:publisher>Ararát</dc:publisher>
@@ -24,9 +24,8 @@
         <dc:subject>kortárs</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>novella</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>vérfarkas</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2013-09-05T07:33:14+00:00"/>
         <meta name="calibre:title_sort" content="Ezüst pisztolygolyók"/>

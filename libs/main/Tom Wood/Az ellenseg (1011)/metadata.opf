@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">4f51fc4d-3b83-407e-838a-77b24ffba8a2</dc:identifier>
         <dc:title>Az ellenség</dc:title>
         <dc:creator opf:file-as="Wood, Tom" opf:role="aut">Tom Wood</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;p class="description"&gt;Még hogy James Bond! Még hogy Jason Bourne! Még hogy Jack Bauer! Ismerd meg Victort! A világ legfélelmetesebb bérgyilkosa kénytelen-kelletlen szövetségben a CIA-val. És kezében a lista: három név, három áldozat. Csakhogy a játék minden kipipált névvel komplikáltabbá – és életveszélyesebbé – válik. Ráadás kell? Ott egy oltalomra szoruló nő meg egy felgöngyölítendő összeesküvés – íme, a tökéletes orgyilkos egyszeriben tökéletes célponttá változott! Az ellenség Moszkvától Londonig, Londontól Washingtonig csapongó cselekménye csupa feszültség, csavar és izgató testiség, magas fordulatszámú krimi a javából Lee Child meg A Bourne-rejtély rajongóinak.&lt;/p&gt;</dc:description>
         <dc:publisher>Európa</dc:publisher>
@@ -22,10 +22,9 @@
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>sorozat része</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>Irodalom</dc:subject>
         <dc:subject>Szórakoztató irodalom</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Tom Wood&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Victor"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>

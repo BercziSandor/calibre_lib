@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b69d1fd9-e17e-4b37-adf6-a4169e6ddc18</dc:identifier>
         <dc:title>Kulcs az éjfélhez</dc:title>
         <dc:creator opf:file-as="Koontz, Dean R." opf:role="aut">Dean R. Koontz</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2001-02-20T00:00:00+00:00</dc:date>
         <dc:description>Az amerikai Joanna Rand lassan tíz éve dolgozik Japánban, mint egy nightclub énekesnője. És azóta nem tud szabadulni egy nyomasztó álomtól: valaki vadászik rá. Nap mint nap, minden éjjel. Egy magányos, elmosódott figurát lát maga előtt, aki acél ujjaival egy injekciós tű után nyúl. Felkavarják és kimerítik ezek az álmok. Alex Hunter kitartóan próbál segíteni a gyönyörű, izgalmas nőnek. Határozottan emlékszik, hogy már látta egyszer Joannát, mégpedig egy újság fotón, mely egy szenátor tíz évvel ezelőtt eltűnt lányáról készült. A férfi lassan, fokozatosan ráébreszti szerelmét, hogy nem az, akinek gondolja magát, emlékeit, gondolatvilágát mesterségesen alakították ki. De elfordítja-e a nő az egyetlen kulcsot, mely énje legrejtettebb mélyéig vezet?</dc:description>
         <dc:publisher>Animus</dc:publisher>
@@ -23,11 +23,10 @@
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>akció</dc:subject>
         <dc:subject>Szépirodalom</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>kaland</dc:subject>
         <dc:subject>pszicho-thriller</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Dean R. Koontz&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-12-12T09:59:26+00:00"/>
         <meta name="calibre:title_sort" content="Kulcs az éjfélhez"/>

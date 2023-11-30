@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a4dadf87-95ea-45eb-98ad-d5dc2b8f9f0d</dc:identifier>
         <dc:title>Három nővér</dc:title>
         <dc:creator opf:file-as="Csehov, Anton Pavlovics" opf:role="aut">Csehov, Anton Pavlovics</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-03-01T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A Három nővér a kárba veszett szépség drámája. A három testvér (Olga, Mása és Irina) egy vidéki városban él. Életük kusza, szerelmeik zűrzavarosak, mindhárman boldogtalanok. A darab hangulatát a szenvedésnek ez a megfoghatatlan légköre adja, s ugyanilyen megfoghatatlan az „optimizmus”, amely a mű végén fogalmazódik meg: „… a mi életünk még nem fejeződött be… nemsokára megtudják, miért élünk, miért szenvedünk…” A darab, amelynek sem tragikus konfliktusa, sem tragikus szereplői nincsenek, a mozgalmas és az értelmes élet iránti enervált, meddő várakozást rajzolja meg. A három nővér jellegzetes csehovi hősök, akiket a közös – az élet elhibázott, a célokat, eszményeket az életbe átültetni nem tudó, akarat és tartás nélküli, de gazdag belső világot felmutató – szellemiség tart össze.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -14,13 +14,12 @@
         <dc:identifier opf:scheme="MOLY_HU">anton-pavlovics-csehov-harom-nover</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>20. század</dc:subject>
-        <dc:subject>dráma (műnem)</dc:subject>
+        <dc:subject>dráma</dc:subject>
         <dc:subject>hangoskönyv</dc:subject>
         <dc:subject>klasszikus</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>női főszereplő</dc:subject>
         <dc:subject>orosz szerző</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Csehov, Anton Pavlovics&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2021-03-02T14:11:43+00:00"/>
         <meta name="calibre:title_sort" content="Három nővér"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">428f1a3b-2203-4ac9-94cd-9e8c8990b37d</dc:identifier>
         <dc:title>Agy</dc:title>
         <dc:creator opf:file-as="Cook, Robin" opf:role="aut">Robin Cook</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2009-02-17T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;„Katherine Collins bizonytalan léptekkel ment végig a járdától fölvezető három lépcsőfokon. Aztán meglökte a csupa üveg és krómacél ajtót, de az nem nyílt ki. Hátrahajolva nézett föl a magasan díszelgő feliratra 'Hobson Egyetem Egészségügyi Központja: New York város betegei és elesettjei szolgálatában'. De Katherine inkább ezt olvasta ki belőle: 'Ki itt belépsz, hagyj fel minden reménnyel.' (…) Maria Gonzales megpróbálta fölébreszteni Lynn Anne-t. Nehéz dolga volt. Elmagyarázta a mentősöknek, hogy telefonon utasították: egy várható roham elkerülése végett adjanak a betegnek dupla adag altatót, s hozzá még phenobarbitalt is. Az emberek erre azt mondták, nem baj, ha nem ébred föl..”&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -19,8 +19,7 @@
         <dc:subject>mesterséges intelligencia</dc:subject>
         <dc:subject>orvosi krimi</dc:subject>
         <dc:subject>regény</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Robin Cook&quot;: &quot;&quot;}"/>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-11-15T20:40:42+00:00"/>
         <meta name="calibre:title_sort" content="Agy"/>

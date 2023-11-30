@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b488a32f-592d-45e0-81dc-6ca9a169a251</dc:identifier>
         <dc:title>A neveletlen hercegnő naplója 1.</dc:title>
         <dc:creator opf:file-as="Cabot, Meg" opf:role="aut">Meg Cabot</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2002-04-21T22:00:00+00:00</dc:date>
         <dc:description>&lt;p class="description"&gt;Mia Thermopolis szerint nincs szörnyűbb dolog, mintha valaki százhetvennyolc centi magas, lapos a melle, elsős a gimnáziumban, ráadásul bukásra áll matematikából. De a java még ezután következik....&lt;br&gt;&lt;br&gt;Először a mamája bejelenti, hogy Mia matektanárával jár. Utána a papája jelenti be, hogy ő Genovia hercege... És sehol egy fiú...&lt;/p&gt;</dc:description>
         <dc:publisher>Ciceró</dc:publisher>
@@ -14,15 +14,14 @@
         <dc:identifier opf:scheme="ISBN">9635394632</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>Amerika</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>Az író származása szerint</dc:subject>
         <dc:subject>Szépirodalom</dc:subject>
         <dc:subject>Regények</dc:subject>
         <dc:subject>gyermek- és ifjúsági irodalom</dc:subject>
         <dc:subject>Lányregények</dc:subject>
-        <dc:subject>elbeszélések</dc:subject>
+        <dc:subject>elbeszélés</dc:subject>
         <dc:subject>Tartalom szerint</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Meg Cabot&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="A neveletlen hercegnö naploja"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

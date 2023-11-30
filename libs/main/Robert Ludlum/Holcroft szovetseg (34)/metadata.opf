@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">59cc18e0-935e-48a3-8a16-64cdab2636ff</dc:identifier>
         <dc:title>Holcroft szövetség</dc:title>
         <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2001-02-21T00:00:00+00:00</dc:date>
         <dc:description>Szokatlanul ​kezdődik a történet. Még tart a második világháború, amikor egy német tengeralattjáróba több száz gyereket (csecsemőtől 13 éves korig) zsúfolnak be, majd ismeretlen helyre szállítják őket. Teszik mindezt egy alaposan kigondolt terv részeként. Az ötlet néhány náci tiszt fejében fogalmazódott meg, akik szerint a Vezér nem volt elég kíméletlen és elszánt, ezért majd ők a harmadik világháborúval megmutatják, hogyan kell leigázni a világot.
 Összegyűjtötték tehát a több ezer, orvosilag ellenőrzött, teljesen egészséges árja gyereket és titokban a világ különböző országaiba szállították, majd hosszú évek kemény és kegyetlen nevelésével olyan közkatonákká képezték őket, akik vakon engedelmeskednek minden felsőbb parancsnak.
@@ -21,7 +21,7 @@ Végezetül: Ludlum eme korai regénye rendkívül izgalmas és érdekfeszítő.
         <dc:language>hun</dc:language>
         <dc:subject>kalandregény</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>történelem</dc:subject>
         <dc:subject>krimi</dc:subject>
         <dc:subject>világtörténelem</dc:subject>
@@ -34,7 +34,6 @@ Végezetül: Ludlum eme korai regénye rendkívül izgalmas és érdekfeszítő.
         <dc:subject>misztikus</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Robert Ludlum&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-11-13T14:29:52+00:00"/>
         <meta name="calibre:title_sort" content="Holcroft szövetség"/>

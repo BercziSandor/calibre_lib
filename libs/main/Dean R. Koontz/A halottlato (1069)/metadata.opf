@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">86769a95-5c85-4348-b23f-9f8dc1b513d6</dc:identifier>
         <dc:title>A halottlátó</dc:title>
         <dc:creator opf:file-as="Koontz, Dean R." opf:role="aut">Dean R. Koontz</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2005-02-20T00:00:00+00:00</dc:date>
         <dc:description>A 21 éves fiatalember, Odd Thomas, egy csendes és békés amerikai kisvárosban, Pico Mundóban éli hétköznapi, ugyanakkor nem mindennapi eseményekben bővelkedő életét. Odd ugyanis különösen erős hatodik érzékkel rendelkezik, amely lehetővé teszi számára, hogy lássa a világunkban rekedt holtak szellemét, és esetenként segítsen nekik továbblépni a következő világba. A gonosz szellemek sem maradnak rejtve előtte, amelyek megjelenése mindig valami baljós eseményt vetít előre. És mostanában egyre gyakoribbak a rossz előjelek. Egyre több gonosz lény kószál a városka utcáin, majd rálőnek a rendőrfőnökre. Odd tudja, hogy valami hatalmas tragédia közeleg. A fiú minden erejét bevetve igyekszik a gyilkosok nyomára bukkanni, és megakadályozni a mészárlást, de az idő egyre fogy…</dc:description>
         <dc:publisher>Animus</dc:publisher>
@@ -14,7 +14,7 @@
         <dc:language>hun</dc:language>
         <dc:subject>nyomozás</dc:subject>
         <dc:subject>misztikus</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>nyár</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>krimi</dc:subject>
@@ -22,11 +22,10 @@
         <dc:subject>filmadaptáció</dc:subject>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>szellemek</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>Kalifornia</dc:subject>
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Dean R. Koontz&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Odd Thomas"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

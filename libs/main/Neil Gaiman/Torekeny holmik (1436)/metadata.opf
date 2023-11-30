@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3883dee2-27e0-44a2-974b-cdf31e44cdfa</dc:identifier>
         <dc:title>Törékeny holmik</dc:title>
         <dc:creator opf:file-as="Gaiman, Neil" opf:role="aut">Neil Gaiman</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-09-14T22:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Neil Gaimant a magyar olvasóközönség elsősorban fantasy regényei okán ismerhette és szerethette meg; a műfaj nem változott ezúttal sem, a különbség csak annyi, hogy a jelen kötetben nem egyetlen hosszabb történet, hanem több rövidprózai és lírai alkotása kapott helyet. A választékban sok-sok egyéb mellett olyan novellák szerepelnek, mint a Smaragdzöld tanulmány című misztikus „minikrimi”, az egy élő és egy halott fiú történetét elbeszélő Október a székben, a Záróra című klasszikus kísértettörténet, A térképkészítő, amely a hajdani Kínába kalauzol el, az Emlékek és kincsek című szokatlan szerelmi történet, a Narnia krónikái által ihletett Susan problémája vagy épp a Falatok és falatozók, mely egy igazi rémálomból született. Ezek mellett – felvillantva a szerző egy eleddig ismeretlen arcát – versek (Tündérverkli; A titkos kamra; Befásulni; A csészealjak eljövetelének napja stb.) is találhatóak a kötetben. "www.kello.hu © minden jog fenntartva"&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -33,9 +33,8 @@
         <dc:subject>pedofília</dc:subject>
         <dc:subject>sci-fi</dc:subject>
         <dc:subject>szellemek</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>urban fantasy</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Neil Gaiman&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2021-09-30T18:15:26+00:00"/>
         <meta name="calibre:title_sort" content="Törékeny holmik"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">84d0a328-b62b-4378-969d-d2a28c4ca48b</dc:identifier>
         <dc:title>Fecske-völgy</dc:title>
         <dc:creator opf:file-as="Ransome, Arthur" opf:role="aut">Arthur Ransome</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Szervusztok ​gyerekek! Itt vagyunk megint! Az ám, mi vagyunk: a Fecskék és a Fruskák! Hiszen ismeritek már nagy kalandjainkat, pompás vakációs históriáinkat a „Fecskék és Fruskák” című kötetből. A történet, amelyről ebben a könyvben olvashattok, a felfedezéseinkről szól .Régebben ezen a címen jelent meg: Fecskék és Fruskák , a Felfedezők – dehát a Fecske-völgy mégiscsak jobban illik hozzá, mivelhogy a völgyet mi, a Fecskék fedeztük fel, amikor kis vitorlásunkkal zátonyra futottunk és …. Na, hogy aztán mi történt legyen ennek a könyvnek a titka. Még csak annyit: Arthur Ransome, híres angol író, aki ezt a könyvet írta, nagyon jól ismer bennünket, és biztosan nem unalmában találta ki a kalandjainkat. Hallhatott rólunk, megleshetett minket egyszóval úgy ismer, mint hús-vér gyerekeket ismer az ember. Igazán. Vagyis ami velünk történt, akár veletek is megeshet bármikor. Éppen csak egy kis képzelet kell hozzá. Mert elhihetitek, mi voltaképpen jó gyerekek vagyunk, a kalandok egy része a képzeletünkben zajlik – azazhogy marad még a kalandokból elég hogy a valósában is átéljük.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -35,11 +35,10 @@
         <dc:subject>Regények</dc:subject>
         <dc:subject>ifjúsági</dc:subject>
         <dc:subject>Kalandregények</dc:subject>
-        <dc:subject>elbeszélések</dc:subject>
+        <dc:subject>elbeszélés</dc:subject>
         <dc:subject>Nagy-Britannia</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>Tartalom szerint</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Arthur Ransome&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Fecskék és Fruskák"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="10"/>

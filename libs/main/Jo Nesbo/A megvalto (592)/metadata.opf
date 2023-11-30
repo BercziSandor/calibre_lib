@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9f0475a8-d302-4032-aa5e-b53e06708c65</dc:identifier>
         <dc:title>A megváltó</dc:title>
         <dc:creator opf:file-as="Nesbø, Jo" opf:role="aut">Jo Nesbø</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-02-22T00:00:00+00:00</dc:date>
         <dc:description>Egy héttel karácsony előtt, Oslo legforgalmasabb bevásárló utcáján agyonlövik a norvég Üdvhadsereg egyik munkatársát. Az eset előtt mindenki értetlenül áll. A nyomozást vezető Harry Holénak és csapatának szinte semmi kiindulópontja nincs: sem használható bűnjel, sem indíték, de még egy valamirevaló személyleírás sem. Mindössze annyit tudnak meg, hogy a tettes piros kendőt viselt a nyakán. Megindul hát a hajsza az ismeretlen, hidegvérű gyilkos után, aki közben tovább vadászik a norvég főváros fagyos utcáin, mert még nem végzett a feladatával…</dc:description>
         <dc:publisher>Animus</dc:publisher>
@@ -15,7 +15,7 @@
         <dc:subject>norvég szerző</dc:subject>
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>Norvégia</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>drog</dc:subject>
         <dc:subject>skandináv</dc:subject>
         <dc:subject>regény</dc:subject>
@@ -24,7 +24,6 @@
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>krimi</dc:subject>
         <dc:subject>21. század</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Jo Nesbø&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Harry Hole"/>
         <meta name="calibre:series_index" content="6"/>
         <meta name="calibre:rating" content="10"/>

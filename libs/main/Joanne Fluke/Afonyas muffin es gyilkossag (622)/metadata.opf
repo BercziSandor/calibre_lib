@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3d7feca7-4641-4d93-8467-260caf39755c</dc:identifier>
         <dc:title>Áfonyás muffin és gyilkosság</dc:title>
         <dc:creator opf:file-as="Fluke, Joanne" opf:role="aut">Joanne Fluke</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2007-02-18T00:00:00+00:00</dc:date>
         <dc:description>Végy ​egy téli álmában szendergő kisvárost, pezsdítsd fel egy Téli karnevállal, amelynek díszvendége az egyik legismertebb televíziós főzőműsor sztárja, bolondítsd meg az egészet a város első polgármesterének kísértetével és máris készen áll minden Hannah Swensen újabb esetéhez. 
 A szingli cukrásznő ismét kénytelen nyomozni, hiszen Connie Mac, a szár konyhatündér éppen az ő cukrászdájának a kamrájában kap a fejére halálos ütést egy baseballütővel. Ráadásul a fő gyanúsított: húgának egyik legjobb barátnője, akiről elképzelni sem lehet, hogy ilyet tegyen. S miután a Téli karnevál lékhorgász-versenyén a következő hulla is felbukkan a fagyos vízből, Hannah és húga immár mindent bevet a valódi gyilkos horogra akasztásáért.
@@ -27,8 +27,7 @@ A sok fordulat és izgalom között már-már alig jut idő a sütésre, de Hann
         <dc:subject>gasztroregény</dc:subject>
         <dc:subject>chick lit</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Joanne Fluke&quot;: &quot;&quot;}"/>
+        <dc:subject>USA</dc:subject>
         <meta name="calibre:series" content="Hannah Swensen titokzatos esetei"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>

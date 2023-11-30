@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1bc9f9fd-2ff1-4ec9-a0b5-0f2b661a42ca</dc:identifier>
         <dc:title>Hatalom és terror</dc:title>
         <dc:creator opf:file-as="Chomsky, Noam" opf:role="aut">Noam Chomsky</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2005-02-17T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Az USA közel-keleti beavatkozása idején készített interjúk. Chomsky elemzi a kialakult helyzetet, rávilágít a történelmi előzményekre, és a józan észre támaszkodva cáfolja a hivatalos média terrorizmussal kapcsolatos sztereotípiáit. Erőszakmentes megoldást kínál, ugyanakkor felhívja az USA figyelmét arra, hogy tartsa be azokat a morális elveket, amelyeknek betartását másoktól elvárja.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -14,7 +14,7 @@
         <dc:identifier opf:scheme="MOLY_HU">noam-chomsky-hatalom-es-terror</dc:identifier>
         <dc:identifier opf:scheme="ANTIK_HU">269581</dc:identifier>
         <dc:language>hun</dc:language>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>biztonságpolitika</dc:subject>
         <dc:subject>interjú</dc:subject>
@@ -32,7 +32,6 @@
         <dc:subject>Interjúk</dc:subject>
         <dc:subject>történelem</dc:subject>
         <dc:subject>politika</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Noam Chomsky&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-11-18T20:29:10+00:00"/>
         <meta name="calibre:title_sort" content="Hatalom és terror"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">639db727-ef95-4f0a-b3f1-836985a8739e</dc:identifier>
         <dc:title>Duma Key</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-02-20T00:00:00+00:00</dc:date>
         <dc:description>Edgar Freemantle jól menő építési vállalkozó, gazdag, kiegyensúlyozott, középkorú férfi, boldog családapa. Egy szép napon szörnyű munkahelyi balesetet szenved, kis híján életét veszti. Súlyos testi fogyatékossággal felépül ugyan, ám pszichés problémáival nehezen birkózik meg. A házassága tönkremegy. Pszichiátere „földrajzi kúrát” javasol, valamint azt, hogy olyasmibe kezdjen, amit régen nagyon szeretett csinálni.
 Így hát Edgar a floridai Duma Keyre költözik, erre a turistáktól kevéssé látogatott gyönyörű helyre, kilátással a Mexikói-öbölre. És olyasmibe kezd, amit egykor nagyon szeretett csinálni: rajzolni és festeni.
@@ -28,11 +28,10 @@
         <dc:subject>regény</dc:subject>
         <dc:subject>Szórakoztató irodalom</dc:subject>
         <dc:subject>Fantasy</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>pszicho-thriller</dc:subject>
         <dc:subject>Irodalom</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2013-07-09T11:08:42+00:00"/>
         <meta name="calibre:title_sort" content="Duma Key"/>

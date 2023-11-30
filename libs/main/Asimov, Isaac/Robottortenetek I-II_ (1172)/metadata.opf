@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d4d70ec9-3eb4-46c8-ad1f-cb9f384dd561</dc:identifier>
         <dc:title>Robottörténetek I-II.</dc:title>
         <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Asimov, Isaac</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1993-02-18T00:00:00+00:00</dc:date>
         <dc:description>A gyűjteményben valamennyi robottörténet szerepel, amelyet a világhírű író 1940 és 1976 között írt. Harmincegy novella – összehasonlításul: az Én, a robot című válogatás mindössze kilenc robottörténetet tartalmazott. Az Alapítvány és Birodalom sorozat legújabb darabja tehát huszonkét, magyar nyelven eddig még meg nem jelent novellával lepi meg a sci-fi és Asimov kedvelőit. Jelen kiadásunk így a szerzőnek a robotjövőről alkotott teljes vízióját mutatja be.</dc:description>
         <dc:publisher>Móra</dc:publisher>
@@ -27,8 +27,7 @@
         <dc:subject>nyomozás</dc:subject>
         <dc:subject>Nebula-díj</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Asimov, Isaac&quot;: &quot;&quot;}"/>
+        <dc:subject>USA</dc:subject>
         <meta name="calibre:series" content="Alapítvány-Birodalom-Robot"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="10"/>

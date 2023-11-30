@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">618d58a4-fe6a-4cd6-97b6-04af36383bff</dc:identifier>
         <dc:title>Hamuváros</dc:title>
         <dc:creator opf:file-as="Clare, Cassandra" opf:role="aut">Cassandra Clare</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-02-17T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Hát lehetetlen?!&lt;br&gt;Clary Fray másra sem vágyik, csak hogy végre ismét normális életet élhessen.&lt;br&gt;De vajon mi számít normálisnak, ha valaki démonokat pusztító Árnyvadász, az édesanyja varázslattal előidézett kómában fekszik, és egyszerre vérfarkasok, vámpírok meg tündérek nyüzsögnek körülötte? Clary szívesen töltene több időt legjobb barátjával, Simonnal, csakhogy az Árnyvadászoktól nem szabadulhat – főleg nem jóképű, ámde bosszantó, újonnan megtalált bátyjától, Jace-től. Clary csakis úgy segíthet édesanyján, ha felkutatja a rossz útra tért Árnyvadászt, Valentine-t, aki talán őrült, bizonyosan gonosz – ráadásul az édesapja.&lt;br&gt;Amikor a Végzet Ereklyéi közül a másodikat is ellopják, a félelmetes Inkvizítor Jace-t gyanúsítja. Lehet, hogy a fiú tényleg elárul mindent, amiben hitt, és az apja mellé áll?&lt;br&gt;„Humoros, komor és szexi. Az egyik kedvenc könyvem.” – Holly Black&lt;br&gt;„Kapaszkodj erősen! Izgalmas, szenvedélyes, hátborzongató utazásra indulsz.” – Libba Bray&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -14,7 +14,7 @@
         <dc:identifier opf:scheme="MOLY_HU">cassandra-clare-hamuvaros</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>21. század</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>barátság</dc:subject>
         <dc:subject>boszorkány</dc:subject>
@@ -33,7 +33,6 @@
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>testvérek</dc:subject>
         <dc:subject>tévésorozat-adaptáció</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Cassandra Clare&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="A Végzet Ereklyéi"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>

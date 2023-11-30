@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">261a0721-7087-4bf0-9c54-940d79bf0da0</dc:identifier>
         <dc:title>A holtak vonulása</dc:title>
         <dc:creator opf:file-as="Shan, Darren" opf:role="aut">Darren Shan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Capac ​Raimi a Városba érkezik, hogy szerencsét próbáljon kisstílű gengszter nagybátyja mellett. Hamarosan azonban arra eszmél, hogy már a Város teljhatalmú urának, a Kardinálisnak dolgozik. A Kardinális a Város szülötte. A Város a Kardinális teremtménye. Egy a lelkük, és sosem alszanak. A Kardinális mindent lát, ami az utcákon vagy a zárt ajtók mögött történik. A Kardinális mindenható.&lt;br&gt;Az öntelt fiatalember habzsolja új életét, amit csak néhány kellemetlenség zavar meg, például a rejtélyes, vak és néma szerzetesek, akik valahogy mindig feltűnnek Capac életének sorsfordító eseményeinél. Vagy az a tény, hogy gyakorlatilag semmire nem emlékszik, ami az előtt történt vele, hogy a Városba érkezett…&lt;br&gt;Capac egy álmot és az inka neve által számára kijelölt sorsát követve belép a természetfeletti birodalmába. Miközben igyekszik beteljesíteni a küldetését, furcsa és izgalmas kutatásba kezd, hogy a nyomára akadjon eltűnt barátainak és saját, elveszített múltjának.&lt;br&gt;A holtak vonulása Darren Shan első felnőtteknek szánt sorozatának, a Város-trilógiának az első kötete. Egy utópisztikus thriller és egy vérfagyasztó horror elsőrangú keveréke, olyan hátborzongató olvasmány, amely még az erős idegzetűeket is próbára teszi.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -23,8 +23,7 @@
         <dc:subject>kortárs</dc:subject>
         <dc:subject>Trilógia</dc:subject>
         <dc:subject>regény</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Darren Shan&quot;: &quot;&quot;}"/>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:series" content="Város-trilógia"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

@@ -5,20 +5,20 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3d75ac06-5c2f-46b5-a3eb-dfec94813c44</dc:identifier>
         <dc:title>A fiú</dc:title>
         <dc:creator opf:file-as="Nesbø, Jo" opf:role="aut">Jo Nesbø</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-12-31T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Sonny, a rejtélyes, visszahúzódó, kábítószerfüggő fiú tizennyolc éves kora óta börtönben ül, mert beismert két gyilkosságot, amelyeket nem ő követett el. Nem ingyen tette. Cserébe megkapja az egyetlen dolgot, amire szüksége van: heroint. Mivel ügye a korrupt hatalmi rendszer minden szereplőjét érinti, a rendőrségnek és az alvilágnak egyaránt az a célja, hogy folyamatosan bódult állapotban és rácsok mögött tartsák. És Sonnynak ez meg is felel, eszében sincs változtatni a helyzeten. A rabtársai egyfajta gyóntatóként tekintenek a különös, vonzó fiúra, s gyakran öntik ki neki a lelküket. Így esik, hogy egy napon Sonny megdöbbentő dolgot tud meg az egyik rabtársától: rendőr édesapja, akiről ő úgy tudta, önkezével vetett véget az életének, valójában gyilkosság áldozata lett. Sonny világa alapjaiban megrendül. Megszökik a szigorúan őrzött börtönből, és megkezdi vadászatát azok után, akik vétettek ellene.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>+</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">y_FpjwEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">8d2e515e-45c7-49f5-a5f0-cdd94a78c9e4</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">jo-nesbo-a-fiu</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9789633242872</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">23430904</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">y_FpjwEACAAJ</dc:identifier>
-        <dc:identifier opf:scheme="MOLY_HU">jo-nesbo-a-fiu</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>Mystery</dc:subject>
         <dc:subject>Crime</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>Suspense</dc:subject>
         <dc:subject>skandináv</dc:subject>
         <dc:subject>krimi</dc:subject>

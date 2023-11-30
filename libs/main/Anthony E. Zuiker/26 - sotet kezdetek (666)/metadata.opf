@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">48164d27-c233-4428-9543-f645338351a8</dc:identifier>
         <dc:title>26 – sötét kezdetek</dc:title>
         <dc:creator opf:file-as="Zuiker, Anthony E." opf:role="aut">Anthony E. Zuiker</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:description>&lt;p class="description"&gt;Az FBI szakértői veszélyességi fokuk szerint 25 szintbe sorolták be a gyilkosokat.&lt;br&gt;A 26. szint: Sqweegel.&lt;br&gt;30 év, 7 ország, 50 áldozat.&lt;br&gt;Célpont: bárki.&lt;br&gt;Nyom: semmi.&lt;br&gt;Aki a legközelebb jutott hozzá: Steve Dark – akin a 26-os kegyetlen bosszút állt.&lt;br&gt;Ezért Dark és csapata előtt egyetlen cél lebeg: hogy levadásszák a világ legveszélyesebb sorozatgyilkosát.&lt;br&gt;Eljött a leszámolás ideje.&lt;br&gt;De a 26-os is készen áll.&lt;br&gt;Anthony E. Zuiker a nagy sikerű CSI: A helyszínelők televíziós sorozat író-producere.&lt;br&gt;A 26 – Sötét kezdetek a CSI-sorozatok rajongóinak ismerős színvonalon és stílusban minden idők egyik legizgalmasabb sorozatgyilkos-vadászatát mutatja be. És ez még csak a kezdet. A sötét kezdet.&lt;/p&gt;</dc:description>
         <dc:publisher>+</dc:publisher>
@@ -16,8 +16,7 @@
         <dc:subject>krimi</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>sorozatgyilkosság</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Anthony E. Zuiker&quot;: &quot;&quot;}"/>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2014-09-19T16:23:53+00:00"/>
         <meta name="calibre:title_sort" content="26 – sötét kezdetek"/>

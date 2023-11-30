@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">89be2b92-3f52-4a85-9762-282963dcef82</dc:identifier>
         <dc:title>Minden haláli</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2004-02-20T00:00:00+00:00</dc:date>
         <dc:description>Az emberrel bármi megtörténhet.
 Például hazamegy, és otthon egy üzenet várja, amelyből kiderül, a felesége elhagyja. Mivel meg kell beszélniük a válást, beülnek egy étterembe az ügyvédjük társaságában, ahol is a főúr egy hatalmas konyhakéssel támad a vendégekre!
@@ -30,9 +30,8 @@ Vagy… de tudja mit, Kedves Olvasó? Üljön bele kedvenc karosszékébe, és o
         <dc:subject>regény</dc:subject>
         <dc:subject>rémtörténet</dc:subject>
         <dc:subject>sorozat része</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>vámpír</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="A Setét"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

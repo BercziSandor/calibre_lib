@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a2ce8d2b-799c-4b90-92f6-9ed1e491bd31</dc:identifier>
         <dc:title>Noé bárkáján</dc:title>
         <dc:creator opf:file-as="Durrell, Gerald" opf:role="aut">Gerald Durrell</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1992-02-17T23:00:00+00:00</dc:date>
         <dc:description>E könyv az első kameruni gyűjtőexpedíció fergeteges története, ellenállhatatlan humorral és lendülettel, amely épp a fiatalság sajátja – hiszen Durrell akkoriban nemcsak végigélte, de nyomban papírra is vetette a történeteket! A fiatal Durrell és mókás afrikai barátai ismét akcióban!</dc:description>
         <dc:publisher>Sierra</dc:publisher>
@@ -19,7 +19,7 @@
         <dc:subject>brit</dc:subject>
         <dc:subject>természet</dc:subject>
         <dc:subject>állat</dc:subject>
-        <dc:subject>Dél-Afrika (ország)</dc:subject>
+        <dc:subject>Dél-Afrika</dc:subject>
         <dc:subject>kaland</dc:subject>
         <dc:subject>állatbarát</dc:subject>
         <dc:subject>20. század</dc:subject>
@@ -37,7 +37,6 @@
         <dc:subject>ifjúsági</dc:subject>
         <dc:subject>természetjárás</dc:subject>
         <dc:subject>expedíció</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Gerald Durrell&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2015-08-20T12:29:41+00:00"/>
         <meta name="calibre:title_sort" content="Noé bárkáján"/>

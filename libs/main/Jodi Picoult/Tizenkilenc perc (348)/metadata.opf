@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">af59b3d5-82dc-4ff3-b5cf-1f9d497c6d56</dc:identifier>
         <dc:title>Tizenkilenc perc</dc:title>
         <dc:creator opf:file-as="Picoult, Jodi" opf:role="aut">Jodi Picoult</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-02-22T00:00:00+00:00</dc:date>
         <dc:description>Tizenkilenc perc alatt lenyírhatod a ház előtt a füvet. Befestheted a hajad. Megnézheted egy hokimeccs első harmadát…
 Tizenkilenc perc alatt meg tudod állítani a világot, és akár le is szállhatsz róla.</dc:description>
@@ -24,10 +24,9 @@ Tizenkilenc perc alatt meg tudod állítani a világot, és akár le is szállha
         <dc:subject>középiskola</dc:subject>
         <dc:subject>iskola</dc:subject>
         <dc:subject>lélektani</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
-        <dc:subject>drámai cselekmény</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>krimi</dc:subject>
-        <dc:subject>Dráma</dc:subject>
+        <dc:subject>dráma</dc:subject>
         <dc:subject>21. század</dc:subject>
         <dc:subject>amerikai</dc:subject>
         <dc:subject>bullying</dc:subject>
@@ -36,7 +35,6 @@ Tizenkilenc perc alatt meg tudod állítani a világot, és akár le is szállha
         <dc:subject>iskolai lövöldözés</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>etika</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Jodi Picoult&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2011-08-27T20:46:09+00:00"/>
         <meta name="calibre:title_sort" content="Tizenkilenc perc"/>

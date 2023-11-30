@@ -1,4 +1,4 @@
-# Thriller
+# thriller
 
 - A. G. Hawk: Időtlenségbe zárva [részletek](../_details/A.%20G.%20Hawk.md#id_949)
 - Agatha Christie: A barna ruhás férfi [részletek](../_details/Agatha%20Christie.md#id_1745)
@@ -110,6 +110,7 @@
 - Karin Alvtegen: Árnyak [részletek](../_details/Karin%20Alvtegen.md#id_676)
 - Karin Slaughter: Bőr [részletek](../_details/Karin%20Slaughter.md#id_599)
 - Karin Slaughter: Nadragulya [részletek](../_details/Karin%20Slaughter.md#id_788)
+- Karin Slaughter: Összetörve [részletek](../_details/Karin%20Slaughter.md#id_1488)
 - Kathy Reichs: A holtak beszélnek [részletek](../_details/Kathy%20Reichs.md#id_157)
 - Lars Kepler: A hipnotizőr [részletek](../_details/Lars%20Kepler.md#id_1681)
 - Lars Kepler: A Paganini-szerződés [részletek](../_details/Lars%20Kepler.md#id_674)

@@ -13,19 +13,19 @@
 &lt;p&gt;Mert vajon ki volt az a haldokló férfi, aki menedékért vánszorgott be a falusi templomba? És: hova rejthette az agyafúrt Matthew bácsi az aranyrudakat? No és ki fojthatta meg a ruhapróbára készülő vidéki feleséget? A vén házmesterné miért esküdött bosszút az új gazdák ellen? A világ legkitűnőbb szobalánya ugyan mivel lepheti meg úrnőjét – és a falu népét? Az ágyában leszúrt Mrs. Rhodes halála sem marad megoldatlan rejtély Miss Marple előtt. &lt;/p&gt;
 &lt;p&gt;És akinek ennyi jó kevés – kap ráadásul HÉT REJTELMES és IZGALMAS TÖRTÉNETET a Fülemüle-villa titkáról, a varázserejű babáról, a jövendőmondó tükörről, a valóságban játszódó zenedrámáról, egy különös balesetről, egy fiatal pár ritka szerencséjéről, és a maharadzsa smaragdjáról – a detektívregény koronázatlan királynője, AGATHA CHRISTIE avatott tollából!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Magyar Könyvklub</dc:publisher>
-        <dc:identifier opf:scheme="MOBI-ASIN">ac877ccf-8ed0-4b91-b44f-3f2e5dbc9697</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9789635487356</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">B004ZKQUYG</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">13648687</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">ac877ccf-8ed0-4b91-b44f-3f2e5dbc9697</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B004ZKQUYG</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789635487356</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>Mystery</dc:subject>
         <dc:subject>Crime</dc:subject>
         <dc:subject>Classics</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:series" content="Miss Marple"/>
         <meta name="calibre:series_index" content="14"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-11-27T12:04:16.517808+00:00"/>
+        <meta name="calibre:timestamp" content="2023-11-27T12:04:16+00:00"/>
         <meta name="calibre:title_sort" content="Gyilkosság méretre"/>
         <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;AZW3&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

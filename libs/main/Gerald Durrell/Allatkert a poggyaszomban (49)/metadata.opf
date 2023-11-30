@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9c9a1634-145c-4245-8570-5b7362c4b6ba</dc:identifier>
         <dc:title>Állatkert a poggyászomban</dc:title>
         <dc:creator opf:file-as="Durrell, Gerald" opf:role="aut">Gerald Durrell</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-02-18T00:00:00+00:00</dc:date>
         <dc:description>Gerald Durrell 1933–1939 között Korfu szigetén élt. Ez idő alatt speciális zoológiai tanulmányokat végzett, és számos Korfu szigeti vadon élő állatot nevelt fel. 1947-ben szervezte első állatgyűjtő expedícióját Kamerunba. 1948-ban vezette a második, majd 1949-ben a harmadik expedícióját Brit-Guyanába. Később Paraguayba, Sierra Leonéba és Argentínába indított expedíciókat. Durrell egész élete során szoros kapcsolatban élt az állatvilággal. „A világ – írja egy helyütt – madarak, erdők és állatok nélkül olyan lenne, amelyben jómagam élni sem szeretnék.” Durrell e könyve a kameruni utazás krónikája. Egy saját állatkert számára végzett állatgyűjtés izgalmait, bonyodalmait és megpróbáltatásait írja le kedves, humoros és fordulatos történetekben. A kalandos állatgyűjtés állomásairól Zsoldos Vera beleérző rajzai úgy tudósítanak, mintha a grafikusművész maga is részt vett volna az expedíciókban.</dc:description>
         <dc:publisher>Ciceró</dc:publisher>
@@ -15,7 +15,7 @@
         <dc:language>hun</dc:language>
         <dc:subject>ismeretterjesztő</dc:subject>
         <dc:subject>humor</dc:subject>
-        <dc:subject>elbeszélések</dc:subject>
+        <dc:subject>elbeszélés</dc:subject>
         <dc:subject>természet</dc:subject>
         <dc:subject>Tartalom szerint</dc:subject>
         <dc:subject>Állattörténetek</dc:subject>
@@ -43,7 +43,6 @@
         <dc:subject>Az író származása szerint</dc:subject>
         <dc:subject>expedíció</dc:subject>
         <dc:subject>állatkert</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Gerald Durrell&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-11-15T20:07:33+00:00"/>
         <meta name="calibre:title_sort" content="Állatkert a poggyászomban"/>

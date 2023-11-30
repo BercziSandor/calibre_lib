@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1d5c31ba-55c7-461d-8aaa-da2c885c923e</dc:identifier>
         <dc:title>Az ajtó</dc:title>
         <dc:creator opf:file-as="Szabó, Magda" opf:role="aut">Szabó, Magda</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1987-02-14T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Álmában ​nem, de életében egyszer kinyílik az ajtó az írónő előtt. Szeredás Emerenc ajtaja, amely mások számára örökre zárva marad. A megingathatatlan jellemű, erkölcséhez és hiedelmeihez tántoríthatatlanul ragaszkodó asszony házvezetőnőnek áll az írónőhöz, ám első perctől nyilvánvaló, hogy ő diktál. Gazdája megmérettetik, és nem találtatván könnyűnek, Emerenc nem csupán otthona, hanem lelke ajtaját is megnyitja előtte, ha csak résnyire is. Így sejlik fel Magyarország huszadik századi történelmének kulisszái előtt egy magára maradt nő tragikus, fordulatos sorsa. Vajon mit őrizget az idős asszony a hét lakatra zárt ajtó mögött? &lt;br&gt;Az ajtó a ki- és bezártság, a születés és a halál ősi jelképe. Állandó kettősség jellemzi a két főhős áhítatosan odaadó, máskor szinte gyűlölködő kapcsolatát is. A szeretet kapujában állnak. Sikerülhet-e végül beljebb vagy elengedni egymást?&lt;br&gt;Az ajtó Szabó Magda talán legismertebb regénye: Szabó István forgatott belőle filmet, és 2015-ben felkerült a The New York Times sikerlistájára.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -16,7 +16,6 @@
         <dc:language>hun</dc:language>
         <dc:subject>20. század</dc:subject>
         <dc:subject>303 magyar regény</dc:subject>
-        <dc:subject>Balassi Bálint-emlékkard</dc:subject>
         <dc:subject>barátság</dc:subject>
         <dc:subject>emberi sorsok</dc:subject>
         <dc:subject>filmadaptáció</dc:subject>
@@ -32,7 +31,6 @@
         <dc:subject>regény</dc:subject>
         <dc:subject>vallás</dc:subject>
         <dc:subject>vallomásregény</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Szabó, Magda&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2021-02-20T14:27:37+00:00"/>
         <meta name="calibre:title_sort" content="ajtó, Az"/>

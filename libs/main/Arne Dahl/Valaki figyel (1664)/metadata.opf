@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">fb57cbca-3982-439a-8c8d-0b72b2a9e95e</dc:identifier>
         <dc:title>Valaki figyel</dc:title>
         <dc:creator opf:file-as="Dahl, Arne" opf:role="aut">Arne Dahl</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-02-29T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A svédországi Västeråsban nyomtalanul eltűnik egy tizenöt éves lány, egy évvel később pedig újabb hasonló eset történik. Az ügyekben nyomozó Sam Berger felügyelő mindössze egy-egy parányi fém fogaskereket talál az áldozatok után, de biztos benne, hogy olyasvalaki hagyta ott őket, aki tudja, hogy ő érteni fogja a titokzatos nyomokat. Hamarosan egy harmadik tinilánynak is nyoma vész, és Sam igyekszik meggyőzni feletteseit, hogy sorozatgyilkossal van dolguk. A rendőrség tovább keresi az áldozatokat, Sam pedig kénytelen újra szembesülni saját, rég eltemetett démonaival. Nincs más választása, ha meg akarja fejteni a gyilkos üzenetét, aki mintha kizárólag az ő „kedvéért” gyilkolna…&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -15,11 +15,10 @@
         <dc:identifier opf:scheme="GOOGLE">BBLHzgEACAAJ</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">57022184</dc:identifier>
         <dc:language>hun</dc:language>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>Mystery</dc:subject>
         <dc:subject>skandináv</dc:subject>
         <dc:subject>krimi</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Arne Dahl&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Berger &amp; Blom"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

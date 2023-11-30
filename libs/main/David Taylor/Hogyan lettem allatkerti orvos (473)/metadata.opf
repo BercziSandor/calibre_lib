@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">24557e6b-3cae-4f4e-aabb-6ee1fa26a32d</dc:identifier>
         <dc:title>Hogyan lettem állatkerti orvos</dc:title>
         <dc:creator opf:file-as="Taylor, David" opf:role="aut">David Taylor</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1990-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;David ​Taylor egyike a kevés számú független állatorvosoknak, akik egzotikus állatok gyógyítására specializálódtak; állatkertek, delfináriumok, szafari parkok állandó tanácsadója. Könyvében izgalmasan írja le a sokrétű munkája közben szerzett élményeit, tapasztalatait. Mi a teendő, ha… … a puma lenyeli a gombolyag spárgát? …az óriáskígyó szorosan egybeöleti az orvost tulajdonosával, egy sztriptíztáncosnővel? …a frissen kifogott delfinkölyök lélegzetét visszatartva próbál öngyilkos lenni? …két vadszamarat kell befogni az Amszterdam közeli, csatornákkal szabdalt óriás mezőkön? …kétezerötszáz kilométerre tizenkét, túlérett őszibarackkal teletömött zsiráf a végét járja? …véletlenül rájön, hogy lelkiismeretlen emberek hogyan használják fel a tevéket a bűn futáraiként? …megtudja, az ártalmatlan tengeritehenet azért tartják fogságban, mert könnyei növelik a férfiak szerelmi képességeit? Ilyen és még számos különös problémával kellett D. Taylornak szembenéznie, amikor vadállatok orvoslásával kezdett foglalkozni. Humoros történetei sohasem öncélúak, mindig az állatok megmentése, gyógyítása, körülményeik jobbítása a cél.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -31,8 +31,7 @@
         <dc:subject>regény</dc:subject>
         <dc:subject>novella</dc:subject>
         <dc:subject>Tartalom szerint</dc:subject>
-        <dc:subject>Állatregények</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;David Taylor&quot;: &quot;&quot;}"/>
+        <dc:subject>állatregény</dc:subject>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2013-06-04T19:51:13+00:00"/>
         <meta name="calibre:title_sort" content="Hogyan lettem állatkerti orvos"/>

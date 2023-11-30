@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">27297b00-9a46-424e-825e-ef7fcfd3c64e</dc:identifier>
         <dc:title>Felhőatlasz</dc:title>
         <dc:creator opf:file-as="Mitchell, David" opf:role="aut">David Mitchell</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;MINDEN ​ÖSSZEFÜGG &lt;br&gt;Egy zaklatott életű ifjú zeneszerző az ihlet pillanatában ráérez az örökkévalóságra. Sorsszerű viszonyok, cinikus érzelmek és látnoki szerelmek motívumaiból hat történet rajzolódik ki, melyek mindegyike túlmutat önmagán – egy leírhatatlan harmónia felé. Ez az átkozottul tökéletes összhang szólal meg a Felhőatlasz olvasóiban. &lt;br&gt;David Mitchell bravúros felépítésű, virtuóz nyelvezetű művében az összefonódó életek minden időbeli és térbeli határt átlépve hatnak egymásra. A lelkek korokon és kontinenseken át vándorolnak, akár az égbolton átvonuló felhők. De ki irányítja sorsunkat: mi magunk vagy valamilyen külső erő? Képesek vagyunk-e tanulni a múltból, az előző életekből, vagy az emberiség újra és újra elköveti ugyanazokat a hibákat? &lt;br&gt;A regényből a Mátrix-trilógia és A parfüm rendezői forgattak vibrálóan szellemes filmet.&lt;br&gt;„Az eddigi legmerészebb vállalkozás… egyedi teljesítmény egy rendkívül tehetséges és nagyratörő író tollából.” – Matt Thorne, Independent on Sunday&lt;br&gt;„David Mitchell egy hullámvasútra csábítja olvasóit, akik először vonakodva szállnak fel, de miután belevágtak a kalandba, nem akarják, hogy véget érjen az út. Velem legalábbis ez történt.” – A.S. Byatt, Guardian&lt;br&gt;„A jövőbe látás, az elmélkedés és a szórakoztatás ragyogó, elégikus egyvelege.” – Neel Mukherjee, The Times&lt;br&gt;„A mód, ahogy Mitchell a Felhőatlasz történetét elmeséli, valósággal rabul ejtett.” – Lawrence Norfolk,&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -21,11 +21,11 @@
         <dc:subject>20. század</dc:subject>
         <dc:subject>2000-es évek</dc:subject>
         <dc:subject>21. század</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>Belgium</dc:subject>
         <dc:subject>brit szerző</dc:subject>
         <dc:subject>disztópia</dc:subject>
-        <dc:subject>experimentális</dc:subject>
+        <dc:subject>kísérletezés</dc:subject>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>filozofikus regény</dc:subject>
         <dc:subject>hajó</dc:subject>
@@ -37,7 +37,6 @@
         <dc:subject>filmadaptáció</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>1001 könyv listán szerepel</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;David Mitchell&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2013-04-22T20:37:22+00:00"/>
         <meta name="calibre:title_sort" content="Felhőatlasz"/>

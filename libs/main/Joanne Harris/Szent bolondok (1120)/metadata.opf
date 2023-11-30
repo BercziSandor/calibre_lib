@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d7c4f561-c058-4c7c-8b28-771596556ae0</dc:identifier>
         <dc:title>Szent bolondok</dc:title>
         <dc:creator opf:file-as="Harris, Joanne" opf:role="aut">Joanne Harris</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2005-02-17T00:00:00+00:00</dc:date>
         <dc:description>A Csokoládé, a Szederbor, az Ötnegyed narancs, a Partvidékiek és A francia konyha világhírű szerzője ezúttal időutazásra indul a tizenhetedik századi Franciaországba, a boszorkányperek, a királygyilkosság és a vallási téboly hazájába.
 Juliette-et, a Szárnyas Asszony néven ismert kötéltáncosnőt körülményei arra kényszerítik, hogy kislányával, Fleurrel együtt Sainte Marie-de-la-Mer isten háta mögötti apátságában keressen menedéket, ahol Auguste nővérként éldegél a jólelkű apátnő gyámsága alatt. Ám rövidesen új szelek fújnak: IV. Henrik meggyilkolása hatalmas zűrzavart idéz elő Franciaországban.
@@ -17,7 +17,7 @@ Az apátnő halála után megérkezik Isabelle, az új rendfőnöknő, és Julie
         <dc:language>hun</dc:language>
         <dc:subject>17. század</dc:subject>
         <dc:subject>apáca</dc:subject>
-        <dc:subject>boszorkányság</dc:subject>
+        <dc:subject>boszorkány</dc:subject>
         <dc:subject>brit szerző</dc:subject>
         <dc:subject>cirkusz</dc:subject>
         <dc:subject>egyház</dc:subject>
@@ -28,7 +28,6 @@ Az apátnő halála után megérkezik Isabelle, az új rendfőnöknő, és Julie
         <dc:subject>regény</dc:subject>
         <dc:subject>vallás</dc:subject>
         <dc:subject>váltott szemszög</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Joanne Harris&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2017-08-20T17:08:11+00:00"/>
         <meta name="calibre:title_sort" content="Szent bolondok"/>

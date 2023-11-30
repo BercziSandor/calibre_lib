@@ -19,6 +19,8 @@
 - J. K. Rowling: Harry Potter és a Titkok Kamrája [részletek](../_details/J.%20K.%20Rowling.md#id_19)
 - J. K. Rowling: Harry Potter és a Tűz Serlege [részletek](../_details/J.%20K.%20Rowling.md#id_21)
 - J. K. Rowling: Harry Potter és az elátkozott gyermek [részletek](../_details/J.%20K.%20Rowling.md#id_1459)
+- Joanne Harris: Szent bolondok [részletek](../_details/Joanne%20Harris.md#id_1120)
+- Kulcsár, Zsuzsanna: Inkvizíció és boszorkánypörök [részletek](../_details/Kulcs%C3%A1r%2C%20Zsuzsanna.md#id_982)
 - L. M. Montgomery: Az arany út [részletek](../_details/L.%20M.%20Montgomery.md#id_491)
 - Mihail Bulgakov: A Mester és Margarita [részletek](../_details/Mihail%20Bulgakov.md#id_275)
 - Neil Gaiman: Coraline [részletek](../_details/Neil%20Gaiman.md#id_1431)

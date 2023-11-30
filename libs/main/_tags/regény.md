@@ -320,6 +320,7 @@
 - Karin Alvtegen: Árnyak [részletek](../_details/Karin%20Alvtegen.md#id_676)
 - Karin Slaughter: Bőr [részletek](../_details/Karin%20Slaughter.md#id_599)
 - Karin Slaughter: Nadragulya [részletek](../_details/Karin%20Slaughter.md#id_788)
+- Karin Slaughter: Összetörve [részletek](../_details/Karin%20Slaughter.md#id_1488)
 - Kárpáti, Andor: Kurvajó! [részletek](../_details/K%C3%A1rp%C3%A1ti%2C%20Andor.md#id_670)
 - Kathy Reichs: A holtak beszélnek [részletek](../_details/Kathy%20Reichs.md#id_157)
 - Katie Fforde: Szerelmes levelek [részletek](../_details/Katie%20Fforde.md#id_1208)

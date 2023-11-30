@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a8c10677-21d6-4967-bdfe-a66aa206eaa0</dc:identifier>
         <dc:title>Magukrahagyottak</dc:title>
         <dc:creator opf:file-as="Wass, Albert" opf:role="aut">Wass, Albert</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2003-02-22T00:00:00+00:00</dc:date>
         <dc:description>A könyv beszédes címe jelzi, hogy szól a Kárpátok hágóin a hazájukat az orosz hadsereg ellen védő székelységről, a koreai háborúban szinte halálraítéltként küzdő fiatal amerikai önkéntesekről, az 1956-ban a nagyvilág által becsapott harcos magyar fiatalokról és minden eszményért küzdő, de elárult emberről, akinek példája nem halványodhat el tudatunkban.</dc:description>
         <dc:publisher>Kráter</dc:publisher>
@@ -16,7 +16,7 @@
         <dc:subject>székely</dc:subject>
         <dc:subject>20. század</dc:subject>
         <dc:subject>kommunizmus</dc:subject>
-        <dc:subject>erdélyi</dc:subject>
+        <dc:subject>Erdély</dc:subject>
         <dc:subject>General Fiction</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
@@ -25,7 +25,6 @@
         <dc:subject>Székelyföld</dc:subject>
         <dc:subject>erdélyi magyar szerző</dc:subject>
         <dc:subject>diktatúra</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Wass, Albert&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-11-17T20:51:13+00:00"/>
         <meta name="calibre:title_sort" content="Magukrahagyottak"/>

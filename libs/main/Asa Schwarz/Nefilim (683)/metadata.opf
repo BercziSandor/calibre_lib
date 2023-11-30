@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b2774bee-3d50-48ad-9813-2d51bca6371b</dc:identifier>
         <dc:title>Nefilim</dc:title>
         <dc:creator opf:file-as="Schwarz, Åsa" opf:role="aut">Åsa Schwarz</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Stockholm, Svédország, napjainkban&lt;br&gt;Nova Barakel, az elszánt Greenpeace-aktivista betör a Vattenfall AB energetikai cég vezetőjének otthonába, hogy különféle szlogenekkel írja tele a falakat. Svédország első számú környezetszennyezője végre megkapja, amit érdemel! Csakhogy valaki csapdába csalta a lányt. A cégvezetőt ugyanis meggyilkolták, méghozzá felettébb brutális módon. Nova elmenekül a bűntett helyszínéről, de sajnos hátrahagy néhány árulkodó nyomot, így ő lesz a gyilkosság legfőbb gyanúsítottja.&lt;br&gt;A mindenre elszánt lány megpróbálja kideríteni, ki bízta meg a gyilkost, és hogy miért éppen az általuk feketelistára helyezett környezetszennyezőkre vetett szemet. De vajon mit jelentenek a vízözönre és Noé bárkájára utaló jelek? Ki kutatta át Nova stockholmi lakását? És mindenekelőtt: ki akarja Novára kenni a gyilkosságokat?&lt;br&gt;És látá az Úr, hogy megsokasult az ember gonoszsága a földön, és hogy szíve gondolatának minden alkotása szüntelen csak gonosz.&lt;br&gt;(1 Móz 6,5)&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -22,10 +22,9 @@
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>svéd szerző</dc:subject>
         <dc:subject>Svédország</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>krimi</dc:subject>
         <dc:subject>skandináv</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Åsa Schwarz&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Nova Barakel"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="6"/>

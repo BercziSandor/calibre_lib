@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">17b1e864-4f00-45a1-bbe6-107d1c472269</dc:identifier>
         <dc:title>Élet a Mississippin</dc:title>
         <dc:creator opf:file-as="Twain, Mark" opf:role="aut">Mark Twain</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1971-02-14T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Mark Twain vonzalma a hajósélet iránt több művéből ismeretes. De, hogy ő maga mint hajókormányos hogyan élt, azt ebben a művében írja le a legrészletesebben. Beteljesült vágyairól igen mozgalmas-kalandos-humoros fejezetekben ad számot. &lt;br&gt;A Nagy Szennyvízcsatornát a Mississippit érett író korában ismét végigutazta, s ennek a hajóútnak ürügyén bűbájos történet-mozaikokban eleveníti fel a korabeli életet. Kifogyhatatlan mesélőkedv és kesernyés-csípős humor lengi át az egész könyvet, melynek ellenállhatatlan varázsa végig vonzásában tartja az olvasót. Ennek során aztán szondázásról, ujjlenyomatokról, viharokról, szépséges palotákról, iparkodó zsiványokról, spiritiszta szeánszokról, bűnbánó betörökről, vérbosszúról, arkangyalokról, indián legendákról és egyebekről villant fel maradandó képeket. &lt;br&gt;Mark Twain e kis remekművét 1883-ban írta, de teljes terjedelmében csak most kerül a magyar olvasóközönség kezébe.&lt;br&gt;A kötetet Raszler Károly illusztrálta.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -21,12 +21,11 @@
         <dc:subject>útleírás</dc:subject>
         <dc:subject>19. század</dc:subject>
         <dc:subject>amerikai</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>Amerikai Történelem</dc:subject>
         <dc:subject>hajózás</dc:subject>
         <dc:subject>Mississippi</dc:subject>
         <dc:subject>regény</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Mark Twain&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2016-05-25T07:00:50+00:00"/>
         <meta name="calibre:title_sort" content="Élet a Mississippin"/>

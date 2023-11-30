@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">e4d340fb-8a09-4ea9-a204-3309b0df246d</dc:identifier>
         <dc:title>Árnyak</dc:title>
         <dc:creator opf:file-as="Alvtegen, Karin" opf:role="aut">Karin Alvtegen</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-02-17T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Gerda Persson egyedül él, így a hiánya napokig nem tűnik fel senkinek. Amikor végül rátörik stockholmi otthonának ajtaját, ő már halott. A lakásban tökéletes rend és tisztaság uralkodik, s minden jel arra mutat, hogy az elhunyt után nem maradt rendezetlen ügy. Ám amikor a szociális munkás kinyitja a hűtőszekrényt, hihetetlen látvány tárul a szeme elé: a gép dugig van egy rendkívül népszerű Nobel-díjas író gondosan befóliázott, névre dedikált könyveivel. Vajon milyen titkokat rejt e különös, zúzmara lepte gyűjtemény? Mit mond el Gerdáról és Axel Ragnerfeldtről, a magának való íróról, akit egy egész nemzet istenít…?&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -22,11 +22,10 @@
         <dc:subject>nyomozás</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>svéd szerző</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>váltott szemszög</dc:subject>
         <dc:subject>krimi</dc:subject>
         <dc:subject>skandináv</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Karin Alvtegen&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2014-09-19T16:31:18+00:00"/>
         <meta name="calibre:title_sort" content="Árnyak"/>

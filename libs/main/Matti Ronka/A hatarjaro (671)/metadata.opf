@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">2a9c815c-46b6-4f8a-b392-5f98e146106b</dc:identifier>
         <dc:title>A határjáró</dc:title>
         <dc:creator opf:file-as="Rönkä, Matti" opf:role="aut">Matti Rönkä</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Ez a sajátos világú krimi napjaink Helsinkijében játszódik, ahol az alvilágot a szovjet utódállamokból érkező bűnözők uralják. Nem piti alakok, legális fedőtevékenység mögé bújva folytatják üzelmeiket. Az egyik keresztapa egy Oroszországból áttelepült finn származású férfi, Viktor Kärppä kisebb-nagyobb szolgálatait is igénybe veszi. Ártalmatlannak tűnő ügyek ezek, de a rendőrség figyelmét nem kerülik el. Kärppä, aki magándetektívként dolgozik, nem csak kényelmetlen üzletfeleitől, de a múltjától is szeretne elszakadni, amire igencsak jó oka van. Ebbeli fáradozását egyáltalán nem segíti elő, amikor egy férfi eltűnt feleségének felkutatásával bízza meg.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -23,10 +23,9 @@
         <dc:subject>Irodalom</dc:subject>
         <dc:subject>Szórakoztató irodalom</dc:subject>
         <dc:subject>bûnügyi</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>krimi</dc:subject>
         <dc:subject>skandináv</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Matti Rönkä&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2014-09-19T16:31:14+00:00"/>
         <meta name="calibre:title_sort" content="határjáró, A"/>

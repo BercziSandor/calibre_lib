@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f09dd05b-215f-456b-8802-35f06b9d32c1</dc:identifier>
         <dc:title>Kísértet</dc:title>
         <dc:creator opf:file-as="Nesbø, Jo" opf:role="aut">Jo Nesbø</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-02-22T00:00:00+00:00</dc:date>
         <dc:description>Nyár. ​Harangzúgás. Egy fiú, Gusto, a konyha padlóján fekszik egy vértócsában. Az élet lassan elszáll belőle, s ő sorra veszi mindazon eseményeket, amelyek ide vezettek. Az analízis pontos és kegyetlen. Ősz. Harry Hole, a norvég rendőrség egykori nyomozója három év távollét után visszatér Oslóba. Felkeresi egykori felettesét, hogy engedélyt kérjen tőle egy ügy felderítésére. Csakhogy az esetet már lezárták. A fiatal narkóst, Gustót egy cimborája lőtte agyon, mert összekaptak az anyagon. Egy olyan anyagon, amely a heroin uralmát megtörve, villámcsapásszerűen hódította meg a várost. Harry ennek ellenére nem tágít, s eléri, hogy meglátogathassa a börtönben a Gusto meggyilkolásával vádolt srácot. Mégpedig azért, mert a cellában saját múltjának egy darabjával van találkozója. A nyomozás, amelybe Harry magányosan belevág, nehezebb s fájóbb, mint bármelyik hivatalból felgöngyölített ügye volt. S közben mindenfelől kísértetek veszik körül. A sajátjai és az is, amelyik a várost járja. Az alak, akiről senki sem tudja kicsoda, hogy néz ki, s aki megfoghatatlan, akár a szél</dc:description>
         <dc:publisher>Animus</dc:publisher>
@@ -15,7 +15,7 @@
         <dc:subject>norvég szerző</dc:subject>
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>hardboiled krimi</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>detektívtörténet</dc:subject>
         <dc:subject>skandináv</dc:subject>
         <dc:subject>drog</dc:subject>
@@ -29,7 +29,6 @@
         <dc:subject>21. század</dc:subject>
         <dc:subject>váltott szemszög</dc:subject>
         <dc:subject>nyomozás</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Jo Nesbø&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Harry Hole"/>
         <meta name="calibre:series_index" content="9"/>
         <meta name="calibre:rating" content="10"/>

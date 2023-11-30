@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1720ab1d-b79b-43c2-9e07-63b752f4d23b</dc:identifier>
         <dc:title>Szamurájszív</dc:title>
         <dc:creator opf:file-as="Fable, Vavyan" opf:role="aut">Fable, Vavyan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-02-18T00:00:00+00:00</dc:date>
         <dc:description>A ​történet egyik szálán nyár tombol. Fertő Cityben Vis Major és Kyra, az összeszokott zsarupáros sorozatgyilkost üldöz a vegyes hírnevű nyomozó, Don’Gelo egységével. Magánéletük épp rendben volna, ám egy este Vis Major nevelt fia összeverve vánszorog haza. Betoppan Kyra anyja, és bár nem tartóztatják, gyökeret ereszt a házban. Ráadásul a párosnak estéről estére viszolyogtató bűnesetekkel akad dolga. Don’Gelóval is addig folytatódik együttműködésük, mígnem az életük horrorrá csúnyul.
 A korábbi szálon tél van, nagy hó, karácsony. Kyráék együtt töltik az ünnep napjait Denisával és Belloqkal a befagyott tónál, terveik szerint a gyerekekkel korcsolyázva, szánozgatva. Csakhogy Borulat City külterületén megkergül egy elkötött paripa, és egy megzavart orvvadász lenyilazza lovasát. Egy pszichopata Halálos Misszióra készül a hóviharban, rendőrök lekaszabolásával kezdve küldetését.
@@ -26,11 +26,11 @@ Vigyázat! Csak erős szívűeknek!</dc:description>
         <dc:subject>regény</dc:subject>
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>sorozatgyilkosság</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>kaland</dc:subject>
         <dc:subject>krimi</dc:subject>
         <dc:subject>nyomozás</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Fable, Vavyan&quot;: &quot;https://hu.wikipedia.org/wiki/Vavyan_Fable&quot;}"/>
+        <meta name="calibre:link_maps" content="{&quot;authors&quot;: {&quot;Fable, Vavyan&quot;: &quot;https://hu.wikipedia.org/wiki/Vavyan_Fable&quot;}}"/>
         <meta name="calibre:series" content="Vis Major"/>
         <meta name="calibre:series_index" content="7"/>
         <meta name="calibre:rating" content="8"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c7acc9e1-64a2-4c1d-ace1-547fb214e276</dc:identifier>
         <dc:title>Galambposta</dc:title>
         <dc:creator opf:file-as="Ransome, Arthur" opf:role="aut">Arthur Ransome</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;p class="description"&gt;Arhur Ransome, a híres angol ifjúsági író egész sorozatot írt kedves gyerekhőseinek kalandjaiból. A gyerekeket a sorozat első kötetében mint Fecskéket, ill. Fruskákat ismertük meg. Ebben a kötetben is így nevezik egymást. Kalandjainak színtere ezúttal egy kimerültnek hitt és régen elhagyott bányavidék, ahová kincskutatásra indulnak. A nagy expedíció sikerét azonban folyton kétségessé teszi egy titokzatos és csöppet sem bizalomgerjesztő idegen, akinek téblábolását ifjú hőseink nagyon is gyanúsnak vélik. Annyi biztos, kedves barátainkat, a Fecskéket és a Fruskákat ezúttal komoly veszélyben találjuk: hol erdőtűz, hol meg bányaomlás teszi próbára őket. Szerencsére velük vannak okos postagalambjaik.&lt;/p&gt;</dc:description>
         <dc:publisher>Ciceró</dc:publisher>
@@ -34,9 +34,8 @@
         <dc:subject>Regények</dc:subject>
         <dc:subject>Gyerektörténetek</dc:subject>
         <dc:subject>Kalandregények</dc:subject>
-        <dc:subject>elbeszélések</dc:subject>
+        <dc:subject>elbeszélés</dc:subject>
         <dc:subject>Tartalom szerint</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Arthur Ransome&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Fecskék és Fruskák"/>
         <meta name="calibre:series_index" content="6"/>
         <meta name="calibre:rating" content="8"/>

@@ -16,7 +16,6 @@
 - Lev Tolsztoj: Anna Karenina [részletek](../_details/Lev%20Tolsztoj.md#id_778)
 - Ljudmila Ulickaja: Szonyecska [részletek](../_details/Ljudmila%20Ulickaja.md#id_1289)
 - Nick Hornby: Hogy legyünk jók? [részletek](../_details/Nick%20Hornby.md#id_304)
-- Polcz Alaine: Asszony a fronton [részletek](../_details/Polcz%20Alaine.md#id_1443)
 - S. J. Watson: Mielőtt elalszom [részletek](../_details/S.%20J.%20Watson.md#id_994)
 - Szabó, Magda: A Danaida [részletek](../_details/Szab%C3%B3%2C%20Magda.md#id_1350)
 - Szabó, Magda: Csigaház [részletek](../_details/Szab%C3%B3%2C%20Magda.md#id_1345)

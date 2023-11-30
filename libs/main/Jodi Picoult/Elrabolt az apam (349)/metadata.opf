@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">56e1bbe0-3ceb-414d-8a74-6353c886dcb1</dc:identifier>
         <dc:title>Elrabolt az apám</dc:title>
         <dc:creator opf:file-as="Picoult, Jodi" opf:role="aut">Jodi Picoult</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-02-22T00:00:00+00:00</dc:date>
         <dc:description>A harmincéves Cordelia Hopkins életében látszólag minden nagyon rendben: imádott apja nagy szeretetben nevelte fel, szép kislánya, elbűvölő vőlegénye van, a munkájában – amely eltűnt személyek felkutatásából áll – rendkívül sikeres. Egy elfeledett emlékkép felbukkanása miatt azonban egy pillanat alatt mindez összeomlik: feltárul az eltitkolt múlt; kiderül, hogy semmi sem úgy igaz, ahogy ő azt addig hitte. Anyja mégsem halt meg évtizedekkel ezelőtt autóbalesetben. Apja elrabolta őt, megváltoztatta a családi nevüket, lakóhelyüket, s átírta egész addigi életüket.
 Jodi Picoult – éppúgy, mint előző, A nővérem húga címú, nagy sikerű könyvében – izgalmasan, krimiszerű feszültséget teremtve, mesterien gombolyítja a cselekmény fonalát az emberi viszonyok-érzések, a szerelem, a szenvedély és a szülői szeretet útvesztőiben. Vajon előkerül-e az a személy, aki azt sem tudta eddig önmagáról, hogy elveszett?</dc:description>
@@ -27,16 +27,14 @@ Jodi Picoult – éppúgy, mint előző, A nővérem húga címú, nagy sikerű 
         <dc:subject>gyermekkor</dc:subject>
         <dc:subject>romantikus</dc:subject>
         <dc:subject>alkoholizmus</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
-        <dc:subject>drámai cselekmény</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
-        <dc:subject>Dráma</dc:subject>
+        <dc:subject>dráma</dc:subject>
         <dc:subject>21. század</dc:subject>
         <dc:subject>amerikai</dc:subject>
         <dc:subject>váltott szemszög</dc:subject>
         <dc:subject>Arizona</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Jodi Picoult&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2011-08-27T20:09:19+00:00"/>
         <meta name="calibre:title_sort" content="Elrabolt az apám"/>

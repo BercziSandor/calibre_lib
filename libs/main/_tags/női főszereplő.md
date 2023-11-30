@@ -62,7 +62,6 @@
 - Pasquale Festa Campanile: A szerelmes boszorkány [részletek](../_details/Pasquale%20Festa%20Campanile.md#id_975)
 - Paulo Coelho: Tizenegy perc [részletek](../_details/Paulo%20Coelho.md#id_263)
 - Paulo Coelho: Veronika meg akar halni [részletek](../_details/Paulo%20Coelho.md#id_264)
-- Polcz Alaine: Asszony a fronton [részletek](../_details/Polcz%20Alaine.md#id_1443)
 - Rachel Vincent: Stray – Kóborok [részletek](../_details/Rachel%20Vincent.md#id_428)
 - Roald Dahl: Szofi és a HABÓ [részletek](../_details/Roald%20Dahl.md#id_537)
 - Robin Cook: Kóma [részletek](../_details/Robin%20Cook.md#id_94)

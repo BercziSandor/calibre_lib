@@ -17,7 +17,6 @@
 - Mark Twain: Élet a Mississippin [részletek](../_details/Mark%20Twain.md#id_937)
 - Moldova, György: Az utolsó töltény 12. [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1400)
 - Nick Hornby: Fociláz [részletek](../_details/Nick%20Hornby.md#id_703)
-- Polcz Alaine: Asszony a fronton [részletek](../_details/Polcz%20Alaine.md#id_1443)
 - Polcz, Alaine: Macskaregény [részletek](../_details/Polcz%2C%20Alaine.md#id_1439)
 - Szabó, Magda: Ókút [részletek](../_details/Szab%C3%B3%2C%20Magda.md#id_1349)
 - Władysław Szpilman: A zongorista [részletek](../_details/W%C5%82adys%C5%82aw%20Szpilman.md#id_170)

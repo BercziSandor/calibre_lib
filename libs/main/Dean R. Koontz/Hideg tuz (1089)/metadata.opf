@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">2511ca99-aa2b-401e-af6b-09b6cf0c43c6</dc:identifier>
         <dc:title>Hideg tűz</dc:title>
         <dc:creator opf:file-as="Koontz, Dean R." opf:role="aut">Dean R. Koontz</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2005-02-20T00:00:00+00:00</dc:date>
         <dc:description>A Hideg tűz a szerző egyik kiemelkedő sikere, izgalmas, hátborzongató történet. Főszereplője, Jim Ironheart természetfeletti sugallatra szinte azonnal ott terem, ahol tragédia készülődik, és életeket ment. Holly Thorne, a magányosan élő és a férfialtban csalódott újságírónő figyelmét felkelti ez a titokzatos, vonzó külsejű férfi, aki három hónap alatt tizenkét életet mentett meg.
 Az újságírónő Jim Ironheart nyomába ered és sikerül a férfi bizalmába férkőznie. Szerelem szövődik közöttük. Holly sok mindent megtud Jimről, a legfontosabbat azonban nem: vajon miféle erő irányítja ezt az embert, miféle látomások kísértik, miért suttog álmában a közelgő ellenségről, aki azért jön, hogy megöljön mindenkit …
@@ -21,10 +21,9 @@ A lélegzetelállító történet végén fény derül arra, miért perzseli a h
         <dc:subject>Szórakoztató irodalom</dc:subject>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>akció</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>kaland</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Dean R. Koontz&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-12-12T09:59:14+00:00"/>
         <meta name="calibre:title_sort" content="Hideg tűz"/>

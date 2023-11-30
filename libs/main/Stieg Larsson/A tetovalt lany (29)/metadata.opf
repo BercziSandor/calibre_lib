@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f92e0553-0a91-438d-9f00-b1052c97ab72</dc:identifier>
         <dc:title>A tetovált lány</dc:title>
         <dc:creator opf:file-as="Larsson, Stieg" opf:role="aut">Stieg Larsson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-02-20T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Negyven éve történt. Az agg milliárdos elveszítette unokahúgát, akit gyermekeként szeretett. S azóta is, évről évre, valaki – mintha az őrületbe akarná kergetni – minden születésnapján emlékezteti az idős urat arra a tragikus napra… Az évek óta tartó nyomozás új lendületet kap, amikor a férfi felfogad egy vesztes sajtóper után állás nélkül maradt, rámenősnek tűnő újságírót, hogy kísérelje meg az igazság kiderítését. Hisz sokan élnek még a rokonságból, akik akkor ott voltak. A gyilkosnak köztük kell lennie… Ugyanakkor egy jó hírű magánnyomozó iroda munkatársnője rááll az újságíróra, s szinte mindent kiderít róla, ahogyan mások sem bízhatnak abban, hogy titkuk rejtve marad a kivételes tehetségű, tetovált lány előtt.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -33,12 +33,11 @@
         <dc:subject>skandináv</dc:subject>
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>svéd szerző</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>újságírás</dc:subject>
         <dc:subject>krimi</dc:subject>
         <dc:subject>Szórakoztató irodalom</dc:subject>
         <dc:subject>Szépirodalom</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Stieg Larsson&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Millennium"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="10"/>

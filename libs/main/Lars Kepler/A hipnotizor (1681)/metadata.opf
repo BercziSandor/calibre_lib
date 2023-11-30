@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">810c103e-bb39-4cc4-bc5e-c801277ff97b</dc:identifier>
         <dc:title>A hipnotizőr</dc:title>
         <dc:creator opf:file-as="Kepler, Lars" opf:role="aut">Lars Kepler</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2009-01-01T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;„A ​hipnózisban még kézzelfoghatóbb, hogy a múlt nem múlt el.”&lt;br&gt;Egy sportpályához tartozó öltözőben brutálisan meggyilkolt és megcsonkított férfi holttestére bukkannak. Feleségét és két gyermekét értesíteni akarják, de a családi otthonban is a mészárlás nyomai fogadják a rendőröket. Úgy tűnik, valaki az egész Ek család kiirtását tűzte ki célul. Nem végzett azonban maradéktalanul alapos munkát, a kamasz fiú, Josef, válságos állapotban ugyan, de életben maradt.&lt;br&gt;Amikor Joona Linna bűnügyi felügyelő értesül egy harmadik gyermek, egy nagylány létezéséről, mindent el akar követni, hogy hamarabb találja meg, mint a gyilkos. Az egyetlen élő szemtanú, Josef kihallgatása a fiú sokkos állapota és gyéren pislákoló tudata miatt akadályokba ütközik. Hacsak…&lt;br&gt;Joona Linna a nyomozásba bevonja dr. Erik Maria Barkot, a híres hipnotizőrt. Bark a jó ügy érdekében megszegi tíz éve tett szent fogadalmát, miszerint felhagy a hipnózissal. Josef módosult tudatállapotban felidézett emlékei azonban felkészületlenül érik az orvost és a felügyelőt egyaránt.&lt;br&gt;Félelmetes, gyorsan pergő eseménysor veszi kezdetét, és Eriknek ezúttal saját eltemetett emlékei mélyére kell ásnia, ha meg akarja óvni családját a széthullástól és a visszafordíthatatlan tragédiától. Az idő ellene dolgozik.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -15,10 +15,9 @@
         <dc:identifier opf:scheme="ISBN">9789632661612</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>Mystery</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>Crime</dc:subject>
         <dc:subject>Suspense</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Lars Kepler&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Joona Linna"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

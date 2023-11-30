@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1e130ade-533e-45c4-bb60-a605f995def3</dc:identifier>
         <dc:title>A Bourne-rejtély</dc:title>
         <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2005-02-20T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Egy ​francia halászhajó legénysége félhalott férfit ment ki a tengerből. Az idegen amnéziában szenved, és a testében lévő golyókon és egy csípőjébe ültetett svájci bankszámlaszámon kívül semmije sincs. Nem tudja, ki ő és honnan jött, de hamarosan kivételes tehetséget árul el az önvédelem, a keleti harcművészetek és a nyelvek terén. Mindez pedig sokatmondóan veszélyes múltat sejtet. Hősünk összezavarodottan és kimerülten hozzálát, hogy kiderítse, ki is ő valójában, és hogyan sodródott ilyen veszélybe. A zürichi széffiók tartalma, ha lehet, még az előzményeknél is zavarba ejtőbb. Duzzadó bankszámla és egy név: Jason Bourne, valamint utasítás, hogy vegye fel a kapcsolatot a Treadstone nevű New York-i céggel. Hogy mindez mit jelent, az Bourne számára is rejtély. Senkit nem ismer, őt azonban rendre felismerik, de úgy tűnik, hogy nem a jóakaróiba botlik úton-útfélen. Fokozódó paranoiája teljesen indokolt, valóban üldözik őt, sőt az életére törnek.&lt;br&gt;A regény korábban A FANTOM címen is megjelent.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -33,8 +33,7 @@
         <dc:subject>filmadaptáció</dc:subject>
         <dc:subject>akció</dc:subject>
         <dc:subject>amerikai</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Robert Ludlum&quot;: &quot;&quot;}"/>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:series" content="Fantom/Bourne"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

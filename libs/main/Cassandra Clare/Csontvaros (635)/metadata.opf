@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">72419aa4-677a-4b0f-bf1c-0596ccc92342</dc:identifier>
         <dc:title>Csontváros</dc:title>
         <dc:creator opf:file-as="Clare, Cassandra" opf:role="aut">Cassandra Clare</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-02-17T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Gyilkosság ​tanúja lesz – a tizenöt éves Clary Fray aligha számít erre, amikor elindul a Pandemonium nevű New York-i klubba. Az elkövetők: három, különös tetoválásokkal borított és bizarr fegyverekkel hadonászó tinédzser.&lt;br&gt;A holttest aztán eltűnik a semmibe. Nehéz kihívni a rendőrséget, ha a gyilkosok mindenki más számára láthatatlanok, és semmi, még egy vércsepp sem bizonyítja, hogy egy fiú meghalt. De fiú volt-e az áldozat egyáltalán?&lt;br&gt;Így találkozik Clary először az Árnyvadászokkal, akik azért küzdenek, hogy megszabadítsák a földet a démonoktól. Közülük való az angyali külseje ellenére igazi bunkó módjára viselkedő Jace is. Clary egyetlen nappal később, akarata ellenére már bele is csöppen Jace világába: édesanyja eltűnik, őt magát pedig megtámadja egy démon. De miért érdekelne egy démont két olyan hétköznapi mondi, mint Clary és az édesanyja? És hogyan tett szert Clary egyszer csak a Látásra?&lt;br&gt;Az Árnyvadászok tudni akarják…&lt;br&gt;Cassandra Clare lendületes, sziporkázó és végtelenül lebilincselő regénye szórakoztató, vad utazásra visz. Azt fogod kívánni, bárcsak sose érnél az út végére.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -15,7 +15,7 @@
         <dc:language>hun</dc:language>
         <dc:subject>21. század</dc:subject>
         <dc:subject>amerikai</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>barátság</dc:subject>
         <dc:subject>boszorkány</dc:subject>
@@ -33,7 +33,6 @@
         <dc:subject>New York (állam)</dc:subject>
         <dc:subject>női főszereplő</dc:subject>
         <dc:subject>nyár</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Cassandra Clare&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="A Végzet Ereklyéi"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

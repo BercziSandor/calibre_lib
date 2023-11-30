@@ -59,6 +59,7 @@
 - Jo Nesbø: Nemeszisz [részletek](../_details/Jo%20Nesb%C3%B8.md#id_410)
 - Jo Nesbø: Police [részletek](../_details/Jo%20Nesb%C3%B8.md#id_578)
 - John Williams: Stoner [részletek](../_details/John%20Williams.md#id_1004)
+- Karin Slaughter: Összetörve [részletek](../_details/Karin%20Slaughter.md#id_1488)
 - Kondor, Vilmos: A bűntől keletre [részletek](../_details/Kondor%2C%20Vilmos.md#id_980)
 - Mario Puzo: A Keresztapa [részletek](../_details/Mario%20Puzo.md#id_283)
 - Michael Blake: Farkasokkal táncoló [részletek](../_details/Michael%20Blake.md#id_721)

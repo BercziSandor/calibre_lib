@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">ea78b7c6-1fe0-4f7f-944f-d8baee3a8dc4</dc:identifier>
         <dc:title>11/22/63</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-02-20T00:00:00+00:00</dc:date>
         <dc:description>Jake ​Epping kisvárosi angoltanár, jóképű, művelt, harmincas fiatalember. Tüdőrákban haldokló öreg barátja, Al egy napon hajmeresztő titkot oszt meg vele: tudja a módját, hogyan lehet visszamenni a múltba, és némi leleményességgel megváltoztatni a jövőt. Megkéri Jake-et, mivel maga már nem képes rá, hogy előzze meg azt az eseményt, amelytől ő Amerika és a világ romlását datálja: akadályozza meg Lee Harvey Oswaldot Kennedy meggyilkolásában. A múltban tett kirándulásnak van azonban egy hátulütője: amennyiben az időutas hazatér, de aztán újra ellátogat a múltba, „reset” következik be: az eredeti körülmények állnak helyre, a beavatkozás érvényét veszti.
 Jake, aki a múltban a George Amberson nevet veszi fel, főpróbát akar tartani. Középiskolája nyomorék öreg pedellusának családját 1958-ban az apa kiirtotta, Jake-George tehát azért megy vissza 2011-ből 1958-ba, a családirtás előtti hetekbe, hogy megmentse a családot. Ekkor veszi kezdetét a rengeteg bonyodalom, amely az új életével jár: szenvedélyes viszony, nagy, komoly szerelem, beteg lelkű, bosszúszomjas férj felbukkanása, gyilkosságok. Jake-George nem tudja eldönteni, áldja-e vagy átkozza Alt, amiért erre a küldetésre rávette, azt azonban az idő előre haladtával egyre biztosabban tudja, hogy a múltban vagy a jövőben szeretne-e élni.
@@ -18,9 +18,9 @@ Stephen King most is elemében van, fantáziája korlátlan, szereplői és mili
         <dc:subject>időutazás</dc:subject>
         <dc:subject>Maine</dc:subject>
         <dc:subject>Amerikai Történelem</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>amnézia</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>férfi főszereplő</dc:subject>
@@ -37,7 +37,6 @@ Stephen King most is elemében van, fantáziája korlátlan, szereplői és mili
         <dc:subject>családon belüli erőszak</dc:subject>
         <dc:subject>felnőtt tartalom</dc:subject>
         <dc:subject>disztópia</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2013-06-11T20:22:32+00:00"/>
         <meta name="calibre:title_sort" content="11/22/63"/>

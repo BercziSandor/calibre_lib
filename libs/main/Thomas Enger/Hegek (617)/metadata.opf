@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">cf3000c6-d378-4d4f-984c-cbc208dfe083</dc:identifier>
         <dc:title>Hegek</dc:title>
         <dc:creator opf:file-as="Enger, Thomas" opf:role="aut">Thomas Enger</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-02-17T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Henning Juul egy internetes újság bűnügyi tudósítója. Két év betegszabadság után tér vissza a szerkesztőségbe. A hosszú lábadozásra elsősorban lelki okokból volt szüksége: nem tudta kimenteni kisfiát egy lakástűzből.&lt;br&gt;Égésnyomok látszanak azon az egyetemista lányon is, akit halálra kövezve találnak meg egy sátorban. A rendőrség szélsőséges iszlamista indíttatásra következtet, és hamarosan a lány pakisztáni barátja lesz az első számú gyanúsított. Henning Juul számára azonban ez egyáltalán nem kézenfekvő, és önálló nyomozásba kezd. Nincs könnyű dolga. A szerkesztőséget – ahol időközben volt tanítványa lett a főnöke – elsősorban az újabb és újabb hírek érdeklik, nem lehet túl sok időt fordítani egy-egy ügyre. Ráadásul a rendőrségi nyomozás egyik vezetője olyasvalaki, akire nem szívesen emlékezik iskolás éveiből. És – bár munkaképesnek tűnik – kisfia értelmetlen halála is tovább kísérti.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -22,9 +22,8 @@
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>krimi</dc:subject>
         <dc:subject>bűnügyi</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>skandináv</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Thomas Enger&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Henning Juul"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

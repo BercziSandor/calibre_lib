@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">29f9ca9c-abd0-4568-8bfb-491af9b30058</dc:identifier>
         <dc:title>Rozsban a fogó</dc:title>
         <dc:creator opf:file-as="Salinger, J. D." opf:role="aut">J. D. Salinger</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-12-22T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Ötven évvel az első magyar megjelenése után új fordításban kerül az olvasók elé Salinger regénye.&lt;br&gt;Főhőse, Holden Caulfield tizenhét éves amerikai gimnazista, akit éppen a negyedik iskolából rúgtak ki. Első személyben mondja el a kicsapása utáni három napjának történetét, melyet New Yorkban éjszakai mulatóhelyeken, kétes hírű szállodában s az utcán tölt el. Közben mindent megpróbál, hogy a világgal, az emberekkel normális kapcsolatot alakítson ki, de sikertelenül. Menekül az emberek elől, de mindenütt hazug embereket talál. Az egyetlen élőlény, akivel őszintén beszélhet, s aki talán meg is érti valamennyire, titokban felkeresett tízéves kishúga. De ő sem tud segíteni: Holden a történteket egy szanatórium lakójaként meséli el.&lt;br&gt;Salinger regénye nemcsak a kamaszlélek kitűnő, hiteles rajza, hanem a társadalmi konformizmus ellen lázadó ember kudarcának is szimbóluma..&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -22,7 +22,7 @@
         <dc:subject>111 híres regény</dc:subject>
         <dc:subject>1940-es évek</dc:subject>
         <dc:subject>20. század</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>antihős</dc:subject>
         <dc:subject>beat-nemzedék</dc:subject>
@@ -41,7 +41,6 @@
         <dc:subject>Irodalom</dc:subject>
         <dc:subject>További könyveink</dc:subject>
         <dc:subject>Szépirodalom</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;J. D. Salinger&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2021-02-22T14:49:20+00:00"/>
         <meta name="calibre:title_sort" content="Rozsban a fogó"/>

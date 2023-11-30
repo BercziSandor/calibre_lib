@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b1bf84a2-3aae-488a-ad2c-3ddd42ae016c</dc:identifier>
         <dc:title>A túlélő</dc:title>
         <dc:creator opf:file-as="Koontz, Dean R." opf:role="aut">Dean R. Koontz</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2001-02-20T00:00:00+00:00</dc:date>
         <dc:description>Joe Carpenter, egy repülőgép-szerencsétlenség során – 330 halott, nincs túlélő – elveszti a feleségét és két kislányát. Egy évvel a tragédiát követően, amikor már úgy érzi, csak öngyilkosság révén juthat ki élete romjai alól, találkozik egy titokzatos nővel. Rose azt állítja, ő is a lezuhant gép utasai közé tartozott, s túlélte a katasztrófát. Joe-t kétségek gyötrik. Lehet, hogy a hatóságok eltitkolnak valamit az áldozatok hozzátartozói elől? Elképzelhető, hogy nem csupán egy túlélő van? Rose talán tudja a választ. A férfi nyomozásba kezd, és szembe találja magát egy titkos szervezettel, amely bármire képes, hogy megállítsa a túlélőt, mielőtt nyilvánosságra hozhatná a katasztrófa részleteit.</dc:description>
         <dc:publisher>Szukits</dc:publisher>
@@ -19,12 +19,11 @@
         <dc:subject>filmadaptáció</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>Fantasy</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>katasztrófa</dc:subject>
         <dc:subject>repülő</dc:subject>
         <dc:subject>kísérlet</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Dean R. Koontz&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-12-12T09:59:24+00:00"/>
         <meta name="calibre:title_sort" content="túlélő, A"/>

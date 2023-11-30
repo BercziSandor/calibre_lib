@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">418bc944-29d3-46e8-9f89-50774108cf9b</dc:identifier>
         <dc:title>Az angol bérgyilkos</dc:title>
         <dc:creator opf:file-as="Silva, Daniel" opf:role="aut">Daniel Silva</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2002-02-15T14:57:57+00:00</dc:date>
         <dc:description>A Hidegvérrel és más népszerű regények írója ezúttal is a titkosszolgálatok izgalmas, rejtélyekkel teli világába vezeti az olvasót. Gabriel Allon restaurátor – mellesleg az izraeli titkosszolgálat embere – nem mindennapi megbízást kap: egy Raffaello-festményt kell restaurálnia Svájcban. Amikor a kép mellett a tulajdonos holttestére bukkan, már sejti, alighanem többről van szó, mint amennyit eddig tudott az ügyről. Elfeledett titkok, eltemetett múltbéli események nyomában kezd el kutatni a második világháborúban felhalmozott műkincsek után – hamarosan kiderül azonban, hogy vannak, akik bármire képesek azért, hogy a múlt rejtve maradjon…</dc:description>
         <dc:publisher>Jokerex</dc:publisher>
@@ -20,9 +20,8 @@
         <dc:subject>Moszad</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>sorozat része</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>titkosszolgálat</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Daniel Silva&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Gabriel Allon"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>

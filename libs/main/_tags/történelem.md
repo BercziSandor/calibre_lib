@@ -32,7 +32,6 @@
 - Noam Chomsky: Hatalom és terror [részletek](../_details/Noam%20Chomsky.md#id_343)
 - Paul Watzlawick: A helyzet reménytelen, de nem súlyos [részletek](../_details/Paul%20Watzlawick.md#id_954)
 - Philip Carlo: A Jeges [részletek](../_details/Philip%20Carlo.md#id_529)
-- Polcz Alaine: Asszony a fronton [részletek](../_details/Polcz%20Alaine.md#id_1443)
 - Robert Ludlum: Holcroft szövetség [részletek](../_details/Robert%20Ludlum.md#id_34)
 - Robert Merle: A bálvány [részletek](../_details/Robert%20Merle.md#id_322)
 - Robert Merle: A gyermekkirály [részletek](../_details/Robert%20Merle.md#id_323)

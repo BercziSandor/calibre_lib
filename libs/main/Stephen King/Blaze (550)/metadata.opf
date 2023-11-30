@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">8fe1b5bf-00f8-46b5-b875-49513ba86861</dc:identifier>
         <dc:title>Blaze</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2009-02-20T00:00:00+00:00</dc:date>
         <dc:description>Megindító, ​tragikus eset: egy jóravaló, okos kisfiút apja részegségében súlyosan bántalmaz, amelynek maradandó következményeit a fiú élethosszan cipeli. Amikor megismerjük, huszonéves, esetlenül nagydarab fickó, horpadásos homlokkal, túlságosan is lomha észjárással. Faragatlan, bivalyerõs óriás, ugyanakkor a légynek sem tudna ártani. Nem, ha életének döntéseit magamaga bírná meghozni… de valahogy mindig kicsúszik a kezébõl a gyeplõ. Mentora évek óta George, a kisstílû bûnözõ, az õ utasításait hajtja végre közös balhéikban.
 Ám egyszer végre a sarkára áll, elszánja magát, hogy egyedül is boldogulni fog ifj. Clayton „Blaze” Blaisdell. S mi tanúi lehetünk egyszemélyes vállalkozása aprólékos megtervezésének, gondos kivitelezésének és kimenetelének. Blaze élete nagy dobása – egy gyermekrablás, milliós váltságdíjjal. Ahogy szorul körülötte a hurok, és hibát hibára halmoz, azt veszi észre, hogy a fejében idõrõl idõre megszólal a már halott George, az utolsó pillanatban mindig elhárítva a közeledõ katasztrófát…
@@ -22,14 +22,13 @@ Stephen King íróasztala mélyérõl ásta elõ ifjúkori írását, a Blaze er
         <dc:subject>Szórakoztató irodalom</dc:subject>
         <dc:subject>akció</dc:subject>
         <dc:subject>Szépirodalom</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>kaland</dc:subject>
         <dc:subject>21. század</dc:subject>
         <dc:subject>pszicho-thriller</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>kortárs</dc:subject>
-        <dc:subject>drámai cselekmény</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <dc:subject>dráma</dc:subject>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2013-07-09T11:05:32+00:00"/>
         <meta name="calibre:title_sort" content="Blaze"/>

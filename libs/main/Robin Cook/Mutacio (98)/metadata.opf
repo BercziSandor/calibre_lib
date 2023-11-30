@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">0448efca-d702-4a96-ab85-e4599fe15198</dc:identifier>
         <dc:title>Mutáció</dc:title>
         <dc:creator opf:file-as="Cook, Robin" opf:role="aut">Robin Cook</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-02-18T00:00:00+00:00</dc:date>
         <dc:description>Amikor Kivi, a hideg fénnyel csillogó szemű kisfiú megszületik, még senki sem gondolja a családból, hogy a gyerek valójában génmanipulált. Csak az apja tudja a titkot, aki a beavatkozást végrehajtotta azzal a céllal, hogy igazi zsenit hozzon létre. A családban azonban egyre több megmagyarázhatatlan, szörnyű tragédia történik, miközben a kis zseninek láthatóan nincsenek érzelmei… De a legrettenetesebb események még hátravannak – de mi történik közben Kivivel? Hátborzongató történet – csak felnőtt olvasóknak!</dc:description>
         <dc:publisher>I.P.C.</dc:publisher>
@@ -20,8 +20,7 @@
         <dc:subject>orvosi krimi</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>rejtély</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Robin Cook&quot;: &quot;&quot;}"/>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-11-15T20:40:57+00:00"/>
         <meta name="calibre:title_sort" content="Mutáció"/>

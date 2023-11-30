@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1faee6ce-14cf-4a81-b19e-5b46a811cca4</dc:identifier>
         <dc:title>Barrakuda művelet</dc:title>
         <dc:creator opf:file-as="Michaels, David" opf:role="aut">David Michaels</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2009-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;p class="description"&gt;Ha Amerika szabadsága a tét, egy ember a törvények felett áll. A neve Sam Fisher. Ő egy Splinter Cell.&lt;br&gt;Csendes, láthatatlan és halálos – a legújabb fegyver a modern háborúk frontvonalán, a technikai újítások világában. A Nemzetbiztonsági Hivatal (NSA) titkos részlege, a Third Echelon ismét aktiválja különleges ügynökét, az „üvegszilánk” Sam Fishert, aki engedéllyel kémkedik, lop, pusztít és gyilkos merényleteket követ el, hogy megvédje Amerikát. Egyedül dolgozik. És villámgyorsan üt. Magányos árnyékharcos, aki éppolyan ravasz és könyörtelen, mint azok, akikre vadászik…&lt;br&gt;A Ubisoft sikeres videojátéka, a Tom Clancy's Splinter Cell alapján.&lt;/p&gt;</dc:description>
         <dc:publisher>Partvonal</dc:publisher>
@@ -15,9 +15,8 @@
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>regény</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>ügynök</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;David Michaels&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Tom Clancy's Splinter Cell"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">46b8ddc1-fc68-47d5-b883-e9f14ea23487</dc:identifier>
         <dc:title>Bourne ultimátuma</dc:title>
         <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2006-02-20T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;David Webb már öt éve éli az egyetemi történelemtanárok nyugalmas életét családjával egy maine-i kisvárosban, amikor hirtelen megjelenik valami a múltjából, valami, ami fenyegető – pontosabban nem is valami, hanem valaki. Valaki, aki ellen David Webb tehetetlen lenne, ezért visszavedlik még egyszer Jason Bourne-ná, aki most már nem csak a feleségéért harcol, hanem kisgyermekéért is. És nagyon reméli, hogy ez a harc lesz a végső. Mindent erre az egy lapra tesz fel. Megkezdődik a gyilkos és véres hajsza két kontinensen át, két elsőosztályú bérgyilkos próbál egyedül maradni a porondon, mindkét oldalon hullanak az ártatlan (vagy éppen egyáltalán nem ártatlan) áldozatok, míg végre elérkezik a leszámolás pillanata. Jason Bourne – és szellemi atyja, Robert Ludlum – ezúttal sem tagadja meg önmagát. A Bourne-trilógia befejező kötete – ezt minden túlzás nélkül kijelenthetjük – a műfaj gyöngyszeme.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -29,8 +29,7 @@
         <dc:subject>filmadaptáció</dc:subject>
         <dc:subject>akció</dc:subject>
         <dc:subject>amerikai</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Robert Ludlum&quot;: &quot;&quot;}"/>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:series" content="Fantom/Bourne"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>

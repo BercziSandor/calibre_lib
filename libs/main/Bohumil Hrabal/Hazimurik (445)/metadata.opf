@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">2ad4d146-4f70-407b-9810-0d1e75a55b0d</dc:identifier>
         <dc:title>Házimurik</dc:title>
         <dc:creator opf:file-as="Hrabal, Bohumil" opf:role="aut">Bohumil Hrabal</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-02-19T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A ​nagy közönségsikert aratott "sörgyári” könyvek mellett Hrabal írt egy másik önéletrajzi trilógiát is, amelynek köteteiben (Házimurik, Vita Nouva, Foghíjak) sajátos módon nem a szerző, hanem a feleség szólal meg első személyben, azaz: Hrabal egy "közelálló kívülálló” szemével látja és láttatja önmagát. Ez a „harmadik személyű önvallomás” újabb pszichológiai és művészi bravúr a pályán.A trilógia első kötete, a Házimurik egyfajta kettős életrajz: Hrabal és felesége hol párhuzamosan futó, hol egymásba kapcsolódó története.A negyvenes-ötvenes évek Kelet-Közép-Európájában tipikus módon mélybe lecsúszottak, perifériára sodródtak, mindent újrakezdők históriája ez, azoké, akik tizenhárom szobás családi villákból vagy legalábbis négyszobás szolgálati lakásokból indultak, és a nagy garral beharangozott új élet hajnalán silány albérleti szobákban, jószívű ismerősöknél húzták meg magukat.A tehetős polgárcsalád jogi doktorátussal rendelkező s félig-meddig önkéntes proletárrá züllött fia és a kitelepített szudétanémet nagypolgári famíliából származó leány mindent elveszített, s mégis hihetetlenül gazdag: megadatott számukra a létezés öröme, a kis dolgok nagy szeretete. És mi lehetne alkalmasabb e hrabali élet-krédónak a megfogalmazására, mint egy szerelmi történet: a két sokat próbált ember találkozik, és egymásba szeret.Amiről Hrabal ír e kisregényben, elemeiben jól ismert korábbi műveiből, s talán kissé banális is: napfény ragyog a Moldva menti fák koronájában, nyári eső mossa a málladozó vakolatú libeňi házak falát, sörisszák hahotájától hangos a kültelki kocsma, nyugdíjasok ülnek a kapu előtti kispadon, autodidakta filozófusok elmélkednek életről-halálról, forradalomról-háborúról, jogról-igazságról… vagyis maga a sokszínű élet tárul föl előttünk ahogy feltartóztathatatlanul hömpölyög, elevenen lüktet a hrabali elbeszélés árja.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -20,7 +20,7 @@
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>önéletrajz</dc:subject>
         <dc:subject>sorozat része</dc:subject>
-        <dc:subject>Filozófikus Regények</dc:subject>
+        <dc:subject>filozofikus regény</dc:subject>
         <dc:subject>Európa</dc:subject>
         <dc:subject>Cseh Köztársaság</dc:subject>
         <dc:subject>Az író származása szerint</dc:subject>
@@ -29,7 +29,6 @@
         <dc:subject>regény</dc:subject>
         <dc:subject>novella</dc:subject>
         <dc:subject>Tartalom szerint</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Bohumil Hrabal&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Házimurik"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="10"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3ce0d0fd-66fe-4d9c-935b-88f5ec4d20fd</dc:identifier>
         <dc:title>Fejvadászok</dc:title>
         <dc:creator opf:file-as="Nesbø, Jo" opf:role="aut">Jo Nesbø</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-02-21T23:00:00+00:00</dc:date>
         <dc:description>Roger Brown igazán a szerencse fiának tűnik: ő Norvégia legsikeresebb fejvadásza, gyönyörű feleségével egy pompás házban élnek. Ám a luxus életmódot Roger műkincstolvajként igyekszik bebiztosítani, s „mellékállásában” igen ügyesnek bizonyul. Amikor felesége galériájában megismerkedik valakivel – aki egyrészt tökéletes jelölt az egyik általa kínált magas állásra, másrészt a művészettörténet egyik legkeresettebb képének a tulajdonosa – Roger úgy érzi, élete nagy lehetősége köszöntött rá. Készülni kezd eddigi legmerészebb betörésére. Ám a vadászból csakhamar vad lesz, üldözöttje egy rémálomba illő ellenfélnek.</dc:description>
         <dc:publisher>Animus</dc:publisher>
@@ -14,7 +14,7 @@
         <dc:language>hun</dc:language>
         <dc:subject>norvég szerző</dc:subject>
         <dc:subject>Norvégia</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>skandináv</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">11b7bfd6-c06b-4b4e-90fa-7a13412a5151</dc:identifier>
         <dc:title>A parfüm</dc:title>
         <dc:creator opf:file-as="Süskind, Patrick" opf:role="aut">Patrick Süskind</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2006-02-14T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A kötet hősének, Jean-Baptiste Grenouille-nak, a "zseniális szörnyetegnek" a neve csupán azért merült feledésbe, mert rettentő története nem történelmi vonatkozású. Ő ugyanis a "szagok birodalmát" teremtette meg erőszakkal, öntudatlan akarattal. Azt érte el, amit tán nem is tűzött ki: létrehozta főművét, a világ legtökéletesebb parfümjét. Akár szagtalan sátán is lehetne a hős, aki valóban átok-gyermekként jött e szagokkal teli világra - a tizennyolcadik századi Párizs legbűzösebb negyedében, a halpiacon. Létével mégis mintha a zseni kínzó, önmagát riadtan vagy éppen dühödten kutató magányát élné meg. Ezt az érzést csak a kiválás, a nagy "Tett" végrehajtása, a tökéletes "Mű", a parfüm valósága oldhatja csak fel. Mégsem válik horrorfigurává a történet kegyetlen gyilkosa, pedig a "gyengédség, az erő, a tartósság, a sokszínűség, ijesztő ellenállhatatlan szépség" és visszautasíthatatlan szeretet parfümjének előállításához huszonöt fiatal lány meggyilkolása árán jut el Jean-Baptiste: lenyúzván a még gyermeklányok bőrét, elkészíti ezt a hullaszagból illateszenciává varázsolt anyagot. Grenouille valóban zseniális szaktudásra tesz szert, hosszú évek során megtanulja parfümkészítő mesterétől - majd egyedül kísérletezvén - e nehéz mesterség valamennyi csínját, a kémia, alkímia, a desztillálás és az alapanyagok arányos vegyítésének minden trükkjét. Parfümjével öntudatlanul is hatalmat szerez az emberek felett. A történetben Grenouille-t nem tudják lefejezni, bár bírói és Párizs népe jól tudja, hogy ő a kegyetlen gyilkos. Kíméletlen öldöklése azért nem nyeri el jogos büntetését, mert a kivégzésére odasereglő tömeg szeretetbe kábul Jean-Baptiste illatától. Vajon kit ábrázol ez a mégsem horror történet?&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -24,7 +24,7 @@
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>német szerző</dc:subject>
         <dc:subject>sorozatgyilkosság</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>World Fantasy Díj</dc:subject>
         <dc:subject>Franciaország</dc:subject>
         <dc:subject>gyilkosság</dc:subject>
@@ -33,7 +33,6 @@
         <dc:subject>utazás</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>1001 könyv listán szerepel</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Patrick Süskind&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2013-01-25T22:07:27+00:00"/>
         <meta name="calibre:title_sort" content="parfüm, A"/>

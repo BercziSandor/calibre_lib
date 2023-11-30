@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">71e98b27-ab7b-4251-9f15-d46e8e355849</dc:identifier>
         <dc:title>A Chancellor kézirat</dc:title>
         <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2005-02-21T00:00:00+00:00</dc:date>
         <dc:description>Természetes halál… vagy gyilkosság?
 Hogyan ért véget J. Edgar Hoover élete?
@@ -25,9 +25,8 @@ Az egyetlen akadály Peter Chancellor, a sikeres regényíró, aki olyan inform�
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>misztikus</dc:subject>
         <dc:subject>regény</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>titkosszolgálat</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Robert Ludlum&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2014-11-18T15:59:21+00:00"/>
         <meta name="calibre:title_sort" content="Chancellor kézirat, A"/>

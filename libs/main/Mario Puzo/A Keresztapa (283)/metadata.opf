@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">cf069d38-bec8-4423-b86a-4918bd371c9e</dc:identifier>
         <dc:title>A Keresztapa</dc:title>
         <dc:creator opf:file-as="Puzo, Mario" opf:role="aut">Mario Puzo</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;p class="description"&gt;A Maffia napi aktualitásként él az emberek tudatában, hiszen lépten-nyomon hallat magáról. Az olvasó bizonyára érdeklődéssel és izgalommal olvassa majd regényalakban is a filmvászonról jól ismert, Francis Ford Coppola és Marlon Brando jóvoltából halhatatlanná és világhírűvé vált, Amerikában letelepedett Keresztapa, Don Corleone fordulatos, elképesztő epizódokban gazdag történetét. Módunkban áll végigkísérni a Szicíliából Amerikába vándorolt Corleone família idősebb és ifjabb nemzedékeinek, barátainak, ellenségeinek sorsát, életét – és természetesen halálát, hiszen a szereplők legfontosabb jellemvonása az, hogy tetteiket az Amerikában is virágzó Maffia parancsai határozzák meg, amelyek között a legfontosabb a szinte közhelynek számító, ám a szervezet tagjai által mindig halálosan komolyan vett vendetta, vagyis a vérbosszú.&lt;/p&gt;</dc:description>
         <dc:publisher>Geopen</dc:publisher>
@@ -14,14 +14,14 @@
         <dc:language>hun</dc:language>
         <dc:subject>1940-es évek</dc:subject>
         <dc:subject>20. század</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>antihős</dc:subject>
         <dc:subject>bérgyilkos</dc:subject>
         <dc:subject>bűnözés</dc:subject>
         <dc:subject>család</dc:subject>
         <dc:subject>családregény</dc:subject>
-        <dc:subject>drámai cselekmény</dc:subject>
+        <dc:subject>dráma</dc:subject>
         <dc:subject>erőszak</dc:subject>
         <dc:subject>férfi főszereplő</dc:subject>
         <dc:subject>gyilkosság</dc:subject>
@@ -35,7 +35,6 @@
         <dc:subject>filmadaptáció</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>1001 könyv listán szerepel</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Mario Puzo&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2012-11-17T21:40:11+00:00"/>
         <meta name="calibre:title_sort" content="Keresztapa, A"/>

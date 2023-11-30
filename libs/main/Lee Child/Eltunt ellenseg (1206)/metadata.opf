@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3efaecce-162a-4907-b87a-f964195c612e</dc:identifier>
         <dc:title>Eltűnt ellenség</dc:title>
         <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-02-17T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;1989 ​szilveszter éjszakája.Jack Reachert alig két napja helyezték új szolgálati helyére, a Fort Bird támaszpontra, amikor telefonhívást kap: egy közeli motelben magas rangú tábornok holttestére bukkantak. Halála természetesnek tűnik, ám Reachert nem hagyja nyugodni, hogy az éppen konferenciára tartó tábornoknak hiányoznak az iratai. Gyanúja néhány nap múlva megerősítést nyer. A tábornok feleségét is meggyilkolják, majd a támaszponton is újabb gyilkosságok történnek. Reacher kezdetben sötétben tapogatózik, ráadásul úgy tűnik, felettesei sokkal inkább szeretnék a rejtélyes, s a hadsereg presztízsére árnyékot vető haláleseteket eltussolni. Az őrnagynak már-már attól kell tartania, hogy ő is gyanúba keveredik, ha sürgősen fényt nem derít a különös esetekre. Reacher csupán a társául szegődött csinos rendőrnőre, Summer hadnagyra számíthat, akivel minden képzeletet felülmúló összeesküvés szálaira bukkan: a sötét terveknek csak a kezdete volt a gyilkosságsorozat… A brit-amerikai író (Ne add fel könnyen,Lángoló sivatag, Hiba nélkül) sajátosan visszafogott és szellemes stílusával ismét egy izgalmas nyomozást mutat be Jack Reacher-módra.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -22,8 +22,7 @@
         <dc:subject>nyomozás</dc:subject>
         <dc:subject>rejtély</dc:subject>
         <dc:subject>sorozat része</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Lee Child&quot;: &quot;&quot;}"/>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:series" content="Jack Reacher"/>
         <meta name="calibre:series_index" content="8"/>
         <meta name="calibre:rating" content="8"/>

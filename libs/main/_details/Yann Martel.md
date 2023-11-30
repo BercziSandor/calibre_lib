@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yann%20Martel/Life%20of%20Pi%20%281526%29/Life%20of%20Pi%20-%20Yann%20Martel.epub)
 
 ### Tagek
-[retail](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/retail.md), [azizex666](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/azizex666.md)
+[retail](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/retail.md)
 
 ### Összefoglalás
 <div><span class="Apple-style-span" style="font-family: arial, serif; color: rgb(51, 51, 51); font-size: small; ">SUMMARY:</span><div><span class="Apple-style-span" style="font-family: arial, serif; color: rgb(51, 51, 51); font-size: small; ">After the tragic sinking of a cargo ship, one solitary lifeboat remains bobbing on the wild, blue Pacific. The only survivors from the wreck are a sixteen-year-old boy named Pi, a hyena, a zebra (with a broken leg), a female orang-utan… and a 450-pound Royal Bengal tiger. The scene is set for one of the most extraordinary works of fiction in recent years.</span></div></div>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b649fce1-8797-4669-a852-85f587529d11</dc:identifier>
         <dc:title>Az út végén a halál</dc:title>
         <dc:creator opf:file-as="Foster, Alan Dean" opf:role="aut">Foster, Alan Dean</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1992-02-18T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A ​Föld felé tartó óriás Sulaco űrhajón elektromos tűz üt ki, és az automatika egy mentőkabinban kilövi a fedélzetén hibernálva fekvő utasokat: egy sebesült katonát, egy kislány, egy széttépett androidot és egy nőt, Ripleyt.&lt;br&gt;Nem véletlen, ha ismerős a név, ő az aki A nyolcadik utas a halálban és A bolygó neve halálban már két alkalommal is megküzdött az emberekben csak táplálékot látó idegenekkel. Most itt a harmadik rész, a rémálom folytatódik&lt;br&gt;A mentőkabinban ugyanis rajtuk kívül ott szunnyad egy földönkívüli tojása és áldozatra vár. Ripleyék egy börtönbolygón landolnak, ám a szerencsétlenséget csak a nő éli túl&lt;br&gt;Ezen a fegyvertelen, lezüllött büntetőtelepen indul ismét útjára a halál, ezúttal megállíthatatlanul. Az életüket félő elítélteknek Ripley vezetésével csupán egyetlen reményük maradt: hátha az emberi lelemény képes megfékezni az idegen mindent elsöprő erejét.&lt;br&gt;A könyvet az amerikai sikerfilm forgatókönyve alapján Alan Dean Foster írta, aki nem ismeretlen már a hazai közönség előtt.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -23,9 +23,8 @@
         <dc:subject>regény</dc:subject>
         <dc:subject>sci-fi</dc:subject>
         <dc:subject>sorozat része</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>űrutazás</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Foster, Alan Dean&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Alien"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>

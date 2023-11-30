@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">58bb6856-db8b-409c-9090-0e37c4574241</dc:identifier>
         <dc:title>Invázió</dc:title>
         <dc:creator opf:file-as="Cook, Robin" opf:role="aut">Robin Cook</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2006-02-18T00:00:00+00:00</dc:date>
         <dc:description>Az ​Egyesült Államok nyugati részén egy éjszaka az égen különös, csillaghullásra emlékeztető jelenség játszódik le. Meteorok helyett azonban meghatározhatatlan anyagból készült, apró diszkoszhoz hasonlító korongok csapódnak a Föld felszínére – elkezdődik az invázió. Egy idegen életforma akarja uralma alá hajtani az emberiséget, életre keltve még az ember megjelenése előtt előreküldött lappangó követeit. Téren és időn át mozogni tudó, legyőzhetetlennek tűnő ellenségről van szó, amelynek a felismerése is a lehetetlenséggel határos, legyőzése pedig kizártnak látszik. Uralma azért olyan szörnyű, mert maguk a legyőzöttek boldogan fogadják és létük kiteljesedéseként élik meg. Két egyetemista fiatal, egy orvosnő, egy víruskutató házaspár kamasz fiával, és egy nyugdíjbavonulás előtt álló rendőr – belőlük áll az a maroknyi csapat, amely vállalkozik a kivihetetlenre. Meg akarják fejteni a betegség titkát, hogy a kórt az ellenségessé vált emberek akarata ellenére is legyőzzék, és megállítsák az inváziót. Ehhez – miután már minden veszni látszik – segítséget kapnak egy különös viselkedésű, de nagy tudású kutató személyében.
  Sci-fi alapokra helyezett orvosi regény, amely a víruskutatás már-már krimiszerű izgalmat gyorsan pergő, váratlan fordulatokkal teli történettel párosítja, s mindez Robin Cook feszes ritmusában a tőle megszokott egyedülállóan magas színvonalon.</dc:description>
@@ -14,7 +14,7 @@
         <dc:identifier opf:scheme="ISBN">9633700450</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>akció</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>Arizona</dc:subject>
         <dc:subject>filmadaptáció</dc:subject>
@@ -30,10 +30,9 @@
         <dc:subject>rendőr</dc:subject>
         <dc:subject>sci-fi</dc:subject>
         <dc:subject>sivatag</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>Új-Mexikó</dc:subject>
         <dc:subject>vírus</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Robin Cook&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-11-15T20:40:50+00:00"/>
         <meta name="calibre:title_sort" content="Invázió"/>

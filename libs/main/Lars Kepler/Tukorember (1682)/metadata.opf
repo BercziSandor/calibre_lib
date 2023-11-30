@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">15e9b7c7-9d6e-4a6c-a939-a97ce113534e</dc:identifier>
         <dc:title>Tükörember</dc:title>
         <dc:creator opf:file-as="Kepler, Lars" opf:role="aut">Lars Kepler</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-10-18T22:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Egy ​nap Jenny Lind, a gyönyörű, szőke, tizenhat éves lány gyalog indul útnak az iskolából, mert valaki kiszúrta a biciklije kerekét, ám soha nem érkezik haza. Öt évvel később holtan találják egy stockholmi játszótér kellős közepén. Valaki szabályosan kivégezte.&lt;br&gt;Joona Linna felügyelő veszi kezébe a haláleset felderítését, mert felismeri Jennyben azt az elrabolt lányt, aki után már korábban nyomoztak. A játszótér körüli térfigyelő kamerák felvételei alapján sikerül is találnia egy szemtanút: Martin a kutyáját sétáltatta arra a gyilkosság éjszakáján, és minden valószínűség szerint végignézte a szörnyű jelenetet. A férfinak azonban pszichés problémái vannak, és a látottakból semmire sem emlékszik. A felügyelő Erik Maria Bark hipnotizőrhöz fordul, aki már többször segített a rendőrségnek hasonló esetekben.&lt;br&gt;Közben Joona rájön, hogy a gyilkosság kísértetiesen hasonlít egy tinédzserlány évekkel korábbi, öngyilkosságnak nyilvánított esetéhez. Rövidesen világossá válik, hogy egy sorozatgyilkossal van dolga, aki feltehetően ebben a pillanatban is több lányt tart fogva, és bármikor úgy dönthet, hogy megszabadul tőlük…&lt;br&gt;A Joona Linna-sorozat 8. része.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -14,11 +14,10 @@
         <dc:identifier opf:scheme="ISBN">9789633249185</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">59236198</dc:identifier>
         <dc:language>hun</dc:language>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>Crime</dc:subject>
         <dc:subject>Mystery</dc:subject>
         <dc:subject>Adult</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Lars Kepler&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Joona Linna"/>
         <meta name="calibre:series_index" content="8"/>
         <meta name="calibre:rating" content="8"/>

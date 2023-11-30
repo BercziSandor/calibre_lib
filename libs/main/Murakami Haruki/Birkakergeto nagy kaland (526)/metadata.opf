@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">55603c77-5929-41ad-a448-1224ed21f679</dc:identifier>
         <dc:title>Birkakergető nagy kaland</dc:title>
         <dc:creator opf:file-as="Haruki, Murakami" opf:role="aut">Murakami Haruki</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2007-06-10T22:00:00+00:00</dc:date>
         <dc:description>&lt;p class="description"&gt;Ez a különleges, misztikus-mitologikus irodalmi thriller keltette fel a világ figyelmét Murakami Haruki könyvei iránt, és alapozta meg írói tekintélyét a nemzetközi könyvszakmában.&lt;br&gt;Története murakamisan egyszerűen kezdődik: Egy alig harmincéves reklámszövegíró férfi képeslapot kap eltűnt barátjától, és azt felhasználja az egyik biztosítótársaság hirdetéséhez. Csupán akkor szerez tudomást arról, hogy a hegyi legelőt ábrázoló képen látható a nyájban egy mutáns birka csillaggal a hátán, amikor felkeresi egy furcsa, fekete ruhás férfi, és ultimátum elé állítja: vagy megtalálja az állatot, vagy meghal. A fiatalember unalmas élete egy csapásra megváltozik. Fölkerekedik barátja és a nem mindennapi birka felkutatására, és ezzel kezdetét veszi a birkakergető nagy kaland, amelynek során hősünk megismerkedik a juhtudományok professzorával, elvetődik Japán északi hegyvidékének legelhagyatottabb zugába, ahol nemcsak a mitikus birkával néz farkasszemet, hanem a hagyományok szorításában önmaga démonaival is.&lt;br&gt;Murakami, ahogy szokta, újfent meglepi, lehengerli és elképeszti olvasóit.&lt;/p&gt;</dc:description>
         <dc:publisher>Geopen Könyvkiadó</dc:publisher>
@@ -16,9 +16,8 @@
         <dc:subject>Irodalom</dc:subject>
         <dc:subject>krimi</dc:subject>
         <dc:subject>Szórakoztató irodalom</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>bűnügyi</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Murakami Haruki&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2013-06-11T20:28:31+00:00"/>
         <meta name="calibre:title_sort" content="Birkakergető nagy kaland"/>

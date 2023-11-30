@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">131a8bf4-8207-4b02-9c34-7f6fff034327</dc:identifier>
         <dc:title>Amerikai psycho</dc:title>
         <dc:creator opf:file-as="Ellis, Bret Easton" opf:role="aut">Bret Easton Ellis</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2002-09-14T22:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Irodalmi ​alkotás nagyon ritkán képes olyan világraszóló botrányt kelteni, amilyen az Amerikai Psychót övezte. Kiadók, amelyek már szerződést kötöttek a mű megjelentetésére, és előlegképpen súlyos összegeket fizettek a ki Ellisnek, sorra visszakoztak, és elálltak a publikálástól. Ez a könyv nemegyszer átlépi az elviselhetőség küszöbét. Amit írója a perverzió és az erőszak tombolásáról elgondol és leír, az kívül esik a normális ember felfogóképességének és erkölcsi érzékének határain. Amit azonban ezzel közöl, az értelmezhető és megítélhető: megrendít, felkavar, s könyörtelenül szembesít egy olyan világgal, amelyre – ha mégoly kelletlenül is – ráismerünk.&lt;br&gt;A regény főalakja Pat Bateman, huszonhat éves yuppie a Wall Streetről; intelligens, jóképű, elegáns és gazdag fiatalember. Lételeme a csillogó felszín: a legdivatosabb és legdrágább holmikban jár, a legfelkapottabb éttermekben vacsorázik barátaival és soros barátnőivel, ízlése ételben-italban főúri, fényűző lakása tömve a csúcstechnológiát képviselő szórakoztató-elektronikai szerkentyűkkel, véleménye a zenétől a politikáig mindenről naprakész. De Bateman valójában értéket, mértéket nem ismerő pszichopata szörnyeteg, aki a belsejében tátongó űrtől szexorgiákkal, egyre rafináltabb kéjgyilkosságokkal, sőt kannibalizmussal igyekszik menekülni – mindhiába.&lt;br&gt;A nyolcvanas évek második fele óta nemzedékének legjelentősebb írójaként számon tartott Bret Easton Ellis könyvének lapjain az amerikai álom helyébe lidérces rémálom lép: az Amerikai Psycho egy irányt vesztett, erőszakban tobzódó, anyagiasságba fulladó kultúra egyöntetűen sötét, kiutat nem mutató, döbbenetes erejű látomása.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -18,7 +18,7 @@
         <dc:subject>1001 könyv listán szerepel</dc:subject>
         <dc:subject>1980-as évek</dc:subject>
         <dc:subject>20. század</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>antihős</dc:subject>
         <dc:subject>bűnözés</dc:subject>
@@ -35,7 +35,6 @@
         <dc:subject>krimi</dc:subject>
         <dc:subject>kult</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Bret Easton Ellis&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2021-09-30T18:37:05+00:00"/>
         <meta name="calibre:title_sort" content="Amerikai psycho"/>

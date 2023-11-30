@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">480e6115-dd8b-4b77-b53f-8162fafe97df</dc:identifier>
         <dc:title>A Part</dc:title>
         <dc:creator opf:file-as="Garland, Alex" opf:role="aut">Alex Garland</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2000-02-18T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Vakítóan fehér, fövenyes part, szikrázóan kékvízű lagúna, buja, érintetlen természet… Ide, a thaiföldi sziget idillikus közösségébe érkezik Richard, a kalandot és boldogságot egyszerre kereső hátizsákos turista. A csalóka idillt azonban szétzúzza a feltartóztathatatlanul közelgő borzalom…&lt;br&gt;A Part lenyűgöző történet, mely a modern érzékenységet a legenda varázsával vegyíti. Valósággal hallucinogén regény, utazók álmairól mesél és pusztításról, ártatlanságról és horrorról egy feledhetetlen történetben.&lt;br&gt;Az 1970-ben született angol Alex Garland elsó regénye, A Part 1997-ben elnyerte a fiatal regényíróknak odaítélt rangos Betty Trask díjat. A szuggesztív, árnyalt szimbolikájú próza az író távolkeleti élményanyagából táplálkozik. Filmszerűsége, képi gazdagsága kelthette fel a Trainspotting rendezője, Danny Boyle figyelmét, aki Leonardo DiCaprioval a főszerepben filmet forgat belőle.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -22,10 +22,9 @@
         <dc:subject>kalandregény</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>regény</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>utazás</dc:subject>
         <dc:subject>vietnámi háború</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Alex Garland&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2020-12-26T19:13:01+00:00"/>
         <meta name="calibre:title_sort" content="Part, A"/>

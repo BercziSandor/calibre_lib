@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b22bf5f2-7e65-41d6-8f4c-fb16fa4665e7</dc:identifier>
         <dc:title>Rossz időben, rossz helyen</dc:title>
         <dc:creator opf:file-as="Kernick, Simon" opf:role="aut">Simon Kernick</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-02-19T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Sodró lendületű krimi dupla csavarokkal.&lt;br&gt;Kapaszkodj, ha Simon Kernicket olvasol – ez a pasi padlógázzal nyomja&lt;br&gt;végig. &lt;br&gt;Két jól menő, sikeres házaspár egy kellemesnek ígérkező hétvégi kirándulásra utazik el, hogy gondtalanul kikapcsolódjanak. Ám a hegyvidéki panzióban&lt;br&gt;a pihenés helyett döbbenetes rémálom veszi kezdetét: itt semmi sem olyan, mint&lt;br&gt;amilyennek elsőre látszik. Az események szédült erővel felpörögnek, és&lt;br&gt;nemsokára már egyedül az a kérdés: vajon túlélik-e a hétvégét, és ha igen,&lt;br&gt;milyen áron?&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -20,10 +20,9 @@
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>Szingapúr</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>Irodalom</dc:subject>
         <dc:subject>Szórakoztató irodalom</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Simon Kernick&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2016-05-25T07:57:44+00:00"/>
         <meta name="calibre:title_sort" content="Rossz időben, rossz helyen"/>

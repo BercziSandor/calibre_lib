@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Rowling, J. K. &amp; Tiffany, John &amp; Thorne, Jack" opf:role="aut">J. K. Rowling</dc:creator>
         <dc:creator opf:file-as="Rowling, J. K. &amp; Tiffany, John &amp; Thorne, Jack" opf:role="aut">John Tiffany</dc:creator>
         <dc:creator opf:file-as="Rowling, J. K. &amp; Tiffany, John &amp; Thorne, Jack" opf:role="aut">Jack Thorne</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-10-04T22:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Tizenkilenc ​évvel a roxforti csata után…&lt;br&gt;Harry Potter élete sosem volt könnyű – és most sem az, amikor a Mágiaügyi Minisztérium túlhajszolt dolgozójaként, férjként és három iskoláskorú gyermek apjaként kell helytállnia. Miközben Harry a múlttal viaskodik, kisebbik fiának, Albusnak is meg kell küzdenie a reá nehezedő családi örökséggel. A múlt és a jelen vészjósló összeolvadása azzal a ténnyel szembesíti apát és fiát, hogy a sötétség néha egészen váratlan helyekről támad.&lt;br&gt;A Harry Potter és az elátkozott gyermek, J.K. Rowling, John Tiffany és Jack Thorne új műve, a nyolcadik Harry Potter-történet, egyszersmind az első, amit színpadon hivatalosan bemutattak. Színpadra írta: Jack Thorne.&lt;br&gt;Ez a könyv, amely a színházi próbák szövegkönyvének különleges kiadása, lehetővé teszi, hogy azok is nyomon követhessék Harry Potternek, valamint családjának és barátainak sorsát, akik nem látták a darabot. Az ősbemutatóra 2016. július 30-án a londoni West Enden került sor.&lt;br&gt;A Harry Potter és az elátkozott gyermeket elsőként a Sonia Friedman Productions, Colin Callender és a Harry Potter Theatrical Productions vitte színre.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -23,7 +23,7 @@
         <dc:subject>boszorkány</dc:subject>
         <dc:subject>brit szerző</dc:subject>
         <dc:subject>család</dc:subject>
-        <dc:subject>dráma (műnem)</dc:subject>
+        <dc:subject>dráma</dc:subject>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>férfi főszereplő</dc:subject>
         <dc:subject>időutazás</dc:subject>
@@ -35,7 +35,6 @@
         <dc:subject>mágia</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>Nagy-Britannia</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;J. K. Rowling&quot;: &quot;&quot;, &quot;John Tiffany&quot;: &quot;&quot;, &quot;Jack Thorne&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Harry Potter"/>
         <meta name="calibre:series_index" content="8"/>
         <meta name="calibre:rating" content="8"/>

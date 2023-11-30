@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">45bb10dd-dd44-4d1c-ade4-5c5aaabee2f1</dc:identifier>
         <dc:title>Tíz kicsi néger</dc:title>
         <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-02-14T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A krimi angol "királynője" a műfaj úgyszólván minden változatával megpróbálkozott; írt például detektív és nyomozás nélküli thrillereket is. Ezek közé tartozik egyik legnépszerűbb (filmen és színpadi változatban is nagy sikert aratott) könyve, a Tíz kicsi néger. A Devonshire partjainál fekvő kis Néger-sziget luxusvillájába az új tulajdonos nyolc vendéget hív: egy bírót, egy aranyifjút, egy öreg tábornokot, egy vénkisasszonyt, egy tornatanárnőt, egy rendőrt, egy kalandort és egy orvost - ügyesen kitalált ürügyekkel. A vendégeket a szigeten csak az inas és felesége, a szakácsnő fogadja - a házigazda csak később tud jönni, mondják. A vendégek fura gyermekversikéket találnak szobájukban a tíz kicsi néger szomorú sorsáról, a vacsoraasztalt pedig tíz kicsi néger figura díszíti. Vacsora után robban a bomba: megszólal egy hanglemez, amely mind a tíz jelenlévőt gyilkossággal vádolja. A szakácsnő és az aranyifjú még az éjjel meghal, ráadásul két néger figura is eltűnik az asztalról. Reggelre vihar tör ki, a társaságot elvágja a külvilágtól, s hiába kutatják át a szigetet, rajtuk kívül nincs ott senki - azt tehát, aki gyilkossággal vádolja és sorban kivégzi őket, maguk között kell keresniük. Minden napra akad is egy-két változatos halállal kimúló áldozat (éppen a gyermekversike módszere szerint), a feszültség nő, míg végül a vihar elmúltával a szigetre érkező rendőrség csak tíz holttestet talál. A rejtélyt pedig végül egy palackpostával érkező levél oldja meg...&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -29,9 +29,8 @@
         <dc:subject>regény</dc:subject>
         <dc:subject>sorozatgyilkosság</dc:subject>
         <dc:subject>sziget</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>krimi</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Agatha Christie&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2012-11-15T20:26:59+00:00"/>
         <meta name="calibre:title_sort" content="Tíz kicsi néger"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">379653f3-5192-4ceb-9b47-59ad81da4fdc</dc:identifier>
         <dc:title>A kígyók városa</dc:title>
         <dc:creator opf:file-as="Shan, Darren" opf:role="aut">Darren Shan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Capac ​Raimi tíz éve a Város kardinálisa. Még az első Kardinális tanította ki, hogy méltó utódjává váljon, és átvegye birodalmát. Capacot nem lehet megölni, ám ez nem gátolja meg ellenségeit abban, hogy próbálkozzanak. Márpedig ellensége bőven akad.&lt;br&gt;A Kardinális eddig mindig nyugodtan bevárta ellenlábasai támadásait abban a biztos tudatban, hogy úgysem veszíthet. Ám a dolgok most hirtelen megváltoztak. A Városban rivális bandák bukkantak fel, ráadásul furcsa alakok is előkerülnek Capac múltjából – olyanok, akikre csak ő emlékezhet. Az első Kardinális teremtményei, akiknek vele együtt el kellett volna pusztulniuk tíz évvel korábban.&lt;br&gt;Mindez csak egy dolgot jelenthet: a titokzatos inka papok, a Várost éltető ősi hatalom birtokosai, akik sosem lelkesedtek túlságosan azért, hogy a hatalom Capac kezébe kerüljön, akcióba lendültek, hogy visszaszerezzék maguknak az irányítást. Capac Raiminak ezúttal tényleg az utolsó csepp véréig kell küzdenie…&lt;br&gt;A kígyók városa Darren Shan első felnőtteknek szánt sorozatának, a Város-trilógiának befejező kötete, melyben végre minden hátborzongató titokra fény derül.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -23,8 +23,7 @@
         <dc:subject>regény</dc:subject>
         <dc:subject>kortárs</dc:subject>
         <dc:subject>Szórakoztató irodalom</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Darren Shan&quot;: &quot;&quot;}"/>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:series" content="Város-trilógia"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>

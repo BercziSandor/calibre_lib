@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">93893160-ca31-41cc-9a3c-35710708d78b</dc:identifier>
         <dc:title>A pusztítás könyve</dc:title>
         <dc:creator opf:file-as="Dragomán, György" opf:role="aut">Dragomán, György</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-02-14T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Ez a könyv "nem ereszti" olvasóját, világa teljesen rátelepszik a miénkre, beszippant, meghatároz bennünket. És ezt az erős hatást nem kifejezetten a regény - szó se róla - izgalmas történetében véljük felfedezni, hiszen az csak lassan, fokozatosan bomlik ki, legalábbis a krimi műfaji követelményeihez viszonyítva. Sokkal inkább lebilincselő az író stílusa, látásmódja: szeme a dolgok apró részleteit meglátó, mindenre odafigyelő, intellektusa pedig ezt gondolatokkal, tartalmakkal megtöltő. Az íróval együtt az olvasó is elkezd tehát figyelni, jelek után kutatni, megfejteni, értelmezni. Mert a könyv elején máris egy titokkal találkozunk: megismerjük a főhőst, Fábiánt, aki vonaton utazik, nyilvánvalóan valamilyen cél felé, és akiről öltözéke alapján csak annyit állapíthatunk meg, hogy katona. Fábián megérkezik a városba, ahol várja őt Ghiárfás - akiről csak annyit tudunk, hogy nem örül Fábiánnak - és elkíséri őt a kormányzóhoz. Itt aztán már némi fény derül valami rejtélyre: megtudjuk, hogy a városban a kormányzó vezetésével építkezés folyik, és hogy a parancsmegtagadásért ide száműzött Fábiánnak az a - kormányzótól kapott - feladata, hogy az egészet leállítsa, a felhasznált faanyagot pedig elégettesse. A feladat kissé értelmetlennek látszik, mondhatni hiábavalónak. De vannak még egyéb furcsaságok is: tetemek az erdőben, eszelős férfiak, és egy gyönyörű, beteg fiatal lány. A történet szálainak fokozatos fölfejtése és a feszült légkör forrpontig való fokozása - a krimi-oldal - mellett olyan alapvető kérdések vetődnek fel a könyvben, mint egyén és közösség, felelősség, bűn, halál. Minden szépprózát kedvelő olvasónak ajánlható kötet, amelyet a meglevő állomány figyelembe vételével ajánlunk beszerzésre a könyvtáraknak.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -15,14 +15,13 @@
         <dc:identifier opf:scheme="MOBI-ASIN">1a9461ba-5a0d-4211-b6f1-4b8b3d576656</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9789631432404</dc:identifier>
         <dc:language>hun</dc:language>
-        <dc:subject>erdélyi</dc:subject>
+        <dc:subject>Erdély</dc:subject>
         <dc:subject>erdélyi magyar szerző</dc:subject>
         <dc:subject>kortárs</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>magyar szerző</dc:subject>
         <dc:subject>noir irodalom</dc:subject>
         <dc:subject>regény</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Dragomán, György&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2018-08-13T05:46:04+00:00"/>
         <meta name="calibre:title_sort" content="pusztítás könyve, A"/>

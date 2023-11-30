@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a515cd42-2573-4703-b125-00547095c0a6</dc:identifier>
         <dc:title>Ködsárkányok</dc:title>
         <dc:creator opf:file-as="Crichton, Michael" opf:role="aut">Michael Crichton</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1993-02-18T00:00:00+00:00</dc:date>
         <dc:description>Kr. u. 922-ben a bagdadi kalifa követet küld a Béke Városából, hogy keljen át a Kaszpi-tengeren, utazzon fel a Volga mentén Sagaliba királyához. Ám mielőtt oda érkezne, találkozik Bulwyffel, a nagyhatalmú viking királlyal, akit rokonai visszahívtak Skandináviába, hogy szorult helyzetükön segítsen. Mert a népét nem más támadta meg, mint a köd szörnyetegei… Induljon velük kalandra Ön is, Kedves Olvasó, a rejtélyes földre… ahol a nappal nem ugyanolyan hosszú mint az éjszaka… ahol a naplemente után fantasztikus fényfüggöny lebeg az égbolton… ahol Buliwyf és harcosai halálos küzdelmet vívnak a fekete, szőrös vadakkal, akik kipusztítással fenyegetik az északi tájat… Az Androméda törzs, a Gömb című nagysikerű regények, s minden idők legnagyobb mozislágerének – Spielberg: Őslénypark-jának – forgatókönyvírója ezúttal közzétesz egy koraközépkori kéziratot a vikingek harcáról – egy misztikus és félelmetes ellenséggel.</dc:description>
         <dc:publisher>JLX</dc:publisher>
@@ -31,8 +31,7 @@
         <dc:subject>mitológia</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>Skandinávia</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Michael Crichton&quot;: &quot;&quot;}"/>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2014-09-20T12:32:27+00:00"/>
         <meta name="calibre:title_sort" content="Ködsárkányok"/>

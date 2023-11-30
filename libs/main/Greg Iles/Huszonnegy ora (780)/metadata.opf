@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">bcc2a4cd-f7ce-412a-ac29-8485623487ff</dc:identifier>
         <dc:title>Huszonnégy óra</dc:title>
         <dc:creator opf:file-as="Iles, Greg" opf:role="aut">Greg Iles</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2002-02-19T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A Huszonnégy óra olyan könyv, amit ha a kezébe vesz az olvasó, a szíve gyorsabban kezd verni, s nem tudja letenni, amíg végig nem olvasta.&lt;br&gt;A gyermekrablás kitervelője, John Hickey őrült zseni a legrosszabbak közül. Annyira „ügyes”, hogy a bűntényt huszonnégy óra alatt képes végrehajtani. Ördögi pontossággal végzi el a „feladatát”, felveszi a váltságdíjat, és eltűnik. A túszok életben maradnak, de a családot annyira megviselik az események, hogy nem merik értesíteni a rendőrséget. Hickey eddig ötször követett el gyermekrablást, de még egyszer sem kapták el. Már ki is szemelte következő áldozatát, az ötéves Abby Jenningset. Ebben az esetben azonban hiba csúszik a számításaiba…&lt;br&gt;Greg Iles élethűen ábrázolja a szülők rettegését és a gyermekrablást, izgalmas thrillerré formálva a megrázó, ugyanakkor megragadó történetet. A cselekmény huszonnégy óra alatt játszódik le, de ez alatt a rövid idő alatt, bármilyen pergő ritmusú is a könyv, az olvasó minden szereplőt alaposan megismerhet…&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -25,8 +25,7 @@
         <dc:subject>Szórakoztató irodalom</dc:subject>
         <dc:subject>krimi</dc:subject>
         <dc:subject>bûnügyi</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Greg Iles&quot;: &quot;&quot;}"/>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2014-09-20T13:47:01+00:00"/>
         <meta name="calibre:title_sort" content="Huszonnégy óra"/>

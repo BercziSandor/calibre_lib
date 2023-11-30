@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">4a76956d-e424-469d-9043-edb224aba018</dc:identifier>
         <dc:title>Virrasztók</dc:title>
         <dc:creator opf:file-as="Koontz, Dean R." opf:role="aut">Dean R. Koontz</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2005-02-20T00:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Az USA kormánya által pénzelt, szupertitkos laboratóriumban két, genetikailag átformált élőlény lát napvilágot. Az egyik egy fantasztikus kutya, emberi intelligenciával. A másik egy brutálisan agresszív, hibrid szörny. Egy napon mindkettő megszökik, és megkezdődik a hajsza, mely egybefonódik egy férfi és egy nő egymásra találásának történetével. A páratlan feszültségű regényben a főszereplőknek nem csupán az emberi nem legsötétebb kreatúrájával kell felvenniük a harcot, de a mindenre képes alvilággal és az elszántan nyomozó nemzetbiztonságiakkal is.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -26,12 +26,11 @@
         <dc:subject>nők elleni erőszak</dc:subject>
         <dc:subject>paranormális</dc:subject>
         <dc:subject>sci-fi</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>titkosszolgálat</dc:subject>
         <dc:subject>kaland</dc:subject>
         <dc:subject>kísérlet</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Dean R. Koontz&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2012-12-12T09:59:12+00:00"/>
         <meta name="calibre:title_sort" content="Virrasztók"/>

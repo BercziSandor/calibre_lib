@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f390cdd1-a5a9-4b05-af5c-900759d97c1f</dc:identifier>
         <dc:title>Szívtől szívig</dc:title>
         <dc:creator opf:file-as="Picoult, Jodi" opf:role="aut">Jodi Picoult</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-02-22T00:00:00+00:00</dc:date>
         <dc:description>E bravúros fordulatokkal tarkított, megindító regény egy gyilkosságért halálra ítélt férfi történetét dolgozza fel, aki azért küzd, hogy felajánlhassa szívét egykori áldozata szívbeteg kislányának. A kisvárosias New Hampshire államban e szándéka, és a személye körül kialakuló legendák alaposan felborzolják a kedélyeket. Egy talpraesett jogásznő és egy fiatal katolikus pap mégis a férfi ügye mellé áll – miközben az események hatására mindkettejük élete gyökeresen megváltozik.
 A népszerű írónő, a Nővérem húga és a Tizenkilenc perc szerzője, e kötetében is rendkívüli érzékenységgel foglalkozik olyan kényes témákkal, mint a szervadományozás, a halálbüntetés és a vallásos meggyőződés. A könyv több héten keresztül vezette a New York Times bestseller-listáját.</dc:description>
@@ -21,17 +21,15 @@ A népszerű írónő, a Nővérem húga és a Tizenkilenc perc szerzője, e kö
         <dc:subject>jog</dc:subject>
         <dc:subject>romantikus</dc:subject>
         <dc:subject>börtön</dc:subject>
-        <dc:subject>drámai cselekmény</dc:subject>
         <dc:subject>kortárs</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
-        <dc:subject>Dráma</dc:subject>
+        <dc:subject>dráma</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>gyilkosság</dc:subject>
         <dc:subject>betegség</dc:subject>
         <dc:subject>21. század</dc:subject>
         <dc:subject>amerikai</dc:subject>
         <dc:subject>váltott szemszög</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Jodi Picoult&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2011-08-27T20:26:30+00:00"/>
         <meta name="calibre:title_sort" content="Szívtől szívig"/>

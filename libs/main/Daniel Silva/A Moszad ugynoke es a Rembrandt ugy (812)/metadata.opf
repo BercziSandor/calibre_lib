@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3fd734c0-3d6e-4a7d-9c1e-a70607f0d756</dc:identifier>
         <dc:title>A Moszad ügynöke és a Rembrandt ügy</dc:title>
         <dc:creator opf:file-as="Silva, Daniel" opf:role="aut">Daniel Silva</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-02-22T00:00:00+00:00</dc:date>
         <dc:description>Név: Gabriel Allon, izraeli kém, bérgyilkos és restaurátor.
 Célállomás: Amszterdam
@@ -27,9 +27,8 @@ Elizabeth Halton percei meg vannak számlálva; Allon versenyt fut az idővel, �
         <dc:subject>politika</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>sorozat része</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>titkosszolgálat</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Daniel Silva&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Gabriel Allon"/>
         <meta name="calibre:series_index" content="10"/>
         <meta name="calibre:rating" content="8"/>

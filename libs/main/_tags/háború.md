@@ -21,7 +21,6 @@
 - Michael Crichton: Préda / Viharos szerelem / Hajsza Tokióban / Utcagyerekek [részletek](../_details/Michael%20Crichton.md#id_758)
 - Michael Moorcock: Harcikutya [részletek](../_details/Michael%20Moorcock.md#id_525)
 - Moldova, György: Ki ölte meg a Holt-tengert? [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1373)
-- Polcz Alaine: Asszony a fronton [részletek](../_details/Polcz%20Alaine.md#id_1443)
 - Robert Merle: Állati elmék [részletek](../_details/Robert%20Merle.md#id_326)
 - Robert Merle: Két nap az élet [részletek](../_details/Robert%20Merle.md#id_331)
 - Stefan Niemayer: Titkos kísérletek a náci birodalomban [részletek](../_details/Stefan%20Niemayer.md#id_806)

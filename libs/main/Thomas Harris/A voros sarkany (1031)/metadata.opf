@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b6a82823-eea2-48c2-8556-2229406ef87c</dc:identifier>
         <dc:title>A vörös sárkány</dc:title>
         <dc:creator opf:file-as="Harris, Thomas" opf:role="aut">Thomas Harris</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-02-18T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Will Graham nyomozó egy halott család csendes, üres házában álldogál, és a gyilkos helyébe képzeli magát. Graham, aki FBI-kiképző-tiszt, a nyomokból fejti meg sorozatgyilkosa kinézetét, tudja, hogyan gondolkozik, és mit tett az áldozataival haláluk után. Már csak el kell kapnia. De ahhoz, hogy ez sikerüljön, bele kell élnie magát a szerepébe; ráadásul együtt kell működnie egy veszélyes elmebeteggel, dr. Hannibal Lecterrel…&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -26,14 +26,13 @@
         <dc:subject>rejtély</dc:subject>
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>amerikai</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>filmadaptáció</dc:subject>
         <dc:subject>krimi</dc:subject>
         <dc:subject>lélektani</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>sorozatgyilkosság</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Thomas Harris&quot;: &quot;&quot;}"/>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:series" content="Hannibal"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

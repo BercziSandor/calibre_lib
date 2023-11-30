@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">8be69cfe-6fe2-4bd8-a7f2-c49348378a62</dc:identifier>
         <dc:title>Kavics az égben</dc:title>
         <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Asimov, Isaac</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-02-18T00:00:00+00:00</dc:date>
         <dc:description>Joseph Schwartz, a 62 éves chicagói férfi egy napon érthetetlen „baleset” áldozata lesz. Úgy érzi, mintha egyszerűen csak elesett volna az utcán, ám amikor pillanatnyi kábulatából felocsúdik, egy általa teljesen ismeretlen vidéken találja magát. Hosszas gyaloglás után végre egy házra talál, ám a benne lakók, legnagyobb meglepetésére ismeretlen nyelven szólnak hozzá.
 Megdöbbenése fokozatosan kétségbeeséssé változik, amikor megtudja, hogy a Föld fejlődésének egy későbbi idődimenziójába pottyant, s első ismerősei fogolynak tekintik. Végső elkeseredésében szökéssel próbálkozik, hogy maga derítse ki: létezik-e számára a menekülést jelentő visszatérés lehetősége?</dc:description>
@@ -19,7 +19,7 @@ Megdöbbenése fokozatosan kétségbeeséssé változik, amikor megtudja, hogy a
         <dc:subject>regény</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>sorozat része</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>időutazás</dc:subject>
         <meta name="calibre:series" content="Alapítvány-Birodalom-Robot"/>
         <meta name="calibre:series_index" content="1"/>

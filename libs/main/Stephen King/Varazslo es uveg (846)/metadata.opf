@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">31103567-d626-42af-934c-350075e9847c</dc:identifier>
         <dc:title>Varázsló és üveg</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-02-20T00:00:00+00:00</dc:date>
         <dc:description>Roland és hűséges barátai sikeresen megküzdöttek Blaine-nel, a Monóval. Egy valaha civilizált, ám mostanra elpusztult városban szálltak le a bomlott számítógépagyú egysínű vasútról. Roland elérkezettnek látja az időt, hogy pihenőjük közben elmesélje társainak múltját. Megtudjuk, miért kellett idő előtt elhagynia atyái földjét, Gileádot, s milyen küldetéssek érkezett Alain és Cuthbert barátjával a Külső Ívbe. Itt ismerte meg a gyönyörű és bátor Susan Delgadót, s egy csodaszép, szenvedélyes, ám tragikus szerelem története tárul elénk. A pihenő végeztével hőseink ismét útnak indulnak; céljuk a távolban magasodó, égbe nyúló tornyú, rejtelmes üvegpalota. Talán meglelték a Setét Tornyot? Stephen King regényfolyamának negyedik kötete – a korábbiakhoz hasonlóan – izgalmakban, kalandokban, érzelmekben bővelkedő, lebilincselő olvasmány.</dc:description>
         <dc:publisher>Európa</dc:publisher>
@@ -16,7 +16,7 @@
         <dc:subject>Undefined</dc:subject>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>sci-fi</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>mágikus realizmus</dc:subject>
         <dc:subject>weird fiction</dc:subject>
         <dc:subject>dark fantasy</dc:subject>
@@ -33,7 +33,6 @@
         <dc:subject>filmadaptáció</dc:subject>
         <dc:subject>romantikus</dc:subject>
         <dc:subject>disztópia</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="A setét torony"/>
         <meta name="calibre:series_index" content="4"/>
         <meta name="calibre:rating" content="8"/>

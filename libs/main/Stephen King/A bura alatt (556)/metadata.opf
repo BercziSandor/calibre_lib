@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">bde22bb5-9227-433b-a7ab-f3dbcf73433e</dc:identifier>
         <dc:title>A búra alatt</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-02-20T00:00:00+00:00</dc:date>
         <dc:description>A világ első számú horrorírójának 2009-es nagyregénye valamikor 2012 után játszódik egy amerikai kisvárosban, amelyre fényes napvilágnál egyszer csak leereszkedik egy hatalmas bura, elszigetelve a települést nemcsak a külvilágtól, hanem alkalmasint az oxigén-utánpótlástól is. A közösség pillanatok alatt ellenségeskedő csoportokra szakad, a mikrotársadalom elkezdi felszámolni önmagát – holott elsőrendű érdeke az volna, hogy szó szerint kiutat találjon, amíg még nem késő. Ehhez persze először azt kellene megállapítaniuk, mi is ez a bura, honnan származik, mi működteti – és fel lehet-e emelni valaha is.</dc:description>
         <dc:publisher>Európa</dc:publisher>
@@ -18,12 +18,12 @@
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>sci-fi</dc:subject>
         <dc:subject>Szépirodalom</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>Szórakoztató irodalom</dc:subject>
         <dc:subject>kaland</dc:subject>
-        <dc:subject>drámai cselekmény</dc:subject>
+        <dc:subject>dráma</dc:subject>
         <dc:subject>Horror</dc:subject>
         <dc:subject>erőszak</dc:subject>
         <dc:subject>akció</dc:subject>
@@ -37,7 +37,6 @@
         <dc:subject>nemi erőszak</dc:subject>
         <dc:subject>drog</dc:subject>
         <dc:subject>társadalomkritika</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="A búra alatt"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

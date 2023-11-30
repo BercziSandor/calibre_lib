@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1c620726-9e32-4852-b6f7-535cbb59f13e</dc:identifier>
         <dc:title>Metró 2033</dc:title>
         <dc:creator opf:file-as="Glukhovsky, Dmitry" opf:role="aut">Dmitry Glukhovsky</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-02-18T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;2033.&lt;br&gt;Az egész világ romokban hever.&lt;br&gt;Az emberiség majdnem teljesen elpusztult.&lt;br&gt;Moszkva szellemvárossá változott, megmérgezte a radioaktív sugárzás, és szörnyek népesítik be. A kevés életben maradt ember a moszkvai metróban bújik meg – a Föld legnagyobb atombombabiztos óvóhelyén. A metró állomásai most városállamok, az alagutakban sötétség honol, és borzalom fészkel.&lt;br&gt;Artyomnak az egész metróhálózaton át kell jutnia, hogy megmentse a szörnyű veszedelemtől az állomását, sőt talán az egész emberiséget.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -30,13 +30,12 @@
         <dc:subject>posztapokaliptikus</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>sorozat része</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>túlélés</dc:subject>
         <dc:subject>vallás</dc:subject>
         <dc:subject>Irodalom</dc:subject>
         <dc:subject>Szórakoztató irodalom</dc:subject>
         <dc:subject>sci-fi</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Dmitry Glukhovsky&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Metró 2033"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

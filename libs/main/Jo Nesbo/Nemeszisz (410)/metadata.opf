@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">384d24d5-738b-415a-90f3-c1d24bbe499e</dc:identifier>
         <dc:title>Nemeszisz</dc:title>
         <dc:creator opf:file-as="Nesbø, Jo" opf:role="aut">Jo Nesbø</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-02-22T00:00:00+00:00</dc:date>
         <dc:description>A biztonsági kamera rögzíti a bankba belépő alakot, aki a pénztároshoz siet, s azonnal pisztolyt szegez rá. A nő huszonöt másodpercet kap, hogy átadja a pénzt. Időben át is adja, ám támadója hidegvérrel lelövi. A Vörösbegy című regényből már ismert Harry Hole nyomozó kapja meg az ügyet, amelyhez azonban váratlanul egy másik is társul. Miközben barátnője Moszkvában tartózkodik, Harry összejön egy régi szerelmével. Nála vacsorázik, ám reggel már a saját lakásában ébred, s az eltelt húsz órából semmire nem emlékszik. Ez pedig több, mint kellemetlen, mivel a nőt ugyanazon a reggelen agyonlőve találják az ágyában. A kíméletlen erőszakkal végrehajtott bankrablások folytatódnak, Harry pedig fenyegető e-maileket kap. Valaki gyilkost akar kreálni belőle…
 Minden benne van, ami egy krimitől elvárható: hamis nyomok, váratlan fordulatok, összetett cselekmény. Mindannyiszor, amikor már úgy hiszed nyomon vagy, Nesbo, a norvég krimikirály gondoskodik valami váratlanról.</dc:description>
@@ -16,7 +16,7 @@ Minden benne van, ami egy krimitől elvárható: hamis nyomok, váratlan fordula
         <dc:language>hun</dc:language>
         <dc:subject>norvég szerző</dc:subject>
         <dc:subject>sorozat része</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>detektívtörténet</dc:subject>
         <dc:subject>skandináv</dc:subject>
         <dc:subject>regény</dc:subject>
@@ -27,7 +27,6 @@ Minden benne van, ami egy krimitől elvárható: hamis nyomok, váratlan fordula
         <dc:subject>krimi</dc:subject>
         <dc:subject>kortárs</dc:subject>
         <dc:subject>21. század</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Jo Nesbø&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Harry Hole"/>
         <meta name="calibre:series_index" content="4"/>
         <meta name="calibre:rating" content="8"/>

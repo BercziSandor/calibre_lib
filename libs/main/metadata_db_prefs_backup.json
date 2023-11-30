@@ -13,6 +13,42 @@
   "check_library_ignore_names": "",
   "gui_view_history": [
     [
+      1619,
+      "Gal\u00e1pagos"
+    ],
+    [
+      1761,
+      "Adventi krimik"
+    ],
+    [
+      747,
+      "Besz\u00e1mol\u00f3 a Barnhouse-effektusr\u00f3l"
+    ],
+    [
+      1425,
+      "Rumini 3"
+    ],
+    [
+      1431,
+      "Coraline"
+    ],
+    [
+      1810,
+      "The graveyard book"
+    ],
+    [
+      1809,
+      "American Gods"
+    ],
+    [
+      326,
+      "\u00c1llati elm\u00e9k"
+    ],
+    [
+      1802,
+      "Unnatural Creatures"
+    ],
+    [
       896,
       "Elveszett Pr\u00f3f\u00e9ci\u00e1k"
     ],
@@ -35,42 +71,6 @@
     [
       1745,
       "A barna ruh\u00e1s f\u00e9rfi"
-    ],
-    [
-      242,
-      "Balh\u00fcvelykem bizsereg"
-    ],
-    [
-      1744,
-      "A sz\u00e1m\u00e9rz\u00e9k"
-    ],
-    [
-      1737,
-      "A f\u00e9lt\u00e9kenys\u00e9g-szak\u00e9rt\u0151 \u00e9s m\u00e1s t\u00f6rt\u00e9netek"
-    ],
-    [
-      1727,
-      "Eml\u00e9kszem \u200br\u00e1d"
-    ],
-    [
-      1723,
-      "Kutyapszichol\u00f3gia"
-    ],
-    [
-      1724,
-      "Az okos kutya - A kuty\u00e1k sokkal t\u00f6bbre k\u00e9pesek, mint gondoln\u00e1d"
-    ],
-    [
-      1721,
-      "Mennybe d\u00f6ng\u00f6lve"
-    ],
-    [
-      1714,
-      "Marci, a besz\u00e9l\u0151 kutya"
-    ],
-    [
-      1720,
-      "Ironikus etol\u00f3gia"
     ]
   ],
   "plugboards": {},
@@ -87,6 +87,66 @@
     "id_injected": true,
     "path_injected": true,
     "sort_history": [
+      [
+        "title",
+        true
+      ],
+      [
+        "series",
+        true
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "pubdate",
+        true
+      ],
+      [
+        "series",
+        true
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "pubdate",
+        true
+      ],
+      [
+        "series",
+        true
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "pubdate",
+        true
+      ],
+      [
+        "#formats",
+        false
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "series",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "timestamp",
+        false
+      ],
       [
         "title",
         true
@@ -125,12 +185,12 @@
     "column_sizes": {
       "id": 0,
       "title": 218,
-      "authors": 191,
+      "authors": 202,
       "timestamp": 110,
       "size": 76,
       "rating": 94,
-      "tags": 226,
-      "series": 159,
+      "tags": 484,
+      "series": 166,
       "publisher": 61,
       "formats": 0,
       "path": 0,
@@ -974,7 +1034,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1701285415.6118774,
+  "last_expired_trash_at": 1701353922.4753046,
   "virtual_libraries": {
     "kutya": "tags:\"=kutya\""
   }

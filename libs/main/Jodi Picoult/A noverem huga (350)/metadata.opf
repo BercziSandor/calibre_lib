@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6dd258e1-2eeb-408b-af08-1c97c72820e5</dc:identifier>
         <dc:title>A nővérem húga</dc:title>
         <dc:creator opf:file-as="Picoult, Jodi" opf:role="aut">Jodi Picoult</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-02-22T00:00:00+00:00</dc:date>
         <dc:description>Amerika ​keleti partvidékén egy tipikus kertvárosi házban él egy tipikusnak korántsem mondható háromgyermekes család.
 A legidősebb testvér, Jesse már a „sötét oldalon” jár, a középső lány súlyos leukémiás, akinek életben maradásáért a két szülő ádáz küzdelmet vív; a húg, Anna pedig – a tudomány jóvoltából – eleve azért született, hogy genetikailag megfelelő donor legyen nővére számára. Amikor a beteg Kate körül forgó családi élet ellen lázadó tizenhárom éves Anna beperli szüleit, hogy önrendelkezési jogot nyerjen a saját teste fölött, minden megbolydul.
@@ -30,7 +30,7 @@ A végkifejlet pedig majdnem akkora meglepetéseket tartogat, mint egy krimi.</d
         <dc:subject>Sisters</dc:subject>
         <dc:subject>Teenage Girls</dc:subject>
         <dc:subject>gyermekszemszög</dc:subject>
-        <dc:subject>drámai cselekmény</dc:subject>
+        <dc:subject>dráma</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>21. század</dc:subject>
         <dc:subject>váltott szemszög</dc:subject>
@@ -41,7 +41,6 @@ A végkifejlet pedig majdnem akkora meglepetéseket tartogat, mint egy krimi.</d
         <dc:subject>betegség</dc:subject>
         <dc:subject>etika</dc:subject>
         <dc:subject>Leukemia</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Jodi Picoult&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2011-08-27T19:47:06+00:00"/>
         <meta name="calibre:title_sort" content="nővérem húga, A"/>

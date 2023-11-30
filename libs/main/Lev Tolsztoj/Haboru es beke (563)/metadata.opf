@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">795225c8-cc5b-4bbf-91fb-88343757696b</dc:identifier>
         <dc:title>Háború és béke</dc:title>
         <dc:creator opf:file-as="Tolsztoj, Lev" opf:role="aut">Lev Tolsztoj</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Nagy ​tér, nagy idő, földrésznyi események, császárok, hercegek, parasztok, katonák, rengeteg ember, köztük az olvasót holtig elkísérő emlékalakzatok, csecsemősírás, haldoklók lázképei, aranyló hétköznapok és temérdek elpazarolt vér, százezrek halálával írott kísérleti történetfilozófiák s köztük a boldogságvágy apró mozdulatai, családi közhelyek időtlen bölcsessége – egészebb világ teremtésére elbeszélő még nem vállalkozott, ha csak egy nem: az Iliász szerzője. Tolsztoj sem azelőtt, sem azután nem lelte oly megszállott örömét az írásban, mint a Háború és béke hét bő esztendőjében, mikor szelleme minden erejével a regényt fűtve „csak írónak”, semmi másnak vallhatta magát. Ám ebben az óriáspanorámában is színre lép, ha nem is a próféta még, de a nagy kérdező, s feldúlja néhol látomása rendjét, csak hogy kérdezhessen. Thomas Mann szavaival: „Művészi szemszögből nézve mégis ez a titáni ügyefogyottság adja művének azt az óriási erkölcsi nyomatékot, azt az Atlaszhoz mérhető morális izomterhelést és felkészültséget, amely a szenvedő Michelangelo világára emlékeztet.”&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -33,7 +33,6 @@
         <dc:subject>orosz szerző</dc:subject>
         <dc:subject>Oroszország</dc:subject>
         <dc:subject>realizmus</dc:subject>
-        <dc:subject>Egyéb</dc:subject>
         <dc:subject>Európa</dc:subject>
         <dc:subject>novella</dc:subject>
         <dc:subject>Az író származása szerint</dc:subject>
@@ -46,7 +45,6 @@
         <dc:subject>regény</dc:subject>
         <dc:subject>Kor- és társadalomrajz</dc:subject>
         <dc:subject>Tartalom szerint</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Lev Tolsztoj&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2013-07-09T11:25:50+00:00"/>
         <meta name="calibre:title_sort" content="Háború és béke"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b5c6c80c-d25b-4da2-a4fa-451e558773df</dc:identifier>
         <dc:title>Ne bántsátok a feketerigót!</dc:title>
         <dc:creator opf:file-as="Lee, Harper" opf:role="aut">Harper Lee</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2003-02-14T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A ​Ne bántsátok a feketerigót! írónőjét feltételezhetően nem kis mértékben ihlették személyes élményei regénye megírásakor. Ezt nemcsak abból a tényből következtethetjük, hogy a regény cselekménye Alabama államban játszódik le, ahol a szerző maga is született, hanem más életrajzi adatokból is. Mint az eseményeket elbeszélő regénybeli leánykának, az írónőnek is ügyvéd volt az édesapja. Harper Lee gyermek- és ifjúkorát szülőföldjén töltötte, ahol valóban realitás mindaz, amit regényében ábrázol, és ez a valóság vérlázító. A regénybeli alabamai kisvárosban ugyanis feltűnésszámba megy az olyan megnyilvánulás, amely a négerek legelemibb jogainak elismerését célozza, különcnek számít az olyan ember, aki síkra mer szállni a színesbőrűek érdekei mellett. A regény egyik legnagyobb érdeme éppen abban van, hogy sikerül erős érzelmi hozzáállást kiváltania az emberi egyenjogúság megvalósítását célző eszme mellett. Harper Lee a középiskola elvégzése után jogtudományt tanul. Egy évig Oxfordban diákoskodik ösztöndíjasként, aztán Alabamában folytatja tovább tanulmányait. Mint az egyetem folyóiratának szerkesztője, itt kerül először kapcsolatba az irodalommal. Tanulmányai befejezése után New Yorkba költözik, de nem folytat ügyvédi gyakorlatot, hanem különböző szerkesztőségekben dolgozik, sőt egy időben tisztviselői munkát vállal egy légiforgalmi társaságnál. A Ne bántsátok a feketerigót! 1960-ban jelent meg, a következő évben Pulitzer-díjjal tüntették ki. A regényt számos nyelvre lefordították, s talán nem érdektelen az sem, hogy a belőle készült film is hatalmas sikert aratott.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -21,7 +21,7 @@
         <dc:subject>afroamerikai</dc:subject>
         <dc:subject>Alabama</dc:subject>
         <dc:subject>amerikai Dél (irányzat)</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>apaság</dc:subject>
         <dc:subject>bíróság</dc:subject>
@@ -37,7 +37,6 @@
         <dc:subject>Pulitzer-díj</dc:subject>
         <dc:subject>Irodalom</dc:subject>
         <dc:subject>Szépirodalom</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Harper Lee&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Ne bántsátok a feketerigót!"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="10"/>

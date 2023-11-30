@@ -8,5 +8,4 @@
 - Leiner, Laura: Közhelyek [részletek](../_details/Leiner%2C%20Laura.md#id_1481)
 - Mark Logue: A király beszéde [részletek](../_details/Mark%20Logue.md#id_298)
 - Philippe Pozzo Di Borgo: Életrevalók [részletek](../_details/Philippe%20Pozzo%20Di%20Borgo.md#id_1267)
-- Polcz Alaine: Asszony a fronton [részletek](../_details/Polcz%20Alaine.md#id_1443)
 - Robert Merle: Madrapur [részletek](../_details/Robert%20Merle.md#id_334)

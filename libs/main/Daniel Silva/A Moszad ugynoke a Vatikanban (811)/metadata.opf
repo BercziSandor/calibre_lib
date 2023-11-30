@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9cb012ce-3690-4de9-a5bd-5ef67f08f7a6</dc:identifier>
         <dc:title>A Moszad ügynöke a Vatikánban</dc:title>
         <dc:creator opf:file-as="Silva, Daniel" opf:role="aut">Daniel Silva</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-02-22T00:00:00+00:00</dc:date>
         <dc:description>Gabriel Allon, az izraeli kém, bérgyilkos és restaurátor éppen jól megérdemelt pihenését tölti, amikor újabb megbízatást kap…
 Londonban megölnek egy feltételezett al-Kaida tagot, akinél az izraeli titkosszolgálat egy nagyszabású merénylet terveit találja, melynek célpontja: a Vatikán. Allon vállalja, hogy kiépíti a védelmet, de későn érkezik. A kémek már beszivárogtak, a Vatikánban árulók vannak, korunk legfélelmetesebb terrorista támadása a küszöbön áll. A szálak felgöngyölítése során Allon eljut egészen a merénylet szellemi atyjáig, s ezután kezdetét veszi a hajsza, át a Karib-tengeren, amelyben a CIA, egy gyönyörű nő, egy szaudi milliárdos műgyűjtő és egy eddig felfedezetlen van Gogh kép is fontos szerephez jut.</dc:description>
@@ -21,9 +21,8 @@ Londonban megölnek egy feltételezett al-Kaida tagot, akinél az izraeli titkos
         <dc:subject>Moszad</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>sorozat része</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>titkosszolgálat</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Daniel Silva&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Gabriel Allon"/>
         <meta name="calibre:series_index" content="6"/>
         <meta name="calibre:rating" content="8"/>

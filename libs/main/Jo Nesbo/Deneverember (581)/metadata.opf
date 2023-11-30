@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">dd9db7dd-9bc0-439f-8cfe-f6f9bc41ab70</dc:identifier>
         <dc:title>Denevérember</dc:title>
         <dc:creator opf:file-as="Nesbø, Jo" opf:role="aut">Jo Nesbø</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-02-22T00:00:00+00:00</dc:date>
         <dc:description>Az ausztrál tengerparton holtan találnak egy fiatal norvég nőt. Megerőszakolták és megfojtották. Harry Hole, az oslói rendőr-főkapitányság nyomozója Sydneybe utazik, hogy segítségére legyen ottani kollégáinak. Bár a vendéglátók csak jelképes szerepet szánnak az idegen nyomozónak, Harry alaposan belekeveredik az ügybe. S miközben az őslakos legendák halált hozó denevérembere után kutat, megismeri a többmilliós város sötétebb oldalát, a prostik, stricik, drogdílerek világát. És találkozik a megölt lány kollégájával, a gyönyörű, vörös hajú Birgittával, aki Harry számára hamarosan többet kezd jelenteni, mint egy egyszerű tanú…
 Az első Harry Hole-sztori!</dc:description>
@@ -15,7 +15,7 @@ Az első Harry Hole-sztori!</dc:description>
         <dc:language>hun</dc:language>
         <dc:subject>norvég szerző</dc:subject>
         <dc:subject>rendőr</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>skandináv</dc:subject>
         <dc:subject>drog</dc:subject>
         <dc:subject>kortárs</dc:subject>
@@ -33,7 +33,6 @@ Az első Harry Hole-sztori!</dc:description>
         <dc:subject>20. század</dc:subject>
         <dc:subject>férfi főszereplő</dc:subject>
         <dc:subject>sorozatgyilkosság</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Jo Nesbø&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Harry Hole"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

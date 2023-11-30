@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6b116cdd-4f7e-46d8-a02d-10cb09e7abd9</dc:identifier>
         <dc:title>Stray – Kóborok</dc:title>
         <dc:creator opf:file-as="Vincent, Rachel" opf:role="aut">Rachel Vincent</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Már csak nyolc fogamzóképes nőstény vérmacska van. És én vagyok az egyik. Éppen úgy nézek ki, mint akármelyik amerikai egyetemi hallgató. De vérmacska vagyok; alakváltó, két világ lakója. Bár a családom és a falkám rossz szemmel nézte, elszöktem a kényszer elől, hogy továbbvigyem a fajt, és kialakítottam magamnak egy saját életet. Amíg egy este az a kóbor meg nem támadott. Tudtam a kóborokról – a falka nélküli vérmacskákról – akik állandóan hozzám hasonlókat keresnek: csinos, termékeny nőket. Ezt a példány elkergettem, de aztán megtudtam, hogy két másik nőstény eltűnt. A veszélyből ennyi is elég volt, hogy a falkám hazahívjon a saját védelmem érdekében. Persze. Csakhogy én nem vagyok ijedős kiscica. Bárkivel vagy bármivel megküzdök, ha kell, hogy megtaláljam a barátnőimet. Vigyázzatok, kóborok – karmaim vannak, és nem félek használni őket!&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -14,7 +14,7 @@
         <dc:identifier opf:scheme="MOLY_HU">rachel-vincent-stray-koborok</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>21. század</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>család</dc:subject>
         <dc:subject>emberkereskedelem</dc:subject>
@@ -34,7 +34,6 @@
         <dc:subject>nyár</dc:subject>
         <dc:subject>alakváltó</dc:subject>
         <dc:subject>urban fantasy</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Rachel Vincent&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Vérmacskák"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

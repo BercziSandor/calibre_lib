@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20R.%20R.%20Tolkien/The%20two%20towers%20%2813%29/The%20two%20towers%20-%20J.%20R.%20R.%20Tolkien.epub)
 
 ### Tagek
-[angol nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/angol%20nyelv%c5%b1.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/brit%20szerz%c5%91.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kaland.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reg%c3%a9ny.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fantasy.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/irodalom.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md)
+[angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/brit%20szerz%c5%91.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kaland.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reg%c3%a9ny.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fantasy.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/irodalom.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md)
 
 ### Összefoglalás
 <div>

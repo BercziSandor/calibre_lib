@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c30d413c-8088-44d9-aca2-f62c61809894</dc:identifier>
         <dc:title>Csótányok</dc:title>
         <dc:creator opf:file-as="Nesbø, Jo" opf:role="aut">Jo Nesbø</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-02-15T13:19:51+00:00</dc:date>
         <dc:description>Harry Holét, a norvég rendőrség legellentmondásosabb figuráját Thaiföldre küldik, hogy végére járjon egy kínos gyilkossági ügynek. Az áldozat a norvég nagykövet, akit azelőtt szúrtak le, hogy a prostituált, akit a motelszobájába rendelt, megérkezett volna hozzá. Ráadásul kisfiúkat ábrázoló pornográf képeket találnak a holmija között. A megölt férfi nem egyszerű diplomata, jó barátja a norvég miniszterelnöknek. Nem meglepő tehát, hogy Harrytől és bangkoki segítőitől gyors és diszkrét munkát várnak. Szerencsejáték-adósság, korrupció, helyi gengszterek és kigyúrt csatlósaik, szexuális perverziók, ráadásul a trópusi hőség, a kultúrsokk, no meg az örökös harc az alkohol ellen adják azt a méregerős koktélt, amelyet Harrynek fenékig kell ürítenie.</dc:description>
         <dc:publisher>Animus</dc:publisher>
@@ -17,7 +17,7 @@
         <dc:language>hun</dc:language>
         <dc:subject>norvég szerző</dc:subject>
         <dc:subject>Irodalom</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>skandináv</dc:subject>
         <dc:subject>rejtély</dc:subject>
         <dc:subject>pedofília</dc:subject>
@@ -34,7 +34,6 @@
         <dc:subject>férfi főszereplő</dc:subject>
         <dc:subject>1990-es évek</dc:subject>
         <dc:subject>Thaiföld</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Jo Nesbø&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Harry Hole"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>

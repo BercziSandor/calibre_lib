@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">206f57bf-a98a-4741-8cdc-71753892868e</dc:identifier>
         <dc:title>A rettegés ajtaja</dc:title>
         <dc:creator opf:file-as="Koontz, Dean R." opf:role="aut">Dean R. Koontz</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2001-02-20T00:00:00+00:00</dc:date>
         <dc:description>A kilencéves Melanie öntudatlanul kóborol az utcán, amikor rátalálnak. Mint kiderül, a kislány két, közvetlen környezetéhez tartozó személy megmagyarázhatatlanul brutális meggyilkolását élte túl. Az egyik áldozat az apja. Házuk átkutatása során találják meg azt a szürke szobát, melyben a megszállott pszichológus apa éveken át teljesen titokban kísérletezett saját leányán, nem kímélve őt a legszörnyűbb szenvedésektől sem. Melanie élete is veszélyben forog. Csak anyjára számíthat, aki hat év után kapja vissza az annak idején apjával együtt nyomtalanul eltűnt kislányt. A nőnek minden szeretetére és odaadására szüksége van leánya mellett, akit különös, paranormális jelenségek kísérnek.</dc:description>
         <dc:publisher>Animus</dc:publisher>
@@ -18,9 +18,8 @@
         <dc:subject>regény</dc:subject>
         <dc:subject>krimi</dc:subject>
         <dc:subject>Fantasy</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Dean R. Koontz&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-12-12T09:59:30+00:00"/>
         <meta name="calibre:title_sort" content="rettegés ajtaja, A"/>

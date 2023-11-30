@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1815</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92100f83-7cfb-4ba0-9be2-573f1b4c92ac</dc:identifier>
+        <dc:title>Meghalok Én Is? : A Halál És Gyermek</dc:title>
+        <dc:creator opf:file-as="Polcz, Alaine" opf:role="aut">Polcz, Alaine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-11-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;span style="color: #000000"&gt;A megrázó kötet a szerző évtizedeken át folytatott pszichológusi munkájának tapasztalatait fogja egybe. A halált az éppen csak kezdődő élet szemszögéből ragadja meg, ráébresztve az olvasót a halállal szembesülő gyermek félelmeire, küzdelmére, bölcsességére.&lt;br&gt;Polcz Alaine évtizedeken át dolgozott haldokló gyermekek mellett, megismerte azokat a reakciókat, melyek a halált sohasem elfogadható tényként vagy éppen az élet természetes lezárásaként kezelik. Interjúkat idéz, amelyekben gyermekek szembesülnek a maguk vagy hozzátartozóik halálával. A személyes tragédiákat olyan érzékenységgel fogalmazza meg, hogy az ezekből leszűrhető általános tapasztalat fontos segítséget nyújthat a megértésben, az elfogadásban. &lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Századvég K.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789637911965</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">rUaArgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2023-11-30T14:10:02.752699+00:00"/>
+        <meta name="calibre:title_sort" content="Meghalok Én Is? : A Halál És Gyermek"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -149,6 +149,7 @@
 - Joanne Harris: Rúnajelek [részletek](../_details/Joanne%20Harris.md#id_1125)
 - Karin Slaughter: Bőr [részletek](../_details/Karin%20Slaughter.md#id_599)
 - Karin Slaughter: Nadragulya [részletek](../_details/Karin%20Slaughter.md#id_788)
+- Karin Slaughter: Összetörve [részletek](../_details/Karin%20Slaughter.md#id_1488)
 - Kathy Reichs: A holtak beszélnek [részletek](../_details/Kathy%20Reichs.md#id_157)
 - Kovács, András Péter: Médialom [részletek](../_details/Kov%C3%A1cs%2C%20Andr%C3%A1s%20P%C3%A9ter.md#id_427)
 - L. M. Montgomery: A tűzpróba [részletek](../_details/L.%20M.%20Montgomery.md#id_493)

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c500698b-2f72-47d1-b9d8-8f66b4d3d9dc</dc:identifier>
         <dc:title>Az éjszaka hangjai</dc:title>
         <dc:creator opf:file-as="Koontz, Dean R." opf:role="aut">Dean R. Koontz</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1997-02-20T00:00:00+00:00</dc:date>
         <dc:description>A szemérmes, tartózkodó Colin és a népszerű, lányok kedvence Roy jó barátok. Colint szinte elbűvöli a sikert sikerre halmozó Roy, de igen különösnek tartja, hogy Roy egyszercsak arról kezdi faggatni: ölt-e már életében. Vonzalma ugyanakkor töretlen marad élete első barátja iránt, s gyanútlanul belemegy a vérszerződésbe is, mellyel örök szövetséget kötnek egymással. Aztán egy közös fürdőzés Colinék medencéjében… Miért borítják sebhelyek Roy felsőtestét? És miért akarja Roy újabb és újabb szörnyűségekkel erősíteni a vér pecsétjét szerződésükön? Colin a titok nyomába ered, hogy megmentse mindkettőjüket…</dc:description>
         <dc:publisher>Animus</dc:publisher>
@@ -14,15 +14,14 @@
         <dc:language>hun</dc:language>
         <dc:subject>20. század</dc:subject>
         <dc:subject>Horror</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>krimi</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>Fantasy</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>Kalifornia</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Dean R. Koontz&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-12-12T09:59:10+00:00"/>
         <meta name="calibre:title_sort" content="éjszaka hangjai, Az"/>

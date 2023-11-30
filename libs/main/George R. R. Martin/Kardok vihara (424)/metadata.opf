@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">ee5c70da-6405-4e37-8635-52c6d5e2e60e</dc:identifier>
         <dc:title>Kardok vihara</dc:title>
         <dc:creator opf:file-as="Martin, George R. R." opf:role="aut">George R. R. Martin</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2009-02-15T11:50:16+00:00</dc:date>
         <dc:description>Ritkán ​született még olyan történet, amely annyira rabul ejtené egy egész nemzedék képzeletét és szívét, olyan lebilincselő mese, mint George R. R. Martin hatalmas fantasy-sorozata. A Trónok harcában megismertünk egy ősi királyságot, amelyet könyörtelen férfiak és nők hatalomvágya marcangolt. A Királyok csatájában kiéhezett ragadozóként söpört végig a birodalmon a háború, a mágia és az őrület. Most pedig, ahogy a hatalomért folytatott embertelen küzdelem viharos tetőpontjához közeledik, a megtépázott és megosztott királyság kénytelen szembenézni legszörnyűbb ellenségével, egy ellenséggel, amely a síron túlról érkezik…
 A hatalomért versengő öt király közül egy halott, egy pedig meggyengült, a harcok mégis változatlan hevességgel tombolnak. Szövetségek születnek és hullanak szét. A Vastrónuson a Lannister-házból való Joffrey, a Hét Királyság ingatag uralkodója ül. Legengesztelhetetlenebb ellenfele, a legyőzött és megalázott Lord Stannis egy féltékeny boszorkány hálójába keveredett. Északot azonban még mindig az ifjú Robb Stark kormányozza Zúgó várából. Robb haditervet készít megvetett ellenségei, a Lannisterek ellen nem törődve azzal, hogy a húgát túszként tartják fogva Királyvárban, a Vastrónus fővárosában.
@@ -30,7 +30,7 @@ Ahogy a szembenálló erők a végső, gigászi összecsapásra készülnek, a c
         <dc:subject>mágia</dc:subject>
         <dc:subject>kaland</dc:subject>
         <dc:subject>háború</dc:subject>
-        <dc:subject>drámai cselekmény</dc:subject>
+        <dc:subject>dráma</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>filmadaptáció</dc:subject>
         <dc:subject>dark fantasy</dc:subject>
@@ -39,7 +39,6 @@ Ahogy a szembenálló erők a végső, gigászi összecsapásra készülnek, a c
         <dc:subject>grimdark</dc:subject>
         <dc:subject>antihős</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;George R. R. Martin&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="A tűz és jég dala"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="10"/>

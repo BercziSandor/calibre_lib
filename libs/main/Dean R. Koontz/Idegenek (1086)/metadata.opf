@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3c37199e-ec90-4a82-bf50-f50f58d302c8</dc:identifier>
         <dc:title>Idegenek</dc:title>
         <dc:creator opf:file-as="Koontz, Dean R." opf:role="aut">Dean R. Koontz</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2004-02-20T00:00:00+00:00</dc:date>
         <dc:description>Idegenek voltak. Egy maroknyi ember más-más városból, más-más háttérrel. Nem volt bennük semmi közös. A félelmet kivéve. Áldozatok voltak. Egy ismeretlen eredetű, gonosz erő tartotta markában az álmaikat, és változtatta lidércnyomássá ébrenlétüket. Kiválasztották őket. És nem szökhettek el. Egy semmibe vesző sivatag mélyéről hívta mindannyiukat egy rémisztő emlék, hogy felkeressék ugyanazt a Motelt, ahol a döbbenetes igazság várt rájuk…</dc:description>
         <dc:publisher>Animus</dc:publisher>
@@ -16,7 +16,7 @@
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>sci-fi</dc:subject>
         <dc:subject>Szépirodalom</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>novella</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>regény</dc:subject>
@@ -32,7 +32,6 @@
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>Kísértet- és rémtörténetek</dc:subject>
         <dc:subject>Nevada</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Dean R. Koontz&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-12-12T09:59:05+00:00"/>
         <meta name="calibre:title_sort" content="Idegenek"/>

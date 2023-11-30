@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">33df907f-0cab-46d7-8e70-5de6a1aa42b4</dc:identifier>
         <dc:title>Bűbájos Mary</dc:title>
         <dc:creator opf:file-as="Rees, Celia" opf:role="aut">Celia Rees</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2003-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;p class="description"&gt;„…A látomások maguktól törtek rám, mint annak idején a nagyanyámra, de ezt a tudást nem tőle örököltem. Hanem anyámtól. Egészen másfajta képesség volt, meghaladta nagyanyámét. Éreztem, ahogy ránehezedik a vállamra, mint valami súlyos lepel…” Egy ágytakaróba fércelve rejtőztek több mint 300 évig azok a lapok, amelyekből a fenti idézet származik. Egy naplóból, melyet gondos kezek kitartó munkával rendeztek össze, hogy lapjait olvasva egy lenyűgöző és megindító történet bontakozzon ki. Marynek, egy boszorkány unokájának története… 1659 tavaszán egy hajó fut ki Southampton kikötőjéből, hogy az Újvilágba vigye a háborúk elől menekülő utasait. A fedélzeten van a 14 éves árva lány, Mary is…&lt;/p&gt;</dc:description>
         <dc:publisher>Orlando</dc:publisher>
@@ -17,7 +17,7 @@
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>női főszereplő</dc:subject>
         <dc:subject>sorozat része</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>angol</dc:subject>
         <dc:subject>babona</dc:subject>
         <dc:subject>bevándorlás</dc:subject>
@@ -30,7 +30,6 @@
         <dc:subject>naplóregény</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>történelmi regény</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Celia Rees&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Bűbájos Mary"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

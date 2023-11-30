@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">eaac3749-9fc4-4f9a-b3d6-79f388baf61c</dc:identifier>
         <dc:title>A Mansfieldi Kastély</dc:title>
         <dc:creator opf:file-as="Austen, Jane" opf:role="aut">Jane Austen</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-11-15T00:00:00+00:00</dc:date>
         <dc:description>Vigyázat! Cselekményleírást tartalmaz.Thomas Bertram bárónak, a mansfieldi kastély dölyfös urának, két fia és két lánya van; önző, nemtörődöm feleségének két nővére – az egyik túltesz rajta önzésben, rosszindulatban, a másik, Mrs. Price viszont szerény körülmények között neveli számos gyermekét.
 Bertramék magukhoz veszik Mrs. Price egyik kislányát, a kedves szerény Fannyt, aki nénjeinek zaklatása ellenére is megállja helyét, és hamarosan nélkülözhetetlen tagja lesz a mansfieldi háztartásnak. Jó modorát, feddhetetlen erkölcsét akkor is megőrzi, amikor a kastély urának távollétében Mansfieldet hangos dáridók, zűrzavaros amatőr színielőadások zaja veri fel.
@@ -18,7 +18,7 @@ Fanny Price-nak számos szerelmi intrika közepette is sikerül megóvnia tiszta
         <dc:subject>angol</dc:subject>
         <dc:subject>A Világirodalom Remekei</dc:subject>
         <dc:subject>19. század</dc:subject>
-        <dc:subject>10-Es évek</dc:subject>
+        <dc:subject>10-es évek</dc:subject>
         <dc:subject>házasság</dc:subject>
         <dc:subject>női sors</dc:subject>
         <dc:subject>filmadaptáció</dc:subject>
@@ -28,7 +28,6 @@ Fanny Price-nak számos szerelmi intrika közepette is sikerül megóvnia tiszta
         <dc:subject>Szépirodalom</dc:subject>
         <dc:subject>szerelem</dc:subject>
         <dc:subject>Film</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Jane Austen&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-11-15T20:21:58+00:00"/>
         <meta name="calibre:title_sort" content="Mansfieldi Kastély, A"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a0673578-13b5-41f3-bc23-7d9a816c4bcb</dc:identifier>
         <dc:title>Stoner</dc:title>
         <dc:creator opf:file-as="Williams, John" opf:role="aut">John Williams</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;William Stoner enters the University of Missouri at nineteen to study agriculture. A seminar on English literature changes his life, and he never returns to work on his father's farm. Stoner becomes a teacher. He marries the wrong woman. His life is quiet, and after his death his colleagues remember him rarely. Yet with truthfulness, compassion and intense power, this novel uncovers a story of universal value. Stoner tells of the conflicts, defeats and victories of the human race that pass unrecorded by history, and reclaims the significance of an individual life. A reading experience like no other, itself a paean to the power of literature, it is a novel to be savoured.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -16,7 +16,6 @@
         <dc:subject>2. világháború</dc:subject>
         <dc:subject>20. század</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <dc:subject>angol nyelvű</dc:subject>
         <dc:subject>apaság</dc:subject>
         <dc:subject>barátság</dc:subject>
         <dc:subject>egyetem</dc:subject>
@@ -29,7 +28,6 @@
         <dc:subject>Missouri</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>tanár</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;John Williams&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2016-05-25T07:57:44+00:00"/>
         <meta name="calibre:title_sort" content="Stoner"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">977c7bcc-ef89-46e9-ad59-7c304ed819c9</dc:identifier>
         <dc:title>Bukott angyalok városa</dc:title>
         <dc:creator opf:file-as="Clare, Cassandra" opf:role="aut">Cassandra Clare</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-02-17T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A ​háborúnak vége, és Clary Fray izgatottan tért vissza New Yorkba, ahol egy lehetőségekkel teli, új világ vár rá. Szorgalmasan edz, hogy Árnyvadász válhasson belőle, és felhasználhassa különleges képességeit. Édesanyja feleségül megy élete szerelméhez. Az Árnyvadászok és az Alvilágiak végre békében élnek egymással. És ami a legfontosabb, Clary és Jace szerelme végre igazán kiteljesedhet.&lt;br&gt;Valaki azonban Árnyvadászokat kezd gyilkolni, és az éleződő feszültség újabb véres háborúval fenyeget. Clary legjobb barátja, Simon sem segíthet. Akármerre fordul, valaki maga mellé akarja állítani, hiszen szükségük van az életét megrontó átok rettenetes hatalmára. Arról nem is beszélve, hogy két gyönyörű, ámde veszélyes lánnyal jár egyszerre, akik közül egyik sem tud a másikról.&lt;br&gt;Amikor Jace minden magyarázat nélkül távolodni kezd Clarytől, a lány egy rejtély kellős közepén találja magát, amelynek a megoldásával valóra válik a legrosszabb rémálma. Rettenetes események láncolatát indítja el, aminek akár az is lehet a vége, hogy mindent elveszít, ami fontos a számára. Még Jace-t is.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -15,7 +15,7 @@
         <dc:language>hun</dc:language>
         <dc:subject>21. század</dc:subject>
         <dc:subject>álom</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>angyal</dc:subject>
         <dc:subject>barátság</dc:subject>
@@ -33,7 +33,6 @@
         <dc:subject>regény</dc:subject>
         <dc:subject>romantikus</dc:subject>
         <dc:subject>sorozat része</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Cassandra Clare&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="A Végzet Ereklyéi"/>
         <meta name="calibre:series_index" content="4"/>
         <meta name="calibre:rating" content="8"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">361e8554-f526-4b6e-b363-7d783f537613</dc:identifier>
         <dc:title>Északnyugati átjáró</dc:title>
         <dc:creator opf:file-as="Roberts, Kenneth" opf:role="aut">Kenneth Roberts</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1992-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A lebilincselően izgalmas történet főhőse Rogers őrnagy, a Rangerek parancsnoka, aki úttalan utakon, Kanada érintetlen őserdein keresztül vezeti maroknyi csapatát győzelemre. A természet legyőzője, a kemény katona azonban nem tud megbirkózni kora társadalmának kicsinyes, szűk látókörű emberivel és sorsa tragikus kietlenségbe torkollik. A széles ívelésű történet hátterét a francia és angol gyarmatosítók harca, az indián törzsek fokozatos visszaszorításának és az amerikai függetlenségi háborúnak a históriája adja.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -15,7 +15,7 @@
         <dc:language>hun</dc:language>
         <dc:subject>18. század</dc:subject>
         <dc:subject>20. század</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>Anglia</dc:subject>
         <dc:subject>erőszak</dc:subject>
@@ -33,7 +33,6 @@
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>történelem</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Kenneth Roberts&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2014-09-20T12:26:32+00:00"/>
         <meta name="calibre:title_sort" content="Északnyugati átjáró"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">50ffc037-0fa5-439b-b622-118ff1d7d57e</dc:identifier>
         <dc:title>Vidám temetés</dc:title>
         <dc:creator opf:file-as="Ulickaja, Ljudmila" opf:role="aut">Ljudmila Ulickaja</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-02-16T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Alik, a New Yorkba emigrált, tehetséges orosz-zsidó festőművész haldoklik. Műterem-lakásában sorra felbukkannak megcsalt feleségei, szeretői és régi barátai, akiket nem köt össze más, mint az, hogy mindannyian elhagyták Oroszországot, s mindannyian szeretik Alikot. A festőművész különös és szenvedélyes személyiségének hatása alól nem tudja magát kivonni senki, halálos ágya mellett még szeretői is összebékülnek. Az orosz Booker-díjas Ulickaja a Vidám temetésben korábbi regényeiből (Médea és gyermekei, Kukockij esetei, Életművésznők) ismert pontos lélekábrázolással mutatja be ezt a „furcsa családot” összetartó és széthúzó erőket, finom humorral ábrázolja és teszi különlegessé főszereplője halálát.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -15,7 +15,7 @@
         <dc:identifier opf:scheme="ISBN">9789631436938</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>20. század</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>emigráció</dc:subject>
         <dc:subject>kortárs</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
@@ -23,7 +23,6 @@
         <dc:subject>orosz szerző</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>zsidó</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Ljudmila Ulickaja&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2021-02-17T19:24:21+00:00"/>
         <meta name="calibre:title_sort" content="Vidám temetés"/>

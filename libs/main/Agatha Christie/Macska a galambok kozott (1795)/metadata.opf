@@ -10,18 +10,18 @@
         <dc:description>&lt;div&gt;
 &lt;p&gt;Egy kis közel-keleti ország felvilágosult uralkodója a lázadók elől repülőgépen menekül; családi kincseit azonban biztos helyre rejti, hogy kijuttathassa az országból, ha ő netán szerencsétlenül járna. Egy előkelő angliai leánynevelő intézetben sorra-rendre teszik el láb alól a tanárnőket. És hogy a két szál hogyan fonódik össze? És hogy kicsoda-micsoda a “macska”, aki beszabadul a galambok – azaz a leányintézet leánykái – közé? Ezekre a kérdésekre és még sok egyébre is fény derül, természetesen a zseniális Hercule Poirot jóvoltából – és természetesen csak a legeslegutolsó fejezetben, hogy addig ki-ki a maga megfejtésén törhesse a fejét, mert mint minden önmagára kicsit is adó detektívregényben, Agatha Christie-nek ebben a kis remekében is a rejtély valamennyi kulcsát kézhez kapja a Nyájas Olvasó – az már az ő dolga, hogy meg is forgassa a zárban!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Európa</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9789630791144</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">15746637</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">KODOsgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630791144</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>Mystery</dc:subject>
         <dc:subject>Crime</dc:subject>
         <dc:subject>Classics</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:series" content="Hercule Poirot"/>
         <meta name="calibre:series_index" content="32"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-11-27T12:53:45.561154+00:00"/>
+        <meta name="calibre:timestamp" content="2023-11-27T12:53:45+00:00"/>
         <meta name="calibre:title_sort" content="Macska a galambok között"/>
         <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;PRC&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

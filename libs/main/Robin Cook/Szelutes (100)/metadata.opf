@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">cda42572-2b73-4915-be62-ef36e6a62300</dc:identifier>
         <dc:title>Szélütés</dc:title>
         <dc:creator opf:file-as="Cook, Robin" opf:role="aut">Robin Cook</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2003-02-18T00:00:00+00:00</dc:date>
         <dc:description>Mi ​köze egymáshoz egy konzervatív, déli amerikai szenátornak, a keresztény egyház egyik legfontosabb és legrejtélyesebb ereklyéjének, a torinói lepelnek, s egy vállalkozóvá vált, forradalmian új gyógyító eljárást kidolgozó orvoskutatónak? Látszólag semmi, csakhogy a csillapíthatatlan politikusi ambíciótól fűtött Ashley Butler szenátor megtudja, hogy gyors leépülést előidéző Parkinson-kórja van, Daniel Lowell génmanipulációs eljárásának, s a kutató által alapított vállalat felvirágzásának útjában pedig már csak a módszer alkalmazását tiltó washingtoni törvényhozás áll. A megoldás tehát kézenfekvő: titokban azon kell alkalmazni a módszert, aki a nyilvánosság előtt a legjobban ellenzi, és ha ehhez a vérfoltos Krisztusi lepelről vett DNS-részlet formájában még „isteni segítség” is társul, akkor az eredmény nem lehet kétséges. Vagy mégis? A legidőszerűbb, és vitatott orvosi kérdéseket – jelen esetben a gyógyító célú klónozást – mesteri krimibe ágyazva körüljáró Robin Cook ezúttal is lélegzetelállítóan izgalmas regényt alkotott. Olyat, amely kutatóit, laikust és a forradalmian új módszerek engedélyezéséről döntő törvényhozót egyaránt gondolkodásra késztet.</dc:description>
         <dc:publisher>I.P.C.</dc:publisher>
@@ -18,8 +18,7 @@
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>orvosi krimi</dc:subject>
         <dc:subject>regény</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Robin Cook&quot;: &quot;&quot;}"/>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-11-15T20:40:59+00:00"/>
         <meta name="calibre:title_sort" content="Szélütés"/>

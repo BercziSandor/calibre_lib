@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">7d01ce0b-3d50-4288-b9d8-fedbd7fb4034</dc:identifier>
         <dc:title>A holtak beszélnek</dc:title>
         <dc:creator opf:file-as="Reichs, Kathy" opf:role="aut">Kathy Reichs</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Reichs ​hősnője, dr. Temperance Brennan törvényszéki antropológus. Hullaházban, exhumáláson, bűnügyi laborban, zsaruk közt tölti mindennapjait. Brennan túl van már egy váláson, lánya több gondot okoz, mint örömet.&lt;br&gt;Amikor egy építkezésen előkerült emberi maradványok vizsgálatához hívják, abban bízik, hogy csak egy régészeti leletet talál. De a helyszínen műanyag zsákokba csomagolt, oszladozó tetem darabjai várják. Így már tudja oda a hétvégéje. Azt megint csak – mint annyiszor már – a boncteremben fogja tölteni.&lt;br&gt;Azonban Tempének más is eszébe jut a nejlonzsákokba külön-külön becsomagolt testrészekről. Kísértetiesen emlékeztetik a tizenhat évesen meggyilkolt Chantale Trottier esetére, akit régebben szintén precízen földarabolva és szemeteszsákokba csomagolva találtak a föld alatt elásva.&lt;br&gt;A két gyilkosság összefügg, gondolja, de kollegái nem hiszik.&lt;br&gt;És ekkor előveszi teljes szakmai eszköztárát: a különleges röntgenfelvételeket, a csont-, fog- és harapásnyomok vizsgálatát, hogy meggyőzze a kételkedőket, mielőtt újból lecsap a gyilkos.&lt;br&gt;Hiszen bárki lehet a következő áldozat…&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -30,17 +30,16 @@
         <dc:subject>kaland</dc:subject>
         <dc:subject>Women Detectives</dc:subject>
         <dc:subject>Detective and Mystery Stories</dc:subject>
-        <dc:subject>Brennan; Temperance (Fictitious Character)</dc:subject>
-        <dc:subject>Dr. Csont</dc:subject>
+        <dc:subject>Brennan</dc:subject>
+        <dc:subject>Temperance (Fictitious Character)</dc:subject>
         <dc:subject>Montréal (Québec)</dc:subject>
         <dc:subject>Szórakoztató irodalom</dc:subject>
         <dc:subject>Szépirodalom</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>halottkém</dc:subject>
         <dc:subject>krimi</dc:subject>
         <dc:subject>Medical Examiners (Law)</dc:subject>
         <dc:subject>akció</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Kathy Reichs&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Temperance Brennan"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

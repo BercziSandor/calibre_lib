@@ -12,22 +12,22 @@
 &lt;p&gt;Első megbízatásuk, melyet a gyanús külsejű Mr. Whittingtontól kapnak, máris egy időzített politikai bombát rejteget. Azt a szigorúan titkos iratot hajkurásszák, amely rejtélyes körülmények között eltűnt, mikor a &lt;em&gt;Lusitania&lt;/em&gt; gőzös elsüllyedt. És arra is választ keresnek, kicsoda lehet Jane Finn, akinek elég a nevét kimondani, és rettegés költözik az emberek szemébe. A megfoghatatlan és kegyetlen Mr. Brown gonosz szándéka pedig mindenhova követi őket. Nem is sejtik, ez a kaland mennyi veszéllyel jár… &lt;/p&gt;
 &lt;p&gt;Agatha Christie-nek ez az első, izgalmas Tommy és Tuppence-regénye, tele nemzetközi cselszövéssel és gyilkossággal.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">4G3OsgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">13420901</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">9f04d4f3-ec41-41a9-af85-77bff9458ec9</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9789630792738</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">13420901</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">4G3OsgEACAAJ</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>Mystery</dc:subject>
         <dc:subject>Classics</dc:subject>
         <dc:subject>Crime</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>Adventure</dc:subject>
         <meta name="calibre:series" content="Tommy és Tuppence"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-11-24T16:11:25.315260+00:00"/>
+        <meta name="calibre:timestamp" content="2023-11-24T16:11:25+00:00"/>
         <meta name="calibre:title_sort" content="Titkos ellenfél"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;MOBI&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

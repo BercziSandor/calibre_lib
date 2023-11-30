@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d326e69f-88e1-451b-92ad-e416935b56dd</dc:identifier>
         <dc:title>Átoksori kísértetek</dc:title>
         <dc:creator opf:file-as="Wass, Albert" opf:role="aut">Wass, Albert</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-02-22T00:00:00+00:00</dc:date>
         <dc:description>„Mert nem jó a harag, méreggel tölti meg a lelket s beszennyezi a gondolkodást. Azok a szerencsétlen fiatal testvérek nem tudják, mit cselekszenek, olyanok mint az állatok, szegények. Nyomorúságos szennyel vannak tele, de hiába próbálom, nem tudok segíteni rajtok, ameddig ők nem kívánnak segíteni magukon. S az ember nem tehet egyebet, mint elfordítja a fejét másfelé s gyönyörködik abban, amit Isten teremtett, mert csak az hibátlanul szép.”
 Az Átoksori kísértetek Amerikában született főhőse – nagyapjához megtérve – húsz évet tölt Erdélyben. 1936–1956 között. Az archaikus élet ifjúkori emlékei… és megszállások, megaláztatások, börtön, forradalmi remények, félájult emigrálás….
@@ -17,14 +17,13 @@ Fájdalmak, kiábrándultság, helytállás, a remény fel nem adása jellemzi W
         <dc:language>hun</dc:language>
         <dc:subject>20. század</dc:subject>
         <dc:subject>regény</dc:subject>
-        <dc:subject>erdélyi</dc:subject>
+        <dc:subject>Erdély</dc:subject>
         <dc:subject>General Fiction</dc:subject>
         <dc:subject>határon túli</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>magyar szerző</dc:subject>
         <dc:subject>történelem</dc:subject>
         <dc:subject>erdélyi magyar szerző</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Wass, Albert&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-11-17T20:51:15+00:00"/>
         <meta name="calibre:title_sort" content="Átoksori kísértetek"/>

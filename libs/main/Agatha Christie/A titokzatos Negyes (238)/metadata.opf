@@ -12,13 +12,13 @@
         <dc:publisher>+</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9789639021556</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">fCczywAACAAJ</dc:identifier>
-        <dc:identifier opf:scheme="MOLY_HU">agatha-christie-a-titokzatos-negyes</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">32950859</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">agatha-christie-a-titokzatos-negyes</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>Mystery</dc:subject>
         <dc:subject>Crime</dc:subject>
         <dc:subject>Classics</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>20. század</dc:subject>
         <dc:subject>angol szerző</dc:subject>
         <dc:subject>brit szerző</dc:subject>

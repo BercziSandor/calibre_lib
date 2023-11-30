@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f20c9512-8076-4ecf-a2ab-d2cfedb63efb</dc:identifier>
         <dc:title>Eclipse – Napfogyatkozás</dc:title>
         <dc:creator opf:file-as="Meyer, Stephenie" opf:role="aut">Stephenie Meyer</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;"Mondják, ​a föld veszte a tűz lesz, vagy a jég.&lt;br&gt;Én mint ember, kit vágya űz, amondó vagyok, hogy a tűz.&lt;br&gt;De ha kell a kétféle vég, itt gyűlölet is annyi van,&lt;br&gt;hogy pusztítószerül a jég is éppolyan jó és elég."&lt;br&gt;(Robert Frost: Tűz és jég)&lt;br&gt;Miközben Seattle-t rejtélyes gyilkosságsorozat tartja rettegésben, és egy gonosz vámpír még mindig nem adta föl, hogy bosszút álljon rajta, Bellát továbbra is minden oldalról veszély környékezi. És mintha ez nem lenne elég, kénytelen választani Edward iránt érzett szerelme és Jacobbal való barátsága között – és közben tudja, ennek a döntésnek az lehet a következménye, hogy újra lángra lobban az ősi ellenségeskedés a vámpírok és a vérfarkasok között. Miközben vészesen közeledik az érettségi időpontja, Bellára még egy további döntés is vár: választania kell élet és halál között. De vajon melyik melyik?&lt;br&gt;Azok az olvasók, akiket rabul ejtett az Alkonyat és az Újhold, ugyanilyen mohón falják majd Stephenie Meyer magával ragadó vámpír-történetének rég várt harmadik kötetét, a Napfogyatkozást is.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -15,7 +15,7 @@
         <dc:language>hun</dc:language>
         <dc:subject>21. század</dc:subject>
         <dc:subject>alakváltó</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>barátság</dc:subject>
         <dc:subject>énregény</dc:subject>
@@ -33,7 +33,6 @@
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>urban fantasy</dc:subject>
         <dc:subject>vámpír</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Stephenie Meyer&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Twilight saga"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>

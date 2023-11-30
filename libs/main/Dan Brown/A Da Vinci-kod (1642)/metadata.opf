@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">5a5f837b-b615-4acf-b948-46d3e806bb73</dc:identifier>
         <dc:title>A Da Vinci-kód</dc:title>
         <dc:creator opf:file-as="Brown, Dan" opf:role="aut">Dan Brown</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2003-03-17T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A tanulmányi úton Párizsban tartózkodó Robert Langdon szimbólumkutatót telefonon riasztják egy késő esti órán. A Louvre idős kurátorát meggyilkolták a múzeumban, és érthetetlen kódot találtak a holtteste mellett. Miközben Langdon és Sophie Neveu, a tehetséges francia titkosírás-szakértő a rejtvény megoldásán dolgozik, elképedten fedezik fel a rejtett utalások nyomát Leonardo da Vinci műveiben – noha ezeket az utalásokat mindenki láthatja, a festő zseniálisan álcázta őket. A hagyományos thrillerregények kliséiből A Da Vinci-kód egyszerre villámgyors, intelligens és többrétegű; részletek sokasága és alapos kutatások hitelesítik. Az első oldalaktól a váratlan és elképesztő végkifejletig Dan Brown bestsellerszerző már megint mesterien bonyolítja a történetet.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -16,7 +16,7 @@
         <dc:identifier opf:scheme="MOBI-ASIN">a211f16d-b90c-46fa-8903-418778de7b6d</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>Mystery</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>Suspense</dc:subject>
         <dc:subject>Adventure</dc:subject>
         <dc:subject>Adult</dc:subject>

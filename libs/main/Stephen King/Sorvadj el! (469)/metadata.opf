@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">adaccc58-68b5-457c-95e1-02e5b6ca089e</dc:identifier>
         <dc:title>Sorvadj el!</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1998-02-20T00:00:00+00:00</dc:date>
         <dc:description>Megszokott amerikai kisváros, szokványos középosztálybeli jómód, unalmas élet, melynek minden lépése előre tudható, előre kiszámítható. Vagy mégsem? Mert közbejön egy városi piknik, annak a közepébe pedig váratlanul berobban egy egyáltalán nem kívánatos cigánykaraván. Amíg csak zsonglőrködnek, tenyérből jósolnak, akit tudnak, szemfényvesztéssel megkopasztanak, addig még hagyján… de aztán kopjanak le idejében! Ez a cigánybanda azonban más, ez még ősi erőkkel rendelkezik, ősi hagyományokat ápol, s ha valaki keresztezi az útját, azt megátkozza, méghozzá úgy, hogy az átok meg is fogan. Már csak ez hiányzott a kisváros menő ügyvédjének, aki véletlenül, de leginkább felesége áldásos közreműködésével, elüti a cigányvajda lányát. Az Isten legyen hozzá irgalmas… De lesz-e?</dc:description>
         <dc:publisher>Európa</dc:publisher>
@@ -18,9 +18,9 @@
         <dc:subject>Mystery &amp; Crime</dc:subject>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Szépirodalom</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>novella</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>Szórakoztató irodalom</dc:subject>
@@ -38,7 +38,6 @@
         <dc:subject>Connecticut</dc:subject>
         <dc:subject>Kísértet- és rémtörténetek</dc:subject>
         <dc:subject>filmadaptáció</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2013-06-04T19:44:49+00:00"/>
         <meta name="calibre:title_sort" content="Sorvadj el!"/>

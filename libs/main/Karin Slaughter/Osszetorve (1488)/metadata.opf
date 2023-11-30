@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c30e7aa6-c2b7-46d0-8f26-474724181db7</dc:identifier>
         <dc:title>Összetörve</dc:title>
         <dc:creator opf:file-as="Slaughter, Karin" opf:role="aut">Karin Slaughter</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-07-21T22:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Tetszetős ​otthonaival és fákkal szegélyezett utcáival, az Ansley Park a legvonzóbb környék Atlantában. Ám az egyik ragyogó házban, egy tini elegáns szobájában kegyetlenül meggyilkoltak egy lányt. Az előszobában pedig, a lány riadt édesanyja áll, törött üvegek között – puszta kézzel ölte meg a lánya támadóját.&lt;br&gt;Will Trent, a Georgia-i nyomozó iroda detektívje csak egy politikai szívesség miatt van itt, a gyilkossági helyszín az atlantai rendőrség illetékessége. Trent azonban hamar észrevesz valamit, amit a rendőrök elmulasztottak: valamit a vér nyomában, egy törvényszéki bizonyítékban és az idegsokkos anya szemében. Perceken belül átveszi az ügyet, és egy másikat csap hozzá. Biztos benne, hogy még egy tini eltűnt, és a gyilkos szabadlábon van.&lt;br&gt;Tünékeny nyomokkal felszerelkezve, és egy olyan rendőrnő partnerrel, aki személyes okok miatt utálja, Trentet mindenütt ellenségek veszik körül. És olyan érzés gyötri, hogy az az ügy, amely a legjobb házakban kezdődött, gyorsan és mélyrehatón tör utat tökéletes életek tönkretett romjain, ahol dühös emberi démonok bukkannak fel.&lt;br&gt;Karin Slaughter a világ egyik legnépszerűbb és legelismertebb thriller szerzője, 37 nyelven, több mint 35 millió példányban fogytak eddigi regényei.&lt;br&gt;„Karin Slaughter fogva tart az első oldaltól az utolsóig.” Camilla Lackberg&lt;br&gt;"Hatalmas író"Peter James&lt;br&gt;"Bárhová követném"Gillian Flynn, a Holtodiglan szerzője&lt;br&gt;"A karakterei, a sztorijai, a tempója utánozhatatlan."Michael Connelly&lt;br&gt;"Szenvedély, intenzitás, emberség."Lee Child&lt;br&gt;"Kivételes tehetségű író"Kathy Reichs&lt;br&gt;" Regény nem lehet az övénél jobb."Jeffery Deaver&lt;br&gt;"Karin Slaughter messze a legnagyobb név közülünk, thriller szerzők közül."James Patterson&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -17,8 +17,16 @@
         <dc:subject>Fiction</dc:subject>
         <dc:subject>Crime</dc:subject>
         <dc:subject>Thrillers</dc:subject>
-        <dc:subject>21. század Amerikai Egyesült Államok amerikai szerző férfi főszereplő gyilkosság krimi magyar nyelvű regény sorozat része thriller</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Karin Slaughter&quot;: &quot;&quot;}"/>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>USA</dc:subject>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>gyilkosság</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:series" content="Will Trent"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>

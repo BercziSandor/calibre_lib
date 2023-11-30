@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3ed39b7f-a47e-40b9-a603-e669960dab3f</dc:identifier>
         <dc:title>Vadászat a Vörös Októberre</dc:title>
         <dc:creator opf:file-as="Clancy, Tom" opf:role="aut">Tom Clancy</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-02-17T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Az ​Egyesült Államok tengeralattjáró-haderejének parancsnoksága szokatlan mozgolódást észlel az Atlanti-óceánon. Ramiusz, a litván származású hajóskapitány ugyanis úgy dönt, hogy bosszút áll a szovjet rezsimen, amely a felesége halálát okozta, és átszökik az Egyesült Államokba. Az USA hírszerzése támadásként értelmezi a gépóriás mozgását, és beindítja ellene hadigépezetét, miközben a szökést sejtő oroszok is üldözőbe veszik az áruló tengeralattjárót. Bár a rettenthetetlen parancsnok nagy körültekintéssel tervezte meg a menekülést, minden leleményességét össze kell szednie, hogy kivághassa magát a kettős szorításból. Itt lép a képbe a fiatal Jack Ryan, aki felismeri a hajóskapitány szándékait, és pontosan tudja: az évszázad legnagyobb hírszerzési fogása lenne, ha az amerikaiak idejében megtalálnák és védett kikötőbe vezetnék a Vörös Októbert…&lt;br&gt;Tom Clancy a katonai-politikai thriller nagymestere. A Vadászat a Vörös Októberre a szerző első regénye, amelyből a nagy sikerű, Oscar-díjas akciófilm készült Sean Connery főszereplésével. A történet Marko Alekszandrovics Ramiusz kapitány és Jack Ryan CIA-ügynök összefonódó kalandjait mutatja be.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -25,9 +25,8 @@
         <dc:subject>regény</dc:subject>
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>tengeralattjáró</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>titkosszolgálat</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Tom Clancy&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Jack Ryan-univerzum"/>
         <meta name="calibre:series_index" content="4"/>
         <meta name="calibre:rating" content="10"/>

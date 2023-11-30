@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">bbdc13ba-8786-4891-b58d-02e25da974a6</dc:identifier>
         <dc:title>Bourne Hatalma</dc:title>
         <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2006-11-12T23:00:00+00:00</dc:date>
         <dc:description>&lt;p class="description"&gt;A Bourne-trilógia második kötetében ismét élethalálharcra kényszerül Jason Bourne, Robert Ludlum legkülönösebb sorsú hőse. Egy honkongi tajpan utasítására elrabolják Bourne feleségét, s ezzel kezdetét veszi a kegyelmet nem ismerő küzdelem a gyilkos gengszterek és a semmivel sem kíméletesebb titkosszolgálatok között. A tét látszólag egy asszony élete, de valójában a hatalom és a pénz körül forog minden a Távol-Kelet véres kulisszái között.&lt;br&gt;Jason Bourne a hajdani Fantom ismét feltűnik Ázsiában, s ahol ő megjelenik, ott eluralkodik a rettegés és arat a halál...&lt;/p&gt;</dc:description>
         <dc:publisher>I. P. C. Könyvek Kft.</dc:publisher>
@@ -14,14 +14,13 @@
         <dc:subject>elbeszélés</dc:subject>
         <dc:subject>Amerika</dc:subject>
         <dc:subject>Ázsia</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>Az író származása szerint</dc:subject>
         <dc:subject>Szépirodalom</dc:subject>
         <dc:subject>Földrajzi Besorolások</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>novella</dc:subject>
         <dc:subject>Tartalom szerint</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Robert Ludlum&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Bourne"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2012-11-13T14:29:55+00:00"/>

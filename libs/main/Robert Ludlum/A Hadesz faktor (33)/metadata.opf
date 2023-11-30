@@ -6,7 +6,7 @@
         <dc:title>A Hádész faktor</dc:title>
         <dc:creator opf:file-as="Ludlum, Robert &amp; Lynds, Gayle" opf:role="aut">Robert Ludlum</dc:creator>
         <dc:creator opf:file-as="Ludlum, Robert &amp; Lynds, Gayle" opf:role="aut">Gayle Lynds</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2006-02-21T23:00:00+00:00</dc:date>
         <dc:description>Három ​ember gyors egymásutánban, érthetetlen módon meghal az Egyesült Államokban. Halálukat soha nem tapasztalt tüneteket elődidéző, ismei vírus okozza, amely előtt tehetetlenül állnak a tudósok, köztük Sophia Russell, az amerikai hadsereg fertőző betegségekkel foglalkozó kutatóintezetének munkatársa. Sophiának azonban támad egy bizonytalan ötlete, s tovább is lépne, de a vírus őt sem kíméli.Vőlegénye, Jon smith orvos-alezredes egy rég nem látott baráttól szűkszavú figyelmeztetést kap: meneküljön, mert életveszélyben van. A figyelmeztetést rögtön megmagyarázhatatlan támadások követik. Egy rejtélyes, kimeríthetetlen er-forrásokkal rendelkező erő tör az életére, az amely Sophia halálát is okozta. Smith egyszerre válik üldözötté és üldözővé. Félelem és düh hajtja, menteni igyekszik magát, s kideríteni, miért, ki miatt veszítette el szerelmét. Áthatolhatatlannak tűnő falak veszik körül, próbálkozásai kudarcot vallanának, ha nem lennének a barátai: Marty az autista számítógépes zseni és Howell , a rejtélyes öreg brit, a SAS kommandó egykori tisztje…</dc:description>
         <dc:publisher>I.P.C.</dc:publisher>
@@ -14,10 +14,10 @@
         <dc:identifier opf:scheme="MOLY_HU">robert-ludlum-gayle-lynds-a-hadesz-faktor</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9789636353117</dc:identifier>
         <dc:language>hun</dc:language>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>Tartalom szerint</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>kaland</dc:subject>
         <dc:subject>krimi</dc:subject>
         <dc:subject>Amerika</dc:subject>
@@ -32,7 +32,6 @@
         <dc:subject>misztikus</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Robert Ludlum&quot;: &quot;&quot;, &quot;Gayle Lynds&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Covert-One"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

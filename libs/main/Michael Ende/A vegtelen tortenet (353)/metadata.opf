@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a27c47a7-9d79-437e-ae1d-ad01c5f58416</dc:identifier>
         <dc:title>A végtelen történet</dc:title>
         <dc:creator opf:file-as="Ende, Michael" opf:role="aut">Michael Ende</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1985-02-14T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;TEDD ​AZT, AMIT AKARSZ&lt;br&gt;ez a felirata annak a medalionnak, mely a korlátlan hatalmat jelképezi Fantáziában. De hogy ez a mondat voltaképpen mit is jelent, azt Barnabás csak hosszú, fáradtságos út után tudja meg.&lt;br&gt;Bux Barnabás Boldizsár számára, aki nem különösebben okos vagy szép, viszont gyönyörű történeteket tud mesélni, valóra válik minden gyermek álma: egy rejtélyes könyv olvasása közben hirtelen átkerül a mesébe, s ő lesz Fantázia birodalmának legfontosabb lakója, megmentője, akinek meséi nyomán új lények és tájak keletkeznek. Barnabás előtt nincs lehetetlen ebben a birodalomban, mert nála van a mindenható medál, az AURIN, s barátja lesz Fantázia legbátrabb vitéze, Atráskó és annak fehér szerencsesárkánya. Amikor azonban Barnabás túlságosan magabiztossá válik, s a medál feliratát, „Tedd azt, amit akarsz” túlságosan saját érdekei szerint kezdi el értelmezni, lassanként rémisztővé válik az addig oly kedves képzeletbeli világ. Barnabásnak sokat kell tanulnia, és sok kalandot kell átvészelnie, hogy megtudja, hogyan lesz a fantázia hőséből a mindennapok hőse, s hogyan válhat története valóban végtelenné.&lt;br&gt;Bux Barnabás Boldizsár történetét már eddig is világszerte több millió felnőtt és gyermek ismerhette meg, hiszen Michael Ende örökérvényű meseregényét 1979-es megjelenése óta több mint harmincöt nyelvre fordították le, és egy csodálatos filmet is forgattak belőle.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -31,7 +31,7 @@
         <dc:subject>Nagy Könyv</dc:subject>
         <dc:subject>német szerző</dc:subject>
         <dc:subject>Német Irodalom</dc:subject>
-        <dc:subject>Emlékek</dc:subject>
+        <dc:subject>emlékek</dc:subject>
         <dc:subject>20. század</dc:subject>
         <dc:subject>Kortalan Mesék</dc:subject>
         <dc:subject>gyermek- és ifjúsági irodalom</dc:subject>
@@ -42,7 +42,6 @@
         <dc:subject>kaland</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>Könyv</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Michael Ende&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2012-11-18T20:51:34+00:00"/>
         <meta name="calibre:title_sort" content="végtelen történet, A"/>

@@ -5,7 +5,6 @@
 - Dragomán, György: Oroszlánkórus [részletek](../_details/Dragom%C3%A1n%2C%20Gy%C3%B6rgy.md#id_1191)
 - Dragomán, György: Rendszerújra [részletek](../_details/Dragom%C3%A1n%2C%20Gy%C3%B6rgy.md#id_1223)
 - Fodor, Sándor: Csipike [részletek](../_details/Fodor%2C%20S%C3%A1ndor.md#id_391)
-- Polcz Alaine: Asszony a fronton [részletek](../_details/Polcz%20Alaine.md#id_1443)
 - Polcz, Alaine: Ideje a meghalásnak [részletek](../_details/Polcz%2C%20Alaine.md#id_1440)
 - Polcz, Alaine: Macskaregény [részletek](../_details/Polcz%2C%20Alaine.md#id_1439)
 - Polcz, Alaine: Meghalok én is? [részletek](../_details/Polcz%2C%20Alaine.md#id_1441)

@@ -10,19 +10,19 @@
         <dc:description>&lt;div&gt;
 &lt;p&gt;Agatha Christie-nek, a páratlanul és tartósan népszerű angol detektívregény-írónőnek a népszerűsége indokolt, mert nem mindennapi ötletességgel és pengeéles logikával állítja fel a bűntények képletét, és vezeti le a csattanós megoldásig.&lt;br&gt;Ebben a regényében a megfejtendő képlet a következő: hogyan került egy ifjú, szőke táncosnő estélyi ruhás holtteste a tiszteletre méltó, idős ezredes és házasember könyvtárszobájába? Ő ölte meg, vagy másnak állt érdekében, hogy ilyen látszatot keltsen? És ha igen, miért? Mi lehetett az indítéka a teljesen homályos körülmények között elkövetett bűncselekménynek? És összefügg-e ez a gyilkosság a diáklány erőszakos halálával, amely néhány nappal később derül csak ki? Sok neves, tapasztalt rendőr nem találja meg a nehéz kérdésekre a választ, de a józan, ravasz Marple kisasszony amatőr nyomozói munkáját végül is siker koronázza…&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Magvető</dc:publisher>
-        <dc:identifier opf:scheme="MOBI-ASIN">6b63f0c2-a03a-4aad-a64f-fdcd13415999</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9789630774499</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">15848612</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">vnIYYAAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">6b63f0c2-a03a-4aad-a64f-fdcd13415999</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630774499</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>Mystery</dc:subject>
         <dc:subject>Crime</dc:subject>
         <dc:subject>Classics</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:series" content="Miss Marple"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-11-27T12:22:51.974763+00:00"/>
+        <meta name="calibre:timestamp" content="2023-11-27T12:22:51+00:00"/>
         <meta name="calibre:title_sort" content="Holttest a könyvtárszobában"/>
         <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;AZW3&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

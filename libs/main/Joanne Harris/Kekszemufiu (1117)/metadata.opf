@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">639c2c5b-0d41-479c-997b-86b74e4b0038</dc:identifier>
         <dc:title>Kékszeműfiú</dc:title>
         <dc:creator opf:file-as="Harris, Joanne" opf:role="aut">Joanne Harris</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-02-17T00:00:00+00:00</dc:date>
         <dc:description>Élt egyszer egy özvegyasszony, akinek három fia volt: Fekete, Barna és Kék.
 Fekete volt a legidősebb: mogorva és agresszív. 
@@ -24,8 +24,7 @@ De az anya kedvence Kék volt: a gyilkos.</dc:description>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>blog</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Joanne Harris&quot;: &quot;&quot;}"/>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:series" content="St. Oswald"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

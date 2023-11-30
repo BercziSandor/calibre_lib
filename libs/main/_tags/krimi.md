@@ -169,6 +169,7 @@
 - Karin Alvtegen: Árnyak [részletek](../_details/Karin%20Alvtegen.md#id_676)
 - Karin Slaughter: Bőr [részletek](../_details/Karin%20Slaughter.md#id_599)
 - Karin Slaughter: Nadragulya [részletek](../_details/Karin%20Slaughter.md#id_788)
+- Karin Slaughter: Összetörve [részletek](../_details/Karin%20Slaughter.md#id_1488)
 - Kathy Reichs: A holtak beszélnek [részletek](../_details/Kathy%20Reichs.md#id_157)
 - Kati Hiekkapelto: Kolibri [részletek](../_details/Kati%20Hiekkapelto.md#id_1198)
 - Ken Follett: Az ördög műve [részletek](../_details/Ken%20Follett.md#id_807)

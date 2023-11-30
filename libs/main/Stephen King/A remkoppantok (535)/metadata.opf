@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">25f681bb-d8ba-4318-a713-ccc8e4d18cc2</dc:identifier>
         <dc:title>A rémkoppantók</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1992-02-15T15:24:24+00:00</dc:date>
         <dc:description>Roberta Andersen westernírónő a Haven kisváros peremén fekvő birtokán él visszavonultan. Egy szép napon erdejében sétálva megbotlik egy földből kiálló fémdarabban. Az objektum holmi ráncigálásra meg se moccan: Roberta ásni kezd, és lassacskán kiderül, hogy egy gigantikus, széle, hossza nincs űrhajószerű test rejtőzik a mélyben. Az ásás a szenvedélyévé válik, ami nem csoda – a hajóból áradó sugárzás különös hatással van azokra, akik a bűvkörébe jutnak. Az írónő sorra-rendre elveszti fogait, csillapíthatatlan vérzése támad, öreg kutyájának a szeméről visszahúzódik a hályog, mi több, a hűséges jószág a fiatalodás csalhatatlan jeleit mutatja. Az eleddig műszaki antitalentum Roberta fantasztikus technikai sugallatokra lesz fogékony, de nem csak ő… A fura tárgynak minél nagyobb része szabadul ki a földből, a kisváros annál több lakóján ütnek ki a vészes tünetek.</dc:description>
         <dc:publisher>Európa</dc:publisher>
@@ -20,7 +20,7 @@
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>sci-fi</dc:subject>
         <dc:subject>Szépirodalom</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>novella</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>regény</dc:subject>
@@ -39,7 +39,6 @@
         <dc:subject>író</dc:subject>
         <dc:subject>Kísértet- és rémtörténetek</dc:subject>
         <dc:subject>filmadaptáció</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2013-06-11T20:37:39+00:00"/>
         <meta name="calibre:title_sort" content="rémkoppantók, A"/>

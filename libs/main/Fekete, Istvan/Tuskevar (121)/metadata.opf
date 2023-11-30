@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">eae0632c-f9ff-432c-9586-903902662fee</dc:identifier>
         <dc:title>Tüskevár</dc:title>
         <dc:creator opf:file-as="Fekete, István" opf:role="aut">Fekete, István</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-02-15T11:17:35+00:00</dc:date>
         <dc:description>Egy vakáció története elvenedik meg a regény lapjain, mégpedig egy olyan vakációé, amilyenről minden fiú álmodik. Két pesti diák -Tutajos és Bütyök – a Kis-Balaton sás- és nádrengetegében tölti a szünidőt, Matula Gergelyt, az öreg pákászt bízzák meg a fiúk nevelésével. Gergő bácsi, aki úgy ismeri a nádak, sások, tocsogók és tavak vadregényes vidékét, mint a tenyerét, szárnya alá veszi a városi gyerekeket, és kijáratja velük a természet és valóság nehéz, de sok örömet, igaz élményt tartogató nyári iskoláját. Halászat, vadászat, egy kis híján tragikus kimenetelű nyári vihar, a török időkbeli Tüskevár felfedezése, egy leheletfinoman bontakozó gyerekszerelem – csak úgy rohannak a napok. Mire a vakáció véget ér, a két fiút szinte kicserélték, búcsújuk a berektől fájó, de nem végleges: a téli szünidőben visszajönnek. A két fiú története az író Téli berek című regényében folytatódik.</dc:description>
         <dc:publisher>Móra</dc:publisher>
@@ -17,7 +17,7 @@
         <dc:language>hun</dc:language>
         <dc:subject>magyar szerző</dc:subject>
         <dc:subject>gyermek főszereplő</dc:subject>
-        <dc:subject>elbeszélések</dc:subject>
+        <dc:subject>elbeszélés</dc:subject>
         <dc:subject>természet</dc:subject>
         <dc:subject>Tartalom szerint</dc:subject>
         <dc:subject>Állattörténetek</dc:subject>
@@ -48,7 +48,6 @@
         <dc:subject>Az író származása szerint</dc:subject>
         <dc:subject>Iskolák</dc:subject>
         <dc:subject>illusztrált</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Fekete, István&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Tüskevár"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

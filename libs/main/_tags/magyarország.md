@@ -26,7 +26,6 @@
 - Moldova, György: Kádár János [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_370)
 - Moldova, György: Kegyelemkenyér 1. [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1399)
 - Moldova, György: Magyarország szennybemenetele [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1392)
-- Polcz Alaine: Asszony a fronton [részletek](../_details/Polcz%20Alaine.md#id_1443)
 - Salinger, Richárd: Omyno [részletek](../_details/Salinger%2C%20Rich%C3%A1rd.md#id_522)
 - Szabó, Magda: Mondják meg Zsófikának [részletek](../_details/Szab%C3%B3%2C%20Magda.md#id_1346)
 - Szabó, Magda: Pilátus [részletek](../_details/Szab%C3%B3%2C%20Magda.md#id_1351)

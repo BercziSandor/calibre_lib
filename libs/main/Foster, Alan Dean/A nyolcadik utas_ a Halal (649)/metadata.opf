@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f33578ca-b42a-4420-b4b2-1855b25fdcf5</dc:identifier>
         <dc:title>A nyolcadik utas: a Halál</dc:title>
         <dc:creator opf:file-as="Foster, Alan Dean" opf:role="aut">Foster, Alan Dean</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-02-18T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A ​Nostromo teherszállító űrhajó legénységét felébresztik a hibernációból, hogy megvizsgáljanak egy idegen eredetű rádiójelet, amit a hajót irányító számítógép fogad. Nem sokkal később leszállnak az egyik közeli bolygón, és megtalálják a forrást: egy régóta elhagyott hajót, a rakterében több ezernyi furcsa tojással. Ezek vizsgálata során a felfedezőcsapat egyik tagja szerencsétlen balesetet szenved, így a visszatérésükkor kénytelenek magukkal vinni egy idegen lényt a fedélzetre, aki nem sokkal később a legrettenetesebb félelmeiket megtestesítve elkezd egyesével levadászni mindenkit.&lt;br&gt;A nyolcadik utas: a Halál az 1979-es megjelenését követően a sci-fik egyik alapkövévé vált, Ellen Ripley karakteréből példakép lett. A filmek népszerűsége mindmáig töretlen, számos folytatást forgattak és forgatnak hozzájuk mindmáig, valamint az irodalomban is hatalmas sikert aratott a történet, amelyet további művekkel egészítettek ki és írtak tovább. Alan Dean Foster korabeli regényadaptációja nagyszerűen ragadja meg a filmben lévő izgalmat és rettegést, olyan normákat állítva fel, amiket még ma is követnek a legnagyobb írók. Az olvasó az eredeti regény újraszerkesztett, napjaink nyelvezetéhez és az azóta hatalmas méretűre nőtt Alien-univerzumhoz pontosabban illeszkedő kiadását tartja a kezében.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -24,10 +24,9 @@
         <dc:subject>sci-fi</dc:subject>
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>szörny</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>űropera</dc:subject>
         <dc:subject>űrutazás</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Foster, Alan Dean&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Alien"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

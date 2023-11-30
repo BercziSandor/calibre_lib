@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">0621f08f-23ad-4750-bc06-783307c0133c</dc:identifier>
         <dc:title>Folytassa, Jeeves!</dc:title>
         <dc:creator opf:file-as="Wodehouse, P. G." opf:role="aut">P. G. Wodehouse</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2004-02-22T00:00:00+00:00</dc:date>
         <dc:description>Attól kezdve, hogy Jeeves belép Bertie Wooster életébe, és rendkívül hatékonyan kikúrálja másnaposságából, Bertie el sem tudja képzelni, hogyan is tudott létezni nélküle azelőtt. Jeeves minden téren nélkülözhetetlenné válik: szerencsétlen Bertie-t megszabadítja számtalan nagynénjének karmai közül, valamint a rámenős lányoktól és a hívatlan vendégektől. A csodával határos módon képes mindenkit kihúzni a csávából. Egyszóval Jeeves a komornyikok gyöngye.</dc:description>
         <dc:publisher>Ciceró</dc:publisher>
@@ -21,13 +21,12 @@
         <dc:subject>Anglia</dc:subject>
         <dc:subject>London</dc:subject>
         <dc:subject>illusztrált</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>férfi főszereplő</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>angol</dc:subject>
         <dc:subject>angol humor</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;P. G. Wodehouse&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Jeeves"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>

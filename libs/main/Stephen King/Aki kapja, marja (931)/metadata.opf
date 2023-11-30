@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1e9e8efa-5c72-4ed5-bb73-fee6f5222925</dc:identifier>
         <dc:title>Aki kapja, marja</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-02-20T00:00:00+00:00</dc:date>
         <dc:description>A Mr. ​Mercedes-ben bemutatkozó hősök eklektikus hármasának főszereplésével itt a mesteri, lélegzetelállító folytatás egy olvasóról, aki túlzásba viszi a rögeszmés rajongást egy emberkerülő íróért.
 „Ébresztő, géniusz!” – így kezdődik Stephen King letehetetlen új regénye egy bosszúvágyó olvasóról. Az ébresztő John Rothsteinnek, az ikonikus írózseninek szól, aki megteremtette az imádott és világhírű Jimmy Goldot, de többé már nem publikál. Morris Bellamy pedig őrjöng, nemcsak Rothstein hallgatása miatt, hanem azért is, mert a nonkonformista Jimmy Gold eladta magát a karrierért a reklámszakmában. Morris megöli Rothsteint, és igen, a pénzt is kipakolja a széfjéből, de az igazi kincset azok a noteszok jelentik, amelyekben lehet még legalább egy Gold-regény.
@@ -21,7 +21,7 @@ King a Tortúra óta nem foglalkozott az olvasóval, aki addig bálványozza az 
         <dc:subject>regény</dc:subject>
         <dc:subject>férfi főszereplő</dc:subject>
         <dc:subject>gyilkosság</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>2010-es évek</dc:subject>
         <dc:subject>detektívtörténet</dc:subject>
         <dc:subject>sorozat része</dc:subject>
@@ -29,7 +29,6 @@ King a Tortúra óta nem foglalkozott az olvasóval, aki addig bálványozza az 
         <dc:subject>thiller</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>kortárs</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Bill Hodges"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>

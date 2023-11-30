@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c2f66f78-1bc3-4549-a371-2e50495aaa0b</dc:identifier>
         <dc:title>Mielőtt elalszom</dc:title>
         <dc:creator opf:file-as="Watson, S. J." opf:role="aut">S. J. Watson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Christine minden reggel idegen ágyban ébred fel, egy idegen férfi mellett. Belenéz a tükörbe, és döbbenete tovább fokozódik: egy középkorú nő arca néz vissza rá. Az ágyból időközben előkászálódó férfi minden reggel elmagyarázza neki, hogy ő Ben, a férje, hogy Christine negyvenkét éves, és két évtizeddel ezelőtt egy szörnyű balesetben szerzett fejsérülése miatt képtelen megjegyezni az új emlékeket. Christine mindennap hihetetlen harcot folytat azért, hogy visszaszerezze emlékeit, vagyis rajtuk keresztül önmagát. Kiderül, hogy semmi és senki nem az, mint aminek látszik, így a nyugodt tempójú, visszafogott történet hamar vérbeli thrilleré változik.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -26,10 +26,9 @@
         <dc:subject>filmadaptáció</dc:subject>
         <dc:subject>naplóregény</dc:subject>
         <dc:subject>regény</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>krimi</dc:subject>
         <dc:subject>bűnügyi</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;S. J. Watson&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2016-05-25T07:41:17+00:00"/>
         <meta name="calibre:title_sort" content="Mielőtt elalszom"/>

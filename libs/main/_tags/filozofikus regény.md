@@ -1,5 +1,6 @@
 # filozofikus regény
 
+- Bohumil Hrabal: Házimurik [részletek](../_details/Bohumil%20Hrabal.md#id_445)
 - David Mitchell: Felhőatlasz [részletek](../_details/David%20Mitchell.md#id_454)
 - Dosztojevszkij, Fjodor Mihajlovics: Bűn és bűnhődés [részletek](../_details/Dosztojevszkij%2C%20Fjodor%20Mihajlovics.md#id_346)
 - George Orwell: 1984 [részletek](../_details/George%20Orwell.md#id_364)

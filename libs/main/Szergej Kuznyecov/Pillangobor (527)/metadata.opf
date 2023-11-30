@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c7639d7f-634c-4edc-a888-5a88952d2c8d</dc:identifier>
         <dc:title>Pillangóbőr</dc:title>
         <dc:creator opf:file-as="Kuznyecov, Szergej" opf:role="aut">Szergej Kuznyecov</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-02-20T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;„Napjaink ​legzseniálisabb orosz írója” – Arturo Pérez-Reverte&lt;br&gt;Veszélyes, perverz, sokkolóan orosz.&lt;br&gt;Xenia egy kicsi, de befolyásos online újság szerkesztője. Hogy lenyűgözze főnökét és beindítsa a karrierjét, kockázatos lépésre szánja el magát: nyomába ered a Moszkvát rettegésben tartó kéjgyilkosnak.&lt;br&gt;Egy gondosan megtervezett weboldal segítségével akarja csapdába csalni az ismeretlen tettest. A site rövid idő alatt meglepően népszerűvé válik, és meghozza a várva várt elismerést Xénia számára. Csakhogy a lányt hamarosan teljesen rabul ejti a virtuális valóság, ahol kielégítheti a legvadabb perverzióit is. Hamarosan szembe kell néznie legsötétebb titkával: valójában azért érdekli ennyire az ügy, mert ellenállhatatlanul vonzza a gyilkosságokban megnyilvánuló kegyetlen szexualitás. Egyre inkább az ismeretlen tettes megszállottjává válik, amitől veszélybe kerül a törékeny egyensúly élete két része között. Mindeközben a gyilkos érdeklődése is felébred a lány iránt. &lt;br&gt;A fiatal orosz író sokkoló thrillere hazájában kultuszt teremtett. Kendőzetlenül bemutatja, hogy az online világ szabadsága a legelvetemültebb aberrációknak is teret enged&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -22,8 +22,7 @@
         <dc:subject>orosz</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>kortárs</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Szergej Kuznyecov&quot;: &quot;&quot;}"/>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:rating" content="6"/>
         <meta name="calibre:timestamp" content="2013-06-11T20:30:09+00:00"/>
         <meta name="calibre:title_sort" content="Pillangóbőr"/>

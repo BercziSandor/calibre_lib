@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">8552b44d-ef3f-49b9-b316-19064792493f</dc:identifier>
         <dc:title>Sárkánykönny</dc:title>
         <dc:creator opf:file-as="Fable, Vavyan" opf:role="aut">Fable, Vavyan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2009-02-18T00:00:00+00:00</dc:date>
         <dc:description>Kezdetnek felhívogat. Telefonüzenget. Követ. Leselkedik rád. Meglátogat álmodban. Távollétedben betör hozzád. Tükrödre firkál, ágyadba fekszik, bemocskolja intimebb holmijaidat. Eléggé félsz már? Jól van. Akkor rád kopogtat éjszaka. Ablakaidon, idegeiden xilofonozik. Levelet kapsz tőle. Azt akarja, szeresd őt. Csak őt. Azután öltöztetésedbe fog: harisnyát, cipőt, ruhát küld. Te vagy a menyasszonya! Egy napon majd el is jön érted. Nem az első szerelme vagy. A Yardon tudnak egy másik aráról. Az a lány meghalt, mert nem kért a szörnyeteg szerelméből. A legkülönb zsaru vigyáz rád? Na és? Attól még nyugodtan halálfélhetsz. Vagy pedig derítsd ki hamar, kicsoda ő. Végtére is, pszichológus vagy. Légy trükkösebb, gyorsabb nála. Igyekezz! Az Idült már kitűzte bizarr kézfogótok dátumát!</dc:description>
         <dc:publisher>Fabyen</dc:publisher>
@@ -21,8 +21,8 @@
         <dc:subject>magyar szerző</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>romantikus</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Fable, Vavyan&quot;: &quot;https://hu.wikipedia.org/wiki/Vavyan_Fable&quot;}"/>
+        <dc:subject>thriller</dc:subject>
+        <meta name="calibre:link_maps" content="{&quot;authors&quot;: {&quot;Fable, Vavyan&quot;: &quot;https://hu.wikipedia.org/wiki/Vavyan_Fable&quot;}}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2018-03-27T09:43:53+00:00"/>
         <meta name="calibre:title_sort" content="Sárkánykönny"/>

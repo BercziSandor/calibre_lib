@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">7e04eb4e-92b6-47f1-bc6e-dc807a25b085</dc:identifier>
         <dc:title>A bolygó neve: Halál</dc:title>
         <dc:creator opf:file-as="Foster, Alan Dean" opf:role="aut">Foster, Alan Dean</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-02-18T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Miután visszatért a Földre, Ellen Ripley megtudja, hogy létrehoztak egy telepesekből álló kolóniát az LV-426-on, azon a bolygón, ahol a Nostromo legénysége találkozott az idegenekkel. Nemrég ráadásul megszűnt velük a rádiókapcsolat, ezért most egy tengerészgyalogos egység kíséretében visszatér, hogy kiderítse mi történt… és szembenézzen a szörnyetegekkel, akik mindennél többen vannak, és akiknek még mindig lételemük a pusztítás.&lt;br&gt;A bolygó neve: Halált 1986-ban mutatták be a mozik, és a mérföldkőnek számító előd méltó folytatása lett. Az olvasó az eredeti regény újrafordított, napjaink nyelvezetéhez és az azóta hatalmas méretűre nőtt Alien-univerzumhoz pontosabban illeszkedő kiadását tartja a kezében.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -26,9 +26,8 @@
         <dc:subject>sci-fi</dc:subject>
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>szörny</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>űrutazás</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Foster, Alan Dean&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Alien"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>

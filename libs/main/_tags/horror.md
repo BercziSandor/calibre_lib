@@ -60,6 +60,7 @@
 - Stephen King: Christine [részletek](../_details/Stephen%20King.md#id_551)
 - Stephen King: Csipkerózsikák [részletek](../_details/Stephen%20King.md#id_1204)
 - Stephen King: Csontkollekció [részletek](../_details/Stephen%20King.md#id_571)
+- Stephen King: Danse macabre [részletek](../_details/Stephen%20King.md#id_930)
 - Stephen King: Duma Key [részletek](../_details/Stephen%20King.md#id_554)
 - Stephen King: Ezüst pisztolygolyók [részletek](../_details/Stephen%20King.md#id_572)
 - Stephen King: Lisey története [részletek](../_details/Stephen%20King.md#id_546)

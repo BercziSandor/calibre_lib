@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">88732087-e206-4e21-ba98-b3f9c1afdcb9</dc:identifier>
         <dc:title>A Moszad ügynöke és az oligarcha</dc:title>
         <dc:creator opf:file-as="Silva, Daniel" opf:role="aut">Daniel Silva</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-02-22T00:00:00+00:00</dc:date>
         <dc:description>Gabriel ​Allon, az izraeli szuperkém legyőzte a világ legveszélyesebb emberét, az orosz oligarchát, Ivan Harkovot. De elkövetett egy hibát: életben hagyta…
 Mikor Grigorij Bulganov orosz dezertőr, aki egykor megmentette Gabriel életét, nyomtalanul eltűnik, a Moszad első számú ügynöke újra akcióba lép.
@@ -26,9 +26,8 @@ Daniel Silva, napjaink talán legnépszerűbb thrillerszerzője, feledhetetlen k
         <dc:subject>Moszad</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>sorozat része</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>titkosszolgálat</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Daniel Silva&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Gabriel Allon"/>
         <meta name="calibre:series_index" content="9"/>
         <meta name="calibre:rating" content="8"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a8f540b4-2561-4b75-a754-0e6f30a405ab</dc:identifier>
         <dc:title>A bárányok hallgatnak</dc:title>
         <dc:creator opf:file-as="Harris, Thomas" opf:role="aut">Thomas Harris</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-02-18T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Pszichopata sorozatgyilkos tartja rettegésben és izgalomban az FBI viselkedéstudományi részlegét. „Buffalo Bill” az áldozatul ejtett fiatal nőket megnyúzza, hogy bőrükből hódító ruhát készítsen magának. Férfi létére gyönyörű nő akar lenni – mint hajdan a mama volt…&lt;br&gt;Különös névjegyet hagy áldozatai torkában: az átváltozás jelképét, a hátborzongatóan csodálatos Halálfejes pillangó gubóját…&lt;br&gt;Csak egy másik gyilkos, az elmegyógyintézetben őrzött zseniális pszichiáter, Lecter doktor segíthet: egyedül ő ismeri „Buffalo Bill” és a Halálfejes pillangó titkát…&lt;br&gt;Fog-e beszélni Lecter? Ha igen, mikor és kinek?&lt;br&gt;Az idő sürget – a következő áldozat már a gyilkos fogságában várja a szörnyű halált…&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -17,7 +17,7 @@
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>börtön</dc:subject>
         <dc:subject>Bram Stoker-díj</dc:subject>
-        <dc:subject>drámai cselekmény</dc:subject>
+        <dc:subject>dráma</dc:subject>
         <dc:subject>felnőtt tartalom</dc:subject>
         <dc:subject>filmadaptáció</dc:subject>
         <dc:subject>gyilkosság</dc:subject>
@@ -31,10 +31,9 @@
         <dc:subject>regény</dc:subject>
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>sorozatgyilkosság</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>Irodalom</dc:subject>
         <dc:subject>Szórakoztató irodalom</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Thomas Harris&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Hannibal"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="10"/>

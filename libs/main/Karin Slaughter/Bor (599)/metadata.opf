@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d0b79803-c345-4898-9faa-6c7c8777a24d</dc:identifier>
         <dc:title>Bőr</dc:title>
         <dc:creator opf:file-as="Slaughter, Karin" opf:role="aut">Karin Slaughter</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Karin ​Slaughter, a Nadragulya, a Sebek, a Hitetlen szerzője nő létére ezúttal is igen kemény, sokkoló krimit írt. Női szereplői – Sara Linton doktornő, akinek éppen egy műhibapert akasztanak a nyakába, és Lena Adams nyomozó, aki azt szeretné megtudni, hogyan is halt meg az édesanyja és az ikertestvére, Sibyl – szintén kemény asszonyok. Sara férjét és Lena kollégáját, Jeffrey Tolliver nyomozót pedig még keményebb fából faragták.&lt;br&gt;A helyszín egy amerikai kisváros, amelyet akár jelentéktelennek is mondhatnánk, ha nem lenne a bűn, a korrupció, a maffia, a drogkereskedelem, sőt a neonáci eszmék gyújtópontja.&lt;br&gt;Az igazságot egy szörnyű gyilkosságról, amelyben egy fiatal nőt felgyújtottak egy autóban, az új, fiatal seriff próbálja kideríteni, közösen Jeffrey-vel, akit mindenhová elkísér a felesége, Sara – bár ne tenné!&lt;br&gt;Ki áll a jó oldalon, és ki a rosszon? Mi történt a drogfüggő Hankkel, az ikerlányok, Lena és Sibyl nagybátyjával, aki felnevelte őket az anyjuk helyett? És egyáltalán: mi történt az anyával?&lt;br&gt;Természetesen a hátborzongatóan izgalmas történet végén mindenre fény derül, ám a befejezés olyasmit tartogat, amire senki nem számít.&lt;br&gt;„A krimiirodalom csúcsa” – Michael Connelly&lt;br&gt;„Karin Slaughter – a rettegés új szinonimája” – Detroit Free Press&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -25,8 +25,7 @@
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>krimi</dc:subject>
         <dc:subject>bűnügyi</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Karin Slaughter&quot;: &quot;&quot;}"/>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:series" content="Grant County"/>
         <meta name="calibre:series_index" content="6"/>
         <meta name="calibre:rating" content="8"/>

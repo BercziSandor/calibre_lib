@@ -5,18 +5,18 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">30a6aa7e-5dde-447b-a5e9-89b21bb84855</dc:identifier>
         <dc:title>A birodalom</dc:title>
         <dc:creator opf:file-as="Nesbø, Jo" opf:role="aut">Jo Nesbø</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-08-26T22:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Az autószerelő Roy békés, egyszerű életet él tanyáján, és egy benzinkutat üzemeltet a közeli faluban. Amikor öccse, Carl hosszú idő után hazatér külföldről, nemcsak barbadosi feleségét, Shannont hozza magával, hanem egy magashegyi wellnesshotel terveit is, amely reményei szerint majd felpezsdíti a környék életét. Roy birodalmának nyugalmát felkavarják a vendégek, és a testvérek gyerekkorából sötét titkok törnek a felszínre. Ráadásul a helyi rendőr szimatolni kezd saját apja évekkel ezelőtti eltűnése után, amely valószínűleg összefügg a fiúk szüleinek tragikus halálával. Roy mindig védelmezte öccsét, de egymás iránti lojalitásukat ezúttal próbára teszi a pénzsóvárság és a gyanakvás. A férfinak el kell döntenie, meddig hajlandó elmenni azért, hogy továbbra is megóvja Carlt, és azzal is szembe kell néznie, hogy Shannonhoz talán nem csupán rokoni érzések fűzik. Vajon a lassan feltáruló titkok elszakítják a testvérek közötti köteléket? &lt;/p&gt;
 &lt;p&gt;A birodalom sötét és magával ragadó thriller a hűségről, a szeretetről, a féltékenységről és a becsvágyról.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>+</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">b1478f0a-56c6-4e23-b74e-ed722c4e7c6a</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9789633247938</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">55696888</dc:identifier>
         <dc:identifier opf:scheme="MOLY_HU">jo-nesbo-a-birodalom</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">55696888</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789633247938</dc:identifier>
         <dc:language>hun</dc:language>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <dc:subject>Crime</dc:subject>
         <dc:subject>Mystery</dc:subject>
         <dc:subject>Suspense</dc:subject>

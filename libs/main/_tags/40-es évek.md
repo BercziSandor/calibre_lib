@@ -1,3 +1,3 @@
-# 40-Es évek
+# 40-es évek
 
 - Arthur Golden: Egy gésa emlékiratai [részletek](../_details/Arthur%20Golden.md#id_280)

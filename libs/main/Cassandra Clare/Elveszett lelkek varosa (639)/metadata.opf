@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3b05c639-4d43-40df-baaf-e2e82456dd47</dc:identifier>
         <dc:title>Elveszett lelkek városa</dc:title>
         <dc:creator opf:file-as="Clare, Cassandra" opf:role="aut">Cassandra Clare</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-02-17T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Mi az az ár, ami még a szerelemért is túl magas? Amikor Jace és Clary ismét találkoznak, a lány elborzadva tapasztalja, hogy szerelmét és gonosz bátyját Lilith varázslata egymáshoz köti. A Klávé célja megölni Sebastiant, de lehetetlen anélkül végezni az egyik fiúval, hogy a másiknak ne essék bántódása. Alec, Magnus, Simon és Isabelle tündérekkel, démonokkal meg a könyörtelen Vasnővérekkel alkudozik, Clary pedig veszélyes játszmába kezd. A tét nem csak a saját élete, de Jace lelke is egyben. De bízhat-e még a fiúban egyáltalán?&lt;br&gt;Szerelem. Vér. Árulás. Bosszú. A Végzet Ereklyéi lélegzetelállító ötödik darabjában közelítő sötétség fenyegeti az árnyvadászokat.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -15,7 +15,7 @@
         <dc:identifier opf:scheme="MOLY_HU">cassandra-clare-elveszett-lelkek-varosa</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>21. század</dc:subject>
-        <dc:subject>Amerikai Egyesült Államok</dc:subject>
+        <dc:subject>USA</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>angyal</dc:subject>
         <dc:subject>barátság</dc:subject>
@@ -34,7 +34,6 @@
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>testvérek</dc:subject>
         <dc:subject>tévésorozat-adaptáció</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Cassandra Clare&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="A Végzet Ereklyéi"/>
         <meta name="calibre:series_index" content="5"/>
         <meta name="calibre:rating" content="10"/>

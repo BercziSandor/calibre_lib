@@ -10,19 +10,19 @@
         <dc:description>&lt;div&gt;
 &lt;p&gt;"- A nevem Hercule Poirot, és valószínűleg én vagyok a világ legnagyobb detektívje. Egészen biztos benne, hogy nem találkozott a feleségével a vonaton?&lt;br&gt;- Mire akar kilyukadni? Azt akarja... azt akarja mondani, hogy én... én öltem meg?&lt;br&gt;Hirtelen fölnevetett.&lt;br&gt;- Nem szabad dühbe jönnöm, ahhoz ez túl nyilvánvaló képtelenség! Hiszen ha én öltem volna meg, minek kellett volna ellopnom az ékszereit?&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Magvető</dc:publisher>
-        <dc:identifier opf:scheme="MOBI-ASIN">5abb9525-772c-4057-9cbc-bb5f62545ebc</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">19351059</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">5abb9525-772c-4057-9cbc-bb5f62545ebc</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>Mystery</dc:subject>
         <dc:subject>Crime</dc:subject>
         <dc:subject>Classics</dc:subject>
-        <dc:subject>Thriller</dc:subject>
+        <dc:subject>thriller</dc:subject>
         <meta name="calibre:series" content="Hercule Poirot"/>
         <meta name="calibre:series_index" content="6"/>
         <meta name="calibre:rating" content="6"/>
-        <meta name="calibre:timestamp" content="2023-11-24T16:13:34.237353+00:00"/>
+        <meta name="calibre:timestamp" content="2023-11-24T16:13:34+00:00"/>
         <meta name="calibre:title_sort" content="titokzatos Kék Vonat, A"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;MOBI&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>
