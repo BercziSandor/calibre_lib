@@ -39,6 +39,8 @@
 - Mark A Gabriel: Islam and Terrorism (Revised and Updated Edition): The Truth About ISIS, the Middle East and Islamic Jihad [részletek](../_details/Mark%20A%20Gabriel.md#id_906)
 - Michael Crichton: A Gömb [részletek](../_details/Michael%20Crichton.md#id_753)
 - Michael Crichton: Kongó [részletek](../_details/Michael%20Crichton.md#id_756)
+- Neil Gaiman: American Gods: The Tenth Anniversary Edition: A Novel [részletek](../_details/Neil%20Gaiman.md#id_1809)
+- Neil Gaiman: Coraline [részletek](../_details/Neil%20Gaiman.md#id_1811)
 - Rejtő, Jenő: A drótnélküli gyilkosság [részletek](../_details/Rejt%C5%91%2C%20Jen%C5%91.md#id_127)
 - Rejtő, Jenő: Egy bolond száz bajt csinál [részletek](../_details/Rejt%C5%91%2C%20Jen%C5%91.md#id_140)
 - Terry Pratchett: Erik [részletek](../_details/Terry%20Pratchett.md#id_699)

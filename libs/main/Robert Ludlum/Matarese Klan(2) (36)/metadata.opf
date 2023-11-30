@@ -5,10 +5,9 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d03b4a39-8299-41d9-b799-a6d866af8689</dc:identifier>
         <dc:title>Matarese Klán(2)</dc:title>
         <dc:creator opf:file-as="Ludlum, Robert" opf:role="aut">Robert Ludlum</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>hun</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Robert Ludlum&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Matarese Klán"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:timestamp" content="2012-11-13T14:29:53+00:00"/>

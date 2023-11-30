@@ -2,7 +2,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/John%20Nada/Ebresztofilm%20%281033%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/John%20Nada/Ebresztofilm%20%281033%29/Ebresztofilm%20%28Wake%20up%20call%29%20-%20John%20Nada.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/John%20Nada/Ebresztofilm%20%281033%29/Ebresztofilm%20-%20John%20Nada.epub)
 
 ### Tagek
 [összeesküvés-elmélet](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/%c3%b6sszeesk%c3%bcv%c3%a9s-elm%c3%a9let.md)

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">7beb2d52-e687-4e9b-be28-87dbda3e69ff</dc:identifier>
         <dc:title>Gergő és a táltosviadal</dc:title>
         <dc:creator opf:file-as="Böszörményi, Gyula" opf:role="aut">Böszörményi, Gyula</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-07-01T22:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Mélységesen ​téved, aki azt hiszi, hogy a 2-es metrót felújítás miatt zárták le a nyáron. A rég elfeledett tündérvilág képviselői okoznák zavart a különböző állomásokon: az általuk megszállt emberek rengeteg galibát okoznak. A sámántanoncokra vár a feladat, hogy rendet teremtsenek. Csakhogy az Álomvilág nagy bajban van. Nem működik a Világfa, bezárultak az Ébredés Ajtajai. Amikor Gergő az éberek világát felforgató tündérek nyomába ered, az Álomvilágban reked. Két tündér társaságában utazik a Világfán, hogy megtalálja Kende táltost, és visszajusson a valóságba.&lt;br&gt;A magyar és kelta mitológia bájos keveredésével türdérfiak, tündérlányok, francok, leprikónok és más aprónép segíti és akadályozza hőseinket. Az immár sámánná és valódi bűbájossá érő Gergő és Zsófi feladata, hogy megmentse a világot, segítsen Kende táltósnak megszabadulni lelke sötét felétől, és az Égi Atyácska trónusa elé járulni a Göncöl szekerén. A két főszereplő most teszi meg az első lépéseit a felnőtté válás felé, megismerkednek a halállal, az elmúlással, a csalódással és a szerelemmel.&lt;br&gt;A nagy sikerű Gergő és az álomfogók sorozat újabb darabja, a Gergő és a táltosviadal ugyanolyan fordulatos, humoros, izgalmas, mint az első két kötet, azonban a szerző – mint mindig – most is egy sor szokatlan fordulattal kedveskedik olvasóinak. A Gergő és az álomfogók világának rajongói most se fognak csalódni.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -14,7 +14,6 @@
         <dc:identifier opf:scheme="ISBN">9789632458106</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">a68237b8-18a5-4749-b6aa-161a143cdade</dc:identifier>
         <dc:language>hun</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Böszörményi, Gyula&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Gergő-regények"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="10"/>

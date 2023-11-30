@@ -172,6 +172,20 @@ A ​XVI. és XVII. századi Franciaországot, a hugenották viharos, vérzivata
 A ​Francia história e tizenharmadik s egyben utolsó kötete hiszen Robert Merle immár nincs köztünk – a francia történelem 1635 és 1661 közötti évtizedeit öleli fel: viharos és dicsőséges korszakot, hiszen ez idő alatt, 1638-ban jön a világra a rég várt trónörökös, a nép által „Istenadtának” nevezett majdani XIV. Lajos, a Napkirály, s a könyv azzal ér véget, hogy legfőbb tanácsosa, Mazarin bíboros halála után a fiatal uralkodó bejelenti: ezentúl nem tart igényt főminiszterre, s országa dolgait egyeduralkodóként maga kívánja irányítani. Addig azonban atyja, XIII. Lajos s a maga útját részben a spanyolok s az osztrákok elleni állandó háborúskodás – megannyi fényes győzelem és csüggesztő vereség – s az összeesküvések végeláthatatlan sora bonyolítja. Az utóbbiak élén hol a király örökkön intrikáló, hatalomvágyó öccse, Gaston, hol maga a királyné, a szépséges, de spanyol atyafiságához a kelleténél hűségesebb Ausztriai Anna áll, de fellázad királya ellen a fő kegyenc, Cinq-Mars is; az ő árulása és kivégzése a regény egyik látványos csúcspontja. A királyi hatalom legfőbb támasza az egymást követő két bíboros-főminiszter, Richelieu és Mazarin; tevékenységük bepillantást enged a politika ma sem tanulságok nélküli boszorkánykonyhájába. Szimbolikus jelentőségű, hogy a két nagy államépítő, Richelieu és XIII. Lajos egyazon évben hunyja le szemét. A narrátor és a kalandos cselekmény egyik fő mozgatója most is kedves hősünk, Orbieu hercege, aki szenvedélyes királyhűségének, valamint nyelvtudásának és diplomáciai érzékének hála számos kényes küldetésben áll helyt, de azért gáláns kalandokra is jut ideje. Igaz, hogy közben furdalja a lelkiismeret, hiszen minden vágya, hogy szerelmes és féltékeny Catherine-ja oldalán hűséges férj és példás családapa legyen. A viharos és drámai eseményekben gazdag történet megannyi jellegzetes, színes figurát vonultat fel, és érzékletesen varázsolja elénk a világtörténelem egy páratlanul izgalmas fejezetét.
 
 
+# <a name="id_1803">Robert Merle: Mesterségem a halál (1951)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Mestersegem%20a%20halal%20%281803%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Mestersegem%20a%20halal%20%281803%29/Mestersegem%20a%20halal%20-%20Robert%20Merle.epub)
+
+### Tagek
+[history](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/history.md), [war](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/war.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/classics.md), [biography](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/biography.md)
+
+### Összefoglalás
+<div>
+<p>A nácizmus s egyben a huszadik század egyik legrejtélyesebb figurája a becsületes, nyílt tekintetű, kék szemű, német családapa, aki pedáns tisztviselő módjára elvégzi munkáját a haláltáborban, majd hazamegy, és példás családi életet él. Hogyan lehetséges? Sokan próbáltak már felelni erre a kérdésre, de nem lehet: egyszerűen felfoghatatlan. Merle a legrégibb, legegyszerűbb írói módszert választja: egyes szám első személyben, belülről ábrázolja a táborparancsnokot kamaszkorától kezdve. És az olvasó egyszer csak azon kapja magát, hogy már maga is tervezget, számol, gondolkozik, hogyan lehetne ésszerűbben, hatékonyabban megszervezni a transzportok mozgatását, hogyan lehetne megduplázni az üzem napi termelését. Annyira azonosul a főhőssel, hogy a Feladat teljesítése közben elfeledkezik róla, hogy miről is van szó. S ha nem csapja falhoz dühében a könyvet, akkor rájön, hogyan lehetséges: hát így. Ennyi az egész. Ez ennek a könyvnek a legelképesztőbb tanulsága.</p></div>
+
+
 # <a name="id_331">Robert Merle: Két nap az élet (1961)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Ket%20nap%20az%20elet%20%28331%29/cover.jpg" alt="cover" width="300"/>
 

@@ -21,6 +21,8 @@
 
 
 # <a name="id_747">Vonnegut, Kurt: Beszámoló a Barnhouse-effektusról </a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vonnegut%2C%20Kurt/Beszamolo%20a%20Barnhouse-effektusrol%20%28747%29/cover.jpg" alt="cover" width="300"/>
+
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vonnegut%2C%20Kurt/Beszamolo%20a%20Barnhouse-effektusrol%20%28747%29/Beszamolo%20a%20Barnhouse-effektusr%20-%20Vonnegut%2C%20Kurt.epub) 
  [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vonnegut%2C%20Kurt/Beszamolo%20a%20Barnhouse-effektusrol%20%28747%29/Beszamolo%20a%20Barnhouse-effektusr%20-%20Vonnegut%2C%20Kurt.rtf)

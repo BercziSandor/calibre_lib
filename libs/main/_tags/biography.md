@@ -7,4 +7,5 @@
 - Gerald Durrell: Vadak a vadonban [részletek](../_details/Gerald%20Durrell.md#id_866)
 - Vonnegut, Kurt: Halálnál is rosszabb [részletek](../_details/Vonnegut%2C%20Kurt.md#id_1628)
 - Vonnegut, Kurt: Virágvasárnap [részletek](../_details/Vonnegut%2C%20Kurt.md#id_1627)
+- Robert Merle: Mesterségem a halál [részletek](../_details/Robert%20Merle.md#id_1803)
 - Wass, Albert: A titokzatos őzbak [részletek](../_details/Wass%2C%20Albert.md#id_202)

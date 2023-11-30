@@ -27,7 +27,7 @@
 - Ljudmila Ulickaja: Médea és gyermekei [részletek](../_details/Ljudmila%20Ulickaja.md#id_1293)
 - Mario Puzo: A Keresztapa [részletek](../_details/Mario%20Puzo.md#id_283)
 - Náray, Tamás: Zarah [részletek](../_details/N%C3%A1ray%2C%20Tam%C3%A1s.md#id_1234)
-- Neil Gaiman: Coraline (angol) [részletek](../_details/Neil%20Gaiman.md#id_1431)
+- Neil Gaiman: Coraline [részletek](../_details/Neil%20Gaiman.md#id_1431)
 - Neil Gaiman: Óceán az út végén [részletek](../_details/Neil%20Gaiman.md#id_1433)
 - Orvos-Tóth, Noémi: Örökölt sors [részletek](../_details/Orvos-T%C3%B3th%2C%20No%C3%A9mi.md#id_1290)
 - Rachel Vincent: Stray – Kóborok [részletek](../_details/Rachel%20Vincent.md#id_428)

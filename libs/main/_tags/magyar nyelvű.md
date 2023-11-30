@@ -585,6 +585,7 @@
 - Neil Gaiman: Csillagpor [részletek](../_details/Neil%20Gaiman.md#id_886)
 - Neil Gaiman: Északi mitológia [részletek](../_details/Neil%20Gaiman.md#id_1435)
 - Neil Gaiman: Felkavaró tartalom [részletek](../_details/Neil%20Gaiman.md#id_976)
+- Neil Gaiman: Kilátás az erkélyről [részletek](../_details/Neil%20Gaiman.md#id_1812)
 - Neil Gaiman: Sosehol [részletek](../_details/Neil%20Gaiman.md#id_222)
 - Neil Gaiman: Törékeny holmik [részletek](../_details/Neil%20Gaiman.md#id_1436)
 - Neil Gaiman: Tükör és füst [részletek](../_details/Neil%20Gaiman.md#id_1434)

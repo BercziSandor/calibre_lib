@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f9c54def-0ffd-4685-a460-a4e868a664cc</dc:identifier>
         <dc:title>Monyákos Tuba a Lidérc Árvák Fészkében</dc:title>
         <dc:creator opf:file-as="Böszörményi, Gyula" opf:role="aut">Böszörményi, Gyula</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2007-07-01T22:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Gergő és az álomfogók története lezárult – Monyákos Tubáé azonban csak most kezdődik el! Mit tegyen a lidérc, ha az igázgatására bízott intézetbe egy csúf napon beutalják a varázstörténelem eddigi legveszedelmesebb bűnözőjét? Mit tegyen, ha ez az elvetemült alak csupán 15 éves, és ráadásul éber, azaz látszólag tökéletesen varázstalan ember? Kínos helyzet, különösen, mivel az Igázóba – Igencsak Gondverte Álomlények Zártosztályi Óvhelye, mely valójában egyszerre börtön és nevelőintézet – eleddig még egyszer sem utaltak be embergyereket. A komor falak között akadnak zsebtolvaj lidércek, álomcsempész gnómok,csalásért leültetett mit-mit-kék, s ez így is van rendjén. Monyákos Tuba, a bölcs főigázgató látszólag lehetetlenre vállalkozik, mikor az elvetemült embergyereket a gondjaiba veszi. Módszere különös és szokatlan: úgy dönt, hogy elmeséli neki élete történetét – hátha az éber kölyök okul belőle.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -13,13 +13,12 @@
         <dc:identifier opf:scheme="ISBN">9789632458168</dc:identifier>
         <dc:identifier opf:scheme="MOLY_HU">boszormenyi-gyula-monyakos-tuba-a-liderc-arvak-feszkeben</dc:identifier>
         <dc:language>hun</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Böszörményi, Gyula&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Monyákos Tuba-történetek"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2022-07-02T17:46:42+00:00"/>
         <meta name="calibre:title_sort" content="Monyákos Tuba a Lidérc Árvák Fészkében"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

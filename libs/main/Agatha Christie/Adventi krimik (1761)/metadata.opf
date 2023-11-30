@@ -11,20 +11,18 @@
 &lt;p&gt;Egy bögre forró tea, egy puha takaró és egy kötetre való Agatha Christie-novella. Mi más kell még a téli estékre, amikor egyre rövidebbek a nappalok és sötétebbek az éjszakák? &lt;/p&gt;
 &lt;p&gt;Tomboló hóviharok, veszélyes ajándékok, méreg a portóiban és egy váratlan látogató... Ezekben az advent és újév között játszódó novellákban Agatha Christie minden híres nyomozójával találkozhatunk. Miss Marple egy gyógyszállóban tölti a karácsonyt, Hercule Poirot vidéken, Parker Pyne Mallorcán, Mr. Quin és Mr. Satterthwaite egy kastélyban, Tommy és Tuppence pedig egy vidéki fogadóban - a nyomukban pedig ott jár a halál...&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Helikon</dc:publisher>
-        <dc:identifier opf:scheme="MOBI-ASIN">d358e349-ea1a-40e0-98d8-4df95779d6a7</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9789634795797</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">56160488</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">d358e349-ea1a-40e0-98d8-4df95779d6a7</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>Mystery</dc:subject>
         <dc:subject>Classics</dc:subject>
         <dc:subject>Crime</dc:subject>
         <dc:subject>Adult</dc:subject>
-        <dc:subject>820-32=945.11</dc:subject>
-        <dc:subject>(UDC/ETO)</dc:subject>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-11-24T16:23:20.599357+00:00"/>
+        <meta name="calibre:timestamp" content="2023-11-24T16:23:20+00:00"/>
         <meta name="calibre:title_sort" content="Adventi krimik"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;MOBI&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

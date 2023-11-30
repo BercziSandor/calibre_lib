@@ -81,6 +81,8 @@ A tudományos világban általánosan elterjedt vélemény szerint még évek ke
 
 
 # <a name="id_36">Robert Ludlum: Matarese Klán(2) (Matarese Klán 2) </a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Matarese%20Klan%282%29%20%2836%29/cover.jpg" alt="cover" width="300"/>
+
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Matarese%20Klan%282%29%20%2836%29/Matarese%20Klan%282%29%20-%20Robert%20Ludlum.epub)
 

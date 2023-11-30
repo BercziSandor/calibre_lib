@@ -10,5 +10,5 @@
 - Frank Herbert: Dune [részletek](../_details/Frank%20Herbert.md#id_182)
 - J. K. Rowling: Harry Potter és a Tűz Serlege [részletek](../_details/J.%20K.%20Rowling.md#id_21)
 - Neil Gaiman: A temető könyve [részletek](../_details/Neil%20Gaiman.md#id_1424)
-- Neil Gaiman: Coraline (angol) [részletek](../_details/Neil%20Gaiman.md#id_1431)
+- Neil Gaiman: Coraline [részletek](../_details/Neil%20Gaiman.md#id_1431)
 - Neil Gaiman: Törékeny holmik [részletek](../_details/Neil%20Gaiman.md#id_1436)

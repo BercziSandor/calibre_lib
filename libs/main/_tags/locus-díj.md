@@ -8,5 +8,5 @@
 - J. R. R. Tolkien: A szilmarilok [részletek](../_details/J.%20R.%20R.%20Tolkien.md#id_60)
 - Neil Gaiman: A temető könyve [részletek](../_details/Neil%20Gaiman.md#id_1424)
 - Neil Gaiman: Anansi fiúk [részletek](../_details/Neil%20Gaiman.md#id_1432)
-- Neil Gaiman: Coraline (angol) [részletek](../_details/Neil%20Gaiman.md#id_1431)
+- Neil Gaiman: Coraline [részletek](../_details/Neil%20Gaiman.md#id_1431)
 - Neil Gaiman: Óceán az út végén [részletek](../_details/Neil%20Gaiman.md#id_1433)

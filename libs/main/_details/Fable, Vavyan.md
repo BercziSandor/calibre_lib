@@ -214,6 +214,8 @@ eszközön történő túlutazás, továbbá családelhanyago­lás okozta káro
 
 
 # <a name="id_1162">Fable, Vavyan: Nászjelentés 2. (Nászjelentés 2) (2003)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fable%2C%20Vavyan/Naszjelentes%202_%20%281162%29/cover.jpg" alt="cover" width="300"/>
+
 ### Letöltés
 [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fable%2C%20Vavyan/Naszjelentes%202_%20%281162%29/Naszjelentes%202_%20-%20Fable%2C%20Vavyan.rtf)
 
@@ -414,7 +416,6 @@ Mesélőkönyv szabadságról és szerelemről, harcosokkal, tündérekkel, var�
 A Világ Lelke legyen velünk.
 
 
-# <a name="id_1147">Fable, Vavyan: Hajsza </a>
 # <a name="id_803">Fable, Vavyan: My fair lord (1995)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fable%2C%20Vavyan/My%20fair%20lord%20%28803%29/cover.jpg" alt="cover" width="300"/>
 

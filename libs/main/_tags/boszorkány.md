@@ -21,7 +21,7 @@
 - J. K. Rowling: Harry Potter és az elátkozott gyermek [részletek](../_details/J.%20K.%20Rowling.md#id_1459)
 - L. M. Montgomery: Az arany út [részletek](../_details/L.%20M.%20Montgomery.md#id_491)
 - Mihail Bulgakov: A Mester és Margarita [részletek](../_details/Mihail%20Bulgakov.md#id_275)
-- Neil Gaiman: Coraline (angol) [részletek](../_details/Neil%20Gaiman.md#id_1431)
+- Neil Gaiman: Coraline [részletek](../_details/Neil%20Gaiman.md#id_1431)
 - Neil Gaiman: Csillagpor [részletek](../_details/Neil%20Gaiman.md#id_886)
 - Pasquale Festa Campanile: A szerelmes boszorkány [részletek](../_details/Pasquale%20Festa%20Campanile.md#id_975)
 - Philip Pullman: Északi fény [részletek](../_details/Philip%20Pullman.md#id_1219)

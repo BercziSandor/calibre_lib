@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">626e9ba4-0492-4df4-b523-117538061ca6</dc:identifier>
         <dc:title>Csata a labirintusban</dc:title>
         <dc:creator opf:file-as="Riordan, Rick" opf:role="aut">Rick Riordan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-03-05T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Percy Jackson semmi jót nem várt az iskolai nyílt naptól, de amikor titokzatos halandó ismerőse után két pomponlánydémonnal is találkozik, a dolgok még a vártnál is rosszabbra fordulnak. A sikersorozat negyedik kötetében már a küszöbön áll az olimposziak és a Titán isten közötti háború. Még az eddig biztonságos menedéknek számító Félvér Tábor is sebezhetőnek bizonyul, amikor Kronosz és hadserege megpróbál varázshatárán belülre kerülni. Hogy a támadásnak elejét vegyék, Percy és félisten barátai egy küldetésre indulnak a Labirintusba - a hatalmas, föld alatti világba, ami minden fordulóban újabb vérfagyasztó meglepetést tartogat számukra.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -25,8 +25,6 @@
         <dc:subject>kalandregény</dc:subject>
         <dc:subject>gyermek- és ifjúsági irodalom</dc:subject>
         <dc:subject>Fantasy</dc:subject>
-        <dc:subject>2011</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Rick Riordan&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Percy Jackson és az olimposziak"/>
         <meta name="calibre:series_index" content="4"/>
         <meta name="calibre:rating" content="8"/>

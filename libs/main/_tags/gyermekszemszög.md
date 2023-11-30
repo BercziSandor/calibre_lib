@@ -15,7 +15,7 @@
 - L. M. Montgomery: Anne otthonra talál [részletek](../_details/L.%20M.%20Montgomery.md#id_488)
 - L. M. Montgomery: Az arany út [részletek](../_details/L.%20M.%20Montgomery.md#id_491)
 - Michael Ende: A végtelen történet [részletek](../_details/Michael%20Ende.md#id_353)
-- Neil Gaiman: Coraline (angol) [részletek](../_details/Neil%20Gaiman.md#id_1431)
+- Neil Gaiman: Coraline [részletek](../_details/Neil%20Gaiman.md#id_1431)
 - Neil Gaiman: Óceán az út végén [részletek](../_details/Neil%20Gaiman.md#id_1433)
 - Polcz, Alaine: Meghalok én is? [részletek](../_details/Polcz%2C%20Alaine.md#id_1441)
 - Stephen King: Az [részletek](../_details/Stephen%20King.md#id_555)

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3be843ae-045b-4a9f-9e2e-e4923dc78a6c</dc:identifier>
         <dc:title>Bitó és borostyán</dc:title>
         <dc:creator opf:file-as="Böszörményi, Gyula" opf:role="aut">Böszörményi, Gyula</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-07-14T22:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;1900. december 10., este. &lt;br&gt;A Keleti indóházból útra kel az 502-es Budapest–Predeal–Bukarest vonalon közlekedő éjszakai járat, hálókocsijában a híres magánzó detektív, Ambrózy báró tanítványával, Hangay Mili kisasszonnyal, akit szigorú mestere épp száműzetésre ítélt a székesfővárosból. A fényűző, első osztályú kocsikban csupa előkelő, jómódú, kiváló modorú hölgy és úr utazik, akik legrémesebb álmaikban sem gondolnák, hogy mire megérkeznek, az egész Monarchiában csak úgy emlegetik majd az 502-es járatot, mint „a fagyos éjszakában száguldó véres szerelvényt”.&lt;br&gt;Az új Ambrózy-történet az Ármány és kézfogó című regény idejében játszódik, és Hangay Mili kisasszony első önállóan felderített bűnügyét meséli el.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -18,7 +18,6 @@
         <dc:subject>magyar</dc:subject>
         <dc:subject>krimi</dc:subject>
         <dc:subject>történelmi regény</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Böszörményi, Gyula&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Ambrózy báró esetei"/>
         <meta name="calibre:series_index" content="3.5"/>
         <meta name="calibre:rating" content="10"/>

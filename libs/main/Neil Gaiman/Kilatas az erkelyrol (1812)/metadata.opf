@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1812</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b77dcb9-719d-4020-84b7-80161ae2bb94</dc:identifier>
+        <dc:title>Kilátás az erkélyről</dc:title>
+        <dc:creator opf:file-as="Gaiman, Neil" opf:role="aut">Neil Gaiman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-17T01:15:20+00:00</dc:date>
+        <dc:description>&lt;div&gt; &lt;p align="justify" id="full_description"&gt;Egy ​lebilincselő esszékötet rengeteg témáról – a művészettől és művészektől az álmokig, mítoszokig és emlékekig – a New York Times bestsellerszerző Neil Gaiman mélyre hatoló, szórakoztató és egyéni stílusában. &lt;/p&gt; &lt;p align="justify"&gt;Neil Gaimant, aki éles szemű megfigyelő, gondolatébresztő kommentátor és szorgalmas mesterember, már régóta nagyra tartják éles intellektusáért és meghökkentő képzeletéért, amelyek népszerű műveit áthatják. A Kilátás az erkélyről című kötet most először együtt mutatja be hatvan kiemelkedő nonfiction írását. Ebben a gazdag válogatásban analitikusan, de játékosan, ékesszólóan, mégis érthetően érdeklődési körök és témák széles skáláját találjuk, úgymint: régi és kortárs szerzők; zene; történetmondás; képregények; könyvesboltok; utazás; mesék; Amerika; ihlet; könyvtárak; szellemek. Ehhez jön még a címadó darab, mely hol meghatóan, hol öngúnnyal a szerző élményeit meséli el a 2010-es Oscar-díjkiosztó gálán Hollywoodban. &lt;/p&gt; &lt;p align="justify"&gt;Az éles, gunyoros, szellemes és bölcs kötet azokat a kérdéseket és témákat taglalja, melyek a legjobban érdeklik Neil Gaimant, ezáltal bepillantást kínálnak korunk egyik legméltatottabb, legkedveltebb és legbefolyásosabb művészének fejébe és szívébe.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Agave Könyvek</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789634192176</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>angol szerző</dc:subject>
+        <dc:subject>beszédek</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>esszé</dc:subject>
+        <dc:subject>ismeretközlő irodalom</dc:subject>
+        <dc:subject>könyvesbolt</dc:subject>
+        <dc:subject>könyvkultúra</dc:subject>
+        <dc:subject>könyvtár</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>válogatás</dc:subject>
+        <meta name="calibre:timestamp" content="2023-11-30T12:27:41.850619+00:00"/>
+        <meta name="calibre:title_sort" content="Kilátás az erkélyről"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

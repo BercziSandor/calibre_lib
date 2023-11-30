@@ -12,3 +12,5 @@
 - Elizabeth Adler: Toszkánai nyár [részletek](../_details/Elizabeth%20Adler.md#id_1211)
 - Ken Follett: Fall of Giants [részletek](../_details/Ken%20Follett.md#id_1641)
 - Lars Kepler: Tükörember [részletek](../_details/Lars%20Kepler.md#id_1682)
+- Neil Gaiman: Óceán az út végén [részletek](../_details/Neil%20Gaiman.md#id_1805)
+- Neil Gaiman: Trigger Warning: Short Fictions and Disturbances [részletek](../_details/Neil%20Gaiman.md#id_1804)

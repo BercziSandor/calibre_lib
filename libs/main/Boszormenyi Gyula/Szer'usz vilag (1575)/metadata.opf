@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">7b4bcb69-b250-48f0-b0d4-a03c0a137b7b</dc:identifier>
         <dc:title>Szer'usz világ</dc:title>
         <dc:creator opf:file-as="Böszörményi, Gyula" opf:role="aut">Böszörményi, Gyula</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-07-01T22:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;1901. ​márciusa. Ambrózy Richárd bárót meglőtték. A Rókus kórház magánkórtermében élet és halál közt lebegő hírneves budapesti magánzó detektív mellett fiatal hitvese, Hangay Mili őrködik egészen addig, míg egy nap rá nem ront a rendőrség, hogy gyilkosság vádjával letartóztassa.&lt;br&gt;Ambrózy báró tehát „dögrováson”, a neje vizsgálati fogságban van, így látszólag senki sincs, aki a fiatal házaspárra zúduló, rémálomhoz hasonlatos cselszövés háttere után kutakodjék. Senki, csupán a kis Mück Mári, a cserfes tabáni zsebtolvajlányból lett „társaskodónő” és cseppet sem „komor” komorna, aki a maga szélütött módján kezd a nyomozásba, melynek során magával a véres kezű Pesztonkával, a századforduló Budapestjének legrettegettebb bűnözőjével találja szemben magát.&lt;br&gt;A rendkívül népszerű Ambrózy báró esetei című sorozat legújabb kötete bő humorral, meghökkentő fordulatokkal, számos valóban élt szereplővel és valós eseménnyel ízesített, kalandos időutazást kínál olvasóinak a korabeli Budapest legközepébe és főleg annak alvilágába.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -13,7 +13,6 @@
         <dc:identifier opf:scheme="ISBN">9789635610471</dc:identifier>
         <dc:identifier opf:scheme="MOLY_HU">boszormenyi-gyula-szerusz-vilag</dc:identifier>
         <dc:language>hun</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Böszörményi, Gyula&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Ambrózy báró esetei"/>
         <meta name="calibre:series_index" content="5"/>
         <meta name="calibre:rating" content="10"/>

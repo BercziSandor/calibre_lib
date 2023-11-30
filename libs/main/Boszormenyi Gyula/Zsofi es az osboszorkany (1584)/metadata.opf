@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">0c21a66b-257e-4a21-9747-50410b9d204b</dc:identifier>
         <dc:title>Zsófi és az ősboszorkány</dc:title>
         <dc:creator opf:file-as="Böszörményi, Gyula" opf:role="aut">Böszörményi, Gyula</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-07-01T22:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Botlik ​Zsófi átlagos budapesti lány. Látszólag. Aki azonban ismeri a sámánok, táltosok, vagyis a dob szavával révülő bűbájosok világát, az jól tudja, hogy Botlik Zsófi valójában Farkas Húga, másnéven Büvellő, a Rontásűzők és Szörnyszivatók Árnyjurtájának tanulója. E vaskos kötetben az olvasó mindjárt három történetet talál. Látszólag. Aki azonban elolvassa, az hamar rájön, hogy a fiatal, tapasztalatlan, de nagyon is talpraesett rontásűző lánynak valójában mindhárom kaland során ugyanazzal a rettenetes ellenféllel kell szembenéznie. Ő Lúdvérc, az ősboszorkány, aki még soha nem engedte ki élve a karmai közül azt, akire rontást kívánt szórni. E könyv lapjain pedig Büvellőre veti ki bűvhálóját, hol a csodákkal teli erdélyi Havasokban, hol a rémségekkel zsúfolt Boszorkánypláza sötét folyosóin, hol pedig az ártó és segítő szellemektől nyüzsgő Tetejetlen Fán! &lt;br&gt;A GERGŐ ÉS AZ ÁLOMFOGÓK c. nagysikerű regénysorozat főhősének húga, Zsófi, akit a Világfán Büvellőként (a lány, aki bűbájjal játszadozik) ismernek önálló kalandjai. Révülj vele Te is a varázslatos Erdélyben, a Boszorkányplázában és a Tetejetlen Fán!&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -13,7 +13,6 @@
         <dc:identifier opf:scheme="ISBN">9789632458267</dc:identifier>
         <dc:identifier opf:scheme="MOLY_HU">boszormenyi-gyula-zsofi-es-az-osboszorkany</dc:identifier>
         <dc:language>hun</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Böszörményi, Gyula&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Zsófi-regények"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

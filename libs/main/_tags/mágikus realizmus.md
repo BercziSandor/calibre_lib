@@ -9,7 +9,7 @@
 - Joanne Harris: Szederbor [részletek](../_details/Joanne%20Harris.md#id_1127)
 - Mihail Bulgakov: A Mester és Margarita [részletek](../_details/Mihail%20Bulgakov.md#id_275)
 - Neil Gaiman: Anansi fiúk [részletek](../_details/Neil%20Gaiman.md#id_1432)
-- Neil Gaiman: Coraline (angol) [részletek](../_details/Neil%20Gaiman.md#id_1431)
+- Neil Gaiman: Coraline [részletek](../_details/Neil%20Gaiman.md#id_1431)
 - Neil Gaiman: Tükör és füst [részletek](../_details/Neil%20Gaiman.md#id_1434)
 - Salman Rushdie: Fúriadüh [részletek](../_details/Salman%20Rushdie.md#id_1452)
 - Stephen King: A harcos [részletek](../_details/Stephen%20King.md#id_539)

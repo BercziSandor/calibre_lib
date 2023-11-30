@@ -11,3 +11,6 @@
 - Vonnegut, Kurt: Deadeye Dick [részletek](../_details/Vonnegut%2C%20Kurt.md#id_1616)
 - Vonnegut, Kurt: The Sirens of Titan: A Novel [részletek](../_details/Vonnegut%2C%20Kurt.md#id_1621)
 - Vonnegut, Kurt: Galápagos [részletek](../_details/Vonnegut%2C%20Kurt.md#id_1619)
+- Neil Gaiman: Neverwhere [részletek](../_details/Neil%20Gaiman.md#id_1808)
+- Neil Gaiman: Norse Mythology [részletek](../_details/Neil%20Gaiman.md#id_1807)
+- Neil Gaiman: The Ocean at the End of the Lane [részletek](../_details/Neil%20Gaiman.md#id_1806)

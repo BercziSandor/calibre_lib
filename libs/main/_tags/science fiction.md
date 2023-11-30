@@ -51,6 +51,8 @@
 - Michael Crichton: A Gömb [részletek](../_details/Michael%20Crichton.md#id_753)
 - Michael Crichton: Kongó [részletek](../_details/Michael%20Crichton.md#id_756)
 - Neil Gaiman: 27 képtelen történet [részletek](../_details/Neil%20Gaiman.md#id_665)
+- Neil Gaiman: Óceán az út végén [részletek](../_details/Neil%20Gaiman.md#id_1805)
+- Neil Gaiman: Trigger Warning: Short Fictions and Disturbances [részletek](../_details/Neil%20Gaiman.md#id_1804)
 - Raana Raas: Árulás [részletek](../_details/Raana%20Raas.md#id_1672)
 - Raana Raas: Az Ogfák Vöröse [részletek](../_details/Raana%20Raas.md#id_1670)
 - Raana Raas: Elágazó utak [részletek](../_details/Raana%20Raas.md#id_1674)

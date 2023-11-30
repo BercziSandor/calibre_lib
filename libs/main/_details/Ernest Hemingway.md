@@ -1,4 +1,6 @@
 # <a name="id_1026">Ernest Hemingway: Novellák </a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ernest%20Hemingway/Novellak%20%281026%29/cover.jpg" alt="cover" width="300"/>
+
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ernest%20Hemingway/Novellak%20%281026%29/Novellak%20-%20Ernest%20Hemingway.epub)
 

@@ -5,10 +5,9 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">433183e4-a244-474c-aced-b35b785980dd</dc:identifier>
         <dc:title>Baglyoknak leánya</dc:title>
         <dc:creator opf:file-as="Gaiman, Neil" opf:role="aut">Neil Gaiman</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>hun</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Neil Gaiman&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Novellák"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:timestamp" content="2015-09-11T07:12:15+00:00"/>

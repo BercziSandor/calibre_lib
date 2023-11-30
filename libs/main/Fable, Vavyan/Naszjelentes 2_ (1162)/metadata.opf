@@ -5,10 +5,10 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">31d50bf8-0dc4-4ad1-9435-0e48e1f8b223</dc:identifier>
         <dc:title>Nászjelentés 2.</dc:title>
         <dc:creator opf:file-as="Fable, Vavyan" opf:role="aut">Fable, Vavyan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2003-01-31T23:00:00+00:00</dc:date>
         <dc:language>hun</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Fable, Vavyan&quot;: &quot;https://hu.wikipedia.org/wiki/Vavyan_Fable&quot;}"/>
+        <meta name="calibre:link_maps" content="{&quot;authors&quot;: {&quot;Fable, Vavyan&quot;: &quot;https://hu.wikipedia.org/wiki/Vavyan_Fable&quot;}}"/>
         <meta name="calibre:series" content="Nászjelentés"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:timestamp" content="2018-03-27T09:46:51+00:00"/>

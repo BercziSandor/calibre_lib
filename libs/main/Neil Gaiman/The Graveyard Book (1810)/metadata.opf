@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1810</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb61488a-5046-4d1c-aa38-f2cd27bb219c</dc:identifier>
+        <dc:title>The Graveyard Book</dc:title>
+        <dc:creator opf:file-as="Gaiman, Neil &amp; McKean, Dave &amp; Atwood, Margaret" opf:role="aut">Neil Gaiman</dc:creator>
+        <dc:creator opf:file-as="Gaiman, Neil &amp; McKean, Dave &amp; Atwood, Margaret" opf:role="aut">Dave McKean</dc:creator>
+        <dc:creator opf:file-as="Gaiman, Neil &amp; McKean, Dave &amp; Atwood, Margaret" opf:role="aut">Margaret Atwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-29T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;IT TAKES A GRAVEYARD TO RAISE A CHILD. &lt;/p&gt;
+&lt;p&gt;Nobody Owens, known to his friends as Bod, is a normal boy. He would be completely normal if he didn't live in a sprawling graveyard, being raised and educated by ghosts, with a solitary guardian who belongs to neither the world of the living nor of the dead. There are dangers and adventures in the graveyard for a boy - an ancient indigo man, a gateway to abandoned city of ghouls, the strange and terrible fleer. But if Bod leaves the graveyard, then he will be in danger from the man Jack - who has already killed Bod's family . . .&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780060530945</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0060530944</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">7718597</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">0_KUsyJz6pMC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Paranormal</dc:subject>
+        <dc:subject>Childrens</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-11-30T12:23:12.445738+00:00"/>
+        <meta name="calibre:title_sort" content="Graveyard Book, The"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

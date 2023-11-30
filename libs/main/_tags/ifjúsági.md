@@ -89,7 +89,7 @@
 - Meg Cabot: Reflektorfényben [részletek](../_details/Meg%20Cabot.md#id_433)
 - Meg Cabot: Talpig Rózsaszínben [részletek](../_details/Meg%20Cabot.md#id_436)
 - Neil Gaiman: A temető könyve [részletek](../_details/Neil%20Gaiman.md#id_1424)
-- Neil Gaiman: Coraline (angol) [részletek](../_details/Neil%20Gaiman.md#id_1431)
+- Neil Gaiman: Coraline [részletek](../_details/Neil%20Gaiman.md#id_1431)
 - Neil Gaiman: Északi mitológia [részletek](../_details/Neil%20Gaiman.md#id_1435)
 - Nick Hornby: Betoncsók [részletek](../_details/Nick%20Hornby.md#id_708)
 - Peter Freund: Laura és a Fény Labirintusa [részletek](../_details/Peter%20Freund.md#id_1301)

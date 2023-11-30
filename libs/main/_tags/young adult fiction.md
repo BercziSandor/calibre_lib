@@ -9,3 +9,4 @@
 - Leiner, Laura: Örökké [részletek](../_details/Leiner%2C%20Laura.md#id_1500)
 - Leiner, Laura: Remek! [részletek](../_details/Leiner%2C%20Laura.md#id_1502)
 - Leiner, Laura: Útvesztő [részletek](../_details/Leiner%2C%20Laura.md#id_1482)
+- Neil Gaiman: Coraline [részletek](../_details/Neil%20Gaiman.md#id_1811)

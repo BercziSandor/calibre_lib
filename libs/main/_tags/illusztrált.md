@@ -73,7 +73,7 @@
 - Moldova, György: Akit a mozdony füstje megcsapott… [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1377)
 - Moldova, György: Zsidómentes övezet [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1394)
 - Neil Gaiman: A temető könyve [részletek](../_details/Neil%20Gaiman.md#id_1424)
-- Neil Gaiman: Coraline (angol) [részletek](../_details/Neil%20Gaiman.md#id_1431)
+- Neil Gaiman: Coraline [részletek](../_details/Neil%20Gaiman.md#id_1431)
 - Neil Gaiman: Csillagpor [részletek](../_details/Neil%20Gaiman.md#id_886)
 - Örkény, István: Egyperces novellák [részletek](../_details/%C3%96rk%C3%A9ny%2C%20Istv%C3%A1n.md#id_514)
 - P. G. Wodehouse: Egy pelikán Blandingsben [részletek](../_details/P.%20G.%20Wodehouse.md#id_501)

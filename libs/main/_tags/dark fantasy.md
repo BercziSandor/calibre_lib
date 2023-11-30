@@ -5,7 +5,7 @@
 - J. R. R. Tolkien: Húrin gyermekei [részletek](../_details/J.%20R.%20R.%20Tolkien.md#id_53)
 - Michael Moorcock: Harcikutya [részletek](../_details/Michael%20Moorcock.md#id_525)
 - Neil Gaiman: A temető könyve [részletek](../_details/Neil%20Gaiman.md#id_1424)
-- Neil Gaiman: Coraline (angol) [részletek](../_details/Neil%20Gaiman.md#id_1431)
+- Neil Gaiman: Coraline [részletek](../_details/Neil%20Gaiman.md#id_1431)
 - Neil Gaiman: Óceán az út végén [részletek](../_details/Neil%20Gaiman.md#id_1433)
 - Neil Gaiman: Tükör és füst [részletek](../_details/Neil%20Gaiman.md#id_1434)
 - Stephen King: A harcos [részletek](../_details/Stephen%20King.md#id_539)

@@ -9,7 +9,7 @@
 - Lars Kepler: A Paganini-szerződés [részletek](../_details/Lars%20Kepler.md#id_674)
 - Mieshelle Nagelschneider: Macskákkal suttogó [részletek](../_details/Mieshelle%20Nagelschneider.md#id_1437)
 - Mihail Bulgakov: A Mester és Margarita [részletek](../_details/Mihail%20Bulgakov.md#id_275)
-- Neil Gaiman: Coraline (angol) [részletek](../_details/Neil%20Gaiman.md#id_1431)
+- Neil Gaiman: Coraline [részletek](../_details/Neil%20Gaiman.md#id_1431)
 - Pam Johnson-Bennett: Gondolkodj macskául [részletek](../_details/Pam%20Johnson-Bennett.md#id_1438)
 - Polcz, Alaine: Macskaregény [részletek](../_details/Polcz%2C%20Alaine.md#id_1439)
 - Rachel Vincent: Stray – Kóborok [részletek](../_details/Rachel%20Vincent.md#id_428)

@@ -11,7 +11,7 @@
 - Michael Ende: A végtelen történet [részletek](../_details/Michael%20Ende.md#id_353)
 - Michael Ende: Momo [részletek](../_details/Michael%20Ende.md#id_1430)
 - Neil Gaiman: A temető könyve [részletek](../_details/Neil%20Gaiman.md#id_1424)
-- Neil Gaiman: Coraline (angol) [részletek](../_details/Neil%20Gaiman.md#id_1431)
+- Neil Gaiman: Coraline [részletek](../_details/Neil%20Gaiman.md#id_1431)
 - Neil Gaiman: Óceán az út végén [részletek](../_details/Neil%20Gaiman.md#id_1433)
 - Philip Pullman: A borostyán látcső [részletek](../_details/Philip%20Pullman.md#id_1221)
 - Philip Pullman: A titokzatos kés [részletek](../_details/Philip%20Pullman.md#id_1220)

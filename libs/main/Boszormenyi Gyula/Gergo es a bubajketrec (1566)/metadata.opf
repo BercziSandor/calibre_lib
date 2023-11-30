@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9433d6a9-9781-42f2-9759-117defd38f30</dc:identifier>
         <dc:title>Gergő és a bűbájketrec</dc:title>
         <dc:creator opf:file-as="Böszörményi, Gyula" opf:role="aut">Böszörményi, Gyula</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-07-01T22:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Kedves ​Gyula! Bocsánat a nem túl hivatalos megszólításért, de mióta Gergő-Farkassal, a Botlik-Réti családdal Apollóniával és a többiekkel megismerkedtünk, úgy tűnik: Veled is találkozhatunk mindig, ha a Csipetke utcába tévedünk, ha a Bagoly-bükki-völgybe révülünk, vagy az előkelő szálloda parkolójában fölismerni véljük Rúzspirost.&lt;br&gt;Közönséges ébernek érthetetlenül nevetséges, de Neked bizonyosan magától értetődő, ahogy megismerkedtünk Veled. Karácsony előtt nem sokkal hallottam egy beszélgetést a rádióban a Gergő és az álomfogók című könyvedről és megvettem. Aztán a dermesztő és szürke januári esték egyikén megkértem a páromat, hogy kezdje el felolvasni. Akkor még azt sem tudtuk, hogy a varázslatot nem ketten, hanem már hárman élvezzük; egy tündérpalántával megajándékozva révültünk egyik fejezetből a másikba. Így a szeptemberben megszületendő pici lányunk ezt a valóság-mesét hallgatta először végig.&lt;br&gt;Köszönjük, hogy megírtad nekünk ezt a könyvet: fölébresztett bennünk sok jót, elaltatott vagy legalábbis elviselhetővé tett sok bennünk rejlő gonoszt, még tartalmasabbá tette amúgy sem érzelemsivár életünket.&lt;br&gt;Minden jót kívánok Neked:&lt;br&gt;Gyulainé Hárs Gyöngyi&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -13,7 +13,6 @@
         <dc:identifier opf:scheme="ISBN">9789632458083</dc:identifier>
         <dc:identifier opf:scheme="MOLY_HU">boszormenyi-gyula-gergo-es-a-bubajketrec</dc:identifier>
         <dc:language>hun</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Böszörményi, Gyula&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Gergő-regények"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>

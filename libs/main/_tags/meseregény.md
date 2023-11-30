@@ -16,7 +16,7 @@
 - Michael Ende: Gombos ​Jim és Lukács, a masiniszta [részletek](../_details/Michael%20Ende.md#id_1492)
 - Michael Ende: Momo [részletek](../_details/Michael%20Ende.md#id_1430)
 - Neil Gaiman: A temető könyve [részletek](../_details/Neil%20Gaiman.md#id_1424)
-- Neil Gaiman: Coraline (angol) [részletek](../_details/Neil%20Gaiman.md#id_1431)
+- Neil Gaiman: Coraline [részletek](../_details/Neil%20Gaiman.md#id_1431)
 - Neil Gaiman: Csillagpor [részletek](../_details/Neil%20Gaiman.md#id_886)
 - Roald Dahl: Fantasztikus Róka úr [részletek](../_details/Roald%20Dahl.md#id_1601)
 - Roald Dahl: Szofi és a HABÓ [részletek](../_details/Roald%20Dahl.md#id_537)

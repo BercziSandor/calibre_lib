@@ -129,7 +129,7 @@
 - Michael Ende: A végtelen történet [részletek](../_details/Michael%20Ende.md#id_353)
 - Michael Ende: Momo [részletek](../_details/Michael%20Ende.md#id_1430)
 - Mihail Bulgakov: A Mester és Margarita [részletek](../_details/Mihail%20Bulgakov.md#id_275)
-- Neil Gaiman: Coraline (angol) [részletek](../_details/Neil%20Gaiman.md#id_1431)
+- Neil Gaiman: Coraline [részletek](../_details/Neil%20Gaiman.md#id_1431)
 - Neil Gaiman: Csillagpor [részletek](../_details/Neil%20Gaiman.md#id_886)
 - Neil Gaiman: Törékeny holmik [részletek](../_details/Neil%20Gaiman.md#id_1436)
 - Nick Hornby: A Meztelen Juliet [részletek](../_details/Nick%20Hornby.md#id_709)
