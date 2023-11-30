@@ -1,6 +1,5 @@
 # kisváros
 
-- Agatha Christie: Gyilkosság a paplakban [részletek](../_details/Agatha%20Christie.md#id_68)
 - Agatha Christie: Holttest a könyvtárszobában [részletek](../_details/Agatha%20Christie.md#id_71)
 - Agatha Christie: Nem zörög a haraszt [részletek](../_details/Agatha%20Christie.md#id_311)
 - James Herriot: A repülő állatorvos [részletek](../_details/James%20Herriot.md#id_929)

@@ -1,6 +1,5 @@
 # halál
 
-- Agatha Christie: Gyilkosság a paplakban [részletek](../_details/Agatha%20Christie.md#id_68)
 - Akunyin, Borisz: Temetői történetek [részletek](../_details/Akunyin%2C%20Borisz.md#id_714)
 - Anna Gavalda: Életre kelni [részletek](../_details/Anna%20Gavalda.md#id_1303)
 - Bohumil Hrabal: Szigorúan ellenőrzött vonatok [részletek](../_details/Bohumil%20Hrabal.md#id_449)

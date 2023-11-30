@@ -50,8 +50,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Kod%20es%20harag%20udvara%20%281699%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Kod%20es%20harag%20udvara%20%281699%29/Kod%20es%20harag%20udvara%20-%20Sarah%20J.%20Maas.epub) 
- [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Kod%20es%20harag%20udvara%20%281699%29/Kod%20es%20harag%20udvara%20-%20Sarah%20J.%20Maas.pdf)
+[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Kod%20es%20harag%20udvara%20%281699%29/Kod%20es%20harag%20udvara%20-%20Sarah%20J.%20Maas.pdf)
 
 ### Összefoglalás
 <div>
@@ -62,8 +61,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Szarnyak%20es%20pusztulas%20udvara%20%281700%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Szarnyak%20es%20pusztulas%20udvara%20%281700%29/Szarnyak%20es%20pusztulas%20udvara%20-%20Sarah%20J.%20Maas.epub) 
- [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Szarnyak%20es%20pusztulas%20udvara%20%281700%29/Szarnyak%20es%20pusztulas%20udvara%20-%20Sarah%20J.%20Maas.pdf)
+[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Szarnyak%20es%20pusztulas%20udvara%20%281700%29/Szarnyak%20es%20pusztulas%20udvara%20-%20Sarah%20J.%20Maas.pdf)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fantasy.md), [romance](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/romance.md), [young adult](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/young%20adult.md)

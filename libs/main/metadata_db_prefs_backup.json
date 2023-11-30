@@ -13,6 +13,18 @@
   "check_library_ignore_names": "",
   "gui_view_history": [
     [
+      896,
+      "Elveszett Pr\u00f3f\u00e9ci\u00e1k"
+    ],
+    [
+      1799,
+      "Mr. Quin"
+    ],
+    [
+      1792,
+      "\u00cdgy \u00e9lt\u00fcnk Mezopot\u00e1mi\u00e1ban"
+    ],
+    [
       1762,
       "A Greenshore-gloriett"
     ],
@@ -59,18 +71,6 @@
     [
       1720,
       "Ironikus etol\u00f3gia"
-    ],
-    [
-      1605,
-      "A hamvask\u00e9k s\u00e1rk\u00e1ny"
-    ],
-    [
-      1139,
-      "Bajnokok \u200breggelije"
-    ],
-    [
-      747,
-      "Besz\u00e1mol\u00f3 a Barnhouse-effektusr\u00f3l"
     ]
   ],
   "plugboards": {},
@@ -88,32 +88,16 @@
     "path_injected": true,
     "sort_history": [
       [
+        "title",
+        true
+      ],
+      [
         "timestamp",
         false
       ],
       [
         "title",
         true
-      ],
-      [
-        "series",
-        true
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "series",
-        true
-      ],
-      [
-        "title",
-        false
-      ],
-      [
-        "size",
-        false
       ],
       [
         "timestamp",
@@ -990,7 +974,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1700844312.2057147,
+  "last_expired_trash_at": 1701285415.6118774,
   "virtual_libraries": {
     "kutya": "tags:\"=kutya\""
   }

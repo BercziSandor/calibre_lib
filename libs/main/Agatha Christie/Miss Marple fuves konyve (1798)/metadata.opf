@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1798</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35858b8d-eac5-4c0a-8c1c-8ac7519b59d8</dc:identifier>
+        <dc:title>Miss Marple füves könyve</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-28T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Agatha Christie "másik nagy nyomozója", ahogy az előszóban nevezik, szerény, látszólag ártalmatlan vénkisasszony. De csak látszólag! Nem véletlenül tartja nagyra több megye rendőrfőnöke. Rózsás arca, fecsegése, kötögetése mohó kíváncsiságot, kérlelhetetlen logikát és állandó gyanakvást leplez.&lt;br&gt;Ebben a kötetben megtalálható Miss Marple véleménye nagy és kis dolgokról: az emberi természetről, férfiakról és nőkről, a fiatalságról, önmagáról - és a gyilkosságról. És persze általában az életről, amihez "nagy adag bátorság kell". Tizenkét regényből és húsz novellából válogatták össze velős mondásait és szellemesen gonosz megjegyzéseit.&lt;br&gt;A krimi királynőjének humora és bölcsessége érződik ki egyik kedvenc teremtményének szavaiból; a kötet végén pedig magyarul eddig soha meg nem jelent esszéjét olvashatjuk a női megérzések és a bűnüldözés kapcsolatáról&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Helikon</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">a668dba5-0dab-41bd-a527-8c4fc90f9d39</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789634793496</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">49130875</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>angol szerző</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>füveskönyv</dc:subject>
+        <dc:subject>idézetgyűjtemény</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-11-27T12:53:45.741275+00:00"/>
+        <meta name="calibre:title_sort" content="Miss Marple füves könyve"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;MOBI&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

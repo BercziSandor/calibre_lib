@@ -8,7 +8,6 @@
 - Agatha Christie: Az álmok háza [részletek](../_details/Agatha%20Christie.md#id_241)
 - Agatha Christie: Éjféltájt [részletek](../_details/Agatha%20Christie.md#id_66)
 - Agatha Christie: És eljő a halál… [részletek](../_details/Agatha%20Christie.md#id_312)
-- Agatha Christie: Gyilkosság a paplakban [részletek](../_details/Agatha%20Christie.md#id_68)
 - Agatha Christie: Halál a felhők között [részletek](../_details/Agatha%20Christie.md#id_69)
 - Agatha Christie: Halál a Níluson [részletek](../_details/Agatha%20Christie.md#id_75)
 - Agatha Christie: Három vak egér [részletek](../_details/Agatha%20Christie.md#id_70)

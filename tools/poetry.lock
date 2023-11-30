@@ -8,8 +8,8 @@ python-versions = ">=3.8"
 
 [metadata]
 lock-version = "1.1"
-python-versions = "^3.10"
-content-hash = "18032bc53003792c7323e80f225d2f0af5d2f7f4021c5acb40eb5e362c5c18eb"
+python-versions = "^3.8"
+content-hash = "515096acab2bd21423b4fd986ff54a8c2646f7c18f4a616beef93ea9dabd2fa0"
 
 [metadata.files]
 snakemd = [

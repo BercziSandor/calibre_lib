@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1786</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37d080e7-4745-4190-8fd0-843726035a32</dc:identifier>
+        <dc:title>A harmadik lány</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1966-10-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Ebben a regényében a krimi nagyasszonya neki igencsak szokatlan terepre téved: a hatvanas évek Londonjába, hippik és művészek közé. Híres nyomozója, Hercule Poirot és regényíró hasonmása, Ariadne Oliver is meglehetősen idegenül mozognak ebben a környezetben. Mert például mi vagy ki a harmadik lány? Erre Mrs. Oliver tudja a választ: „Harmadik lányt keresünk kényelmes második emeleti lakásba, saját szoba, központi fűtés, Earl’s Court” – olvassa fel a hirdetést. Ilyen „harmadik lány” jelenik meg Poirot reggelije közben, hogy a segítségét kérje, mert lehetséges, hogy gyilkosságot követett el. De Norma Restarick nem fejti ki részletesebben, mire gondol, hanem elrohan, hiszen a kis belga „túl öreg, senki sem mondta, hogy ilyen öreg”. &lt;/p&gt;
+&lt;p&gt;Poirot-t tehát a hiúsága is nyomozásra sarkallja. De ha még az sem biztos, hogy gyilkosság történt, akkor honnan kezdjen neki? Szerencsére a mosdatlan művészek és a bársonymellényes, hosszú hajú világfik ugyanolyanok, mint régen a keménykalapos urak. Ariadne Oliver hathatós segítségével végül fényt derít a bűntettre, és Norma is bocsánatot kér: „Nagyon udvariatlan megjegyzés volt. És nem is volt igaz…” &lt;/p&gt;
+&lt;p&gt;A regényt új fordításban jelentetjük meg.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">d800c3a8-efce-4d64-860c-6e07987407c0</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630787901</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">13418780</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">DNK5ygAACAAJ</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta name="calibre:series" content="Hercule Poirot"/>
+        <meta name="calibre:series_index" content="35"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-11-27T12:22:14.562048+00:00"/>
+        <meta name="calibre:title_sort" content="harmadik lány, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;AZW3&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

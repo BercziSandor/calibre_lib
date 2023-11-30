@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1796</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f838b129-33a7-4808-a04d-2394e9dfcdfa</dc:identifier>
+        <dc:title>Miért nem szóltak Evansnak? - Agatha Christie</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1934-08-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Vigyázat! Cselekményleírást tartalmaz.&lt;/p&gt;
+&lt;p&gt;A címben szereplő kérdést egy haldokló teszi fel – szikláról zuhant a szakadékba, és Bobby Jones talál rá, a helybéli lelkész negyedik fia. A szerencsétlenül járt férfi meghal; zsebében nem találnak azonosító iratot – csupán egy fényképet, amely egy feledhetetlenül gyönyörű fiatal nőt ábrázol. A haldokló búcsúszavai, no meg a rejtélyes fénykép nyomán fog kalandosnak bizonyuló nyomozásba Bobby – méghozzá nem egyedül. Társául szegődik a kastély vállalkozó szellemű ifjú úrnője, Lady Frances. Agatha Christie-nek ebben a regényében ugyan nem szerepel sem Poirot mester, sem Miss Marple – ám a semmiféle veszedelemtől vissza nem riadó, találékony ifjú párosnak is sikerül felgöngyölítenie a titokzatos bűntényt (az ugyanis hamar kitűnik, hogy a végzetes baleset nem véletlenül történt), és a legeslegvégén még arra is fény derül, hogy ugyan ki is lehetett az a titokzatos Evans…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa Könyvkiadó</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">1bcc49e5-c8f3-4d8d-8d03-0db1c881b148</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">48553777</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2023-11-27T12:53:45.624585+00:00"/>
+        <meta name="calibre:title_sort" content="Miért nem szóltak Evansnak? - Agatha Christie"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;MOBI&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

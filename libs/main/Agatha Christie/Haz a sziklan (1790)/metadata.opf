@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1790</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bbfed3fd-4c52-4b91-9b5d-941925dcb2ee</dc:identifier>
+        <dc:title>Ház a sziklán</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha &amp; Gálvölgyi, Judit" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:creator opf:file-as="Christie, Agatha &amp; Gálvölgyi, Judit" opf:role="aut">Judit Gálvölgyi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1931-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Hercule Poirot-t barátja, Hastings kapitány nyaralni viszi. Rájuk fér a pihenés. A szinte mediterrán éghajlatú dél-angol tengerparton sétával és a szállóvendégek kritizálásával tölthetik napjaikat. Egészen addig, míg Poirot nem találkozik a vad, fiatal Nick Buckleyval. A lány jó néhány balesetet megúszott ép bőrrel, és csak nevet rajtuk, de a nyomozó nem találja mulatságosnak a helyzetet. Amikor szinte a szemük láttára kísérli meg valaki lelőni Nicket, Poirot munkába kezd. Megpróbálkozik a lehetetlennel: megakadályozni egy készülő gyilkosságot. Annyit sikerül elérnie, hogy Nick meghívja Maggie Buckleyt, az unokatestvérét, hogy ne legyen egyedül. Néhány nappal később, a tűzijáték éjszakáján, vörös kínai sálba burkolt fiatal nő holtteste hever a sziklán álló ház kertjében. A népes társaságból ki akarhatta Nick halálát, és kinek a kezében volt a pisztoly? A regény – más kiadónál, más fordításban – &lt;em&gt;Ház a világ végén&lt;/em&gt; , illetve &lt;em&gt;A vörös sál&lt;/em&gt; címen jelent meg.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">f9300e88-70a2-4db6-a6bd-7dc48350d284</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630787888</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">13687371</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">-bfNsgEACAAJ</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta name="calibre:series" content="Hercule Poirot"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-11-27T12:22:51.927179+00:00"/>
+        <meta name="calibre:title_sort" content="Ház a sziklán"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;AZW3&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

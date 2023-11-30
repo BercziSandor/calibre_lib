@@ -214,17 +214,17 @@ Szóval… gond egy szál se, eh?
 <div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;">FOHÁSSZAL OTTOKÁR NEM TÚL JÓ IDŐBEN AKARJA GYAKOROLNI PAPI HIVATÁSÁT. VAGY NEM TÚL JÓ HELYEN. AZT HITTE, CSUPÁN EGY EGYSZERŰ SZERTARTÁS MIATT KELL LANCRE-BE MENNIE, DE RÁ KELL ÉBREDNIE, HOGY A VÁMPÍROK ÉS A BOSZORKÁNYOK KÖZÖTT DÚLÓ HÁBORÚ KELLŐS KÖZEPÉBE CSÖPPENT.</span></font></div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;"><br></span></font></div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;">Boszorkányok alatt pedig az ifjú Ágnes értendő, aki tényleg nem tud még saját magával sem egyetérteni; Magrat, aki a boszorkánykodást a pelenkákkal próbálja ötvözni; Ogg Nagyi… </span></font></div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;">…valamint Wiharvész Anyó, aki már önmagában súlyos gondot jelent.</span></font></div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;"><br></span></font></div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;">A vámpírok viszont intelligensek, a stílus mellett díszes mellényekkel is rendelkeznek, és kiszabadultak. Ők is szeretnének egy harapásnyit a jövőből.</span></font></div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;"><br></span></font></div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;">Fohásszal Ottokár tudja, hogy vele van az ima ereje – de azt kívánja, bárcsak lenne nála egy bárd is.</span></font></div></div>
 
 
-# <a name="id_896">Terry Pratchett: Elveszett Próféciák (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Elveszett%20Profeciak%20%28896%29/cover.jpg" alt="cover" width="300"/>
+# <a name="id_1801">Terry Pratchett: Elveszett próféciák (2019)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/.caltrash/b/1801/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Elveszett%20Profeciak%20%28896%29/Elveszett%20Profeciak%20-%20Terry%20Pratchett.epub) 
- [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Elveszett%20Profeciak%20%28896%29/Elveszett%20Profeciak%20-%20Terry%20Pratchett.rtf)
-
-### Tagek
-[irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/irodalom.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/.caltrash/b/1801/Elveszett%20profeciak%20-%20Terry%20Pratchett.epub) 
+ [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/.caltrash/b/1801/Elveszett%20profeciak%20-%20Terry%20Pratchett.pdf)
 
 ### Összefoglalás
-<p>Ha hihetünk Anges Nutter szép és pontos próféciáinak – az egyetlen teljesen megbízható jövendölésnek a világ jövőjéről –, akkor a világ egy szombati napon ér véget.<br>Ami azt illeti, most szombaton. Nem sokkal uzsonnaidő után…<br>Ami elég nagy fejtörést okoz Crowleynak, a Pokol itt ügyködő démonának (korábban kígyónak), és ellenpárjának, Azirafaelnek, aki aktív angyal és passzív antikvárius.<br>Ők ugyanis szeretnek itt lenni. Így hát meg kell állítaniuk az Apokalipszis Négy Motorosát, kivédeni a Boszorkányvadász hadsereg (létszám: két fő) támadását, mindenekelőtt pedig megtalálni – tibetiek, földönkívüliek, atlantisziak és egyéb helyi érdekek között – az Antikrisztust, akiről annyit lehet tudni, hogy jelenleg tizenegy éves és egy angol kisvárosban unatkozik…</p>
+<div>
+<p>Isten hét nap alatt teremtette a világot. <br>Az Ördög meg hét nap alatt elpusztíthatja azt… már ha sikerül neki. </p>
+<p>Ismerkedjünk meg Adammel, az Antikrisztussal, akit elcseréltek, az Apokalipszis Négy Motorosával, akik bőszen igyekeznek beteljesíteni az Armageddont, egy démonnal és egy angyallal, akik szívesen megakadályoznák ezt, valamint Anatéma Apparáttal, aki bizonyíthatóan boszorkány, és a kezében ott a kulcs, de még nem tudja ezt, ráadásul üldözőbe vette az újjáalakult Inkvizíció… </p>
+<p>Ez lenne tehát az <em>Útikalauz az Armageddonhoz</em> Terry Pratchett, a méltán híres Korongvilág-regények írója, és Neil Gaiman, az <em>Amerikai istenek</em>, <em>Anansi fiúk</em>, <em>Coraline</em>, <em>A temető könyve</em> és <em>Csillagpor</em> című regényekkel számos irodalmi díjat nyert szerző tollából. Az <em>Elveszett próféciák</em>ból 2019-ben sorozatot készítettek Michael Sheen, David Tennant és Jon Hamm főszereplésével; a könyvet az olvasó új szerkesztésben, felújított kiadásban tartja a kezében.</p></div>
 
 

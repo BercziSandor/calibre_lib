@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1779</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22fc51e0-dab7-4c2e-9a59-901aae98dca1</dc:identifier>
+        <dc:title>Gyilkosság a csendes házban</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha &amp; Kada, Júlia" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:creator opf:file-as="Christie, Agatha &amp; Kada, Júlia" opf:role="aut">Júlia Kada</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1931-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A négy kiseregényt tartalmazó kötet Agatha Christie legtermékenyebb, legjobb korszakából való. Noha a kisregény terjedelme nem ad rá lehetőséget, hogy Monsieur Poirot a maguk teljes pompájában bontakoztassa ki zseniális képességeit, a kötetnek mind a négy darabjában mégis tanúságot tesz róluk. Mert természetesen miről is szólnak: gyilkosságokról, öngyilkosságokról, kémkedésről és egyéb rejtélyekről, de van családi indítékú tragédia is a kötetben. Az utolsó, inkább csak elbeszélés terjedelmű darab pedig – a nem sokkal később keletkezett &lt;em&gt;Nyaraló gyilkosok&lt;/em&gt; előképe – nyilván annyira tetszett szerzőjének, hogy teljes regényben dolgozta fel az alapötletet.&lt;br&gt;Egytől egyig érdekes történetek, kiváló jellemrajzok. Aki netán úgy gondolná, ilyen rövid írásban nem lehet bűnügyi történetet izgalmasan feldolgozni, téved. Monsieur Poirot rövidebb idő alatt, szerényebb terjedelem esetén is megteszi a magáét. Szerencsés gyűjtemény – látszik, hogy a szerző egy végből szabta, egy nekifutásra írta, és nem utólag ollózták össze a kötetet.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Magyar Könyvklub</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">d7fa896d-965a-4f2c-9a1c-3f1061a1ef3a</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789635487318</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">13722690</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <meta name="calibre:series" content="Hercule Poirot"/>
+        <meta name="calibre:series_index" content="16"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-11-27T11:50:39.081945+00:00"/>
+        <meta name="calibre:title_sort" content="Gyilkosság a csendes házban"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;AZW3&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1793</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac614e89-9158-4bd3-8fa2-7d97bb0e0987</dc:identifier>
+        <dc:title>Királyok és kalandorok</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1925-05-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Egy botrányt keltő emlékirat kéziratát és egy ismeretlen asszony szerelmes leveleit veszi át Anthony Cade Afrikában egyik barátjától. Mindkettőt Londonba kell vinnie, az egyiket eljuttatni rendeltetési helyére, a másikat visszaadni a feladónak. A kéziratot azonban többen is meg akarják kaparintani, a leveleket ellopják, írójukat megzsarolják. Ezt már Cade sem hagyhatja annyiban, s kezdetét veszi egy sok-sok izgalommal járó, gyilkosságokkal megspékelt, szerelemmel fűszerezett történet, amely természetesen egészen meglepő fordulattal ér majd véget. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Hungalibri</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">39680c25-7980-47a5-a7fd-adc2f28e3d6b</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">40500452</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta name="calibre:series" content="Battle főfelügyelő"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2023-11-27T12:50:42.175027+00:00"/>
+        <meta name="calibre:title_sort" content="Királyok és kalandorok"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;AZW3&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

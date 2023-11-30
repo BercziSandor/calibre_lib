@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">896</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f6513397-b350-4f36-8471-e4050010a13a</dc:identifier>
+        <dc:title>Elveszett Próféciák</dc:title>
+        <dc:creator opf:file-as="Gaiman, Neil &amp; Pratchett, Terry" opf:role="aut">Neil Gaiman</dc:creator>
+        <dc:creator opf:file-as="Gaiman, Neil &amp; Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-04-30T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Ha hihetünk Anges Nutter szép és pontos próféciáinak – az egyetlen teljesen megbízható jövendölésnek a világ jövőjéről –, akkor a világ egy szombati napon ér véget.&lt;br&gt;Ami azt illeti, most szombaton. Nem sokkal uzsonnaidő után…&lt;br&gt;Ami elég nagy fejtörést okoz Crowleynak, a Pokol itt ügyködő démonának (korábban kígyónak), és ellenpárjának, Azirafaelnek, aki aktív angyal és passzív antikvárius.&lt;br&gt;Ők ugyanis szeretnek itt lenni. Így hát meg kell állítaniuk az Apokalipszis Négy Motorosát, kivédeni a Boszorkányvadász hadsereg (létszám: két fő) támadását, mindenekelőtt pedig megtalálni – tibetiek, földönkívüliek, atlantisziak és egyéb helyi érdekek között – az Antikrisztust, akiről annyit lehet tudni, hogy jelenleg tizenegy éves és egy angol kisvárosban unatkozik…&lt;/p&gt;</dc:description>
+        <dc:publisher>Agave</dc:publisher>
+        <dc:identifier opf:scheme="LIBRI_HU">neil_gaiman.elveszett-profeciak-1</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789639868939</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">13150973</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Irodalom</dc:subject>
+        <dc:subject>Szórakoztató irodalom</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2015-09-11T07:20:51+00:00"/>
+        <meta name="calibre:title_sort" content="Elveszett Próféciák"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, RTF&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

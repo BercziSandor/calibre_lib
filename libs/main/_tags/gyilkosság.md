@@ -3,8 +3,6 @@
 - Agatha Christie: A ferde ház [részletek](../_details/Agatha%20Christie.md#id_64)
 - Agatha Christie: Az Ackroyd-gyilkosság [részletek](../_details/Agatha%20Christie.md#id_63)
 - Agatha Christie: Eljöttek Bagdadba [részletek](../_details/Agatha%20Christie.md#id_65)
-- Agatha Christie: Gyilkosság a paplakban [részletek](../_details/Agatha%20Christie.md#id_68)
-- Agatha Christie: Gyöngyöző cián [részletek](../_details/Agatha%20Christie.md#id_247)
 - Agatha Christie: Halál a felhők között [részletek](../_details/Agatha%20Christie.md#id_69)
 - Agatha Christie: Halál a Níluson [részletek](../_details/Agatha%20Christie.md#id_75)
 - Agatha Christie: Három vak egér [részletek](../_details/Agatha%20Christie.md#id_70)

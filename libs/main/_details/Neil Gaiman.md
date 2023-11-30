@@ -29,6 +29,20 @@
 # <a name="id_889">Neil Gaiman: Mátrix </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Matrix%20%28889%29/cover.jpg" alt="cover" width="300"/>
 
+# <a name="id_896">Neil Gaiman: Elveszett Próféciák (1990)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Elveszett%20Profeciak%20%28896%29/cover.jpg" alt="cover" width="300"/>
+
+### Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Elveszett%20Profeciak%20%28896%29/Elveszett%20Profeciak%20-%20Neil%20Gaiman.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Elveszett%20Profeciak%20%28896%29/Elveszett%20Profeciak%20-%20Neil%20Gaiman.rtf)
+
+### Tagek
+[irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/irodalom.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md)
+
+### Összefoglalás
+<p>Ha hihetünk Anges Nutter szép és pontos próféciáinak – az egyetlen teljesen megbízható jövendölésnek a világ jövőjéről –, akkor a világ egy szombati napon ér véget.<br>Ami azt illeti, most szombaton. Nem sokkal uzsonnaidő után…<br>Ami elég nagy fejtörést okoz Crowleynak, a Pokol itt ügyködő démonának (korábban kígyónak), és ellenpárjának, Azirafaelnek, aki aktív angyal és passzív antikvárius.<br>Ők ugyanis szeretnek itt lenni. Így hát meg kell állítaniuk az Apokalipszis Négy Motorosát, kivédeni a Boszorkányvadász hadsereg (létszám: két fő) támadását, mindenekelőtt pedig megtalálni – tibetiek, földönkívüliek, atlantisziak és egyéb helyi érdekek között – az Antikrisztust, akiről annyit lehet tudni, hogy jelenleg tizenegy éves és egy angol kisvárosban unatkozik…</p>
+
+
 # <a name="id_224">Neil Gaiman: Amerikai Istenek (2001)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Amerikai%20Istenek%20%28224%29/cover.jpg" alt="cover" width="300"/>
 

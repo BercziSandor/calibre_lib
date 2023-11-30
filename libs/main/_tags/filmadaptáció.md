@@ -3,7 +3,6 @@
 - Agatha Christie: A ferde ház [részletek](../_details/Agatha%20Christie.md#id_64)
 - Agatha Christie: A titokzatos Négyes [részletek](../_details/Agatha%20Christie.md#id_238)
 - Agatha Christie: Éjféltájt [részletek](../_details/Agatha%20Christie.md#id_66)
-- Agatha Christie: Gyilkosság a paplakban [részletek](../_details/Agatha%20Christie.md#id_68)
 - Agatha Christie: Halál a felhők között [részletek](../_details/Agatha%20Christie.md#id_69)
 - Agatha Christie: Halál a Níluson [részletek](../_details/Agatha%20Christie.md#id_75)
 - Agatha Christie: Ház a sziklán [részletek](../_details/Agatha%20Christie.md#id_249)
