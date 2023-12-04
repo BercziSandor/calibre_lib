@@ -15,6 +15,6 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag sberczi/calibre2md:$(date "+%y%m%d_%H%M%S") --tag sberczi/calibre2md:latest
+      run: docker build . --file Dockerfile --tag sberczi/calibre2web:$(date "+%y%m%d_%H%M%S") --tag sberczi/calibre2web:latest
     - name: Publish the Docker image
-      run: docker push sberczi/calibre2md:latest
+      run: docker push sberczi/calibre2web:latest

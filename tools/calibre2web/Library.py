@@ -73,9 +73,11 @@ class Library:
                                 library=self))
         return opfs
 
-    def gen_md_by_tags(self):
-        tagList_file_name = 'catalog_tags.md'
-        tag_file_name = 'catalog_tags_details.md'
+    def gen_catalog_by_tags(self, output_format='markdown'):
+        extension = self.get_extension(output_format)
+        tag_list_file_name = f"catalog_tags.{extension}"
+        tag_list_file = self.root_dir / tag_list_file_name
+
         books_tags = self.sort_books_tag(self.opfs)
 
         details_folder = self.root_dir / '_tags'
@@ -104,25 +106,50 @@ class Library:
             md_Tag.add_unordered_list(books)
 
             tag_file.write_text(str(md_Tag), encoding='utf-8')
-
-            # tag_file_name_quoted = self.catalog_url.replace('/libs/',
-            #                                                 '/blob/main/libs/') \
-            #                        + "/_tags/" \
-            #                        + urllib.parse.quote(
-            #     f"{self.get_tag_corrected(tag)}.md")
             tags += self.get_tag_link(tag) + " | "
 
         md_TagList.add_paragraph(tags)
 
-        tagList_file = self.root_dir / tagList_file_name
-        tagList_file.write_text(str(md_TagList), encoding='utf-8')
+        md_content = str(md_TagList)
+        if output_format == 'markdown':
+            file_content = md_content
+        elif output_format == 'markdeep':
+            file_content = md_content
+            file_content += "\n\n"
+            file_content += "\n\n"
 
-        return tagList_file
+        tag_list_file.write_text(file_content, encoding='utf-8')
 
-    def gen_md_by_authors(self):
+        return tag_list_file
+
+    def convert_markdown_to(self, markdown_content: str, output_format: str):
+        output_content = markdown_content
+        if output_format == 'markdown':
+            output_content = markdown_content
+        elif output_format == 'markdeep':
+
+
+    def get_extension(self, output_format) -> str:
+        if output_format == 'markdown':
+            extension = 'md'
+        elif output_format == 'markdeep':
+            extension = 'md.html'
+        elif output_format == 'html':
+            extension = 'html'
+        else:
+            print(f'Unsupported format: {output_format}')
+            sys.exit(2)
+
+        return extension
+
+    def gen_catalog_by_authors(self, output_format='markdown'):
         details_content = "### Részletek\n"
         catalog_file_name = 'catalog_authors.md'
-        details_file_name = 'catalog_details.md'
+        if output_format == 'markdown':
+            extension = 'md'
+        elif output_format == 'markdeep':
+            extension = 'md.html'
+
         books_auth_year_series = self.sort_books_auth_year(self.opfs)
         books_tags = self.sort_books_tag(self.opfs)
 
