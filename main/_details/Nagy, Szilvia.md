@@ -1,8 +1,8 @@
 # <a name="id_389">Nagy, Szilvia: Egyetemista lány támogatót keres (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nagy%2C%20Szilvia/Egyetemista%20lany%20tamogatot%20keres%20%28389%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Nagy%2C%20Szilvia/Egyetemista%20lany%20tamogatot%20keres%20%28389%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nagy%2C%20Szilvia/Egyetemista%20lany%20tamogatot%20keres%20%28389%29/Egyetemista%20lany%20tamogatot%20kere%20-%20Nagy%2C%20Szilvia.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Nagy%2C%20Szilvia/Egyetemista%20lany%20tamogatot%20keres%20%28389%29/Egyetemista%20lany%20tamogatot%20kere%20-%20Nagy%2C%20Szilvia.epub)
 
 ### Tagek
 [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [prostitúció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/prostit%c3%baci%c3%b3.md), [szociológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szociol%c3%b3gia.md), [társadalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1rsadalom.md)

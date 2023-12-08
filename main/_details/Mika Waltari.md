@@ -1,8 +1,8 @@
 # <a name="id_679">Mika Waltari: Cselszövők (Palmu felügyelő 1) (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mika%20Waltari/Cselszovok%20%28679%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Mika%20Waltari/Cselszovok%20%28679%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mika%20Waltari/Cselszovok%20%28679%29/Cselszovok%20-%20Mika%20Waltari.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Mika%20Waltari/Cselszovok%20%28679%29/Cselszovok%20-%20Mika%20Waltari.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [finn szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/finn%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_685">Mika Waltari: Palmu felügyelő tévedése (Palmu felügyelő 2) (1969)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mika%20Waltari/Palmu%20felugyelo%20tevedese%20%28685%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Mika%20Waltari/Palmu%20felugyelo%20tevedese%20%28685%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mika%20Waltari/Palmu%20felugyelo%20tevedese%20%28685%29/Palmu%20felugyelo%20tevedese%20-%20Mika%20Waltari.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Mika%20Waltari/Palmu%20felugyelo%20tevedese%20%28685%29/Palmu%20felugyelo%20tevedese%20-%20Mika%20Waltari.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [finn szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/finn%20szerz%c5%91.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md)

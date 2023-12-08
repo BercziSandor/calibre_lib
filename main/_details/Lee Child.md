@@ -1,8 +1,8 @@
 # <a name="id_1206">Lee Child: Eltűnt ellenség (Jack Reacher 8) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lee%20Child/Eltunt%20ellenseg%20%281206%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lee%20Child/Eltunt%20ellenseg%20%281206%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lee%20Child/Eltunt%20ellenseg%20%281206%29/Eltunt%20ellenseg%20-%20Lee%20Child.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Lee%20Child/Eltunt%20ellenseg%20%281206%29/Eltunt%20ellenseg%20-%20Lee%20Child.epub)
 
 ### Tagek
 [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [rejtély](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/rejt%c3%a9ly.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_392">Lee Child: Csak egy lövés (Jack Reacher 9) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lee%20Child/Csak%20egy%20loves%20%28392%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lee%20Child/Csak%20egy%20loves%20%28392%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lee%20Child/Csak%20egy%20loves%20%28392%29/Csak%20egy%20loves%20-%20Lee%20Child.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Lee%20Child/Csak%20egy%20loves%20%28392%29/Csak%20egy%20loves%20-%20Lee%20Child.epub)
 
 ### Tagek
 [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [indiana](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/indiana.md), [katonaság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/katonas%c3%a1g.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)

@@ -1,8 +1,8 @@
 # <a name="id_1523">Szilágyi Vilmos: Intimkapcsolat kézikönyve (1994)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szilagyi%20Vilmos/Intimkapcsolat%20kezikonyve%20%281523%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szilagyi%20Vilmos/Intimkapcsolat%20kezikonyve%20%281523%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szilagyi%20Vilmos/Intimkapcsolat%20kezikonyve%20%281523%29/Intimkapcsolat%20kezikonyve%20-%20Szilagyi%20Vilmos.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szilagyi%20Vilmos/Intimkapcsolat%20kezikonyve%20%281523%29/Intimkapcsolat%20kezikonyve%20-%20Szilagyi%20Vilmos.epub)
 
 ### Tagek
 [szexológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szexol%c3%b3gia.md), [szexualitás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szexualit%c3%a1s.md), [szexuálpszichológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szexu%c3%a1lpszichol%c3%b3gia.md)

@@ -1,8 +1,8 @@
 # <a name="id_661">Szepesi, Nikolett: Én, a szexmániás (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szepesi%2C%20Nikolett/En%2C%20a%20szexmanias%20%28661%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szepesi%2C%20Nikolett/En%2C%20a%20szexmanias%20%28661%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szepesi%2C%20Nikolett/En%2C%20a%20szexmanias%20%28661%29/En%2C%20a%20szexmanias%20-%20Szepesi%2C%20Nikolett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szepesi%2C%20Nikolett/En%2C%20a%20szexmanias%20%28661%29/En%2C%20a%20szexmanias%20-%20Szepesi%2C%20Nikolett.epub)
 
 ### Tagek
 [biography & autobiography](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/biography%20%26%20autobiography.md), [sports](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sports.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [erotikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/erotikus.md), [önéletrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6n%c3%a9letrajz.md)

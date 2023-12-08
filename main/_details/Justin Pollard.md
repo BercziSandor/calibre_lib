@@ -1,8 +1,8 @@
 # <a name="id_1008">Justin Pollard: Feltalálósdi (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Justin%20Pollard/Feltalalosdi%20%281008%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Justin%20Pollard/Feltalalosdi%20%281008%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Justin%20Pollard/Feltalalosdi%20%281008%29/Feltalalosdi%20-%20Justin%20Pollard.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Justin%20Pollard/Feltalalosdi%20%281008%29/Feltalalosdi%20-%20Justin%20Pollard.epub)
 
 ### Tagek
 [felfedezés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/felfedez%c3%a9s.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ismeretterjeszt%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [találmány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tal%c3%a1lm%c3%a1ny.md), [tudományos](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tudom%c3%a1nyos.md), [tudománytörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tudom%c3%a1nyt%c3%b6rt%c3%a9net.md), [tudomány és természet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tudom%c3%a1ny%20%c3%a9s%20term%c3%a9szet.md)

@@ -1,5 +1,5 @@
 # <a name="id_1818">Alaine Polcz: Egész lényeddel (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alaine%20Polcz/Egesz%20lenyeddel%20%281818%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alaine%20Polcz/Egesz%20lenyeddel%20%281818%29/cover.jpg" alt="cover" width="300"/>
 
 ### Összefoglalás
 <div>

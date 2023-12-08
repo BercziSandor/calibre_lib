@@ -1,8 +1,8 @@
 # <a name="id_1007">Robert Leeson: A neveletlen dzsinn (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Leeson/A%20neveletlen%20dzsinn%20%281007%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Leeson/A%20neveletlen%20dzsinn%20%281007%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Leeson/A%20neveletlen%20dzsinn%20%281007%29/A%20neveletlen%20dzsinn%20-%20Robert%20Leeson.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Leeson/A%20neveletlen%20dzsinn%20%281007%29/A%20neveletlen%20dzsinn%20-%20Robert%20Leeson.epub)
 
 ### Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [fantasztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasztikus.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)

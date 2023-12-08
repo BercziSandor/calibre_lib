@@ -1,8 +1,8 @@
 # <a name="id_686">Maj Sjöwall: Roseanna </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Maj%20Sjowall/Roseanna%20%28686%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Maj%20Sjowall/Roseanna%20%28686%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Maj%20Sjowall/Roseanna%20%28686%29/Roseanna%20-%20Maj%20Sjowall.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Maj%20Sjowall/Roseanna%20%28686%29/Roseanna%20-%20Maj%20Sjowall.epub)
 
 ### Tagek
 [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md)
@@ -12,10 +12,10 @@
 
 
 # <a name="id_675">Maj Sjöwall: A svéd, akinek nyoma veszett (1975)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Maj%20Sjowall/A%20sved%2C%20akinek%20nyoma%20veszett%20%28675%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Maj%20Sjowall/A%20sved%2C%20akinek%20nyoma%20veszett%20%28675%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Maj%20Sjowall/A%20sved%2C%20akinek%20nyoma%20veszett%20%28675%29/A%20sved%2C%20akinek%20nyoma%20veszett%20-%20Maj%20Sjowall.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Maj%20Sjowall/A%20sved%2C%20akinek%20nyoma%20veszett%20%28675%29/A%20sved%2C%20akinek%20nyoma%20veszett%20-%20Maj%20Sjowall.epub)
 
 ### Tagek
 [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [svéd szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sv%c3%a9d%20szerz%c5%91.md), [szocialista krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szocialista%20krimi.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md)

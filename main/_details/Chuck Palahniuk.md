@@ -1,8 +1,8 @@
 # <a name="id_1600">Chuck Palahniuk: Halálraítélt (Kárhozott 2) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Chuck%20Palahniuk/Halalraitelt%20%281600%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Chuck%20Palahniuk/Halalraitelt%20%281600%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Chuck%20Palahniuk/Halalraitelt%20%281600%29/Halalraitelt%20-%20Chuck%20Palahniuk.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Chuck%20Palahniuk/Halalraitelt%20%281600%29/Halalraitelt%20-%20Chuck%20Palahniuk.epub)
 
 ### Tagek
 [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szat%c3%adra.md), [szellemek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szellemek.md), [túlvilág](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%balvil%c3%a1g.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_662">Chuck Palahniuk: Cigányút (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Chuck%20Palahniuk/Ciganyut%20%28662%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Chuck%20Palahniuk/Ciganyut%20%28662%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Chuck%20Palahniuk/Ciganyut%20%28662%29/Ciganyut%20-%20Chuck%20Palahniuk.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Chuck%20Palahniuk/Ciganyut%20%28662%29/Ciganyut%20-%20Chuck%20Palahniuk.epub)
 
 ### Tagek
 [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1001%20k%c3%b6nyv%20list%c3%a1n%20szerepel.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [antihős](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/antih%c5%91s.md), [felnőtt tartalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/feln%c5%91tt%20tartalom.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [függőség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%bcgg%c5%91s%c3%a9g.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szexuális perverzió](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szexu%c3%a1lis%20perverzi%c3%b3.md)
@@ -27,10 +27,10 @@
 
 
 # <a name="id_663">Chuck Palahniuk: Altató (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Chuck%20Palahniuk/Altato%20%28663%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Chuck%20Palahniuk/Altato%20%28663%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Chuck%20Palahniuk/Altato%20%28663%29/Altato%20-%20Chuck%20Palahniuk.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Chuck%20Palahniuk/Altato%20%28663%29/Altato%20-%20Chuck%20Palahniuk.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [fogyasztói társadalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fogyaszt%c3%b3i%20t%c3%a1rsadalom.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -41,10 +41,10 @@
 
 
 # <a name="id_660">Chuck Palahniuk: Harcosok klubja (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Chuck%20Palahniuk/Harcosok%20klubja%20%28660%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Chuck%20Palahniuk/Harcosok%20klubja%20%28660%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Chuck%20Palahniuk/Harcosok%20klubja%20%28660%29/Harcosok%20klubja%20-%20Chuck%20Palahniuk.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Chuck%20Palahniuk/Harcosok%20klubja%20%28660%29/Harcosok%20klubja%20-%20Chuck%20Palahniuk.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [delaware](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/delaware.md), [erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/er%c5%91szak.md), [felnőtt tartalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/feln%c5%91tt%20tartalom.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [fogyasztói társadalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fogyaszt%c3%b3i%20t%c3%a1rsadalom.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [kult](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kult.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [minimalista próza](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/minimalista%20pr%c3%b3za.md), [posztmodern](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/posztmodern.md), [pszichés betegség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszich%c3%a9s%20betegs%c3%a9g.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szat%c3%adra.md), [személyiségzavar](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szem%c3%a9lyis%c3%a9gzavar.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md)

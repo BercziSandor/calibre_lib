@@ -1,5 +1,5 @@
 # <a name="id_1414">Alexandra Fischer-Hunold: Kincsvadász kísértet (Sódervári Sherlock báró 1) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexandra%20Fischer-Hunold/Kincsvadasz%20kisertet%20%281414%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexandra%20Fischer-Hunold/Kincsvadasz%20kisertet%20%281414%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [német szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9met%20szerz%c5%91.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md)
@@ -10,7 +10,7 @@
 
 
 # <a name="id_1415">Alexandra Fischer-Hunold: Szörnyűséges születésnap (Sódervári Sherlock báró 2) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexandra%20Fischer-Hunold/Szornyuseges%20szuletesnap%20%281415%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexandra%20Fischer-Hunold/Szornyuseges%20szuletesnap%20%281415%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [német szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9met%20szerz%c5%91.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md)
@@ -21,7 +21,7 @@
 
 
 # <a name="id_1416">Alexandra Fischer-Hunold: A dilinyós tűzbarát (Sódervári Sherlock báró 3) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexandra%20Fischer-Hunold/A%20dilinyos%20tuzbarat%20%281416%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexandra%20Fischer-Hunold/A%20dilinyos%20tuzbarat%20%281416%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [német szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9met%20szerz%c5%91.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md)
@@ -32,7 +32,7 @@
 
 
 # <a name="id_1417">Alexandra Fischer-Hunold: Malaclopás a Kedvenckertben (Sódervári Sherlock báró 4) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexandra%20Fischer-Hunold/Malaclopas%20a%20Kedvenckertben%20%281417%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexandra%20Fischer-Hunold/Malaclopas%20a%20Kedvenckertben%20%281417%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [német szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9met%20szerz%c5%91.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md)

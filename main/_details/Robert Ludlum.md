@@ -1,8 +1,8 @@
 # <a name="id_40">Robert Ludlum: Bourne Hatalma (Bourne 1) (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Bourne%20Hatalma%20%2840%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Bourne%20Hatalma%20%2840%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Bourne%20Hatalma%20%2840%29/Bourne%20Hatalma%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Bourne%20Hatalma%20%2840%29/Bourne%20Hatalma%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [amerika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerika.md), [ázsia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1zsia.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [az író származása szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/az%20%c3%adr%c3%b3%20sz%c3%a1rmaz%c3%a1sa%20szerint.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [földrajzi besorolások](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%b6ldrajzi%20besorol%c3%a1sok.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [tartalom szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tartalom%20szerint.md)
@@ -12,10 +12,10 @@
 
 
 # <a name="id_33">Robert Ludlum: A Hádész faktor (Covert-One 1) (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Hadesz%20faktor%20%2833%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/A%20Hadesz%20faktor%20%2833%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Hadesz%20faktor%20%2833%29/A%20Hadesz%20faktor%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/A%20Hadesz%20faktor%20%2833%29/A%20Hadesz%20faktor%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [tartalom szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tartalom%20szerint.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [amerika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerika.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [az író származása szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/az%20%c3%adr%c3%b3%20sz%c3%a1rmaz%c3%a1sa%20szerint.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [orvosregények](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orvosreg%c3%a9nyek.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [kémregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%a9mreg%c3%a9ny.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md)
@@ -25,10 +25,10 @@ Három ​ember gyors egymásutánban, érthetetlen módon meghal az Egyesült �
 
 
 # <a name="id_37">Robert Ludlum: A Párizs opció (Covert-One 3) (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Parizs%20opcio%20%2837%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/A%20Parizs%20opcio%20%2837%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Parizs%20opcio%20%2837%29/A%20Parizs%20opcio%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/A%20Parizs%20opcio%20%2837%29/A%20Parizs%20opcio%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kémregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%a9mreg%c3%a9ny.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md)
@@ -38,10 +38,10 @@ A tudományos világban általánosan elterjedt vélemény szerint még évek ke
 
 
 # <a name="id_30">Robert Ludlum: A Bourne-rejtély (Fantom/Bourne 1) (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Bourne-Rejtely%20%2830%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/A%20Bourne-Rejtely%20%2830%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Bourne-Rejtely%20%2830%29/A%20Bourne-rejtely%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/A%20Bourne-Rejtely%20%2830%29/A%20Bourne-rejtely%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [amnézia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amn%c3%a9zia.md), [bérgyilkos](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c3%a9rgyilkos.md), [erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/er%c5%91szak.md), [fegyverek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fegyverek.md), [felnőtt tartalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/feln%c5%91tt%20tartalom.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [kémregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%a9mreg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [rejtély](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/rejt%c3%a9ly.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [svájc](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sv%c3%a1jc.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -52,11 +52,11 @@ A tudományos világban általánosan elterjedt vélemény szerint még évek ke
 
 
 # <a name="id_32">Robert Ludlum: Bourne ultimátuma (Fantom/Bourne 3) (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Bourne%20ultimatuma%20%2832%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Bourne%20ultimatuma%20%2832%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Bourne%20ultimatuma%20%2832%29/Bourne%20ultimatuma%20-%20Robert%20Ludlum%20%28Case%20Conflict%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Bourne%20ultimatuma%20%2832%29/Bourne%20ultimatuma%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Bourne%20ultimatuma%20%2832%29/Bourne%20ultimatuma%20-%20Robert%20Ludlum%20%28Case%20Conflict%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Bourne%20ultimatuma%20%2832%29/Bourne%20ultimatuma%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [bérgyilkos](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c3%a9rgyilkos.md), [erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/er%c5%91szak.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kémregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%a9mreg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [rejtély](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/rejt%c3%a9ly.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -67,10 +67,10 @@ A tudományos világban általánosan elterjedt vélemény szerint még évek ke
 
 
 # <a name="id_35">Robert Ludlum: Matarese klán (Matarese Klán 1) (1979)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Matarese%20klan%20%2835%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Matarese%20klan%20%2835%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Matarese%20klan%20%2835%29/Matarese%20klan%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Matarese%20klan%20%2835%29/Matarese%20klan%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [suspense](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/suspense.md), [adventure](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/adventure.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md)
@@ -81,16 +81,16 @@ A tudományos világban általánosan elterjedt vélemény szerint még évek ke
 
 
 # <a name="id_36">Robert Ludlum: Matarese Klán(2) (Matarese Klán 2) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Matarese%20Klan%282%29%20%2836%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Matarese%20Klan%282%29%20%2836%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Matarese%20Klan%282%29%20%2836%29/Matarese%20Klan%282%29%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Matarese%20Klan%282%29%20%2836%29/Matarese%20Klan%282%29%20-%20Robert%20Ludlum.epub)
 
 # <a name="id_772">Robert Ludlum: Csak tanú ne maradjon! (1988)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Csak%20tanu%20ne%20maradjon%21%20%28772%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Csak%20tanu%20ne%20maradjon%21%20%28772%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Csak%20tanu%20ne%20maradjon%21%20%28772%29/Csak%20tanu%20ne%20maradjon%21%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Csak%20tanu%20ne%20maradjon%21%20%28772%29/Csak%20tanu%20ne%20maradjon%21%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -100,10 +100,10 @@ Hosszú ​hetekig vezette az amerikai bestsellerlistát ezzel a regényével Ro
 
 
 # <a name="id_38">Robert Ludlum: A Skorpió illúzió I-II. (2000)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Skorpio%20illuzio%20I-II_%20%2838%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/A%20Skorpio%20illuzio%20I-II_%20%2838%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Skorpio%20illuzio%20I-II_%20%2838%29/A%20Skorpio%20illuzio%20I-II_%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/A%20Skorpio%20illuzio%20I-II_%20%2838%29/A%20Skorpio%20illuzio%20I-II_%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -114,10 +114,10 @@ Hosszú ​hetekig vezette az amerikai bestsellerlistát ezzel a regényével Ro
 
 
 # <a name="id_39">Robert Ludlum: A Skorpió illúzió I-II. (2000)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Skorpio%20illuzio%20I-II_%20%2839%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/A%20Skorpio%20illuzio%20I-II_%20%2839%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Skorpio%20illuzio%20I-II_%20%2839%29/A%20Skorpio%20illuzio%20I-II_%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/A%20Skorpio%20illuzio%20I-II_%20%2839%29/A%20Skorpio%20illuzio%20I-II_%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -128,10 +128,10 @@ Hosszú ​hetekig vezette az amerikai bestsellerlistát ezzel a regényével Ro
 
 
 # <a name="id_34">Robert Ludlum: Holcroft szövetség (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Holcroft%20szovetseg%20%2834%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Holcroft%20szovetseg%20%2834%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Holcroft%20szovetseg%20%2834%29/Holcroft%20szovetseg%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Holcroft%20szovetseg%20%2834%29/Holcroft%20szovetseg%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [világtörténelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vil%c3%a1gt%c3%b6rt%c3%a9nelem.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [kémregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%a9mreg%c3%a9ny.md), [2. világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/2.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md)
@@ -147,10 +147,10 @@ Végezetül: Ludlum eme korai regénye rendkívül izgalmas és érdekfeszítő.
 
 
 # <a name="id_41">Robert Ludlum: Parsifal mozaik (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Parsifal%20mozaik%20%2841%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Parsifal%20mozaik%20%2841%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Parsifal%20mozaik%20%2841%29/Parsifal%20mozaik%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Parsifal%20mozaik%20%2841%29/Parsifal%20mozaik%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kémregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%a9mreg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -160,10 +160,10 @@ Michael Havelock számára egy holdsütötte Costa Brava-tengerparton összedől
 
 
 # <a name="id_42">Robert Ludlum: Parsifal mozaik (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Parsifal%20mozaik%20%2842%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Parsifal%20mozaik%20%2842%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/Parsifal%20mozaik%20%2842%29/Parsifal%20mozaik%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Parsifal%20mozaik%20%2842%29/Parsifal%20mozaik%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kémregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%a9mreg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -173,10 +173,10 @@ Michael Havelock számára egy holdsütötte Costa Brava-tengerparton összedől
 
 
 # <a name="id_801">Robert Ludlum: A Chancellor kézirat (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Chancellor%20kezirat%20%28801%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/A%20Chancellor%20kezirat%20%28801%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Ludlum/A%20Chancellor%20kezirat%20%28801%29/A%20Chancellor%20kezirat%20-%20Robert%20Ludlum.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/A%20Chancellor%20kezirat%20%28801%29/A%20Chancellor%20kezirat%20-%20Robert%20Ludlum.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [író](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%adr%c3%b3.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kémregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%a9mreg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [titkosszolgálat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/titkosszolg%c3%a1lat.md)

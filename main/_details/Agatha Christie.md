@@ -1,9 +1,9 @@
 # <a name="id_1771">Agatha Christie: Bűbájos gyilkosok (Ariadne Oliver 5) (1961)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Bubajos%20gyilkosok%20%281771%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Bubajos%20gyilkosok%20%281771%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Bubajos%20gyilkosok%20%281771%29/Bubajos%20gyilkosok%20-%20Agatha%20Christie.azw3) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Bubajos%20gyilkosok%20%281771%29/Bubajos%20gyilkosok%20-%20Agatha%20Christie.epub)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Bubajos%20gyilkosok%20%281771%29/Bubajos%20gyilkosok%20-%20Agatha%20Christie.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Bubajos%20gyilkosok%20%281771%29/Bubajos%20gyilkosok%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -14,10 +14,10 @@
 
 
 # <a name="id_1793">Agatha Christie: Királyok és kalandorok (Battle főfelügyelő 1) (1925)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Kiralyok%20es%20kalandorok%20%281793%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Kiralyok%20es%20kalandorok%20%281793%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Kiralyok%20es%20kalandorok%20%281793%29/Kiralyok%20es%20kalandorok%20-%20Agatha%20Christie.azw3)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Kiralyok%20es%20kalandorok%20%281793%29/Kiralyok%20es%20kalandorok%20-%20Agatha%20Christie.azw3)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -28,11 +28,11 @@
 
 
 # <a name="id_1748">Agatha Christie: A hét számlap rejtélye (Battle főfelügyelő 2) (1941)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20het%20szamlap%20rejtelye%20%281748%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20het%20szamlap%20rejtelye%20%281748%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20het%20szamlap%20rejtelye%20%281748%29/A%20het%20szamlap%20rejtelye%20-%20Agatha%20Christie.azw3) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20het%20szamlap%20rejtelye%20%281748%29/A%20het%20szamlap%20rejtelye%20-%20Agatha%20Christie.epub)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20het%20szamlap%20rejtelye%20%281748%29/A%20het%20szamlap%20rejtelye%20-%20Agatha%20Christie.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20het%20szamlap%20rejtelye%20%281748%29/A%20het%20szamlap%20rejtelye%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [adult](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/adult.md)
@@ -45,7 +45,7 @@
 
 
 # <a name="id_1778">Agatha Christie: Gyilkolni könnyű (Battle főfelügyelő 4) (1939)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gyilkolni%20konnyu%20%281778%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Gyilkolni%20konnyu%20%281778%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -56,10 +56,10 @@
 
 
 # <a name="id_66">Agatha Christie: Éjféltájt (Battle főfelügyelő 5) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Ejfeltajt%20%2866%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Ejfeltajt%20%2866%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Ejfeltajt%20%2866%29/Ejfeltajt%20-%20Agatha%20Christie.azw3)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Ejfeltajt%20%2866%29/Ejfeltajt%20-%20Agatha%20Christie.azw3)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -70,10 +70,10 @@
 
 
 # <a name="id_235">Agatha Christie: A pollensai probléma (Hercule Poirot 1) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20pollensai%20problema%20%28235%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20pollensai%20problema%20%28235%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20pollensai%20problema%20%28235%29/A%20pollensai%20problema%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20pollensai%20problema%20%28235%29/A%20pollensai%20problema%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [magándetektív](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mag%c3%a1ndetekt%c3%adv.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -84,10 +84,10 @@
 
 
 # <a name="id_1781">Agatha Christie: Gyilkosság a golfpályán (Hercule Poirot 2) (1933)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gyilkossag%20a%20golfpalyan%20%281781%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Gyilkossag%20a%20golfpalyan%20%281781%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gyilkossag%20a%20golfpalyan%20%281781%29/Gyilkossag%20a%20golfpalyan%20-%20Agatha%20Christie.azw3)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Gyilkossag%20a%20golfpalyan%20%281781%29/Gyilkossag%20a%20golfpalyan%20-%20Agatha%20Christie.azw3)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -99,10 +99,10 @@
 
 
 # <a name="id_63">Agatha Christie: Az Ackroyd-gyilkosság (Hercule Poirot 4) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20Ackroyd-gyilkossag%20%2863%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Az%20Ackroyd-gyilkossag%20%2863%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20Ackroyd-gyilkossag%20%2863%29/Az%20Ackroyd-gyilkossag%20-%20Agatha%20Christie.azw3)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Az%20Ackroyd-gyilkossag%20%2863%29/Az%20Ackroyd-gyilkossag%20-%20Agatha%20Christie.azw3)
 
 ### Tagek
 [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1001%20k%c3%b6nyv%20list%c3%a1n%20szerepel.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [magándetektív](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mag%c3%a1ndetekt%c3%adv.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [ősz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c5%91sz.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -113,10 +113,10 @@
 
 
 # <a name="id_238">Agatha Christie: A titokzatos Négyes (Hercule Poirot 5) (1927)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20titokzatos%20Negyes%20%28238%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20titokzatos%20Negyes%20%28238%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20titokzatos%20Negyes%20%28238%29/A%20titokzatos%20Negyes%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20titokzatos%20Negyes%20%28238%29/A%20titokzatos%20Negyes%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [ikrek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ikrek.md), [magándetektív](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mag%c3%a1ndetekt%c3%adv.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -127,10 +127,10 @@
 
 
 # <a name="id_1757">Agatha Christie: A titokzatos Kék Vonat (Hercule Poirot 6) (1928)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20titokzatos%20Kek%20Vonat%20%281757%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20titokzatos%20Kek%20Vonat%20%281757%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20titokzatos%20Kek%20Vonat%20%281757%29/A%20titokzatos%20Kek%20Vonat%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20titokzatos%20Kek%20Vonat%20%281757%29/A%20titokzatos%20Kek%20Vonat%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -141,10 +141,10 @@
 
 
 # <a name="id_1790">Agatha Christie: Ház a sziklán (Hercule Poirot 7) (1931)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Haz%20a%20sziklan%20%281790%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Haz%20a%20sziklan%20%281790%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Haz%20a%20sziklan%20%281790%29/Haz%20a%20sziklan%20-%20Agatha%20Christie.azw3)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Haz%20a%20sziklan%20%281790%29/Haz%20a%20sziklan%20-%20Agatha%20Christie.azw3)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -155,7 +155,7 @@
 
 
 # <a name="id_1794">Agatha Christie: Lord Edgware rejtélyes halála (Hercule Poirot 8) (1991)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Lord%20Edgware%20rejtelyes%20halala%20%281794%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Lord%20Edgware%20rejtelyes%20halala%20%281794%29/cover.jpg" alt="cover" width="300"/>
 
 ### Összefoglalás
 <div>
@@ -164,10 +164,10 @@
 
 
 # <a name="id_1782">Agatha Christie: Gyilkosság az Orient expresszen (Hercule Poirot 10) (1933)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gyilkossag%20az%20Orient%20expresszen%20%281782%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Gyilkossag%20az%20Orient%20expresszen%20%281782%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gyilkossag%20az%20Orient%20expresszen%20%281782%29/Gyilkossag%20az%20Orient%20expresszen%20-%20Agatha%20Christie.azw3)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Gyilkossag%20az%20Orient%20expresszen%20%281782%29/Gyilkossag%20az%20Orient%20expresszen%20-%20Agatha%20Christie.azw3)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [adult](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/adult.md)
@@ -178,10 +178,10 @@
 
 
 # <a name="id_69">Agatha Christie: Halál a felhők között (Hercule Poirot 12) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Halal%20a%20felhok%20kozott%20%2869%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Halal%20a%20felhok%20kozott%20%2869%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Halal%20a%20felhok%20kozott%20%2869%29/Halal%20a%20felhok%20kozott%20-%20Agatha%20Christie.azw3)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Halal%20a%20felhok%20kozott%20%2869%29/Halal%20a%20felhok%20kozott%20-%20Agatha%20Christie.azw3)
 
 ### Tagek
 [1930-as évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1930-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [london](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/london.md), [magándetektív](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mag%c3%a1ndetekt%c3%adv.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [párizs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/p%c3%a1rizs.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [repülő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/rep%c3%bcl%c5%91.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -192,11 +192,11 @@
 
 
 # <a name="id_1764">Agatha Christie: Az ABC-gyilkosságok (Hercule Poirot 13) (1936)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20ABC-gyilkossagok%20%281764%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Az%20ABC-gyilkossagok%20%281764%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20ABC-gyilkossagok%20%281764%29/Az%20ABC-gyilkossagok%20-%20Agatha%20Christie.azw3) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20ABC-gyilkossagok%20%281764%29/Az%20ABC-gyilkossagok%20-%20Agatha%20Christie.epub)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Az%20ABC-gyilkossagok%20%281764%29/Az%20ABC-gyilkossagok%20-%20Agatha%20Christie.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Az%20ABC-gyilkossagok%20%281764%29/Az%20ABC-gyilkossagok%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -207,10 +207,10 @@
 
 
 # <a name="id_1779">Agatha Christie: Gyilkosság a csendes házban (Hercule Poirot 16) (1931)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gyilkossag%20a%20csendes%20hazban%20%281779%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Gyilkossag%20a%20csendes%20hazban%20%281779%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gyilkossag%20a%20csendes%20hazban%20%281779%29/Gyilkossag%20a%20csendes%20hazban%20-%20Agatha%20Christie.azw3)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Gyilkossag%20a%20csendes%20hazban%20%281779%29/Gyilkossag%20a%20csendes%20hazban%20-%20Agatha%20Christie.azw3)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md)
@@ -221,10 +221,10 @@
 
 
 # <a name="id_75">Agatha Christie: Halál a Níluson (Hercule Poirot 17) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Halal%20a%20Niluson%20%2875%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Halal%20a%20Niluson%20%2875%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Halal%20a%20Niluson%20%2875%29/Halal%20a%20Niluson%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Halal%20a%20Niluson%20%2875%29/Halal%20a%20Niluson%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [1930-as évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1930-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [egyiptom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/egyiptom.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [magándetektív](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mag%c3%a1ndetekt%c3%adv.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyár](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ny%c3%a1r.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -235,11 +235,11 @@
 
 
 # <a name="id_1772">Agatha Christie: Cipruskoporsó (Hercule Poirot 21) (1940)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Cipruskoporso%20%281772%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Cipruskoporso%20%281772%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Cipruskoporso%20%281772%29/Cipruskoporso%20-%20Agatha%20Christie.azw3) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Cipruskoporso%20%281772%29/Cipruskoporso%20-%20Agatha%20Christie.epub)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Cipruskoporso%20%281772%29/Cipruskoporso%20-%20Agatha%20Christie.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Cipruskoporso%20%281772%29/Cipruskoporso%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -251,10 +251,10 @@
 
 
 # <a name="id_73">Agatha Christie: Nyaraló gyilkosok (Hercule Poirot 23) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Nyaralo%20gyilkosok%20%2873%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Nyaralo%20gyilkosok%20%2873%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Nyaralo%20gyilkosok%20%2873%29/Nyaralo%20gyilkosok%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Nyaralo%20gyilkosok%20%2873%29/Nyaralo%20gyilkosok%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [magándetektív](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mag%c3%a1ndetekt%c3%adv.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyár](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ny%c3%a1r.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozatgyilkoss%c3%a1g.md), [sziget](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sziget.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -265,10 +265,10 @@
 
 
 # <a name="id_251">Agatha Christie: Hétvégi gyilkosság (Hercule Poirot 25) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Hetvegi%20gyilkossag%20%28251%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Hetvegi%20gyilkossag%20%28251%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Hetvegi%20gyilkossag%20%28251%29/Hetvegi%20gyilkossag%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Hetvegi%20gyilkossag%20%28251%29/Hetvegi%20gyilkossag%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [magándetektív](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mag%c3%a1ndetekt%c3%adv.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -279,7 +279,7 @@
 
 
 # <a name="id_1787">Agatha Christie: Hercules munkái (Hercule Poirot 26) (1946)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Hercules%20munkai%20%281787%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Hercules%20munkai%20%281787%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -291,10 +291,10 @@
 
 
 # <a name="id_252">Agatha Christie: Mrs. McGinty meghalt (Hercule Poirot 28) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Mrs.%20McGinty%20meghalt%20%28252%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Mrs.%20McGinty%20meghalt%20%28252%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Mrs.%20McGinty%20meghalt%20%28252%29/Mrs.%20McGinty%20meghalt%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Mrs.%20McGinty%20meghalt%20%28252%29/Mrs.%20McGinty%20meghalt%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [magándetektív](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mag%c3%a1ndetekt%c3%adv.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -305,10 +305,10 @@
 
 
 # <a name="id_78">Agatha Christie: Temetni veszélyes (Hercule Poirot 29) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Temetni%20veszelyes%20%2878%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Temetni%20veszelyes%20%2878%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Temetni%20veszelyes%20%2878%29/Temetni%20veszelyes%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Temetni%20veszelyes%20%2878%29/Temetni%20veszelyes%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [család](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1d.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [magándetektív](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mag%c3%a1ndetekt%c3%adv.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -319,10 +319,10 @@
 
 
 # <a name="id_1780">Agatha Christie: Gyilkosság a diákszállóban (Hercule Poirot 30) (1954)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gyilkossag%20a%20diakszalloban%20%281780%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Gyilkossag%20a%20diakszalloban%20%281780%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gyilkossag%20a%20diakszalloban%20%281780%29/Gyilkossag%20a%20diakszalloban%20-%20Agatha%20Christie.azw3)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Gyilkossag%20a%20diakszalloban%20%281780%29/Gyilkossag%20a%20diakszalloban%20-%20Agatha%20Christie.azw3)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [adult](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/adult.md)
@@ -333,11 +333,11 @@
 
 
 # <a name="id_1777">Agatha Christie: Gloriett a hullának (Hercule Poirot 31) (1956)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gloriett%20a%20hullanak%20%281777%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Gloriett%20a%20hullanak%20%281777%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gloriett%20a%20hullanak%20%281777%29/Gloriett%20a%20hullanak%20-%20Agatha%20Christie.azw3) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gloriett%20a%20hullanak%20%281777%29/Gloriett%20a%20hullanak%20-%20Agatha%20Christie.epub)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Gloriett%20a%20hullanak%20%281777%29/Gloriett%20a%20hullanak%20-%20Agatha%20Christie.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Gloriett%20a%20hullanak%20%281777%29/Gloriett%20a%20hullanak%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -348,10 +348,10 @@
 
 
 # <a name="id_1795">Agatha Christie: Macska a galambok között (Hercule Poirot 32) (1959)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Macska%20a%20galambok%20kozott%20%281795%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Macska%20a%20galambok%20kozott%20%281795%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[prc](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Macska%20a%20galambok%20kozott%20%281795%29/Macska%20a%20galambok%20kozott%20-%20Agatha%20Christie.prc)
+[prc](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Macska%20a%20galambok%20kozott%20%281795%29/Macska%20a%20galambok%20kozott%20-%20Agatha%20Christie.prc)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -362,10 +362,10 @@
 
 
 # <a name="id_1749">Agatha Christie: A karácsonyi puding esete (Hercule Poirot 33) (1923)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20karacsonyi%20puding%20esete%20%281749%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20karacsonyi%20puding%20esete%20%281749%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20karacsonyi%20puding%20esete%20%281749%29/A%20karacsonyi%20puding%20esete%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20karacsonyi%20puding%20esete%20%281749%29/A%20karacsonyi%20puding%20esete%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md)
@@ -376,10 +376,10 @@
 
 
 # <a name="id_1768">Agatha Christie: Az órák (Hercule Poirot 34) (1963)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20orak%20%281768%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Az%20orak%20%281768%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20orak%20%281768%29/Az%20orak%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Az%20orak%20%281768%29/Az%20orak%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -393,7 +393,7 @@
 
 
 # <a name="id_234">Agatha Christie: A harmadik lány (Hercule Poirot 35) (1966)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20harmadik%20lany%20%28234%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20harmadik%20lany%20%28234%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [1960-as évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1960-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [fiatalkor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiatalkor.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [london](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/london.md), [magándetektív](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mag%c3%a1ndetekt%c3%adv.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -406,7 +406,7 @@
 
 
 # <a name="id_1785">Agatha Christie: Halloween és halál (Hercule Poirot 36) (1969)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Halloween%20es%20halal%20%281785%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Halloween%20es%20halal%20%281785%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -417,11 +417,11 @@
 
 
 # <a name="id_1766">Agatha Christie: Az elefántok nem felejtenek (Hercule Poirot 37) (1992)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20elefantok%20nem%20felejtenek%20%281766%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Az%20elefantok%20nem%20felejtenek%20%281766%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20elefantok%20nem%20felejtenek%20%281766%29/Az%20elefantok%20nem%20felejtenek%20-%20Agatha%20Christie.azw3) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20elefantok%20nem%20felejtenek%20%281766%29/Az%20elefantok%20nem%20felejtenek%20-%20Agatha%20Christie.epub)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Az%20elefantok%20nem%20felejtenek%20%281766%29/Az%20elefantok%20nem%20felejtenek%20-%20Agatha%20Christie.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Az%20elefantok%20nem%20felejtenek%20%281766%29/Az%20elefantok%20nem%20felejtenek%20-%20Agatha%20Christie.epub)
 
 ### Összefoglalás
 <div>
@@ -429,10 +429,10 @@
 
 
 # <a name="id_257">Agatha Christie: Poirot bravúrjai I. (Hercule Poirot 38) (1994)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Poirot%20bravurjai%20I_%20%28257%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Poirot%20bravurjai%20I_%20%28257%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Poirot%20bravurjai%20I_%20%28257%29/Poirot%20bravurjai%20I_%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Poirot%20bravurjai%20I_%20%28257%29/Poirot%20bravurjai%20I_%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [magándetektív](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mag%c3%a1ndetekt%c3%adv.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -443,11 +443,11 @@
 
 
 # <a name="id_1758">Agatha Christie: A titokzatos stylesi eset / Függöny (Hercule Poirot 39) (1974)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20titokzatos%20stylesi%20eset%20_%20Fuggony%20%281758%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20titokzatos%20stylesi%20eset%20_%20Fuggony%20%281758%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20titokzatos%20stylesi%20eset%20_%20Fuggony%20%281758%29/A%20titokzatos%20stylesi%20eset%20_%20Fug%20-%20Agatha%20Christie.epub) 
- [prc](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20titokzatos%20stylesi%20eset%20_%20Fuggony%20%281758%29/A%20titokzatos%20stylesi%20eset%20_%20Fug%20-%20Agatha%20Christie.prc)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20titokzatos%20stylesi%20eset%20_%20Fuggony%20%281758%29/A%20titokzatos%20stylesi%20eset%20_%20Fug%20-%20Agatha%20Christie.epub) 
+ [prc](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20titokzatos%20stylesi%20eset%20_%20Fuggony%20%281758%29/A%20titokzatos%20stylesi%20eset%20_%20Fug%20-%20Agatha%20Christie.prc)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [mystery & crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery%20%26%20crime.md)
@@ -458,10 +458,10 @@
 
 
 # <a name="id_1762">Agatha Christie: A Greenshore-gloriett (Hercule Poirot 40) (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20Greenshore-gloriett%20%281762%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20Greenshore-gloriett%20%281762%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20Greenshore-gloriett%20%281762%29/A%20Greenshore-gloriett%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20Greenshore-gloriett%20%281762%29/A%20Greenshore-gloriett%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -473,10 +473,10 @@
 
 
 # <a name="id_241">Agatha Christie: Az álmok háza (Hercule Poirot 99) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20almok%20haza%20%28241%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Az%20almok%20haza%20%28241%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20almok%20haza%20%28241%29/Az%20almok%20haza%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Az%20almok%20haza%20%28241%29/Az%20almok%20haza%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [álom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1lom.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [magándetektív](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mag%c3%a1ndetekt%c3%adv.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -487,7 +487,7 @@
 
 
 # <a name="id_68">Agatha Christie: Gyilkosság a paplakban (Miss Marple 1) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gyilkossag%20a%20paplakban%20%2868%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Gyilkossag%20a%20paplakban%20%2868%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [kisváros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kisv%c3%a1ros.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -498,10 +498,10 @@
 
 
 # <a name="id_259">Agatha Christie: Tizenhárom rejtély (Miss Marple 2) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Tizenharom%20rejtely%20%28259%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Tizenharom%20rejtely%20%28259%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Tizenharom%20rejtely%20%28259%29/Tizenharom%20rejtely%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Tizenharom%20rejtely%20%28259%29/Tizenharom%20rejtely%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [karácsony](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kar%c3%a1csony.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [rejtély](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/rejt%c3%a9ly.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -512,10 +512,10 @@
 
 
 # <a name="id_71">Agatha Christie: Holttest a könyvtárszobában (Miss Marple 3) (1969)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Holttest%20a%20konyvtarszobaban%20%2871%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Holttest%20a%20konyvtarszobaban%20%2871%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Holttest%20a%20konyvtarszobaban%20%2871%29/Holttest%20a%20konyvtarszobaban%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Holttest%20a%20konyvtarszobaban%20%2871%29/Holttest%20a%20konyvtarszobaban%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [kisváros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kisv%c3%a1ros.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [rejtély](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/rejt%c3%a9ly.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -526,10 +526,10 @@
 
 
 # <a name="id_311">Agatha Christie: Nem zörög a haraszt (Miss Marple 4) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Nem%20zorog%20a%20haraszt%20%28311%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Nem%20zorog%20a%20haraszt%20%28311%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Nem%20zorog%20a%20haraszt%20%28311%29/Nem%20zorog%20a%20haraszt%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Nem%20zorog%20a%20haraszt%20%28311%29/Nem%20zorog%20a%20haraszt%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [kisváros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kisv%c3%a1ros.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md)
@@ -540,10 +540,10 @@
 
 
 # <a name="id_1783">Agatha Christie: Gyilkosság meghirdetve (Miss Marple 5) (1950)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gyilkossag%20meghirdetve%20%281783%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Gyilkossag%20meghirdetve%20%281783%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gyilkossag%20meghirdetve%20%281783%29/Gyilkossag%20meghirdetve%20-%20Agatha%20Christie.azw3)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Gyilkossag%20meghirdetve%20%281783%29/Gyilkossag%20meghirdetve%20-%20Agatha%20Christie.azw3)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -555,10 +555,10 @@
 
 
 # <a name="id_1773">Agatha Christie: Egy marék rozs (Miss Marple 7) (1953)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Egy%20marek%20rozs%20%281773%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Egy%20marek%20rozs%20%281773%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Egy%20marek%20rozs%20%281773%29/Egy%20marek%20rozs%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Egy%20marek%20rozs%20%281773%29/Egy%20marek%20rozs%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -569,10 +569,10 @@
 
 
 # <a name="id_74">Agatha Christie: Paddington 16.50 (Miss Marple 8) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Paddington%2016.50%20%2874%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Paddington%2016.50%20%2874%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Paddington%2016.50%20%2874%29/Paddington%2016.50%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Paddington%2016.50%20%2874%29/Paddington%2016.50%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [család](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1d.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -583,10 +583,10 @@
 
 
 # <a name="id_1750">Agatha Christie: A kristálytükör meghasadt (Miss Marple 9) (1962)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20kristalytukor%20meghasadt%20%281750%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20kristalytukor%20meghasadt%20%281750%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20kristalytukor%20meghasadt%20%281750%29/A%20kristalytukor%20meghasadt%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20kristalytukor%20meghasadt%20%281750%29/A%20kristalytukor%20meghasadt%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md)
@@ -597,10 +597,10 @@
 
 
 # <a name="id_76">Agatha Christie: Rejtély az Antillákon (Miss Marple 10) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Rejtely%20az%20Antillakon%20%2876%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Rejtely%20az%20Antillakon%20%2876%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Rejtely%20az%20Antillakon%20%2876%29/Rejtely%20az%20Antillakon%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Rejtely%20az%20Antillakon%20%2876%29/Rejtely%20az%20Antillakon%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozatgyilkoss%c3%a1g.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -611,10 +611,10 @@
 
 
 # <a name="id_1746">Agatha Christie: A Bertram szálló (Miss Marple 11) (1964)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20Bertram%20szallo%20%281746%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20Bertram%20szallo%20%281746%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20Bertram%20szallo%20%281746%29/A%20Bertram%20szallo%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20Bertram%20szallo%20%281746%29/A%20Bertram%20szallo%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -625,10 +625,10 @@
 
 
 # <a name="id_72">Agatha Christie: Nemezis (Miss Marple 12) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Nemezis%20%2872%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Nemezis%20%2872%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Nemezis%20%2872%29/Nemezis%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Nemezis%20%2872%29/Nemezis%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -639,10 +639,10 @@
 
 
 # <a name="id_77">Agatha Christie: Szunnyadó gyilkosság (Miss Marple 13) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Szunnyado%20gyilkossag%20%2877%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Szunnyado%20gyilkossag%20%2877%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Szunnyado%20gyilkossag%20%2877%29/Szunnyado%20gyilkossag%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Szunnyado%20gyilkossag%20%2877%29/Szunnyado%20gyilkossag%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [1930-as évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1930-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -653,10 +653,10 @@
 
 
 # <a name="id_1784">Agatha Christie: Gyilkosság méretre (Miss Marple 14) (1979)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gyilkossag%20meretre%20%281784%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Gyilkossag%20meretre%20%281784%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gyilkossag%20meretre%20%281784%29/Gyilkossag%20meretre%20-%20Agatha%20Christie.azw3)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Gyilkossag%20meretre%20%281784%29/Gyilkossag%20meretre%20-%20Agatha%20Christie.azw3)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -669,10 +669,10 @@
 
 
 # <a name="id_1745">Agatha Christie: A barna ruhás férfi (Race ezredes 1) (1924)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20barna%20ruhas%20ferfi%20%281745%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20barna%20ruhas%20ferfi%20%281745%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20barna%20ruhas%20ferfi%20%281745%29/A%20barna%20ruhas%20ferfi%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20barna%20ruhas%20ferfi%20%281745%29/A%20barna%20ruhas%20ferfi%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [adventure](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/adventure.md), [romance](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romance.md)
@@ -684,7 +684,7 @@
 
 
 # <a name="id_247">Agatha Christie: Gyöngyöző cián (Race ezredes 4) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Gyongyozo%20cian%20%28247%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Gyongyozo%20cian%20%28247%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -695,10 +695,10 @@
 
 
 # <a name="id_1756">Agatha Christie: Titkos ellenfél (Tommy és Tuppence 1) (1921)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Titkos%20ellenfel%20%281756%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Titkos%20ellenfel%20%281756%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Titkos%20ellenfel%20%281756%29/Titkos%20ellenfel%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Titkos%20ellenfel%20%281756%29/Titkos%20ellenfel%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [adventure](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/adventure.md)
@@ -711,10 +711,10 @@
 
 
 # <a name="id_254">Agatha Christie: No. 16 (Tommy és Tuppence 2) (1997)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/No.%2016%20%28254%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/No.%2016%20%28254%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/No.%2016%20%28254%29/No.%2016%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/No.%2016%20%28254%29/No.%2016%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -725,7 +725,7 @@
 
 
 # <a name="id_242">Agatha Christie: Balhüvelykem bizsereg (Tommy és Tuppence 4) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Balhuvelykem%20bizsereg%20%28242%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Balhuvelykem%20bizsereg%20%28242%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -736,10 +736,10 @@
 
 
 # <a name="id_1755">Agatha Christie: A sors kapuja (Tommy és Tuppence 5) (1973)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20sors%20kapuja%20%281755%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20sors%20kapuja%20%281755%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20sors%20kapuja%20%281755%29/A%20sors%20kapuja%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20sors%20kapuja%20%281755%29/A%20sors%20kapuja%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -750,11 +750,11 @@
 
 
 # <a name="id_1767">Agatha Christie: Az élet súlya </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20elet%20sulya%20%281767%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Az%20elet%20sulya%20%281767%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20elet%20sulya%20%281767%29/Az%20elet%20sulya%20-%20Agatha%20Christie.azw3) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20elet%20sulya%20%281767%29/Az%20elet%20sulya%20-%20Agatha%20Christie.epub)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Az%20elet%20sulya%20%281767%29/Az%20elet%20sulya%20-%20Agatha%20Christie.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Az%20elet%20sulya%20%281767%29/Az%20elet%20sulya%20-%20Agatha%20Christie.epub)
 
 ### Összefoglalás
 <div>
@@ -762,10 +762,10 @@
 
 
 # <a name="id_1754">Agatha Christie: A Sittaford-rejtély (1931)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20Sittaford-rejtely%20%281754%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20Sittaford-rejtely%20%281754%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20Sittaford-rejtely%20%281754%29/A%20Sittaford-rejtely%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20Sittaford-rejtely%20%281754%29/A%20Sittaford-rejtely%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -776,10 +776,10 @@
 
 
 # <a name="id_1753">Agatha Christie: A Listerdale-rejtély (1933)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20Listerdale-rejtely%20%281753%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20Listerdale-rejtely%20%281753%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20Listerdale-rejtely%20%281753%29/A%20Listerdale-rejtely%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20Listerdale-rejtely%20%281753%29/A%20Listerdale-rejtely%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -790,7 +790,7 @@
 
 
 # <a name="id_1796">Agatha Christie: Miért nem szóltak Evansnak? - Agatha Christie (1934)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Miert%20nem%20szoltak%20Evansnak_%20-%20Agath%20%281796%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Miert%20nem%20szoltak%20Evansnak_%20-%20Agath%20%281796%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -802,10 +802,10 @@
 
 
 # <a name="id_1792">Agatha Christie: Így ​éltünk Mezopotámiában (1945)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Igy%20%20eltunk%20Mezopotamiaban%20%281792%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Igy%20%20eltunk%20Mezopotamiaban%20%281792%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Igy%20%20eltunk%20Mezopotamiaban%20%281792%29/Igy%20%20eltunk%20Mezopotamiaban%20-%20Agatha%20Christie.azw3)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Igy%20%20eltunk%20Mezopotamiaban%20%281792%29/Igy%20%20eltunk%20Mezopotamiaban%20-%20Agatha%20Christie.azw3)
 
 ### Tagek
 [biography](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/biography.md), [travel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/travel.md), [history](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/history.md), [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md)
@@ -816,10 +816,10 @@
 
 
 # <a name="id_1789">Agatha Christie: Három vak egér (1947)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Harom%20vak%20eger%20%281789%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Harom%20vak%20eger%20%281789%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Harom%20vak%20eger%20%281789%29/Harom%20vak%20eger%20-%20Agatha%20Christie.azw3)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Harom%20vak%20eger%20%281789%29/Harom%20vak%20eger%20-%20Agatha%20Christie.azw3)
 
 ### Összefoglalás
 <div>
@@ -829,10 +829,10 @@
 
 
 # <a name="id_1765">Agatha Christie: Az alibi (1958)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20alibi%20%281765%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Az%20alibi%20%281765%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20alibi%20%281765%29/Az%20alibi%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Az%20alibi%20%281765%29/Az%20alibi%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -846,10 +846,10 @@
 
 
 # <a name="id_1774">Agatha Christie: Életem (1977)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Eletem%20%281774%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Eletem%20%281774%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Eletem%20%281774%29/Eletem%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Eletem%20%281774%29/Eletem%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [biography](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/biography.md), [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [history](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/history.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [életrajzok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letrajzok.md), [visszaemlékezések](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/visszaeml%c3%a9kez%c3%a9sek.md)
@@ -860,23 +860,23 @@
 
 
 # <a name="id_1752">Agatha Christie: A lányom mindig a lányom (1991)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20lanyom%20mindig%20a%20lanyom%20%281752%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20lanyom%20mindig%20a%20lanyom%20%281752%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20lanyom%20mindig%20a%20lanyom%20%281752%29/A%20lanyom%20mindig%20a%20lanyom%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20lanyom%20mindig%20a%20lanyom%20%281752%29/A%20lanyom%20mindig%20a%20lanyom%20-%20Agatha%20Christie.epub)
 
 ### Összefoglalás
 <div> <p style="margin-bottom: 0in">Finom rajzolatú lélektani regények írója is volt Agatha Christie. Akkor is, ha Mary Westmacott írói álnév alatt jelentette meg őket, mindegyiken megtalálható a krimikirálynő kézjegye. Az intim belső terek, az elrejtett igazságok, az izgalom lassú-lusta, majd egyre erőteljesebb fokozása nem kell, hogy abszurdomig, netán gyilkosságig vigye el a történetet. A többnyire női főszereplő lelkében lezajló konfliktus sorsfordító lesz hullák nélkül is! Ann Prentice vonzó érett asszony. Amit ő természetesen figyelmen kívül hagy, csak a lányáért és csak a lányának él, így nem veszi észre, hogy nem hagyja felnőni gyermekét. Amikor lánya hosszabb időre elutazik, sorsa váratlan fordulatot vesz. Megismerkedik egy férfival, aki megcsillantja előtte az újrakezdés lehetőségét. Ám egyszerre csak megint élni kezd. Egyre nyilvánvalóbb azonban, hogy a lánya nem akarja elveszíteni anyja kizárólagos szeretetét. Bosszúhadjáratba kezd a "betolakodó" ellen. Amikor célját eléri, rádöbben, hogy az egykori anya-lány kapcsolatot már nem lehet visszaállítani. A két nő között elkezdődik egy furcsa párviadal, nem nyílt sisakkal, hanem igazi női fegyverekkel. Milyen árat fizetnek azért, hogy örökké csak a szőnyeg alá sepernek dolgokat? Meg kell-e maradni a belülről marcangoló önvád és harag állapotában.</p><p style="margin-bottom: 0in"><br></p></div>
 
 
 # <a name="id_1799">Agatha Christie: Mr. Quin (1993)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Mr.%20Quin%20%281799%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Mr.%20Quin%20%281799%29/cover.jpg" alt="cover" width="300"/>
 
 # <a name="id_1770">Agatha Christie: Bagdadba jöttek (1995)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Bagdadba%20jottek%20%281770%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Bagdadba%20jottek%20%281770%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Bagdadba%20jottek%20%281770%29/Bagdadba%20jottek%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Bagdadba%20jottek%20%281770%29/Bagdadba%20jottek%20-%20Agatha%20Christie.epub)
 
 ### Összefoglalás
 <div>
@@ -884,10 +884,10 @@
 
 
 # <a name="id_255">Agatha Christie: Parker Pyne nyomoz (1996)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Parker%20Pyne%20nyomoz%20%28255%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Parker%20Pyne%20nyomoz%20%28255%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Parker%20Pyne%20nyomoz%20%28255%29/Parker%20Pyne%20nyomoz%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Parker%20Pyne%20nyomoz%20%28255%29/Parker%20Pyne%20nyomoz%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -898,10 +898,10 @@
 
 
 # <a name="id_1769">Agatha Christie: Az óriás kenyere (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20orias%20kenyere%20%281769%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Az%20orias%20kenyere%20%281769%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Az%20orias%20kenyere%20%281769%29/Az%20orias%20kenyere%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Az%20orias%20kenyere%20%281769%29/Az%20orias%20kenyere%20-%20Agatha%20Christie.epub)
 
 ### Összefoglalás
 <div>
@@ -909,10 +909,10 @@
 
 
 # <a name="id_70">Agatha Christie: Három vak egér (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Harom%20vak%20eger%20%2870%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Harom%20vak%20eger%20%2870%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Harom%20vak%20eger%20%2870%29/Harom%20vak%20eger%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Harom%20vak%20eger%20%2870%29/Harom%20vak%20eger%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [kisregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kisreg%c3%a9ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [tél](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a9l.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -923,10 +923,10 @@
 
 
 # <a name="id_65">Agatha Christie: Eljöttek Bagdadba (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Eljottek%20Bagdadba%20%2865%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Eljottek%20Bagdadba%20%2865%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Eljottek%20Bagdadba%20%2865%29/Eljottek%20Bagdadba%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Eljottek%20Bagdadba%20%2865%29/Eljottek%20Bagdadba%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [közel-kelet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b6zel-kelet.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [rejtély](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/rejt%c3%a9ly.md), [sivatag](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sivatag.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -937,10 +937,10 @@
 
 
 # <a name="id_1760">Agatha Christie: A váratlan vendég (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20varatlan%20vendeg%20%281760%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20varatlan%20vendeg%20%281760%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20varatlan%20vendeg%20%281760%29/A%20varatlan%20vendeg%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20varatlan%20vendeg%20%281760%29/A%20varatlan%20vendeg%20-%20Agatha%20Christie.epub)
 
 ### Összefoglalás
 <div>
@@ -948,10 +948,10 @@
 
 
 # <a name="id_79">Agatha Christie: Tíz kicsi néger (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Tiz%20kicsi%20neger%20%2879%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Tiz%20kicsi%20neger%20%2879%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Tiz%20kicsi%20neger%20%2879%29/Tiz%20kicsi%20neger%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Tiz%20kicsi%20neger%20%2879%29/Tiz%20kicsi%20neger%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [1930-as évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1930-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nagy könyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nagy%20k%c3%b6nyv.md), [nyár](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ny%c3%a1r.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozatgyilkoss%c3%a1g.md), [sziget](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sziget.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -962,10 +962,10 @@
 
 
 # <a name="id_64">Agatha Christie: A ferde ház (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20ferde%20haz%20%2864%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20ferde%20haz%20%2864%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20ferde%20haz%20%2864%29/A%20ferde%20haz%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20ferde%20haz%20%2864%29/A%20ferde%20haz%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [család](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1d.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -976,7 +976,7 @@
 
 
 # <a name="id_240">Agatha Christie: A vád tanúja (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/A%20vad%20tanuja%20%28240%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/A%20vad%20tanuja%20%28240%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [okkultizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/okkultizmus.md), [pszichoanalízis](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszichoanal%c3%adzis.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -987,10 +987,10 @@
 
 
 # <a name="id_312">Agatha Christie: És eljő a halál… (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Es%20eljo%20a%20halal__%20%28312%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Es%20eljo%20a%20halal__%20%28312%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Es%20eljo%20a%20halal__%20%28312%29/Es%20eljo%20a%20halal__%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Es%20eljo%20a%20halal__%20%28312%29/Es%20eljo%20a%20halal__%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [afrika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/afrika.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [család](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1d.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [történelmi krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20krimi.md), [angol](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [ókor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b3kor.md), [egyiptom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/egyiptom.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -1001,10 +1001,10 @@
 
 
 # <a name="id_1800">Agatha Christie: Miss Marple (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Miss%20Marple%20%281800%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Miss%20Marple%20%281800%29/cover.jpg" alt="cover" width="300"/>
 
 # <a name="id_1798">Agatha Christie: Miss Marple füves könyve (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Miss%20Marple%20fuves%20konyve%20%281798%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Miss%20Marple%20fuves%20konyve%20%281798%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [füveskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%bcvesk%c3%b6nyv.md), [idézetgyűjtemény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/id%c3%a9zetgy%c5%b1jtem%c3%a9ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md)
@@ -1015,10 +1015,10 @@
 
 
 # <a name="id_1761">Agatha Christie: Adventi krimik (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Adventi%20krimik%20%281761%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Adventi%20krimik%20%281761%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Agatha%20Christie/Adventi%20krimik%20%281761%29/Adventi%20krimik%20-%20Agatha%20Christie.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Agatha%20Christie/Adventi%20krimik%20%281761%29/Adventi%20krimik%20-%20Agatha%20Christie.epub)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [adult](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/adult.md)

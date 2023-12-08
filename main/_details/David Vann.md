@@ -1,8 +1,8 @@
 # <a name="id_946">David Vann: Akvárium (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/David%20Vann/Akvarium%20%28946%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/David%20Vann/Akvarium%20%28946%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/David%20Vann/Akvarium%20%28946%29/Akvarium%20-%20David%20Vann.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/David%20Vann/Akvarium%20%28946%29/Akvarium%20-%20David%20Vann.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [literary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literary.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md)

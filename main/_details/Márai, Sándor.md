@@ -1,8 +1,8 @@
 # <a name="id_1419">Márai, Sándor: Füves könyv (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Marai%2C%20Sandor/Fuves%20konyv%20%281419%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Marai%2C%20Sandor/Fuves%20konyv%20%281419%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Marai%2C%20Sandor/Fuves%20konyv%20%281419%29/Fuves%20konyv%20-%20Marai%2C%20Sandor.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Marai%2C%20Sandor/Fuves%20konyv%20%281419%29/Fuves%20konyv%20-%20Marai%2C%20Sandor.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [bölcsesség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c3%b6lcsess%c3%a9g.md), [filozófia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filoz%c3%b3fia.md), [füveskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%bcvesk%c3%b6nyv.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [sztoicizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sztoicizmus.md)

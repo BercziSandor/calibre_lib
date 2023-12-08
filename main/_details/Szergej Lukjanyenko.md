@@ -1,8 +1,8 @@
 # <a name="id_462">Szergej Lukjanyenko: Alkonyi őrség (Örség 3) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szergej%20Lukjanyenko/Alkonyi%20orseg%20%28462%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Alkonyi%20orseg%20%28462%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szergej%20Lukjanyenko/Alkonyi%20orseg%20%28462%29/Alkonyi%20orseg%20-%20Szergej%20Lukjanyenko.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Alkonyi%20orseg%20%28462%29/Alkonyi%20orseg%20-%20Szergej%20Lukjanyenko.epub)
 
 ### Tagek
 [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md)
@@ -12,10 +12,10 @@
 
 
 # <a name="id_457">Szergej Lukjanyenko: Utolsó őrség (Örség 4) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szergej%20Lukjanyenko/Utolso%20orseg%20%28457%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Utolso%20orseg%20%28457%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szergej%20Lukjanyenko/Utolso%20orseg%20%28457%29/Utolso%20orseg%20-%20Szergej%20Lukjanyenko.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Utolso%20orseg%20%28457%29/Utolso%20orseg%20-%20Szergej%20Lukjanyenko.epub)
 
 ### Tagek
 [orosz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz.md), [urban fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/urban%20fantasy.md)
@@ -25,19 +25,19 @@
 
 
 # <a name="id_458">Szergej Lukjanyenko: Új Őrség (Örség 5) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szergej%20Lukjanyenko/Uj%20Orseg%20%28458%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Uj%20Orseg%20%28458%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szergej%20Lukjanyenko/Uj%20Orseg%20%28458%29/Uj%20Orseg%20-%20Szergej%20Lukjanyenko.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Uj%20Orseg%20%28458%29/Uj%20Orseg%20-%20Szergej%20Lukjanyenko.epub)
 
 ### Tagek
 [orosz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz.md), [urban fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/urban%20fantasy.md)
 
 # <a name="id_461">Szergej Lukjanyenko: Éjszakai őrség (Őrség 1) (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szergej%20Lukjanyenko/Ejszakai%20orseg%20%28461%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Ejszakai%20orseg%20%28461%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szergej%20Lukjanyenko/Ejszakai%20orseg%20%28461%29/Ejszakai%20orseg%20-%20Szergej%20Lukjanyenko.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Ejszakai%20orseg%20%28461%29/Ejszakai%20orseg%20-%20Szergej%20Lukjanyenko.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [urban](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/urban.md), [boszorkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/boszork%c3%a1ny.md), [orosz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [alakváltó](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/alakv%c3%a1lt%c3%b3.md), [vámpír](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a1mp%c3%adr.md), [urban fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/urban%20fantasy.md)
@@ -48,10 +48,10 @@
 
 
 # <a name="id_459">Szergej Lukjanyenko: Nappali őrség (Őrség 2) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szergej%20Lukjanyenko/Nappali%20orseg%20%28459%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Nappali%20orseg%20%28459%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szergej%20Lukjanyenko/Nappali%20orseg%20%28459%29/Nappali%20orseg%20-%20Szergej%20Lukjanyenko.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Nappali%20orseg%20%28459%29/Nappali%20orseg%20-%20Szergej%20Lukjanyenko.epub)
 
 ### Tagek
 [alakváltó](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/alakv%c3%a1lt%c3%b3.md), [boszorkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/boszork%c3%a1ny.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [moszkva](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/moszkva.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [urban fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/urban%20fantasy.md), [vámpír](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a1mp%c3%adr.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md)

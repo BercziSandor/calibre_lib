@@ -1,8 +1,8 @@
 # <a name="id_2">Erich Fromm: Birtokolni vagy létezni? (1994)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Erich%20Fromm/Birtokolni%20vagy%20letezni_%20%282%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Fromm/Birtokolni%20vagy%20letezni_%20%282%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Erich%20Fromm/Birtokolni%20vagy%20letezni_%20%282%29/Birtokolni%20vagy%20letezni_%20-%20Erich%20Fromm.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Fromm/Birtokolni%20vagy%20letezni_%20%282%29/Birtokolni%20vagy%20letezni_%20-%20Erich%20Fromm.epub)
 
 ### Tagek
 [etika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/etika.md), [filozófia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filoz%c3%b3fia.md), [humanizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humanizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [német szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9met%20szerz%c5%91.md), [szociálpszichológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szoci%c3%a1lpszichol%c3%b3gia.md), [szociológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szociol%c3%b3gia.md), [pszichológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszichol%c3%b3gia.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_290">Erich Fromm: Férfi és nő (1996)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Erich%20Fromm/Ferfi%20es%20no%20%28290%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Fromm/Ferfi%20es%20no%20%28290%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Erich%20Fromm/Ferfi%20es%20no%20%28290%29/Ferfi%20es%20no%20-%20Erich%20Fromm.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Fromm/Ferfi%20es%20no%20%28290%29/Ferfi%20es%20no%20-%20Erich%20Fromm.epub)
 
 ### Tagek
 [humanizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humanizmus.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ismeretterjeszt%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [német szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9met%20szerz%c5%91.md), [nemi szerep](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nemi%20szerep.md), [társadalomkritika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1rsadalomkritika.md), [társas kapcsolatok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1rsas%20kapcsolatok.md), [pszichológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszichol%c3%b3gia.md)
@@ -27,10 +27,10 @@
 
 
 # <a name="id_314">Erich Fromm: Az Önmagáért való Ember (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Erich%20Fromm/Az%20Onmagaert%20valo%20Ember%20%28314%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Fromm/Az%20Onmagaert%20valo%20Ember%20%28314%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Erich%20Fromm/Az%20Onmagaert%20valo%20Ember%20%28314%29/Az%20Onmagaert%20valo%20Ember%20-%20Erich%20Fromm.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Fromm/Az%20Onmagaert%20valo%20Ember%20%28314%29/Az%20Onmagaert%20valo%20Ember%20-%20Erich%20Fromm.epub)
 
 ### Tagek
 [humanizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humanizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [német szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9met%20szerz%c5%91.md), [pszichológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszichol%c3%b3gia.md), [etika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/etika.md)
@@ -41,10 +41,10 @@
 
 
 # <a name="id_288">Erich Fromm: A szeretet művészete (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Erich%20Fromm/A%20szeretet%20muveszete%20%28288%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Fromm/A%20szeretet%20muveszete%20%28288%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Erich%20Fromm/A%20szeretet%20muveszete%20%28288%29/A%20szeretet%20muveszete%20-%20Erich%20Fromm.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Fromm/A%20szeretet%20muveszete%20%28288%29/A%20szeretet%20muveszete%20-%20Erich%20Fromm.epub)
 
 ### Tagek
 [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [antropológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/antropol%c3%b3gia.md), [filozófia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filoz%c3%b3fia.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ismeretterjeszt%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [német szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9met%20szerz%c5%91.md), [párkapcsolat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/p%c3%a1rkapcsolat.md), [szeretet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szeretet.md), [pszichológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszichol%c3%b3gia.md), [társ. tudományok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1rs.%20tudom%c3%a1nyok.md)

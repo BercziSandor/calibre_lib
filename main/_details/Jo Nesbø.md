@@ -1,8 +1,8 @@
 # <a name="id_1705">Jo Nesbø: A nagy aranyrablás (Doktor Proktor Pukipora 4) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/A%20nagy%20aranyrablas%20%281705%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20nagy%20aranyrablas%20%281705%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/A%20nagy%20aranyrablas%20%281705%29/A%20nagy%20aranyrablas%20-%20Jo%20Nesbo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20nagy%20aranyrablas%20%281705%29/A%20nagy%20aranyrablas%20-%20Jo%20Nesbo.epub)
 
 ### Összefoglalás
 <div>
@@ -11,10 +11,10 @@
 
 
 # <a name="id_581">Jo Nesbø: Denevérember (Harry Hole 1) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Deneverember%20%28581%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Deneverember%20%28581%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Deneverember%20%28581%29/Deneverember%20-%20Jo%20Nesbo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Deneverember%20%28581%29/Deneverember%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
 [norvég szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/norv%c3%a9g%20szerz%c5%91.md), [rendőr](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/rend%c5%91r.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [drog](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/drog.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [lmbtq](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/lmbtq.md), [skandinávia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1via.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sydney](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sydney.md), [alkoholizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/alkoholizmus.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [ausztrália](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ausztr%c3%a1lia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozatgyilkoss%c3%a1g.md)
@@ -25,10 +25,10 @@ Az első Harry Hole-sztori!
 
 
 # <a name="id_577">Jo Nesbø: Csótányok (Harry Hole 2) (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Csotanyok%20%28577%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Csotanyok%20%28577%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Csotanyok%20%28577%29/Csotanyok%20-%20Jo%20Nesbo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Csotanyok%20%28577%29/Csotanyok%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
 [norvég szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/norv%c3%a9g%20szerz%c5%91.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [rejtély](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/rejt%c3%a9ly.md), [pedofília](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pedof%c3%adlia.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [bűnügyi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c5%b1n%c3%bcgyi.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [1990-es évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1990-es%20%c3%a9vek.md), [thaiföld](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thaif%c3%b6ld.md)
@@ -38,10 +38,10 @@ Harry Holét, a norvég rendőrség legellentmondásosabb figuráját Thaiföldr
 
 
 # <a name="id_1742">Jo Nesbø: Vörösbegy (Harry Hole 3) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Vorosbegy%20%281742%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Vorosbegy%20%281742%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Vorosbegy%20%281742%29/Vorosbegy%20-%20Jo%20Nesbo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Vorosbegy%20%281742%29/Vorosbegy%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
 [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [bűnügyi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c5%b1n%c3%bcgyi.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md)
@@ -51,10 +51,10 @@ Harry Holét, a norvég rendőrség legellentmondásosabb figuráját Thaiföldr
 
 
 # <a name="id_410">Jo Nesbø: Nemeszisz (Harry Hole 4) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Nemeszisz%20%28410%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Nemeszisz%20%28410%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Nemeszisz%20%28410%29/Nemeszisz%20-%20Jo%20Nesbo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Nemeszisz%20%28410%29/Nemeszisz%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
 [norvég szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/norv%c3%a9g%20szerz%c5%91.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [norvég](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/norv%c3%a9g.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md)
@@ -65,10 +65,10 @@ Minden benne van, ami egy krimitől elvárható: hamis nyomok, váratlan fordula
 
 
 # <a name="id_412">Jo Nesbø: Boszorkányszög (Harry Hole 5) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Boszorkanyszog%20%28412%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Boszorkanyszog%20%28412%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Boszorkanyszog%20%28412%29/Boszorkanyszog%20-%20Jo%20Nesbo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Boszorkanyszog%20%28412%29/Boszorkanyszog%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
 [norvég szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/norv%c3%a9g%20szerz%c5%91.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [norvég](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/norv%c3%a9g.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozatgyilkoss%c3%a1g.md), [detektívregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advreg%c3%a9ny.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md)
@@ -79,10 +79,10 @@ Nesbø irodalmi ambícióval közelít a bűnügyi regény műfajához. Mély em
 
 
 # <a name="id_592">Jo Nesbø: A megváltó (Harry Hole 6) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/A%20megvalto%20%28592%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20megvalto%20%28592%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/A%20megvalto%20%28592%29/A%20megvalto%20-%20Jo%20Nesbo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20megvalto%20%28592%29/A%20megvalto%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
 [norvég szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/norv%c3%a9g%20szerz%c5%91.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [norvégia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/norv%c3%a9gia.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [drog](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/drog.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md)
@@ -92,10 +92,10 @@ Egy héttel karácsony előtt, Oslo legforgalmasabb bevásárló utcáján agyon
 
 
 # <a name="id_582">Jo Nesbø: Hóember (Harry Hole 7) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Hoember%20%28582%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Hoember%20%28582%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Hoember%20%28582%29/Hoember%20-%20Jo%20Nesbo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Hoember%20%28582%29/Hoember%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
 [norvég szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/norv%c3%a9g%20szerz%c5%91.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [rejtély](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/rejt%c3%a9ly.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [norvégia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/norv%c3%a9gia.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [családtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1dt%c3%b6rt%c3%a9net.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [oslo](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/oslo.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md)
@@ -106,10 +106,10 @@ Amint lehull az első hó, titokzatos eltűnések, bestiális gyilkosságok sora
 
 
 # <a name="id_580">Jo Nesbø: Leopárd (Harry Hole 8) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Leopard%20%28580%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Leopard%20%28580%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Leopard%20%28580%29/Leopard%20-%20Jo%20Nesbo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Leopard%20%28580%29/Leopard%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
 [norvég szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/norv%c3%a9g%20szerz%c5%91.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [hongkong](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hongkong.md), [norvégia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/norv%c3%a9gia.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [kína](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%adna.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozatgyilkoss%c3%a1g.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md)
@@ -120,10 +120,10 @@ Márpedig úgy tűnik, minden eddiginél nehezebb feladat lesz a tettes kézre k
 
 
 # <a name="id_591">Jo Nesbø: Kísértet (Harry Hole 9) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Kisertet%20%28591%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Kisertet%20%28591%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Kisertet%20%28591%29/Kisertet%20-%20Jo%20Nesbo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Kisertet%20%28591%29/Kisertet%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
 [norvég szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/norv%c3%a9g%20szerz%c5%91.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [hardboiled krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hardboiled%20krimi.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [drog](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/drog.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [general fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general%20fiction.md), [noir irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/noir%20irodalom.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [váltott szemszög](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a1ltott%20szemsz%c3%b6g.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md)
@@ -133,10 +133,10 @@ Nyár. ​Harangzúgás. Egy fiú, Gusto, a konyha padlóján fekszik egy vért�
 
 
 # <a name="id_578">Jo Nesbø: Police (Harry Hole 10) (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Police%20%28578%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Police%20%28578%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Police%20%28578%29/Police%20-%20Jo%20Nesbo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Police%20%28578%29/Police%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [kórház](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b3rh%c3%a1z.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [norvég szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/norv%c3%a9g%20szerz%c5%91.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [rendőr](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/rend%c5%91r.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozatgyilkoss%c3%a1g.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md)
@@ -147,10 +147,10 @@ Nyár. ​Harangzúgás. Egy fiú, Gusto, a konyha padlóján fekszik egy vért�
 
 
 # <a name="id_1739">Jo Nesbø: Szomjúság (Harry Hole 11) (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Szomjusag%20%281739%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Szomjusag%20%281739%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Szomjusag%20%281739%29/Szomjusag%20-%20Jo%20Nesbo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Szomjusag%20%281739%29/Szomjusag%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
 [skandináv krimik](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v%20krimik.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -160,10 +160,10 @@ Harry Hole három éve visszavonult a nyomozói munkától, a rendőrtiszti fői
 
 
 # <a name="id_1740">Jo Nesbø: KÉS (Harry Hole 12) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/KES%20%281740%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/KES%20%281740%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/KES%20%281740%29/KES%20-%20Jo%20Nesbo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/KES%20%281740%29/KES%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
 [skandináv krimik](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v%20krimik.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -175,10 +175,10 @@ Amikor Harry egy részeg éjszakán bekövetkezett filmszakadás után reggel fe
 
 
 # <a name="id_1736">Jo Nesbø: Vér a havon (Vér a havon 1) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Ver%20a%20havon%20%281736%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Ver%20a%20havon%20%281736%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Ver%20a%20havon%20%281736%29/Ver%20a%20havon%20-%20Jo%20Nesbo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Ver%20a%20havon%20%281736%29/Ver%20a%20havon%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
 [skandináv krimik](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v%20krimik.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -188,10 +188,10 @@ Olav furcsa figura, nemigen mer közeledni másokhoz. Gyermekkora óta falja a k
 
 
 # <a name="id_978">Jo Nesbø: Fehér éjszaka (Vér a havon 2) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Feher%20ejszaka%20%28978%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Feher%20ejszaka%20%28978%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Feher%20ejszaka%20%28978%29/Feher%20ejszaka%20-%20Jo%20Nesbo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Feher%20ejszaka%20%28978%29/Feher%20ejszaka%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
 [thrillers](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thrillers.md), [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md)
@@ -201,10 +201,10 @@ Vajon akkor kezdődött ez a történet, amikor rájöttem, hogy csak a negyedik
 
 
 # <a name="id_411">Jo Nesbø: Fejvadászok (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Fejvadaszok%20%28411%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Fejvadaszok%20%28411%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Fejvadaszok%20%28411%29/Fejvadaszok%20-%20Jo%20Nesbo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Fejvadaszok%20%28411%29/Fejvadaszok%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
 [norvég szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/norv%c3%a9g%20szerz%c5%91.md), [norvégia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/norv%c3%a9gia.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [germán](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/germ%c3%a1n.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md)
@@ -214,10 +214,10 @@ Roger Brown igazán a szerencse fiának tűnik: ő Norvégia legsikeresebb fejva
 
 
 # <a name="id_1741">Jo Nesbø: A fiú (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/A%20fiu%20%281741%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20fiu%20%281741%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/A%20fiu%20%281741%29/A%20fiu%20-%20Jo%20Nesbo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20fiu%20%281741%29/A%20fiu%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
 [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [suspense](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/suspense.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [skandináv krimik](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v%20krimik.md)
@@ -228,10 +228,10 @@ Roger Brown igazán a szerencse fiának tűnik: ő Norvégia legsikeresebb fejva
 
 
 # <a name="id_1738">Jo Nesbø: Macbeth (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Macbeth%20%281738%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Macbeth%20%281738%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/Macbeth%20%281738%29/Macbeth%20-%20Jo%20Nesbo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Macbeth%20%281738%29/Macbeth%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
 [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [skandináv krimik](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v%20krimik.md)
@@ -243,10 +243,10 @@ Roger Brown igazán a szerencse fiának tűnik: ő Norvégia legsikeresebb fejva
 
 
 # <a name="id_1735">Jo Nesbø: A birodalom (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/A%20birodalom%20%281735%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20birodalom%20%281735%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/A%20birodalom%20%281735%29/A%20birodalom%20-%20Jo%20Nesbo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20birodalom%20%281735%29/A%20birodalom%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
 [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [suspense](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/suspense.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [skandináv krimik](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v%20krimik.md)
@@ -258,10 +258,10 @@ Roger Brown igazán a szerencse fiának tűnik: ő Norvégia legsikeresebb fejva
 
 
 # <a name="id_1737">Jo Nesbø: A féltékenység-szakértő és más történetek (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/A%20feltekenyseg-szakerto%20es%20mas%20tort%20%281737%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20feltekenyseg-szakerto%20es%20mas%20tort%20%281737%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jo%20Nesbo/A%20feltekenyseg-szakerto%20es%20mas%20tort%20%281737%29/A%20feltekenyseg-szakerto%20es%20mas%20-%20Jo%20Nesbo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20feltekenyseg-szakerto%20es%20mas%20tort%20%281737%29/A%20feltekenyseg-szakerto%20es%20mas%20-%20Jo%20Nesbo.epub)
 
 ### Tagek
 [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [skandináv krimik](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v%20krimik.md)

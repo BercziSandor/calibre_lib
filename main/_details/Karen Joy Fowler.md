@@ -1,8 +1,8 @@
 # <a name="id_629">Karen Joy Fowler: A Jane Austen könyvklub (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karen%20Joy%20Fowler/A%20Jane%20Austen%20konyvklub%20%28629%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Karen%20Joy%20Fowler/A%20Jane%20Austen%20konyvklub%20%28629%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karen%20Joy%20Fowler/A%20Jane%20Austen%20konyvklub%20%28629%29/A%20Jane%20Austen%20konyvklub%20-%20Karen%20Joy%20Fowler.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Karen%20Joy%20Fowler/A%20Jane%20Austen%20konyvklub%20%28629%29/A%20Jane%20Austen%20konyvklub%20-%20Karen%20Joy%20Fowler.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [chick lit](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/chick%20lit.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md)

@@ -1,8 +1,8 @@
 # <a name="id_937">Mark Twain: Élet a Mississippin (1971)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mark%20Twain/Elet%20a%20Mississippin%20%28937%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Mark%20Twain/Elet%20a%20Mississippin%20%28937%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mark%20Twain/Elet%20a%20Mississippin%20%28937%29/Elet%20a%20Mississippin%20-%20Mark%20Twain.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Mark%20Twain/Elet%20a%20Mississippin%20%28937%29/Elet%20a%20Mississippin%20-%20Mark%20Twain.epub)
 
 ### Tagek
 [amerikai polgárháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20polg%c3%a1rh%c3%a1bor%c3%ba.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [memoár](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/memo%c3%a1r.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [útleírás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%batle%c3%adr%c3%a1s.md), [19. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/19.%20sz%c3%a1zad.md), [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [amerikai történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20t%c3%b6rt%c3%a9nelem.md), [hajózás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/haj%c3%b3z%c3%a1s.md), [mississippi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mississippi.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_936">Mark Twain: Megszelídítem a kerékpárt (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mark%20Twain/Megszeliditem%20a%20kerekpart%20%28936%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Mark%20Twain/Megszeliditem%20a%20kerekpart%20%28936%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Mark%20Twain/Megszeliditem%20a%20kerekpart%20%28936%29/Megszeliditem%20a%20kerekpart%20-%20Mark%20Twain.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Mark%20Twain/Megszeliditem%20a%20kerekpart%20%28936%29/Megszeliditem%20a%20kerekpart%20-%20Mark%20Twain.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [19. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/19.%20sz%c3%a1zad.md), [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [groteszk](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/groteszk.md), [humoreszk](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoreszk.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [karcolat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/karcolat.md), [kerékpár](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ker%c3%a9kp%c3%a1r.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [paródia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/par%c3%b3dia.md), [próza](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pr%c3%b3za.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szat%c3%adra.md), [válogatás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a1logat%c3%a1s.md)

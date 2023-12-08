@@ -1,8 +1,8 @@
 # <a name="id_1490">Søren Sveistrup: A gesztenyeember (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Soren%20Sveistrup/A%20gesztenyeember%20%281490%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Soren%20Sveistrup/A%20gesztenyeember%20%281490%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Soren%20Sveistrup/A%20gesztenyeember%20%281490%29/A%20gesztenyeember%20-%20Soren%20Sveistrup.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Soren%20Sveistrup/A%20gesztenyeember%20%281490%29/A%20gesztenyeember%20-%20Soren%20Sveistrup.epub)
 
 ### Tagek
 [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)

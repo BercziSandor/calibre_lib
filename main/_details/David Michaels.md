@@ -1,8 +1,8 @@
 # <a name="id_720">David Michaels: Barrakuda művelet (Tom Clancy's Splinter Cell 2) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/David%20Michaels/Barrakuda%20muvelet%20%28720%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/David%20Michaels/Barrakuda%20muvelet%20%28720%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/David%20Michaels/Barrakuda%20muvelet%20%28720%29/Barrakuda%20muvelet%20-%20David%20Michaels.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/David%20Michaels/Barrakuda%20muvelet%20%28720%29/Barrakuda%20muvelet%20-%20David%20Michaels.epub)
 
 ### Tagek
 [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [ügynök](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%bcgyn%c3%b6k.md)

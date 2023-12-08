@@ -1,8 +1,8 @@
 # <a name="id_1172">Asimov, Isaac: Robottörténetek I-II. (Alapítvány-Birodalom-Robot 1) (1993)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Asimov%2C%20Isaac/Robottortenetek%20I-II_%20%281172%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Asimov%2C%20Isaac/Robottortenetek%20I-II_%20%281172%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Asimov%2C%20Isaac/Robottortenetek%20I-II_%20%281172%29/Robottortenetek%20I-II_%20-%20Asimov%2C%20Isaac.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Asimov%2C%20Isaac/Robottortenetek%20I-II_%20%281172%29/Robottortenetek%20I-II_%20-%20Asimov%2C%20Isaac.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [robot](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/robot.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [hugo-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hugo-d%c3%adj.md), [short stories](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/short%20stories.md), [jövőben játszódik](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/j%c3%b6v%c5%91ben%20j%c3%a1tsz%c3%b3dik.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [űrutazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c5%b1rutaz%c3%a1s.md), [transzhumanizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/transzhumanizmus.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [nebula-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nebula-d%c3%adj.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md)
@@ -12,10 +12,10 @@ A gyűjteményben valamennyi robottörténet szerepel, amelyet a világhírű í
 
 
 # <a name="id_1188">Asimov, Isaac: A robbanó Napok (1987)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Asimov%2C%20Isaac/A%20robbano%20Napok%20%281188%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Asimov%2C%20Isaac/A%20robbano%20Napok%20%281188%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Asimov%2C%20Isaac/A%20robbano%20Napok%20%281188%29/A%20robbano%20Napok%20-%20Asimov%2C%20Isaac.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Asimov%2C%20Isaac/A%20robbano%20Napok%20%281188%29/A%20robbano%20Napok%20-%20Asimov%2C%20Isaac.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [csillagászat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csillag%c3%a1szat.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ismeretterjeszt%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [tudományos](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tudom%c3%a1nyos.md), [science & technical](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20%26%20technical.md)
@@ -26,10 +26,10 @@ A gyűjteményben valamennyi robottörténet szerepel, amelyet a világhírű í
 
 
 # <a name="id_1171">Asimov, Isaac: Útikalauz (1992)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Asimov%2C%20Isaac/Utikalauz%20%281171%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Asimov%2C%20Isaac/Utikalauz%20%281171%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Asimov%2C%20Isaac/Utikalauz%20%281171%29/Utikalauz%20-%20Asimov%2C%20Isaac.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Asimov%2C%20Isaac/Utikalauz%20%281171%29/Utikalauz%20-%20Asimov%2C%20Isaac.epub)
 
 ### Tagek
 [science & technical](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20%26%20technical.md), [csillagászat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csillag%c3%a1szat.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ismeretterjeszt%c5%91.md), [elmélet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elm%c3%a9let.md), [filozófia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filoz%c3%b3fia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [asztrofizika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/asztrofizika.md), [asztrológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/asztrol%c3%b3gia.md), [tudományos](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tudom%c3%a1nyos.md), [kozmológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kozmol%c3%b3gia.md), [űrkutatás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c5%b1rkutat%c3%a1s.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)

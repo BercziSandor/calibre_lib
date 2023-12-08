@@ -1,8 +1,8 @@
 # <a name="id_390">Stephen Hawking: Az idő még rövidebb története (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20Hawking/Az%20ido%20meg%20rovidebb%20tortenete%20%28390%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20Hawking/Az%20ido%20meg%20rovidebb%20tortenete%20%28390%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20Hawking/Az%20ido%20meg%20rovidebb%20tortenete%20%28390%29/Az%20ido%20meg%20rovidebb%20tortenete%20-%20Stephen%20Hawking.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20Hawking/Az%20ido%20meg%20rovidebb%20tortenete%20%28390%29/Az%20ido%20meg%20rovidebb%20tortenete%20-%20Stephen%20Hawking.epub)
 
 ### Tagek
 [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [csillagászat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csillag%c3%a1szat.md), [fizika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fizika.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ismeretterjeszt%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [kozmológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kozmol%c3%b3gia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [természettudomány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/term%c3%a9szettudom%c3%a1ny.md), [tudományos](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tudom%c3%a1nyos.md), [science & technical](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20%26%20technical.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_1166">Stephen Hawking: Az idő rövid története (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20Hawking/Az%20ido%20rovid%20tortenete%20%281166%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20Hawking/Az%20ido%20rovid%20tortenete%20%281166%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20Hawking/Az%20ido%20rovid%20tortenete%20%281166%29/Az%20ido%20rovid%20tortenete%20-%20Stephen%20Hawking.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20Hawking/Az%20ido%20rovid%20tortenete%20%281166%29/Az%20ido%20rovid%20tortenete%20-%20Stephen%20Hawking.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [csillagászat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csillag%c3%a1szat.md), [filozófia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filoz%c3%b3fia.md), [fizika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fizika.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ismeretterjeszt%c5%91.md), [kozmológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kozmol%c3%b3gia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [relativitáselmélet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/relativit%c3%a1selm%c3%a9let.md), [természettudomány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/term%c3%a9szettudom%c3%a1ny.md), [tudományos](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tudom%c3%a1nyos.md), [science & technical](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20%26%20technical.md)

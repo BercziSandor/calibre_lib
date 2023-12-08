@@ -1,8 +1,8 @@
 # <a name="id_607">Jevgenyij Zamjatyin: Mi (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jevgenyij%20Zamjatyin/Mi%20%28607%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jevgenyij%20Zamjatyin/Mi%20%28607%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jevgenyij%20Zamjatyin/Mi%20%28607%29/Mi%20-%20Jevgenyij%20Zamjatyin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jevgenyij%20Zamjatyin/Mi%20%28607%29/Mi%20-%20Jevgenyij%20Zamjatyin.epub)
 
 ### Tagek
 [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1001%20k%c3%b6nyv%20list%c3%a1n%20szerepel.md), [avantgárd](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/avantg%c3%a1rd.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diszt%c3%b3pia.md), [expresszionizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/expresszionizmus.md), [filozofikus regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filozofikus%20reg%c3%a9ny.md), [kommunizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kommunizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [matematika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/matematika.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [szovjet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szovjet.md), [társadalmi sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1rsadalmi%20sci-fi.md)

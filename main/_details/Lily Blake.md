@@ -1,8 +1,8 @@
 # <a name="id_618">Lily Blake: Hófehér és a Vadász (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lily%20Blake/Hofeher%20es%20a%20vadasz%20%28618%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lily%20Blake/Hofeher%20es%20a%20vadasz%20%28618%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lily%20Blake/Hofeher%20es%20a%20vadasz%20%28618%29/Hofeher%20es%20a%20Vadasz%20-%20Lily%20Blake.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Lily%20Blake/Hofeher%20es%20a%20vadasz%20%28618%29/Hofeher%20es%20a%20Vadasz%20-%20Lily%20Blake.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [meseregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mesereg%c3%a9ny.md), [népmese-adaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9pmese-adapt%c3%a1ci%c3%b3.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md)

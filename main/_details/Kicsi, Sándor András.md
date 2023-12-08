@@ -1,8 +1,8 @@
 # <a name="id_384">Kicsi, Sándor András: Tűrömfű és jajlapi (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kicsi%2C%20Sandor%20Andras/Turomfu%20es%20jajlapi%20%28384%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kicsi%2C%20Sandor%20Andras/Turomfu%20es%20jajlapi%20%28384%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kicsi%2C%20Sandor%20Andras/Turomfu%20es%20jajlapi%20%28384%29/Turomfu%20es%20jajlapi%20-%20Kicsi%2C%20Sandor%20Andras.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kicsi%2C%20Sandor%20Andras/Turomfu%20es%20jajlapi%20%28384%29/Turomfu%20es%20jajlapi%20-%20Kicsi%2C%20Sandor%20Andras.epub)
 
 ### Tagek
 [betegség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/betegs%c3%a9g.md), [egészség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/eg%c3%a9szs%c3%a9g.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [tanulmány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tanulm%c3%a1ny.md)

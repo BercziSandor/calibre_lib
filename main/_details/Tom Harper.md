@@ -1,8 +1,8 @@
 # <a name="id_614">Tom Harper: Titkok könyve (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tom%20Harper/Titkok%20konyve%20%28614%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tom%20Harper/Titkok%20konyve%20%28614%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tom%20Harper/Titkok%20konyve%20%28614%29/Titkok%20konyve%20-%20Tom%20Harper.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Tom%20Harper/Titkok%20konyve%20%28614%29/Titkok%20konyve%20-%20Tom%20Harper.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [action & adventure](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/action%20%26%20adventure.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md)

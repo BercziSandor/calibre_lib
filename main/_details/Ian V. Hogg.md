@@ -1,8 +1,8 @@
 # <a name="id_1454">Ian V. Hogg: A II. világháború német titkos fegyverei (1999)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ian%20V.%20Hogg/A%20II.%20vilaghaboru%20nemet%20titkos%20fegy%20%281454%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ian%20V.%20Hogg/A%20II.%20vilaghaboru%20nemet%20titkos%20fegy%20%281454%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ian%20V.%20Hogg/A%20II.%20vilaghaboru%20nemet%20titkos%20fegy%20%281454%29/A%20II.%20vilaghaboru%20nemet%20titkos%20-%20Ian%20V.%20Hogg.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ian%20V.%20Hogg/A%20II.%20vilaghaboru%20nemet%20titkos%20fegy%20%281454%29/A%20II.%20vilaghaboru%20nemet%20titkos%20-%20Ian%20V.%20Hogg.epub)
 
 ### Tagek
 [2. világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/2.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [haditechnika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/haditechnika.md), [hadtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hadt%c3%b6rt%c3%a9net.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [német](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9met.md), [németország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9metorsz%c3%a1g.md), [technikatörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/technikat%c3%b6rt%c3%a9net.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md)

@@ -1,5 +1,5 @@
 # <a name="id_786">Asher Jay: Tizenhárom okom volt... – KEMÉNYTÁBLA (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Asher%20Jay/Tizenharom%20okom%20volt_.%20-%20KEMENYTABL%20%28786%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Asher%20Jay/Tizenharom%20okom%20volt_.%20-%20KEMENYTABL%20%28786%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 [gyermek és ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek%20%c3%a9s%20ifj%c3%bas%c3%a1gi.md), [ifjúsági irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi%20irodalom.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md)

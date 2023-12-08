@@ -1,8 +1,8 @@
 # <a name="id_769">Bertrice Small: Titkos örömök (Csatorna 1) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bertrice%20Small/Titkos%20oromok%20%28769%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bertrice%20Small/Titkos%20oromok%20%28769%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bertrice%20Small/Titkos%20oromok%20%28769%29/Titkos%20oromok%20-%20Bertrice%20Small.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bertrice%20Small/Titkos%20oromok%20%28769%29/Titkos%20oromok%20-%20Bertrice%20Small.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [erotikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/erotikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md)

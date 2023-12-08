@@ -1,8 +1,8 @@
 # <a name="id_1294">Ljudmila Ulickaja: Örökbecsű limlom (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Orokbecsu%20limlom%20%281294%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/Orokbecsu%20limlom%20%281294%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Orokbecsu%20limlom%20%281294%29/Orokbecsu%20limlom%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/Orokbecsu%20limlom%20%281294%29/Orokbecsu%20limlom%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 [életrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letrajz.md), [interjú](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/interj%c3%ba.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_1295">Ljudmila Ulickaja: Kukockij esetei (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Kukockij%20esetei%20%281295%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/Kukockij%20esetei%20%281295%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Kukockij%20esetei%20%281295%29/Kukockij%20esetei%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/Kukockij%20esetei%20%281295%29/Kukockij%20esetei%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 [családregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1dreg%c3%a9ny.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -27,10 +27,10 @@
 
 
 # <a name="id_1287">Ljudmila Ulickaja: Elsők és utolsók (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Elsok%20es%20utolsok%20%281287%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/Elsok%20es%20utolsok%20%281287%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Elsok%20es%20utolsok%20%281287%29/Elsok%20es%20utolsok%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/Elsok%20es%20utolsok%20%281287%29/Elsok%20es%20utolsok%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [emberi sorsok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/emberi%20sorsok.md), [kispróza](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kispr%c3%b3za.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [moszkva](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/moszkva.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [orosz realizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20realizmus.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md), [oroszország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/oroszorsz%c3%a1g.md), [összetett regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6sszetett%20reg%c3%a9ny.md), [realizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/realizmus.md)
@@ -41,10 +41,10 @@
 
 
 # <a name="id_1296">Ljudmila Ulickaja: Jákob lajtorjája (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Jakob%20lajtorjaja%20%281296%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/Jakob%20lajtorjaja%20%281296%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Jakob%20lajtorjaja%20%281296%29/Jakob%20lajtorjaja%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/Jakob%20lajtorjaja%20%281296%29/Jakob%20lajtorjaja%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 [családtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1dt%c3%b6rt%c3%a9net.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md), [oroszország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/oroszorsz%c3%a1g.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -55,10 +55,10 @@
 
 
 # <a name="id_1291">Ljudmila Ulickaja: Odaadó hívetek, Surik (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Odaado%20hivetek%2C%20Surik%20%281291%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/Odaado%20hivetek%2C%20Surik%20%281291%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Odaado%20hivetek%2C%20Surik%20%281291%29/Odaado%20hivetek%2C%20Surik%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/Odaado%20hivetek%2C%20Surik%20%281291%29/Odaado%20hivetek%2C%20Surik%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [családtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1dt%c3%b6rt%c3%a9net.md), [emberi sorsok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/emberi%20sorsok.md), [erotikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/erotikus.md), [férfiak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfiak.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md), [oroszország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/oroszorsz%c3%a1g.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [tudatregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tudatreg%c3%a9ny.md)
@@ -69,10 +69,10 @@
 
 
 # <a name="id_1289">Ljudmila Ulickaja: Szonyecska (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Szonyecska%20%281289%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/Szonyecska%20%281289%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Szonyecska%20%281289%29/Szonyecska%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/Szonyecska%20%281289%29/Szonyecska%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [emberi sorsok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/emberi%20sorsok.md), [festészet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fest%c3%a9szet.md), [házasság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1zass%c3%a1g.md), [kisregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kisreg%c3%a9ny.md), [könyvtáros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b6nyvt%c3%a1ros.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [művészet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c5%b1v%c3%a9szet.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md), [oroszország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/oroszorsz%c3%a1g.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [tudatregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tudatreg%c3%a9ny.md)
@@ -83,10 +83,10 @@
 
 
 # <a name="id_1297">Ljudmila Ulickaja: A mi Urunk népe (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/A%20mi%20Urunk%20nepe%20%281297%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/A%20mi%20Urunk%20nepe%20%281297%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/A%20mi%20Urunk%20nepe%20%281297%29/A%20mi%20Urunk%20nepe%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/A%20mi%20Urunk%20nepe%20%281297%29/A%20mi%20Urunk%20nepe%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md), [társadalomrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1rsadalomrajz.md), [novellák](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novell%c3%a1k.md)
@@ -107,10 +107,10 @@
 
 
 # <a name="id_1293">Ljudmila Ulickaja: Médea és gyermekei (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Medea%20es%20gyermekei%20%281293%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/Medea%20es%20gyermekei%20%281293%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Medea%20es%20gyermekei%20%281293%29/Medea%20es%20gyermekei%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/Medea%20es%20gyermekei%20%281293%29/Medea%20es%20gyermekei%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [család](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1d.md), [családregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1dreg%c3%a9ny.md), [családtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1dt%c3%b6rt%c3%a9net.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md), [oroszország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/oroszorsz%c3%a1g.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md)
@@ -121,10 +121,10 @@
 
 
 # <a name="id_1285">Ljudmila Ulickaja: Daniel Stein, tolmács (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Daniel%20Stein%2C%20tolmacs%20%281285%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/Daniel%20Stein%2C%20tolmacs%20%281285%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Daniel%20Stein%2C%20tolmacs%20%281285%29/Daniel%20Stein%2C%20tolmacs%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/Daniel%20Stein%2C%20tolmacs%20%281285%29/Daniel%20Stein%2C%20tolmacs%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 [2. világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/2.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [arab világ](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/arab%20vil%c3%a1g.md), [dokumentarista](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dokumentarista.md), [emigráció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/emigr%c3%a1ci%c3%b3.md), [izrael](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/izrael.md), [judaizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/judaizmus.md), [kereszténység](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kereszt%c3%a9nys%c3%a9g.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [levélregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/lev%c3%a9lreg%c3%a9ny.md), [litvánia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/litv%c3%a1nia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md), [politika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/politika.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szeretet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szeretet.md), [szerzetesség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szerzetess%c3%a9g.md), [társadalomtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1rsadalomt%c3%b6rt%c3%a9net.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md)
@@ -135,10 +135,10 @@
 
 
 # <a name="id_1298">Ljudmila Ulickaja: Imágó (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Imago%20%281298%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/Imago%20%281298%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Imago%20%281298%29/Imago%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/Imago%20%281298%29/Imago%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [korrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/korrajz.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [lélekrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a9lekrajz.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -149,10 +149,10 @@
 
 
 # <a name="id_1288">Ljudmila Ulickaja: Vidám temetés (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Vidam%20temetes%20%281288%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/Vidam%20temetes%20%281288%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Vidam%20temetes%20%281288%29/Vidam%20temetes%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/Vidam%20temetes%20%281288%29/Vidam%20temetes%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [emigráció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/emigr%c3%a1ci%c3%b3.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [new york](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/new%20york.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [zsidó](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/zsid%c3%b3.md)
@@ -163,10 +163,10 @@
 
 
 # <a name="id_1292">Ljudmila Ulickaja: A lélek testéről (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/A%20lelek%20testerol%20%281292%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/A%20lelek%20testerol%20%281292%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/A%20lelek%20testerol%20%281292%29/A%20lelek%20testerol%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/A%20lelek%20testerol%20%281292%29/A%20lelek%20testerol%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md)
@@ -177,10 +177,10 @@
 
 
 # <a name="id_1286">Ljudmila Ulickaja: Életművésznők (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Eletmuvesznok%20%281286%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/Eletmuvesznok%20%281286%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ljudmila%20Ulickaja/Eletmuvesznok%20%281286%29/Eletmuvesznok%20-%20Ljudmila%20Ulickaja.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ljudmila%20Ulickaja/Eletmuvesznok%20%281286%29/Eletmuvesznok%20-%20Ljudmila%20Ulickaja.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)

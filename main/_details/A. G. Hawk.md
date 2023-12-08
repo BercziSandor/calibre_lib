@@ -1,8 +1,8 @@
 # <a name="id_949">A. G. Hawk: Időtlenségbe zárva (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/A.%20G.%20Hawk/Idotlensegbe%20zarva%20%28949%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/A.%20G.%20Hawk/Idotlensegbe%20zarva%20%28949%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/A.%20G.%20Hawk/Idotlensegbe%20zarva%20%28949%29/Idotlensegbe%20zarva%20-%20A.%20G.%20Hawk.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/A.%20G.%20Hawk/Idotlensegbe%20zarva%20%28949%29/Idotlensegbe%20zarva%20-%20A.%20G.%20Hawk.epub)
 
 ### Tagek
 [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [mese](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mese.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [urban fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/urban%20fantasy.md)

@@ -1,8 +1,8 @@
 # <a name="id_404">Joseph Heywood: Hozd el nekem Hitlert! (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joseph%20Heywood/Hozd%20el%20nekem%20Hitlert%21%20%28404%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joseph%20Heywood/Hozd%20el%20nekem%20Hitlert%21%20%28404%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joseph%20Heywood/Hozd%20el%20nekem%20Hitlert%21%20%28404%29/Hozd%20el%20nekem%20Hitlert%21%20-%20Joseph%20Heywood.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joseph%20Heywood/Hozd%20el%20nekem%20Hitlert%21%20%28404%29/Hozd%20el%20nekem%20Hitlert%21%20-%20Joseph%20Heywood.epub)
 
 ### Tagek
 [1940-es évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1940-es%20%c3%a9vek.md), [2. világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/2.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [alternatív történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/alternat%c3%adv%20t%c3%b6rt%c3%a9nelem.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [németország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9metorsz%c3%a1g.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1bor%c3%ba.md)

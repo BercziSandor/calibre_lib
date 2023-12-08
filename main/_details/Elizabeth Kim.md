@@ -1,8 +1,8 @@
 # <a name="id_1513">Elizabeth Kim: Tízezer könnycsepp (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Elizabeth%20Kim/Tizezer%20konnycsepp%20%281513%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Elizabeth%20Kim/Tizezer%20konnycsepp%20%281513%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Elizabeth%20Kim/Tizezer%20konnycsepp%20%281513%29/Tizezer%20konnycsepp%20-%20Elizabeth%20Kim.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Elizabeth%20Kim/Tizezer%20konnycsepp%20%281513%29/Tizezer%20konnycsepp%20-%20Elizabeth%20Kim.epub)
 
 ### Összefoglalás
 <div>

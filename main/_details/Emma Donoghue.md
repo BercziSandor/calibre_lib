@@ -1,8 +1,8 @@
 # <a name="id_356">Emma Donoghue: A szoba (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Emma%20Donoghue/A%20szoba%20%28356%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Emma%20Donoghue/A%20szoba%20%28356%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Emma%20Donoghue/A%20szoba%20%28356%29/A%20szoba%20-%20Emma%20Donoghue.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Emma%20Donoghue/A%20szoba%20%28356%29/A%20szoba%20-%20Emma%20Donoghue.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [literary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literary.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md)

@@ -1,8 +1,8 @@
 # <a name="id_406">George Mikes: Papucsban (1987)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20Mikes/Papucsban%20%28406%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20Mikes/Papucsban%20%28406%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20Mikes/Papucsban%20%28406%29/Papucsban%20-%20George%20Mikes.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20Mikes/Papucsban%20%28406%29/Papucsban%20-%20George%20Mikes.epub)
 
 ### Tagek
 [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [humoreszk](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoreszk.md), [angol humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20humor.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szat%c3%adra.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_985">George Mikes: Hogyan legyünk szegények (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20Mikes/Hogyan%20legyunk%20szegenyek%20%28985%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20Mikes/Hogyan%20legyunk%20szegenyek%20%28985%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20Mikes/Hogyan%20legyunk%20szegenyek%20%28985%29/Hogyan%20legyunk%20szegenyek%20-%20George%20Mikes.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20Mikes/Hogyan%20legyunk%20szegenyek%20%28985%29/Hogyan%20legyunk%20szegenyek%20-%20George%20Mikes.epub)
 
 ### Tagek
 [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [nagy-britannia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nagy-britannia.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [szegénység](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szeg%c3%a9nys%c3%a9g.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md)

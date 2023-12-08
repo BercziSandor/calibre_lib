@@ -1,8 +1,8 @@
 # <a name="id_696">Terry Pratchett: A mágia színe (Korongvilág 1) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/A%20magia%20szine%20%28696%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/A%20magia%20szine%20%28696%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/A%20magia%20szine%20%28696%29/A%20magia%20szine%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/A%20magia%20szine%20%28696%29/A%20magia%20szine%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [fantasyparódia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasypar%c3%b3dia.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [paródia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/par%c3%b3dia.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sárkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/s%c3%a1rk%c3%a1ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [turizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/turizmus.md), [utazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/utaz%c3%a1s.md), [varázsló](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/var%c3%a1zsl%c3%b3.md)
@@ -12,10 +12,10 @@ Valahol messze, az űr egy eldugott zugában lavíroz A'Tuin, a gigászi teknőc
 
 
 # <a name="id_695">Terry Pratchett: A mágia fénye (Korongvilág 2) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/A%20magia%20fenye%20%28695%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/A%20magia%20fenye%20%28695%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/A%20magia%20fenye%20%28695%29/A%20magia%20fenye%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/A%20magia%20fenye%20%28695%29/A%20magia%20fenye%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [varázsló](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/var%c3%a1zsl%c3%b3.md)
@@ -25,10 +25,10 @@ Nagy A'Tuin, a Korongvilágot hátán cipelő csillagteknőc az egyetlen lény k
 
 
 # <a name="id_694">Terry Pratchett: Egyenjogú rítusok (Korongvilág 3) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Egyenjogu%20ritusok%20%28694%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Egyenjogu%20ritusok%20%28694%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Egyenjogu%20ritusok%20%28694%29/Egyenjogu%20ritusok%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Egyenjogu%20ritusok%20%28694%29/Egyenjogu%20ritusok%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [boszorkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/boszork%c3%a1ny.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [fantasyparódia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasypar%c3%b3dia.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [varázsló](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/var%c3%a1zsl%c3%b3.md)
@@ -38,10 +38,10 @@ Bilét Donát, a varázsló élete utolsó cselekedeteként – mielőtt a Halá
 
 
 # <a name="id_762">Terry Pratchett: Mort, a halál kisinasa (Korongvilág 4) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Mort%2C%20a%20halal%20kisinasa%20%28762%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Mort%2C%20a%20halal%20kisinasa%20%28762%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Mort%2C%20a%20halal%20kisinasa%20%28762%29/Mort%2C%20a%20halal%20kisinasa%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Mort%2C%20a%20halal%20kisinasa%20%28762%29/Mort%2C%20a%20halal%20kisinasa%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [brit](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit.md), [angol](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol.md), [fantasyparódia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasypar%c3%b3dia.md)
@@ -51,10 +51,10 @@ Bilét Donát, a varázsló élete utolsó cselekedeteként – mielőtt a Halá
 
 
 # <a name="id_697">Terry Pratchett: Bűbájos bajok (Korongvilág 5) (1999)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Bubajos%20bajok%20%28697%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Bubajos%20bajok%20%28697%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Bubajos%20bajok%20%28697%29/Bubajos%20bajok%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Bubajos%20bajok%20%28697%29/Bubajos%20bajok%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [varázsló](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/var%c3%a1zsl%c3%b3.md)
@@ -69,10 +69,10 @@ Egy bűbájos.
 
 
 # <a name="id_689">Terry Pratchett: Vészbanyák (Korongvilág 6) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Veszbanyak%20%28689%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Veszbanyak%20%28689%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Veszbanyak%20%28689%29/Veszbanyak%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Veszbanyak%20%28689%29/Veszbanyak%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [boszorkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/boszork%c3%a1ny.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [fantasyparódia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasypar%c3%b3dia.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [színjátszás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%adnj%c3%a1tsz%c3%a1s.md)
@@ -84,10 +84,10 @@ Azonban még ő is kénytelen belátni, hogy a királyi udvar cselszövényeibe 
 
 
 # <a name="id_699">Terry Pratchett: Erik (Korongvilág 9) (1996)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Erik%20%28699%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Erik%20%28699%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Erik%20%28699%29/Erik%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Erik%20%28699%29/Erik%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md), [urban](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/urban.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [brit](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit.md), [angol](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol.md), [fantasyparódia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasypar%c3%b3dia.md)
@@ -101,10 +101,10 @@ Velük az oldalán Erikre nagy utazás vár az időn és a téren át, amitől m
 
 
 # <a name="id_690">Terry Pratchett: Vége a mesének (Korongvilág 12) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Vege%20a%20mesenek%20%28690%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Vege%20a%20mesenek%20%28690%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Vege%20a%20mesenek%20%28690%29/Vege%20a%20mesenek%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Vege%20a%20mesenek%20%28690%29/Vege%20a%20mesenek%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [boszorkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/boszork%c3%a1ny.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md)
@@ -117,10 +117,10 @@ Legalábbis nem lehetett – mostanáig…
 
 
 # <a name="id_761">Terry Pratchett: Kisistenek (Korongvilág 13) (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Kisistenek%20%28761%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Kisistenek%20%28761%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Kisistenek%20%28761%29/Kisistenek%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Kisistenek%20%28761%29/Kisistenek%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [további könyveink](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tov%c3%a1bbi%20k%c3%b6nyveink.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [istenek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/istenek.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [vallás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vall%c3%a1s.md), [hit](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hit.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md)
@@ -135,10 +135,10 @@ A legeslegjobban azonban azt szeretné, ha az istene valaki mást választana ki
 
 
 # <a name="id_691">Terry Pratchett: Hölgyek és urak (Korongvilág 14) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Holgyek%20es%20urak%20%28691%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Holgyek%20es%20urak%20%28691%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Holgyek%20es%20urak%20%28691%29/Holgyek%20es%20urak%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Holgyek%20es%20urak%20%28691%29/Holgyek%20es%20urak%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [boszorkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/boszork%c3%a1ny.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [tündér](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%bcnd%c3%a9r.md)
@@ -152,10 +152,10 @@ A darabban szerepet kapnak még törpék, varázslók, trollok, néptáncosok é
 
 
 # <a name="id_698">Terry Pratchett: Érdekes idők (Korongvilág 17) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Erdekes%20idok%20%28698%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Erdekes%20idok%20%28698%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Erdekes%20idok%20%28698%29/Erdekes%20idok%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Erdekes%20idok%20%28698%29/Erdekes%20idok%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [kína](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%adna.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [varázsló](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/var%c3%a1zsl%c3%b3.md)
@@ -171,10 +171,10 @@ Cohen, az ortopédiás sarujában is legfeljebb négy könyök magas barbár hő
 
 
 # <a name="id_692">Terry Pratchett: Maszkabál (Korongvilág 18) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Maszkabal%20%28692%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Maszkabal%20%28692%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Maszkabal%20%28692%29/Maszkabal%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Maszkabal%20%28692%29/Maszkabal%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [boszorkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/boszork%c3%a1ny.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [opera](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/opera.md), [paródia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/par%c3%b3dia.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [színház](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%adnh%c3%a1z.md)
@@ -187,10 +187,10 @@ Valaki legalábbis ezt reméli. Ám Wiharvész Anyó, a Korongvilág leghíreseb
 
 
 # <a name="id_700">Terry Pratchett: Kallódó kontinens (Korongvilág 22) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Kallodo%20kontinens%20%28700%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Kallodo%20kontinens%20%28700%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Kallodo%20kontinens%20%28700%29/Kallodo%20kontinens%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Kallodo%20kontinens%20%28700%29/Kallodo%20kontinens%20-%20Terry%20Pratchett.epub)
 
 ### Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [varázsló](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/var%c3%a1zsl%c3%b3.md)
@@ -205,10 +205,10 @@ Szóval… gond egy szál se, eh?
 
 
 # <a name="id_693">Terry Pratchett: Carpe Jugulum (Korongvilág 23) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Carpe%20Jugulum%20%28693%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Carpe%20Jugulum%20%28693%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Terry%20Pratchett/Carpe%20Jugulum%20%28693%29/Carpe%20Jugulum%20-%20Terry%20Pratchett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Terry%20Pratchett/Carpe%20Jugulum%20%28693%29/Carpe%20Jugulum%20-%20Terry%20Pratchett.epub)
 
 ### Összefoglalás
 <div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;">FOHÁSSZAL OTTOKÁR NEM TÚL JÓ IDŐBEN AKARJA GYAKOROLNI PAPI HIVATÁSÁT. VAGY NEM TÚL JÓ HELYEN. AZT HITTE, CSUPÁN EGY EGYSZERŰ SZERTARTÁS MIATT KELL LANCRE-BE MENNIE, DE RÁ KELL ÉBREDNIE, HOGY A VÁMPÍROK ÉS A BOSZORKÁNYOK KÖZÖTT DÚLÓ HÁBORÚ KELLŐS KÖZEPÉBE CSÖPPENT.</span></font></div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;"><br></span></font></div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;">Boszorkányok alatt pedig az ifjú Ágnes értendő, aki tényleg nem tud még saját magával sem egyetérteni; Magrat, aki a boszorkánykodást a pelenkákkal próbálja ötvözni; Ogg Nagyi… </span></font></div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;">…valamint Wiharvész Anyó, aki már önmagában súlyos gondot jelent.</span></font></div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;"><br></span></font></div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;">A vámpírok viszont intelligensek, a stílus mellett díszes mellényekkel is rendelkeznek, és kiszabadultak. Ők is szeretnének egy harapásnyit a jövőből.</span></font></div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;"><br></span></font></div><div><font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;">Fohásszal Ottokár tudja, hogy vele van az ima ereje – de azt kívánja, bárcsak lenne nála egy bárd is.</span></font></div></div>

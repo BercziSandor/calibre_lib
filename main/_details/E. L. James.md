@@ -1,8 +1,8 @@
 # <a name="id_466">E. L. James: A szürke ötven árnyalata (Árnyalat 1) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/E.%20L.%20James/A%20szurke%20otven%20arnyalata%20%28466%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/E.%20L.%20James/A%20szurke%20otven%20arnyalata%20%28466%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/E.%20L.%20James/A%20szurke%20otven%20arnyalata%20%28466%29/A%20szurke%20otven%20arnyalata%20-%20E.%20L.%20James.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/E.%20L.%20James/A%20szurke%20otven%20arnyalata%20%28466%29/A%20szurke%20otven%20arnyalata%20-%20E.%20L.%20James.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [romance](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romance.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md), [erotica](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/erotica.md)

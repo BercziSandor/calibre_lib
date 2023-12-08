@@ -1,8 +1,8 @@
 # <a name="id_601">Vámos, Miklós: 135 lehetetlen történet (1997)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vamos%2C%20Miklos/135%20lehetetlen%20tortenet%20%28601%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vamos%2C%20Miklos/135%20lehetetlen%20tortenet%20%28601%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vamos%2C%20Miklos/135%20lehetetlen%20tortenet%20%28601%29/135%20lehetetlen%20tortenet%20-%20Vamos%2C%20Miklos.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Vamos%2C%20Miklos/135%20lehetetlen%20tortenet%20%28601%29/135%20lehetetlen%20tortenet%20-%20Vamos%2C%20Miklos.epub)
 
 ### Tagek
 [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [napjaink](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/napjaink.md), [bulvár](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bulv%c3%a1r.md), [politika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/politika.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [televíziózás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/telev%c3%adzi%c3%b3z%c3%a1s.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_1013">Vámos, Miklós: Hogy volt (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vamos%2C%20Miklos/Hogy%20volt%20%281013%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vamos%2C%20Miklos/Hogy%20volt%20%281013%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vamos%2C%20Miklos/Hogy%20volt%20%281013%29/Hogy%20volt%20-%20Vamos%2C%20Miklos.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Vamos%2C%20Miklos/Hogy%20volt%20%281013%29/Hogy%20volt%20-%20Vamos%2C%20Miklos.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [anekdota](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anekdota.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [visszaemlékezés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/visszaeml%c3%a9kez%c3%a9s.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md)
@@ -27,10 +27,10 @@
 
 
 # <a name="id_604">Vámos, Miklós: Zenga zének (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vamos%2C%20Miklos/Zenga%20zenek%20%28604%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vamos%2C%20Miklos/Zenga%20zenek%20%28604%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vamos%2C%20Miklos/Zenga%20zenek%20%28604%29/Zenga%20zenek%20-%20Vamos%2C%20Miklos.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Vamos%2C%20Miklos/Zenga%20zenek%20%28604%29/Zenga%20zenek%20-%20Vamos%2C%20Miklos.epub)
 
 ### Tagek
 [1950-es évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1950-es%20%c3%a9vek.md), [1956](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1956.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [gyermekszemszög](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekszemsz%c3%b6g.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -41,10 +41,10 @@
 
 
 # <a name="id_603">Vámos, Miklós: Anya csak egy van (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vamos%2C%20Miklos/Anya%20csak%20egy%20van%20%28603%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vamos%2C%20Miklos/Anya%20csak%20egy%20van%20%28603%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vamos%2C%20Miklos/Anya%20csak%20egy%20van%20%28603%29/Anya%20csak%20egy%20van%20-%20Vamos%2C%20Miklos.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Vamos%2C%20Miklos/Anya%20csak%20egy%20van%20%28603%29/Anya%20csak%20egy%20van%20-%20Vamos%2C%20Miklos.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [depresszió](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/depresszi%c3%b3.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [nagy könyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nagy%20k%c3%b6nyv.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -55,10 +55,10 @@
 
 
 # <a name="id_602">Vámos, Miklós: A New York–Budapest metró (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vamos%2C%20Miklos/A%20New%20York-Budapest%20metro%20%28602%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vamos%2C%20Miklos/A%20New%20York-Budapest%20metro%20%28602%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vamos%2C%20Miklos/A%20New%20York-Budapest%20metro%20%28602%29/A%20New%20York-Budapest%20metro%20-%20Vamos%2C%20Miklos.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Vamos%2C%20Miklos/A%20New%20York-Budapest%20metro%20%28602%29/A%20New%20York-Budapest%20metro%20-%20Vamos%2C%20Miklos.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)

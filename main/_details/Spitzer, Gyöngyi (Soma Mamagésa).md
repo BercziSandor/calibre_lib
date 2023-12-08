@@ -1,8 +1,8 @@
 # <a name="id_6">Spitzer, Gyöngyi (Soma Mamagésa): Tiszta Szex (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Spitzer%2C%20Gyongyi%20%28soma%20Mamagesa%29/Tiszta%20Szex%20%286%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Spitzer%2C%20Gyongyi%20%28soma%20Mamagesa%29/Tiszta%20Szex%20%286%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Spitzer%2C%20Gyongyi%20%28soma%20Mamagesa%29/Tiszta%20Szex%20%286%29/Tiszta%20Szex%20-%20Spitzer%2C%20Gyongyi%20%28Soma%20Mamagesa.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Spitzer%2C%20Gyongyi%20%28soma%20Mamagesa%29/Tiszta%20Szex%20%286%29/Tiszta%20Szex%20-%20Spitzer%2C%20Gyongyi%20%28Soma%20Mamagesa.epub)
 
 ### Tagek
 [egészségpszichológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/eg%c3%a9szs%c3%a9gpszichol%c3%b3gia.md), [életmód](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letm%c3%b3d.md), [pszichológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszichol%c3%b3gia.md), [egészség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/eg%c3%a9szs%c3%a9g.md), [szexualitás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szexualit%c3%a1s.md)

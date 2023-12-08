@@ -1,8 +1,8 @@
 # <a name="id_503">P. G. Wodehouse: Forduljon Psmithhez! (Blandings kastély 2) (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Forduljon%20Psmithhez%21%20%28503%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Forduljon%20Psmithhez%21%20%28503%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Forduljon%20Psmithhez%21%20%28503%29/Forduljon%20Psmithhez%21%20-%20P.%20G.%20Wodehouse.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Forduljon%20Psmithhez%21%20%28503%29/Forduljon%20Psmithhez%21%20-%20P.%20G.%20Wodehouse.epub)
 
 ### Tagek
 [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [general fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general%20fiction.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [angol humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20humor.md)
@@ -29,10 +29,10 @@ Minderről pedig P.G. Wodehouse rendkívül mulatságos, kitűnően megszerkeszt
 
 
 # <a name="id_507">P. G. Wodehouse: Nyári zivatar (Blandings kastély 4) (2000)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Nyari%20zivatar%20%28507%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Nyari%20zivatar%20%28507%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Nyari%20zivatar%20%28507%29/Nyari%20zivatar%20-%20P.%20G.%20Wodehouse.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Nyari%20zivatar%20%28507%29/Nyari%20zivatar%20-%20P.%20G.%20Wodehouse.epub)
 
 ### Tagek
 [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [general fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general%20fiction.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [angol humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20humor.md)
@@ -42,10 +42,10 @@ Egy ​bizonyos kritikus – mert ilyen emberek fájdalom, léteznek – azt a m
 
 
 # <a name="id_501">P. G. Wodehouse: Egy pelikán Blandingsben (Blandings kastély 11) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Egy%20pelikan%20Blandingsben%20%28501%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Egy%20pelikan%20Blandingsben%20%28501%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Egy%20pelikan%20Blandingsben%20%28501%29/Egy%20pelikan%20Blandingsben%20-%20P.%20G.%20Wodehouse.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Egy%20pelikan%20Blandingsben%20%28501%29/Egy%20pelikan%20Blandingsben%20-%20P.%20G.%20Wodehouse.epub)
 
 ### Tagek
 [angol humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20humor.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [general fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general%20fiction.md)
@@ -56,10 +56,10 @@ Egy ​bizonyos kritikus – mert ilyen emberek fájdalom, léteznek – azt a m
 
 
 # <a name="id_945">P. G. Wodehouse: Halihó, Jeeves! (Jeeves 2) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Haliho%2C%20Jeeves%21%20%28945%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Haliho%2C%20Jeeves%21%20%28945%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Haliho%2C%20Jeeves%21%20%28945%29/Haliho%2C%20Jeeves%21%20-%20P.%20G.%20Wodehouse.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Haliho%2C%20Jeeves%21%20%28945%29/Haliho%2C%20Jeeves%21%20-%20P.%20G.%20Wodehouse.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [angol](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol.md), [angol humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20humor.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [london](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/london.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [new york](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/new%20york.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [válogatás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a1logat%c3%a1s.md)
@@ -69,10 +69,10 @@ Bertram Wooster Londonban és New Yorkban számtalan furcsánál furcsább szitu
 
 
 # <a name="id_502">P. G. Wodehouse: Folytassa, Jeeves! (Jeeves 3) (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Folytassa%2C%20Jeeves%21%20%28502%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Folytassa%2C%20Jeeves%21%20%28502%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Folytassa%2C%20Jeeves%21%20%28502%29/Folytassa%2C%20Jeeves%21%20-%20P.%20G.%20Wodehouse.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Folytassa%2C%20Jeeves%21%20%28502%29/Folytassa%2C%20Jeeves%21%20-%20P.%20G.%20Wodehouse.epub)
 
 ### Tagek
 [new york](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/new%20york.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [general fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general%20fiction.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [london](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/london.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [angol](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol.md), [angol humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20humor.md)
@@ -82,10 +82,10 @@ Attól kezdve, hogy Jeeves belép Bertie Wooster életébe, és rendkívül hat�
 
 
 # <a name="id_943">P. G. Wodehouse: Gáz van, Jeeves! (Jeeves 7) (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Gaz%20van%2C%20Jeeves%21%20%28943%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Gaz%20van%2C%20Jeeves%21%20%28943%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Gaz%20van%2C%20Jeeves%21%20%28943%29/Gaz%20van%2C%20Jeeves%21%20-%20P.%20G.%20Wodehouse.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Gaz%20van%2C%20Jeeves%21%20%28943%29/Gaz%20van%2C%20Jeeves%21%20-%20P.%20G.%20Wodehouse.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [angol humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20humor.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md)
@@ -95,10 +95,10 @@ Bertie Wooster kényes küldetésben jár Totleigh Towersban, számos korábbi v
 
 
 # <a name="id_508">P. G. Wodehouse: Psmith a pénzvilágban (Psmith 2) (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Psmith%20a%20penzvilagban%20%28508%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Psmith%20a%20penzvilagban%20%28508%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Psmith%20a%20penzvilagban%20%28508%29/Psmith%20a%20penzvilagban%20-%20P.%20G.%20Wodehouse.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Psmith%20a%20penzvilagban%20%28508%29/Psmith%20a%20penzvilagban%20-%20P.%20G.%20Wodehouse.epub)
 
 ### Tagek
 [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [sport](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sport.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [general fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general%20fiction.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [angol humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20humor.md)
@@ -108,10 +108,10 @@ A Forduljon Psmithhez közkedvelt hősével, a magát minden helyzetben feltalá
 
 
 # <a name="id_506">P. G. Wodehouse: Kirabol a komornyikom (1988)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Kirabol%20a%20komornyikom%20%28506%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Kirabol%20a%20komornyikom%20%28506%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Kirabol%20a%20komornyikom%20%28506%29/Kirabol%20a%20komornyikom%20-%20P.%20G.%20Wodehouse.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Kirabol%20a%20komornyikom%20%28506%29/Kirabol%20a%20komornyikom%20-%20P.%20G.%20Wodehouse.epub)
 
 ### Tagek
 [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [general fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general%20fiction.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [angol humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20humor.md), [bűnözés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c5%b1n%c3%b6z%c3%a9s.md)
@@ -121,10 +121,10 @@ Rabolnak-e bankot a komornyikok?, teszi fel a kérdést a könyv egyik szereplő
 
 
 # <a name="id_500">P. G. Wodehouse: Az életművész (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Az%20eletmuvesz%20%28500%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Az%20eletmuvesz%20%28500%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Az%20eletmuvesz%20%28500%29/Az%20eletmuvesz%20-%20P.%20G.%20Wodehouse.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Az%20eletmuvesz%20%28500%29/Az%20eletmuvesz%20-%20P.%20G.%20Wodehouse.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20humor.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [general fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general%20fiction.md)
@@ -135,10 +135,10 @@ Rabolnak-e bankot a komornyikok?, teszi fel a kérdést a könyv egyik szereplő
 
 
 # <a name="id_509">P. G. Wodehouse: Rengeteg pénz (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Rengeteg%20penz%20%28509%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Rengeteg%20penz%20%28509%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Rengeteg%20penz%20%28509%29/Rengeteg%20penz%20-%20P.%20G.%20Wodehouse.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Rengeteg%20penz%20%28509%29/Rengeteg%20penz%20-%20P.%20G.%20Wodehouse.epub)
 
 ### Tagek
 [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [general fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general%20fiction.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [angol humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20humor.md)
@@ -148,10 +148,10 @@ Mit ​tegyen egy londoni fiatalember, ha nincs pénze? Mit tegyen két londoni 
 
 
 # <a name="id_944">P. G. Wodehouse: Rengeteg pénz (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Rengeteg%20penz%20%28944%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Rengeteg%20penz%20%28944%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Rengeteg%20penz%20%28944%29/Rengeteg%20penz%20-%20P.%20G.%20Wodehouse.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Rengeteg%20penz%20%28944%29/Rengeteg%20penz%20-%20P.%20G.%20Wodehouse.epub)
 
 ### Tagek
 [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [general fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general%20fiction.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [angol humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20humor.md)
@@ -161,10 +161,10 @@ Mit ​tegyen egy londoni fiatalember, ha nincs pénze? Mit tegyen két londoni 
 
 
 # <a name="id_504">P. G. Wodehouse: Hübele Sámuel (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Hubele%20Samuel%20%28504%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Hubele%20Samuel%20%28504%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Hubele%20Samuel%20%28504%29/Hubele%20Samuel%20-%20P.%20G.%20Wodehouse.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Hubele%20Samuel%20%28504%29/Hubele%20Samuel%20-%20P.%20G.%20Wodehouse.epub)
 
 ### Tagek
 [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [general fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general%20fiction.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [london](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/london.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [angol](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol.md), [angol humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20humor.md)
@@ -174,10 +174,10 @@ Sam Shotter amerikai fiatalember egy újságkivágás alapján beleszeret egy l�
 
 
 # <a name="id_505">P. G. Wodehouse: Karikacsapás (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Karikacsapas%20%28505%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Karikacsapas%20%28505%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Karikacsapas%20%28505%29/Karikacsapas%20-%20P.%20G.%20Wodehouse.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Karikacsapas%20%28505%29/Karikacsapas%20-%20P.%20G.%20Wodehouse.epub)
 
 ### Tagek
 [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [general fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general%20fiction.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [angol humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20humor.md)
@@ -187,10 +187,10 @@ Végy egy Amerikából Angliába származott sonkakirályt, egy nem-is-olyan-gaz
 
 
 # <a name="id_942">P. G. Wodehouse: Csirkék és szerelem (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Csirkek%20es%20szerelem%20%28942%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Csirkek%20es%20szerelem%20%28942%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Csirkek%20es%20szerelem%20%28942%29/Csirkek%20es%20szerelem%20-%20P.%20G.%20Wodehouse.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Csirkek%20es%20szerelem%20%28942%29/Csirkek%20es%20szerelem%20-%20P.%20G.%20Wodehouse.epub)
 
 ### Tagek
 [angol humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20humor.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -201,10 +201,10 @@ Végy egy Amerikából Angliába származott sonkakirályt, egy nem-is-olyan-gaz
 
 
 # <a name="id_941">P. G. Wodehouse: Blandings és vidéke (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Blandings%20es%20videke%20%28941%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Blandings%20es%20videke%20%28941%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/P.%20G.%20Wodehouse/Blandings%20es%20videke%20%28941%29/Blandings%20es%20videke%20-%20P.%20G.%20Wodehouse.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Blandings%20es%20videke%20%28941%29/Blandings%20es%20videke%20-%20P.%20G.%20Wodehouse.epub)
 
 ### Tagek
 [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)

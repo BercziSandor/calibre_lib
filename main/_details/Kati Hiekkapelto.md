@@ -1,8 +1,8 @@
 # <a name="id_1198">Kati Hiekkapelto: Kolibri (Fekete Anna 1) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kati%20Hiekkapelto/Kolibri%20%281198%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kati%20Hiekkapelto/Kolibri%20%281198%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kati%20Hiekkapelto/Kolibri%20%281198%29/Kolibri%20-%20Kati%20Hiekkapelto.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kati%20Hiekkapelto/Kolibri%20%281198%29/Kolibri%20-%20Kati%20Hiekkapelto.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [mystery & detective](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery%20%26%20detective.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)

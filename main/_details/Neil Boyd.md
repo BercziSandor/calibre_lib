@@ -1,8 +1,8 @@
 # <a name="id_922">Neil Boyd: Egek, mitévő legyek? (1997)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Boyd/Egek%2C%20mitevo%20legyek_%20%28922%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Boyd/Egek%2C%20mitevo%20legyek_%20%28922%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Boyd/Egek%2C%20mitevo%20legyek_%20%28922%29/Egek%2C%20mitevo%20legyek_%20-%20Neil%20Boyd.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Boyd/Egek%2C%20mitevo%20legyek_%20%28922%29/Egek%2C%20mitevo%20legyek_%20-%20Neil%20Boyd.epub)
 
 ### Tagek
 [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [anekdota](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anekdota.md), [angol humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20humor.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md)
@@ -12,10 +12,10 @@
 
 
 # <a name="id_923">Neil Boyd: Atyák pácban (1999)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Boyd/Atyak%20pacban%20%28923%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Boyd/Atyak%20pacban%20%28923%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Boyd/Atyak%20pacban%20%28923%29/Atyak%20pacban%20-%20Neil%20Boyd.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Boyd/Atyak%20pacban%20%28923%29/Atyak%20pacban%20-%20Neil%20Boyd.epub)
 
 ### Tagek
 [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [papság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/paps%c3%a1g.md), [vallás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vall%c3%a1s.md)

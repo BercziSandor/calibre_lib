@@ -1,8 +1,8 @@
 # <a name="id_797">Jon Krakauer: Út a vadonba (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jon%20Krakauer/Ut%20a%20vadonba%20%28797%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jon%20Krakauer/Ut%20a%20vadonba%20%28797%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jon%20Krakauer/Ut%20a%20vadonba%20%28797%29/Ut%20a%20vadonba%20-%20Jon%20Krakauer.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jon%20Krakauer/Ut%20a%20vadonba%20%28797%29/Ut%20a%20vadonba%20-%20Jon%20Krakauer.epub)
 
 ### Tagek
 [alaszka](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/alaszka.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [életrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letrajz.md), [hegymászás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hegym%c3%a1sz%c3%a1s.md), [igaz történet alapján](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/igaz%20t%c3%b6rt%c3%a9net%20alapj%c3%a1n.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [természet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/term%c3%a9szet.md), [útleírás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%batle%c3%adr%c3%a1s.md), [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [dokumentumregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dokumentumreg%c3%a9ny.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [igaz történet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/igaz%20t%c3%b6rt%c3%a9net.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md)

@@ -1,8 +1,8 @@
 # <a name="id_997">John Keegan: A második világháború (The Times 1) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/John%20Keegan/A%20masodik%20vilaghaboru%20%28997%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/John%20Keegan/A%20masodik%20vilaghaboru%20%28997%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/John%20Keegan/A%20masodik%20vilaghaboru%20%28997%29/A%20masodik%20vilaghaboru%20-%20John%20Keegan.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/John%20Keegan/A%20masodik%20vilaghaboru%20%28997%29/A%20masodik%20vilaghaboru%20-%20John%20Keegan.epub)
 
 ### Tagek
 [2. világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/2.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [atlasz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/atlasz.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md)

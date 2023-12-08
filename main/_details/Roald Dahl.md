@@ -1,8 +1,8 @@
 # <a name="id_1593">Roald Dahl: Charlie and the Chocolate Factory (Charlie Bucket 1) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roald%20Dahl/Charlie%20and%20the%20Chocolate%20Factory%20%281593%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Roald%20Dahl/Charlie%20and%20the%20Chocolate%20Factory%20%281593%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roald%20Dahl/Charlie%20and%20the%20Chocolate%20Factory%20%281593%29/Charlie%20and%20the%20Chocolate%20Facto%20-%20Roald%20Dahl.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Roald%20Dahl/Charlie%20and%20the%20Chocolate%20Factory%20%281593%29/Charlie%20and%20the%20Chocolate%20Facto%20-%20Roald%20Dahl.epub)
 
 ### Tagek
 [juvenile fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/juvenile%20fiction.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [fantasy & magic](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy%20%26%20magic.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_1594">Roald Dahl: Charlie and the Great Glass Elevator (Charlie Bucket 2) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roald%20Dahl/Charlie%20and%20the%20Great%20Glass%20Elevato%20%281594%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Roald%20Dahl/Charlie%20and%20the%20Great%20Glass%20Elevato%20%281594%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roald%20Dahl/Charlie%20and%20the%20Great%20Glass%20Elevato%20%281594%29/Charlie%20and%20the%20Great%20Glass%20Ele%20-%20Roald%20Dahl.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Roald%20Dahl/Charlie%20and%20the%20Great%20Glass%20Elevato%20%281594%29/Charlie%20and%20the%20Great%20Glass%20Ele%20-%20Roald%20Dahl.epub)
 
 ### Tagek
 [juvenile fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/juvenile%20fiction.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [fantasy & magic](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy%20%26%20magic.md)
@@ -27,10 +27,10 @@
 
 
 # <a name="id_537">Roald Dahl: Szofi és a HABÓ (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roald%20Dahl/Szofi%20es%20a%20HABO%20%28537%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Roald%20Dahl/Szofi%20es%20a%20HABO%20%28537%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roald%20Dahl/Szofi%20es%20a%20HABO%20%28537%29/Szofi%20es%20a%20HABO%20-%20Roald%20Dahl.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Roald%20Dahl/Szofi%20es%20a%20HABO%20%28537%29/Szofi%20es%20a%20HABO%20-%20Roald%20Dahl.epub)
 
 ### Tagek
 [álom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1lom.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [árva](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1rva.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyermek főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek%20f%c5%91szerepl%c5%91.md), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [meseregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mesereg%c3%a9ny.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -41,10 +41,10 @@
 
 
 # <a name="id_1596">Roald Dahl: Roald Dahl összes meghökkentő meséje 2. (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roald%20Dahl/Roald%20Dahl%20osszes%20meghokkento%20mesej%20%281596%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Roald%20Dahl/Roald%20Dahl%20osszes%20meghokkento%20mesej%20%281596%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roald%20Dahl/Roald%20Dahl%20osszes%20meghokkento%20mesej%20%281596%29/Roald%20Dahl%20osszes%20meghokkento%20m%20-%20Roald%20Dahl.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Roald%20Dahl/Roald%20Dahl%20osszes%20meghokkento%20mesej%20%281596%29/Roald%20Dahl%20osszes%20meghokkento%20m%20-%20Roald%20Dahl.epub)
 
 ### Tagek
 [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [fekete humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fekete%20humor.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md)
@@ -55,10 +55,10 @@
 
 
 # <a name="id_1595">Roald Dahl: Roald Dahl összes meghökkentő meséje 1. (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roald%20Dahl/Roald%20Dahl%20osszes%20meghokkento%20mesej%20%281595%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Roald%20Dahl/Roald%20Dahl%20osszes%20meghokkento%20mesej%20%281595%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roald%20Dahl/Roald%20Dahl%20osszes%20meghokkento%20mesej%20%281595%29/Roald%20Dahl%20osszes%20meghokkento%20m%20-%20Roald%20Dahl.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Roald%20Dahl/Roald%20Dahl%20osszes%20meghokkento%20mesej%20%281595%29/Roald%20Dahl%20osszes%20meghokkento%20m%20-%20Roald%20Dahl.epub)
 
 ### Tagek
 [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [fekete humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fekete%20humor.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md)
@@ -109,10 +109,10 @@
 
 
 # <a name="id_1602">Roald Dahl: Boszorkányok (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roald%20Dahl/Boszorkanyok%20%281602%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Roald%20Dahl/Boszorkanyok%20%281602%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roald%20Dahl/Boszorkanyok%20%281602%29/Boszorkanyok%20-%20Roald%20Dahl.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Roald%20Dahl/Boszorkanyok%20%281602%29/Boszorkanyok%20-%20Roald%20Dahl.epub)
 
 ### Összefoglalás
 <div>
@@ -120,10 +120,10 @@
 
 
 # <a name="id_1601">Roald Dahl: Fantasztikus Róka úr (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roald%20Dahl/Fantasztikus%20Roka%20ur%20%281601%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Roald%20Dahl/Fantasztikus%20Roka%20ur%20%281601%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Roald%20Dahl/Fantasztikus%20Roka%20ur%20%281601%29/Fantasztikus%20Roka%20ur%20-%20Roald%20Dahl.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Roald%20Dahl/Fantasztikus%20Roka%20ur%20%281601%29/Fantasztikus%20Roka%20ur%20-%20Roald%20Dahl.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [állat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llat.md), [állatmese](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llatmese.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyermek- és ifjúsági irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek-%20%c3%a9s%20ifj%c3%bas%c3%a1gi%20irodalom.md), [gyermekkönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [mese](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mese.md), [meseregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mesereg%c3%a9ny.md), [róka](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/r%c3%b3ka.md)

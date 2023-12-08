@@ -1,8 +1,8 @@
 # <a name="id_777">Hamvas Béla: Scientia sacra (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hamvas%20Bela/Scientia%20sacra%20%28777%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Hamvas%20Bela/Scientia%20sacra%20%28777%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hamvas%20Bela/Scientia%20sacra%20%28777%29/Scientia%20sacra%20-%20Hamvas%20Bela.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Hamvas%20Bela/Scientia%20sacra%20%28777%29/Scientia%20sacra%20-%20Hamvas%20Bela.epub)
 
 ### Tagek
 [kereszténység](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kereszt%c3%a9nys%c3%a9g.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [esszé](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/essz%c3%a9.md), [filozófia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filoz%c3%b3fia.md), [vallás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vall%c3%a1s.md), [vallásfilozófia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vall%c3%a1sfiloz%c3%b3fia.md)
@@ -12,10 +12,10 @@
 
 
 # <a name="id_776">Hamvas Béla: A bor filozófiája (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hamvas%20Bela/A%20bor%20filozofiaja%20%28776%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Hamvas%20Bela/A%20bor%20filozofiaja%20%28776%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hamvas%20Bela/A%20bor%20filozofiaja%20%28776%29/A%20bor%20filozofiaja%20-%20Hamvas%20Bela.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Hamvas%20Bela/A%20bor%20filozofiaja%20%28776%29/A%20bor%20filozofiaja%20-%20Hamvas%20Bela.epub)
 
 ### Tagek
 [ateizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ateizmus.md), [bor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bor.md), [életmód](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letm%c3%b3d.md), [férfiak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfiak.md), [gasztronómia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gasztron%c3%b3mia.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [hit](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hit.md), [isten](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/isten.md), [keresztény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kereszt%c3%a9ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyarorsz%c3%a1g.md), [nők](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91k.md), [recept](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/recept.md), [vallás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vall%c3%a1s.md), [társ. tudományok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1rs.%20tudom%c3%a1nyok.md), [filozófia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filoz%c3%b3fia.md)

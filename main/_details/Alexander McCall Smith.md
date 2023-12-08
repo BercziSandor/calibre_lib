@@ -1,8 +1,8 @@
 # <a name="id_921">Alexander McCall Smith: Az első női detektív iroda (No. 1. Női Nyomozóiroda 1) (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexander%20McCall%20Smith/Az%20elso%20noi%20detektiv%20iroda%20%28Az%20Elso%20%28921%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Az%20elso%20noi%20detektiv%20iroda%20%28Az%20Elso%20%28921%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexander%20McCall%20Smith/Az%20elso%20noi%20detektiv%20iroda%20%28Az%20Elso%20%28921%29/Az%20elso%20noi%20detektiv%20iroda%20-%20Alexander%20McCall%20Smith.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Az%20elso%20noi%20detektiv%20iroda%20%28Az%20Elso%20%28921%29/Az%20elso%20noi%20detektiv%20iroda%20-%20Alexander%20McCall%20Smith.epub)
 
 ### Tagek
 [afrika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/afrika.md), [botswana](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/botswana.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magándetektív](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mag%c3%a1ndetekt%c3%adv.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [skót szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sk%c3%b3t%20szerz%c5%91.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [zimbabwei szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/zimbabwei%20szerz%c5%91.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_920">Alexander McCall Smith: Zsiráfkönnyek (No. 1. Női Nyomozóiroda 2) (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexander%20McCall%20Smith/Zsirafkonnyek%20%28920%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Zsirafkonnyek%20%28920%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexander%20McCall%20Smith/Zsirafkonnyek%20%28920%29/Zsirafkonnyek%20-%20Alexander%20McCall%20Smith.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Zsirafkonnyek%20%28920%29/Zsirafkonnyek%20-%20Alexander%20McCall%20Smith.epub)
 
 ### Tagek
 [afrika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/afrika.md), [botswana](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/botswana.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magándetektív](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mag%c3%a1ndetekt%c3%adv.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [skót szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sk%c3%b3t%20szerz%c5%91.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [zimbabwei szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/zimbabwei%20szerz%c5%91.md)
@@ -27,10 +27,10 @@
 
 
 # <a name="id_918">Alexander McCall Smith: Erkölcstan szép lányoknak (No. 1. Női Nyomozóiroda 3) (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexander%20McCall%20Smith/Erkolcstan%20Szep%20Lanyoknak%20%28918%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Erkolcstan%20Szep%20Lanyoknak%20%28918%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexander%20McCall%20Smith/Erkolcstan%20Szep%20Lanyoknak%20%28918%29/Erkolcstan%20szep%20lanyoknak%20-%20Alexander%20McCall%20Smith.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Erkolcstan%20Szep%20Lanyoknak%20%28918%29/Erkolcstan%20szep%20lanyoknak%20-%20Alexander%20McCall%20Smith.epub)
 
 ### Tagek
 [afrika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/afrika.md), [botswana](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/botswana.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magándetektív](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mag%c3%a1ndetekt%c3%adv.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [skót szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sk%c3%b3t%20szerz%c5%91.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [zimbabwei szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/zimbabwei%20szerz%c5%91.md)
@@ -41,10 +41,10 @@
 
 
 # <a name="id_919">Alexander McCall Smith: Kalahári gépíróiskola férfiak részére (No. 1. Női Nyomozóiroda 4) (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexander%20McCall%20Smith/Kalahari%20gepiroiskola%20ferfiak%20resze%20%28919%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Kalahari%20gepiroiskola%20ferfiak%20resze%20%28919%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Alexander%20McCall%20Smith/Kalahari%20gepiroiskola%20ferfiak%20resze%20%28919%29/Kalahari%20gepiroiskola%20ferfiak%20r%20-%20Alexander%20McCall%20Smith.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Kalahari%20gepiroiskola%20ferfiak%20resze%20%28919%29/Kalahari%20gepiroiskola%20ferfiak%20r%20-%20Alexander%20McCall%20Smith.epub)
 
 ### Tagek
 [afrika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/afrika.md), [botswana](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/botswana.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magándetektív](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mag%c3%a1ndetekt%c3%adv.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [skót szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sk%c3%b3t%20szerz%c5%91.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [zimbabwei szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/zimbabwei%20szerz%c5%91.md)

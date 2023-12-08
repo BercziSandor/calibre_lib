@@ -1,8 +1,8 @@
 # <a name="id_168">James Clavell: A sógun (Ázsia-saga 1) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Clavell/A%20Sogun%20%28168%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Clavell/A%20Sogun%20%28168%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Clavell/A%20Sogun%20%28168%29/A%20sogun%20-%20James%20Clavell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Clavell/A%20Sogun%20%28168%29/A%20sogun%20-%20James%20Clavell.epub)
 
 ### Tagek
 [ázsia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1zsia.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [hajózás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/haj%c3%b3z%c3%a1s.md), [kalóz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kal%c3%b3z.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [szamuráj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szamur%c3%a1j.md), [távol-kelet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1vol-kelet.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [történelmi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [japán (ország)](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/jap%c3%a1n%20orsz%c3%a1g.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_1027">James Clavell: A Tajpan (Ázsia-saga 2) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Clavell/A%20Tajpan%20%281027%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Clavell/A%20Tajpan%20%281027%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Clavell/A%20Tajpan%20%281027%29/A%20Tajpan%20-%20James%20Clavell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Clavell/A%20Tajpan%20%281027%29/A%20Tajpan%20-%20James%20Clavell.epub)
 
 ### Tagek
 [19. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/19.%20sz%c3%a1zad.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol.md), [ázsia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1zsia.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [kalóz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kal%c3%b3z.md), [kína](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%adna.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [távol-kelet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1vol-kelet.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md)
@@ -27,10 +27,10 @@
 
 
 # <a name="id_1028">James Clavell: Gajdzsin (Ázsia-saga 3) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Clavell/Gajdzsin%20%281028%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Clavell/Gajdzsin%20%281028%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Clavell/Gajdzsin%20%281028%29/Gajdzsin%20-%20James%20Clavell.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Clavell/Gajdzsin%20%281028%29/Gajdzsin%20-%20James%20Clavell.epub)
 
 ### Tagek
 [19. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/19.%20sz%c3%a1zad.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol.md), [ázsia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1zsia.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [férfiak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfiak.md), [francia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia.md), [japán (ország)](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/jap%c3%a1n%20orsz%c3%a1g.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [katonaság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/katonas%c3%a1g.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [politika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/politika.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [szamuráj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szamur%c3%a1j.md), [távol-kelet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1vol-kelet.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md)

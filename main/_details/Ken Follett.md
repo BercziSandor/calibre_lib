@@ -1,8 +1,8 @@
 # <a name="id_1641">Ken Follett: Fall of Giants (The Century Trilogy 1) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ken%20Follett/Fall%20of%20Giants%20%281641%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ken%20Follett/Fall%20of%20Giants%20%281641%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ken%20Follett/Fall%20of%20Giants%20%281641%29/Fall%20of%20Giants%20-%20Ken%20Follett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ken%20Follett/Fall%20of%20Giants%20%281641%29/Fall%20of%20Giants%20-%20Ken%20Follett.epub)
 
 ### Tagek
 [war](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/war.md), [adult](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/adult.md)
@@ -13,20 +13,20 @@
 
 
 # <a name="id_1640">Ken Follett: The Third Twin (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ken%20Follett/The%20Third%20Twin%20%281640%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ken%20Follett/The%20Third%20Twin%20%281640%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ken%20Follett/The%20Third%20Twin%20%281640%29/The%20Third%20Twin%20-%20Ken%20Follett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ken%20Follett/The%20Third%20Twin%20%281640%29/The%20Third%20Twin%20-%20Ken%20Follett.epub)
 
 ### Összefoglalás
 <p>Through her research on twins and the genetic components of aggression, scientist Jeannie Ferrami makes a startling discovery. Using a restricted FBI database, she finds two young men who appear to be identical twins: Steve, a law student, and Dennis: a convicted murderer. Yet they were born on different days, to different mothers, in hospitals hundreds of miles apart.<br><br>As Ferrami delves into their backgrounds, she unwittingly locks horns with some of the most powerful forces in America, including the university where she works, The New York Times, even the Pentagon. <br><br>What secret has Ferrami uncovered? Can she trust her boss and mentor, or must she put her life in the hands of Steve Logan, the twin she finds herself falling in love with--even though he's surrounded by intrigue and suspicion? But one thing is certain: There are those who will stop at nothing to keep their chilling conspiracy in the shadows. . . .<br><br><i>From the Paperback edition.</i></p>
 
 
 # <a name="id_807">Ken Follett: Az ördög műve (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ken%20Follett/Az%20ordog%20muve%20%28807%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ken%20Follett/Az%20ordog%20muve%20%28807%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ken%20Follett/Az%20ordog%20muve%20%28807%29/Az%20ordog%20muve%20-%20Ken%20Follett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ken%20Follett/Az%20ordog%20muve%20%28807%29/Az%20ordog%20muve%20-%20Ken%20Follett.epub)
 
 ### Tagek
 [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [skócia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sk%c3%b3cia.md), [walesi szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/walesi%20szerz%c5%91.md)

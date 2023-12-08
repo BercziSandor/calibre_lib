@@ -1,8 +1,8 @@
 # <a name="id_839">Vlagyimir Szorokin: A jég (Jég-trilógia 1) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/A%20jeg%20%28839%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vlagyimir%20Szorokin/A%20jeg%20%28839%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/A%20jeg%20%28839%29/A%20jeg%20-%20Vlagyimir%20Szorokin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Vlagyimir%20Szorokin/A%20jeg%20%28839%29/A%20jeg%20-%20Vlagyimir%20Szorokin.epub)
 
 ### Tagek
 [2. világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/2.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [alternatív történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/alternat%c3%adv%20t%c3%b6rt%c3%a9nelem.md), [fantasztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasztikus.md), [fasizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fasizmus.md), [groteszk](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/groteszk.md), [koncentrációs tábor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/koncentr%c3%a1ci%c3%b3s%20t%c3%a1bor.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [mágikus realizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gikus%20realizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md), [oroszország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/oroszorsz%c3%a1g.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [utópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ut%c3%b3pia.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_840">Vlagyimir Szorokin: Bro útja (Jég-trilógia 2) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/Bro%20utja%20%28840%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vlagyimir%20Szorokin/Bro%20utja%20%28840%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/Bro%20utja%20%28840%29/Bro%20utja%20-%20Vlagyimir%20Szorokin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Vlagyimir%20Szorokin/Bro%20utja%20%28840%29/Bro%20utja%20-%20Vlagyimir%20Szorokin.epub)
 
 ### Tagek
 [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md)
@@ -27,10 +27,10 @@
 
 
 # <a name="id_838">Vlagyimir Szorokin: 23000 (Jég-trilógia 3) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/23000%20%28838%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vlagyimir%20Szorokin/23000%20%28838%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/23000%20%28838%29/23000%20-%20Vlagyimir%20Szorokin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Vlagyimir%20Szorokin/23000%20%28838%29/23000%20-%20Vlagyimir%20Szorokin.epub)
 
 ### Tagek
 [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md)
@@ -41,10 +41,10 @@
 
 
 # <a name="id_842">Vlagyimir Szorokin: Az opricsnyik egy napja (Kreml 1) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/Az%20opricsnyik%20egy%20napja%20%28842%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vlagyimir%20Szorokin/Az%20opricsnyik%20egy%20napja%20%28842%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/Az%20opricsnyik%20egy%20napja%20%28842%29/Az%20opricsnyik%20egy%20napja%20-%20Vlagyimir%20Szorokin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Vlagyimir%20Szorokin/Az%20opricsnyik%20egy%20napja%20%28842%29/Az%20opricsnyik%20egy%20napja%20-%20Vlagyimir%20Szorokin.epub)
 
 ### Tagek
 [alternatív történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/alternat%c3%adv%20t%c3%b6rt%c3%a9nelem.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diszt%c3%b3pia.md), [erotikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/erotikus.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md)
@@ -55,10 +55,10 @@
 
 
 # <a name="id_841">Vlagyimir Szorokin: Cukor Kreml (Kreml 2) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/Cukor%20Kreml%20%28841%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vlagyimir%20Szorokin/Cukor%20Kreml%20%28841%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/Cukor%20Kreml%20%28841%29/Cukor%20Kreml%20-%20Vlagyimir%20Szorokin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Vlagyimir%20Szorokin/Cukor%20Kreml%20%28841%29/Cukor%20Kreml%20-%20Vlagyimir%20Szorokin.epub)
 
 ### Tagek
 [alternatív történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/alternat%c3%adv%20t%c3%b6rt%c3%a9nelem.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diszt%c3%b3pia.md), [erotikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/erotikus.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [robot](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/robot.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md)
@@ -69,10 +69,10 @@
 
 
 # <a name="id_843">Vlagyimir Szorokin: Kékháj (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/Kekhaj%20%28843%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vlagyimir%20Szorokin/Kekhaj%20%28843%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vlagyimir%20Szorokin/Kekhaj%20%28843%29/Kekhaj%20-%20Vlagyimir%20Szorokin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Vlagyimir%20Szorokin/Kekhaj%20%28843%29/Kekhaj%20-%20Vlagyimir%20Szorokin.epub)
 
 ### Tagek
 [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)

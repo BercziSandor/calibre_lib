@@ -1,9 +1,9 @@
 # <a name="id_420">George R. R. Martin: Trónok harca (A tűz és jég dala 1) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Tronok%20harca%20%28420%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Tronok%20harca%20%28420%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Tronok%20harca%20%28420%29/Tronok%20harca%20-%20George%20R.%20R.%20Martin.epub) 
- [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Tronok%20harca%20%28420%29/Tronok%20harca%20-%20George%20R.%20R.%20Martin.rtf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Tronok%20harca%20%28420%29/Tronok%20harca%20-%20George%20R.%20R.%20Martin.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Tronok%20harca%20%28420%29/Tronok%20harca%20-%20George%20R.%20R.%20Martin.rtf)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md), [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md)
@@ -15,11 +15,11 @@ Martin legnagyobb erőssége hogy meg tudja újítani, élettel tölti fel azt a
 
 
 # <a name="id_418">George R. R. Martin: Királyok csatája (A tűz és jég dala 2) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Kiralyok%20csataja%20%28418%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Kiralyok%20csataja%20%28418%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Kiralyok%20csataja%20%28418%29/Kiralyok%20csataja%20-%20George%20R.%20R.%20Martin.epub) 
- [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Kiralyok%20csataja%20%28418%29/Kiralyok%20csataja%20-%20George%20R.%20R.%20Martin.rtf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Kiralyok%20csataja%20%28418%29/Kiralyok%20csataja%20-%20George%20R.%20R.%20Martin.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Kiralyok%20csataja%20%28418%29/Kiralyok%20csataja%20-%20George%20R.%20R.%20Martin.rtf)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [boszorkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/boszork%c3%a1ny.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/er%c5%91szak.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [lovag](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/lovag.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1bor%c3%ba.md), [dráma](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dr%c3%a1ma.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [dark fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dark%20fantasy.md), [locus-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/locus-d%c3%adj.md), [epikus fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/epikus%20fantasy.md), [felnőtt tartalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/feln%c5%91tt%20tartalom.md), [grimdark](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/grimdark.md), [antihős](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/antih%c5%91s.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [alkímia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/alk%c3%admia.md)
@@ -32,11 +32,11 @@ A Királyok csatája merész, ötletes és bámulatos képzelőerővel megalkoto
 
 
 # <a name="id_424">George R. R. Martin: Kardok vihara (A tűz és jég dala 3) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Kardok%20vihara%20%28424%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Kardok%20vihara%20%28424%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Kardok%20vihara%20%28424%29/Kardok%20vihara%20-%20George%20R.%20R.%20Martin.epub) 
- [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Kardok%20vihara%20%28424%29/Kardok%20vihara%20-%20George%20R.%20R.%20Martin.rtf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Kardok%20vihara%20%28424%29/Kardok%20vihara%20-%20George%20R.%20R.%20Martin.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Kardok%20vihara%20%28424%29/Kardok%20vihara%20-%20George%20R.%20R.%20Martin.rtf)
 
 ### Tagek
 [politika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/politika.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [boszorkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/boszork%c3%a1ny.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/er%c5%91szak.md), [lovag](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/lovag.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gia.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1bor%c3%ba.md), [dráma](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dr%c3%a1ma.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [dark fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dark%20fantasy.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [locus-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/locus-d%c3%adj.md), [grimdark](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/grimdark.md), [antihős](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/antih%c5%91s.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -49,10 +49,10 @@ Ahogy a szembenálló erők a végső, gigászi összecsapásra készülnek, a c
 
 
 # <a name="id_419">George R. R. Martin: Varjak lakomája (A tűz és jég dala 4) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Varjak%20lakomaja%20%28419%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Varjak%20lakomaja%20%28419%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Varjak%20lakomaja%20%28419%29/Varjak%20lakomaja%20-%20George%20R.%20R.%20Martin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Varjak%20lakomaja%20%28419%29/Varjak%20lakomaja%20-%20George%20R.%20R.%20Martin.epub)
 
 ### Tagek
 [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md), [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md)
@@ -62,10 +62,10 @@ A ​XXI. század által generált digitalizáció, a modern éra által minden 
 
 
 # <a name="id_898">George R. R. Martin: Sárkányok tánca (A tűz és jég dala 5) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Sarkanyok%20tanca%20%28898%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Sarkanyok%20tanca%20%28898%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/George%20R.%20R.%20Martin/Sarkanyok%20tanca%20%28898%29/Sarkanyok%20tanca%20-%20George%20R.%20R.%20Martin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Sarkanyok%20tanca%20%28898%29/Sarkanyok%20tanca%20-%20George%20R.%20R.%20Martin.epub)
 
 ### Tagek
 [politika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/politika.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [boszorkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/boszork%c3%a1ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [low fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/low%20fantasy.md), [lovag](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/lovag.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [high fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/high%20fantasy.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gia.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1bor%c3%ba.md), [sárkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/s%c3%a1rk%c3%a1ny.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md), [locus-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/locus-d%c3%adj.md), [antihős](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/antih%c5%91s.md), [középkor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b6z%c3%a9pkor.md)

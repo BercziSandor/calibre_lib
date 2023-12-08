@@ -1,8 +1,8 @@
 # <a name="id_715">Tvrtko, Vujity: 12 pokoli történet </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tvrtko%2C%20Vujity/12%20pokoli%20tortenet%20%28715%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tvrtko%2C%20Vujity/12%20pokoli%20tortenet%20%28715%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tvrtko%2C%20Vujity/12%20pokoli%20tortenet%20%28715%29/12%20pokoli%20tortenet%20-%20Tvrtko%2C%20Vujity.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Tvrtko%2C%20Vujity/12%20pokoli%20tortenet%20%28715%29/12%20pokoli%20tortenet%20-%20Tvrtko%2C%20Vujity.epub)
 
 ### Összefoglalás
 <div>

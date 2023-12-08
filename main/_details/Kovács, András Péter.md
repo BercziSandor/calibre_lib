@@ -1,8 +1,8 @@
 # <a name="id_427">Kovács, András Péter: Médialom (Multigáz-trilógia 2) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kovacs%2C%20Andras%20Peter/Medialom%20%28427%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kovacs%2C%20Andras%20Peter/Medialom%20%28427%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kovacs%2C%20Andras%20Peter/Medialom%20%28427%29/Medialom%20-%20Kovacs%2C%20Andras%20Peter.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kovacs%2C%20Andras%20Peter/Medialom%20%28427%29/Medialom%20-%20Kovacs%2C%20Andras%20Peter.epub)
 
 ### Tagek
 [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md)

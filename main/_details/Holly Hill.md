@@ -1,8 +1,8 @@
 # <a name="id_284">Holly Hill: Luxusnyalánkság (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Holly%20Hill/Luxusnyalanksag%20%28284%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Holly%20Hill/Luxusnyalanksag%20%28284%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Holly%20Hill/Luxusnyalanksag%20%28284%29/Luxusnyalanksag%20-%20Holly%20Hill.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Holly%20Hill/Luxusnyalanksag%20%28284%29/Luxusnyalanksag%20-%20Holly%20Hill.epub)
 
 ### Tagek
 [szex](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szex.md), [szerelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szerelem.md)

@@ -1,9 +1,9 @@
 # <a name="id_1517">Brian Cox: A természet erői </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Brian%20Cox%2C%20Andrew%20Cohen/A%20termeszet%20eroi%20%281517%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Brian%20Cox%2C%20Andrew%20Cohen/A%20termeszet%20eroi%20%281517%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Brian%20Cox%2C%20Andrew%20Cohen/A%20termeszet%20eroi%20%281517%29/A%20termeszet%20eroi%20-%20Brian%20Cox%2C%20Andrew%20Cohen.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Brian%20Cox%2C%20Andrew%20Cohen/A%20termeszet%20eroi%20%281517%29/A%20termeszet%20eroi%20-%20Brian%20Cox.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Brian%20Cox%2C%20Andrew%20Cohen/A%20termeszet%20eroi%20%281517%29/A%20termeszet%20eroi%20-%20Brian%20Cox%2C%20Andrew%20Cohen.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Brian%20Cox%2C%20Andrew%20Cohen/A%20termeszet%20eroi%20%281517%29/A%20termeszet%20eroi%20-%20Brian%20Cox.epub)
 
 ### Tagek
 [csillagászat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csillag%c3%a1szat.md)
@@ -14,10 +14,10 @@
 
 
 # <a name="id_1516">Brian Cox: E=mc² (De miért olyan nagy ügy ez?) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Brian%20Cox/E%3Dmc2%20%28De%20miert%20olyan%20nagy%20ugy%20ez_%29%20%281516%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Brian%20Cox/E%3Dmc2%20%28De%20miert%20olyan%20nagy%20ugy%20ez_%29%20%281516%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Brian%20Cox/E%3Dmc2%20%28De%20miert%20olyan%20nagy%20ugy%20ez_%29%20%281516%29/E%3Dmc2%20%28De%20miert%20olyan%20nagy%20ugy%20-%20Brian%20Cox.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Brian%20Cox/E%3Dmc2%20%28De%20miert%20olyan%20nagy%20ugy%20ez_%29%20%281516%29/E%3Dmc2%20%28De%20miert%20olyan%20nagy%20ugy%20-%20Brian%20Cox.epub)
 
 ### Összefoglalás
 <div>

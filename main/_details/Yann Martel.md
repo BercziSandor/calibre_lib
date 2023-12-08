@@ -1,8 +1,8 @@
 # <a name="id_1526">Yann Martel: Life of Pi (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yann%20Martel/Life%20of%20Pi%20%281526%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Yann%20Martel/Life%20of%20Pi%20%281526%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yann%20Martel/Life%20of%20Pi%20%281526%29/Life%20of%20Pi%20-%20Yann%20Martel.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Yann%20Martel/Life%20of%20Pi%20%281526%29/Life%20of%20Pi%20-%20Yann%20Martel.epub)
 
 ### Tagek
 [retail](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/retail.md)
@@ -12,10 +12,10 @@
 
 
 # <a name="id_1458">Yann Martel: Pi élete (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yann%20Martel/Pi%20elete%20%281458%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Yann%20Martel/Pi%20elete%20%281458%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Yann%20Martel/Pi%20elete%20%281458%29/Pi%20elete%20-%20Yann%20Martel.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Yann%20Martel/Pi%20elete%20%281458%29/Pi%20elete%20-%20Yann%20Martel.epub)
 
 ### Tagek
 [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1001%20k%c3%b6nyv%20list%c3%a1n%20szerepel.md), [1970-es évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1970-es%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [állatkert](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llatkert.md), [booker-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/booker-d%c3%adj.md), [csendes-óceán](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csendes-%c3%b3ce%c3%a1n.md), [énelbeszélő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9nelbesz%c3%a9l%c5%91.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [hajótörés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/haj%c3%b3t%c3%b6r%c3%a9s.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [india](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/india.md), [kanada](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kanada.md), [kanadai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kanadai%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [lélektani](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a9lektani.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [robinzonád](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/robinzon%c3%a1d.md), [novels](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novels.md)

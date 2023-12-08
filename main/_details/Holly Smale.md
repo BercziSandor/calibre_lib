@@ -1,8 +1,8 @@
 # <a name="id_1002">Holly Smale: A lány, akit soha senki sem vett észre (Geek girl 1) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Holly%20Smale/A%20lany%2C%20akit%20soha%20senki%20sem%20vett%20es%20%281002%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Holly%20Smale/A%20lany%2C%20akit%20soha%20senki%20sem%20vett%20es%20%281002%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Holly%20Smale/A%20lany%2C%20akit%20soha%20senki%20sem%20vett%20es%20%281002%29/A%20lany%2C%20akit%20soha%20senki%20sem%20vet%20-%20Holly%20Smale.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Holly%20Smale/A%20lany%2C%20akit%20soha%20senki%20sem%20vett%20es%20%281002%29/A%20lany%2C%20akit%20soha%20senki%20sem%20vet%20-%20Holly%20Smale.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [divat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/divat.md), [iskola](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/iskola.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_1003">Holly Smale: A lány, aki mindig mindent félreért (Geek girl 2) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Holly%20Smale/A%20lany%2C%20aki%20mindig%20mindent%20felreert%20%281003%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Holly%20Smale/A%20lany%2C%20aki%20mindig%20mindent%20felreert%20%281003%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Holly%20Smale/A%20lany%2C%20aki%20mindig%20mindent%20felreert%20%281003%29/A%20lany%2C%20aki%20mindig%20mindent%20felr%20-%20Holly%20Smale.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Holly%20Smale/A%20lany%2C%20aki%20mindig%20mindent%20felreert%20%281003%29/A%20lany%2C%20aki%20mindig%20mindent%20felr%20-%20Holly%20Smale.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [divat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/divat.md), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [japán (ország)](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/jap%c3%a1n%20orsz%c3%a1g.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md)

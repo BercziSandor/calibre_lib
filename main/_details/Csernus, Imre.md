@@ -1,8 +1,8 @@
 # <a name="id_16">Csernus, Imre: A nő (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csernus%2C%20Imre/A%20no%20%2816%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Csernus%2C%20Imre/A%20no%20%2816%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csernus%2C%20Imre/A%20no%20%2816%29/A%20no%20-%20Csernus%2C%20Imre.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Csernus%2C%20Imre/A%20no%20%2816%29/A%20no%20-%20Csernus%2C%20Imre.epub)
 
 ### Tagek
 [általános](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1ltal%c3%a1nos.md), [személyiség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szem%c3%a9lyis%c3%a9g.md), [pszichológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszichol%c3%b3gia.md), [általános lélektan](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1ltal%c3%a1nos%20l%c3%a9lektan.md)
@@ -12,10 +12,10 @@
 
 
 # <a name="id_378">Csernus, Imre: Felnőtt Húsleves (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csernus%2C%20Imre/Felnott%20Husleves%20%28378%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Csernus%2C%20Imre/Felnott%20Husleves%20%28378%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Csernus%2C%20Imre/Felnott%20Husleves%20%28378%29/Felnott%20Husleves%20-%20Csernus%2C%20Imre.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Csernus%2C%20Imre/Felnott%20Husleves%20%28378%29/Felnott%20Husleves%20-%20Csernus%2C%20Imre.epub)
 
 ### Tagek
 [szakácskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szak%c3%a1csk%c3%b6nyv.md), [társas kapcsolatok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1rsas%20kapcsolatok.md), [életbölcsesség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letb%c3%b6lcsess%c3%a9g.md), [szociálpszichológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szoci%c3%a1lpszichol%c3%b3gia.md), [önfejlesztés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6nfejleszt%c3%a9s.md)

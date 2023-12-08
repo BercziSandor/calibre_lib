@@ -1,8 +1,8 @@
 # <a name="id_780">Greg Iles: Huszonnégy óra (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Greg%20Iles/Huszonnegy%20ora%20%28780%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Greg%20Iles/Huszonnegy%20ora%20%28780%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Greg%20Iles/Huszonnegy%20ora%20%28780%29/Huszonnegy%20ora%20-%20Greg%20Iles.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Greg%20Iles/Huszonnegy%20ora%20%28780%29/Huszonnegy%20ora%20-%20Greg%20Iles.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [gyermekrablás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekrabl%c3%a1s.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [bûnügyi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c3%bbn%c3%bcgyi.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)

@@ -1,8 +1,8 @@
 # <a name="id_682">Ninni Schulman: Lány a hóban (Hagfors 1) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ninni%20Schulman/Lany%20a%20hoban%20%28682%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ninni%20Schulman/Lany%20a%20hoban%20%28682%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ninni%20Schulman/Lany%20a%20hoban%20%28682%29/Lany%20a%20hoban%20-%20Ninni%20Schulman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ninni%20Schulman/Lany%20a%20hoban%20%28682%29/Lany%20a%20hoban%20-%20Ninni%20Schulman.epub)
 
 ### Tagek
 [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [svéd szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sv%c3%a9d%20szerz%c5%91.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md)

@@ -1,8 +1,8 @@
 # <a name="id_573">Stephen King: Minden haláli (A Setét 1) (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Minden%20halali%20%28573%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Minden%20halali%20%28573%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Minden%20halali%20%28573%29/Minden%20halali%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Minden%20halali%20%28573%29/Minden%20halali%20-%20Stephen%20King.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [ördög](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6rd%c3%b6g.md), [paranormális](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/paranorm%c3%a1lis.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [rémtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/r%c3%a9mt%c3%b6rt%c3%a9net.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [vámpír](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a1mp%c3%adr.md)
@@ -15,10 +15,10 @@ Vagy… de tudja mit, Kedves Olvasó? Üljön bele kedvenc karosszékébe, és o
 
 
 # <a name="id_556">Stephen King: A búra alatt (A búra alatt 1) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20bura%20alatt%20%28556%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/A%20bura%20alatt%20%28556%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20bura%20alatt%20%28556%29/A%20bura%20alatt%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/A%20bura%20alatt%20%28556%29/A%20bura%20alatt%20-%20Stephen%20King.epub)
 
 ### Tagek
 [maine](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/maine.md), [földönkívüliek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%b6ld%c3%b6nk%c3%adv%c3%bcliek.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [dráma](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dr%c3%a1ma.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/er%c5%91szak.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diszt%c3%b3pia.md), [nemi erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nemi%20er%c5%91szak.md), [drog](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/drog.md), [társadalomkritika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1rsadalomkritika.md)
@@ -28,10 +28,10 @@ A világ első számú horrorírójának 2009-es nagyregénye valamikor 2012 ut�
 
 
 # <a name="id_557">Stephen King: A búra alatt (A búra alatt 2) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20bura%20alatt%20%28557%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/A%20bura%20alatt%20%28557%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20bura%20alatt%20%28557%29/A%20bura%20alatt%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/A%20bura%20alatt%20%28557%29/A%20bura%20alatt%20-%20Stephen%20King.epub)
 
 ### Tagek
 [maine](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/maine.md), [földönkívüliek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%b6ld%c3%b6nk%c3%adv%c3%bcliek.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [dráma](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dr%c3%a1ma.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [bűnügyi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c5%b1n%c3%bcgyi.md), [erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/er%c5%91szak.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diszt%c3%b3pia.md), [nemi erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nemi%20er%c5%91szak.md), [drog](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/drog.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [társadalomkritika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1rsadalomkritika.md)
@@ -41,10 +41,10 @@ A világ első számú horrorírójának 2009-es nagyregénye valamikor 2012 ut�
 
 
 # <a name="id_539">Stephen King: A harcos (A setét torony 1) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20harcos%20%28539%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/A%20harcos%20%28539%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20harcos%20%28539%29/A%20harcos%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/A%20harcos%20%28539%29/A%20harcos%20-%20Stephen%20King.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [undefined](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/undefined.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [mágikus realizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gikus%20realizmus.md), [dark fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dark%20fantasy.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [harcosok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/harcosok.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gia.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [antihős](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/antih%c5%91s.md), [grimdark](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/grimdark.md), [epikus fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/epikus%20fantasy.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [felnőtt tartalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/feln%c5%91tt%20tartalom.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diszt%c3%b3pia.md)
@@ -58,10 +58,10 @@ Egy páratlan sorozat Stephen King tollából, ami utat nyit az olvasó fantázi
 
 
 # <a name="id_540">Stephen King: A hármak elhívatása (A setét torony 2) (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20harmak%20elhivatasa%20%28540%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/A%20harmak%20elhivatasa%20%28540%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20harmak%20elhivatasa%20%28540%29/A%20harmak%20elhivatasa%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/A%20harmak%20elhivatasa%20%28540%29/A%20harmak%20elhivatasa%20-%20Stephen%20King.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [időutazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/id%c5%91utaz%c3%a1s.md), [new york](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/new%20york.md), [undefined](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/undefined.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [mágikus realizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gikus%20realizmus.md), [portál fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/port%c3%a1l%20fantasy.md), [dark fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dark%20fantasy.md), [fegyverek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fegyverek.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [epikus fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/epikus%20fantasy.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [felnőtt tartalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/feln%c5%91tt%20tartalom.md), [drog](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/drog.md)
@@ -71,10 +71,10 @@ A harcos-ban megismert Roland sebesülten, betegen, ám rendíthetetlenül halad
 
 
 # <a name="id_845">Stephen King: Puszta földek (A setét torony 3) (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Puszta%20foldek%20%28845%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Puszta%20foldek%20%28845%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Puszta%20foldek%20%28845%29/Puszta%20foldek%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Puszta%20foldek%20%28845%29/Puszta%20foldek%20-%20Stephen%20King.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [undefined](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/undefined.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [weird fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/weird%20fiction.md), [portál fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/port%c3%a1l%20fantasy.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [western](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/western.md), [vasút](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vas%c3%bat.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [urban fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/urban%20fantasy.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [posztapokaliptikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/posztapokaliptikus.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md)
@@ -84,10 +84,10 @@ Roland és barátai, Eddie és Susannah Dean elszántan haladnak úti céljuk, a
 
 
 # <a name="id_846">Stephen King: Varázsló és üveg (A setét torony 4) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Varazslo%20es%20uveg%20%28846%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Varazslo%20es%20uveg%20%28846%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Varazslo%20es%20uveg%20%28846%29/Varazslo%20es%20uveg%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Varazslo%20es%20uveg%20%28846%29/Varazslo%20es%20uveg%20-%20Stephen%20King.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [undefined](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/undefined.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [mágikus realizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gikus%20realizmus.md), [weird fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/weird%20fiction.md), [dark fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dark%20fantasy.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [urban fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/urban%20fantasy.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [posztapokaliptikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/posztapokaliptikus.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diszt%c3%b3pia.md)
@@ -97,10 +97,10 @@ Roland és hűséges barátai sikeresen megküzdöttek Blaine-nel, a Monóval. E
 
 
 # <a name="id_847">Stephen King: Callai farkasok (A setét torony 5) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Callai%20farkasok%20%28847%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Callai%20farkasok%20%28847%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Callai%20farkasok%20%28847%29/Callai%20farkasok%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Callai%20farkasok%20%28847%29/Callai%20farkasok%20-%20Stephen%20King.epub)
 
 ### Tagek
 [időutazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/id%c5%91utaz%c3%a1s.md), [new york](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/new%20york.md), [undefined](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/undefined.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [dark fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dark%20fantasy.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [posztapokaliptikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/posztapokaliptikus.md), [epikus fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/epikus%20fantasy.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [robot](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/robot.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md)
@@ -110,10 +110,10 @@ Roland Deschaint, aki a civilizáció pusztulása után a Setét Tornyot keresi,
 
 
 # <a name="id_542">Stephen King: Susannah dala (A setét torony 6) (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Susannah%20dala%20%28542%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Susannah%20dala%20%28542%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Susannah%20dala%20%28542%29/Susannah%20dala%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Susannah%20dala%20%28542%29/Susannah%20dala%20-%20Stephen%20King.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [időutazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/id%c5%91utaz%c3%a1s.md), [new york](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/new%20york.md), [undefined](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/undefined.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [dark fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dark%20fantasy.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [dráma](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dr%c3%a1ma.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [posztapokaliptikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/posztapokaliptikus.md), [epikus fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/epikus%20fantasy.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diszt%c3%b3pia.md)
@@ -127,10 +127,10 @@ A Setét Torony, minden világok pillére pedig egyre jobban inog…
 
 
 # <a name="id_541">Stephen King: A Setét Torony (A setét torony 7) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20Setet%20Torony%20%28541%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/A%20Setet%20Torony%20%28541%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20Setet%20Torony%20%28541%29/A%20Setet%20Torony%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/A%20Setet%20Torony%20%28541%29/A%20Setet%20Torony%20-%20Stephen%20King.epub)
 
 ### Tagek
 [undefined](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/undefined.md)
@@ -140,16 +140,16 @@ A Susannah dala ott ér véget, hogy közeleg a szülés ideje... és a Dixie Ma
 
 
 # <a name="id_1268">Stephen King: Átfúj a szél a kulcslyukon (A setét torony 8) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Atfuj%20a%20szel%20a%20kulcslyukon%20%281268%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Atfuj%20a%20szel%20a%20kulcslyukon%20%281268%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Atfuj%20a%20szel%20a%20kulcslyukon%20%281268%29/Atfuj%20a%20szel%20a%20kulcslyukon%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Atfuj%20a%20szel%20a%20kulcslyukon%20%281268%29/Atfuj%20a%20szel%20a%20kulcslyukon%20-%20Stephen%20King.epub)
 
 # <a name="id_549">Stephen King: A talizmán (A talizmán 1) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20talizman%20%28549%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/A%20talizman%20%28549%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20talizman%20%28549%29/A%20talizman%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/A%20talizman%20%28549%29/A%20talizman%20-%20Stephen%20King.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [dark fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dark%20fantasy.md), [gyermek főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek%20f%c5%91szerepl%c5%91.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kisváros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kisv%c3%a1ros.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [portál fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/port%c3%a1l%20fantasy.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [utazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/utaz%c3%a1s.md), [vérfarkas](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a9rfarkas.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md)
@@ -160,10 +160,10 @@ A Susannah dala ott ér véget, hogy közeleg a szülés ideje... és a Dixie Ma
 
 
 # <a name="id_118">Stephen King: Az 1-2. (Az 1) (1995)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Az%201-2_%20%28118%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Az%201-2_%20%28118%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Az%201-2_%20%28118%29/Az%201-2_%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Az%201-2_%20%28118%29/Az%201-2_%20-%20Stephen%20King.epub)
 
 ### Tagek
 [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [kísértet- és rémtörténetek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%ads%c3%a9rtet-%20%c3%a9s%20r%c3%a9mt%c3%b6rt%c3%a9netek.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [tartalom szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tartalom%20szerint.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md)
@@ -173,10 +173,10 @@ A Susannah dala ott ér véget, hogy közeleg a szülés ideje... és a Dixie Ma
 
 
 # <a name="id_119">Stephen King: Az 1-2. (Az 2) (1995)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Az%201-2_%20%28119%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Az%201-2_%20%28119%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Az%201-2_%20%28119%29/Az%201-2_%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Az%201-2_%20%28119%29/Az%201-2_%20-%20Stephen%20King.epub)
 
 ### Tagek
 [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [tartalom szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tartalom%20szerint.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [kísértet- és rémtörténetek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%ads%c3%a9rtet-%20%c3%a9s%20r%c3%a9mt%c3%b6rt%c3%a9netek.md)
@@ -186,10 +186,10 @@ A Susannah dala ott ér véget, hogy közeleg a szülés ideje... és a Dixie Ma
 
 
 # <a name="id_931">Stephen King: Aki kapja, marja (Bill Hodges 2) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Aki%20kapja%2C%20marja%20%28931%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Aki%20kapja%2C%20marja%20%28931%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Aki%20kapja%2C%20marja%20%28931%29/Aki%20kapja%2C%20marja%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Aki%20kapja%2C%20marja%20%28931%29/Aki%20kapja%2C%20marja%20-%20Stephen%20King.epub)
 
 ### Tagek
 [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [2010-es évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/2010-es%20%c3%a9vek.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [thiller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thiller.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md)
@@ -202,10 +202,10 @@ King a Tortúra óta nem foglalkozott az olvasóval, aki addig bálványozza az 
 
 
 # <a name="id_553">Stephen King: Végítélet I-II. (Végítélet 1) (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Vegitelet%20I-II_%20%28553%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Vegitelet%20I-II_%20%28553%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Vegitelet%20I-II_%20%28553%29/Vegitelet%20I-II_%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Vegitelet%20I-II_%20%28553%29/Vegitelet%20I-II_%20-%20Stephen%20King.epub)
 
 ### Tagek
 [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [fantasztikus regények](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasztikus%20reg%c3%a9nyek.md), [tartalom szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tartalom%20szerint.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md)
@@ -215,10 +215,10 @@ King a Tortúra óta nem foglalkozott az olvasóval, aki addig bálványozza az 
 
 
 # <a name="id_572">Stephen King: Ezüst pisztolygolyók (1989)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Ezust%20pisztolygolyok%20%28572%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Ezust%20pisztolygolyok%20%28572%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Ezust%20pisztolygolyok%20%28572%29/Ezust%20pisztolygolyok%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Ezust%20pisztolygolyok%20%28572%29/Ezust%20pisztolygolyok%20-%20Stephen%20King.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [alakváltó](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/alakv%c3%a1lt%c3%b3.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [kisregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kisreg%c3%a9ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [vérfarkas](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a9rfarkas.md)
@@ -228,10 +228,10 @@ A hold minden lelkes, avatott vagy amatőr bámulójának feltünhetett, hogy j�
 
 
 # <a name="id_535">Stephen King: A rémkoppantók (1992)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20remkoppantok%20%28535%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/A%20remkoppantok%20%28535%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20remkoppantok%20%28535%29/A%20remkoppantok%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/A%20remkoppantok%20%28535%29/A%20remkoppantok%20-%20Stephen%20King.epub)
 
 ### Tagek
 [maine](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/maine.md), [földönkívüliek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%b6ld%c3%b6nk%c3%adv%c3%bcliek.md), [függőség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%bcgg%c5%91s%c3%a9g.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [ufo](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ufo.md), [alkoholizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/alkoholizmus.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [tartalom szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tartalom%20szerint.md), [kisváros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kisv%c3%a1ros.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [író](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%adr%c3%b3.md), [kísértet- és rémtörténetek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%ads%c3%a9rtet-%20%c3%a9s%20r%c3%a9mt%c3%b6rt%c3%a9netek.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md)
@@ -241,10 +241,10 @@ Roberta Andersen westernírónő a Haven kisváros peremén fekvő birtokán él
 
 
 # <a name="id_469">Stephen King: Sorvadj el! (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Sorvadj%20el%21%20%28469%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Sorvadj%20el%21%20%28469%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Sorvadj%20el%21%20%28469%29/Sorvadj%20el%21%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Sorvadj%20el%21%20%28469%29/Sorvadj%20el%21%20-%20Stephen%20King.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [mystery & crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery%20%26%20crime.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [cigány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cig%c3%a1ny.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [tartalom szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tartalom%20szerint.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [antihős](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/antih%c5%91s.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [paranormális](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/paranorm%c3%a1lis.md), [connecticut](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/connecticut.md), [kísértet- és rémtörténetek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%ads%c3%a9rtet-%20%c3%a9s%20r%c3%a9mt%c3%b6rt%c3%a9netek.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md)
@@ -254,10 +254,10 @@ Megszokott amerikai kisváros, szokványos középosztálybeli jómód, unalmas 
 
 
 # <a name="id_571">Stephen King: Csontkollekció (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Csontkollekcio%20%28571%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Csontkollekcio%20%28571%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Csontkollekcio%20%28571%29/Csontkollekcio%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Csontkollekcio%20%28571%29/Csontkollekcio%20-%20Stephen%20King.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [öngyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6ngyilkoss%c3%a1g.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [maine](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/maine.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [paranormális](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/paranorm%c3%a1lis.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [short stories](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/short%20stories.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [űrutazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c5%b1rutaz%c3%a1s.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -270,10 +270,10 @@ A kimeríthetetlen fantáziájú Stephen King vérfagyasztó történeteinek új
 
 
 # <a name="id_547">Stephen King: A sárkány szeme (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20sarkany%20szeme%20%28547%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/A%20sarkany%20szeme%20%28547%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20sarkany%20szeme%20%28547%29/A%20sarkany%20szeme%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/A%20sarkany%20szeme%20%28547%29/A%20sarkany%20szeme%20-%20Stephen%20King.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [herceg](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/herceg.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [király](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kir%c3%a1ly.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [meseregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mesereg%c3%a9ny.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sárkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/s%c3%a1rk%c3%a1ny.md), [varázsló](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/var%c3%a1zsl%c3%b3.md)
@@ -286,10 +286,10 @@ Európa Könyvkiadó, 2006
 
 
 # <a name="id_551">Stephen King: Christine (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Christine%20%28551%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Christine%20%28551%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Christine%20%28551%29/Christine%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Christine%20%28551%29/Christine%20-%20Stephen%20King.epub)
 
 ### Tagek
 [media tie-in](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/media%20tie-in.md), [thrillers](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thrillers.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [bűnügyi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c5%b1n%c3%bcgyi.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [suspense](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/suspense.md), [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [supernatural](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/supernatural.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md)
@@ -299,10 +299,10 @@ A ​szerelem öl, butít és nyomorba dönt – szokták mondani a sokat tapasz
 
 
 # <a name="id_546">Stephen King: Lisey története (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Lisey%20tortenete%20%28546%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Lisey%20tortenete%20%28546%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Lisey%20tortenete%20%28546%29/Lisey%20tortenete%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Lisey%20tortenete%20%28546%29/Lisey%20tortenete%20-%20Stephen%20King.epub)
 
 ### Tagek
 [bram stoker-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bram%20stoker-d%c3%adj.md), [pszichés betegség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszich%c3%a9s%20betegs%c3%a9g.md), [önéletrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6n%c3%a9letrajz.md), [író](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%adr%c3%b3.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [paranormális](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/paranorm%c3%a1lis.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [gótikus irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/g%c3%b3tikus%20irodalom.md), [gyermekbántalmazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekb%c3%a1ntalmaz%c3%a1s.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md)
@@ -312,10 +312,10 @@ Lisey ​Debusher Landon huszonöt év házasság után vesztette el férjét, S
 
 
 # <a name="id_550">Stephen King: Blaze (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Blaze%20%28550%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Blaze%20%28550%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Blaze%20%28550%29/Blaze%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Blaze%20%28550%29/Blaze%20-%20Stephen%20King.epub)
 
 ### Tagek
 [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [pszicho-thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszicho-thriller.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [dráma](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dr%c3%a1ma.md)
@@ -327,10 +327,10 @@ Stephen King íróasztala mélyérõl ásta elõ ifjúkori írását, a Blaze er
 
 
 # <a name="id_930">Stephen King: Danse macabre (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Danse%20macabre%20%28930%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Danse%20macabre%20%28930%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Danse%20macabre%20%28930%29/Danse%20macabre%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Danse%20macabre%20%28930%29/Danse%20macabre%20-%20Stephen%20King.epub)
 
 ### Tagek
 [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [visszaemlékezések](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/visszaeml%c3%a9kez%c3%a9sek.md)
@@ -344,10 +344,10 @@ Stephen King íróasztala mélyérõl ásta elõ ifjúkori írását, a Blaze er
 
 
 # <a name="id_548">Stephen King: A mobil (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20mobil%20%28548%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/A%20mobil%20%28548%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20mobil%20%28548%29/A%20mobil%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/A%20mobil%20%28548%29/A%20mobil%20-%20Stephen%20King.epub)
 
 ### Tagek
 [zombi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/zombi.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [paranormális](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/paranorm%c3%a1lis.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [massachusetts](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/massachusetts.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diszt%c3%b3pia.md), [apokalipszis](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/apokalipszis.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [pszicho-thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszicho-thriller.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -359,10 +359,10 @@ Stephen King, a thriller kimeríthetetlen fantáziájú mestere, mindenből ihle
 
 
 # <a name="id_554">Stephen King: Duma Key (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Duma%20Key%20%28554%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Duma%20Key%20%28554%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Duma%20Key%20%28554%29/Duma%20Key%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Duma%20Key%20%28554%29/Duma%20Key%20-%20Stephen%20King.epub)
 
 ### Tagek
 [bram stoker-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bram%20stoker-d%c3%adj.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [bűnügyi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c5%b1n%c3%bcgyi.md), [tenger](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tenger.md), [festészet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fest%c3%a9szet.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [florida](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/florida.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [pszicho-thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszicho-thriller.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md)
@@ -374,10 +374,10 @@ Edgar Freemantle jól menő építési vállalkozó, gazdag, kiegyensúlyozott, 
 
 
 # <a name="id_523">Stephen King: 11/22/63 (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/11_22_63%20%28523%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/11_22_63%20%28523%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/11_22_63%20%28523%29/11_22_63%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/11_22_63%20%28523%29/11_22_63%20-%20Stephen%20King.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [időutazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/id%c5%91utaz%c3%a1s.md), [maine](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/maine.md), [amerikai történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20t%c3%b6rt%c3%a9nelem.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [amnézia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amn%c3%a9zia.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [1950-es évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1950-es%20%c3%a9vek.md), [erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/er%c5%91szak.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [1960-as évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1960-as%20%c3%a9vek.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [alternatív történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/alternat%c3%adv%20t%c3%b6rt%c3%a9nelem.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [családon belüli erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1don%20bel%c3%bcli%20er%c5%91szak.md), [felnőtt tartalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/feln%c5%91tt%20tartalom.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diszt%c3%b3pia.md)
@@ -389,10 +389,10 @@ Stephen King most is elemében van, fantáziája korlátlan, szereplői és mili
 
 
 # <a name="id_933">Stephen King: Sherlock Holmes lehetetlen kalandjai (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Sherlock%20Holmes%20lehetetlen%20kalandja%20%28933%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Sherlock%20Holmes%20lehetetlen%20kalandja%20%28933%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Sherlock%20Holmes%20lehetetlen%20kalandja%20%28933%29/Sherlock%20Holmes%20lehetetlen%20kala%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Sherlock%20Holmes%20lehetetlen%20kalandja%20%28933%29/Sherlock%20Holmes%20lehetetlen%20kala%20-%20Stephen%20King.epub)
 
 ### Tagek
 [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [antológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/antol%c3%b3gia.md), [kanadai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kanadai%20szerz%c5%91.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -404,10 +404,10 @@ Az Ad Astra kiadó e monumentális kötetében a fantasztikus irodalom nagyjaina
 
 
 # <a name="id_932">Stephen King: A hosszú menetelés (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20hosszu%20meneteles%20%28932%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/A%20hosszu%20meneteles%20%28932%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/A%20hosszu%20meneteles%20%28932%29/A%20hosszu%20meneteles%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/A%20hosszu%20meneteles%20%28932%29/A%20hosszu%20meneteles%20-%20Stephen%20King.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [diktatúra](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diktat%c3%bara.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diszt%c3%b3pia.md), [észak-amerika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9szak-amerika.md), [fiatalkor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiatalkor.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [katonaság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/katonas%c3%a1g.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [maine](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/maine.md), [posztapokaliptikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/posztapokaliptikus.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [túlélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%bal%c3%a9l%c3%a9s.md)
@@ -418,10 +418,10 @@ Stephen King korai, álnéven írt gyöngyszeme az Éhezők viadalá-hoz hasonl�
 
 
 # <a name="id_555">Stephen King: Az (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Az%20%28555%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Az%20%28555%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Az%20%28555%29/Az%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Az%20%28555%29/Az%20-%20Stephen%20King.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [maine](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/maine.md), [földönkívüliek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%b6ld%c3%b6nk%c3%adv%c3%bcliek.md), [gyermek főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek%20f%c5%91szerepl%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [british fantasy-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/british%20fantasy-d%c3%adj.md), [gyermekszemszög](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekszemsz%c3%b6g.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [paranormális](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/paranorm%c3%a1lis.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [august derleth-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/august%20derleth-d%c3%adj.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [felnőtt tartalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/feln%c5%91tt%20tartalom.md), [lélektani](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a9lektani.md), [pszicho-thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszicho-thriller.md)
@@ -431,10 +431,10 @@ Heten ​voltak, gyerekek – mind a heten a másság számkivetettjei: Bill, a 
 
 
 # <a name="id_1204">Stephen King: Csipkerózsikák (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Csipkerozsikak%20%281204%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Csipkerozsikak%20%281204%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stephen%20King/Csipkerozsikak%20%281204%29/Csipkerozsikak%20-%20Stephen%20King.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20King/Csipkerozsikak%20%281204%29/Csipkerozsikak%20-%20Stephen%20King.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [álom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1lom.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [apokalipszis](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/apokalipszis.md), [börtön](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c3%b6rt%c3%b6n.md), [család](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1d.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diszt%c3%b3pia.md), [drog](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/drog.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [felnőtt tartalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/feln%c5%91tt%20tartalom.md), [feminizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/feminizmus.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [függőség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%bcgg%c5%91s%c3%a9g.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [nők](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91k.md)

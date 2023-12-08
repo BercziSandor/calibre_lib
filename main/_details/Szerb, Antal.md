@@ -1,8 +1,8 @@
 # <a name="id_387">Szerb, Antal: Utas és holdvilág (1985)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szerb%2C%20Antal/Utas%20es%20holdvilag%20%28387%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szerb%2C%20Antal/Utas%20es%20holdvilag%20%28387%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szerb%2C%20Antal/Utas%20es%20holdvilag%20%28387%29/Utas%20es%20holdvilag%20-%20Szerb%2C%20Antal.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szerb%2C%20Antal/Utas%20es%20holdvilag%20%28387%29/Utas%20es%20holdvilag%20-%20Szerb%2C%20Antal.epub)
 
 ### Tagek
 [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [nagy könyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nagy%20k%c3%b6nyv.md), [66 híres magyar regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/66%20h%c3%adres%20magyar%20reg%c3%a9ny.md), [30-as évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/30-as%20%c3%a9vek.md), [ifjúság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1g.md), [hangjáték](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangj%c3%a1t%c3%a9k.md), [szexualitás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szexualit%c3%a1s.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [házasság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1zass%c3%a1g.md), [róma](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/r%c3%b3ma.md), [itália](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/it%c3%a1lia.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [filozofikus regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filozofikus%20reg%c3%a9ny.md), [lélektani](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a9lektani.md), [párizs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/p%c3%a1rizs.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [szerelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szerelem.md), [firenze](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/firenze.md)
@@ -12,10 +12,10 @@
 
 
 # <a name="id_272">Szerb, Antal: A Legszebb Kutyatörténetek Gerald Durrell Válogatásában (1996)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szerb%2C%20Antal/A%20Legszebb%20Kutyatortenetek%20Gerald%20Durrell%20Valogatasaban%20%28272%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szerb%2C%20Antal/A%20Legszebb%20Kutyatortenetek%20Gerald%20Durrell%20Valogatasaban%20%28272%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szerb%2C%20Antal/A%20Legszebb%20Kutyatortenetek%20Gerald%20Durrell%20Valogatasaban%20%28272%29/A%20Legszebb%20Kutyatortenetek%20Gera%20-%20Szerb%2C%20Antal.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szerb%2C%20Antal/A%20Legszebb%20Kutyatortenetek%20Gerald%20Durrell%20Valogatasaban%20%28272%29/A%20Legszebb%20Kutyatortenetek%20Gera%20-%20Szerb%2C%20Antal.epub)
 
 ### Tagek
 [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [kutya](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kutya.md)

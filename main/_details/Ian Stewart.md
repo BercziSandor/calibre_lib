@@ -1,8 +1,8 @@
 # <a name="id_781">Ian Stewart: A természet számai (1997)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ian%20Stewart/A%20termeszet%20szamai%20%28781%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ian%20Stewart/A%20termeszet%20szamai%20%28781%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ian%20Stewart/A%20termeszet%20szamai%20%28781%29/A%20termeszet%20szamai%20-%20Ian%20Stewart.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ian%20Stewart/A%20termeszet%20szamai%20%28781%29/A%20termeszet%20szamai%20-%20Ian%20Stewart.epub)
 
 ### Tagek
 [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ismeretterjeszt%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [matematika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/matematika.md), [tudományos](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tudom%c3%a1nyos.md)

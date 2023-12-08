@@ -1,8 +1,8 @@
 # <a name="id_1721">Jill Bolte Taylor: Mennybe döngölve (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jill%20Bolte%20Taylor/Mennybe%20dongolve%20%281721%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jill%20Bolte%20Taylor/Mennybe%20dongolve%20%281721%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jill%20Bolte%20Taylor/Mennybe%20dongolve%20%281721%29/Mennybe%20dongolve%20-%20Jill%20Bolte%20Taylor.pdf)
+[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jill%20Bolte%20Taylor/Mennybe%20dongolve%20%281721%29/Mennybe%20dongolve%20-%20Jill%20Bolte%20Taylor.pdf)
 
 ### Összefoglalás
 <div>

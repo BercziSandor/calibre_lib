@@ -1,8 +1,8 @@
 # <a name="id_683">Åsa Schwarz: Nefilim (Nova Barakel 1) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Asa%20Schwarz/Nefilim%20%28683%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Asa%20Schwarz/Nefilim%20%28683%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Asa%20Schwarz/Nefilim%20%28683%29/Nefilim%20-%20Asa%20Schwarz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Asa%20Schwarz/Nefilim%20%28683%29/Nefilim%20-%20Asa%20Schwarz.epub)
 
 ### Tagek
 [angyal](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angyal.md), [erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/er%c5%91szak.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [svéd szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sv%c3%a9d%20szerz%c5%91.md), [svédország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sv%c3%a9dorsz%c3%a1g.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_684">Åsa Schwarz: Halott angyal (Nova Barakel 2) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Asa%20Schwarz/Halott%20angyal%20%28684%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Asa%20Schwarz/Halott%20angyal%20%28684%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Asa%20Schwarz/Halott%20angyal%20%28684%29/Halott%20angyal%20-%20Asa%20Schwarz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Asa%20Schwarz/Halott%20angyal%20%28684%29/Halott%20angyal%20-%20Asa%20Schwarz.epub)
 
 ### Tagek
 [angyal](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angyal.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [svéd szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sv%c3%a9d%20szerz%c5%91.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md)

@@ -1,8 +1,8 @@
 # <a name="id_455">James Joyce: Dublini emberek (1914)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Joyce/Dublini%20emberek%20%28455%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Joyce/Dublini%20emberek%20%28455%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Joyce/Dublini%20emberek%20%28455%29/Dublini%20emberek%20-%20James%20Joyce.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Joyce/Dublini%20emberek%20%28455%29/Dublini%20emberek%20-%20James%20Joyce.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [ír szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%adr%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [modernizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/modernizmus.md), [összetett regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6sszetett%20reg%c3%a9ny.md), [társadalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1rsadalom.md), [angol](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol.md), [írország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%adrorsz%c3%a1g.md), [európa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/eur%c3%b3pa.md), [az író származása szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/az%20%c3%adr%c3%b3%20sz%c3%a1rmaz%c3%a1sa%20szerint.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [idegennyelv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/idegennyelv.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [idegennyelvű könyvek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/idegennyelv%c5%b1%20k%c3%b6nyvek.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_456">James Joyce: Ifjúkori önarckép (1916)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Joyce/Ifjukori%20onarckep%20%28456%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Joyce/Ifjukori%20onarckep%20%28456%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Joyce/Ifjukori%20onarckep%20%28456%29/Ifjukori%20onarckep%20-%20James%20Joyce.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Joyce/Ifjukori%20onarckep%20%28456%29/Ifjukori%20onarckep%20-%20James%20Joyce.epub)
 
 ### Tagek
 [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1001%20k%c3%b6nyv%20list%c3%a1n%20szerepel.md), [1910-es évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1910-es%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [fejlődésregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fejl%c5%91d%c3%a9sreg%c3%a9ny.md), [ír szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%adr%20szerz%c5%91.md), [írország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%adrorsz%c3%a1g.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [modernizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/modernizmus.md), [önéletrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6n%c3%a9letrajz.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md)
@@ -27,10 +27,10 @@
 
 
 # <a name="id_1473">James Joyce: Ulysses (1922)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Joyce/Ulysses%20%281473%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Joyce/Ulysses%20%281473%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Joyce/Ulysses%20%281473%29/Ulysses%20-%20James%20Joyce.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Joyce/Ulysses%20%281473%29/Ulysses%20-%20James%20Joyce.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [historical](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/historical.md), [action & adventure](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/action%20%26%20adventure.md), [psychological](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/psychological.md)

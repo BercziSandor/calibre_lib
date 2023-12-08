@@ -1,8 +1,8 @@
 # <a name="id_779">Elizabeth Hand: 12 majom (1996)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Elizabeth%20Hand/12%20Majom%20%28779%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Elizabeth%20Hand/12%20Majom%20%28779%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Elizabeth%20Hand/12%20Majom%20%28779%29/12%20majom%20-%20Elizabeth%20Hand.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Elizabeth%20Hand/12%20Majom%20%28779%29/12%20majom%20-%20Elizabeth%20Hand.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [filmből készült könyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmb%c5%91l%20k%c3%a9sz%c3%bclt%20k%c3%b6nyv.md), [időutazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/id%c5%91utaz%c3%a1s.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md)

@@ -1,8 +1,8 @@
 # <a name="id_649">Foster, Alan Dean: A nyolcadik utas: a Halál (Alien 1) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Foster%2C%20Alan%20Dean/A%20nyolcadik%20utas_%20a%20Halal%20%28649%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Foster%2C%20Alan%20Dean/A%20nyolcadik%20utas_%20a%20Halal%20%28649%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Foster%2C%20Alan%20Dean/A%20nyolcadik%20utas_%20a%20Halal%20%28649%29/A%20nyolcadik%20utas_%20a%20Halal%20-%20Foster%2C%20Alan%20Dean.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Foster%2C%20Alan%20Dean/A%20nyolcadik%20utas_%20a%20Halal%20%28649%29/A%20nyolcadik%20utas_%20a%20Halal%20-%20Foster%2C%20Alan%20Dean.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [filmből készült könyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmb%c5%91l%20k%c3%a9sz%c3%bclt%20k%c3%b6nyv.md), [földönkívüliek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%b6ld%c3%b6nk%c3%adv%c3%bcliek.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [robot](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/robot.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [szörny](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b6rny.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [űropera](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c5%b1ropera.md), [űrutazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c5%b1rutaz%c3%a1s.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_650">Foster, Alan Dean: A bolygó neve: Halál (Alien 2) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Foster%2C%20Alan%20Dean/A%20bolygo%20neve_%20Halal%20%28650%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Foster%2C%20Alan%20Dean/A%20bolygo%20neve_%20Halal%20%28650%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Foster%2C%20Alan%20Dean/A%20bolygo%20neve_%20Halal%20%28650%29/A%20bolygo%20neve_%20Halal%20-%20Foster%2C%20Alan%20Dean.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Foster%2C%20Alan%20Dean/A%20bolygo%20neve_%20Halal%20%28650%29/A%20bolygo%20neve_%20Halal%20-%20Foster%2C%20Alan%20Dean.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [filmből készült könyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmb%c5%91l%20k%c3%a9sz%c3%bclt%20k%c3%b6nyv.md), [földönkívüliek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%b6ld%c3%b6nk%c3%adv%c3%bcliek.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [katonai sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/katonai%20sci-fi.md), [katonaság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/katonas%c3%a1g.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [robot](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/robot.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [szörny](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b6rny.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [űrutazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c5%b1rutaz%c3%a1s.md)
@@ -27,10 +27,10 @@
 
 
 # <a name="id_652">Foster, Alan Dean: Az út végén a halál (Alien 3) (1992)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Foster%2C%20Alan%20Dean/Az%20ut%20vegen%20a%20halal%20%28652%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Foster%2C%20Alan%20Dean/Az%20ut%20vegen%20a%20halal%20%28652%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Foster%2C%20Alan%20Dean/Az%20ut%20vegen%20a%20halal%20%28652%29/Az%20ut%20vegen%20a%20halal%20-%20Foster%2C%20Alan%20Dean.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Foster%2C%20Alan%20Dean/Az%20ut%20vegen%20a%20halal%20%28652%29/Az%20ut%20vegen%20a%20halal%20-%20Foster%2C%20Alan%20Dean.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [börtön](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c3%b6rt%c3%b6n.md), [filmből készült könyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmb%c5%91l%20k%c3%a9sz%c3%bclt%20k%c3%b6nyv.md), [földönkívüliek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%b6ld%c3%b6nk%c3%adv%c3%bcliek.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [űrutazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c5%b1rutaz%c3%a1s.md)

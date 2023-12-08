@@ -1,8 +1,8 @@
 # <a name="id_977">Augusten Burroughs: Farkas az asztalnál (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Augusten%20Burroughs/Farkas%20az%20asztalnal%20%28977%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Augusten%20Burroughs/Farkas%20az%20asztalnal%20%28977%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Augusten%20Burroughs/Farkas%20az%20asztalnal%20%28977%29/Farkas%20az%20asztalnal%20-%20Augusten%20Burroughs.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Augusten%20Burroughs/Farkas%20az%20asztalnal%20%28977%29/Farkas%20az%20asztalnal%20-%20Augusten%20Burroughs.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [családon belüli erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1don%20bel%c3%bcli%20er%c5%91szak.md), [gyermekbántalmazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekb%c3%a1ntalmaz%c3%a1s.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_968">Augusten Burroughs: Kiszáradva (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Augusten%20Burroughs/Kiszaradva%20%28968%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Augusten%20Burroughs/Kiszaradva%20%28968%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Augusten%20Burroughs/Kiszaradva%20%28968%29/Kiszaradva%20-%20Augusten%20Burroughs.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Augusten%20Burroughs/Kiszaradva%20%28968%29/Kiszaradva%20-%20Augusten%20Burroughs.epub)
 
 ### Tagek
 [alkoholizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/alkoholizmus.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [függőség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%bcgg%c5%91s%c3%a9g.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [lmbtq](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/lmbtq.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [memoár](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/memo%c3%a1r.md), [new york](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/new%20york.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md)

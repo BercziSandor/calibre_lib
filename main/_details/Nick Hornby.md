@@ -1,18 +1,18 @@
 # <a name="id_704">Nick Hornby: Pop, csajok satöbbi </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Pop%2C%20csajok%20satobbi%20%28704%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Nick%20Hornby/Pop%2C%20csajok%20satobbi%20%28704%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Pop%2C%20csajok%20satobbi%20%28704%29/Pop%2C%20csajok%20satobbi%20-%20Nick%20Hornby.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Nick%20Hornby/Pop%2C%20csajok%20satobbi%20%28704%29/Pop%2C%20csajok%20satobbi%20-%20Nick%20Hornby.epub)
 
 ### Összefoglalás
 <p>„Ha férfi vagy, el kell olvasnod ezt a könyvet, aztán elolvastatnod a partnereddel is…” írta Nick Hornby regényéről egy angol kritikusa. És a tanácsát sokan meg is fogadták, hiszen a Pop, csajok, satöbbi az utóbbi évek angol irodalmának egyik legolvasottabb, legnépszerűbb könyve. Rob Fleming, a harmincöt éves popzenerajongó, poplemezgyűjtő, poplemezboltos történetében, boldog és boldogtalan szerelmeiben, szexuális hőstetteiben és leégéseiben, fájdalmas szakításaiban és olykor Woody Allent idéző szerencsétlenkedéseiben bizonnyal sokan ráismernek a saját életükre – és jólesően kinevetik a főhőssel együtt saját magukat is. Nick Hornby ugyanis egyre terebélyesedő sikerét leginkább egészen utánozhatatlan humorának és öniróniájának köszönheti. Egy szó mint száz: ha férfi vagy (vagy nő, aki szeretné megismerni a mai férfiak mafla, gyötrődő lelkét), ha voltál már szerelmes (vagy leszel), ha valaha elhagyott a partnered (vagy te hagytad el őt), ha szereted a popzenét (bár akkor is, ha nem), ha még kezdő vagy, és szeretnéd tudni, milyen megpróbáltatások várnak rád a szexben és a szerelemben, vagy ha már túl vagy sok mindenen, ha olykor a szexet zűrös dolognak érzed, máskor meg az egyetlen örömnek az életben, ha olykor elfog a halálfélelem, ha sehogy sem sikerül felnőnöd, ha néha szörnyen elcseszed az életed… akkor el kell olvasnod ezt a könyvet.</p>
 
 
 # <a name="id_304">Nick Hornby: Hogy legyünk jók? (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Hogy%20legyunk%20jok_%20%28304%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Nick%20Hornby/Hogy%20legyunk%20jok_%20%28304%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Hogy%20legyunk%20jok_%20%28304%29/Hogy%20legyunk%20jok_%20-%20Nick%20Hornby.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Nick%20Hornby/Hogy%20legyunk%20jok_%20%28304%29/Hogy%20legyunk%20jok_%20-%20Nick%20Hornby.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [kereszténység](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kereszt%c3%a9nys%c3%a9g.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [vallás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vall%c3%a1s.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol.md), [brit](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit.md), [házasság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1zass%c3%a1g.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -23,10 +23,10 @@
 
 
 # <a name="id_708">Nick Hornby: Betoncsók (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Betoncsok%20%28708%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Nick%20Hornby/Betoncsok%20%28708%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Betoncsok%20%28708%29/Betoncsok%20-%20Nick%20Hornby.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Nick%20Hornby/Betoncsok%20%28708%29/Betoncsok%20-%20Nick%20Hornby.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [gördeszka](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/g%c3%b6rdeszka.md), [időutazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/id%c5%91utaz%c3%a1s.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [kamasz főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kamasz%20f%c5%91szerepl%c5%91.md), [kamaszkor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kamaszkor.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [párkapcsolat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/p%c3%a1rkapcsolat.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szülői szerep](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%bcl%c5%91i%20szerep.md), [terhesség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/terhess%c3%a9g.md)
@@ -37,10 +37,10 @@
 
 
 # <a name="id_709">Nick Hornby: A Meztelen Juliet (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/A%20Meztelen%20Juliet%20%28709%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Nick%20Hornby/A%20Meztelen%20Juliet%20%28709%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/A%20Meztelen%20Juliet%20%28709%29/A%20Meztelen%20Juliet%20-%20Nick%20Hornby.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Nick%20Hornby/A%20Meztelen%20Juliet%20%28709%29/A%20Meztelen%20Juliet%20-%20Nick%20Hornby.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [párkapcsolat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/p%c3%a1rkapcsolat.md), [popkultúra](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/popkult%c3%bara.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [zenész](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/zen%c3%a9sz.md)
@@ -51,10 +51,10 @@
 
 
 # <a name="id_703">Nick Hornby: Fociláz (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Focilaz%20%28703%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Nick%20Hornby/Focilaz%20%28703%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Focilaz%20%28703%29/Focilaz%20-%20Nick%20Hornby.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Nick%20Hornby/Focilaz%20%28703%29/Focilaz%20-%20Nick%20Hornby.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [ismeretközlő irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ismeretk%c3%b6zl%c5%91%20irodalom.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [labdarúgás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/labdar%c3%bag%c3%a1s.md), [london](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/london.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [memoár](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/memo%c3%a1r.md), [sport](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sport.md)
@@ -65,10 +65,10 @@
 
 
 # <a name="id_705">Nick Hornby: Hosszú út lefelé (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Hosszu%20ut%20lefele%20%28705%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Nick%20Hornby/Hosszu%20ut%20lefele%20%28705%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Hosszu%20ut%20lefele%20%28705%29/Hosszu%20ut%20lefele%20-%20Nick%20Hornby.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Nick%20Hornby/Hosszu%20ut%20lefele%20%28705%29/Hosszu%20ut%20lefele%20-%20Nick%20Hornby.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [london](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/london.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [öngyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6ngyilkoss%c3%a1g.md), [önismeret](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6nismeret.md), [popkultúra](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/popkult%c3%bara.md), [pszichológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszichol%c3%b3gia.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [váltott szemszög](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a1ltott%20szemsz%c3%b6g.md)
@@ -79,10 +79,10 @@
 
 
 # <a name="id_707">Nick Hornby: Egy fiúról (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Egy%20fiurol%20%28707%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Nick%20Hornby/Egy%20fiurol%20%28707%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nick%20Hornby/Egy%20fiurol%20%28707%29/Egy%20fiurol%20-%20Nick%20Hornby.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Nick%20Hornby/Egy%20fiurol%20%28707%29/Egy%20fiurol%20-%20Nick%20Hornby.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [bullying](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bullying.md), [depresszió](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/depresszi%c3%b3.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [london](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/london.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [öngyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6ngyilkoss%c3%a1g.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szülői szerep](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%bcl%c5%91i%20szerep.md)

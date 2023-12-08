@@ -1,8 +1,8 @@
 # <a name="id_1006">Simon Kernick: Rossz időben, rossz helyen (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Simon%20Kernick/Rossz%20idoben%2C%20rossz%20helyen%20%281006%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Simon%20Kernick/Rossz%20idoben%2C%20rossz%20helyen%20%281006%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Simon%20Kernick/Rossz%20idoben%2C%20rossz%20helyen%20%281006%29/Rossz%20idoben%2C%20rossz%20helyen%20-%20Simon%20Kernick.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Simon%20Kernick/Rossz%20idoben%2C%20rossz%20helyen%20%281006%29/Rossz%20idoben%2C%20rossz%20helyen%20-%20Simon%20Kernick.epub)
 
 ### Tagek
 [brit](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szingapúr](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szingap%c3%bar.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md)

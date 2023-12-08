@@ -1,14 +1,14 @@
 # <a name="id_890">Neil Gaiman: Shoggoth Különleges (Novellák 1) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Shoggoth%20Kulonleges%20%28890%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Shoggoth%20Kulonleges%20%28890%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Shoggoth%20Kulonleges%20%28890%29/Shoggoth%20Kulonleges%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Shoggoth%20Kulonleges%20%28890%29/Shoggoth%20Kulonleges%20-%20Neil%20Gaiman.epub)
 
 # <a name="id_665">Neil Gaiman: 27 képtelen történet </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/27%20keptelen%20tortenet%20%28665%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/27%20keptelen%20tortenet%20%28665%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/27%20keptelen%20tortenet%20%28665%29/27%20keptelen%20tortenet%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/27%20keptelen%20tortenet%20%28665%29/27%20keptelen%20tortenet%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md)
@@ -18,23 +18,23 @@
 
 
 # <a name="id_887">Neil Gaiman: Góliát </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Goliat%20%28887%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Goliat%20%28887%29/cover.jpg" alt="cover" width="300"/>
 
 # <a name="id_888">Neil Gaiman: Hó, tükör, almák </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Ho%2C%20tukor%2C%20almak%20%28888%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ho%2C%20tukor%2C%20almak%20%28888%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Ho%2C%20tukor%2C%20almak%20%28888%29/Ho%2C%20tukor%2C%20almak%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ho%2C%20tukor%2C%20almak%20%28888%29/Ho%2C%20tukor%2C%20almak%20-%20Neil%20Gaiman.epub)
 
 # <a name="id_889">Neil Gaiman: Mátrix </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Matrix%20%28889%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Matrix%20%28889%29/cover.jpg" alt="cover" width="300"/>
 
 # <a name="id_896">Neil Gaiman: Elveszett Próféciák (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Elveszett%20Profeciak%20%28896%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Elveszett%20Profeciak%20%28896%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Elveszett%20Profeciak%20%28896%29/Elveszett%20Profeciak%20-%20Neil%20Gaiman.epub) 
- [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Elveszett%20Profeciak%20%28896%29/Elveszett%20Profeciak%20-%20Neil%20Gaiman.rtf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Elveszett%20Profeciak%20%28896%29/Elveszett%20Profeciak%20-%20Neil%20Gaiman.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Elveszett%20Profeciak%20%28896%29/Elveszett%20Profeciak%20-%20Neil%20Gaiman.rtf)
 
 ### Tagek
 [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md)
@@ -44,10 +44,10 @@
 
 
 # <a name="id_1808">Neil Gaiman: Neverwhere (1996)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Neverwhere%20%281808%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Neverwhere%20%281808%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Neverwhere%20%281808%29/Neverwhere%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Neverwhere%20%281808%29/Neverwhere%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [urban](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/urban.md), [contemporary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/contemporary.md), [literary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literary.md)
@@ -82,10 +82,10 @@
 
 
 # <a name="id_224">Neil Gaiman: Amerikai Istenek (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Amerikai%20Istenek%20%28224%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Amerikai%20Istenek%20%28224%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Amerikai%20Istenek%20%28224%29/Amerikai%20Istenek%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Amerikai%20Istenek%20%28224%29/Amerikai%20Istenek%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md)
@@ -95,10 +95,10 @@
 
 
 # <a name="id_1811">Neil Gaiman: Coraline (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Coraline%20%281811%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Coraline%20%281811%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Coraline%20%281811%29/Coraline%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Coraline%20%281811%29/Coraline%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 [juvenile nonfiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/juvenile%20nonfiction.md), [young adult fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/young%20adult%20fiction.md), [juvenile fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/juvenile%20fiction.md), [fantasy & magic](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy%20%26%20magic.md), [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [horror & ghost stories](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror%20%26%20ghost%20stories.md), [supernatural](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/supernatural.md), [horror stories](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror%20stories.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md)
@@ -110,10 +110,10 @@
 
 
 # <a name="id_1810">Neil Gaiman: The Graveyard Book (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/The%20Graveyard%20Book%20%281810%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/The%20Graveyard%20Book%20%281810%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/The%20Graveyard%20Book%20%281810%29/The%20Graveyard%20Book%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/The%20Graveyard%20Book%20%281810%29/The%20Graveyard%20Book%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [young adult](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/young%20adult.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [paranormal](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/paranormal.md), [childrens](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/childrens.md)
@@ -125,10 +125,10 @@
 
 
 # <a name="id_1809">Neil Gaiman: American Gods: The Tenth Anniversary Edition: A Novel (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/American%20Gods_%20The%20Tenth%20Anniversar%20%281809%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/American%20Gods_%20The%20Tenth%20Anniversar%20%281809%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/American%20Gods_%20The%20Tenth%20Anniversar%20%281809%29/American%20Gods_%20The%20Tenth%20Annive%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/American%20Gods_%20The%20Tenth%20Anniversar%20%281809%29/American%20Gods_%20The%20Tenth%20Annive%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md)
@@ -139,10 +139,10 @@
 
 
 # <a name="id_1706">Neil Gaiman: Ne ess pánikba! (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Ne%20ess%20panikba%21%20%281706%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ne%20ess%20panikba%21%20%281706%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Ne%20ess%20panikba%21%20%281706%29/Ne%20ess%20panikba%21%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ne%20ess%20panikba%21%20%281706%29/Ne%20ess%20panikba%21%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [életrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letrajz.md), [angol humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20humor.md)
@@ -153,10 +153,10 @@
 
 
 # <a name="id_1433">Neil Gaiman: Óceán az út végén (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Ocean%20az%20ut%20vegen%20%281433%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ocean%20az%20ut%20vegen%20%281433%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Ocean%20az%20ut%20vegen%20%281433%29/Ocean%20az%20ut%20vegen%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ocean%20az%20ut%20vegen%20%281433%29/Ocean%20az%20ut%20vegen%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [állat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llat.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [család](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1d.md), [dark fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dark%20fantasy.md), [emlékezet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/eml%c3%a9kezet.md), [énelbeszélő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9nelbesz%c3%a9l%c5%91.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [fizikai bántalmazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fizikai%20b%c3%a1ntalmaz%c3%a1s.md), [gyermek főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek%20f%c5%91szerepl%c5%91.md), [gyermekkor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekkor.md), [gyermekszemszög](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekszemsz%c3%b6g.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [locus-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/locus-d%c3%adj.md)
@@ -167,10 +167,10 @@
 
 
 # <a name="id_1805">Neil Gaiman: Óceán az út végén (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Ocean%20az%20ut%20vegen%20%281805%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ocean%20az%20ut%20vegen%20%281805%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Ocean%20az%20ut%20vegen%20%281805%29/Ocean%20az%20ut%20vegen%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ocean%20az%20ut%20vegen%20%281805%29/Ocean%20az%20ut%20vegen%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [young adult](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/young%20adult.md), [adult](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/adult.md), [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md), [paranormal](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/paranormal.md)
@@ -183,10 +183,10 @@
 
 
 # <a name="id_1806">Neil Gaiman: The Ocean at the End of the Lane (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/The%20Ocean%20at%20the%20End%20of%20the%20Lane%20%281806%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/The%20Ocean%20at%20the%20End%20of%20the%20Lane%20%281806%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/The%20Ocean%20at%20the%20End%20of%20the%20Lane%20%281806%29/The%20Ocean%20at%20the%20End%20of%20the%20Lan%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/The%20Ocean%20at%20the%20End%20of%20the%20Lane%20%281806%29/The%20Ocean%20at%20the%20End%20of%20the%20Lan%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [coming of age](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/coming%20of%20age.md), [magical realism](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magical%20realism.md), [literary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literary.md)
@@ -225,20 +225,20 @@
 
 
 # <a name="id_1802">Neil Gaiman: Unnatural Creatures (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Unnatural%20Creatures%20%281802%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Unnatural%20Creatures%20%281802%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Unnatural%20Creatures%20%281802%29/Unnatural%20Creatures%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Unnatural%20Creatures%20%281802%29/Unnatural%20Creatures%20-%20Neil%20Gaiman.epub)
 
 ### Összefoglalás
 <p><em>Unnatural Creatures</em> is a collection of short stories about the fantastical things that exist only in our minds--collected and introduced by beloved <em>New York Times</em> bestselling author Neil Gaiman.<br /> <br />The sixteen stories gathered by Gaiman, winner of the Hugo and Nebula Awards, range from the whimsical to the terrifying. The magical creatures range from werewolves to sunbirds to beings never before classified. E. Nesbit, Diana Wynne Jones, Gahan Wilson, and other literary luminaries contribute to the anthology.<br /> <br />Sales of <em>Unnatural Creatures</em> benefit 826DC, a nonprofit organization dedicated to supporting students in their creative and expository writing, and to helping teachers inspire their students to write.</p>
 
 
 # <a name="id_1432">Neil Gaiman: Anansi fiúk (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Anansi%20fiuk%20%281432%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Anansi%20fiuk%20%281432%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Anansi%20fiuk%20%281432%29/Anansi%20fiuk%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Anansi%20fiuk%20%281432%29/Anansi%20fiuk%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [august derleth-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/august%20derleth-d%c3%adj.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [british fantasy-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/british%20fantasy-d%c3%adj.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [istenek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/istenek.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [locus-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/locus-d%c3%adj.md), [madarak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/madarak.md), [mágikus realizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gikus%20realizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [mitológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mitol%c3%b3gia.md), [pókok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/p%c3%b3kok.md), [posztmodern](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/posztmodern.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [testvérek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/testv%c3%a9rek.md)
@@ -249,10 +249,10 @@
 
 
 # <a name="id_1431">Neil Gaiman: Coraline (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Coraline%20%281431%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Coraline%20%281431%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Coraline%20%281431%29/Coraline%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Coraline%20%281431%29/Coraline%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [boszorkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/boszork%c3%a1ny.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [család](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1d.md), [dark fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dark%20fantasy.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyermek főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek%20f%c5%91szerepl%c5%91.md), [gyermekszemszög](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekszemsz%c3%b6g.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [hugo-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hugo-d%c3%adj.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [locus-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/locus-d%c3%adj.md), [macska](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/macska.md), [mágikus realizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gikus%20realizmus.md), [meseregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mesereg%c3%a9ny.md)
@@ -263,10 +263,10 @@
 
 
 # <a name="id_976">Neil Gaiman: Felkavaró tartalom (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Felkavaro%20tartalom%20%28976%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Felkavaro%20tartalom%20%28976%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Felkavaro%20tartalom%20%28976%29/Felkavaro%20tartalom%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Felkavaro%20tartalom%20%28976%29/Felkavaro%20tartalom%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [urban fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/urban%20fantasy.md), [weird fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/weird%20fiction.md)
@@ -277,10 +277,10 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 
 
 # <a name="id_1804">Neil Gaiman: Trigger Warning: Short Fictions and Disturbances (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Trigger%20Warning_%20Short%20Fictions%20and%20%281804%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Trigger%20Warning_%20Short%20Fictions%20and%20%281804%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Trigger%20Warning_%20Short%20Fictions%20and%20%281804%29/Trigger%20Warning_%20Short%20Fictions%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Trigger%20Warning_%20Short%20Fictions%20and%20%281804%29/Trigger%20Warning_%20Short%20Fictions%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md), [anthologies](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anthologies.md), [poetry](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/poetry.md), [adult](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/adult.md)
@@ -356,10 +356,10 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 
 
 # <a name="id_1812">Neil Gaiman: Kilátás az erkélyről (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Kilatas%20az%20erkelyrol%20%281812%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Kilatas%20az%20erkelyrol%20%281812%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Kilatas%20az%20erkelyrol%20%281812%29/Kilatas%20az%20erkelyrol%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Kilatas%20az%20erkelyrol%20%281812%29/Kilatas%20az%20erkelyrol%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [esszé](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/essz%c3%a9.md), [ismeretközlő irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ismeretk%c3%b6zl%c5%91%20irodalom.md), [könyvesbolt](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b6nyvesbolt.md), [könyvkultúra](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b6nyvkult%c3%bara.md), [könyvtár](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b6nyvt%c3%a1r.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [válogatás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a1logat%c3%a1s.md)
@@ -369,10 +369,10 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 
 
 # <a name="id_1435">Neil Gaiman: Északi mitológia (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Eszaki%20mitologia%20%281435%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Eszaki%20mitologia%20%281435%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Eszaki%20mitologia%20%281435%29/Eszaki%20mitologia%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Eszaki%20mitologia%20%281435%29/Eszaki%20mitologia%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [északi népek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9szaki%20n%c3%a9pek.md), [harcosok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/harcosok.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [istenek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/istenek.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [mítosz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%adtosz.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [összetett regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6sszetett%20reg%c3%a9ny.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [skandinávia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1via.md), [tél](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a9l.md), [viking](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/viking.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [mitológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mitol%c3%b3gia.md)
@@ -383,10 +383,10 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 
 
 # <a name="id_1807">Neil Gaiman: Norse Mythology (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Norse%20Mythology%20%281807%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Norse%20Mythology%20%281807%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Norse%20Mythology%20%281807%29/Norse%20Mythology%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Norse%20Mythology%20%281807%29/Norse%20Mythology%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [fairy tales](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fairy%20tales.md), [folk tales](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/folk%20tales.md), [legends & mythology](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/legends%20%26%20mythology.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [literary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literary.md), [cultural heritage](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cultural%20heritage.md)
@@ -398,10 +398,10 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 
 
 # <a name="id_1436">Neil Gaiman: Törékeny holmik (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Torekeny%20holmik%20%281436%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Torekeny%20holmik%20%281436%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Torekeny%20holmik%20%281436%29/Torekeny%20holmik%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Torekeny%20holmik%20%281436%29/Torekeny%20holmik%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [cirkusz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cirkusz.md), [démon](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/d%c3%a9mon.md), [drog](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/drog.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [hugo-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hugo-d%c3%adj.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [pedofília](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pedof%c3%adlia.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [szellemek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szellemek.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [urban fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/urban%20fantasy.md)
@@ -412,10 +412,10 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 
 
 # <a name="id_1434">Neil Gaiman: Tükör és füst (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Tukor%20es%20fust%20%281434%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Tukor%20es%20fust%20%281434%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Tukor%20es%20fust%20%281434%29/Tukor%20es%20fust%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Tukor%20es%20fust%20%281434%29/Tukor%20es%20fust%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [adaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/adapt%c3%a1ci%c3%b3.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [angyal](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angyal.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [dark fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dark%20fantasy.md), [démon](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/d%c3%a9mon.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/er%c5%91szak.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [mágikus realizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gikus%20realizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [pedofília](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pedof%c3%adlia.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [válogatás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a1logat%c3%a1s.md), [vérfarkas](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a9rfarkas.md), [vers](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vers.md), [short stories](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/short%20stories.md)
@@ -426,10 +426,10 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 
 
 # <a name="id_222">Neil Gaiman: Sosehol (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Sosehol%20%28222%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Sosehol%20%28222%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Sosehol%20%28222%29/Sosehol%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Sosehol%20%28222%29/Sosehol%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [london](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/london.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [urban fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/urban%20fantasy.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gia.md), [metró](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/metr%c3%b3.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [angyal](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angyal.md), [weird fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/weird%20fiction.md), [portál fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/port%c3%a1l%20fantasy.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md)
@@ -441,10 +441,10 @@ A csatornák és metróalagutak labirintusában velük kell boldogulnia Richardn
 
 
 # <a name="id_886">Neil Gaiman: Csillagpor (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Csillagpor%20%28886%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Csillagpor%20%28886%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/Csillagpor%20%28886%29/Csillagpor%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Csillagpor%20%28886%29/Csillagpor%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [19. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/19.%20sz%c3%a1zad.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [testvérek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/testv%c3%a9rek.md), [meseregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mesereg%c3%a9ny.md), [portál fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/port%c3%a1l%20fantasy.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [tündér](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%bcnd%c3%a9r.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [boszorkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/boszork%c3%a1ny.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [szellemek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szellemek.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md)
@@ -455,10 +455,10 @@ Falva falva egy aprócska település Angliában. Arról a falról kapta a nevé
 
 
 # <a name="id_1424">Neil Gaiman: A temető könyve (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/A%20temeto%20konyve%20%281424%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/A%20temeto%20konyve%20%281424%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Neil%20Gaiman/A%20temeto%20konyve%20%281424%29/A%20temeto%20konyve%20-%20Neil%20Gaiman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/A%20temeto%20konyve%20%281424%29/A%20temeto%20konyve%20-%20Neil%20Gaiman.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [carnegie-medál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/carnegie-med%c3%a1l.md), [dark fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dark%20fantasy.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [fejlődésregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fejl%c5%91d%c3%a9sreg%c3%a9ny.md), [gyermek főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek%20f%c5%91szerepl%c5%91.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [halloween](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/halloween.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [hugo-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hugo-d%c3%adj.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [locus-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/locus-d%c3%adj.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [meseregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mesereg%c3%a9ny.md)

@@ -1,8 +1,8 @@
 # <a name="id_856">Aurelius, Marcus: Marcus Aurelius elmélkedései (1983)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Aurelius%2C%20Marcus/Marcus%20Aurelius%20elmelkedesei%20%28856%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Aurelius%2C%20Marcus/Marcus%20Aurelius%20elmelkedesei%20%28856%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Aurelius%2C%20Marcus/Marcus%20Aurelius%20elmelkedesei%20%28856%29/Marcus%20Aurelius%20elmelkedesei%20-%20Aurelius%2C%20Marcus.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Aurelius%2C%20Marcus/Marcus%20Aurelius%20elmelkedesei%20%28856%29/Marcus%20Aurelius%20elmelkedesei%20-%20Aurelius%2C%20Marcus.epub)
 
 ### Tagek
 [elmélkedés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elm%c3%a9lked%c3%a9s.md), [filozófia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filoz%c3%b3fia.md), [latin](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/latin.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [ókor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b3kor.md), [ókori](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b3kori.md), [római birodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/r%c3%b3mai%20birodalom.md), [római szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/r%c3%b3mai%20szerz%c5%91.md), [sztoicizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sztoicizmus.md), [társ. tudományok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1rs.%20tudom%c3%a1nyok.md)

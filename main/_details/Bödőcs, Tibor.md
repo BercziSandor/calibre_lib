@@ -1,8 +1,8 @@
 # <a name="id_1556">Bödőcs, Tibor: Meg se kínáltak (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bodocs%2C%20Tibor/Meg%20se%20kinaltak%20%281556%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bodocs%2C%20Tibor/Meg%20se%20kinaltak%20%281556%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bodocs%2C%20Tibor/Meg%20se%20kinaltak%20%281556%29/Meg%20se%20kinaltak%20-%20Bodocs%2C%20Tibor.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bodocs%2C%20Tibor/Meg%20se%20kinaltak%20%281556%29/Meg%20se%20kinaltak%20-%20Bodocs%2C%20Tibor.epub)
 
 ### Tagek
 [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_1428">Bödőcs, Tibor: Addig se iszik (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bodocs%2C%20Tibor/Addig%20se%20iszik%20%281428%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bodocs%2C%20Tibor/Addig%20se%20iszik%20%281428%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bodocs%2C%20Tibor/Addig%20se%20iszik%20%281428%29/Addig%20se%20iszik%20-%20Bodocs%2C%20Tibor.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bodocs%2C%20Tibor/Addig%20se%20iszik%20%281428%29/Addig%20se%20iszik%20-%20Bodocs%2C%20Tibor.epub)
 
 ### Tagek
 [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [paródia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/par%c3%b3dia.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md)
@@ -27,10 +27,10 @@
 
 
 # <a name="id_1557">Bödőcs, Tibor: Mulat a Manézs (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bodocs%2C%20Tibor/Mulat%20a%20Manezs%20%281557%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bodocs%2C%20Tibor/Mulat%20a%20Manezs%20%281557%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bodocs%2C%20Tibor/Mulat%20a%20Manezs%20%281557%29/Mulat%20a%20Manezs%20-%20Bodocs%2C%20Tibor.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bodocs%2C%20Tibor/Mulat%20a%20Manezs%20%281557%29/Mulat%20a%20Manezs%20-%20Bodocs%2C%20Tibor.epub)
 
 ### Tagek
 [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szat%c3%adra.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md)

@@ -1,8 +1,8 @@
 # <a name="id_529">Philip Carlo: A Jeges (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Philip%20Carlo/A%20Jeges%20%28529%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Philip%20Carlo/A%20Jeges%20%28529%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Philip%20Carlo/A%20Jeges%20%28529%29/A%20Jeges%20-%20Philip%20Carlo.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Philip%20Carlo/A%20Jeges%20%28529%29/A%20Jeges%20-%20Philip%20Carlo.epub)
 
 ### Tagek
 [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [életrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letrajz.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [maffia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/maffia.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)

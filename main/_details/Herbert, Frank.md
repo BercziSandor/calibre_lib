@@ -1,8 +1,8 @@
 # <a name="id_183">Herbert, Frank: Dűne-2-Dűne messiása (Düne 2) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Herbert%2C%20Frank/Dune-2-Dune%20messiasa%20%28183%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Frank/Dune-2-Dune%20messiasa%20%28183%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Herbert%2C%20Frank/Dune-2-Dune%20messiasa%20%28183%29/Dune-2-Dune%20messiasa%20-%20Herbert%2C%20Frank.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Frank/Dune-2-Dune%20messiasa%20%28183%29/Dune-2-Dune%20messiasa%20-%20Herbert%2C%20Frank.epub)
 
 ### Tagek
 [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md)
@@ -12,10 +12,10 @@ A távoli jövő galaktikus birodalmának központja Arrakis, e sivár bolygó, 
 
 
 # <a name="id_185">Herbert, Frank: Dűne-4-Dűne isten-császára (Düne 4) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Herbert%2C%20Frank/Dune-4-Dune%20isten-csaszara%20%28185%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Frank/Dune-4-Dune%20isten-csaszara%20%28185%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Herbert%2C%20Frank/Dune-4-Dune%20isten-csaszara%20%28185%29/Dune-4-Dune%20isten-csaszara%20-%20Herbert%2C%20Frank.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Frank/Dune-4-Dune%20isten-csaszara%20%28185%29/Dune-4-Dune%20isten-csaszara%20-%20Herbert%2C%20Frank.epub)
 
 ### Tagek
 [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md)
@@ -25,10 +25,10 @@ A Szent Szörnyeteg<BR>Paul Atreides Próféta két és félezer éves gyermeke,
 
 
 # <a name="id_186">Herbert, Frank: Dűne-5-Dűne eretnekei (Düne 5) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Herbert%2C%20Frank/Dune-5-Dune%20eretnekei%20%28186%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Frank/Dune-5-Dune%20eretnekei%20%28186%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Herbert%2C%20Frank/Dune-5-Dune%20eretnekei%20%28186%29/Dune-5-Dune%20eretnekei%20-%20Herbert%2C%20Frank.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Frank/Dune-5-Dune%20eretnekei%20%28186%29/Dune-5-Dune%20eretnekei%20-%20Herbert%2C%20Frank.epub)
 
 ### Tagek
 [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md)
@@ -38,10 +38,10 @@ Az Atreidesek hősi küzdelme rég legendává fakult az idők homályába. Ör�
 
 
 # <a name="id_187">Herbert, Frank: Dűne-6-Dűne Káptalanház (Düne 6) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Herbert%2C%20Frank/Dune-6-Dune%20Kaptalanhaz%20%28187%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Frank/Dune-6-Dune%20Kaptalanhaz%20%28187%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Herbert%2C%20Frank/Dune-6-Dune%20Kaptalanhaz%20%28187%29/Dune-6-Dune%20Kaptalanhaz%20-%20Herbert%2C%20Frank.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Frank/Dune-6-Dune%20Kaptalanhaz%20%28187%29/Dune-6-Dune%20Kaptalanhaz%20-%20Herbert%2C%20Frank.epub)
 
 ### Tagek
 [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md)
@@ -51,10 +51,10 @@ Arrakis a sivatagbolygó, amit Dűnének hívtak, megsemmisült. Így most a Ben
 
 
 # <a name="id_702">Herbert, Frank: Védett nők </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Herbert%2C%20Frank/Vedett%20nok%20%28702%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Frank/Vedett%20nok%20%28702%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Herbert%2C%20Frank/Vedett%20nok%20%28702%29/Vedett%20nok%20-%20Herbert%2C%20Frank.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Frank/Vedett%20nok%20%28702%29/Vedett%20nok%20-%20Herbert%2C%20Frank.epub)
 
 ### Tagek
 [írország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%adrorsz%c3%a1g.md), [járvány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/j%c3%a1rv%c3%a1ny.md), [nemi szerep](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nemi%20szerep.md), [nők](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91k.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [terrorizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/terrorizmus.md)

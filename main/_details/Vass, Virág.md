@@ -1,8 +1,8 @@
 # <a name="id_306">Vass, Virág: Krásznájá Moszkva (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vass%2C%20Virag/Krasznaja%20Moszkva%20%28306%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vass%2C%20Virag/Krasznaja%20Moszkva%20%28306%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vass%2C%20Virag/Krasznaja%20Moszkva%20%28306%29/Krasznaja%20Moszkva%20-%20Vass%2C%20Virag.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Vass%2C%20Virag/Krasznaja%20Moszkva%20%28306%29/Krasznaja%20Moszkva%20-%20Vass%2C%20Virag.epub)
 
 ### Tagek
 [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_309">Vass, Virág: Sokszor csókol, India! (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vass%2C%20Virag/Sokszor%20csokol%2C%20India%21%20%28309%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vass%2C%20Virag/Sokszor%20csokol%2C%20India%21%20%28309%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vass%2C%20Virag/Sokszor%20csokol%2C%20India%21%20%28309%29/Sokszor%20csokol%2C%20India%21%20-%20Vass%2C%20Virag.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Vass%2C%20Virag/Sokszor%20csokol%2C%20India%21%20%28309%29/Sokszor%20csokol%2C%20India%21%20-%20Vass%2C%20Virag.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [romance](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romance.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md)

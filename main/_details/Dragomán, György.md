@@ -1,8 +1,8 @@
 # <a name="id_1192">Dragomán, György: A pusztítás könyve (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/A%20pusztitas%20konyve%20%281192%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dragoman%2C%20Gyorgy/A%20pusztitas%20konyve%20%281192%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/A%20pusztitas%20konyve%20%281192%29/A%20pusztitas%20konyve%20-%20Dragoman%2C%20Gyorgy.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dragoman%2C%20Gyorgy/A%20pusztitas%20konyve%20%281192%29/A%20pusztitas%20konyve%20-%20Dragoman%2C%20Gyorgy.epub)
 
 ### Tagek
 [erdély](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/erd%c3%a9ly.md), [erdélyi magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/erd%c3%a9lyi%20magyar%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [noir irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/noir%20irodalom.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_1191">Dragomán, György: Oroszlánkórus (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/Oroszlankorus%20%281191%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dragoman%2C%20Gyorgy/Oroszlankorus%20%281191%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/Oroszlankorus%20%281191%29/Oroszlankorus%20-%20Dragoman%2C%20Gyorgy.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dragoman%2C%20Gyorgy/Oroszlankorus%20%281191%29/Oroszlankorus%20-%20Dragoman%2C%20Gyorgy.epub)
 
 ### Tagek
 [erdélyi magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/erd%c3%a9lyi%20magyar%20szerz%c5%91.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [zene](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/zene.md)
@@ -27,10 +27,10 @@
 
 
 # <a name="id_1193">Dragomán, György: A fehér király (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/A%20feher%20kiraly%20%281193%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dragoman%2C%20Gyorgy/A%20feher%20kiraly%20%281193%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/A%20feher%20kiraly%20%281193%29/A%20feher%20kiraly%20-%20Dragoman%2C%20Gyorgy.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dragoman%2C%20Gyorgy/A%20feher%20kiraly%20%281193%29/A%20feher%20kiraly%20-%20Dragoman%2C%20Gyorgy.epub)
 
 ### Tagek
 [literary collections](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literary%20collections.md), [european](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/european.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md)
@@ -41,10 +41,10 @@
 
 
 # <a name="id_1223">Dragomán, György: Rendszerújra (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/Rendszerujra%20%281223%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dragoman%2C%20Gyorgy/Rendszerujra%20%281223%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/Rendszerujra%20%281223%29/Rendszerujra%20-%20Dragoman%2C%20Gyorgy.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dragoman%2C%20Gyorgy/Rendszerujra%20%281223%29/Rendszerujra%20-%20Dragoman%2C%20Gyorgy.epub)
 
 ### Tagek
 [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diszt%c3%b3pia.md), [erdélyi magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/erd%c3%a9lyi%20magyar%20szerz%c5%91.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [fantasztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasztikus.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md)
@@ -55,10 +55,10 @@
 
 
 # <a name="id_1194">Dragomán, György: Máglya (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/Maglya%20%281194%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dragoman%2C%20Gyorgy/Maglya%20%281194%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dragoman%2C%20Gyorgy/Maglya%20%281194%29/Maglya%20-%20Dragoman%2C%20Gyorgy.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dragoman%2C%20Gyorgy/Maglya%20%281194%29/Maglya%20-%20Dragoman%2C%20Gyorgy.epub)
 
 ### Tagek
 [családtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1dt%c3%b6rt%c3%a9net.md), [énregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9nreg%c3%a9ny.md), [erdély](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/erd%c3%a9ly.md), [erdélyi magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/erd%c3%a9lyi%20magyar%20szerz%c5%91.md), [gyermekkor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekkor.md), [gyermekszemszög](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekszemsz%c3%b6g.md), [határon túli](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hat%c3%a1ron%20t%c3%bali.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [mágikus realizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gikus%20realizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [merítés-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mer%c3%adt%c3%a9s-d%c3%adj.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [rendszerváltás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/rendszerv%c3%a1lt%c3%a1s.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md)

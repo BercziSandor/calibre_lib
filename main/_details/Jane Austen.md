@@ -1,8 +1,8 @@
 # <a name="id_58">Jane Austen: Értelem és érzelem (A világirodalom remekei 1) (1986)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/Ertelem%20es%20erzelem%20%2858%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Ertelem%20es%20erzelem%20%2858%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/Ertelem%20es%20erzelem%20%2858%29/Ertelem%20es%20erzelem%20-%20Jane%20Austen.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Ertelem%20es%20erzelem%20%2858%29/Ertelem%20es%20erzelem%20-%20Jane%20Austen.epub)
 
 ### Tagek
 [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [további könyveink](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tov%c3%a1bbi%20k%c3%b6nyveink.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md)
@@ -14,10 +14,10 @@
 
 
 # <a name="id_56">Jane Austen: Büszkeség és Balítélet (1975)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/Buszkeseg%20es%20Balitelet%20%2856%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Buszkeseg%20es%20Balitelet%20%2856%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/Buszkeseg%20es%20Balitelet%20%2856%29/Buszkeseg%20es%20Balitelet%20-%20Jane%20Austen.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Buszkeseg%20es%20Balitelet%20%2856%29/Buszkeseg%20es%20Balitelet%20-%20Jane%20Austen.epub)
 
 ### Tagek
 [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md)
@@ -27,10 +27,10 @@
 
 
 # <a name="id_54">Jane Austen: A Klastrom Titka (1983)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/A%20Klastrom%20Titka%20%2854%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/A%20Klastrom%20Titka%20%2854%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/A%20Klastrom%20Titka%20%2854%29/A%20Klastrom%20Titka%20-%20Jane%20Austen.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/A%20Klastrom%20Titka%20%2854%29/A%20Klastrom%20Titka%20-%20Jane%20Austen.epub)
 
 ### Tagek
 [love stories](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/love%20stories.md)
@@ -43,10 +43,10 @@ Catherine Morland végül mégiscsak eléri az "igaz hősnői magaslatokat"- enn
 
 
 # <a name="id_55">Jane Austen: A Mansfieldi Kastély (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/A%20Mansfieldi%20Kastely%20%2855%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/A%20Mansfieldi%20Kastely%20%2855%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/A%20Mansfieldi%20Kastely%20%2855%29/A%20Mansfieldi%20Kastely%20-%20Jane%20Austen.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/A%20Mansfieldi%20Kastely%20%2855%29/A%20Mansfieldi%20Kastely%20-%20Jane%20Austen.epub)
 
 ### Tagek
 [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1001%20k%c3%b6nyv%20list%c3%a1n%20szerepel.md), [angol](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol.md), [a világirodalom remekei](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/a%20vil%c3%a1girodalom%20remekei.md), [19. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/19.%20sz%c3%a1zad.md), [10-es évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/10-es%20%c3%a9vek.md), [házasság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1zass%c3%a1g.md), [női sors](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20sors.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [családtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1dt%c3%b6rt%c3%a9net.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [szerelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szerelem.md), [film](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/film.md)
@@ -58,10 +58,10 @@ Fanny Price-nak számos szerelmi intrika közepette is sikerül megóvnia tiszta
 
 
 # <a name="id_57">Jane Austen: Emma (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/Emma%20%2857%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Emma%20%2857%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/Emma%20%2857%29/Emma%20-%20Jane%20Austen.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Emma%20%2857%29/Emma%20-%20Jane%20Austen.epub)
 
 ### Tagek
 [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [literary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literary.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [fathers and daughters](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fathers%20and%20daughters.md), [female friendship](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/female%20friendship.md), [young women](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/young%20women.md), [courtship](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/courtship.md), [man-woman relationships](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/man-woman%20relationships.md), [angol](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol.md), [juvenile fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/juvenile%20fiction.md), [19. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/19.%20sz%c3%a1zad.md), [coming of age](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/coming%20of%20age.md), [női sors](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20sors.md), [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1001%20k%c3%b6nyv%20list%c3%a1n%20szerepel.md), [england - social life and customs - 19th century](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/england%20-%20social%20life%20and%20customs%20-%2019th%20century.md), [england](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/england.md), [humorous](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humorous.md), [young women - england](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/young%20women%20-%20england.md)
@@ -71,10 +71,10 @@ Fanny Price-nak számos szerelmi intrika közepette is sikerül megóvnia tiszta
 
 
 # <a name="id_59">Jane Austen: Meggyőző érvek (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/Meggyozo%20ervek%20%2859%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Meggyozo%20ervek%20%2859%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/Meggyozo%20ervek%20%2859%29/Meggyozo%20ervek%20-%20Jane%20Austen.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Meggyozo%20ervek%20%2859%29/Meggyozo%20ervek%20-%20Jane%20Austen.epub)
 
 ### Tagek
 [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [ship captains](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ship%20captains.md), [angol](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol.md), [motherless families](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/motherless%20families.md), [19. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/19.%20sz%c3%a1zad.md), [rejection (psychology)](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/rejection%20psychology.md), [brit](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit.md), [england](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/england.md), [női sors](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20sors.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [young women](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/young%20women.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [psychological fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/psychological%20fiction.md)
@@ -84,10 +84,10 @@ Fanny Price-nak számos szerelmi intrika közepette is sikerül megóvnia tiszta
 
 
 # <a name="id_996">Jane Austen: Meggyőző érvek (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/Meggyozo%20ervek%20%28996%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Meggyozo%20ervek%20%28996%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jane%20Austen/Meggyozo%20ervek%20%28996%29/Meggyozo%20ervek%20-%20Jane%20Austen.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Meggyozo%20ervek%20%28996%29/Meggyozo%20ervek%20-%20Jane%20Austen.epub)
 
 ### Tagek
 [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1001%20k%c3%b6nyv%20list%c3%a1n%20szerepel.md), [19. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/19.%20sz%c3%a1zad.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [angol](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol.md), [brit](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [lányregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a1nyreg%c3%a9ny.md), [nagy-britannia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nagy-britannia.md), [női sors](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20sors.md), [próza](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pr%c3%b3za.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [szerelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szerelem.md), [testvérek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/testv%c3%a9rek.md), [viktoriánus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/viktori%c3%a1nus.md), [világirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vil%c3%a1girodalom.md)

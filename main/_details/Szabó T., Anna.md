@@ -1,8 +1,8 @@
 # <a name="id_1238">Szabó T., Anna: A Fűszermadár (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%20T.%2C%20Anna/A%20Fuszermadar%20%281238%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%20T.%2C%20Anna/A%20Fuszermadar%20%281238%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%20T.%2C%20Anna/A%20Fuszermadar%20%281238%29/A%20Fuszermadar%20-%20Szabo%20T.%2C%20Anna.pdf)
+[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%20T.%2C%20Anna/A%20Fuszermadar%20%281238%29/A%20Fuszermadar%20-%20Szabo%20T.%2C%20Anna.pdf)
 
 ### Tagek
 [fűszernövény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c5%b1szern%c3%b6v%c3%a9ny.md), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [gyermekkönyv kicsiknek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv%20kicsiknek.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [mese](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mese.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_1236">Szabó T., Anna: Törésteszt (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%20T.%2C%20Anna/Toresteszt%20%281236%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%20T.%2C%20Anna/Toresteszt%20%281236%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%20T.%2C%20Anna/Toresteszt%20%281236%29/Toresteszt%20-%20Szabo%20T.%2C%20Anna.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%20T.%2C%20Anna/Toresteszt%20%281236%29/Toresteszt%20-%20Szabo%20T.%2C%20Anna.epub)
 
 ### Tagek
 [férfiak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfiak.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [nők](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91k.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [párkapcsolat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/p%c3%a1rkapcsolat.md), [társas kapcsolatok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1rsas%20kapcsolatok.md)

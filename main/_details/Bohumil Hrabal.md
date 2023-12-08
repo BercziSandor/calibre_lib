@@ -1,8 +1,8 @@
 # <a name="id_446">Bohumil Hrabal: Őfelsége pincére voltam (Európa Zsebkönyvek 1) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Ofelsege%20pincere%20voltam%20%28446%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Ofelsege%20pincere%20voltam%20%28446%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Ofelsege%20pincere%20voltam%20%28446%29/Ofelsege%20pincere%20voltam%20-%20Bohumil%20Hrabal.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Ofelsege%20pincere%20voltam%20%28446%29/Ofelsege%20pincere%20voltam%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [felnőtt tartalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/feln%c5%91tt%20tartalom.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [groteszk](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/groteszk.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [irónia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ir%c3%b3nia.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szat%c3%adra.md), [szexualitás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szexualit%c3%a1s.md), [lélektani regények](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a9lektani%20reg%c3%a9nyek.md), [európa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/eur%c3%b3pa.md), [cseh köztársaság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20k%c3%b6zt%c3%a1rsas%c3%a1g.md), [az író származása szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/az%20%c3%adr%c3%b3%20sz%c3%a1rmaz%c3%a1sa%20szerint.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [karriertörténetek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/karriert%c3%b6rt%c3%a9netek.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [tartalom szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tartalom%20szerint.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_445">Bohumil Hrabal: Házimurik (Házimurik 1) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Hazimurik%20%28445%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Hazimurik%20%28445%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Hazimurik%20%28445%29/Hazimurik%20-%20Bohumil%20Hrabal.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Hazimurik%20%28445%29/Hazimurik%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [önéletrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6n%c3%a9letrajz.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [filozofikus regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filozofikus%20reg%c3%a9ny.md), [európa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/eur%c3%b3pa.md), [cseh köztársaság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20k%c3%b6zt%c3%a1rsas%c3%a1g.md), [az író származása szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/az%20%c3%adr%c3%b3%20sz%c3%a1rmaz%c3%a1sa%20szerint.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [tartalom szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tartalom%20szerint.md)
@@ -27,10 +27,10 @@
 
 
 # <a name="id_453">Bohumil Hrabal: Vita nuova (Házimurik 2) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Vita%20nuova%20%28453%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Vita%20nuova%20%28453%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Vita%20nuova%20%28453%29/Vita%20nuova%20-%20Bohumil%20Hrabal.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Vita%20nuova%20%28453%29/Vita%20nuova%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
 [biography & autobiography](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/biography%20%26%20autobiography.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md), [crafts & hobbies](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crafts%20%26%20hobbies.md), [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [önéletrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6n%c3%a9letrajz.md)
@@ -41,10 +41,10 @@
 
 
 # <a name="id_442">Bohumil Hrabal: Foghíjak (Házimurik 3) (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Foghijak%20%28442%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Foghijak%20%28442%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Foghijak%20%28442%29/Foghijak%20-%20Bohumil%20Hrabal.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Foghijak%20%28442%29/Foghijak%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [önéletrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6n%c3%a9letrajz.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [naplók](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/napl%c3%b3k.md), [európa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/eur%c3%b3pa.md), [cseh köztársaság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20k%c3%b6zt%c3%a1rsas%c3%a1g.md), [az író származása szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/az%20%c3%adr%c3%b3%20sz%c3%a1rmaz%c3%a1sa%20szerint.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [életrajzi regények](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letrajzi%20reg%c3%a9nyek.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [tartalom szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tartalom%20szerint.md), [memoár](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/memo%c3%a1r.md)
@@ -55,10 +55,10 @@
 
 
 # <a name="id_448">Bohumil Hrabal: Sörgyári capriccio (Kisvárosi történetek 1) (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Sorgyari%20capriccio%20%28448%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Sorgyari%20capriccio%20%28448%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Sorgyari%20capriccio%20%28448%29/Sorgyari%20capriccio%20-%20Bohumil%20Hrabal.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Sorgyari%20capriccio%20%28448%29/Sorgyari%20capriccio%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
 [111 híres regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/111%20h%c3%adres%20reg%c3%a9ny.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [házasság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1zass%c3%a1g.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [kisregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kisreg%c3%a9ny.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [zsebkönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/zsebk%c3%b6nyv.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md)
@@ -69,10 +69,10 @@
 
 
 # <a name="id_440">Bohumil Hrabal: Díszgyász (Kisvárosi történetek 2) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Diszgyasz%20%28440%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Diszgyasz%20%28440%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Diszgyasz%20%28440%29/Diszgyasz%20-%20Bohumil%20Hrabal.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Diszgyasz%20%28440%29/Diszgyasz%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
 [cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [cseh](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md)
@@ -83,16 +83,16 @@
 
 
 # <a name="id_444">Bohumil Hrabal: Háromlábú ló az ügetőpályán </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Haromlabu%20lo%20az%20ugetopalyan%20%28444%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Haromlabu%20lo%20az%20ugetopalyan%20%28444%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Haromlabu%20lo%20az%20ugetopalyan%20%28444%29/Haromlabu%20lo%20az%20ugetopalyan%20-%20Bohumil%20Hrabal.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Haromlabu%20lo%20az%20ugetopalyan%20%28444%29/Haromlabu%20lo%20az%20ugetopalyan%20-%20Bohumil%20Hrabal.epub)
 
 # <a name="id_439">Bohumil Hrabal: A városka, ahol megállt az idő (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/A%20varoska%2C%20ahol%20megallt%20az%20ido%20%28439%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/A%20varoska%2C%20ahol%20megallt%20az%20ido%20%28439%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/A%20varoska%2C%20ahol%20megallt%20az%20ido%20%28439%29/A%20varoska%2C%20ahol%20megallt%20az%20ido%20-%20Bohumil%20Hrabal.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/A%20varoska%2C%20ahol%20megallt%20az%20ido%20%28439%29/A%20varoska%2C%20ahol%20megallt%20az%20ido%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [kisregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kisreg%c3%a9ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [európa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/eur%c3%b3pa.md), [cseh köztársaság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20k%c3%b6zt%c3%a1rsas%c3%a1g.md), [az író származása szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/az%20%c3%adr%c3%b3%20sz%c3%a1rmaz%c3%a1sa%20szerint.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md)
@@ -103,10 +103,10 @@
 
 
 # <a name="id_452">Bohumil Hrabal: Véres történetek és legendák (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Veres%20tortenetek%20es%20legendak%20%28452%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Veres%20tortenetek%20es%20legendak%20%28452%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Veres%20tortenetek%20es%20legendak%20%28452%29/Veres%20tortenetek%20es%20legendak%20-%20Bohumil%20Hrabal.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Veres%20tortenetek%20es%20legendak%20%28452%29/Veres%20tortenetek%20es%20legendak%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
 [cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [szürrealizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%bcrrealizmus.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [cseh](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md)
@@ -117,10 +117,10 @@
 
 
 # <a name="id_969">Bohumil Hrabal: Egy osztályismétlő emlékezései (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Egy%20osztalyismetlo%20emlekezesei%20%28969%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Egy%20osztalyismetlo%20emlekezesei%20%28969%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Egy%20osztalyismetlo%20emlekezesei%20%28969%29/Egy%20osztalyismetlo%20emlekezesei%20-%20Bohumil%20Hrabal.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Egy%20osztalyismetlo%20emlekezesei%20%28969%29/Egy%20osztalyismetlo%20emlekezesei%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [életrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letrajz.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -131,10 +131,10 @@
 
 
 # <a name="id_447">Bohumil Hrabal: Rózsalovag (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Rozsalovag%20%28447%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Rozsalovag%20%28447%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Rozsalovag%20%28447%29/Rozsalovag%20-%20Bohumil%20Hrabal.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Rozsalovag%20%28447%29/Rozsalovag%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [napló](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/napl%c3%b3.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [naplók](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/napl%c3%b3k.md), [európa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/eur%c3%b3pa.md), [cseh köztársaság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20k%c3%b6zt%c3%a1rsas%c3%a1g.md), [az író származása szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/az%20%c3%adr%c3%b3%20sz%c3%a1rmaz%c3%a1sa%20szerint.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [életrajzi regények](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letrajzi%20reg%c3%a9nyek.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [tartalom szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tartalom%20szerint.md), [memoár](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/memo%c3%a1r.md), [önéletrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6n%c3%a9letrajz.md)
@@ -145,10 +145,10 @@
 
 
 # <a name="id_449">Bohumil Hrabal: Szigorúan ellenőrzött vonatok (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Szigoruan%20ellenorzott%20vonatok%20%28449%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Szigoruan%20ellenorzott%20vonatok%20%28449%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Szigoruan%20ellenorzott%20vonatok%20%28449%29/Szigoruan%20ellenorzott%20vonatok%20-%20Bohumil%20Hrabal.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Szigoruan%20ellenorzott%20vonatok%20%28449%29/Szigoruan%20ellenorzott%20vonatok%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
 [1940-es évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1940-es%20%c3%a9vek.md), [cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [csehország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csehorsz%c3%a1g.md), [erotikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/erotikus.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [kisregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kisreg%c3%a9ny.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [öngyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6ngyilkoss%c3%a1g.md), [énregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9nreg%c3%a9ny.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1bor%c3%ba.md), [világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vil%c3%a1gh%c3%a1bor%c3%ba.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [fejlődésregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fejl%c5%91d%c3%a9sreg%c3%a9ny.md), [groteszk](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/groteszk.md), [cseh](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh.md), [vasút](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vas%c3%bat.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [fekete humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fekete%20humor.md), [szex](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szex.md), [2. világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/2.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1001%20k%c3%b6nyv%20list%c3%a1n%20szerepel.md)
@@ -159,10 +159,10 @@
 
 
 # <a name="id_451">Bohumil Hrabal: Tükrök árulása (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Tukrok%20arulasa%20%28451%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Tukrok%20arulasa%20%28451%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Tukrok%20arulasa%20%28451%29/Tukrok%20arulasa%20-%20Bohumil%20Hrabal.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Tukrok%20arulasa%20%28451%29/Tukrok%20arulasa%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [abszurd](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/abszurd.md), [cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [groteszk](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/groteszk.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [realizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/realizmus.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md)
@@ -173,10 +173,10 @@
 
 
 # <a name="id_443">Bohumil Hrabal: Gyöngéd barbárok (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Gyonged%20barbarok%20%28443%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Gyonged%20barbarok%20%28443%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Gyonged%20barbarok%20%28443%29/Gyonged%20barbarok%20-%20Bohumil%20Hrabal.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Gyonged%20barbarok%20%28443%29/Gyonged%20barbarok%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
 [cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [felnőtt tartalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/feln%c5%91tt%20tartalom.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [zsebkönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/zsebk%c3%b6nyv.md), [abszurd](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/abszurd.md), [cseh](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md)
@@ -187,10 +187,10 @@
 
 
 # <a name="id_450">Bohumil Hrabal: Táncórák idősebbeknek és haladóknak (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Tancorak%20idosebbeknek%20es%20haladoknak%20%28450%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Tancorak%20idosebbeknek%20es%20haladoknak%20%28450%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bohumil%20Hrabal/Tancorak%20idosebbeknek%20es%20haladoknak%20%28450%29/Tancorak%20idosebbeknek%20es%20halado%20-%20Bohumil%20Hrabal.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Tancorak%20idosebbeknek%20es%20haladoknak%20%28450%29/Tancorak%20idosebbeknek%20es%20halado%20-%20Bohumil%20Hrabal.epub)
 
 ### Tagek
 [cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [énregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9nreg%c3%a9ny.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [kisregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kisreg%c3%a9ny.md), [cseh](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [válogatás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a1logat%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md)

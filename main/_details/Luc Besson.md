@@ -1,8 +1,8 @@
 # <a name="id_899">Luc Besson: Arthur és a villangók (Arthur és a villangók 1) (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Luc%20Besson/Arthur%20es%20a%20villangok%20%28899%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Luc%20Besson/Arthur%20es%20a%20villangok%20%28899%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Luc%20Besson/Arthur%20es%20a%20villangok%20%28899%29/Arthur%20es%20a%20villangok%20-%20Luc%20Besson.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Luc%20Besson/Arthur%20es%20a%20villangok%20%28899%29/Arthur%20es%20a%20villangok%20-%20Luc%20Besson.epub)
 
 ### Tagek
 [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [meseregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mesereg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md)

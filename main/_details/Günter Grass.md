@@ -1,8 +1,8 @@
 # <a name="id_358">Günter Grass: Ráklépésben (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gunter%20Grass/Raklepesben%20%28358%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gunter%20Grass/Raklepesben%20%28358%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Gunter%20Grass/Raklepesben%20%28358%29/Raklepesben%20-%20Gunter%20Grass.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Gunter%20Grass/Raklepesben%20%28358%29/Raklepesben%20-%20Gunter%20Grass.epub)
 
 ### Tagek
 [1940-es évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1940-es%20%c3%a9vek.md), [2. világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/2.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [dokumentumregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dokumentumreg%c3%a9ny.md), [hajó](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/haj%c3%b3.md), [igaz történet alapján](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/igaz%20t%c3%b6rt%c3%a9net%20alapj%c3%a1n.md), [irodalmi nobel-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalmi%20nobel-d%c3%adj.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [német szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9met%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [történelmi dokumentum](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20dokumentum.md), [világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vil%c3%a1gh%c3%a1bor%c3%ba.md)

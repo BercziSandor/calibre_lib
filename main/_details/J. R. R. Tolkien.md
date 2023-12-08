@@ -1,8 +1,8 @@
 # <a name="id_12">J. R. R. Tolkien: The Fellowship of the Ring (A gyűrűk Ura 1) (1966)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20R.%20R.%20Tolkien/The%20Fellowship%20of%20the%20Ring%20%2812%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/The%20Fellowship%20of%20the%20Ring%20%2812%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20R.%20R.%20Tolkien/The%20Fellowship%20of%20the%20Ring%20%2812%29/The%20Fellowship%20of%20the%20Ring%20-%20J.%20R.%20R.%20Tolkien.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/The%20Fellowship%20of%20the%20Ring%20%2812%29/The%20Fellowship%20of%20the%20Ring%20-%20J.%20R.%20R.%20Tolkien.epub)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_13">J. R. R. Tolkien: The two towers (A gyűrűk Ura 2) (1992)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20R.%20R.%20Tolkien/The%20two%20towers%20%2813%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/The%20two%20towers%20%2813%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20R.%20R.%20Tolkien/The%20two%20towers%20%2813%29/The%20two%20towers%20-%20J.%20R.%20R.%20Tolkien.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/The%20two%20towers%20%2813%29/The%20two%20towers%20-%20J.%20R.%20R.%20Tolkien.epub)
 
 ### Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md)
@@ -27,10 +27,10 @@
 
 
 # <a name="id_14">J. R. R. Tolkien: The Return of the King (A gyűrűk Ura 3) (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20R.%20R.%20Tolkien/The%20Return%20of%20the%20King%20%2814%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/The%20Return%20of%20the%20King%20%2814%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20R.%20R.%20Tolkien/The%20Return%20of%20the%20King%20%2814%29/The%20Return%20of%20the%20King%20-%20J.%20R.%20R.%20Tolkien.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/The%20Return%20of%20the%20King%20%2814%29/The%20Return%20of%20the%20King%20-%20J.%20R.%20R.%20Tolkien.epub)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md)
@@ -41,10 +41,10 @@
 
 
 # <a name="id_60">J. R. R. Tolkien: A szilmarilok (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20R.%20R.%20Tolkien/A%20szilmarilok%20%2860%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/A%20szilmarilok%20%2860%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20R.%20R.%20Tolkien/A%20szilmarilok%20%2860%29/A%20szilmarilok%20-%20J.%20R.%20R.%20Tolkien.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/A%20szilmarilok%20%2860%29/A%20szilmarilok%20-%20J.%20R.%20R.%20Tolkien.epub)
 
 ### Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [ékszer](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9kszer.md), [elf](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elf.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1bor%c3%ba.md), [high fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/high%20fantasy.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [locus-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/locus-d%c3%adj.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [mitológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mitol%c3%b3gia.md), [posztumusz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/posztumusz.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sárkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/s%c3%a1rk%c3%a1ny.md), [zene](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/zene.md), [fantázia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fant%c3%a1zia.md)
@@ -55,10 +55,10 @@
 
 
 # <a name="id_61">J. R. R. Tolkien: A hobbit (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20R.%20R.%20Tolkien/A%20hobbit%20%2861%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/A%20hobbit%20%2861%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20R.%20R.%20Tolkien/A%20hobbit%20%2861%29/A%20hobbit%20-%20J.%20R.%20R.%20Tolkien.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/A%20hobbit%20%2861%29/A%20hobbit%20-%20J.%20R.%20R.%20Tolkien.epub)
 
 ### Tagek
 [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1001%20k%c3%b6nyv%20list%c3%a1n%20szerepel.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [elf](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elf.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [high fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/high%20fantasy.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [meseregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mesereg%c3%a9ny.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sárkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/s%c3%a1rk%c3%a1ny.md), [utazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/utaz%c3%a1s.md), [fantázia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fant%c3%a1zia.md)
@@ -69,10 +69,10 @@
 
 
 # <a name="id_53">J. R. R. Tolkien: Húrin gyermekei (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20R.%20R.%20Tolkien/Hurin%20gyermekei%20%2853%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/Hurin%20gyermekei%20%2853%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20R.%20R.%20Tolkien/Hurin%20gyermekei%20%2853%29/Hurin%20gyermekei%20-%20J.%20R.%20R.%20Tolkien.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/Hurin%20gyermekei%20%2853%29/Hurin%20gyermekei%20-%20J.%20R.%20R.%20Tolkien.epub)
 
 ### Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [dark fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dark%20fantasy.md), [epikus fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/epikus%20fantasy.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sárkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/s%c3%a1rk%c3%a1ny.md), [töredék](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6red%c3%a9k.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md)
@@ -83,10 +83,10 @@
 
 
 # <a name="id_62">J. R. R. Tolkien: J. R. R. Tolkien meséi (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20R.%20R.%20Tolkien/J.%20R.%20R.%20Tolkien%20mesei%20%2862%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/J.%20R.%20R.%20Tolkien%20mesei%20%2862%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/J.%20R.%20R.%20Tolkien/J.%20R.%20R.%20Tolkien%20mesei%20%2862%29/J.%20R.%20R.%20Tolkien%20mesei%20-%20J.%20R.%20R.%20Tolkien.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/J.%20R.%20R.%20Tolkien%20mesei%20%2862%29/J.%20R.%20R.%20Tolkien%20mesei%20-%20J.%20R.%20R.%20Tolkien.epub)
 
 ### Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [high fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/high%20fantasy.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [mese](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mese.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sárkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/s%c3%a1rk%c3%a1ny.md), [tündér](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%bcnd%c3%a9r.md), [verses mese](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/verses%20mese.md), [tales & fables](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tales%20%26%20fables.md)

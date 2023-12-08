@@ -1,8 +1,8 @@
 # <a name="id_1693">Sarah J. Maas: Föld és vér háza (Crescent City 1) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Fold%20es%20ver%20haza%20%281693%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Fold%20es%20ver%20haza%20%281693%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Fold%20es%20ver%20haza%20%281693%29/Fold%20es%20ver%20haza%20-%20Sarah%20J.%20Maas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Fold%20es%20ver%20haza%20%281693%29/Fold%20es%20ver%20haza%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diszt%c3%b3pia.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_1694">Sarah J. Maas: Ég és lélegzet háza (Crescent City 2) (2022)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Eg%20es%20lelegzet%20haza%20%281694%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Eg%20es%20lelegzet%20haza%20%281694%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Eg%20es%20lelegzet%20haza%20%281694%29/Eg%20es%20lelegzet%20haza%20-%20Sarah%20J.%20Maas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Eg%20es%20lelegzet%20haza%20%281694%29/Eg%20es%20lelegzet%20haza%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diszt%c3%b3pia.md)
@@ -31,10 +31,10 @@
 
 
 # <a name="id_1698">Sarah J. Maas: Tüskék és rózsák udvara (Tüskék és rózsák udvara 1) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Tuskek%20es%20rozsak%20udvara%20%281698%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Tuskek%20es%20rozsak%20udvara%20%281698%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Tuskek%20es%20rozsak%20udvara%20%281698%29/Tuskek%20es%20rozsak%20udvara%20-%20Sarah%20J.%20Maas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Tuskek%20es%20rozsak%20udvara%20%281698%29/Tuskek%20es%20rozsak%20udvara%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [romance](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romance.md), [young adult](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/young%20adult.md)
@@ -47,10 +47,10 @@
 
 
 # <a name="id_1699">Sarah J. Maas: Köd és harag udvara (Tüskék és rózsák udvara 2) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Kod%20es%20harag%20udvara%20%281699%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Kod%20es%20harag%20udvara%20%281699%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Kod%20es%20harag%20udvara%20%281699%29/Kod%20es%20harag%20udvara%20-%20Sarah%20J.%20Maas.pdf)
+[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Kod%20es%20harag%20udvara%20%281699%29/Kod%20es%20harag%20udvara%20-%20Sarah%20J.%20Maas.pdf)
 
 ### Összefoglalás
 <div>
@@ -58,10 +58,10 @@
 
 
 # <a name="id_1700">Sarah J. Maas: Szárnyak és pusztulás udvara (Tüskék és rózsák udvara 3) (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Szarnyak%20es%20pusztulas%20udvara%20%281700%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Szarnyak%20es%20pusztulas%20udvara%20%281700%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Szarnyak%20es%20pusztulas%20udvara%20%281700%29/Szarnyak%20es%20pusztulas%20udvara%20-%20Sarah%20J.%20Maas.pdf)
+[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Szarnyak%20es%20pusztulas%20udvara%20%281700%29/Szarnyak%20es%20pusztulas%20udvara%20-%20Sarah%20J.%20Maas.pdf)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [romance](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romance.md), [young adult](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/young%20adult.md)
@@ -74,10 +74,10 @@
 
 
 # <a name="id_1696">Sarah J. Maas: Fagy és csillagfény udvara (Tüskék és rózsák udvara 3.1) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Fagy%20es%20csillagfeny%20udvara%20%281696%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Fagy%20es%20csillagfeny%20udvara%20%281696%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Fagy%20es%20csillagfeny%20udvara%20%281696%29/Fagy%20es%20csillagfeny%20udvara%20-%20Sarah%20J.%20Maas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Fagy%20es%20csillagfeny%20udvara%20%281696%29/Fagy%20es%20csillagfeny%20udvara%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [romance](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romance.md), [young adult](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/young%20adult.md)
@@ -90,10 +90,10 @@
 
 
 # <a name="id_1697">Sarah J. Maas: Ezüst lángok udvara (Tüskék és rózsák udvara 4) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Ezust%20langok%20udvara%20%281697%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Ezust%20langok%20udvara%20%281697%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Ezust%20langok%20udvara%20%281697%29/Ezust%20langok%20udvara%20-%20Sarah%20J.%20Maas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Ezust%20langok%20udvara%20%281697%29/Ezust%20langok%20udvara%20-%20Sarah%20J.%20Maas.epub)
 
 ### Összefoglalás
 <div>
@@ -101,10 +101,10 @@
 
 
 # <a name="id_1685">Sarah J. Maas: Az orgyilkos pengéje és más történetek (Üvegtrón 0.5) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Az%20orgyilkos%20pengeje%20es%20mas%20tortene%20%281685%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Az%20orgyilkos%20pengeje%20es%20mas%20tortene%20%281685%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Az%20orgyilkos%20pengeje%20es%20mas%20tortene%20%281685%29/Az%20orgyilkos%20pengeje%20es%20mas%20tor%20-%20Sarah%20J.%20Maas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Az%20orgyilkos%20pengeje%20es%20mas%20tortene%20%281685%29/Az%20orgyilkos%20pengeje%20es%20mas%20tor%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
 [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [bérgyilkos](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c3%a9rgyilkos.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [hajózás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/haj%c3%b3z%c3%a1s.md), [high fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/high%20fantasy.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kalóz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kal%c3%b3z.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [rabszolgaság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/rabszolgas%c3%a1g.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [young adult (ya)](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/young%20adult%20ya.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md)
@@ -116,10 +116,10 @@
 
 
 # <a name="id_1686">Sarah J. Maas: Üvegtrón (Üvegtrón 1) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Uvegtron%20%281686%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Uvegtron%20%281686%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Uvegtron%20%281686%29/Uvegtron%20-%20Sarah%20J.%20Maas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Uvegtron%20%281686%29/Uvegtron%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
 [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [tündér](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%bcnd%c3%a9r.md), [szellemek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szellemek.md), [bérgyilkos](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c3%a9rgyilkos.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [démon](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/d%c3%a9mon.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gia.md), [harcosok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/harcosok.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md)
@@ -129,10 +129,10 @@
 
 
 # <a name="id_1689">Sarah J. Maas: Éjkorona (Üvegtrón 2) (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Ejkorona%20%281689%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Ejkorona%20%281689%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Ejkorona%20%281689%29/Ejkorona%20-%20Sarah%20J.%20Maas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Ejkorona%20%281689%29/Ejkorona%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md)
@@ -142,10 +142,10 @@ Calaena könyörtelen küzdelemben legyőzte ellenfeleit és a király bajnoka l
 
 
 # <a name="id_1692">Sarah J. Maas: A tűz örököse (Üvegtrón 3) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/A%20tuz%20orokose%20%281692%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/A%20tuz%20orokose%20%281692%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/A%20tuz%20orokose%20%281692%29/A%20tuz%20orokose%20-%20Sarah%20J.%20Maas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/A%20tuz%20orokose%20%281692%29/A%20tuz%20orokose%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md)
@@ -155,10 +155,10 @@ Calaena könyörtelen küzdelemben legyőzte ellenfeleit és a király bajnoka l
 
 
 # <a name="id_1691">Sarah J. Maas: Árnyak királynője (Üvegtrón 4) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Arnyak%20kiralynoje%20%281691%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Arnyak%20kiralynoje%20%281691%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Arnyak%20kiralynoje%20%281691%29/Arnyak%20kiralynoje%20-%20Sarah%20J.%20Maas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Arnyak%20kiralynoje%20%281691%29/Arnyak%20kiralynoje%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gia.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md)
@@ -168,10 +168,10 @@ Calaena könyörtelen küzdelemben legyőzte ellenfeleit és a király bajnoka l
 
 
 # <a name="id_1690">Sarah J. Maas: Viharok birodalma (Üvegtrón 5) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Viharok%20birodalma%20%281690%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Viharok%20birodalma%20%281690%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Viharok%20birodalma%20%281690%29/Viharok%20birodalma%20-%20Sarah%20J.%20Maas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Viharok%20birodalma%20%281690%29/Viharok%20birodalma%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [tündér](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%bcnd%c3%a9r.md)
@@ -181,10 +181,10 @@ Calaena könyörtelen küzdelemben legyőzte ellenfeleit és a király bajnoka l
 
 
 # <a name="id_1688">Sarah J. Maas: A hajnal tornya (Üvegtrón 6) (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/A%20hajnal%20tornya%20%281688%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/A%20hajnal%20tornya%20%281688%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/A%20hajnal%20tornya%20%281688%29/A%20hajnal%20tornya%20-%20Sarah%20J.%20Maas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/A%20hajnal%20tornya%20%281688%29/A%20hajnal%20tornya%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
 [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [high fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/high%20fantasy.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md)
@@ -196,10 +196,10 @@ Calaena könyörtelen küzdelemben legyőzte ellenfeleit és a király bajnoka l
 
 
 # <a name="id_1687">Sarah J. Maas: Felperzselt királyság (Üvegtrón 7) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Felperzselt%20kiralysag%20%281687%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Felperzselt%20kiralysag%20%281687%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Felperzselt%20kiralysag%20%281687%29/Felperzselt%20kiralysag%20-%20Sarah%20J.%20Maas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Felperzselt%20kiralysag%20%281687%29/Felperzselt%20kiralysag%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [vörös pöttyös könyvek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%b6r%c3%b6s%20p%c3%b6tty%c3%b6s%20k%c3%b6nyvek.md)
@@ -215,10 +215,10 @@ Calaena könyörtelen küzdelemben legyőzte ellenfeleit és a király bajnoka l
 
 
 # <a name="id_1684">Sarah J. Maas: Macskanő - Lélektolvaj (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Macskano%20-%20Lelektolvaj%20%281684%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Macskano%20-%20Lelektolvaj%20%281684%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sarah%20J.%20Maas/Macskano%20-%20Lelektolvaj%20%281684%29/Macskano%20-%20Lelektolvaj%20-%20Sarah%20J.%20Maas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Macskano%20-%20Lelektolvaj%20%281684%29/Macskano%20-%20Lelektolvaj%20-%20Sarah%20J.%20Maas.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szuperhős](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szuperh%c5%91s.md), [vörös pöttyös](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%b6r%c3%b6s%20p%c3%b6tty%c3%b6s.md), [fine selection](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fine%20selection.md)

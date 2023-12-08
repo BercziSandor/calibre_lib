@@ -1,8 +1,8 @@
 # <a name="id_1360">Lackfi, János: Milyenek a magyarok? (Milyenek a magyarok? 1) (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lackfi%2C%20Janos/Milyenek%20a%20magyarok_%20%281360%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lackfi%2C%20Janos/Milyenek%20a%20magyarok_%20%281360%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lackfi%2C%20Janos/Milyenek%20a%20magyarok_%20%281360%29/Milyenek%20a%20magyarok_%20-%20Lackfi%2C%20Janos.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Lackfi%2C%20Janos/Milyenek%20a%20magyarok_%20%281360%29/Milyenek%20a%20magyarok_%20-%20Lackfi%2C%20Janos.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar kultúra](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20kult%c3%bara.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [magyar társadalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20t%c3%a1rsadalom.md), [magyarság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyars%c3%a1g.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_935">Lackfi, János: Milyenek MÉG a magyarok? (Milyenek a magyarok? 2) (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lackfi%2C%20Janos/Milyenek%20MEG%20a%20magyarok_%20%28935%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lackfi%2C%20Janos/Milyenek%20MEG%20a%20magyarok_%20%28935%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lackfi%2C%20Janos/Milyenek%20MEG%20a%20magyarok_%20%28935%29/Milyenek%20MEG%20a%20magyarok_%20-%20Lackfi%2C%20Janos.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Lackfi%2C%20Janos/Milyenek%20MEG%20a%20magyarok_%20%28935%29/Milyenek%20MEG%20a%20magyarok_%20-%20Lackfi%2C%20Janos.epub)
 
 ### Tagek
 [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md)
@@ -26,10 +26,10 @@
 
 
 # <a name="id_934">Lackfi, János: A legnehezebb kabát (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lackfi%2C%20Janos/A%20legnehezebb%20kabat%20%28934%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lackfi%2C%20Janos/A%20legnehezebb%20kabat%20%28934%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Lackfi%2C%20Janos/A%20legnehezebb%20kabat%20%28934%29/A%20legnehezebb%20kabat%20-%20Lackfi%2C%20Janos.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Lackfi%2C%20Janos/A%20legnehezebb%20kabat%20%28934%29/A%20legnehezebb%20kabat%20-%20Lackfi%2C%20Janos.epub)
 
 ### Tagek
 [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md)

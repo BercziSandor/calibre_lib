@@ -1,8 +1,8 @@
 # <a name="id_1073">Dean R. Koontz: Ticktak (BB Fiction 1) (1997)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Ticktak%20%281073%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Ticktak%20%281073%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Ticktak%20%281073%29/Ticktak%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Ticktak%20%281073%29/Ticktak%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [idegennyelv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/idegennyelv.md), [idegennyelvű könyvek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/idegennyelv%c5%b1%20k%c3%b6nyvek.md), [angol](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md)
@@ -12,11 +12,11 @@
 
 
 # <a name="id_1069">Dean R. Koontz: A halottlátó (Odd Thomas 1) (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20halottlato%20%281069%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20halottlato%20%281069%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20halottlato%20%281069%29/A%20halottlato%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20halottlato%20%281069%29/A%20halottlato%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20halottlato%20%281069%29/A%20halottlato%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20halottlato%20%281069%29/A%20halottlato%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [nyár](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ny%c3%a1r.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [szellemek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szellemek.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [kalifornia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalifornia.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -26,10 +26,10 @@ A 21 éves fiatalember, Odd Thomas, egy csendes és békés amerikai kisvárosba
 
 
 # <a name="id_1510">Dean R. Koontz: A rossz hely (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20Rossz%20Hely%20%281510%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20Rossz%20Hely%20%281510%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20Rossz%20Hely%20%281510%29/A%20rossz%20hely%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20Rossz%20Hely%20%281510%29/A%20rossz%20hely%20-%20Dean%20R.%20Koontz.epub)
 
 ### Összefoglalás
 <div>
@@ -37,10 +37,10 @@ A 21 éves fiatalember, Odd Thomas, egy csendes és békés amerikai kisvárosba
 
 
 # <a name="id_1076">Dean R. Koontz: Rettegés (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Retteges%20%281076%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Retteges%20%281076%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Retteges%20%281076%29/Retteges%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Retteges%20%281076%29/Retteges%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozatgyilkoss%c3%a1g.md), [new york](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/new%20york.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [nők elleni erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91k%20elleni%20er%c5%91szak.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [pszicho-thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszicho-thriller.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [idegennyelv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/idegennyelv.md), [angol](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol.md), [idegennyelvű könyvek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/idegennyelv%c5%b1%20k%c3%b6nyvek.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -50,11 +50,11 @@ Ne nézz le, mert csapdába kerültél. Egy gyönyörű, rémült nő társaság
 
 
 # <a name="id_1092">Dean R. Koontz: Az éjszaka hangjai (1997)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Az%20ejszaka%20hangjai%20%281092%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Az%20ejszaka%20hangjai%20%281092%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Az%20ejszaka%20hangjai%20%281092%29/Az%20ejszaka%20hangjai%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Az%20ejszaka%20hangjai%20%281092%29/Az%20ejszaka%20hangjai%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Az%20ejszaka%20hangjai%20%281092%29/Az%20ejszaka%20hangjai%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Az%20ejszaka%20hangjai%20%281092%29/Az%20ejszaka%20hangjai%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [kalifornia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalifornia.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -64,11 +64,11 @@ A szemérmes, tartózkodó Colin és a népszerű, lányok kedvence Roy jó bar�
 
 
 # <a name="id_1075">Dean R. Koontz: Téli hold (1997)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Teli%20hold%20%281075%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Teli%20hold%20%281075%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Teli%20hold%20%281075%29/Teli%20hold%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Teli%20hold%20%281075%29/Teli%20hold%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Teli%20hold%20%281075%29/Teli%20hold%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Teli%20hold%20%281075%29/Teli%20hold%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [los angeles](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/los%20angeles.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [fegyverek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fegyverek.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [paranormális](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/paranorm%c3%a1lis.md), [montana](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/montana.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [rendőr](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/rend%c5%91r.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -78,11 +78,11 @@ A szolgálat közben súlyosan megsebesült Los Angeles-i nyomozó, Jack McGarve
 
 
 # <a name="id_1090">Dean R. Koontz: Égi jel (2000)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Egi%20jel%20%281090%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Egi%20jel%20%281090%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Egi%20jel%20%281090%29/Egi%20jel%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Egi%20jel%20%281090%29/Egi%20jel%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Egi%20jel%20%281090%29/Egi%20jel%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Egi%20jel%20%281090%29/Egi%20jel%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [alternatív történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/alternat%c3%adv%20t%c3%b6rt%c3%a9nelem.md), [időutazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/id%c5%91utaz%c3%a1s.md), [író](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%adr%c3%b3.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [fegyverek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fegyverek.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [kalifornia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalifornia.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [posztapokaliptikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/posztapokaliptikus.md)
@@ -92,10 +92,10 @@ Rejtélyes égi jelenség kíséri a férfi érkezését, aki a náci Németorsz
 
 
 # <a name="id_1087">Dean R. Koontz: A rettegés ajtaja (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20retteges%20ajtaja%20%281087%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20retteges%20ajtaja%20%281087%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20retteges%20ajtaja%20%281087%29/A%20retteges%20ajtaja%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20retteges%20ajtaja%20%281087%29/A%20retteges%20ajtaja%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -105,10 +105,10 @@ A kilencéves Melanie öntudatlanul kóborol az utcán, amikor rátalálnak. Min
 
 
 # <a name="id_1099">Dean R. Koontz: A Szeme Sarkából 1-2. (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20Szeme%20Sarkabol%201-2_%20%281099%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20Szeme%20Sarkabol%201-2_%20%281099%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20Szeme%20Sarkabol%201-2_%20%281099%29/A%20Szeme%20Sarkabol%201-2_%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20Szeme%20Sarkabol%201-2_%20%281099%29/A%20Szeme%20Sarkabol%201-2_%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md)
@@ -118,11 +118,11 @@ A kilencéves Melanie öntudatlanul kóborol az utcán, amikor rátalálnak. Min
 
 
 # <a name="id_1098">Dean R. Koontz: A szív sötét folyói (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20sziv%20sotet%20folyoi%20%281098%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20sziv%20sotet%20folyoi%20%281098%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20sziv%20sotet%20folyoi%20%281098%29/A%20sziv%20sotet%20folyoi%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20sziv%20sotet%20folyoi%20%281098%29/A%20sziv%20sotet%20folyoi%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20sziv%20sotet%20folyoi%20%281098%29/A%20sziv%20sotet%20folyoi%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20sziv%20sotet%20folyoi%20%281098%29/A%20sziv%20sotet%20folyoi%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -132,10 +132,10 @@ A magányos Spencer Grant betér egy bárba, ahol az egyik pincérnő jóvoltáb
 
 
 # <a name="id_1097">Dean R. Koontz: A túlélő (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20tulelo%20%281097%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20tulelo%20%281097%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20tulelo%20%281097%29/A%20tulelo%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20tulelo%20%281097%29/A%20tulelo%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [katasztrófa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/katasztr%c3%b3fa.md), [repülő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/rep%c3%bcl%c5%91.md), [kísérlet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%ads%c3%a9rlet.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -145,11 +145,11 @@ Joe Carpenter, egy repülőgép-szerencsétlenség során – 330 halott, nincs 
 
 
 # <a name="id_1082">Dean R. Koontz: Kulcs az éjfélhez (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Kulcs%20az%20ejfelhez%20%281082%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Kulcs%20az%20ejfelhez%20%281082%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Kulcs%20az%20ejfelhez%20%281082%29/Kulcs%20az%20ejfelhez%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Kulcs%20az%20ejfelhez%20%281082%29/Kulcs%20az%20ejfelhez%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Kulcs%20az%20ejfelhez%20%281082%29/Kulcs%20az%20ejfelhez%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Kulcs%20az%20ejfelhez%20%281082%29/Kulcs%20az%20ejfelhez%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [japán (ország)](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/jap%c3%a1n%20orsz%c3%a1g.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [pszicho-thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszicho-thriller.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -159,10 +159,10 @@ Az amerikai Joanna Rand lassan tíz éve dolgozik Japánban, mint egy nightclub 
 
 
 # <a name="id_1081">Dean R. Koontz: Látomás (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Latomas%20%281081%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Latomas%20%281081%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Latomas%20%281081%29/Latomas%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Latomas%20%281081%29/Latomas%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozatgyilkoss%c3%a1g.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [nők elleni erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91k%20elleni%20er%c5%91szak.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kalifornia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalifornia.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [tartalom szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tartalom%20szerint.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [kísértet- és rémtörténetek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%ads%c3%a9rtet-%20%c3%a9s%20r%c3%a9mt%c3%b6rt%c3%a9netek.md)
@@ -172,10 +172,10 @@ Mary Bergen „látó”. Gyilkosságokat képes megérezni és meglátni még a
 
 
 # <a name="id_1101">Dean R. Koontz: Maszk (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Maszk%20%281101%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Maszk%20%281101%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Maszk%20%281101%29/Maszk%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Maszk%20%281101%29/Maszk%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [paranormális](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/paranorm%c3%a1lis.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [szellemek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szellemek.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [lélekvándorlás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a9lekv%c3%a1ndorl%c3%a1s.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -185,10 +185,10 @@ Dr. Carol Tracy egy esős napon elüt az autójával egy elragadó szőke kislá
 
 
 # <a name="id_1071">Dean R. Koontz: Végsőkig (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Vegsokig%20%281071%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Vegsokig%20%281071%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Vegsokig%20%281071%29/Vegsokig%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Vegsokig%20%281071%29/Vegsokig%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [nők elleni erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91k%20elleni%20er%c5%91szak.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/er%c5%91szak.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [tartalom szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tartalom%20szerint.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [kísértet- és rémtörténetek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%ads%c3%a9rtet-%20%c3%a9s%20r%c3%a9mt%c3%b6rt%c3%a9netek.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [nemi erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nemi%20er%c5%91szak.md), [pszicho-thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszicho-thriller.md)
@@ -198,10 +198,10 @@ Chyna Shepherd álmatlanul bámulja a holdfényben fürdő szőlőt a vendégszo
 
 
 # <a name="id_1095">Dean R. Koontz: A visszatérő (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20visszatero%20%281095%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20visszatero%20%281095%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20visszatero%20%281095%29/A%20visszatero%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20visszatero%20%281095%29/A%20visszatero%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [író](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%adr%c3%b3.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [nők elleni erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91k%20elleni%20er%c5%91szak.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [hollywood](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hollywood.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md)
@@ -211,10 +211,10 @@ Hilary Thomas már gyerekkorában megtapasztalhatta, mi is az erőszak. Ami azon
 
 
 # <a name="id_1080">Dean R. Koontz: Menekülés (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Menekules%20%281080%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Menekules%20%281080%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Menekules%20%281080%29/Menekules%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Menekules%20%281080%29/Menekules%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [kutya](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kutya.md), [földönkívüliek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%b6ld%c3%b6nk%c3%adv%c3%bcliek.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [függőség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%bcgg%c5%91s%c3%a9g.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [ufo](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ufo.md), [alkoholizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/alkoholizmus.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -224,10 +224,10 @@ Preston Maddoc fanatikus ufó hívő. Ettől még békében élhetne családjáv
 
 
 # <a name="id_1094">Dean R. Koontz: Amnézia (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Amnezia%20%281094%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Amnezia%20%281094%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Amnezia%20%281094%29/Amnezia%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Amnezia%20%281094%29/Amnezia%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [orosz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [katonaság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/katonas%c3%a1g.md), [amnézia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amn%c3%a9zia.md), [kgb](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kgb.md), [kísérlet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%ads%c3%a9rlet.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -237,10 +237,10 @@ Susan, a harminc körüli fizikusnő egy ismeretlen városka kórházában ébre
 
 
 # <a name="id_1074">Dean R. Koontz: A Hold fényénél (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20Hold%20Fenyenel%20%281074%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20Hold%20Fenyenel%20%281074%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20Hold%20Fenyenel%20%281074%29/A%20Hold%20fenyenel%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20Hold%20Fenyenel%20%281074%29/A%20Hold%20fenyenel%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [autizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/autizmus.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [szuperhős](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szuperh%c5%91s.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [kísérlet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%ads%c3%a9rlet.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -250,11 +250,11 @@ Dylan O'Conner, a tehetséges fiatal festő és autista öccse Shep, egy művés
 
 
 # <a name="id_1093">Dean R. Koontz: Az arc (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Az%20arc%20%281093%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Az%20arc%20%281093%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Az%20arc%20%281093%29/Az%20arc%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Az%20arc%20%281093%29/Az%20arc%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Az%20arc%20%281093%29/Az%20arc%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Az%20arc%20%281093%29/Az%20arc%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [hollywood](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hollywood.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -264,10 +264,10 @@ Milliók rajonganak Hollywood talán leghódítóbb szárjáért, ám hírneve e
 
 
 # <a name="id_1085">Dean R. Koontz: Hideglelés (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Hidegleles%20%281085%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Hidegleles%20%281085%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Hidegleles%20%281085%29/Hidegleles%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Hidegleles%20%281085%29/Hidegleles%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [pszicho-thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszicho-thriller.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kísérlet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%ads%c3%a9rlet.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -277,10 +277,10 @@ A Hideglelés a szerző egyik mesterműve. lankadatlan, nemegyszer a tűréshat�
 
 
 # <a name="id_1086">Dean R. Koontz: Idegenek (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Idegenek%20%281086%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Idegenek%20%281086%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Idegenek%20%281086%29/Idegenek%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Idegenek%20%281086%29/Idegenek%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [katonaság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/katonas%c3%a1g.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [ufo](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ufo.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [tartalom szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tartalom%20szerint.md), [kísérlet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%ads%c3%a9rlet.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [kísértet- és rémtörténetek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%ads%c3%a9rtet-%20%c3%a9s%20r%c3%a9mt%c3%b6rt%c3%a9netek.md), [nevada](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nevada.md)
@@ -290,10 +290,10 @@ Idegenek voltak. Egy maroknyi ember más-más városból, más-más háttérrel.
 
 
 # <a name="id_1091">Dean R. Koontz: Az eljövetel (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Az%20eljovetel%20%281091%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Az%20eljovetel%20%281091%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Az%20eljovetel%20%281091%29/Az%20eljovetel%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Az%20eljovetel%20%281091%29/Az%20eljovetel%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [földönkívüliek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%b6ld%c3%b6nk%c3%adv%c3%bcliek.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [észak-amerika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9szak-amerika.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [paranormális](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/paranorm%c3%a1lis.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [posztapokaliptikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/posztapokaliptikus.md)
@@ -303,11 +303,11 @@ Molly és férje Neil özönvízszerű viharra ébrednek a kaliforniai hegyi vá
 
 
 # <a name="id_1089">Dean R. Koontz: Hideg tűz (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Hideg%20tuz%20%281089%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Hideg%20tuz%20%281089%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Hideg%20tuz%20%281089%29/Hideg%20tuz%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Hideg%20tuz%20%281089%29/Hideg%20tuz%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Hideg%20tuz%20%281089%29/Hideg%20tuz%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Hideg%20tuz%20%281089%29/Hideg%20tuz%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -319,10 +319,10 @@ A lélegzetelállító történet végén fény derül arra, miért perzseli a h
 
 
 # <a name="id_1070">Dean R. Koontz: Virrasztók (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Virrasztok%20%281070%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Virrasztok%20%281070%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Virrasztok%20%281070%29/Virrasztok%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Virrasztok%20%281070%29/Virrasztok%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [kutya](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kutya.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [nők elleni erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91k%20elleni%20er%c5%91szak.md), [paranormális](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/paranorm%c3%a1lis.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [titkosszolgálat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/titkosszolg%c3%a1lat.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kísérlet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%ads%c3%a9rlet.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -333,10 +333,10 @@ A lélegzetelállító történet végén fény derül arra, miért perzseli a h
 
 
 # <a name="id_1096">Dean R. Koontz: A Tékozló Fiú (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20Tekozlo%20Fiu%20%281096%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20Tekozlo%20Fiu%20%281096%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20Tekozlo%20Fiu%20%281096%29/A%20Tekozlo%20Fiu%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20Tekozlo%20Fiu%20%281096%29/A%20Tekozlo%20Fiu%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md)
@@ -346,10 +346,10 @@ A lélegzetelállító történet végén fény derül arra, miért perzseli a h
 
 
 # <a name="id_1083">Dean R. Koontz: Jégcsapda (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Jegcsapda%20%281083%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Jegcsapda%20%281083%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Jegcsapda%20%281083%29/Jegcsapda%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Jegcsapda%20%281083%29/Jegcsapda%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [fantasztikus regények](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasztikus%20reg%c3%a9nyek.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [az író származása szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/az%20%c3%adr%c3%b3%20sz%c3%a1rmaz%c3%a1sa%20szerint.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [amerika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerika.md), [északi-sark](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9szaki-sark.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [tartalom szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tartalom%20szerint.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [természet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/term%c3%a9szet.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -359,10 +359,10 @@ Koontz egyik korai művét tartja kezében az olvasó, melynek hangja, stílusa 
 
 
 # <a name="id_1079">Dean R. Koontz: Mr. Murder (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Mr.%20Murder%20%281079%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Mr.%20Murder%20%281079%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Mr.%20Murder%20%281079%29/Mr.%20Murder%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Mr.%20Murder%20%281079%29/Mr.%20Murder%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [író](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%adr%c3%b3.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [bűnüldözés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c5%b1n%c3%bcld%c3%b6z%c3%a9s.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md)
@@ -372,10 +372,10 @@ A regény főhőse, Martin Stillwater igazán boldognak érezheti magát. Sikere
 
 
 # <a name="id_1100">Dean R. Koontz: A sötétség szeme (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20sotetseg%20szeme%20%281100%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20sotetseg%20szeme%20%281100%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/A%20sotetseg%20szeme%20%281100%29/A%20sotetseg%20szeme%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20sotetseg%20szeme%20%281100%29/A%20sotetseg%20szeme%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [las vegas](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/las%20vegas.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [vírus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%adrus.md), [kísérlet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%ads%c3%a9rlet.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md)
@@ -385,10 +385,10 @@ Egy tizenkét éves kisfiú kirándulni megy iskolatársaival a hegyekbe, de soh
 
 
 # <a name="id_1078">Dean R. Koontz: Összetörve (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Osszetorve%20%281078%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Osszetorve%20%281078%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Osszetorve%20%281078%29/Osszetorve%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Osszetorve%20%281078%29/Osszetorve%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [san francisco](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/san%20francisco.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [észak-amerika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9szak-amerika.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -398,10 +398,10 @@ A Thunderbird Philadelphiából indult. Az úti cél: a nyugati part. Alex és a
 
 
 # <a name="id_1084">Dean R. Koontz: Kényszerjátszma (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Kenyszerjatszma%20%281084%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Kenyszerjatszma%20%281084%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Kenyszerjatszma%20%281084%29/Kenyszerjatszma%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Kenyszerjatszma%20%281084%29/Kenyszerjatszma%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -411,10 +411,10 @@ A bárpultos Billy Wiles egyhangú élete egy csapásra megváltozik, amikor egy
 
 
 # <a name="id_1072">Dean R. Koontz: Váltságdíj (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Valtsagdij%20%281072%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Valtsagdij%20%281072%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Valtsagdij%20%281072%29/Valtsagdij%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Valtsagdij%20%281072%29/Valtsagdij%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [pszicho-thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszicho-thriller.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -424,11 +424,11 @@ Elkaptuk a feleségét. Kétmillió kápéért visszakaphatja. Egy hétköznapi 
 
 
 # <a name="id_1077">Dean R. Koontz: Pokoli hordák (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Pokoli%20hordak%20%281077%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Pokoli%20hordak%20%281077%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Pokoli%20hordak%20%281077%29/Pokoli%20hordak%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Dean%20R.%20Koontz/Pokoli%20hordak%20%281077%29/Pokoli%20hordak%20-%20Dean%20R.%20Koontz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Pokoli%20hordak%20%281077%29/Pokoli%20hordak%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Pokoli%20hordak%20%281077%29/Pokoli%20hordak%20-%20Dean%20R.%20Koontz.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [new york](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/new%20york.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gia.md), [rendőr](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/rend%c5%91r.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)

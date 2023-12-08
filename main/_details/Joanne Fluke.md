@@ -1,8 +1,8 @@
 # <a name="id_622">Joanne Fluke: Áfonyás muffin és gyilkosság (Hannah Swensen titokzatos esetei 3) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Fluke/Afonyas%20muffin%20es%20gyilkossag%20%28622%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Afonyas%20muffin%20es%20gyilkossag%20%28622%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Fluke/Afonyas%20muffin%20es%20gyilkossag%20%28622%29/Afonyas%20muffin%20es%20gyilkossag%20-%20Joanne%20Fluke.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Afonyas%20muffin%20es%20gyilkossag%20%28622%29/Afonyas%20muffin%20es%20gyilkossag%20-%20Joanne%20Fluke.epub)
 
 ### Tagek
 [sütemények](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/s%c3%bctem%c3%a9nyek.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [mystery & crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery%20%26%20crime.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [recept](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/recept.md), [minnesota](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/minnesota.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [édesség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9dess%c3%a9g.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [gasztroregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gasztroreg%c3%a9ny.md), [chick lit](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/chick%20lit.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md)
@@ -15,10 +15,10 @@ A sok fordulat és izgalom között már-már alig jut idő a sütésre, de Hann
 
 
 # <a name="id_623">Joanne Fluke: Pikáns meglepetés és gyilkosság (Hannah Swensen titokzatos esetei 4) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Fluke/Pikans%20meglepetes%20es%20gyilkossag%20%28623%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Pikans%20meglepetes%20es%20gyilkossag%20%28623%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Fluke/Pikans%20meglepetes%20es%20gyilkossag%20%28623%29/Pikans%20meglepetes%20es%20gyilkossag%20-%20Joanne%20Fluke.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Pikans%20meglepetes%20es%20gyilkossag%20%28623%29/Pikans%20meglepetes%20es%20gyilkossag%20-%20Joanne%20Fluke.epub)
 
 ### Tagek
 [sütemények](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/s%c3%bctem%c3%a9nyek.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [mystery & crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery%20%26%20crime.md), [nyár](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ny%c3%a1r.md), [recept](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/recept.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [sütés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/s%c3%bct%c3%a9s.md), [chick lit](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/chick%20lit.md), [gasztroregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gasztroreg%c3%a9ny.md)
@@ -30,10 +30,10 @@ A nyomozási versenyfutás pedig a legnagyobb amerikai ünnep, a július negyedi
 
 
 # <a name="id_624">Joanne Fluke: Csokis tündértorta és gyilkosság (Hannah Swensen titokzatos esetei 5) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Fluke/Csokis%20tundertorta%20es%20gyilkossag%20%28624%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Csokis%20tundertorta%20es%20gyilkossag%20%28624%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Fluke/Csokis%20tundertorta%20es%20gyilkossag%20%28624%29/Csokis%20tundertorta%20es%20gyilkossa%20-%20Joanne%20Fluke.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Csokis%20tundertorta%20es%20gyilkossag%20%28624%29/Csokis%20tundertorta%20es%20gyilkossa%20-%20Joanne%20Fluke.epub)
 
 ### Tagek
 [sütemények](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/s%c3%bctem%c3%a9nyek.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [mystery & crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery%20%26%20crime.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [recept](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/recept.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [chick lit](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/chick%20lit.md), [gasztroregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gasztroreg%c3%a9ny.md)
@@ -44,10 +44,10 @@ Hannah-nak most mindennél fontosabb, hogy tisztázza sógorát és kiderítse, 
 
 
 # <a name="id_625">Joanne Fluke: Karácsonyi habcsók és gyilkosság (Hannah Swensen titokzatos esetei 6) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Fluke/Karacsonyi%20habcsok%20es%20gyilkossag%20%28625%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Karacsonyi%20habcsok%20es%20gyilkossag%20%28625%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Joanne%20Fluke/Karacsonyi%20habcsok%20es%20gyilkossag%20%28625%29/Karacsonyi%20habcsok%20es%20gyilkossa%20-%20Joanne%20Fluke.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Karacsonyi%20habcsok%20es%20gyilkossag%20%28625%29/Karacsonyi%20habcsok%20es%20gyilkossa%20-%20Joanne%20Fluke.epub)
 
 ### Tagek
 [sütemények](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/s%c3%bctem%c3%a9nyek.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [mystery & crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery%20%26%20crime.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [recept](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/recept.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [karácsony](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kar%c3%a1csony.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [chick lit](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/chick%20lit.md), [gasztroregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gasztroreg%c3%a9ny.md)

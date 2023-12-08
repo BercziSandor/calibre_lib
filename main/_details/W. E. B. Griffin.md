@@ -1,8 +1,8 @@
 # <a name="id_320">W. E. B. Griffin: Hadnagyok (A háború katonái 1) (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/W.%20E.%20B.%20Griffin/Hadnagyok%20%28320%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/W.%20E.%20B.%20Griffin/Hadnagyok%20%28320%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/W.%20E.%20B.%20Griffin/Hadnagyok%20%28320%29/Hadnagyok%20-%20W.%20E.%20B.%20Griffin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/W.%20E.%20B.%20Griffin/Hadnagyok%20%28320%29/Hadnagyok%20-%20W.%20E.%20B.%20Griffin.epub)
 
 ### Tagek
 [2. világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/2.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [hadsereg](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hadsereg.md), [katonaság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/katonas%c3%a1g.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md)
@@ -12,10 +12,10 @@
 
 
 # <a name="id_321">W. E. B. Griffin: Különleges kommandósok I-II. (A háború katonái 9) (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/W.%20E.%20B.%20Griffin/Kulonleges%20kommandosok%20I-II_%20%28321%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/W.%20E.%20B.%20Griffin/Kulonleges%20kommandosok%20I-II_%20%28321%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/W.%20E.%20B.%20Griffin/Kulonleges%20kommandosok%20I-II_%20%28321%29/Kulonleges%20kommandosok%20I-II_%20-%20W.%20E.%20B.%20Griffin.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/W.%20E.%20B.%20Griffin/Kulonleges%20kommandosok%20I-II_%20%28321%29/Kulonleges%20kommandosok%20I-II_%20-%20W.%20E.%20B.%20Griffin.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [dél-amerika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/d%c3%a9l-amerika.md), [forradalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/forradalom.md), [közép-amerika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b6z%c3%a9p-amerika.md), [kuba](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kuba.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md)

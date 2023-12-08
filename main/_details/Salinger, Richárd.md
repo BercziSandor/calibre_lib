@@ -1,8 +1,8 @@
 # <a name="id_522">Salinger, Richárd: Omyno (Omyno 1) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Salinger%2C%20Richard/Omyno%20%28522%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Salinger%2C%20Richard/Omyno%20%28522%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Salinger%2C%20Richard/Omyno%20%28522%29/Omyno%20-%20Salinger%2C%20Richard.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Salinger%2C%20Richard/Omyno%20%28522%29/Omyno%20-%20Salinger%2C%20Richard.epub)
 
 ### Tagek
 [budapest](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/budapest.md), [ezotéria](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ezot%c3%a9ria.md), [fejlődésregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fejl%c5%91d%c3%a9sreg%c3%a9ny.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyarorsz%c3%a1g.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md)

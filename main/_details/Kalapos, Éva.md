@@ -1,8 +1,8 @@
 # <a name="id_1597">Kalapos, Éva: Egy új élet (D.A.C. 1) (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kalapos%2C%20Eva/Egy%20uj%20elet%20%281597%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kalapos%2C%20Eva/Egy%20uj%20elet%20%281597%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kalapos%2C%20Eva/Egy%20uj%20elet%20%281597%29/Egy%20uj%20elet%20-%20Kalapos%2C%20Eva.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kalapos%2C%20Eva/Egy%20uj%20elet%20%281597%29/Egy%20uj%20elet%20-%20Kalapos%2C%20Eva.epub)
 
 ### Tagek
 [ifjúdági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bad%c3%a1gi.md)

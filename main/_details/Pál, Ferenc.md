@@ -1,8 +1,8 @@
 # <a name="id_664">Pál, Ferenc: A függőségtől az intimitásig (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Pal%2C%20Ferenc/A%20fuggosegtol%20az%20intimitasig%20%28664%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Pal%2C%20Ferenc/A%20fuggosegtol%20az%20intimitasig%20%28664%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Pal%2C%20Ferenc/A%20fuggosegtol%20az%20intimitasig%20%28664%29/A%20fuggosegtol%20az%20intimitasig%20-%20Pal%2C%20Ferenc.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Pal%2C%20Ferenc/A%20fuggosegtol%20az%20intimitasig%20%28664%29/A%20fuggosegtol%20az%20intimitasig%20-%20Pal%2C%20Ferenc.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [függőség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%bcgg%c5%91s%c3%a9g.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ismeretterjeszt%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [önismeret](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6nismeret.md), [önsegítő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6nseg%c3%adt%c5%91.md), [párkapcsolat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/p%c3%a1rkapcsolat.md), [társ. tudományok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1rs.%20tudom%c3%a1nyok.md), [pszichológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszichol%c3%b3gia.md)

@@ -1,28 +1,28 @@
 # <a name="id_1017">Tersánszky, Józsi Jenő: A tiroli kocsmáros (A tiroli kocsmáros 1) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tersanszky%2C%20Jozsi%20Jeno/A%20tiroli%20kocsmaros%20%281017%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/A%20tiroli%20kocsmaros%20%281017%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tersanszky%2C%20Jozsi%20Jeno/A%20tiroli%20kocsmaros%20%281017%29/A%20tiroli%20kocsmaros%20-%20Tersanszky%2C%20Jozsi%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/A%20tiroli%20kocsmaros%20%281017%29/A%20tiroli%20kocsmaros%20-%20Tersanszky%2C%20Jozsi%20Jeno.epub)
 
 ### Összefoglalás
 <div> <p style="margin-bottom: 0in">Tersánszky J. Jenőt eredetisége, életigenlő szenvedélye, mindent megértő humanizmusa a magyar novella legjelentősebb mesterei, legkiválóbb művelői közé emeli. <br>Elbeszélései az ősi mesetípust képviselik irodalmunkban. Az író „derűs fatalista”-ként szemléli hőseit, szenvtelenül közvetít a megfellebbezhetetlen valóság és az olvasó között, e „szenvtelenségnek” azonban mindig morális tartalma, társadalmi célzata van: „A világ eseményei között a véletlen játékára történik ezer, ezer csodálatos és érthetetlen dolog. Ezekre adni is lehet, meg nem is. De van a dolgok között olyan, ami biztos, és amire mindig adni kell, és ez az élőlények jelleme. A cápa cápa és nem emberbarát, akárhogy mutatkozik is annak.” <br>Az „élőlények jellemének” művészi rajza teszi feledhetetlen élménnyé A tiroli kocsmáros c. kötetének darabjait is.</p><p style="margin-bottom: 0in"> </p></div>
 
 
 # <a name="id_1012">Tersánszky, Józsi Jenő: A tiroli kocsmáros (A tiroli kocsmáros 2) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tersanszky%2C%20Jozsi%20Jeno/A%20tiroli%20kocsmaros%20%281012%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/A%20tiroli%20kocsmaros%20%281012%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tersanszky%2C%20Jozsi%20Jeno/A%20tiroli%20kocsmaros%20%281012%29/A%20tiroli%20kocsmaros%20-%20Tersanszky%2C%20Jozsi%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/A%20tiroli%20kocsmaros%20%281012%29/A%20tiroli%20kocsmaros%20-%20Tersanszky%2C%20Jozsi%20Jeno.epub)
 
 ### Összefoglalás
 <div> <p style="margin-bottom: 0in">Tersánszky J. Jenőt eredetisége, életigenlő szenvedélye, mindent megértő humanizmusa a magyar novella legjelentősebb mesterei, legkiválóbb művelői közé emeli. <br>Elbeszélései az ősi mesetípust képviselik irodalmunkban. Az író „derűs fatalista”-ként szemléli hőseit, szenvtelenül közvetít a megfellebbezhetetlen valóság és az olvasó között, e „szenvtelenségnek” azonban mindig morális tartalma, társadalmi célzata van: „A világ eseményei között a véletlen játékára történik ezer, ezer csodálatos és érthetetlen dolog. Ezekre adni is lehet, meg nem is. De van a dolgok között olyan, ami biztos, és amire mindig adni kell, és ez az élőlények jelleme. A cápa cápa és nem emberbarát, akárhogy mutatkozik is annak.” <br>Az „élőlények jellemének” művészi rajza teszi feledhetetlen élménnyé A tiroli kocsmáros c. kötetének darabjait is.</p><p style="margin-bottom: 0in"> </p></div>
 
 
 # <a name="id_611">Tersánszky, Józsi Jenő: A havasi selyemfiú (1976)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tersanszky%2C%20Jozsi%20Jeno/A%20havasi%20selyemfiu%20%28611%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/A%20havasi%20selyemfiu%20%28611%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tersanszky%2C%20Jozsi%20Jeno/A%20havasi%20selyemfiu%20%28611%29/A%20havasi%20selyemfiu%20-%20Tersanszky%2C%20Jozsi%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/A%20havasi%20selyemfiu%20%28611%29/A%20havasi%20selyemfiu%20-%20Tersanszky%2C%20Jozsi%20Jeno.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [erotikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/erotikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [nyugatosok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyugatosok.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -33,10 +33,10 @@ Tersánszky különös félvad világot ábrázol, olyan társadalmat mutat be, 
 
 
 # <a name="id_613">Tersánszky, Józsi Jenő: Viszontlátásra, drága… / Legenda a nyúlpaprikásról (1982)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tersanszky%2C%20Jozsi%20Jeno/Viszontlatasra%2C%20draga_.%20_%20Legenda%20a%20%28613%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/Viszontlatasra%2C%20draga_.%20_%20Legenda%20a%20%28613%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tersanszky%2C%20Jozsi%20Jeno/Viszontlatasra%2C%20draga_.%20_%20Legenda%20a%20%28613%29/Viszontlatasra%2C%20draga_.%20_%20Legen%20-%20Tersanszky%2C%20Jozsi%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/Viszontlatasra%2C%20draga_.%20_%20Legenda%20a%20%28613%29/Viszontlatasra%2C%20draga_.%20_%20Legen%20-%20Tersanszky%2C%20Jozsi%20Jeno.epub)
 
 ### Tagek
 [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md)
@@ -49,10 +49,10 @@ A másik kisregény szomorkás-derűs története hétköznapi legenda – Legen
 
 
 # <a name="id_612">Tersánszky, Józsi Jenő: Legenda a nyúlpaprikásról (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tersanszky%2C%20Jozsi%20Jeno/Legenda%20a%20nyulpaprikasrol%20%28612%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/Legenda%20a%20nyulpaprikasrol%20%28612%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Tersanszky%2C%20Jozsi%20Jeno/Legenda%20a%20nyulpaprikasrol%20%28612%29/Legenda%20a%20nyulpaprikasrol%20-%20Tersanszky%2C%20Jozsi%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/Legenda%20a%20nyulpaprikasrol%20%28612%29/Legenda%20a%20nyulpaprikasrol%20-%20Tersanszky%2C%20Jozsi%20Jeno.epub)
 
 ### Összefoglalás
 <div><span style="color: rgb(0, 0, 0); font-family: Georgia, serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19.59375px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">Hőse Gazsi, afféle megöregedett, faluvégre rugdalt, mindenki szolgája, valójában egyszerű, gyermeteg, tisztalelkű öregember. Egyetlen vágya, szinte már rögeszméje: egyszer nyúlpaprikást enni. Már-már hozzájuthat óhajtott tárgyához, ám a sors közbeszól. Megbetegszik, nem szerezheti meg a nyulat. És innen kezdődik a „legenda”: maga a nyúl jön el hozzá, de Gazsi megszánja, minden kísértésnek ellenállva életben hagyja, megszelidíti, magához emeli. Ezzel válik azután méltóvá a csodára: arra, hogy a grófkisasszony alászálljon érte a kastélyból, nyulastól magához vigye a „paradicsomba”, uradalmi kanásszá tegye. </span><br style="color: rgb(0, 0, 0); font-family: Georgia, serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19.59375px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"><span style="color: rgb(0, 0, 0); font-family: Georgia, serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19.59375px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">A kisregény a már érett szerző alkotása, „állattörténetei” közül a legjobb.</span></div>

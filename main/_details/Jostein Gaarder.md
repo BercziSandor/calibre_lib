@@ -1,8 +1,8 @@
 # <a name="id_1410">Jostein Gaarder: A kártya titka (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jostein%20Gaarder/A%20kartya%20titka%20%281410%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jostein%20Gaarder/A%20kartya%20titka%20%281410%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jostein%20Gaarder/A%20kartya%20titka%20%281410%29/A%20kartya%20titka%20-%20Jostein%20Gaarder.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jostein%20Gaarder/A%20kartya%20titka%20%281410%29/A%20kartya%20titka%20-%20Jostein%20Gaarder.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [literary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literary.md), [család](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1d.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md)
@@ -12,10 +12,10 @@
 
 
 # <a name="id_1411">Jostein Gaarder: Anna világa (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jostein%20Gaarder/Anna%20vilaga%20%281411%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jostein%20Gaarder/Anna%20vilaga%20%281411%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jostein%20Gaarder/Anna%20vilaga%20%281411%29/Anna%20vilaga%20-%20Jostein%20Gaarder.azw3)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jostein%20Gaarder/Anna%20vilaga%20%281411%29/Anna%20vilaga%20-%20Jostein%20Gaarder.azw3)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [álom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1lom.md), [cli-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cli-fi.md), [időutazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/id%c5%91utaz%c3%a1s.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ismeretterjeszt%c5%91.md), [kamasz főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kamasz%20f%c5%91szerepl%c5%91.md), [klímaváltozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kl%c3%admav%c3%a1ltoz%c3%a1s.md), [környezetvédelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b6rnyezetv%c3%a9delem.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [norvég szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/norv%c3%a9g%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)

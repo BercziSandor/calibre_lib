@@ -1,8 +1,8 @@
 # <a name="id_960">David Lagercrantz: Ami nem öl meg (Millennium 4) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/David%20Lagercrantz/Ami%20nem%20ol%20meg%20%28960%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/David%20Lagercrantz/Ami%20nem%20ol%20meg%20%28960%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/David%20Lagercrantz/Ami%20nem%20ol%20meg%20%28960%29/Ami%20nem%20ol%20meg%20-%20David%20Lagercrantz.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/David%20Lagercrantz/Ami%20nem%20ol%20meg%20%28960%29/Ami%20nem%20ol%20meg%20-%20David%20Lagercrantz.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [thrillers](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thrillers.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)

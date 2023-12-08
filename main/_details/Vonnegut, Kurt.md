@@ -1,9 +1,9 @@
 # <a name="id_1631">Vonnegut, Kurt: Az ötös számú vágóhíd </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Az%20otos%20szamu%20vagohid%20%281631%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Az%20otos%20szamu%20vagohid%20%281631%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Az%20otos%20szamu%20vagohid%20%281631%29/Az%20otos%20szamu%20vagohid%20-%20Kurt%20Vonnegut.azw3) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Az%20otos%20szamu%20vagohid%20%281631%29/Az%20otos%20szamu%20vagohid%20-%20Vonnegut%2C%20Kurt.epub)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Az%20otos%20szamu%20vagohid%20%281631%29/Az%20otos%20szamu%20vagohid%20-%20Kurt%20Vonnegut.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Az%20otos%20szamu%20vagohid%20%281631%29/Az%20otos%20szamu%20vagohid%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Összefoglalás
 <div>
@@ -11,27 +11,27 @@
 
 
 # <a name="id_1632">Vonnegut, Kurt: Ördögcsapda </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Ordogcsapda%20%281632%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Ordogcsapda%20%281632%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Ordogcsapda%20%281632%29/Ordogcsapda%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Ordogcsapda%20%281632%29/Ordogcsapda%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Összefoglalás
 <P>Kurt Vonnegut</P> <P>1922. november 11. – 2007. Április 11.</P> <P>&nbsp;</P> <P>„Hogyan viselkedjünk Apokalipszis idején? Talán az a legfontosabb, hogy ilyenkor legyünk az átlagosnál figyelmesebbek egymás iránt. Másfelől ne vegyünk mindent túl komolyan. A tréfa segít.”</P> <P>&nbsp;</P> <P>Kurt Vonnegut 12 olyan írását tartalmazza ez a gyűjtemény, amelyek még soha, sehol nem jelentek meg. Valamennyit áthatja a szerző erőszakkal szembeni kérlelhetetlen elutasítása éppúgy, mint lesújtó véleménye az emberiség pusztítás iránti olthatatlan szenvedélyről. A legtöbb írásnak még a keletkezési dátumát sem ismerjük, de bármikor születtek is, mindegyikben felfedezhetjük Vonnegut lenyűgöző tehetségét, a csak rá jellemző abszurd világlátást.</P> <P>A novellák között találunk szívszorító visszaemlékezést Drezda lebombázásáról, keserűen mulatságos történetet három, hadifogságban sínylődő közlegényről, akik a hazatérés utáni első otthoni ebédről ábrándoznak. És szó esik arról is, hogy milyen iszonytatóan nehéz megvédeni gyermekeinket az agresszió kísértéseitől.</P> <P>A kötet meglepetéseket is tartogat az Olvasó számára. Például a fiatal Vonnegut levelét, amelyet 1945-ben a frontról írt családjának, hogy értesítse őket: hadifogságba esett Németországban. Vagy az idős Mester utolsó beszédét, amelyet halála miatt már nem tudott elmondani, így azt fia olvasta fel a Vonnegut-év megnyitóünnepségén. Az a Mark, akinek a kötethez írott bevezetője még közelebb hozza az Olvasóhoz az Apát, akibe „az egész világ fülig szerelmes”.</P> <P>Az <I>Ördögcsapda </I>mindent elmond a korról, amelyben élünk, ugyanakkor árnyaltabbá teszi Vonnegut portréját is. A novellákat olvasva és a könyvet illusztráló különös képzőművészeti alkotásokon eltöprengve jobban megismerjük az írót, a szülőt, a művészt, a humanistát.</P> <P>Kurt Vonnegut nem hagyott el bennünket. Üzenete most is az elevenünkbe vág: kevés dolog törékenyebb az emberi méltóságnál.</P> <P>&nbsp;</P> <P>„A fenébe! Egyszerre fogom mindenkinek a pártját. Mert értem, mitől olyanok, amilyenek.”</P>
 
 
 # <a name="id_747">Vonnegut, Kurt: Beszámoló a Barnhouse-effektusról </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vonnegut%2C%20Kurt/Beszamolo%20a%20Barnhouse-effektusrol%20%28747%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vonnegut%2C%20Kurt/Beszamolo%20a%20Barnhouse-effektusrol%20%28747%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vonnegut%2C%20Kurt/Beszamolo%20a%20Barnhouse-effektusrol%20%28747%29/Beszamolo%20a%20Barnhouse-effektusr%20-%20Vonnegut%2C%20Kurt.epub) 
- [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vonnegut%2C%20Kurt/Beszamolo%20a%20Barnhouse-effektusrol%20%28747%29/Beszamolo%20a%20Barnhouse-effektusr%20-%20Vonnegut%2C%20Kurt.rtf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Vonnegut%2C%20Kurt/Beszamolo%20a%20Barnhouse-effektusrol%20%28747%29/Beszamolo%20a%20Barnhouse-effektusr%20-%20Vonnegut%2C%20Kurt.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Vonnegut%2C%20Kurt/Beszamolo%20a%20Barnhouse-effektusrol%20%28747%29/Beszamolo%20a%20Barnhouse-effektusr%20-%20Vonnegut%2C%20Kurt.rtf)
 
 # <a name="id_1618">Vonnegut, Kurt: Gépzongora (1951)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Gepzongora%20%281618%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut%20Jr_/Gepzongora%20%281618%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Gepzongora%20%281618%29/Gepzongora%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut%20Jr_/Gepzongora%20%281618%29/Gepzongora%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
 [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [humour](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humour.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [utópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ut%c3%b3pia.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md)
@@ -42,21 +42,21 @@
 
 
 # <a name="id_748">Vonnegut, Kurt: Harrison Bergeron (1962)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Harrison%20Bergeron%20%28748%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Harrison%20Bergeron%20%28748%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Harrison%20Bergeron%20%28748%29/Harrison%20Bergeron%20-%20Kurt%20Vonnegut.epub) 
- [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Harrison%20Bergeron%20%28748%29/Harrison%20Bergeron%20-%20Kurt%20Vonnegut.rtf) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Harrison%20Bergeron%20%28748%29/Harrison%20Bergeron%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Harrison%20Bergeron%20%28748%29/Harrison%20Bergeron%20-%20Kurt%20Vonnegut.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Harrison%20Bergeron%20%28748%29/Harrison%20Bergeron%20-%20Kurt%20Vonnegut.rtf) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Harrison%20Bergeron%20%28748%29/Harrison%20Bergeron%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
 [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md), [amerika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerika.md)
 
 # <a name="id_1620">Vonnegut, Kurt: Slaughterhouse-Five (1969)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Slaughterhouse-Five%20%281620%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut%20Jr_/Slaughterhouse-Five%20%281620%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Slaughterhouse-Five%20%281620%29/Slaughterhouse-Five%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut%20Jr_/Slaughterhouse-Five%20%281620%29/Slaughterhouse-Five%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
 [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md), [war](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/war.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md)
@@ -67,10 +67,10 @@
 
 
 # <a name="id_1623">Vonnegut, Kurt: Utópia 14 (1972)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Utopia%2014%20%281623%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Utopia%2014%20%281623%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Utopia%2014%20%281623%29/Utopia%2014%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Utopia%2014%20%281623%29/Utopia%2014%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Összefoglalás
 <div>
@@ -78,10 +78,10 @@
 
 
 # <a name="id_1627">Vonnegut, Kurt: Virágvasárnap (1980)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Viragvasarnap%20%281627%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut%20Jr_/Viragvasarnap%20%281627%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Viragvasarnap%20%281627%29/Viragvasarnap%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut%20Jr_/Viragvasarnap%20%281627%29/Viragvasarnap%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
 [writing](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/writing.md), [humour](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humour.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md), [biography](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/biography.md)
@@ -93,10 +93,10 @@
 
 
 # <a name="id_1622">Vonnegut, Kurt: Mesterlövész (1981)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Mesterlovesz%20%281622%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut%20Jr_/Mesterlovesz%20%281622%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Mesterlovesz%20%281622%29/Mesterlovesz%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut%20Jr_/Mesterlovesz%20%281622%29/Mesterlovesz%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
 [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [humour](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humour.md), [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md), [contemporary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/contemporary.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md)
@@ -107,10 +107,10 @@
 
 
 # <a name="id_1628">Vonnegut, Kurt: Halálnál is rosszabb (1982)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Halalnal%20is%20rosszabb%20%281628%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut%20Jr_/Halalnal%20is%20rosszabb%20%281628%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Halalnal%20is%20rosszabb%20%281628%29/Halalnal%20is%20rosszabb%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut%20Jr_/Halalnal%20is%20rosszabb%20%281628%29/Halalnal%20is%20rosszabb%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
 [writing](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/writing.md), [humour](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humour.md), [biography](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/biography.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md)
@@ -121,10 +121,10 @@
 
 
 # <a name="id_1619">Vonnegut, Kurt: Galápagos (1984)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Galapagos%20%281619%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut%20Jr_/Galapagos%20%281619%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Galapagos%20%281619%29/Galapagos%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut%20Jr_/Galapagos%20%281619%29/Galapagos%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
 [humour](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humour.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [amerika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerika.md), [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md), [science fiction & fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction%20%26%20fantasy.md), [literary criticism](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literary%20criticism.md), [criticism](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/criticism.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [satire](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/satire.md), [literature - classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literature%20-%20classics.md), [literary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literary.md), [european](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/european.md), [human evolution](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/human%20evolution.md), [satirical fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/satirical%20fiction.md), [galapagos islands](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/galapagos%20islands.md), [spanish & portuguese](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/spanish%20%26%20portuguese.md), [human nature](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/human%20nature.md), [islands](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/islands.md), [ghosts](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ghosts.md)
@@ -135,10 +135,10 @@
 
 
 # <a name="id_1702">Vonnegut, Kurt: Bluebeard (1987)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vonnegut%2C%20Kurt/Bluebeard%20%281702%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vonnegut%2C%20Kurt/Bluebeard%20%281702%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vonnegut%2C%20Kurt/Bluebeard%20%281702%29/Bluebeard%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Vonnegut%2C%20Kurt/Bluebeard%20%281702%29/Bluebeard%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
 [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [humour](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humour.md), [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md), [art](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/art.md), [contemporary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/contemporary.md)
@@ -149,7 +149,7 @@
 
 
 # <a name="id_1615">Vonnegut, Kurt: Cat's Cradle (1992)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Cat%27s%20Cradle%20%281615%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Cat%27s%20Cradle%20%281615%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [fiction - science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction%20-%20science%20fiction.md), [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md), [science fiction - general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction%20-%20general.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md), [science fiction & fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction%20%26%20fantasy.md), [time travel fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/time%20travel%20fiction.md)
@@ -159,10 +159,10 @@
 
 
 # <a name="id_1614">Vonnegut, Kurt: Breakfast of Champions (1999)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Breakfast%20of%20Champions%20%281614%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Breakfast%20of%20Champions%20%281614%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Breakfast%20of%20Champions%20%281614%29/Breakfast%20of%20Champions%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Breakfast%20of%20Champions%20%281614%29/Breakfast%20of%20Champions%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md), [authorship](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/authorship.md), [satire](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/satire.md), [literary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literary.md), [fiction - general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction%20-%20general.md), [humorous fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humorous%20fiction.md), [sexuality](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sexuality.md), [kilgore (fictitious character)](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kilgore%20fictitious%20character.md), [mental illness](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mental%20illness.md), [science fiction - authorship](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction%20-%20authorship.md), [trout](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/trout.md)
@@ -172,10 +172,10 @@
 
 
 # <a name="id_1616">Vonnegut, Kurt: Deadeye Dick (1999)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Deadeye%20Dick%20%281616%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Deadeye%20Dick%20%281616%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Deadeye%20Dick%20%281616%29/Deadeye%20Dick%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Deadeye%20Dick%20%281616%29/Deadeye%20Dick%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [satire](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/satire.md), [literary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literary.md), [fiction - general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction%20-%20general.md), [modern & contemporary fiction (post c 1945)](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/modern%20%26%20contemporary%20fiction%20post%20c%201945.md), [modern fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/modern%20fiction.md), [general & literary fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general%20%26%20literary%20fiction.md), [satirical fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/satirical%20fiction.md), [hotelkeepers](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hotelkeepers.md), [kurtvonnegut](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kurtvonnegut.md), [neutron bomb](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/neutron%20bomb.md), [haiti](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/haiti.md)
@@ -185,10 +185,10 @@
 
 
 # <a name="id_1701">Vonnegut, Kurt: A hamvaskék sárkány (1999)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vonnegut%2C%20Kurt/A%20hamvaskek%20sarkany%20%281701%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vonnegut%2C%20Kurt/A%20hamvaskek%20sarkany%20%281701%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vonnegut%2C%20Kurt/A%20hamvaskek%20sarkany%20%281701%29/A%20hamvaskek%20sarkany%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Vonnegut%2C%20Kurt/A%20hamvaskek%20sarkany%20%281701%29/A%20hamvaskek%20sarkany%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
 [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [humour](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humour.md), [anthologies](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anthologies.md)
@@ -199,12 +199,12 @@
 
 
 # <a name="id_750">Vonnegut, Kurt: Isten hozott a majomházban! (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Isten%20hozott%20a%20majomhazban%21%20%28750%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Isten%20hozott%20a%20majomhazban%21%20%28750%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Isten%20hozott%20a%20majomhazban%21%20%28750%29/Isten%20hozott%20a%20majomhazban%21%20-%20Kurt%20Vonnegut.epub) 
- [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Isten%20hozott%20a%20majomhazban%21%20%28750%29/Isten%20hozott%20a%20majomhazban%21%20-%20Kurt%20Vonnegut.rtf) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Isten%20hozott%20a%20majomhazban%21%20%28750%29/Isten%20hozott%20a%20majomhazban%21%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Isten%20hozott%20a%20majomhazban%21%20%28750%29/Isten%20hozott%20a%20majomhazban%21%20-%20Kurt%20Vonnegut.epub) 
+ [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Isten%20hozott%20a%20majomhazban%21%20%28750%29/Isten%20hozott%20a%20majomhazban%21%20-%20Kurt%20Vonnegut.rtf) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Isten%20hozott%20a%20majomhazban%21%20%28750%29/Isten%20hozott%20a%20majomhazban%21%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [abszurd](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/abszurd.md), [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [fekete humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fekete%20humor.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md)
@@ -214,10 +214,10 @@
 
 
 # <a name="id_1621">Vonnegut, Kurt: The Sirens of Titan: A Novel (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/The%20Sirens%20of%20Titan_%20A%20Novel%20%281621%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/The%20Sirens%20of%20Titan_%20A%20Novel%20%281621%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/The%20Sirens%20of%20Titan_%20A%20Novel%20%281621%29/The%20Sirens%20of%20Titan_%20A%20Novel%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/The%20Sirens%20of%20Titan_%20A%20Novel%20%281621%29/The%20Sirens%20of%20Titan_%20A%20Novel%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [literary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literary.md), [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md), [space opera](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/space%20opera.md), [satire](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/satire.md)
@@ -228,11 +228,11 @@
 
 
 # <a name="id_1613">Vonnegut, Kurt: Börtöntöltelék (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Bortontoltelek%20%281613%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Bortontoltelek%20%281613%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Bortontoltelek%20%281613%29/Bortontoltelek%20-%20Kurt%20Vonnegut.azw3) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Bortontoltelek%20%281613%29/Bortontoltelek%20-%20Vonnegut%2C%20Kurt.epub)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Bortontoltelek%20%281613%29/Bortontoltelek%20-%20Kurt%20Vonnegut.azw3) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Bortontoltelek%20%281613%29/Bortontoltelek%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Összefoglalás
 <div>
@@ -240,10 +240,10 @@
 
 
 # <a name="id_1607">Vonnegut, Kurt: A repülő macska (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/A%20repulo%20macska%20%281607%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/A%20repulo%20macska%20%281607%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/A%20repulo%20macska%20%281607%29/A%20repulo%20macska%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/A%20repulo%20macska%20%281607%29/A%20repulo%20macska%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Összefoglalás
 <div>
@@ -251,10 +251,10 @@
 
 
 # <a name="id_1131">Vonnegut, Kurt: Mesterlövész / Deadeye Dick (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Mesterlovesz%20_%20Deadeye%20Dick%20%281131%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Mesterlovesz%20_%20Deadeye%20Dick%20%281131%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Mesterlovesz%20_%20Deadeye%20Dick%20%281131%29/Mesterlovesz%20_%20Deadeye%20Dick%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Mesterlovesz%20_%20Deadeye%20Dick%20%281131%29/Mesterlovesz%20_%20Deadeye%20Dick%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [fekete humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fekete%20humor.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [ohio](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ohio.md), [recept](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/recept.md), [kétnyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%a9tnyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -264,10 +264,10 @@
 
 
 # <a name="id_1625">Vonnegut, Kurt: Slapstick (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Slapstick%20%281625%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Slapstick%20%281625%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Slapstick%20%281625%29/Slapstick%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Slapstick%20%281625%29/Slapstick%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Összefoglalás
 <div>
@@ -275,10 +275,10 @@
 
 
 # <a name="id_1633">Vonnegut, Kurt: Kékszakáll / Bluebeard (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Kekszakall%20_%20Bluebeard%20%281633%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Kekszakall%20_%20Bluebeard%20%281633%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Kekszakall%20_%20Bluebeard%20%281633%29/Kekszakall%20_%20Bluebeard%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Kekszakall%20_%20Bluebeard%20%281633%29/Kekszakall%20_%20Bluebeard%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Összefoglalás
 <div>
@@ -286,10 +286,10 @@
 
 
 # <a name="id_1624">Vonnegut, Kurt: Éden a folyónál (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Eden%20a%20folyonal%20%281624%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut%20Jr_/Eden%20a%20folyonal%20%281624%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Eden%20a%20folyonal%20%281624%29/Eden%20a%20folyonal%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut%20Jr_/Eden%20a%20folyonal%20%281624%29/Eden%20a%20folyonal%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
 [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [writing](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/writing.md), [anthologies](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anthologies.md)
@@ -300,10 +300,10 @@
 
 
 # <a name="id_1617">Vonnegut, Kurt: Míg a halandók alszanak (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Mig%20a%20halandok%20alszanak%20%281617%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut%20Jr_/Mig%20a%20halandok%20alszanak%20%281617%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut%20Jr_/Mig%20a%20halandok%20alszanak%20%281617%29/Mig%20a%20halandok%20alszanak%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut%20Jr_/Mig%20a%20halandok%20alszanak%20%281617%29/Mig%20a%20halandok%20alszanak%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
 [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md), [humour](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humour.md), [contemporary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/contemporary.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [abszurd](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/abszurd.md), [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [groteszk](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/groteszk.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [paranormális](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/paranorm%c3%a1lis.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md)
@@ -314,10 +314,10 @@
 
 
 # <a name="id_1606">Vonnegut, Kurt: A hazátlan ember (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/A%20hazatlan%20ember%20%281606%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/A%20hazatlan%20ember%20%281606%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/A%20hazatlan%20ember%20%281606%29/A%20hazatlan%20ember%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/A%20hazatlan%20ember%20%281606%29/A%20hazatlan%20ember%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Összefoglalás
 <div>
@@ -325,10 +325,10 @@
 
 
 # <a name="id_1610">Vonnegut, Kurt: Az ötös számú vágóhíd (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Az%20otos%20szamu%20vagohid%20%281610%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Az%20otos%20szamu%20vagohid%20%281610%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Az%20otos%20szamu%20vagohid%20%281610%29/Az%20otos%20szamu%20vagohid%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Az%20otos%20szamu%20vagohid%20%281610%29/Az%20otos%20szamu%20vagohid%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Összefoglalás
 <div>
@@ -336,16 +336,16 @@
 
 
 # <a name="id_1635">Vonnegut, Kurt: Hókusz-pókusz (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vonnegut%2C%20Kurt/Hokusz-pokusz%20%281635%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vonnegut%2C%20Kurt/Hokusz-pokusz%20%281635%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vonnegut%2C%20Kurt/Hokusz-pokusz%20%281635%29/Hokusz-pokusz%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Vonnegut%2C%20Kurt/Hokusz-pokusz%20%281635%29/Hokusz-pokusz%20-%20Vonnegut%2C%20Kurt.epub)
 
 # <a name="id_1609">Vonnegut, Kurt: Áldja meg az isten, Mr. Rosewater (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Aldja%20meg%20az%20isten%2C%20Mr.%20Rosewater%20%281609%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Aldja%20meg%20az%20isten%2C%20Mr.%20Rosewater%20%281609%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Aldja%20meg%20az%20isten%2C%20Mr.%20Rosewater%20%281609%29/Aldja%20meg%20az%20isten%2C%20Mr.%20Rosewat%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Aldja%20meg%20az%20isten%2C%20Mr.%20Rosewater%20%281609%29/Aldja%20meg%20az%20isten%2C%20Mr.%20Rosewat%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Összefoglalás
 <div>
@@ -353,10 +353,10 @@
 
 
 # <a name="id_1139">Vonnegut, Kurt: Bajnokok ​reggelije (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vonnegut%2C%20Kurt/Bajnokok%20%20reggelije%20%281139%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vonnegut%2C%20Kurt/Bajnokok%20%20reggelije%20%281139%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vonnegut%2C%20Kurt/Bajnokok%20%20reggelije%20%281139%29/Bajnokok%20%20reggelije%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Vonnegut%2C%20Kurt/Bajnokok%20%20reggelije%20%281139%29/Bajnokok%20%20reggelije%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Tagek
 [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1001%20k%c3%b6nyv%20list%c3%a1n%20szerepel.md), [1970-es évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1970-es%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [abszurd](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/abszurd.md), [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [életrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letrajz.md), [fekete humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fekete%20humor.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [lmbt](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/lmbt.md), [posztmodern](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/posztmodern.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [társadalomkritika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1rsadalomkritika.md)
@@ -366,10 +366,10 @@
 
 
 # <a name="id_1626">Vonnegut, Kurt: Éj anyánk (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Ej%20anyank%20%281626%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Ej%20anyank%20%281626%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Ej%20anyank%20%281626%29/Ej%20anyank%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Ej%20anyank%20%281626%29/Ej%20anyank%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Összefoglalás
 <div>
@@ -377,10 +377,10 @@
 
 
 # <a name="id_1608">Vonnegut, Kurt: Áldja meg az Isten, Dr. Kevorkian! (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Aldja%20meg%20az%20Isten%2C%20Dr.%20Kevorkian%21%20%281608%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Aldja%20meg%20az%20Isten%2C%20Dr.%20Kevorkian%21%20%281608%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Aldja%20meg%20az%20Isten%2C%20Dr.%20Kevorkian%21%20%281608%29/Aldja%20meg%20az%20Isten%2C%20Dr.%20Kevorki%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Aldja%20meg%20az%20Isten%2C%20Dr.%20Kevorkian%21%20%281608%29/Aldja%20meg%20az%20Isten%2C%20Dr.%20Kevorki%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Összefoglalás
 <div>
@@ -388,10 +388,10 @@
 
 
 # <a name="id_1634">Vonnegut, Kurt: Időomlás (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Idoomlas%20%281634%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Idoomlas%20%281634%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Idoomlas%20%281634%29/Idoomlas%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Idoomlas%20%281634%29/Idoomlas%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Összefoglalás
 <div>
@@ -399,10 +399,10 @@
 
 
 # <a name="id_1612">Vonnegut, Kurt: Börleszk (2022)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Borleszk%20%281612%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Borleszk%20%281612%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Borleszk%20%281612%29/Borleszk%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Borleszk%20%281612%29/Borleszk%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Összefoglalás
 <div>
@@ -410,10 +410,10 @@
 
 
 # <a name="id_1630">Vonnegut, Kurt: Macskabölcső (2022)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Macskabolcso%20%281630%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Macskabolcso%20%281630%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kurt%20Vonnegut/Macskabolcso%20%281630%29/Macskabolcso%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kurt%20Vonnegut/Macskabolcso%20%281630%29/Macskabolcso%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Összefoglalás
 <div>
@@ -421,10 +421,10 @@
 
 
 # <a name="id_1604">Vonnegut, Kurt: A Titán szirénjei (2022)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vonnegut%2C%20Kurt/A%20Titan%20szirenjei%20%281604%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vonnegut%2C%20Kurt/A%20Titan%20szirenjei%20%281604%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Vonnegut%2C%20Kurt/A%20Titan%20szirenjei%20%281604%29/A%20Titan%20szirenjei%20-%20Vonnegut%2C%20Kurt.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Vonnegut%2C%20Kurt/A%20Titan%20szirenjei%20%281604%29/A%20Titan%20szirenjei%20-%20Vonnegut%2C%20Kurt.epub)
 
 ### Összefoglalás
 <div>

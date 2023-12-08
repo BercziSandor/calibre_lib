@@ -1,8 +1,8 @@
 # <a name="id_1197">Hernádi, Gyula: Egri csillagok háborúja (1994)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hernadi%2C%20Gyula/Egri%20csillagok%20haboruja%20%281197%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Hernadi%2C%20Gyula/Egri%20csillagok%20haboruja%20%281197%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hernadi%2C%20Gyula/Egri%20csillagok%20haboruja%20%281197%29/Egri%20csillagok%20haboruja%20-%20Hernadi%2C%20Gyula.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Hernadi%2C%20Gyula/Egri%20csillagok%20haboruja%20%281197%29/Egri%20csillagok%20haboruja%20-%20Hernadi%2C%20Gyula.epub)
 
 ### Tagek
 [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [török világ](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6r%c3%b6k%20vil%c3%a1g.md), [misztikus regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus%20reg%c3%a9ny.md)

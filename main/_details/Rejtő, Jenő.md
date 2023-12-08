@@ -1,8 +1,8 @@
 # <a name="id_824">Rejtő, Jenő: A három testőr Afrikában (Légiós regények 1) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/A%20harom%20testor%20Afrikaban%20%28824%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/A%20harom%20testor%20Afrikaban%20%28824%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/A%20harom%20testor%20Afrikaban%20%28824%29/A%20harom%20testor%20Afrikaban%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/A%20harom%20testor%20Afrikaban%20%28824%29/A%20harom%20testor%20Afrikaban%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md), [légió](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a9gi%c3%b3.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -12,10 +12,10 @@
 
 
 # <a name="id_131">Rejtő, Jenő: A tizennégy karátos autó (Légiós regények 2) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/A%20tizennegy%20karatos%20auto%20%28131%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/A%20tizennegy%20karatos%20auto%20%28131%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/A%20tizennegy%20karatos%20auto%20%28131%29/A%20tizennegy%20karatos%20auto%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/A%20tizennegy%20karatos%20auto%20%28131%29/A%20tizennegy%20karatos%20auto%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md)
@@ -25,10 +25,10 @@ Rejtõ Jenõt utánozhatatlan humora, mesteri mondatfûzése, egyedi, könnyed s
 
 
 # <a name="id_138">Rejtő, Jenő: Bradley Tamás visszaüt (Légiós regények 3) (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Bradley%20Tamas%20visszaut%20%28138%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Bradley%20Tamas%20visszaut%20%28138%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Bradley%20Tamas%20visszaut%20%28138%29/Bradley%20Tamas%20visszaut%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Bradley%20Tamas%20visszaut%20%28138%29/Bradley%20Tamas%20visszaut%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [légió](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a9gi%c3%b3.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -39,10 +39,10 @@ Rejtõ Jenõt utánozhatatlan humora, mesteri mondatfûzése, egyedi, könnyed s
 
 
 # <a name="id_139">Rejtő, Jenő: Csontbrigád (Légiós regények 4) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Csontbrigad%20%28139%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Csontbrigad%20%28139%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Csontbrigad%20%28139%29/Csontbrigad%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Csontbrigad%20%28139%29/Csontbrigad%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [action & adventure](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/action%20%26%20adventure.md), [general fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general%20fiction.md)
@@ -52,10 +52,10 @@ Rejtõ Jenõt utánozhatatlan humora, mesteri mondatfûzése, egyedi, könnyed s
 
 
 # <a name="id_135">Rejtő, Jenő: Az előretolt helyőrség (Légiós regények 5) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Az%20eloretolt%20helyorseg%20%28135%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Az%20eloretolt%20helyorseg%20%28135%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Az%20eloretolt%20helyorseg%20%28135%29/Az%20eloretolt%20helyorseg%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Az%20eloretolt%20helyorseg%20%28135%29/Az%20eloretolt%20helyorseg%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md)
@@ -67,10 +67,10 @@ Esküvővel végződik Az ellopott futár kalandsorozata is, mert a szerelem sö
 
 
 # <a name="id_145">Rejtő, Jenő: Menni vagy meghalni (Légiós regények 7) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Menni%20vagy%20meghalni%20%28145%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Menni%20vagy%20meghalni%20%28145%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Menni%20vagy%20meghalni%20%28145%29/Menni%20vagy%20meghalni%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Menni%20vagy%20meghalni%20%28145%29/Menni%20vagy%20meghalni%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [action & adventure](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/action%20%26%20adventure.md)
@@ -80,10 +80,10 @@ Esküvővel végződik Az ellopott futár kalandsorozata is, mert a szerelem sö
 
 
 # <a name="id_149">Rejtő, Jenő: Piszkos Fred, a kapitány (Piszkos Fred és barátai 1) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Piszkos%20Fred%2C%20a%20kapitany%20%28149%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Piszkos%20Fred%2C%20a%20kapitany%20%28149%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Piszkos%20Fred%2C%20a%20kapitany%20%28149%29/Piszkos%20Fred%2C%20a%20kapitany%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Piszkos%20Fred%2C%20a%20kapitany%20%28149%29/Piszkos%20Fred%2C%20a%20kapitany%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [bûnügyi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c3%bbn%c3%bcgyi.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -93,10 +93,10 @@ Rejtõ Jenõ, a "ponyva" mestere, mára már klasszikussá nemesedett. Nemzedék
 
 
 # <a name="id_148">Rejtő, Jenő: Piszkos Fred közbelép (Fülig Jimmy őszintre sajnálatára) (Piszkos Fred és barátai 2) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Piszkos%20Fred%20kozbelep%20%28Fulig%20Jimmy%20%20%28148%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Piszkos%20Fred%20kozbelep%20%28Fulig%20Jimmy%20%20%28148%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Piszkos%20Fred%20kozbelep%20%28Fulig%20Jimmy%20%20%28148%29/Piszkos%20Fred%20kozbelep%20%28Fulig%20Ji%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Piszkos%20Fred%20kozbelep%20%28Fulig%20Jimmy%20%20%28148%29/Piszkos%20Fred%20kozbelep%20%28Fulig%20Ji%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md)
@@ -106,10 +106,10 @@ Régi ismerősünk, Fülig Jimmy ez alkalommal egy ifjú amerikai milliomos expe
 
 
 # <a name="id_825">Rejtő, Jenő: Az elveszett cirkáló (Piszkos Fred és barátai 3) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Az%20elveszett%20cirkalo%20%28825%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Az%20elveszett%20cirkalo%20%28825%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Az%20elveszett%20cirkalo%20%28825%29/Az%20elveszett%20cirkalo%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Az%20elveszett%20cirkalo%20%28825%29/Az%20elveszett%20cirkalo%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -119,10 +119,10 @@ Régi ismerősünk, Fülig Jimmy ez alkalommal egy ifjú amerikai milliomos expe
 
 
 # <a name="id_130">Rejtő, Jenő: A megkerült cirkáló (Piszkos Fred és barátai 4) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/A%20megkerult%20cirkalo%20%28130%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/A%20megkerult%20cirkalo%20%28130%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/A%20megkerult%20cirkalo%20%28130%29/A%20megkerult%20cirkalo%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/A%20megkerult%20cirkalo%20%28130%29/A%20megkerult%20cirkalo%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md)
@@ -132,10 +132,10 @@ Régi ismerősünk, Fülig Jimmy ez alkalommal egy ifjú amerikai milliomos expe
 
 
 # <a name="id_153">Rejtő, Jenő: Vanek úr Párizsban (1986)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Vanek%20ur%20Parizsban%20%28153%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Vanek%20ur%20Parizsban%20%28153%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Vanek%20ur%20Parizsban%20%28153%29/Vanek%20ur%20Parizsban%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Vanek%20ur%20Parizsban%20%28153%29/Vanek%20ur%20Parizsban%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [afrika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/afrika.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md), [légió](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a9gi%c3%b3.md), [párizs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/p%c3%a1rizs.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -147,31 +147,31 @@ Régi ismerősünk, Fülig Jimmy ez alkalommal egy ifjú amerikai milliomos expe
 
 
 # <a name="id_125">Rejtő, Jenő: Vesztegzár a Grand Hotelben ; A Szőke Ciklon (1989)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Vesztegzar%20a%20Grand%20Hotelben%20%3B%20A%20Szo%20%28125%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Vesztegzar%20a%20Grand%20Hotelben%20%3B%20A%20Szo%20%28125%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Vesztegzar%20a%20Grand%20Hotelben%20%3B%20A%20Szo%20%28125%29/Vesztegzar%20a%20Grand%20Hotelben%20%3B%20A%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Vesztegzar%20a%20Grand%20Hotelben%20%3B%20A%20Szo%20%28125%29/Vesztegzar%20a%20Grand%20Hotelben%20%3B%20A%20-%20Rejto%2C%20Jeno.epub)
 
 # <a name="id_154">Rejtő, Jenő: Vesztegzár a Grand Hotelben ; A Szőke Ciklon (1989)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Vesztegzar%20a%20Grand%20Hotelben%20%3B%20A%20Szo%20%28154%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Vesztegzar%20a%20Grand%20Hotelben%20%3B%20A%20Szo%20%28154%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Vesztegzar%20a%20Grand%20Hotelben%20%3B%20A%20Szo%20%28154%29/Vesztegzar%20a%20Grand%20Hotelben%20%3B%20A%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Vesztegzar%20a%20Grand%20Hotelben%20%3B%20A%20Szo%20%28154%29/Vesztegzar%20a%20Grand%20Hotelben%20%3B%20A%20-%20Rejto%2C%20Jeno.epub)
 
 # <a name="id_136">Rejtő, Jenő: A pokol zsoldosai / Az utolsó szó jogán (1991)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/A%20pokol%20zsoldosai%20_%20Az%20utolso%20szo%20j%20%28136%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/A%20pokol%20zsoldosai%20_%20Az%20utolso%20szo%20j%20%28136%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/A%20pokol%20zsoldosai%20_%20Az%20utolso%20szo%20j%20%28136%29/A%20pokol%20zsoldosai%20_%20Az%20utolso%20s%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/A%20pokol%20zsoldosai%20_%20Az%20utolso%20szo%20j%20%28136%29/A%20pokol%20zsoldosai%20_%20Az%20utolso%20s%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [légió](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a9gi%c3%b3.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
 
 # <a name="id_155">Rejtő, Jenő: Trópusi Pokol/Az Ellopott Század/Vissza a Pokolba! (1993)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Tropusi%20Pokol_Az%20Ellopott%20Szazad_Vissza%20a%20Pokolba%21%20%28155%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Tropusi%20Pokol_Az%20Ellopott%20Szazad_Vissza%20a%20Pokolba%21%20%28155%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Tropusi%20Pokol_Az%20Ellopott%20Szazad_Vissza%20a%20Pokolba%21%20%28155%29/Tropusi%20Pokol_Az%20Ellopott%20Szaza%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Tropusi%20Pokol_Az%20Ellopott%20Szazad_Vissza%20a%20Pokolba%21%20%28155%29/Tropusi%20Pokol_Az%20Ellopott%20Szaza%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md)
@@ -181,30 +181,30 @@ Régi ismerősünk, Fülig Jimmy ez alkalommal egy ifjú amerikai milliomos expe
 
 
 # <a name="id_151">Rejtő, Jenő: Texas Bill, a Fenegyerek (1994)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Texas%20Bill%2C%20a%20Fenegyerek%20%28151%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Texas%20Bill%2C%20a%20Fenegyerek%20%28151%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Texas%20Bill%2C%20a%20Fenegyerek%20%28151%29/Texas%20Bill%2C%20a%20Fenegyerek%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Texas%20Bill%2C%20a%20Fenegyerek%20%28151%29/Texas%20Bill%2C%20a%20Fenegyerek%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
 
 # <a name="id_141">Rejtő, Jenő: Egy görbe éjszaka + Szerencsés utat + Aki mer, az nyer (1997)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Egy%20gorbe%20ejszaka%20_%20Szerencses%20utat%20%28141%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Egy%20gorbe%20ejszaka%20_%20Szerencses%20utat%20%28141%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Egy%20gorbe%20ejszaka%20_%20Szerencses%20utat%20%28141%29/Egy%20gorbe%20ejszaka%20_%20Szerencses%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Egy%20gorbe%20ejszaka%20_%20Szerencses%20utat%20%28141%29/Egy%20gorbe%20ejszaka%20_%20Szerencses%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Egy%20gorbe%20ejszaka%20_%20Szerencses%20utat%20%28141%29/Egy%20gorbe%20ejszaka%20_%20Szerencses%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Egy%20gorbe%20ejszaka%20_%20Szerencses%20utat%20%28141%29/Egy%20gorbe%20ejszaka%20_%20Szerencses%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [további könyveink](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tov%c3%a1bbi%20k%c3%b6nyveink.md)
 
 # <a name="id_137">Rejtő, Jenő: Bedekker csavargók számára (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Bedekker%20csavargok%20szamara%20%28137%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Bedekker%20csavargok%20szamara%20%28137%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Bedekker%20csavargok%20szamara%20%28137%29/Bedekker%20csavargok%20szamara%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Bedekker%20csavargok%20szamara%20%28137%29/Bedekker%20csavargok%20szamara%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Bedekker%20csavargok%20szamara%20%28137%29/Bedekker%20csavargok%20szamara%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Bedekker%20csavargok%20szamara%20%28137%29/Bedekker%20csavargok%20szamara%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [útleírás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%batle%c3%adr%c3%a1s.md)
@@ -215,10 +215,10 @@ Régi ismerősünk, Fülig Jimmy ez alkalommal egy ifjú amerikai milliomos expe
 
 
 # <a name="id_129">Rejtő, Jenő: A Láthatatlan Légió (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/A%20Lathatatlan%20Legio%20%28129%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/A%20Lathatatlan%20Legio%20%28129%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/A%20Lathatatlan%20Legio%20%28129%29/A%20Lathatatlan%20Legio%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/A%20Lathatatlan%20Legio%20%28129%29/A%20Lathatatlan%20Legio%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md), [hangoskönyv egyéb](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv%20egy%c3%a9b.md)
@@ -228,10 +228,10 @@ A fojtogató szaharai levegõ meg se rezzen. De dél felõl feltámad a szél, f
 
 
 # <a name="id_823">Rejtő, Jenő: A Néma Revolverek Városa és más történetek – Rejtõ Jenõ összes mûvei (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/A%20Nema%20Revolverek%20Varosa%20es%20mas%20tor%20%28823%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/A%20Nema%20Revolverek%20Varosa%20es%20mas%20tor%20%28823%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/A%20Nema%20Revolverek%20Varosa%20es%20mas%20tor%20%28823%29/A%20Nema%20Revolverek%20Varosa%20es%20mas%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/A%20Nema%20Revolverek%20Varosa%20es%20mas%20tor%20%28823%29/A%20Nema%20Revolverek%20Varosa%20es%20mas%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md)
@@ -241,10 +241,10 @@ A fojtogató szaharai levegõ meg se rezzen. De dél felõl feltámad a szél, f
 
 
 # <a name="id_150">Rejtő, Jenő: Pokol a hegyek között (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Pokol%20a%20hegyek%20kozott%20%28150%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Pokol%20a%20hegyek%20kozott%20%28150%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Pokol%20a%20hegyek%20kozott%20%28150%29/Pokol%20a%20hegyek%20kozott%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Pokol%20a%20hegyek%20kozott%20%28150%29/Pokol%20a%20hegyek%20kozott%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [19. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/19.%20sz%c3%a1zad.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [western](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/western.md)
@@ -254,10 +254,10 @@ Versenyfutással kezdődött az egész gyalázatosság. Több mint száz éve an
 
 
 # <a name="id_152">Rejtő, Jenő: Tigrisvér (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Tigrisver%20%28152%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Tigrisver%20%28152%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Tigrisver%20%28152%29/Tigrisver%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Tigrisver%20%28152%29/Tigrisver%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [western](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/western.md)
@@ -281,11 +281,11 @@ A Tigris vigyorgott rájuk. Az ős!
 
 
 # <a name="id_142">Rejtő, Jenő: Halálsziget: kisregények (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Halalsziget_%20kisregenyek%20%28142%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Halalsziget_%20kisregenyek%20%28142%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Halalsziget_%20kisregenyek%20%28142%29/Halalsziget_%20kisregenyek%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Halalsziget_%20kisregenyek%20%28142%29/Halalsziget_%20kisregenyek%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Halalsziget_%20kisregenyek%20%28142%29/Halalsziget_%20kisregenyek%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Halalsziget_%20kisregenyek%20%28142%29/Halalsziget_%20kisregenyek%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [akció és kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3%20%c3%a9s%20kaland.md)
@@ -295,10 +295,10 @@ Vanalder valóban haldoklott, de ez a körülmény egyáltalán nem akadályozta
 
 
 # <a name="id_147">Rejtő, Jenő: Pipacs, a fenegyerek / Az elsikkasztott pénztáros - Hangoskönyv (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Pipacs%2C%20a%20fenegyerek%20_%20Az%20elsikkasz%20%28147%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Pipacs%2C%20a%20fenegyerek%20_%20Az%20elsikkasz%20%28147%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Pipacs%2C%20a%20fenegyerek%20_%20Az%20elsikkasz%20%28147%29/Pipacs%2C%20a%20fenegyerek%20_%20Az%20elsik%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Pipacs%2C%20a%20fenegyerek%20_%20Az%20elsikkasz%20%28147%29/Pipacs%2C%20a%20fenegyerek%20_%20Az%20elsik%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md)
@@ -308,10 +308,10 @@ Rejtõ Délkelet-Ázsia fülledt trópusaira repíti olvasót - és hallgatóit 
 
 
 # <a name="id_124">Rejtő, Jenő: A pokol zsoldosai (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/A%20pokol%20zsoldosai%20%28124%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/A%20pokol%20zsoldosai%20%28124%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/A%20pokol%20zsoldosai%20%28124%29/A%20pokol%20zsoldosai%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/A%20pokol%20zsoldosai%20%28124%29/A%20pokol%20zsoldosai%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [action & adventure](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/action%20%26%20adventure.md)
@@ -321,10 +321,10 @@ Rejtő Jenőt utánozhatatlan humora, mesteri mondatfűzése, egyedi, könnyed s
 
 
 # <a name="id_146">Rejtő, Jenő: Nincs kegyelem (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Nincs%20kegyelem%20%28146%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Nincs%20kegyelem%20%28146%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Nincs%20kegyelem%20%28146%29/Nincs%20kegyelem%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Nincs%20kegyelem%20%28146%29/Nincs%20kegyelem%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [action & adventure](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/action%20%26%20adventure.md)
@@ -334,11 +334,11 @@ Wardes csendbiztos gyanútlanul állt a folyóparton, mert a Húsos Farkas fegyv
 
 
 # <a name="id_127">Rejtő, Jenő: A drótnélküli gyilkosság (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20drotnelkuli%20gyilkossag%20%28127%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20drotnelkuli%20gyilkossag%20%28127%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20drotnelkuli%20gyilkossag%20%28127%29/A%20drotnelkuli%20gyilkossag%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20drotnelkuli%20gyilkossag%20%28127%29/A%20drotnelkuli%20gyilkossag%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20drotnelkuli%20gyilkossag%20%28127%29/A%20drotnelkuli%20gyilkossag%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20drotnelkuli%20gyilkossag%20%28127%29/A%20drotnelkuli%20gyilkossag%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [thrillers](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thrillers.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [mystery & detective](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery%20%26%20detective.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -348,10 +348,10 @@ Wardes csendbiztos gyanútlanul állt a folyóparton, mert a Húsos Farkas fegyv
 
 
 # <a name="id_133">Rejtő, Jenő: Az ellopott futár (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Az%20ellopott%20futar%20%28133%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Az%20ellopott%20futar%20%28133%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno/Az%20ellopott%20futar%20%28133%29/Az%20ellopott%20futar%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno/Az%20ellopott%20futar%20%28133%29/Az%20ellopott%20futar%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [afrika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/afrika.md), [groteszk](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/groteszk.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md), [action & adventure](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/action%20%26%20adventure.md), [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md)
@@ -362,11 +362,11 @@ Wardes csendbiztos gyanútlanul állt a folyóparton, mert a Húsos Farkas fegyv
 
 
 # <a name="id_126">Rejtő, Jenő: A boszorkánymester (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20boszorkanymester%20%28126%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20boszorkanymester%20%28126%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20boszorkanymester%20%28126%29/A%20boszorkanymester%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20boszorkanymester%20%28126%29/A%20boszorkanymester%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20boszorkanymester%20%28126%29/A%20boszorkanymester%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20boszorkanymester%20%28126%29/A%20boszorkanymester%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -376,11 +376,11 @@ Wardes csendbiztos gyanútlanul állt a folyóparton, mert a Húsos Farkas fegyv
 
 
 # <a name="id_123">Rejtő, Jenő: A fehér folt (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20feher%20folt%20%28123%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20feher%20folt%20%28123%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20feher%20folt%20%28123%29/A%20feher%20folt%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20feher%20folt%20%28123%29/A%20feher%20folt%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20feher%20folt%20%28123%29/A%20feher%20folt%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/A%20feher%20folt%20%28123%29/A%20feher%20folt%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [afrika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/afrika.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [marokkó](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/marokk%c3%b3.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [sierra leone](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sierra%20leone.md), [szökés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b6k%c3%a9s.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [légió](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a9gi%c3%b3.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -391,11 +391,11 @@ Wardes csendbiztos gyanútlanul állt a folyóparton, mert a Húsos Farkas fegyv
 
 
 # <a name="id_144">Rejtő, Jenő: Legény a talpán (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Legeny%20a%20talpan%20%28144%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Legeny%20a%20talpan%20%28144%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Legeny%20a%20talpan%20%28144%29/Legeny%20a%20talpan%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Legeny%20a%20talpan%20%28144%29/Legeny%20a%20talpan%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Legeny%20a%20talpan%20%28144%29/Legeny%20a%20talpan%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Legeny%20a%20talpan%20%28144%29/Legeny%20a%20talpan%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [akció és kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3%20%c3%a9s%20kaland.md)
@@ -406,11 +406,11 @@ Wardes csendbiztos gyanútlanul állt a folyóparton, mert a Húsos Farkas fegyv
 
 
 # <a name="id_134">Rejtő, Jenő: Az ellopott század (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Az%20ellopott%20szazad%20%28134%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Az%20ellopott%20szazad%20%28134%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Az%20ellopott%20szazad%20%28134%29/Az%20ellopott%20szazad%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Az%20ellopott%20szazad%20%28134%29/Az%20ellopott%20szazad%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Az%20ellopott%20szazad%20%28134%29/Az%20ellopott%20szazad%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Az%20ellopott%20szazad%20%28134%29/Az%20ellopott%20szazad%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [légió](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a9gi%c3%b3.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [akció és kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3%20%c3%a9s%20kaland.md)
@@ -421,11 +421,11 @@ Wardes csendbiztos gyanútlanul állt a folyóparton, mert a Húsos Farkas fegyv
 
 
 # <a name="id_140">Rejtő, Jenő: Egy bolond száz bajt csinál (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Egy%20bolond%20szaz%20bajt%20csinal%20%28140%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Egy%20bolond%20szaz%20bajt%20csinal%20%28140%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Egy%20bolond%20szaz%20bajt%20csinal%20%28140%29/Egy%20bolond%20szaz%20bajt%20csinal%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Egy%20bolond%20szaz%20bajt%20csinal%20%28140%29/Egy%20bolond%20szaz%20bajt%20csinal%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Egy%20bolond%20szaz%20bajt%20csinal%20%28140%29/Egy%20bolond%20szaz%20bajt%20csinal%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Egy%20bolond%20szaz%20bajt%20csinal%20%28140%29/Egy%20bolond%20szaz%20bajt%20csinal%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md), [family life](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/family%20life.md), [marriage & divorce](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/marriage%20%26%20divorce.md), [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [humorous](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humorous.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md)
@@ -436,11 +436,11 @@ Wardes csendbiztos gyanútlanul állt a folyóparton, mert a Húsos Farkas fegyv
 
 
 # <a name="id_143">Rejtő, Jenő: Jó üzlet a halál (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Jo%20uzlet%20a%20halal%20%28143%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Jo%20uzlet%20a%20halal%20%28143%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Jo%20uzlet%20a%20halal%20%28143%29/Jo%20uzlet%20a%20halal%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Jo%20uzlet%20a%20halal%20%28143%29/Jo%20uzlet%20a%20halal%20-%20Rejto%2C%20Jeno.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Jo%20uzlet%20a%20halal%20%28143%29/Jo%20uzlet%20a%20halal%20-%20Rejto%2C%20Jeno%20%28p.%20Howard%29.epub) 
+ [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rejto%2C%20Jeno%20%28p.%20Howard%29/Jo%20uzlet%20a%20halal%20%28143%29/Jo%20uzlet%20a%20halal%20-%20Rejto%2C%20Jeno.epub)
 
 ### Tagek
 [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [légió](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a9gi%c3%b3.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [akció és kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3%20%c3%a9s%20kaland.md)

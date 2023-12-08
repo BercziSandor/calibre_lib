@@ -1,5 +1,5 @@
 # <a name="id_1277">Robert Fulghum: Már lángolt, amikor ráfeküdtem (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Fulghum/Mar%20langolt%2C%20amikor%20rafekudtem%20%281277%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Fulghum/Mar%20langolt%2C%20amikor%20rafekudtem%20%281277%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [esszé](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/essz%c3%a9.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [pszichológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszichol%c3%b3gia.md)
@@ -10,10 +10,10 @@
 
 
 # <a name="id_1302">Robert Fulghum: Már az óvodában megtanultam mindent, amit tudni érdemes (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Fulghum/Mar%20az%20ovodaban%20megtanultam%20mindent%20%281302%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Fulghum/Mar%20az%20ovodaban%20megtanultam%20mindent%20%281302%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Fulghum/Mar%20az%20ovodaban%20megtanultam%20mindent%20%281302%29/Mar%20az%20ovodaban%20megtanultam%20min%20-%20Robert%20Fulghum.rtf)
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Fulghum/Mar%20az%20ovodaban%20megtanultam%20mindent%20%281302%29/Mar%20az%20ovodaban%20megtanultam%20min%20-%20Robert%20Fulghum.rtf)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [bölcsesség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c3%b6lcsess%c3%a9g.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [életfilozófia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letfiloz%c3%b3fia.md), [életmód](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letm%c3%b3d.md), [esszé](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/essz%c3%a9.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [önsegítő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6nseg%c3%adt%c5%91.md)

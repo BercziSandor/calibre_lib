@@ -1,8 +1,8 @@
 # <a name="id_585">Kormos, Anett: Dumaszínház (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kormos%2C%20Anett/Dumaszinhaz%20%28585%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kormos%2C%20Anett/Dumaszinhaz%20%28585%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Kormos%2C%20Anett/Dumaszinhaz%20%28585%29/Dumaszinhaz%20-%20Kormos%2C%20Anett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kormos%2C%20Anett/Dumaszinhaz%20%28585%29/Dumaszinhaz%20-%20Kormos%2C%20Anett.epub)
 
 ### Tagek
 [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [interjú](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/interj%c3%ba.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md)

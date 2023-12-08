@@ -98,70 +98,6 @@
       [
         "timestamp",
         false
-      ],
-      [
-        "pubdate",
-        true
-      ],
-      [
-        "series",
-        true
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "pubdate",
-        true
-      ],
-      [
-        "series",
-        true
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "pubdate",
-        true
-      ],
-      [
-        "#formats",
-        false
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "series",
-        true
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "timestamp",
-        false
       ]
     ],
     "column_positions": {
@@ -1034,7 +970,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1701353922.4753046,
+  "last_expired_trash_at": 1702019926.0132413,
   "virtual_libraries": {
     "kutya": "tags:\"=kutya\""
   }

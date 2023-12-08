@@ -1,8 +1,8 @@
 # <a name="id_1725">Cesar Millan: Hogyan neveljünk tökéletes kutyát (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Cesar%20Millan/Hogyan%20neveljunk%20tokeletes%20kutyat%20%281725%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Cesar%20Millan/Hogyan%20neveljunk%20tokeletes%20kutyat%20%281725%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Cesar%20Millan/Hogyan%20neveljunk%20tokeletes%20kutyat%20%281725%29/Hogyan%20neveljunk%20tokeletes%20kuty%20-%20Cesar%20Millan.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Cesar%20Millan/Hogyan%20neveljunk%20tokeletes%20kutyat%20%281725%29/Hogyan%20neveljunk%20tokeletes%20kuty%20-%20Cesar%20Millan.epub)
 
 ### Tagek
 [reference](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reference.md), [self help](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/self%20help.md), [adult](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/adult.md), [kutya](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kutya.md)

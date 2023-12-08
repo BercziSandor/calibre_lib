@@ -1,8 +1,8 @@
 # <a name="id_432">Meg Cabot: A neveletlen hercegnő naplója 1. (A neveletlen hercegnö naploja 1) (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/A%20neveletlen%20hercegno%20naploja%201_%20%28432%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Meg%20Cabot/A%20neveletlen%20hercegno%20naploja%201_%20%28432%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/A%20neveletlen%20hercegno%20naploja%201_%20%28432%29/A%20neveletlen%20hercegno%20naploja%201%20-%20Meg%20Cabot.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Meg%20Cabot/A%20neveletlen%20hercegno%20naploja%201_%20%28432%29/A%20neveletlen%20hercegno%20naploja%201%20-%20Meg%20Cabot.epub)
 
 ### Tagek
 [amerika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerika.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [az író származása szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/az%20%c3%adr%c3%b3%20sz%c3%a1rmaz%c3%a1sa%20szerint.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [regények](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9nyek.md), [gyermek- és ifjúsági irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek-%20%c3%a9s%20ifj%c3%bas%c3%a1gi%20irodalom.md), [lányregények](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a1nyreg%c3%a9nyek.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [tartalom szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tartalom%20szerint.md)
@@ -12,10 +12,10 @@
 
 
 # <a name="id_433">Meg Cabot: Reflektorfényben (A neveletlen hercegnö naploja 2) (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/Reflektorfenyben%20%28433%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Meg%20Cabot/Reflektorfenyben%20%28433%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/Reflektorfenyben%20%28433%29/Reflektorfenyben%20-%20Meg%20Cabot.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Meg%20Cabot/Reflektorfenyben%20%28433%29/Reflektorfenyben%20-%20Meg%20Cabot.epub)
 
 ### Tagek
 [lányregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a1nyreg%c3%a9ny.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [napló](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/napl%c3%b3.md), [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -25,10 +25,10 @@
 
 
 # <a name="id_434">Meg Cabot: A Szerelmes Hercegnő (A neveletlen hercegnö naploja 3) (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/A%20Szerelmes%20Hercegno%20%28434%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Meg%20Cabot/A%20Szerelmes%20Hercegno%20%28434%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/A%20Szerelmes%20Hercegno%20%28434%29/A%20Szerelmes%20Hercegno%20-%20Meg%20Cabot.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Meg%20Cabot/A%20Szerelmes%20Hercegno%20%28434%29/A%20Szerelmes%20Hercegno%20-%20Meg%20Cabot.epub)
 
 ### Tagek
 [lányregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a1nyreg%c3%a9ny.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [napló](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/napl%c3%b3.md), [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -38,10 +38,10 @@
 
 
 # <a name="id_435">Meg Cabot: Mia Genoviában (A neveletlen hercegnö naploja 4) (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/Mia%20Genoviaban%20%28435%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Meg%20Cabot/Mia%20Genoviaban%20%28435%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/Mia%20Genoviaban%20%28435%29/Mia%20Genoviaban%20-%20Meg%20Cabot.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Meg%20Cabot/Mia%20Genoviaban%20%28435%29/Mia%20Genoviaban%20-%20Meg%20Cabot.epub)
 
 ### Tagek
 [lányregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a1nyreg%c3%a9ny.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [napló](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/napl%c3%b3.md), [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -51,10 +51,10 @@
 
 
 # <a name="id_436">Meg Cabot: Talpig Rózsaszínben (A neveletlen hercegnö naploja 5) (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/Talpig%20Rozsaszinben%20%28436%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Meg%20Cabot/Talpig%20Rozsaszinben%20%28436%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/Talpig%20Rozsaszinben%20%28436%29/Talpig%20Rozsaszinben%20-%20Meg%20Cabot.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Meg%20Cabot/Talpig%20Rozsaszinben%20%28436%29/Talpig%20Rozsaszinben%20-%20Meg%20Cabot.epub)
 
 ### Tagek
 [lányregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a1nyreg%c3%a9ny.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [napló](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/napl%c3%b3.md), [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md)
@@ -64,10 +64,10 @@
 
 
 # <a name="id_437">Meg Cabot: Hajrá Hercegnő! (A neveletlen hercegnö naploja 6) (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/Hajra%20Hercegno%21%20%28437%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Meg%20Cabot/Hajra%20Hercegno%21%20%28437%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Meg%20Cabot/Hajra%20Hercegno%21%20%28437%29/Hajra%20Hercegno%21%20-%20Meg%20Cabot.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Meg%20Cabot/Hajra%20Hercegno%21%20%28437%29/Hajra%20Hercegno%21%20-%20Meg%20Cabot.epub)
 
 ### Tagek
 [lányregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a1nyreg%c3%a9ny.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [napló](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/napl%c3%b3.md), [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md)

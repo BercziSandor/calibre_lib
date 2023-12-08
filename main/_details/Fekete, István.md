@@ -1,8 +1,8 @@
 # <a name="id_121">Fekete, István: Tüskevár (Tüskevár 1) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Tuskevar%20%28121%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Tuskevar%20%28121%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Tuskevar%20%28121%29/Tuskevar%20-%20Fekete%2C%20Istvan.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Tuskevar%20%28121%29/Tuskevar%20-%20Fekete%2C%20Istvan.epub)
 
 ### Tagek
 [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [gyermek főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek%20f%c5%91szerepl%c5%91.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [természet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/term%c3%a9szet.md), [tartalom szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tartalom%20szerint.md), [állattörténetek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llatt%c3%b6rt%c3%a9netek.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [horgászat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horg%c3%a1szat.md), [állat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llat.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [gyermek- és ifjúsági irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek-%20%c3%a9s%20ifj%c3%bas%c3%a1gi%20irodalom.md), [fiútörténetek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fi%c3%bat%c3%b6rt%c3%a9netek.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [fejlődésregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fejl%c5%91d%c3%a9sreg%c3%a9ny.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [állatvilág](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llatvil%c3%a1g.md), [vadászat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vad%c3%a1szat.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [vakáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vak%c3%a1ci%c3%b3.md), [élővilág](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9l%c5%91vil%c3%a1g.md), [kollégiumok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/koll%c3%a9giumok.md), [regények](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9nyek.md), [1950-es évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1950-es%20%c3%a9vek.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [balaton](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/balaton.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [kötelező](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b6telez%c5%91.md), [az író származása szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/az%20%c3%adr%c3%b3%20sz%c3%a1rmaz%c3%a1sa%20szerint.md), [iskolák](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/iskol%c3%a1k.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md)
@@ -12,10 +12,10 @@ Egy vakáció története elvenedik meg a regény lapjain, mégpedig egy olyan v
 
 
 # <a name="id_267">Fekete, István: Téli berek (Tüskevár 2) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Teli%20berek%20%28267%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Teli%20berek%20%28267%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Teli%20berek%20%28267%29/Teli%20berek%20-%20Fekete%2C%20Istvan.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Teli%20berek%20%28267%29/Teli%20berek%20-%20Fekete%2C%20Istvan.epub)
 
 ### Tagek
 [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [horgászat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horg%c3%a1szat.md), [állat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llat.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [ifjúsági regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi%20reg%c3%a9ny.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [fejlődésregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fejl%c5%91d%c3%a9sreg%c3%a9ny.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [szünidő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%bcnid%c5%91.md), [állatvilág](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llatvil%c3%a1g.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [élővilág](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9l%c5%91vil%c3%a1g.md), [karácsony](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kar%c3%a1csony.md), [1950-es évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1950-es%20%c3%a9vek.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyarorsz%c3%a1g.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [kamasz főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kamasz%20f%c5%91szerepl%c5%91.md), [balaton](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/balaton.md), [nagy könyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nagy%20k%c3%b6nyv.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md)
@@ -25,10 +25,10 @@ Fekete István Tüskevárának olvasói bizonyára emlékeznek még Tutajos és 
 
 
 # <a name="id_122">Fekete, István: Kele / Vuk (1987)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Kele%20_%20Vuk%20%28122%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Kele%20_%20Vuk%20%28122%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Kele%20_%20Vuk%20%28122%29/Kele%20_%20Vuk%20-%20Fekete%2C%20Istvan.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Kele%20_%20Vuk%20%28122%29/Kele%20_%20Vuk%20-%20Fekete%2C%20Istvan.epub)
 
 ### Tagek
 [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [róka](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/r%c3%b3ka.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [tartalom szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tartalom%20szerint.md), [állattörténetek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llatt%c3%b6rt%c3%a9netek.md), [állat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llat.md), [gyermek- és ifjúsági irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek-%20%c3%a9s%20ifj%c3%bas%c3%a1gi%20irodalom.md), [gólya](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/g%c3%b3lya.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [állattörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llatt%c3%b6rt%c3%a9net.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [regények](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9nyek.md), [állat főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llat%20f%c5%91szerepl%c5%91.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [az író származása szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/az%20%c3%adr%c3%b3%20sz%c3%a1rmaz%c3%a1sa%20szerint.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md)
@@ -41,11 +41,11 @@ A rókavárban szuszog nyolc rókakölyök. Kag és Iny, az apa- és anyaróka g
 
 
 # <a name="id_731">Fekete, István: Karácsonyi látogatók (1989)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Karacsonyi%20latogatok%20%28731%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Karacsonyi%20latogatok%20%28731%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Karacsonyi%20latogatok%20%28731%29/Karacsonyi%20latogatok%20-%20Fekete%2C%20Istvan.epub) 
- [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Karacsonyi%20latogatok%20%28731%29/Karacsonyi%20latogatok%20-%20Fekete%2C%20Istvan.pdf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Karacsonyi%20latogatok%20%28731%29/Karacsonyi%20latogatok%20-%20Fekete%2C%20Istvan.epub) 
+ [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Karacsonyi%20latogatok%20%28731%29/Karacsonyi%20latogatok%20-%20Fekete%2C%20Istvan.pdf)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [karácsony](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kar%c3%a1csony.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyarorsz%c3%a1g.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md)
@@ -55,25 +55,25 @@ Olvadásszagú tavaszban hazalátogat szülőfalujába a már húsz éve távol 
 
 
 # <a name="id_727">Fekete, István: Derengő hajnal: regény (1994)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Derengo%20hajnal_%20regeny%20%28727%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Derengo%20hajnal_%20regeny%20%28727%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Derengo%20hajnal_%20regeny%20%28727%29/Derengo%20hajnal_%20regeny%20-%20Fekete%2C%20Istvan.epub) 
- [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Derengo%20hajnal_%20regeny%20%28727%29/Derengo%20hajnal_%20regeny%20-%20Fekete%2C%20Istvan.pdf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Derengo%20hajnal_%20regeny%20%28727%29/Derengo%20hajnal_%20regeny%20-%20Fekete%2C%20Istvan.epub) 
+ [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Derengo%20hajnal_%20regeny%20%28727%29/Derengo%20hajnal_%20regeny%20-%20Fekete%2C%20Istvan.pdf)
 
 # <a name="id_737">Fekete, István: Regi Karacsony: Elbeszelesek (Uj Ember Konyvek) (Hungarian Edition) (1995)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Regi%20Karacsony_%20Elbeszelesek%20%28Uj%20Em%20%28737%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Regi%20Karacsony_%20Elbeszelesek%20%28Uj%20Em%20%28737%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Regi%20Karacsony_%20Elbeszelesek%20%28Uj%20Em%20%28737%29/Regi%20Karacsony_%20Elbeszelesek%20%28U%20-%20Fekete%2C%20Istvan.epub) 
- [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Regi%20Karacsony_%20Elbeszelesek%20%28Uj%20Em%20%28737%29/Regi%20Karacsony_%20Elbeszelesek%20%28U%20-%20Fekete%2C%20Istvan.pdf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Regi%20Karacsony_%20Elbeszelesek%20%28Uj%20Em%20%28737%29/Regi%20Karacsony_%20Elbeszelesek%20%28U%20-%20Fekete%2C%20Istvan.epub) 
+ [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Regi%20Karacsony_%20Elbeszelesek%20%28Uj%20Em%20%28737%29/Regi%20Karacsony_%20Elbeszelesek%20%28U%20-%20Fekete%2C%20Istvan.pdf)
 
 # <a name="id_734">Fekete, István: Kittenberger Kálmán élete (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Kittenberger%20Kalman%20elete%20%28734%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Kittenberger%20Kalman%20elete%20%28734%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Kittenberger%20Kalman%20elete%20%28734%29/Kittenberger%20Kalman%20elete%20-%20Fekete%2C%20Istvan.epub) 
- [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Kittenberger%20Kalman%20elete%20%28734%29/Kittenberger%20Kalman%20elete%20-%20Fekete%2C%20Istvan.pdf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Kittenberger%20Kalman%20elete%20%28734%29/Kittenberger%20Kalman%20elete%20-%20Fekete%2C%20Istvan.epub) 
+ [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Kittenberger%20Kalman%20elete%20%28734%29/Kittenberger%20Kalman%20elete%20-%20Fekete%2C%20Istvan.pdf)
 
 ### Tagek
 [afrika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/afrika.md), [életrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letrajz.md), [expedíció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/exped%c3%adci%c3%b3.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ismeretterjeszt%c5%91.md), [kutatás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kutat%c3%a1s.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [oroszlán](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/oroszl%c3%a1n.md), [útleírás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%batle%c3%adr%c3%a1s.md), [vadászat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vad%c3%a1szat.md)
@@ -84,11 +84,11 @@ A regényes életrajz majd harminc év kalandjait beszéli el a vadász naplóje
 
 
 # <a name="id_733">Fekete, István: Képzelet és valóság (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Kepzelet%20es%20valosag%20%28733%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Kepzelet%20es%20valosag%20%28733%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Kepzelet%20es%20valosag%20%28733%29/Kepzelet%20es%20valosag%20-%20Fekete%2C%20Istvan.epub) 
- [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Kepzelet%20es%20valosag%20%28733%29/Kepzelet%20es%20valosag%20-%20Fekete%2C%20Istvan.pdf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Kepzelet%20es%20valosag%20%28733%29/Kepzelet%20es%20valosag%20-%20Fekete%2C%20Istvan.epub) 
+ [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Kepzelet%20es%20valosag%20%28733%29/Kepzelet%20es%20valosag%20-%20Fekete%2C%20Istvan.pdf)
 
 ### Tagek
 [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [válogatás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a1logat%c3%a1s.md)
@@ -98,10 +98,10 @@ Különleges kötetet vehet a kezébe a kedves Olvasó. A több mint harminc év
 
 
 # <a name="id_315">Fekete, István: 21 nap (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/21%20nap%20%28315%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/21%20nap%20%28315%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/21%20nap%20%28315%29/21%20nap%20-%20Fekete%2C%20Istvan.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/21%20nap%20%28315%29/21%20nap%20-%20Fekete%2C%20Istvan.epub)
 
 ### Tagek
 [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [további könyveink](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tov%c3%a1bbi%20k%c3%b6nyveink.md), [költői próza](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b6lt%c5%91i%20pr%c3%b3za.md), [tyúk](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ty%c3%bak.md), [háziállat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1zi%c3%a1llat.md), [állattörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llatt%c3%b6rt%c3%a9net.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [állat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llat.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md)
@@ -115,11 +115,11 @@ De elsősorban tudta ezt az öreg kocsi, amely rúd nélkül és három keréken
 
 
 # <a name="id_728">Fekete, István: Gyeplő nélkül (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Gyeplo%20nelkul%20%28728%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Gyeplo%20nelkul%20%28728%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Gyeplo%20nelkul%20%28728%29/Gyeplo%20nelkul%20-%20Fekete%2C%20Istvan.epub) 
- [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Gyeplo%20nelkul%20%28728%29/Gyeplo%20nelkul%20-%20Fekete%2C%20Istvan.pdf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Gyeplo%20nelkul%20%28728%29/Gyeplo%20nelkul%20-%20Fekete%2C%20Istvan.epub) 
+ [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Gyeplo%20nelkul%20%28728%29/Gyeplo%20nelkul%20-%20Fekete%2C%20Istvan.pdf)
 
 ### Tagek
 [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [életregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letreg%c3%a9ny.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md)
@@ -132,11 +132,11 @@ A Gyeplő nélkült is a manapság már nehezen beszerezhető első kiadás alap
 
 
 # <a name="id_724">Fekete, István: Ballagó idő (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Ballago%20ido%20%28724%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Ballago%20ido%20%28724%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Ballago%20ido%20%28724%29/Ballago%20ido%20-%20Fekete%2C%20Istvan.epub) 
- [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Ballago%20ido%20%28724%29/Ballago%20ido%20-%20Fekete%2C%20Istvan.pdf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Ballago%20ido%20%28724%29/Ballago%20ido%20-%20Fekete%2C%20Istvan.epub) 
+ [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Ballago%20ido%20%28724%29/Ballago%20ido%20-%20Fekete%2C%20Istvan.pdf)
 
 ### Tagek
 [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [gyermek és ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek%20%c3%a9s%20ifj%c3%bas%c3%a1gi.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [ifjúsági irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi%20irodalom.md), [önéletrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6n%c3%a9letrajz.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md)
@@ -146,11 +146,11 @@ A Gyeplő nélkült is a manapság már nehezen beszerezhető első kiadás alap
 
 
 # <a name="id_729">Fekete, István: Hajnal Badányban (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Hajnal%20Badanyban%20%28729%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Hajnal%20Badanyban%20%28729%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Hajnal%20Badanyban%20%28729%29/Hajnal%20Badanyban%20-%20Fekete%2C%20Istvan.epub) 
- [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Hajnal%20Badanyban%20%28729%29/Hajnal%20Badanyban%20-%20Fekete%2C%20Istvan.pdf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Hajnal%20Badanyban%20%28729%29/Hajnal%20Badanyban%20-%20Fekete%2C%20Istvan.epub) 
+ [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Hajnal%20Badanyban%20%28729%29/Hajnal%20Badanyban%20-%20Fekete%2C%20Istvan.pdf)
 
 ### Tagek
 [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [tél](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a9l.md), [természet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/term%c3%a9szet.md), [ősz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c5%91sz.md), [ifjúsági irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi%20irodalom.md), [nyár](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ny%c3%a1r.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [betyár](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bety%c3%a1r.md), [tavasz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tavasz.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [gyermek és ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek%20%c3%a9s%20ifj%c3%bas%c3%a1gi.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [19. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/19.%20sz%c3%a1zad.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md)
@@ -161,11 +161,11 @@ A természet fenséges panorámája környezi a fiatalok romantikus szerelmét, 
 
 
 # <a name="id_736">Fekete, István: Őszi vásár (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Oszi%20vasar%20%28736%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Oszi%20vasar%20%28736%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Oszi%20vasar%20%28736%29/Oszi%20vasar%20-%20Fekete%2C%20Istvan.epub) 
- [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Oszi%20vasar%20%28736%29/Oszi%20vasar%20-%20Fekete%2C%20Istvan.pdf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Oszi%20vasar%20%28736%29/Oszi%20vasar%20-%20Fekete%2C%20Istvan.epub) 
+ [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Oszi%20vasar%20%28736%29/Oszi%20vasar%20-%20Fekete%2C%20Istvan.pdf)
 
 ### Tagek
 [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [természet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/term%c3%a9szet.md), [ősz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c5%91sz.md), [magyar társadalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20t%c3%a1rsadalom.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [gyermekkor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekkor.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [vadászat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vad%c3%a1szat.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyarorsz%c3%a1g.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [gyász](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gy%c3%a1sz.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [szeretet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szeretet.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md)
@@ -175,11 +175,11 @@ Az Őszi vásár, az író, Fekete István által összeállított novellásköt
 
 
 # <a name="id_723">Fekete, István: A koppányi aga testamentuma (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/A%20koppanyi%20aga%20testamentuma%20%28723%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/A%20koppanyi%20aga%20testamentuma%20%28723%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/A%20koppanyi%20aga%20testamentuma%20%28723%29/A%20koppanyi%20aga%20testamentuma%20-%20Fekete%2C%20Istvan.epub) 
- [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/A%20koppanyi%20aga%20testamentuma%20%28723%29/A%20koppanyi%20aga%20testamentuma%20-%20Fekete%2C%20Istvan.pdf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/A%20koppanyi%20aga%20testamentuma%20%28723%29/A%20koppanyi%20aga%20testamentuma%20-%20Fekete%2C%20Istvan.epub) 
+ [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/A%20koppanyi%20aga%20testamentuma%20%28723%29/A%20koppanyi%20aga%20testamentuma%20-%20Fekete%2C%20Istvan.pdf)
 
 ### Tagek
 [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [török világ](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6r%c3%b6k%20vil%c3%a1g.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [ifjúsági irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi%20irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [16. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/16.%20sz%c3%a1zad.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [gyermek és ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek%20%c3%a9s%20ifj%c3%bas%c3%a1gi.md), [balaton](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/balaton.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [kötelező](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b6telez%c5%91.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md)
@@ -189,11 +189,11 @@ Oglu aga, a koppányi vár ura párviadalban megöli Babocsai Gáspárt. Lászl�
 
 
 # <a name="id_730">Fekete, István: Hú (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Hu%20%28730%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Hu%20%28730%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Hu%20%28730%29/Hu%20-%20Fekete%2C%20Istvan.epub) 
- [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Hu%20%28730%29/Hu%20-%20Fekete%2C%20Istvan.pdf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Hu%20%28730%29/Hu%20-%20Fekete%2C%20Istvan.epub) 
+ [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Hu%20%28730%29/Hu%20-%20Fekete%2C%20Istvan.pdf)
 
 ### Tagek
 [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [vadászat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vad%c3%a1szat.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [2. világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/2.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [természet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/term%c3%a9szet.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [állattörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llatt%c3%b6rt%c3%a9net.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [madarak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/madarak.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [állat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llat.md), [állatvilág](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llatvil%c3%a1g.md), [állat főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llat%20f%c5%91szerepl%c5%91.md), [bagoly](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bagoly.md), [childrens](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/childrens.md)
@@ -203,11 +203,11 @@ A folyó fölött emelkedő magaspart barlangjaiban emberemlékezet óta baglyok
 
 
 # <a name="id_726">Fekete, István: Csí és más elbeszélések (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Csi%20es%20mas%20elbeszelesek%20%28726%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Csi%20es%20mas%20elbeszelesek%20%28726%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Csi%20es%20mas%20elbeszelesek%20%28726%29/Csi%20es%20mas%20elbeszelesek%20-%20Fekete%2C%20Istvan.epub) 
- [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Csi%20es%20mas%20elbeszelesek%20%28726%29/Csi%20es%20mas%20elbeszelesek%20-%20Fekete%2C%20Istvan.pdf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Csi%20es%20mas%20elbeszelesek%20%28726%29/Csi%20es%20mas%20elbeszelesek%20-%20Fekete%2C%20Istvan.epub) 
+ [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Csi%20es%20mas%20elbeszelesek%20%28726%29/Csi%20es%20mas%20elbeszelesek%20-%20Fekete%2C%20Istvan.pdf)
 
 ### Tagek
 [bagoly](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bagoly.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [gólya](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/g%c3%b3lya.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [ló](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%b3.md), [madarak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/madarak.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md)
@@ -217,11 +217,11 @@ Messze, Egyiptom földjén, a Nílus hullámai ringatta nádasok fölött megseb
 
 
 # <a name="id_735">Fekete, István: Lutra (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Lutra%20%28735%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Lutra%20%28735%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Lutra%20%28735%29/Lutra%20-%20Fekete%2C%20Istvan.epub) 
- [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Lutra%20%28735%29/Lutra%20-%20Fekete%2C%20Istvan.pdf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Lutra%20%28735%29/Lutra%20-%20Fekete%2C%20Istvan.epub) 
+ [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Lutra%20%28735%29/Lutra%20-%20Fekete%2C%20Istvan.pdf)
 
 ### Tagek
 [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [természet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/term%c3%a9szet.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [állat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llat.md), [ifjúsági irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi%20irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [állattörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llatt%c3%b6rt%c3%a9net.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [303 magyar regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/303%20magyar%20reg%c3%a9ny.md), [állatvilág](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llatvil%c3%a1g.md), [vidra](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vidra.md), [vadászat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vad%c3%a1szat.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [állat főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llat%20f%c5%91szerepl%c5%91.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [gyermek és ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek%20%c3%a9s%20ifj%c3%bas%c3%a1gi.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md)
@@ -231,10 +231,10 @@ Lutra, a pompás vidralegény, elhagyja vízalatti otthonát, kalandos vándorú
 
 
 # <a name="id_266">Fekete, István: Bogáncs (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Bogancs%20%28266%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Bogancs%20%28266%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Bogancs%20%28266%29/Bogancs%20-%20Fekete%2C%20Istvan.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Bogancs%20%28266%29/Bogancs%20-%20Fekete%2C%20Istvan.epub)
 
 ### Tagek
 [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [állat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llat.md), [ifjúsági irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi%20irodalom.md), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [öregedés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6reged%c3%a9s.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [állattörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llatt%c3%b6rt%c3%a9net.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [kutya](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kutya.md), [cirkusz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cirkusz.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [állat főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llat%20f%c5%91szerepl%c5%91.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [utazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/utaz%c3%a1s.md), [háziállat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1zi%c3%a1llat.md), [gyermek és ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek%20%c3%a9s%20ifj%c3%bas%c3%a1gi.md), [kötelező](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b6telez%c5%91.md), [nagy könyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nagy%20k%c3%b6nyv.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md)
@@ -244,11 +244,11 @@ Fekete István regényének hőse Bogáncs, a filmről is ismert, hányatott él
 
 
 # <a name="id_741">Fekete, István: Zsellérek (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Zsellerek%20%28741%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Zsellerek%20%28741%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Zsellerek%20%28741%29/Zsellerek%20-%20Fekete%2C%20Istvan.epub) 
- [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Fekete%2C%20Istvan/Zsellerek%20%28741%29/Zsellerek%20-%20Fekete%2C%20Istvan.pdf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Zsellerek%20%28741%29/Zsellerek%20-%20Fekete%2C%20Istvan.epub) 
+ [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Zsellerek%20%28741%29/Zsellerek%20-%20Fekete%2C%20Istvan.pdf)
 
 ### Tagek
 [1. világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [1910-es évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1910-es%20%c3%a9vek.md), [1920-as évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1920-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [budapest](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/budapest.md), [életregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letreg%c3%a9ny.md), [felnőtté válás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/feln%c5%91tt%c3%a9%20v%c3%a1l%c3%a1s.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [iskola](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/iskola.md), [kamasz főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kamasz%20f%c5%91szerepl%c5%91.md), [kamaszkor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kamaszkor.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyarorsz%c3%a1g.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)

@@ -1,8 +1,8 @@
 # <a name="id_621">Jean-Christophe Grangé: Bíbor folyók (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jean-Christophe%20Grange/Bibor%20folyok%20%28621%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jean-Christophe%20Grange/Bibor%20folyok%20%28621%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[prc](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jean-Christophe%20Grange/Bibor%20folyok%20%28621%29/Bibor%20folyok%20-%20Jean-Christophe%20Grange.prc)
+[prc](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jean-Christophe%20Grange/Bibor%20folyok%20%28621%29/Bibor%20folyok%20-%20Jean-Christophe%20Grange.prc)
 
 ### Tagek
 [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md)

@@ -1,8 +1,8 @@
 # <a name="id_983">Johanna Spyri: Heidi (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Johanna%20Spyri/Heidi%20%28983%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Johanna%20Spyri/Heidi%20%28983%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Johanna%20Spyri/Heidi%20%28983%29/Heidi%20-%20Johanna%20Spyri.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Johanna%20Spyri/Heidi%20%28983%29/Heidi%20-%20Johanna%20Spyri.epub)
 
 ### Tagek
 [átdolgozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1tdolgoz%c3%a1s.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [mese](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mese.md), [német szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9met%20szerz%c5%91.md), [svájci szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sv%c3%a1jci%20szerz%c5%91.md), [gyermek és ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek%20%c3%a9s%20ifj%c3%bas%c3%a1gi.md), [mesekönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mesek%c3%b6nyv.md)

@@ -1,8 +1,8 @@
 # <a name="id_1452">Salman Rushdie: Fúriadüh (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Salman%20Rushdie/Furiaduh%20%281452%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Salman%20Rushdie/Furiaduh%20%281452%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Salman%20Rushdie/Furiaduh%20%281452%29/Furiaduh%20-%20Salman%20Rushdie.azw3)
+[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Salman%20Rushdie/Furiaduh%20%281452%29/Furiaduh%20-%20Salman%20Rushdie.azw3)
 
 ### Tagek
 [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1001%20k%c3%b6nyv%20list%c3%a1n%20szerepel.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [indiai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/indiai%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [mágikus realizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gikus%20realizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [new york](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/new%20york.md)

@@ -1,8 +1,8 @@
 # <a name="id_953">James Ramsey Ullman: A Himalája fia (1963)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Ramsey%20Ullman/A%20Himalaja%20fia%20%28953%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Ramsey%20Ullman/A%20Himalaja%20fia%20%28953%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/James%20Ramsey%20Ullman/A%20Himalaja%20fia%20%28953%29/A%20Himalaja%20fia%20-%20James%20Ramsey%20Ullman.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Ramsey%20Ullman/A%20Himalaja%20fia%20%28953%29/A%20Himalaja%20fia%20-%20James%20Ramsey%20Ullman.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [hegymászás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hegym%c3%a1sz%c3%a1s.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [ázsia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1zsia.md), [nepál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nep%c3%a1l.md), [útleírás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%batle%c3%adr%c3%a1s.md), [életrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letrajz.md)

@@ -1,8 +1,8 @@
 # <a name="id_1215">Catherine Aird: Gyilkosság a kolostorban (1983)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Catherine%20Aird/Gyilkossag%20a%20kolostorban%20%281215%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Catherine%20Aird/Gyilkossag%20a%20kolostorban%20%281215%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Catherine%20Aird/Gyilkossag%20a%20kolostorban%20%281215%29/Gyilkossag%20a%20kolostorban%20-%20Catherine%20Aird.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Catherine%20Aird/Gyilkossag%20a%20kolostorban%20%281215%29/Gyilkossag%20a%20kolostorban%20-%20Catherine%20Aird.epub)
 
 ### Tagek
 [angol](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md)

@@ -1,8 +1,8 @@
 # <a name="id_819">Daniel Silva: Az angol bérgyilkos (Gabriel Allon 2) (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/Az%20angol%20bergyilkos%20%28819%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Az%20angol%20bergyilkos%20%28819%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/Az%20angol%20bergyilkos%20%28819%29/Az%20angol%20bergyilkos%20-%20Daniel%20Silva.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Az%20angol%20bergyilkos%20%28819%29/Az%20angol%20bergyilkos%20-%20Daniel%20Silva.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [kémregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%a9mreg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [moszad](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/moszad.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [titkosszolgálat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/titkosszolg%c3%a1lat.md)
@@ -12,10 +12,10 @@ A Hidegvérrel és más népszerű regények írója ezúttal is a titkosszolgá
 
 
 # <a name="id_818">Daniel Silva: Az utolsó esély (Gabriel Allon 4) (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/Az%20utolso%20esely%20%28818%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Az%20utolso%20esely%20%28818%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/Az%20utolso%20esely%20%28818%29/Az%20utolso%20esely%20-%20Daniel%20Silva.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Az%20utolso%20esely%20%28818%29/Az%20utolso%20esely%20-%20Daniel%20Silva.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [bécs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c3%a9cs.md), [kémregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%a9mreg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [moszad](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/moszad.md), [politika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/politika.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [titkosszolgálat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/titkosszolg%c3%a1lat.md)
@@ -25,10 +25,10 @@ A gyóntatóban már megismerhettük Gabriel Allont, az izraeli titkosügynökö
 
 
 # <a name="id_808">Daniel Silva: A bosszú (Gabriel Allon 5) (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/A%20bosszu%20%28808%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20bosszu%20%28808%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/A%20bosszu%20%28808%29/A%20bosszu%20-%20Daniel%20Silva.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20bosszu%20%28808%29/A%20bosszu%20-%20Daniel%20Silva.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [kémregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%a9mreg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [moszad](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/moszad.md), [politika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/politika.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [titkosszolgálat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/titkosszolg%c3%a1lat.md)
@@ -38,10 +38,10 @@ Gabriel Allont Velencében éri a szörnyű hír: Rómában terroristák robbant
 
 
 # <a name="id_811">Daniel Silva: A Moszad ügynöke a Vatikánban (Gabriel Allon 6) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/A%20Moszad%20ugynoke%20a%20Vatikanban%20%28811%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20a%20Vatikanban%20%28811%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/A%20Moszad%20ugynoke%20a%20Vatikanban%20%28811%29/A%20Moszad%20ugynoke%20a%20Vatikanban%20-%20Daniel%20Silva.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20a%20Vatikanban%20%28811%29/A%20Moszad%20ugynoke%20a%20Vatikanban%20-%20Daniel%20Silva.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [kémregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%a9mreg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [moszad](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/moszad.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [titkosszolgálat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/titkosszolg%c3%a1lat.md)
@@ -52,10 +52,10 @@ Londonban megölnek egy feltételezett al-Kaida tagot, akinél az izraeli titkos
 
 
 # <a name="id_810">Daniel Silva: A Moszad ügynöke (Gabriel Allon 7) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/A%20Moszad%20ugynoke%20%28810%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20%28810%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/A%20Moszad%20ugynoke%20%28810%29/A%20Moszad%20ugynoke%20-%20Daniel%20Silva.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20%28810%29/A%20Moszad%20ugynoke%20-%20Daniel%20Silva.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [kémregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%a9mreg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [moszad](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/moszad.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [titkosszolgálat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/titkosszolg%c3%a1lat.md)
@@ -71,10 +71,10 @@ Daniel Silva korunk egyik legnagyobb kémregényírója John le Carré és Ian F
 
 
 # <a name="id_814">Daniel Silva: A Moszad ügynöke Moszkvában (Gabriel Allon 8) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/A%20Moszad%20ugynoke%20Moszkvaban%20%28814%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20Moszkvaban%20%28814%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/A%20Moszad%20ugynoke%20Moszkvaban%20%28814%29/A%20Moszad%20ugynoke%20Moszkvaban%20-%20Daniel%20Silva.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20Moszkvaban%20%28814%29/A%20Moszad%20ugynoke%20Moszkvaban%20-%20Daniel%20Silva.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [kémregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%a9mreg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [moszad](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/moszad.md), [oroszország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/oroszorsz%c3%a1g.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [titkosszolgálat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/titkosszolg%c3%a1lat.md)
@@ -85,10 +85,10 @@ A volt KGB-ügynök Ivan Harkov a Szovjetunió romjaiból építette fel pénzü
 
 
 # <a name="id_813">Daniel Silva: A Moszad ügynöke és az oligarcha (Gabriel Allon 9) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/A%20Moszad%20ugynoke%20es%20az%20oligarcha%20%28813%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20es%20az%20oligarcha%20%28813%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/A%20Moszad%20ugynoke%20es%20az%20oligarcha%20%28813%29/A%20Moszad%20ugynoke%20es%20az%20oligarch%20-%20Daniel%20Silva.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20es%20az%20oligarcha%20%28813%29/A%20Moszad%20ugynoke%20es%20az%20oligarch%20-%20Daniel%20Silva.epub)
 
 ### Tagek
 [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [izrael](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/izrael.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [kémregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%a9mreg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [moszad](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/moszad.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [titkosszolgálat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/titkosszolg%c3%a1lat.md)
@@ -102,10 +102,10 @@ Daniel Silva, napjaink talán legnépszerűbb thrillerszerzője, feledhetetlen k
 
 
 # <a name="id_812">Daniel Silva: A Moszad ügynöke és a Rembrandt ügy (Gabriel Allon 10) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/A%20Moszad%20ugynoke%20es%20a%20Rembrandt%20ugy%20%28812%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20es%20a%20Rembrandt%20ugy%20%28812%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/A%20Moszad%20ugynoke%20es%20a%20Rembrandt%20ugy%20%28812%29/A%20Moszad%20ugynoke%20es%20a%20Rembrandt%20-%20Daniel%20Silva.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20es%20a%20Rembrandt%20ugy%20%28812%29/A%20Moszad%20ugynoke%20es%20a%20Rembrandt%20-%20Daniel%20Silva.epub)
 
 ### Tagek
 [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [kémregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%a9mreg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [moszad](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/moszad.md), [politika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/politika.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [titkosszolgálat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/titkosszolg%c3%a1lat.md)
@@ -120,10 +120,10 @@ Elizabeth Halton percei meg vannak számlálva; Allon versenyt fut az idővel, �
 
 
 # <a name="id_957">Daniel Silva: A rablás (Gabriel Allon 14) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/A%20rablas%20%28957%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20rablas%20%28957%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/A%20rablas%20%28957%29/A%20rablas%20-%20Daniel%20Silva.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20rablas%20%28957%29/A%20rablas%20-%20Daniel%20Silva.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [romance](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romance.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
@@ -134,10 +134,10 @@ Elizabeth Halton percei meg vannak számlálva; Allon versenyt fut az idővel, �
 
 
 # <a name="id_816">Daniel Silva: Bűnjel (Michael Osbourne 1) (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/Bunjel%20%28816%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Bunjel%20%28816%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/Bunjel%20%28816%29/Bunjel%20-%20Daniel%20Silva.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Bunjel%20%28816%29/Bunjel%20-%20Daniel%20Silva.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [kémregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%a9mreg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [titkosszolgálat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/titkosszolg%c3%a1lat.md)
@@ -147,30 +147,30 @@ Michael Osbourne-nak, a CIA Terroristaelhárító Központ vezető munkatársán
 
 
 # <a name="id_809">Daniel Silva: A Gyóntató - 2003 </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/A%20Gyontato%20-%202003%20%28809%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Gyontato%20-%202003%20%28809%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/A%20Gyontato%20-%202003%20%28809%29/A%20Gyontato%20-%202003%20-%20Daniel%20Silva.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Gyontato%20-%202003%20%28809%29/A%20Gyontato%20-%202003%20-%20Daniel%20Silva.epub)
 
 ### Összefoglalás
 <P>Daniel Silva új Gabriel Allon-regénye, a szerzőtől megszokott elegáns stílusban, mesteri történetfűzéssel vezeti végig az olvasóit egy nem mindennapi európai körutazáson néhány súlyos, történelmi jelentőségű titok nyomában.</P>
 
 
 # <a name="id_817">Daniel Silva: Hidegvérrel - 2000 </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/Hidegverrel%20-%202000%20%28817%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Hidegverrel%20-%202000%20%28817%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/Hidegverrel%20-%202000%20%28817%29/Hidegverrel%20-%202000%20-%20Daniel%20Silva.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Hidegverrel%20-%202000%20%28817%29/Hidegverrel%20-%202000%20-%20Daniel%20Silva.epub)
 
 ### Összefoglalás
 A Hidegvérrel feszes, jól felépített regény egy hősről, akinek az a küldetés jutott, hogy elpusztítsa egy régi ellenségét és megóvja a nemzetközi békét.<BR>Gabriel Allon megbizatása egyszerű és kegyetlen: megtalálni Izrael terrorista ellenségeit és végezni velük. Amikor azonban felesége áldozatul esik a rá leselkedő veszélyeknek, felhagy munkájával és úgy dönt, hogy további életét képek restaurálásával tölti, amely eddig csak álcamunka volt számára, titkos küldetései során.<BR>Ari Shamron, az izraeli titkosszolgálat vezetője visszahívja Gabrielt, mert egy palesztin terrorakció meghiúsításához szüksége van a restaurátor sajátos tapasztalataira. A terrorakció célja: holtpontra juttatni a közel-keleti béketárgyalásokat. Az akció értelmi szerzője nem más, mint Tariq, a palesztin harcos, aki sajgó része Gabriel gyilkosságokkal teli múltjának. A történet élethű, lenyűgöző mellékszereplőket sorakoztat fel. Ilyen szereplő többek között a mágusszerű Ari Shamron, és egy megkapóan megmosolygtató londoni műkereskedő, vagy akár a szépséges francia zsidó fotómodell, aki bosszút akar állni a Holocaustban elhunyt családjáért.
 
 
 # <a name="id_815">Daniel Silva: Az időzített kém (1997)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/Az%20idozitett%20kem%20%28815%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Az%20idozitett%20kem%20%28815%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20Silva/Az%20idozitett%20kem%20%28815%29/Az%20idozitett%20kem%20-%20Daniel%20Silva.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Az%20idozitett%20kem%20%28815%29/Az%20idozitett%20kem%20-%20Daniel%20Silva.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1bor%c3%ba.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [kémregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%a9mreg%c3%a9ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [titkosszolgálat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/titkosszolg%c3%a1lat.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md)

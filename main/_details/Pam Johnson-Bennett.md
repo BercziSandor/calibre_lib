@@ -1,8 +1,8 @@
 # <a name="id_1438">Pam Johnson-Bennett: Gondolkodj macskául (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Pam%20Johnson-Bennett/Gondolkodj%20macskaul%20%281438%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Pam%20Johnson-Bennett/Gondolkodj%20macskaul%20%281438%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Pam%20Johnson-Bennett/Gondolkodj%20macskaul%20%281438%29/Gondolkodj%20macskaul%20-%20Pam%20Johnson-Bennett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Pam%20Johnson-Bennett/Gondolkodj%20macskaul%20%281438%29/Gondolkodj%20macskaul%20-%20Pam%20Johnson-Bennett.epub)
 
 ### Tagek
 [állattartás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llattart%c3%a1s.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ismeretterjeszt%c5%91.md), [macska](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/macska.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md)

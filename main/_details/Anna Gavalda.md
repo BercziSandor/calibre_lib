@@ -1,9 +1,9 @@
 # <a name="id_1427">Anna Gavalda: Kis kiruccanás (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Kis%20kiruccanas%20%281427%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Anna%20Gavalda/Kis%20kiruccanas%20%281427%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Kis%20kiruccanas%20%281427%29/Kis%20kiruccanas%20-%20Anna%20Gavalda.epub) 
- [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Kis%20kiruccanas%20%281427%29/Kis%20kiruccanas%20-%20Anna%20Gavalda.pdf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Anna%20Gavalda/Kis%20kiruccanas%20%281427%29/Kis%20kiruccanas%20-%20Anna%20Gavalda.epub) 
+ [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Anna%20Gavalda/Kis%20kiruccanas%20%281427%29/Kis%20kiruccanas%20-%20Anna%20Gavalda.pdf)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [család](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1d.md), [emberi sorsok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/emberi%20sorsok.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [kisregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kisreg%c3%a9ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szeretet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szeretet.md), [testvérek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/testv%c3%a9rek.md)
@@ -14,10 +14,10 @@
 
 
 # <a name="id_959">Anna Gavalda: Billie (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Billie%20%28959%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Anna%20Gavalda/Billie%20%28959%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Billie%20%28959%29/Billie%20-%20Anna%20Gavalda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Anna%20Gavalda/Billie%20%28959%29/Billie%20-%20Anna%20Gavalda.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [friendship](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/friendship.md), [coming of age](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/coming%20of%20age.md), [lgbt](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/lgbt.md), [gay](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gay.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md)
@@ -28,10 +28,10 @@
 
 
 # <a name="id_1306">Anna Gavalda: Együtt lehetnénk (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Egyutt%20lehetnenk%20%281306%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Anna%20Gavalda/Egyutt%20lehetnenk%20%281306%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Egyutt%20lehetnenk%20%281306%29/Egyutt%20lehetnenk%20-%20Anna%20Gavalda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Anna%20Gavalda/Egyutt%20lehetnenk%20%281306%29/Egyutt%20lehetnenk%20-%20Anna%20Gavalda.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [anorexia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anorexia.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [emberi sorsok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/emberi%20sorsok.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [franciaország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/franciaorsz%c3%a1g.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [lélekrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a9lekrajz.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [művészet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c5%b1v%c3%a9szet.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [öregedés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6reged%c3%a9s.md), [párizs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/p%c3%a1rizs.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [szeretet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szeretet.md), [társas kapcsolatok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1rsas%20kapcsolatok.md)
@@ -42,10 +42,10 @@
 
 
 # <a name="id_1308">Anna Gavalda: 35 kiló remény (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/35%20kilo%20remeny%20%281308%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Anna%20Gavalda/35%20kilo%20remeny%20%281308%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/35%20kilo%20remeny%20%281308%29/35%20kilo%20remeny%20-%20Anna%20Gavalda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Anna%20Gavalda/35%20kilo%20remeny%20%281308%29/35%20kilo%20remeny%20-%20Anna%20Gavalda.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [énregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9nreg%c3%a9ny.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [gyermekszemszög](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekszemsz%c3%b6g.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [kisregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kisreg%c3%a9ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -56,10 +56,10 @@
 
 
 # <a name="id_1305">Anna Gavalda: Csak azt szeretném, ha valaki várna rám valahol (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Csak%20azt%20szeretnem%2C%20ha%20valaki%20varna%20%281305%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Anna%20Gavalda/Csak%20azt%20szeretnem%2C%20ha%20valaki%20varna%20%281305%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Csak%20azt%20szeretnem%2C%20ha%20valaki%20varna%20%281305%29/Csak%20azt%20szeretnem%2C%20ha%20valaki%20v%20-%20Anna%20Gavalda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Anna%20Gavalda/Csak%20azt%20szeretnem%2C%20ha%20valaki%20varna%20%281305%29/Csak%20azt%20szeretnem%2C%20ha%20valaki%20v%20-%20Anna%20Gavalda.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [emberi sorsok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/emberi%20sorsok.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [párkapcsolat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/p%c3%a1rkapcsolat.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -70,10 +70,10 @@
 
 
 # <a name="id_15">Anna Gavalda: Vigaszág (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Vigaszag%20%2815%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Anna%20Gavalda/Vigaszag%20%2815%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Vigaszag%20%2815%29/Vigaszag%20-%20Anna%20Gavalda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Anna%20Gavalda/Vigaszag%20%2815%29/Vigaszag%20-%20Anna%20Gavalda.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [franciaország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/franciaorsz%c3%a1g.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [párizs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/p%c3%a1rizs.md), [párkapcsolat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/p%c3%a1rkapcsolat.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [francia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md)
@@ -84,10 +84,10 @@
 
 
 # <a name="id_1303">Anna Gavalda: Életre kelni (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Eletre%20kelni%20%281303%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Anna%20Gavalda/Eletre%20kelni%20%281303%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Eletre%20kelni%20%281303%29/Eletre%20kelni%20-%20Anna%20Gavalda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Anna%20Gavalda/Eletre%20kelni%20%281303%29/Eletre%20kelni%20-%20Anna%20Gavalda.epub)
 
 ### Tagek
 [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [betegség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/betegs%c3%a9g.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [franciaország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/franciaorsz%c3%a1g.md), [gyász](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gy%c3%a1sz.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [házasság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1zass%c3%a1g.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [párizs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/p%c3%a1rizs.md), [terápia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ter%c3%a1pia.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md)
@@ -98,10 +98,10 @@
 
 
 # <a name="id_1304">Anna Gavalda: Szerettem őt (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Szerettem%20ot%20%281304%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Anna%20Gavalda/Szerettem%20ot%20%281304%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Anna%20Gavalda/Szerettem%20ot%20%281304%29/Szerettem%20ot%20-%20Anna%20Gavalda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Anna%20Gavalda/Szerettem%20ot%20%281304%29/Szerettem%20ot%20-%20Anna%20Gavalda.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [házasság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1zass%c3%a1g.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [párkapcsolat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/p%c3%a1rkapcsolat.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md)

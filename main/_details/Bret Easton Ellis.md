@@ -1,8 +1,8 @@
 # <a name="id_1446">Bret Easton Ellis: Amerikai psycho (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bret%20Easton%20Ellis/Amerikai%20Psycho%20%281446%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bret%20Easton%20Ellis/Amerikai%20Psycho%20%281446%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bret%20Easton%20Ellis/Amerikai%20Psycho%20%281446%29/Amerikai%20psycho%20-%20Bret%20Easton%20Ellis.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bret%20Easton%20Ellis/Amerikai%20Psycho%20%281446%29/Amerikai%20psycho%20-%20Bret%20Easton%20Ellis.epub)
 
 ### Tagek
 [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1001%20k%c3%b6nyv%20list%c3%a1n%20szerepel.md), [1980-as évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1980-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [antihős](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/antih%c5%91s.md), [bűnözés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c5%b1n%c3%b6z%c3%a9s.md), [erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/er%c5%91szak.md), [fekete humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fekete%20humor.md), [felnőtt tartalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/feln%c5%91tt%20tartalom.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [fogyasztói társadalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fogyaszt%c3%b3i%20t%c3%a1rsadalom.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [kult](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kult.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_1447">Bret Easton Ellis: Az informátorok (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bret%20Easton%20Ellis/Az%20informatorok%20%281447%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bret%20Easton%20Ellis/Az%20informatorok%20%281447%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bret%20Easton%20Ellis/Az%20informatorok%20%281447%29/Az%20informatorok%20-%20Bret%20Easton%20Ellis.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bret%20Easton%20Ellis/Az%20informatorok%20%281447%29/Az%20informatorok%20-%20Bret%20Easton%20Ellis.epub)
 
 ### Tagek
 [1980-as évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1980-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [kalifornia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalifornia.md), [los angeles](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/los%20angeles.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [minimalista próza](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/minimalista%20pr%c3%b3za.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [összetett regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6sszetett%20reg%c3%a9ny.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -27,10 +27,10 @@
 
 
 # <a name="id_1273">Bret Easton Ellis: Nullánál is kevesebb (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bret%20Easton%20Ellis/Nullanal%20is%20kevesebb%20%281273%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bret%20Easton%20Ellis/Nullanal%20is%20kevesebb%20%281273%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Bret%20Easton%20Ellis/Nullanal%20is%20kevesebb%20%281273%29/Nullanal%20is%20kevesebb%20-%20Bret%20Easton%20Ellis.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bret%20Easton%20Ellis/Nullanal%20is%20kevesebb%20%281273%29/Nullanal%20is%20kevesebb%20-%20Bret%20Easton%20Ellis.epub)
 
 ### Tagek
 [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1001%20k%c3%b6nyv%20list%c3%a1n%20szerepel.md), [1980-as évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1980-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [drog](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/drog.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [kalifornia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalifornia.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [los angeles](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/los%20angeles.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [minimalista próza](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/minimalista%20pr%c3%b3za.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [társadalomkritika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1rsadalomkritika.md)

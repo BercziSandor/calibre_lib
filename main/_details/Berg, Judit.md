@@ -1,8 +1,8 @@
 # <a name="id_467">Berg, Judit: Rumini (Rumini 1) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Rumini%20%28467%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Berg%2C%20Judit/Rumini%20%28467%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Rumini%20%28467%29/Rumini%20-%20Berg%2C%20Judit.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Berg%2C%20Judit/Rumini%20%28467%29/Rumini%20-%20Berg%2C%20Judit.epub)
 
 ### Tagek
 [ibby](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ibby.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [gyermek- és ifjúsági irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek-%20%c3%a9s%20ifj%c3%bas%c3%a1gi%20irodalom.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [gyermekkönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv.md), [mese](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mese.md)
@@ -41,10 +41,10 @@ bazárban is vásároljanak?</p></div>
 
 
 # <a name="id_567">Berg, Judit: Rumini Zúzmaragyarmaton (Rumini 2) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Rumini%20Zuzmaragyarmaton%20%28567%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Berg%2C%20Judit/Rumini%20Zuzmaragyarmaton%20%28567%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Rumini%20Zuzmaragyarmaton%20%28567%29/Rumini%20Zuzmaragyarmaton%20-%20Berg%2C%20Judit.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Berg%2C%20Judit/Rumini%20Zuzmaragyarmaton%20%28567%29/Rumini%20Zuzmaragyarmaton%20-%20Berg%2C%20Judit.epub)
 
 ### Tagek
 [állat főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llat%20f%c5%91szerepl%c5%91.md), [egér](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/eg%c3%a9r.md), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [hajó](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/haj%c3%b3.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [meseregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mesereg%c3%a9ny.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md)
@@ -55,10 +55,10 @@ bazárban is vásároljanak?</p></div>
 
 
 # <a name="id_570">Berg, Judit: Rumini és a négy jogar (Rumini 3) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Rumini%20es%20a%20negy%20jogar%20%28570%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Berg%2C%20Judit/Rumini%20es%20a%20negy%20jogar%20%28570%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Rumini%20es%20a%20negy%20jogar%20%28570%29/Rumini%20es%20a%20negy%20jogar%20-%20Berg%2C%20Judit.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Berg%2C%20Judit/Rumini%20es%20a%20negy%20jogar%20%28570%29/Rumini%20es%20a%20negy%20jogar%20-%20Berg%2C%20Judit.epub)
 
 ### Tagek
 [állat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llat.md), [állat főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llat%20f%c5%91szerepl%c5%91.md), [egér](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/eg%c3%a9r.md), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [hajó](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/haj%c3%b3.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [meseregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mesereg%c3%a9ny.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [utazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/utaz%c3%a1s.md)
@@ -69,19 +69,19 @@ bazárban is vásároljanak?</p></div>
 
 
 # <a name="id_479">Berg, Judit: Micsoda Idő! (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Micsoda%20Ido%21%20%28479%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Berg%2C%20Judit/Micsoda%20Ido%21%20%28479%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Micsoda%20Ido%21%20%28479%29/Micsoda%20Ido%21%20-%20Berg%2C%20Judit.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Berg%2C%20Judit/Micsoda%20Ido%21%20%28479%29/Micsoda%20Ido%21%20-%20Berg%2C%20Judit.epub)
 
 ### Tagek
 [gyermek- és ifjúsági irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek-%20%c3%a9s%20ifj%c3%bas%c3%a1gi%20irodalom.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [gyermek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [mese](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mese.md)
 
 # <a name="id_1274">Berg, Judit: Alma (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Alma%20%281274%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Berg%2C%20Judit/Alma%20%281274%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Berg%2C%20Judit/Alma%20%281274%29/Alma%20-%20Berg%2C%20Judit.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Berg%2C%20Judit/Alma%20%281274%29/Alma%20-%20Berg%2C%20Judit.epub)
 
 ### Tagek
 [sakk](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sakk.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md)

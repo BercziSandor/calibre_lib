@@ -1,8 +1,8 @@
 # <a name="id_1234">Náray, Tamás: Zarah (Zarah 1) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Naray%2C%20Tamas/Zarah%20%281234%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Naray%2C%20Tamas/Zarah%20%281234%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Naray%2C%20Tamas/Zarah%20%281234%29/Zarah%20-%20Naray%2C%20Tamas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Naray%2C%20Tamas/Zarah%20%281234%29/Zarah%20-%20Naray%2C%20Tamas.epub)
 
 ### Tagek
 [2. világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/2.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [családregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1dreg%c3%a9ny.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [zsidóság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/zsid%c3%b3s%c3%a1g.md), [család](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1d.md), [magyar](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_1233">Náray, Tamás: Zarah öröksége (Zarah 2) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Naray%2C%20Tamas/Zarah%20oroksege%20%281233%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Naray%2C%20Tamas/Zarah%20oroksege%20%281233%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Naray%2C%20Tamas/Zarah%20oroksege%20%281233%29/Zarah%20oroksege%20-%20Naray%2C%20Tamas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Naray%2C%20Tamas/Zarah%20oroksege%20%281233%29/Zarah%20oroksege%20-%20Naray%2C%20Tamas.epub)
 
 ### Tagek
 [családregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1dreg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [magyar](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar.md), [családtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1dt%c3%b6rt%c3%a9net.md)
@@ -26,10 +26,10 @@
 
 
 # <a name="id_1235">Náray, Tamás: Zarah álma (Zarah 3) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Naray%2C%20Tamas/Zarah%20alma%20%281235%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Naray%2C%20Tamas/Zarah%20alma%20%281235%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Naray%2C%20Tamas/Zarah%20alma%20%281235%29/Zarah%20alma%20-%20Naray%2C%20Tamas.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Naray%2C%20Tamas/Zarah%20alma%20%281235%29/Zarah%20alma%20-%20Naray%2C%20Tamas.epub)
 
 ### Tagek
 [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [családregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1dreg%c3%a9ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md)

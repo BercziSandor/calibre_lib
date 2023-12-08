@@ -1,8 +1,8 @@
 # <a name="id_1344">Szabó, Magda: Egy czitrom hajával (Szabó Magda ízei 2) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Egy%20czitrom%20hajaval%20%281344%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Egy%20czitrom%20hajaval%20%281344%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Egy%20czitrom%20hajaval%20%281344%29/Egy%20czitrom%20hajaval%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Egy%20czitrom%20hajaval%20%281344%29/Egy%20czitrom%20hajaval%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 [gasztronómia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gasztron%c3%b3mia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [recept](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/recept.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [szakácskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szak%c3%a1csk%c3%b6nyv.md)
@@ -13,20 +13,20 @@
 
 
 # <a name="id_1340">Szabó, Magda: A szemlélők </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/A%20szemlelok%20%281340%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/A%20szemlelok%20%281340%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/A%20szemlelok%20%281340%29/A%20szemlelok%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/A%20szemlelok%20%281340%29/A%20szemlelok%20-%20Szabo%2C%20Magda.epub)
 
 ### Összefoglalás
 <p>A szemlélők - ha úgy tetszik - voltaképpen szerelmes regény, ám egymásba szerető, ezúttal még csak nem is fiatal hősei nyugati és kelet-európai szemléletük következtében nem egyesíthetik életüket: a jelenkori Montague és Capulet csak olyan kurta időre állapodhatik meg egymás mellett, amennyire egy madár költöző útján pihenni ereszkedik alá a lomb közé. Persze nemcsak szerelmes regény. Nincsenek kipreparálható, elidegeníthető, csak önmagukban egyedül jelentkező érzelmek, minden mindennel összefügg. Ebben a könyvben is. <br>(Szabó Magda) </p>
 
 
 # <a name="id_1359">Szabó, Magda: Hullámok kergetése (1965)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Hullamok%20kergetese%20%281359%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Hullamok%20kergetese%20%281359%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Hullamok%20kergetese%20%281359%29/Hullamok%20kergetese%20-%20Szabo%2C%20Magda.pdf)
+[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Hullamok%20kergetese%20%281359%29/Hullamok%20kergetese%20-%20Szabo%2C%20Magda.pdf)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [esszé](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/essz%c3%a9.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/riport.md), [útleírás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%batle%c3%adr%c3%a1s.md)
@@ -37,10 +37,10 @@
 
 
 # <a name="id_463">Szabó, Magda: Pilátus (1965)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Pilatus%20%28463%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Pilatus%20%28463%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Pilatus%20%28463%29/Pilatus%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Pilatus%20%28463%29/Pilatus%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [további könyveink](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tov%c3%a1bbi%20k%c3%b6nyveink.md)
@@ -50,10 +50,10 @@
 
 
 # <a name="id_464">Szabó, Magda: Ókút (1976)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Okut%20%28464%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Okut%20%28464%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Okut%20%28464%29/Okut%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Okut%20%28464%29/Okut%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 [életrajzok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letrajzok.md), [költők](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b6lt%c5%91k.md), [írók](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%adr%c3%b3k.md), [visszaemlékezések](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/visszaeml%c3%a9kez%c3%a9sek.md)
@@ -63,10 +63,10 @@
 
 
 # <a name="id_476">Szabó, Magda: Megmaradt Szobotkának (1983)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Megmaradt%20Szobotkanak%20%28476%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Megmaradt%20Szobotkanak%20%28476%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Megmaradt%20Szobotkanak%20%28476%29/Megmaradt%20Szobotkanak%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Megmaradt%20Szobotkanak%20%28476%29/Megmaradt%20Szobotkanak%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 [az író származása szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/az%20%c3%adr%c3%b3%20sz%c3%a1rmaz%c3%a1sa%20szerint.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md)
@@ -76,10 +76,10 @@
 
 
 # <a name="id_1357">Szabó, Magda: Az ajtó (1987)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Az%20ajto%20%281357%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Az%20ajto%20%281357%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Az%20ajto%20%281357%29/Az%20ajto%20-%20Szabo%2C%20Magda.pdf)
+[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Az%20ajto%20%281357%29/Az%20ajto%20-%20Szabo%2C%20Magda.pdf)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [303 magyar regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/303%20magyar%20reg%c3%a9ny.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [emberi sorsok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/emberi%20sorsok.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [igaz történet alapján](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/igaz%20t%c3%b6rt%c3%a9net%20alapj%c3%a1n.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [lélektani](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a9lektani.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [nagy könyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nagy%20k%c3%b6nyv.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [vallás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vall%c3%a1s.md), [vallomásregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vallom%c3%a1sreg%c3%a9ny.md)
@@ -90,10 +90,10 @@
 
 
 # <a name="id_1338">Szabó, Magda: Abigél (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Abigel%20%281338%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Abigel%20%281338%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Abigel%20%281338%29/Abigel%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Abigel%20%281338%29/Abigel%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 [1940-es évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1940-es%20%c3%a9vek.md), [2. világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/2.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [diákélet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/di%c3%a1k%c3%a9let.md), [fiatalkor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiatalkor.md), [gyermekszemszög](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekszemsz%c3%b6g.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1bor%c3%ba.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [iskola](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/iskola.md), [kamasz főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kamasz%20f%c5%91szerepl%c5%91.md), [kirekesztés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kirekeszt%c3%a9s.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [kollégium](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/koll%c3%a9gium.md), [kötelező](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b6telez%c5%91.md), [középiskola](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b6z%c3%a9piskola.md), [lányregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a1nyreg%c3%a9ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md)
@@ -107,10 +107,10 @@
 
 
 # <a name="id_1337">Szabó, Magda: Születésnap (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Szuletesnap%20%281337%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Szuletesnap%20%281337%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Szuletesnap%20%281337%29/Szuletesnap%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Szuletesnap%20%281337%29/Szuletesnap%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [budapest](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/budapest.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [karácsony](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kar%c3%a1csony.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [lányregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a1nyreg%c3%a9ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyarorsz%c3%a1g.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md)
@@ -121,10 +121,10 @@
 
 
 # <a name="id_1341">Szabó, Magda: Liber Mortis (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Liber%20Mortis%20%281341%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Liber%20Mortis%20%281341%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Liber%20Mortis%20%281341%29/Liber%20Mortis%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Liber%20Mortis%20%281341%29/Liber%20Mortis%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [napló](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/napl%c3%b3.md), [posztumusz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/posztumusz.md)
@@ -135,10 +135,10 @@
 
 
 # <a name="id_1356">Szabó, Magda: Régimódi történet (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Regimodi%20tortenet%20%281356%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Regimodi%20tortenet%20%281356%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Regimodi%20tortenet%20%281356%29/Regimodi%20tortenet%20-%20Szabo%2C%20Magda.rtf)
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Regimodi%20tortenet%20%281356%29/Regimodi%20tortenet%20-%20Szabo%2C%20Magda.rtf)
 
 ### Tagek
 [1800-as évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1800-as%20%c3%a9vek.md), [19. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/19.%20sz%c3%a1zad.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [303 magyar regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/303%20magyar%20reg%c3%a9ny.md), [családregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1dreg%c3%a9ny.md), [családtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1dt%c3%b6rt%c3%a9net.md), [debrecen](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/debrecen.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1bor%c3%ba.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [nagy könyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nagy%20k%c3%b6nyv.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [nők](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91k.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [századforduló](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a1zadfordul%c3%b3.md), [szociográfia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szociogr%c3%a1fia.md)
@@ -149,10 +149,10 @@
 
 
 # <a name="id_1350">Szabó, Magda: A Danaida (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/A%20Danaida%20%281350%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/A%20Danaida%20%281350%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/A%20Danaida%20%281350%29/A%20Danaida%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/A%20Danaida%20%281350%29/A%20Danaida%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [emberi sorsok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/emberi%20sorsok.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [házasság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1zass%c3%a1g.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szülői szerep](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%bcl%c5%91i%20szerep.md)
@@ -163,7 +163,7 @@
 
 
 # <a name="id_1354">Szabó, Magda: Tündér Lala (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Tunder%20Lala%20%281354%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Tunder%20Lala%20%281354%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 [anyaság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anyas%c3%a1g.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [meseregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mesereg%c3%a9ny.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [tündér](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%bcnd%c3%a9r.md), [unikornis](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/unikornis.md), [varázslat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/var%c3%a1zslat.md), [varázsló](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/var%c3%a1zsl%c3%b3.md)
@@ -174,7 +174,7 @@
 
 
 # <a name="id_1352">Szabó, Magda: Álarcosbál (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Alarcosbal%20%281352%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Alarcosbal%20%281352%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 [1950-es évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1950-es%20%c3%a9vek.md), [2. világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/2.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1bor%c3%ba.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [iskola](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/iskola.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [lányregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a1nyreg%c3%a9ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szülői szerep](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%bcl%c5%91i%20szerep.md), [tanár](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tan%c3%a1r.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [váltott szemszög](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a1ltott%20szemsz%c3%b6g.md)
@@ -185,7 +185,7 @@
 
 
 # <a name="id_1353">Szabó, Magda: Katalin utca (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Katalin%20utca%20%281353%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Katalin%20utca%20%281353%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [emberi sorsok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/emberi%20sorsok.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1bor%c3%ba.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [lélektani](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a9lektani.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [váltott szemszög](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a1ltott%20szemsz%c3%b6g.md)
@@ -196,10 +196,10 @@
 
 
 # <a name="id_1348">Szabó, Magda: Az őz (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Az%20oz%20%281348%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Az%20oz%20%281348%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Az%20oz%20%281348%29/Az%20oz%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Az%20oz%20%281348%29/Az%20oz%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 [2. világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/2.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [állat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llat.md), [család](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1d.md), [emberi sorsok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/emberi%20sorsok.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [lélekrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a9lekrajz.md), [lélektani](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a9lektani.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [párkapcsolat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/p%c3%a1rkapcsolat.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [zsebkönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/zsebk%c3%b6nyv.md)
@@ -210,10 +210,10 @@
 
 
 # <a name="id_1347">Szabó, Magda: Freskó (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Fresko%20%281347%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Fresko%20%281347%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Fresko%20%281347%29/Fresko%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Fresko%20%281347%29/Fresko%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [család](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1d.md), [családregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1dreg%c3%a9ny.md), [emberi sorsok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/emberi%20sorsok.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [lélektani](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a9lektani.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [társas kapcsolatok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1rsas%20kapcsolatok.md), [váltott szemszög](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a1ltott%20szemsz%c3%b6g.md)
@@ -224,10 +224,10 @@
 
 
 # <a name="id_1339">Szabó, Magda: Für Elise (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Fur%20Elise%20%281339%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Fur%20Elise%20%281339%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Fur%20Elise%20%281339%29/Fur%20Elise%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Fur%20Elise%20%281339%29/Fur%20Elise%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [családregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1dreg%c3%a9ny.md), [énregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9nreg%c3%a9ny.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [nagy könyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nagy%20k%c3%b6nyv.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [testvérek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/testv%c3%a9rek.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [visszaemlékezés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/visszaeml%c3%a9kez%c3%a9s.md)
@@ -238,10 +238,10 @@
 
 
 # <a name="id_1346">Szabó, Magda: Mondják meg Zsófikának (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Mondjak%20meg%20Zsofikanak%20%281346%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Mondjak%20meg%20Zsofikanak%20%281346%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Mondjak%20meg%20Zsofikanak%20%281346%29/Mondjak%20meg%20Zsofikanak%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Mondjak%20meg%20Zsofikanak%20%281346%29/Mondjak%20meg%20Zsofikanak%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 [1950-es évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1950-es%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [budapest](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/budapest.md), [család](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1d.md), [gyász](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gy%c3%a1sz.md), [gyermekszemszög](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekszemsz%c3%b6g.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [iskola](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/iskola.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyarorsz%c3%a1g.md), [nyár](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ny%c3%a1r.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [örökbefogadás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6r%c3%b6kbefogad%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szünidő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%bcnid%c5%91.md)
@@ -252,10 +252,10 @@
 
 
 # <a name="id_1349">Szabó, Magda: Ókút (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Okut%20%281349%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Okut%20%281349%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Okut%20%281349%29/Okut%20-%20Szabo%2C%20Magda.rtf)
+[rtf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Okut%20%281349%29/Okut%20-%20Szabo%2C%20Magda.rtf)
 
 ### Tagek
 [1920-as évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1920-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [debrecen](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/debrecen.md), [életrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letrajz.md), [gyermekkor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekkor.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [kisgyermekkor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kisgyermekkor.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [memoár](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/memo%c3%a1r.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -266,10 +266,10 @@
 
 
 # <a name="id_1342">Szabó, Magda: Magdaléna (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Magdalena%20%281342%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Magdalena%20%281342%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Magdalena%20%281342%29/Magdalena%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Magdalena%20%281342%29/Magdalena%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 [bécs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c3%a9cs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [posztumusz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/posztumusz.md)
@@ -280,10 +280,10 @@
 
 
 # <a name="id_1343">Szabó, Magda: Zeusz küszöbén (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Zeusz%20kuszoben%20%281343%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Zeusz%20kuszoben%20%281343%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Zeusz%20kuszoben%20%281343%29/Zeusz%20kuszoben%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Zeusz%20kuszoben%20%281343%29/Zeusz%20kuszoben%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [görög](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/g%c3%b6r%c3%b6g.md), [görögország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/g%c3%b6r%c3%b6gorsz%c3%a1g.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [mitológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mitol%c3%b3gia.md), [útleírás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%batle%c3%adr%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md)
@@ -294,10 +294,10 @@
 
 
 # <a name="id_1345">Szabó, Magda: Csigaház (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Csigahaz%20%281345%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Csigahaz%20%281345%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Csigahaz%20%281345%29/Csigahaz%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Csigahaz%20%281345%29/Csigahaz%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 [1930-as évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1930-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [bécs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c3%a9cs.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [házasság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1zass%c3%a1g.md), [kisregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kisreg%c3%a9ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [posztumusz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/posztumusz.md)
@@ -308,10 +308,10 @@
 
 
 # <a name="id_1351">Szabó, Magda: Pilátus (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Pilatus%20%281351%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Pilatus%20%281351%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Szabo%2C%20Magda/Pilatus%20%281351%29/Pilatus%20-%20Szabo%2C%20Magda.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Pilatus%20%281351%29/Pilatus%20-%20Szabo%2C%20Magda.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [budapest](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/budapest.md), [családregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1dreg%c3%a9ny.md), [családtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1dt%c3%b6rt%c3%a9net.md), [emberi sorsok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/emberi%20sorsok.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyász](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gy%c3%a1sz.md), [gyógyfürdő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gy%c3%b3gyf%c3%bcrd%c5%91.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [lélektani](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a9lektani.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyarorsz%c3%a1g.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [öregedés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6reged%c3%a9s.md), [orvos](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orvos.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szülői szerep](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%bcl%c5%91i%20szerep.md)

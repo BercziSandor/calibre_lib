@@ -1,8 +1,8 @@
 # <a name="id_401">Hermann Hesse: Narziss és Goldmund (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hermann%20Hesse/Narziss%20es%20Goldmund%20%28401%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Hermann%20Hesse/Narziss%20es%20Goldmund%20%28401%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hermann%20Hesse/Narziss%20es%20Goldmund%20%28401%29/Narziss%20es%20Goldmund%20-%20Hermann%20Hesse.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Hermann%20Hesse/Narziss%20es%20Goldmund%20%28401%29/Narziss%20es%20Goldmund%20-%20Hermann%20Hesse.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [irodalmi nobel-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalmi%20nobel-d%c3%adj.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [középkor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b6z%c3%a9pkor.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [német szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9met%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [svájci szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sv%c3%a1jci%20szerz%c5%91.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_400">Hermann Hesse: A pusztai farkas (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hermann%20Hesse/A%20pusztai%20farkas%20%28400%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Hermann%20Hesse/A%20pusztai%20farkas%20%28400%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hermann%20Hesse/A%20pusztai%20farkas%20%28400%29/A%20pusztai%20farkas%20-%20Hermann%20Hesse.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Hermann%20Hesse/A%20pusztai%20farkas%20%28400%29/A%20pusztai%20farkas%20-%20Hermann%20Hesse.epub)
 
 ### Tagek
 [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1001%20k%c3%b6nyv%20list%c3%a1n%20szerepel.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [filozofikus regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filozofikus%20reg%c3%a9ny.md), [irodalmi nobel-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalmi%20nobel-d%c3%adj.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [mágikus realizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gikus%20realizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [német szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9met%20szerz%c5%91.md), [öngyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6ngyilkoss%c3%a1g.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [svájci szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sv%c3%a1jci%20szerz%c5%91.md)
@@ -27,10 +27,10 @@
 
 
 # <a name="id_399">Hermann Hesse: Demian (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hermann%20Hesse/Demian%20%28399%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Hermann%20Hesse/Demian%20%28399%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hermann%20Hesse/Demian%20%28399%29/Demian%20-%20Hermann%20Hesse.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Hermann%20Hesse/Demian%20%28399%29/Demian%20-%20Hermann%20Hesse.epub)
 
 ### Tagek
 [1. világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [fejlődésregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fejl%c5%91d%c3%a9sreg%c3%a9ny.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [filozofikus regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filozofikus%20reg%c3%a9ny.md), [gyermekkor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekkor.md), [gyermekszemszög](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekszemsz%c3%b6g.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [irodalmi nobel-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalmi%20nobel-d%c3%adj.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [német szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9met%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [svájci szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sv%c3%a1jci%20szerz%c5%91.md), [visszaemlékezés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/visszaeml%c3%a9kez%c3%a9s.md), [német](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9met.md), [nobel-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nobel-d%c3%adj.md), [filozófia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filoz%c3%b3fia.md)

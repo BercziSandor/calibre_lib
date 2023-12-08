@@ -1,14 +1,14 @@
 # <a name="id_1026">Ernest Hemingway: Novellák </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ernest%20Hemingway/Novellak%20%281026%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ernest%20Hemingway/Novellak%20%281026%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ernest%20Hemingway/Novellak%20%281026%29/Novellak%20-%20Ernest%20Hemingway.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ernest%20Hemingway/Novellak%20%281026%29/Novellak%20-%20Ernest%20Hemingway.epub)
 
 # <a name="id_1196">Ernest Hemingway: Akiért a harang szól (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ernest%20Hemingway/Akiert%20a%20harang%20szol%20%281196%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ernest%20Hemingway/Akiert%20a%20harang%20szol%20%281196%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ernest%20Hemingway/Akiert%20a%20harang%20szol%20%281196%29/Akiert%20a%20harang%20szol%20-%20Ernest%20Hemingway.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ernest%20Hemingway/Akiert%20a%20harang%20szol%20%281196%29/Akiert%20a%20harang%20szol%20-%20Ernest%20Hemingway.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [literary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literary.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md)
@@ -19,10 +19,10 @@
 
 
 # <a name="id_1025">Ernest Hemingway: Az öreg halász és a tenger (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ernest%20Hemingway/Az%20oreg%20halasz%20es%20a%20tenger%20%281025%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ernest%20Hemingway/Az%20oreg%20halasz%20es%20a%20tenger%20%281025%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Ernest%20Hemingway/Az%20oreg%20halasz%20es%20a%20tenger%20%281025%29/Az%20oreg%20halasz%20es%20a%20tenger%20-%20Ernest%20Hemingway.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ernest%20Hemingway/Az%20oreg%20halasz%20es%20a%20tenger%20%281025%29/Az%20oreg%20halasz%20es%20a%20tenger%20-%20Ernest%20Hemingway.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [literary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literary.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md)

@@ -1,8 +1,8 @@
 # <a name="id_526">Murakami Haruki: Birkakergető nagy kaland (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Murakami%20Haruki/Birkakergeto%20nagy%20kaland%20%28526%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Murakami%20Haruki/Birkakergeto%20nagy%20kaland%20%28526%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Murakami%20Haruki/Birkakergeto%20nagy%20kaland%20%28526%29/Birkakergeto%20nagy%20kaland%20-%20Murakami%20Haruki.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Murakami%20Haruki/Birkakergeto%20nagy%20kaland%20%28526%29/Birkakergeto%20nagy%20kaland%20-%20Murakami%20Haruki.epub)
 
 ### Tagek
 [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [bűnügyi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c5%b1n%c3%bcgyi.md)
@@ -12,10 +12,10 @@
 
 
 # <a name="id_471">Murakami Haruki: Miről beszélek, amikor futásról beszélek? (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Murakami%20Haruki/Mirol%20beszelek%2C%20amikor%20futasrol%20beszelek_%20%28471%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Murakami%20Haruki/Mirol%20beszelek%2C%20amikor%20futasrol%20beszelek_%20%28471%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Murakami%20Haruki/Mirol%20beszelek%2C%20amikor%20futasrol%20beszelek_%20%28471%29/Mirol%20beszelek%2C%20amikor%20futasrol%20-%20Murakami%20Haruki.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Murakami%20Haruki/Mirol%20beszelek%2C%20amikor%20futasrol%20beszelek_%20%28471%29/Mirol%20beszelek%2C%20amikor%20futasrol%20-%20Murakami%20Haruki.epub)
 
 ### Tagek
 [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [életrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letrajz.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md)

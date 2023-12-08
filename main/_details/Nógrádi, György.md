@@ -1,8 +1,8 @@
 # <a name="id_991">Nógrádi, György: 40 év alatt a Föld körül (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nogradi%2C%20Gyorgy/40%20ev%20alatt%20a%20Fold%20korul%20%28991%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Nogradi%2C%20Gyorgy/40%20ev%20alatt%20a%20Fold%20korul%20%28991%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Nogradi%2C%20Gyorgy/40%20ev%20alatt%20a%20Fold%20korul%20%28991%29/40%20ev%20alatt%20a%20Fold%20korul%20-%20Nogradi%2C%20Gyorgy.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Nogradi%2C%20Gyorgy/40%20ev%20alatt%20a%20Fold%20korul%20%28991%29/40%20ev%20alatt%20a%20Fold%20korul%20-%20Nogradi%2C%20Gyorgy.epub)
 
 ### Tagek
 [biography & autobiography](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/biography%20%26%20autobiography.md), [életrajzok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letrajzok.md), [visszaemlékezések](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/visszaeml%c3%a9kez%c3%a9sek.md), [önéletrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6n%c3%a9letrajz.md)

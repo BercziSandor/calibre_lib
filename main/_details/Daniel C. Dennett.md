@@ -1,8 +1,8 @@
 # <a name="id_631">Daniel C. Dennett: Micsoda elmék (1996)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20C.%20Dennett/Micsoda%20elmek%20%28631%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20C.%20Dennett/Micsoda%20elmek%20%28631%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Daniel%20C.%20Dennett/Micsoda%20elmek%20%28631%29/Micsoda%20elmek%20-%20Daniel%20C.%20Dennett.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20C.%20Dennett/Micsoda%20elmek%20%28631%29/Micsoda%20elmek%20-%20Daniel%20C.%20Dennett.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [filozófia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filoz%c3%b3fia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [tudományfilozófia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tudom%c3%a1nyfiloz%c3%b3fia.md)

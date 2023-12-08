@@ -1,8 +1,8 @@
 # <a name="id_788">Karin Slaughter: Nadragulya (Grant County 1) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karin%20Slaughter/Nadragulya%20%28788%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Karin%20Slaughter/Nadragulya%20%28788%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karin%20Slaughter/Nadragulya%20%28788%29/Nadragulya%20-%20Karin%20Slaughter.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Karin%20Slaughter/Nadragulya%20%28788%29/Nadragulya%20-%20Karin%20Slaughter.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [georgia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/georgia.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [igazságügyi orvosszakértő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/igazs%c3%a1g%c3%bcgyi%20orvosszak%c3%a9rt%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [orvos](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orvos.md), [pszicho-thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszicho-thriller.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozatgyilkoss%c3%a1g.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [bûnügyi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c3%bbn%c3%bcgyi.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -13,10 +13,10 @@
 
 
 # <a name="id_599">Karin Slaughter: Bőr (Grant County 6) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karin%20Slaughter/Bor%20%28599%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Karin%20Slaughter/Bor%20%28599%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karin%20Slaughter/Bor%20%28599%29/Bor%20-%20Karin%20Slaughter.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Karin%20Slaughter/Bor%20%28599%29/Bor%20-%20Karin%20Slaughter.epub)
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [detektívtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/detekt%c3%advt%c3%b6rt%c3%a9net.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [bűnügyi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c5%b1n%c3%bcgyi.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -27,10 +27,10 @@
 
 
 # <a name="id_1488">Karin Slaughter: Összetörve (Will Trent 2) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karin%20Slaughter/Osszetorve%20%281488%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Karin%20Slaughter/Osszetorve%20%281488%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Karin%20Slaughter/Osszetorve%20%281488%29/Osszetorve%20-%20Karin%20Slaughter.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Karin%20Slaughter/Osszetorve%20%281488%29/Osszetorve%20-%20Karin%20Slaughter.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [crime](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/crime.md), [thrillers](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thrillers.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)

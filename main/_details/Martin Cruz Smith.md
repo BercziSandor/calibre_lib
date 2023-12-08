@@ -1,8 +1,8 @@
 # <a name="id_1214">Martin Cruz Smith: Gorkij Park (Arkagyij Renko 1) (1991)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Martin%20Cruz%20Smith/Gorkij%20Park%20%281214%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Martin%20Cruz%20Smith/Gorkij%20Park%20%281214%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Martin%20Cruz%20Smith/Gorkij%20Park%20%281214%29/Gorkij%20Park%20-%20Martin%20Cruz%20Smith.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Martin%20Cruz%20Smith/Gorkij%20Park%20%281214%29/Gorkij%20Park%20-%20Martin%20Cruz%20Smith.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [diktatúra](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diktat%c3%bara.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [oroszország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/oroszorsz%c3%a1g.md), [politikai krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/politikai%20krimi.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozatgyilkoss%c3%a1g.md), [szovjetunió](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szovjetuni%c3%b3.md)

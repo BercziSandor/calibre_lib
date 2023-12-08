@@ -1,8 +1,8 @@
 # <a name="id_751">Michael Crichton: Az Androméda-törzs (Androméda 1) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Az%20Andromeda-torzs%20%28751%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Az%20Andromeda-torzs%20%28751%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Az%20Andromeda-torzs%20%28751%29/Az%20Andromeda-torzs%20-%20Michael%20Crichton.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Az%20Andromeda-torzs%20%28751%29/Az%20Andromeda-torzs%20-%20Michael%20Crichton.epub)
 
 ### Tagek
 [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [járvány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/j%c3%a1rv%c3%a1ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [vírus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%adrus.md)
@@ -14,10 +14,10 @@ Michael Crichton ezzel a regénnyel új műfajt teremtett: a techno-thrillert. A
 
 
 # <a name="id_757">Michael Crichton: Őslénypark (Jurassic Park 1) (1993)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Oslenypark%20%28757%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Oslenypark%20%28757%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Oslenypark%20%28757%29/Oslenypark%20-%20Michael%20Crichton.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Oslenypark%20%28757%29/Oslenypark%20-%20Michael%20Crichton.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [costa rica](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/costa%20rica.md), [dinoszaurusz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dinoszaurusz.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [géntechnológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/g%c3%a9ntechnol%c3%b3gia.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [őskor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c5%91skor.md), [őslénytan](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c5%91sl%c3%a9nytan.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [sziget](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sziget.md), [váltott szemszög](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a1ltott%20szemsz%c3%b6g.md)
@@ -29,10 +29,10 @@ De hiába a számítógépes tervezés, a tökéletesnek hitt biztonsági rendsz
 
 
 # <a name="id_760">Michael Crichton: Szörnyek szigete (Jurassic Park 2) (1996)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Szornyek%20szigete%20%28760%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Szornyek%20szigete%20%28760%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Szornyek%20szigete%20%28760%29/Szornyek%20szigete%20-%20Michael%20Crichton.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Szornyek%20szigete%20%28760%29/Szornyek%20szigete%20-%20Michael%20Crichton.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [dinoszaurusz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dinoszaurusz.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [genetika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/genetika.md), [géntechnológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/g%c3%a9ntechnol%c3%b3gia.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [kutatás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kutat%c3%a1s.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [sziget](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sziget.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [tudományos](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tudom%c3%a1nyos.md), [váltott szemszög](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a1ltott%20szemsz%c3%b6g.md)
@@ -42,10 +42,10 @@ A gyerekek szeretik a dinoszauruszokat. És úgy tűnik mindnyájunkban él egy 
 
 
 # <a name="id_755">Michael Crichton: Ködsárkányok (1993)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Kodsarkanyok%20%28755%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Kodsarkanyok%20%28755%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Kodsarkanyok%20%28755%29/Kodsarkanyok%20-%20Michael%20Crichton.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Kodsarkanyok%20%28755%29/Kodsarkanyok%20-%20Michael%20Crichton.epub)
 
 ### Tagek
 [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/er%c5%91szak.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [fegyverek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fegyverek.md), [felnőtt tartalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/feln%c5%91tt%20tartalom.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [hajó](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/haj%c3%b3.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [harcosok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/harcosok.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [kannibalizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kannibalizmus.md), [középkor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b6z%c3%a9pkor.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [mitológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mitol%c3%b3gia.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [skandinávia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1via.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)
@@ -55,10 +55,10 @@ Kr. u. 922-ben a bagdadi kalifa követet küld a Béke Városából, hogy keljen
 
 
 # <a name="id_752">Michael Crichton: Az átprogramozott ember (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Az%20atprogramozott%20ember%20%28752%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Az%20atprogramozott%20ember%20%28752%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Az%20atprogramozott%20ember%20%28752%29/Az%20atprogramozott%20ember%20-%20Michael%20Crichton.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Az%20atprogramozott%20ember%20%28752%29/Az%20atprogramozott%20ember%20-%20Michael%20Crichton.epub)
 
 ### Tagek
 [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [akció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/akci%c3%b3.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -68,10 +68,10 @@ Kr. u. 922-ben a bagdadi kalifa követet küld a Béke Városából, hogy keljen
 
 
 # <a name="id_759">Michael Crichton: Repülő koporsó (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Repulo%20koporso%20%28759%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Repulo%20koporso%20%28759%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Repulo%20koporso%20%28759%29/Repulo%20koporso%20-%20Michael%20Crichton.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Repulo%20koporso%20%28759%29/Repulo%20koporso%20-%20Michael%20Crichton.epub)
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nyomozás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nyomoz%c3%a1s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [repülés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/rep%c3%bcl%c3%a9s.md), [repülő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/rep%c3%bcl%c5%91.md)
@@ -81,10 +81,10 @@ Kr. u. 922-ben a bagdadi kalifa követet küld a Béke Városából, hogy keljen
 
 
 # <a name="id_754">Michael Crichton: Idővonal (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Idovonal%20%28754%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Idovonal%20%28754%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Idovonal%20%28754%29/Idovonal%20-%20Michael%20Crichton.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Idovonal%20%28754%29/Idovonal%20-%20Michael%20Crichton.epub)
 
 ### Tagek
 [franciaország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/franciaorsz%c3%a1g.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1bor%c3%ba.md), [lovag](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/lovag.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [időutazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/id%c5%91utaz%c3%a1s.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [francia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [középkor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b6z%c3%a9pkor.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [14. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/14.%20sz%c3%a1zad.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -94,10 +94,10 @@ Ekkora hatalom eddig soha nem létezett, de most, a 21. század küszöbén, ami
 
 
 # <a name="id_758">Michael Crichton: Préda / Viharos szerelem / Hajsza Tokióban / Utcagyerekek (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Preda%20_%20Viharos%20szerelem%20_%20Hajsza%20T%20%28758%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Preda%20_%20Viharos%20szerelem%20_%20Hajsza%20T%20%28758%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Preda%20_%20Viharos%20szerelem%20_%20Hajsza%20T%20%28758%29/Preda%20_%20Viharos%20szerelem%20_%20Hajs%20-%20Michael%20Crichton.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Preda%20_%20Viharos%20szerelem%20_%20Hajsza%20T%20%28758%29/Preda%20_%20Viharos%20szerelem%20_%20Hajs%20-%20Michael%20Crichton.epub)
 
 ### Tagek
 [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1bor%c3%ba.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [kisregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kisreg%c3%a9ny.md), [olaszország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/olaszorsz%c3%a1g.md), [artificial life](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/artificial%20life.md), [nevada](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nevada.md), [molecular biologists](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/molecular%20biologists.md), [chick lit](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/chick%20lit.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
@@ -114,10 +114,10 @@ Lorenzo Carcaterra: Utcagyerekek
 
 
 # <a name="id_753">Michael Crichton: A Gömb (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/A%20gomb%20%28753%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/A%20gomb%20%28753%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/A%20gomb%20%28753%29/A%20Gomb%20-%20Michael%20Crichton.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/A%20gomb%20%28753%29/A%20Gomb%20-%20Michael%20Crichton.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md)
@@ -127,10 +127,10 @@ A Csendes-óceán déli részén, 300 méterrel a felszín alatt az amerikai had
 
 
 # <a name="id_756">Michael Crichton: Kongó (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Kongo%20%28756%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Kongo%20%28756%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Michael%20Crichton/Kongo%20%28756%29/Kongo%20-%20Michael%20Crichton.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Kongo%20%28756%29/Kongo%20-%20Michael%20Crichton.epub)
 
 ### Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md)

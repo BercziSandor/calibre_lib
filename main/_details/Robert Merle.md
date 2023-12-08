@@ -1,8 +1,8 @@
 # <a name="id_330">Robert Merle: Francia história (Francia história 1) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Francia%20historia%20%28330%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Francia%20historia%20%28330%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Francia%20historia%20%28330%29/Francia%20historia%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Francia%20historia%20%28330%29/Francia%20historia%20-%20Robert%20Merle.epub)
 
 ### Tagek
 [16. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/16.%20sz%c3%a1zad.md), [francia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [franciaország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/franciaorsz%c3%a1g.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md), [vallásháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vall%c3%a1sh%c3%a1bor%c3%ba.md), [világtörténelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vil%c3%a1gt%c3%b6rt%c3%a9nelem.md)
@@ -12,10 +12,10 @@ Valóságos ​írói rekordot állított fel a Magyarországon is rendkívül n
 
 
 # <a name="id_329">Robert Merle: Csikóéveink (Francia história 2) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Csikoeveink%20%28329%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Csikoeveink%20%28329%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Csikoeveink%20%28329%29/Csikoeveink%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Csikoeveink%20%28329%29/Csikoeveink%20-%20Robert%20Merle.epub)
 
 ### Tagek
 [16. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/16.%20sz%c3%a1zad.md), [francia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [franciaország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/franciaorsz%c3%a1g.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [vallásháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vall%c3%a1sh%c3%a1bor%c3%ba.md)
@@ -25,10 +25,10 @@ A ​XVI. századi Franciaországot, a hugenották viharos, vérzivataros száza
 
 
 # <a name="id_338">Robert Merle: Szenvedélyes szeretet (Francia história 5) (1993)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Szenvedelyes%20szeretet%20%28338%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Szenvedelyes%20szeretet%20%28338%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Szenvedelyes%20szeretet%20%28338%29/Szenvedelyes%20szeretet%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Szenvedelyes%20szeretet%20%28338%29/Szenvedelyes%20szeretet%20-%20Robert%20Merle.epub)
 
 ### Tagek
 [16. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/16.%20sz%c3%a1zad.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [francia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [király](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kir%c3%a1ly.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [párizs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/p%c3%a1rizs.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md), [vallásháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vall%c3%a1sh%c3%a1bor%c3%ba.md)
@@ -39,10 +39,10 @@ A történelmi és irodalmi fordulatokban bővelkedő, remekbe szabott, amúgy i
 
 
 # <a name="id_324">Robert Merle: A pirkadat (Francia história 6) (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/A%20pirkadat%20%28324%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/A%20pirkadat%20%28324%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/A%20pirkadat%20%28324%29/A%20pirkadat%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/A%20pirkadat%20%28324%29/A%20pirkadat%20-%20Robert%20Merle.epub)
 
 ### Tagek
 [16. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/16.%20sz%c3%a1zad.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [francia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [király](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kir%c3%a1ly.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [párizs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/p%c3%a1rizs.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [róma](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/r%c3%b3ma.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md)
@@ -52,10 +52,10 @@ A ​XVI. századi Franciaországot, a hugenották viharos, vérzivataros száza
 
 
 # <a name="id_332">Robert Merle: Libben a szoknya (Francia história 7) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Libben%20a%20szoknya%20%28332%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Libben%20a%20szoknya%20%28332%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Libben%20a%20szoknya%20%28332%29/Libben%20a%20szoknya%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Libben%20a%20szoknya%20%28332%29/Libben%20a%20szoknya%20-%20Robert%20Merle.epub)
 
 ### Tagek
 [17. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/17.%20sz%c3%a1zad.md), [francia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md)
@@ -65,10 +65,10 @@ A ​XVI. századi Franciaországot, a hugenották viharos, vérzivataros száza
 
 
 # <a name="id_323">Robert Merle: A gyermekkirály (Francia história 8) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/A%20gyermekkiraly%20%28323%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/A%20gyermekkiraly%20%28323%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/A%20gyermekkiraly%20%28323%29/A%20gyermekkiraly%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/A%20gyermekkiraly%20%28323%29/A%20gyermekkiraly%20-%20Robert%20Merle.epub)
 
 ### Tagek
 [17. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/17.%20sz%c3%a1zad.md), [francia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md)
@@ -84,10 +84,10 @@ A következő évek a hatalom megszerzéséről (a trónörökös), illetve anna
 
 
 # <a name="id_328">Robert Merle: Az élet rózsái (Francia história 9) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Az%20elet%20rozsai%20%28328%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Az%20elet%20rozsai%20%28328%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Az%20elet%20rozsai%20%28328%29/Az%20elet%20rozsai%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Az%20elet%20rozsai%20%28328%29/Az%20elet%20rozsai%20-%20Robert%20Merle.epub)
 
 ### Tagek
 [17. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/17.%20sz%c3%a1zad.md), [francia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md)
@@ -106,10 +106,10 @@ A válaszokat a következő részekben kapjuk meg, egyvalamiben azonban teljesen
 
 
 # <a name="id_333">Robert Merle: Liliom és bíbor (Francia história 10) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Liliom%20es%20bibor%20%28333%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Liliom%20es%20bibor%20%28333%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Liliom%20es%20bibor%20%28333%29/Liliom%20es%20bibor%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Liliom%20es%20bibor%20%28333%29/Liliom%20es%20bibor%20-%20Robert%20Merle.epub)
 
 ### Tagek
 [17. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/17.%20sz%c3%a1zad.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md)
@@ -132,10 +132,10 @@ A ​Magyarországon hallatlanul népszerű francia író, Robert Merle immáron
 
 
 # <a name="id_341">Robert Merle: Veszedelem és dicsőség (Francia história 11) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Veszedelem%20es%20dicsoseg%20%28341%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Veszedelem%20es%20dicsoseg%20%28341%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Veszedelem%20es%20dicsoseg%20%28341%29/Veszedelem%20es%20dicsoseg%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Veszedelem%20es%20dicsoseg%20%28341%29/Veszedelem%20es%20dicsoseg%20-%20Robert%20Merle.epub)
 
 ### Tagek
 [17. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/17.%20sz%c3%a1zad.md), [francia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md)
@@ -146,10 +146,10 @@ A ​XVI. és XVII. századi Franciaországot, a hugenották viharos, vérzivata
 
 
 # <a name="id_327">Robert Merle: Ármány és cselszövés (Francia história 12) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Armany%20es%20cselszoves%20%28327%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Armany%20es%20cselszoves%20%28327%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Armany%20es%20cselszoves%20%28327%29/Armany%20es%20cselszoves%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Armany%20es%20cselszoves%20%28327%29/Armany%20es%20cselszoves%20-%20Robert%20Merle.epub)
 
 ### Tagek
 [17. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/17.%20sz%c3%a1zad.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md)
@@ -160,10 +160,10 @@ A ​XVI. és XVII. századi Franciaországot, a hugenották viharos, vérzivata
 
 
 # <a name="id_337">Robert Merle: Pallos és szerelem (Francia história 13) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Pallos%20es%20szerelem%20%28337%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Pallos%20es%20szerelem%20%28337%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Pallos%20es%20szerelem%20%28337%29/Pallos%20es%20szerelem%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Pallos%20es%20szerelem%20%28337%29/Pallos%20es%20szerelem%20-%20Robert%20Merle.epub)
 
 ### Tagek
 [17. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/17.%20sz%c3%a1zad.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md)
@@ -173,10 +173,10 @@ A ​Francia história e tizenharmadik s egyben utolsó kötete hiszen Robert Me
 
 
 # <a name="id_1803">Robert Merle: Mesterségem a halál (1951)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Mestersegem%20a%20halal%20%281803%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Mestersegem%20a%20halal%20%281803%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Mestersegem%20a%20halal%20%281803%29/Mestersegem%20a%20halal%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Mestersegem%20a%20halal%20%281803%29/Mestersegem%20a%20halal%20-%20Robert%20Merle.epub)
 
 ### Tagek
 [history](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/history.md), [war](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/war.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [biography](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/biography.md)
@@ -187,10 +187,10 @@ A ​Francia história e tizenharmadik s egyben utolsó kötete hiszen Robert Me
 
 
 # <a name="id_331">Robert Merle: Két nap az élet (1961)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Ket%20nap%20az%20elet%20%28331%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Ket%20nap%20az%20elet%20%28331%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Ket%20nap%20az%20elet%20%28331%29/Ket%20nap%20az%20elet%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Ket%20nap%20az%20elet%20%28331%29/Ket%20nap%20az%20elet%20-%20Robert%20Merle.epub)
 
 ### Tagek
 [2. világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/2.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [franciaország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/franciaorsz%c3%a1g.md), [goncourt-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/goncourt-d%c3%adj.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1bor%c3%ba.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [lélektani](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a9lektani.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md)
@@ -200,10 +200,10 @@ Fülledt nyári szombat délután. Tengerkék ég, égszínkék tenger. Lustán 
 
 
 # <a name="id_334">Robert Merle: Madrapur (1981)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Madrapur%20%28334%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Madrapur%20%28334%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Madrapur%20%28334%29/Madrapur%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Madrapur%20%28334%29/Madrapur%20-%20Robert%20Merle.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [betegség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/betegs%c3%a9g.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [kommunikáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kommunik%c3%a1ci%c3%b3.md), [lélektani](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/l%c3%a9lektani.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [repülő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/rep%c3%bcl%c5%91.md), [szocializáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szocializ%c3%a1ci%c3%b3.md), [szociálpszichológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szoci%c3%a1lpszichol%c3%b3gia.md), [terrorizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/terrorizmus.md), [utazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/utaz%c3%a1s.md)
@@ -213,10 +213,10 @@ Fülledt nyári szombat délután. Tengerkék ég, égszínkék tenger. Lustán 
 
 
 # <a name="id_340">Robert Merle: Védett férfiak (1983)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Vedett%20ferfiak%20%28340%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Vedett%20ferfiak%20%28340%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Vedett%20ferfiak%20%28340%29/Vedett%20ferfiak%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Vedett%20ferfiak%20%28340%29/Vedett%20ferfiak%20-%20Robert%20Merle.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diszt%c3%b3pia.md), [feminizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/feminizmus.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [járvány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/j%c3%a1rv%c3%a1ny.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nagy könyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nagy%20k%c3%b6nyv.md), [nemi szerep](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nemi%20szerep.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [szexualitás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szexualit%c3%a1s.md), [társadalmi sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1rsadalmi%20sci-fi.md), [vírus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%adrus.md)
@@ -229,10 +229,10 @@ A járvány radikálisan átalakítja a társadalmat, s különösképpen a csal
 
 
 # <a name="id_325">Robert Merle: A sziget (1988)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/A%20sziget%20%28325%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/A%20sziget%20%28325%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/A%20sziget%20%28325%29/A%20sziget%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/A%20sziget%20%28325%29/A%20sziget%20-%20Robert%20Merle.epub)
 
 ### Tagek
 [18. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/18.%20sz%c3%a1zad.md), [csendes-óceán](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csendes-%c3%b3ce%c3%a1n.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diszt%c3%b3pia.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nagy könyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nagy%20k%c3%b6nyv.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sziget](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sziget.md)
@@ -242,10 +242,10 @@ A ​kitűnő, Goncourt-díjas francia írót ismeri és szereti a magyar olvas�
 
 
 # <a name="id_326">Robert Merle: Állati elmék (1993)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Allati%20elmek%20%28326%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Allati%20elmek%20%28326%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Allati%20elmek%20%28326%29/Allati%20elmek%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Allati%20elmek%20%28326%29/Allati%20elmek%20-%20Robert%20Merle.epub)
 
 ### Tagek
 [intelligencia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/intelligencia.md), [etológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/etol%c3%b3gia.md), [civil-katonai kapcsolatok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/civil-katonai%20kapcsolatok.md), [állat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llat.md), [florida](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/florida.md), [delfin](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/delfin.md), [general fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general%20fiction.md), [1970-es évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1970-es%20%c3%a9vek.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [állattörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llatt%c3%b6rt%c3%a9net.md), [katonaság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/katonas%c3%a1g.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1bor%c3%ba.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [dráma](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dr%c3%a1ma.md), [algéria](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/alg%c3%a9ria.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diszt%c3%b3pia.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1001%20k%c3%b6nyv%20list%c3%a1n%20szerepel.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md)
@@ -255,10 +255,10 @@ Robert Merle /sz. 1908/ Goncourt-díjas francia regény- és drámaíró, a legm
 
 
 # <a name="id_335">Robert Merle: Majomábécé (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Majomabece%20%28335%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Majomabece%20%28335%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Majomabece%20%28335%29/Majomabece%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Majomabece%20%28335%29/Majomabece%20-%20Robert%20Merle.epub)
 
 ### Tagek
 [állattörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llatt%c3%b6rt%c3%a9net.md), [biológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/biol%c3%b3gia.md), [etológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/etol%c3%b3gia.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ismeretterjeszt%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [majom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/majom.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [természettudomány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/term%c3%a9szettudom%c3%a1ny.md)
@@ -268,10 +268,10 @@ Egy etológus házaspár örökbe fogad egy csimpánzbébit, s úgy nevelik mint
 
 
 # <a name="id_339">Robert Merle: Üvegfal mögött (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Uvegfal%20mogott%20%28339%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Uvegfal%20mogott%20%28339%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Uvegfal%20mogott%20%28339%29/Uvegfal%20mogott%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Uvegfal%20mogott%20%28339%29/Uvegfal%20mogott%20-%20Robert%20Merle.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -281,10 +281,10 @@ A ​regény színhelye a nanterre-i egyetem „üvegfallal” körülvett, zár
 
 
 # <a name="id_322">Robert Merle: A bálvány (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/A%20balvany%20%28322%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/A%20balvany%20%28322%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/A%20balvany%20%28322%29/A%20balvany%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/A%20balvany%20%28322%29/A%20balvany%20-%20Robert%20Merle.epub)
 
 ### Tagek
 [16. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/16.%20sz%c3%a1zad.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [reneszánsz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/renesz%c3%a1nsz.md), [róma](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/r%c3%b3ma.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md), [történelmi romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20romantikus.md), [történelmi személy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20szem%c3%a9ly.md)
@@ -294,10 +294,10 @@ A ​bálványban Merle (akárcsak nagy történelmi regénysorozatában, a Fran
 
 
 # <a name="id_336">Robert Merle: Malevil (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Malevil%20%28336%29/cover.jpg" alt="cover" width="300"/>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Malevil%20%28336%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Robert%20Merle/Malevil%20%28336%29/Malevil%20-%20Robert%20Merle.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Merle/Malevil%20%28336%29/Malevil%20-%20Robert%20Merle.epub)
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [apokalipszis](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/apokalipszis.md), [atomháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/atomh%c3%a1bor%c3%ba.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diszt%c3%b3pia.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [franciaország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/franciaorsz%c3%a1g.md), [john w. campbell emlékdíj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/john%20w.%20campbell%20eml%c3%a9kd%c3%adj.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nagy könyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nagy%20k%c3%b6nyv.md), [posztapokaliptikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/posztapokaliptikus.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [utópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ut%c3%b3pia.md)
