@@ -6,7 +6,7 @@
  [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Stewart%20Brand/Amig%20vilag%20a%20vilag%20%281217%29/Amig%20vilag%20a%20vilag%20-%20Stewart%20Brand.rtf)
 
 ### Tagek
-[ismeretterjesztő](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/ismeretterjeszt%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [tudományos](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/tudom%c3%a1nyos.md)
+[ismeretterjesztő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ismeretterjeszt%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [tudományos](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tudom%c3%a1nyos.md)
 
 ### Összefoglalás
 <div>

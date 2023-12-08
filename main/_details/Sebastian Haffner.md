@@ -6,7 +6,7 @@
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Sebastian%20Haffne/A%20Nemet%20Birodalom%20het%20fobune%20az%20els%20%281445%29/A%20Nemet%20Birodalom%20het%20fobune%20az%20-%20Sebastian%20Haffner.epub)
 
 ### Tagek
-[20. század](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/20.%20sz%c3%a1zad.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [német szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/n%c3%a9met%20szerz%c5%91.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/t%c3%b6rt%c3%a9nelem.md)
+[20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [német szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9met%20szerz%c5%91.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md)
 
 ### Összefoglalás
 <div>

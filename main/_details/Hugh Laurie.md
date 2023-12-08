@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Hugh%20Laurie/A%20balek%20%28162%29/A%20balek%20-%20Hugh%20Laurie.epub)
 
 ### Tagek
-[fiction](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fiction.md), [humorous](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/humorous.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/general.md)
+[fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [humorous](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humorous.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md)
 
 ### Összefoglalás
 <div>

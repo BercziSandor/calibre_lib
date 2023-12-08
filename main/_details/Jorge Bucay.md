@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Jorge%20Bucay/Nyitott%20szemmel%20szeretni%20%28385%29/Nyitott%20szemmel%20szeretni%20-%20Jorge%20Bucay.epub)
 
 ### Tagek
-[argentin szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/argentin%20szerz%c5%91.md), [gestaltpszichológia](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/gestaltpszichol%c3%b3gia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reg%c3%a9ny.md), [párkapcsolat](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/p%c3%a1rkapcsolat.md), [argentína](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/argent%c3%adna.md)
+[argentin szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/argentin%20szerz%c5%91.md), [gestaltpszichológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gestaltpszichol%c3%b3gia.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [párkapcsolat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/p%c3%a1rkapcsolat.md), [argentína](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/argent%c3%adna.md)
 
 ### Összefoglalás
 <div>

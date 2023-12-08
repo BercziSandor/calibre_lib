@@ -5,7 +5,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Leanyrablas%20Budapesten%20%281572%29/Leanyrablas%20Budapesten%20-%20Boszormenyi%2C%20Gyula.epub)
 
 ### Tagek
-[krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/krimi.md)
+[krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
 
 ### Összefoglalás
 <div>
@@ -19,7 +19,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/A%20Rudnay-gyilkossagok%20%281573%29/A%20Rudnay-gyilkossagok%20-%20Boszormenyi%2C%20Gyula.epub)
 
 ### Tagek
-[krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/krimi.md)
+[krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
 
 ### Összefoglalás
 <div>
@@ -44,7 +44,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Armany%20%20es%20kezfogo%20%281565%29/Armany%20%20es%20kezfogo%20-%20Boszormenyi%2C%20Gyula.epub)
 
 ### Tagek
-[krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/krimi.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/romantikus.md), [magyar](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md)
+[krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [magyar](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md)
 
 ### Összefoglalás
 <div><div>A naptár 1900-ról lassanként 1901-re vált, miként a négy esztendővel korábban elrabolt Hangay Emma ügye is hátborzongató fordulatot vesz. Ambrózy báró, az Osztrák-Magyar Monarchia első magándetektívje és hű segítőtársa, Mili kisasszony új nyomra lel, ám az ösvény, melyre ezáltal lépnek, sokkal tüskésebb, nyaktörőbb és veszélyesebb, mint azt bármelyikük is sejtené. Vajon a morc báró miért válik egyre titokzatosabbá, sőt, kegyetlenné és gonosszá azokkal szemben, akik szeretik, s hogyan lesz képes mindezt Mili kisasszony elviselni? Mit rejt a Magyar utcai ház, miért lop lovat Mück Márika, kinek vall szerelmet Tarján Vili, és hány holttest kell még ahhoz, hogy a háttérben működő gonosztevők nehéz vasba veressenek? </div><div>A békebeli bűn- és szívügyek, melyek a Leányrablás Budapesten és A Rudnay-gyilkosságok című regényekben még homályban maradtak, most végre tán megoldásra lelnek.</div></div>
@@ -54,7 +54,7 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%20Gyula/Bito%20es%20borostyan%20%281578%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-[magyar](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/krimi.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md)
+[magyar](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md)
 
 ### Összefoglalás
 <div>
@@ -164,19 +164,23 @@
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%20Gyula/Luzer%20Radio%2C%20Budapest%21%20%281581%29/cover.jpg" alt="cover" width="300"/>
 
 ### Tagek
-[ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/ifj%c3%bas%c3%a1gi.md)
+[ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md)
 
 ### Összefoglalás
 Marcel 13 éves, mikor a családjával a „Nyócker” színes, zajos, rémisztően forgatagos világába költözik. Mikor a vén bérház padlásán rátalál Volna-K-ra, az ősi rádió adó-vevőre, ötlete támad: félelmeit, örömeit, gondolatait mind az éterbe küldi, miközben az elhagyatott templom titkát is megfejti. A Lúzer rádió az Égigérő fű, a Keménykalap és Krumpliorr és a Szeleburdi család sokak által szeretett világába repíti el az olvasót.
 
 
 # <a name="id_1582">Böszörményi, Gyula: Monyákos Tuba a Lidérc Árvák Fészkében (Monyákos Tuba-történetek 1) (2007)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%20Gyula/Monyakos%20Tuba%20a%20Liderc%20Arvak%20Feszke%20%281582%29/cover.jpg" alt="cover" width="300"/>
+
 ### Összefoglalás
 <div>
 <p>Gergő és az álomfogók története lezárult – Monyákos Tubáé azonban csak most kezdődik el! Mit tegyen a lidérc, ha az igázgatására bízott intézetbe egy csúf napon beutalják a varázstörténelem eddigi legveszedelmesebb bűnözőjét? Mit tegyen, ha ez az elvetemült alak csupán 15 éves, és ráadásul éber, azaz látszólag tökéletesen varázstalan ember? Kínos helyzet, különösen, mivel az Igázóba – Igencsak Gondverte Álomlények Zártosztályi Óvhelye, mely valójában egyszerre börtön és nevelőintézet – eleddig még egyszer sem utaltak be embergyereket. A komor falak között akadnak zsebtolvaj lidércek, álomcsempész gnómok,csalásért leültetett mit-mit-kék, s ez így is van rendjén. Monyákos Tuba, a bölcs főigázgató látszólag lehetetlenre vállalkozik, mikor az elvetemült embergyereket a gondjaiba veszi. Módszere különös és szokatlan: úgy dönt, hogy elmeséli neki élete történetét – hátha az éber kölyök okul belőle.</p></div>
 
 
 # <a name="id_1571">Böszörményi, Gyula: Monyákos Tuba és a csatornalidércek (Monyákos Tuba-történetek 2) (2021)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%20Gyula/Monyakos%20Tuba%20es%20a%20csatornalidercek%20%281571%29/cover.jpg" alt="cover" width="300"/>
+
 ### Összefoglalás
 <div>
 <p>Mit tegyen a kölyöklidérc, ha egy szép napon – miután sikerült megszöknie a Lidérc Árvák Fészkéből – azon kapja magát, hogy bűbájjal terhes sorsa Budapest csatornáinak mélyére vetette? Mit tegyen, ha olyan csóró, hogy már-már kilátszik a nadrágból a feneke (ami lidércéknél se üdvös!), és egyetlen segítőkész rokonra sem lel? Valóban kellemetlen helyzet, különösen, mivel a Lipótvárosi Lidércklán által üzemeltetett úszó szigetváros lakói, kik közé hősünk keveredett, nem épp mimózalelkű kiscserkészek.</p></div>
@@ -187,12 +191,6 @@ Marcel 13 éves, mikor a családjával a „Nyócker” színes, zajos, rémiszt
 
 ### Letöltés
 [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Monyakos%20Tuba%2C%20a%20pipamocsok-liderc%20%281588%29/Monyakos%20Tuba%2C%20a%20pipamocsok-lid%20-%20Boszormenyi%20Gyula.pdf)
-
-# <a name="id_1587">Böszörményi, Gyula: Ütközet a Meridim felett (Mysterious 1) (2004)</a>
-### Összefoglalás
-<div>
-<p>A ​Krisztus-esemény után 2842-ben járunk. A galaxis forrong, a legtöbb bolygón, s a köztes terekben kisebb-nagyobb viszályok, villongások, belharcok dúlnak a helyi kiskirályok, demokráciák, szövetségek, mutánsok és emberek között. Ez a kolóniaháborúk kora, amikor az emberiség igyekszik megvetni a lábát a von Anstetten démoncsászárok által „gazdátlanul” hagyott világban. A felderítőhajók ismeretlen vidékeket kutatnak át, és amikor lakható bolygókra lelnek, a túlzsúfolt háttérvilágokból nyomban személyszállító óriások tömege indul, hogy benépesítsék azokat. A fiatal emberi kolóniákon úgy teremnek a hősök, mint a történelemben még soha, hiszen a rendkívüli megpróbáltatásokat csakis rendkívüli emberek képesek túlélni. <br>A Korgerán unió űrhadereje háborúban áll a mutáns Horong Plantunium retteget flottájával, s az első csatát már el is vesztette. A fanatikus, egyetlen és rendkívül intelligens horongok célja, hogy kisöpörjék saját űrszektorukból az épp csak letelepedett embereket. Ennek leggyorsabb módja pedig az, ha gyors csapást mérnek a jelentéktelennek tetsző előretolt emberi hídfőállásra, a Meridium-rendszerre, mely hirtelen a galaxis e szeletének legfontosabb pontjává válik. Ez a történet a kolóniaháborúk egyik legjelentősebb flottaütközetéről szól, melyben mutánsok és emberek, fegyverek és filozófiák csapnak össze. S bár az űrben iszonyú csata dúl, egyik fél sem sejti, hogy a háttérben az egész történelem, a jövő változatlansága a tét.</p></div>
-
 
 # <a name="id_1585">Böszörményi, Gyula: 3… 2… 1… (Rémálom könyvek 1) (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%20Gyula/3_.%202_.%201__%20%281585%29/cover.jpg" alt="cover" width="300"/>
@@ -209,7 +207,7 @@ Marcel 13 éves, mikor a családjával a „Nyócker” színes, zajos, rémiszt
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%2C%20Gyula/Ruvel%20hegyi%20legenda%20%281589%29/Ruvel%20hegyi%20legenda%20-%20Boszormenyi%2C%20Gyula.epub)
 
 ### Tagek
-[gyermek- és ifjúsági irodalom](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/gyermek-%20%c3%a9s%20ifj%c3%bas%c3%a1gi%20irodalom.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/ifj%c3%bas%c3%a1gi.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kaland.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kalandreg%c3%a9ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/magyar%20szerz%c5%91.md), [mese](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/mese.md), [meseregény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/mesereg%c3%a9ny.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/sorozat%20r%c3%a9sze.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/libs/main/_tags/fantasy.md)
+[gyermek- és ifjúsági irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek-%20%c3%a9s%20ifj%c3%bas%c3%a1gi%20irodalom.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [mese](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mese.md), [meseregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mesereg%c3%a9ny.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md)
 
 ### Összefoglalás
 <div>
@@ -225,6 +223,8 @@ Marcel 13 éves, mikor a családjával a „Nyócker” színes, zajos, rémiszt
 
 
 # <a name="id_1579">Böszörményi, Gyula: Dávid király asszonya (2003)</a>
+<img src="https://github.com/BercziSandor/calibre_lib/raw/main/libs/main/Boszormenyi%20Gyula/David%20kiraly%20asszonya%20%281579%29/cover.jpg" alt="cover" width="300"/>
+
 ### Összefoglalás
 <div>
 <p>A regény egy férfiról szól, aki félig nő. Vagy legalábbis a lelke nő. Talán csak a magánéletében szökhet meg, vagy legalábbis azt hiszi, hogy megszökhet. De a sorsát végül nem kerülheti el, hiszen király. A könyv híven követi a bibliai eseményeket, csak persze sajátos értelmezésben. Már csak azért is, mert Böszörményi Gyula, aki a Kucóval és a Gergő és az álomfogókkal már bizonyított, egy történelmi köntösbe öltöztetett, ízig-vérig mai történetet írt.</p></div>
