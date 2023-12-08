@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1277">Robert Fulghum: Már lángolt, amikor ráfeküdtem (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Fulghum/Mar%20langolt%2C%20amikor%20rafekudtem%20%281277%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Fulghum/Mar%20langolt%2C%20amikor%20rafekudtem%20%281277%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Tagek
 [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [esszé](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/essz%c3%a9.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [pszichológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszichol%c3%b3gia.md)
@@ -12,7 +12,7 @@
 
 <hr/>
 # <a name="id_1302">Robert Fulghum: Már az óvodában megtanultam mindent, amit tudni érdemes (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Fulghum/Mar%20az%20ovodaban%20megtanultam%20mindent%20%281302%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Fulghum/Mar%20az%20ovodaban%20megtanultam%20mindent%20%281302%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Fulghum/Mar%20az%20ovodaban%20megtanultam%20mindent%20%281302%29/Mar%20az%20ovodaban%20megtanultam%20min%20-%20Robert%20Fulghum.rtf)

@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_654">Donald James: Monstrum (Vadim-trilógia 1) (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Donald%20James/Monstrum%20%28654%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Donald%20James/Monstrum%20%28654%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Donald%20James/Monstrum%20%28654%29/Monstrum%20-%20Donald%20James.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_653">Donald James: A jövendőmondó (Vadim-trilógia 2) (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Donald%20James/A%20jovendomondo%20%28653%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Donald%20James/A%20jovendomondo%20%28653%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Donald%20James/A%20jovendomondo%20%28653%29/A%20jovendomondo%20-%20Donald%20James.epub)
@@ -40,7 +40,7 @@ nyomára bukkanjon egy olyan gyilkosnak, aki egyszerre zseniális,
 
 <hr/>
 # <a name="id_655">Donald James: Vadim (Vadim-trilógia 3) (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Donald%20James/Vadim%20%28655%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Donald%20James/Vadim%20%28655%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Donald%20James/Vadim%20%28655%29/Vadim%20-%20Donald%20James.epub)

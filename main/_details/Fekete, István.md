@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_121">Fekete, István: Tüskevár (Tüskevár 1) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Tuskevar%20%28121%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Tuskevar%20%28121%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Tuskevar%20%28121%29/Tuskevar%20-%20Fekete%2C%20Istvan.epub)
@@ -14,7 +14,7 @@ Egy vakáció története elvenedik meg a regény lapjain, mégpedig egy olyan v
 
 <hr/>
 # <a name="id_267">Fekete, István: Téli berek (Tüskevár 2) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Teli%20berek%20%28267%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Teli%20berek%20%28267%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Teli%20berek%20%28267%29/Teli%20berek%20-%20Fekete%2C%20Istvan.epub)
@@ -28,7 +28,7 @@ Fekete István Tüskevárának olvasói bizonyára emlékeznek még Tutajos és 
 
 <hr/>
 # <a name="id_122">Fekete, István: Kele / Vuk (1987)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Kele%20_%20Vuk%20%28122%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Kele%20_%20Vuk%20%28122%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Kele%20_%20Vuk%20%28122%29/Kele%20_%20Vuk%20-%20Fekete%2C%20Istvan.epub)
@@ -45,7 +45,7 @@ A rókavárban szuszog nyolc rókakölyök. Kag és Iny, az apa- és anyaróka g
 
 <hr/>
 # <a name="id_731">Fekete, István: Karácsonyi látogatók (1989)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Karacsonyi%20latogatok%20%28731%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Karacsonyi%20latogatok%20%28731%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Karacsonyi%20latogatok%20%28731%29/Karacsonyi%20latogatok%20-%20Fekete%2C%20Istvan.epub) 
@@ -60,7 +60,7 @@ Olvadásszagú tavaszban hazalátogat szülőfalujába a már húsz éve távol 
 
 <hr/>
 # <a name="id_727">Fekete, István: Derengő hajnal: regény (1994)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Derengo%20hajnal_%20regeny%20%28727%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Derengo%20hajnal_%20regeny%20%28727%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Derengo%20hajnal_%20regeny%20%28727%29/Derengo%20hajnal_%20regeny%20-%20Fekete%2C%20Istvan.epub) 
@@ -68,7 +68,7 @@ Olvadásszagú tavaszban hazalátogat szülőfalujába a már húsz éve távol 
 
 <hr/>
 # <a name="id_737">Fekete, István: Regi Karacsony: Elbeszelesek (Uj Ember Konyvek) (Hungarian Edition) (1995)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Regi%20Karacsony_%20Elbeszelesek%20%28Uj%20Em%20%28737%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Regi%20Karacsony_%20Elbeszelesek%20%28Uj%20Em%20%28737%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Regi%20Karacsony_%20Elbeszelesek%20%28Uj%20Em%20%28737%29/Regi%20Karacsony_%20Elbeszelesek%20%28U%20-%20Fekete%2C%20Istvan.epub) 
@@ -76,7 +76,7 @@ Olvadásszagú tavaszban hazalátogat szülőfalujába a már húsz éve távol 
 
 <hr/>
 # <a name="id_734">Fekete, István: Kittenberger Kálmán élete (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Kittenberger%20Kalman%20elete%20%28734%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Kittenberger%20Kalman%20elete%20%28734%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Kittenberger%20Kalman%20elete%20%28734%29/Kittenberger%20Kalman%20elete%20-%20Fekete%2C%20Istvan.epub) 
@@ -92,7 +92,7 @@ A regényes életrajz majd harminc év kalandjait beszéli el a vadász naplóje
 
 <hr/>
 # <a name="id_733">Fekete, István: Képzelet és valóság (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Kepzelet%20es%20valosag%20%28733%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Kepzelet%20es%20valosag%20%28733%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Kepzelet%20es%20valosag%20%28733%29/Kepzelet%20es%20valosag%20-%20Fekete%2C%20Istvan.epub) 
@@ -107,7 +107,7 @@ Különleges kötetet vehet a kezébe a kedves Olvasó. A több mint harminc év
 
 <hr/>
 # <a name="id_315">Fekete, István: 21 nap (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/21%20nap%20%28315%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/21%20nap%20%28315%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/21%20nap%20%28315%29/21%20nap%20-%20Fekete%2C%20Istvan.epub)
@@ -125,7 +125,7 @@ De elsősorban tudta ezt az öreg kocsi, amely rúd nélkül és három keréken
 
 <hr/>
 # <a name="id_728">Fekete, István: Gyeplő nélkül (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Gyeplo%20nelkul%20%28728%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Gyeplo%20nelkul%20%28728%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Gyeplo%20nelkul%20%28728%29/Gyeplo%20nelkul%20-%20Fekete%2C%20Istvan.epub) 
@@ -143,7 +143,7 @@ A Gyeplő nélkült is a manapság már nehezen beszerezhető első kiadás alap
 
 <hr/>
 # <a name="id_724">Fekete, István: Ballagó idő (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Ballago%20ido%20%28724%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Ballago%20ido%20%28724%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Ballago%20ido%20%28724%29/Ballago%20ido%20-%20Fekete%2C%20Istvan.epub) 
@@ -158,7 +158,7 @@ A Gyeplő nélkült is a manapság már nehezen beszerezhető első kiadás alap
 
 <hr/>
 # <a name="id_729">Fekete, István: Hajnal Badányban (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Hajnal%20Badanyban%20%28729%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Hajnal%20Badanyban%20%28729%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Hajnal%20Badanyban%20%28729%29/Hajnal%20Badanyban%20-%20Fekete%2C%20Istvan.epub) 
@@ -174,7 +174,7 @@ A természet fenséges panorámája környezi a fiatalok romantikus szerelmét, 
 
 <hr/>
 # <a name="id_736">Fekete, István: Őszi vásár (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Oszi%20vasar%20%28736%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Oszi%20vasar%20%28736%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Oszi%20vasar%20%28736%29/Oszi%20vasar%20-%20Fekete%2C%20Istvan.epub) 
@@ -189,7 +189,7 @@ Az Őszi vásár, az író, Fekete István által összeállított novellásköt
 
 <hr/>
 # <a name="id_723">Fekete, István: A koppányi aga testamentuma (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/A%20koppanyi%20aga%20testamentuma%20%28723%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/A%20koppanyi%20aga%20testamentuma%20%28723%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/A%20koppanyi%20aga%20testamentuma%20%28723%29/A%20koppanyi%20aga%20testamentuma%20-%20Fekete%2C%20Istvan.epub) 
@@ -204,7 +204,7 @@ Oglu aga, a koppányi vár ura párviadalban megöli Babocsai Gáspárt. Lászl�
 
 <hr/>
 # <a name="id_730">Fekete, István: Hú (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Hu%20%28730%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Hu%20%28730%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Hu%20%28730%29/Hu%20-%20Fekete%2C%20Istvan.epub) 
@@ -219,7 +219,7 @@ A folyó fölött emelkedő magaspart barlangjaiban emberemlékezet óta baglyok
 
 <hr/>
 # <a name="id_726">Fekete, István: Csí és más elbeszélések (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Csi%20es%20mas%20elbeszelesek%20%28726%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Csi%20es%20mas%20elbeszelesek%20%28726%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Csi%20es%20mas%20elbeszelesek%20%28726%29/Csi%20es%20mas%20elbeszelesek%20-%20Fekete%2C%20Istvan.epub) 
@@ -234,7 +234,7 @@ Messze, Egyiptom földjén, a Nílus hullámai ringatta nádasok fölött megseb
 
 <hr/>
 # <a name="id_735">Fekete, István: Lutra (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Lutra%20%28735%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Lutra%20%28735%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Lutra%20%28735%29/Lutra%20-%20Fekete%2C%20Istvan.epub) 
@@ -249,7 +249,7 @@ Lutra, a pompás vidralegény, elhagyja vízalatti otthonát, kalandos vándorú
 
 <hr/>
 # <a name="id_266">Fekete, István: Bogáncs (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Bogancs%20%28266%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Bogancs%20%28266%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Bogancs%20%28266%29/Bogancs%20-%20Fekete%2C%20Istvan.epub)
@@ -263,7 +263,7 @@ Fekete István regényének hőse Bogáncs, a filmről is ismert, hányatott él
 
 <hr/>
 # <a name="id_741">Fekete, István: Zsellérek (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Zsellerek%20%28741%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Zsellerek%20%28741%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Istvan/Zsellerek%20%28741%29/Zsellerek%20-%20Fekete%2C%20Istvan.epub) 

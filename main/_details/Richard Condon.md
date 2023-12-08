@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_598">Richard Condon: A mandzsúriai jelölt (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Richard%20Condon/A%20mandzsuriai%20jelolt%20%28598%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Richard%20Condon/A%20mandzsuriai%20jelolt%20%28598%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Richard%20Condon/A%20mandzsuriai%20jelolt%20%28598%29/A%20mandzsuriai%20jelolt%20-%20Richard%20Condon.epub)

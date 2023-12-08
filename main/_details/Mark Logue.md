@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_298">Mark Logue: A király beszéde (A király beszéde 1) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Mark%20Logue/A%20Kiraly%20Beszede%20%28298%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Mark%20Logue/A%20Kiraly%20Beszede%20%28298%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Mark%20Logue/A%20Kiraly%20Beszede%20%28298%29/A%20kiraly%20beszede%20-%20Mark%20Logue.epub)

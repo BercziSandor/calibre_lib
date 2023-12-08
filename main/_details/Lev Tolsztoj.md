@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_778">Lev Tolsztoj: Anna Karenina (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lev%20Tolsztoj/Anna%20Karenina%20%28778%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lev%20Tolsztoj/Anna%20Karenina%20%28778%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Lev%20Tolsztoj/Anna%20Karenina%20%28778%29/Anna%20Karenina%20-%20Lev%20Tolsztoj.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_563">Lev Tolsztoj: Háború és béke (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lev%20Tolsztoj/Haboru%20es%20beke%20%28563%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lev%20Tolsztoj/Haboru%20es%20beke%20%28563%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Lev%20Tolsztoj/Haboru%20es%20beke%20%28563%29/Haboru%20es%20beke%20-%20Lev%20Tolsztoj.epub)

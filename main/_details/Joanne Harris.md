@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1124">Joanne Harris: Csokoládé trilógia (Csokoládé 4) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Csokolade%20trilogia%20%281124%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Csokolade%20trilogia%20%281124%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Csokolade%20trilogia%20%281124%29/Csokolade%20trilogia%20-%20Joanne%20Harris.epub)
@@ -11,7 +11,7 @@
 
 <hr/>
 # <a name="id_1125">Joanne Harris: Rúnajelek (Rúnajelek 1) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Runajelek%20%281125%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Runajelek%20%281125%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Runajelek%20%281125%29/Runajelek%20-%20Joanne%20Harris.epub)
@@ -25,7 +25,7 @@ Hétfő ​reggel, hét óra, ötszáz évvel a Világvége után, és megint ko
 
 <hr/>
 # <a name="id_1117">Joanne Harris: Kékszeműfiú (St. Oswald 1) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Kekszemufiu%20%281117%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Kekszemufiu%20%281117%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Kekszemufiu%20%281117%29/Kekszemufiu%20-%20Joanne%20Harris.epub)
@@ -42,7 +42,7 @@ De az anya kedvence Kék volt: a gyilkos.
 
 <hr/>
 # <a name="id_1120">Joanne Harris: Szent bolondok (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Szent%20bolondok%20%281120%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Szent%20bolondok%20%281120%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Szent%20bolondok%20%281120%29/Szent%20bolondok%20-%20Joanne%20Harris.epub)
@@ -58,7 +58,7 @@ Az apátnő halála után megérkezik Isabelle, az új rendfőnöknő, és Julie
 
 <hr/>
 # <a name="id_1121">Joanne Harris: Bársony és keserű mandula (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Barsony%20es%20keseru%20mandula%20%281121%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Barsony%20es%20keseru%20mandula%20%281121%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Barsony%20es%20keseru%20mandula%20%281121%29/Barsony%20es%20keseru%20mandula%20-%20Joanne%20Harris.epub)
@@ -72,7 +72,7 @@ Ezt az elragadó gyűjteményt olvasni olyan, akár a legfinomabb bonbonosdobozb
 
 <hr/>
 # <a name="id_1126">Joanne Harris: Aludj kislány (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Aludj%20kislany%20%281126%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Aludj%20kislany%20%281126%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Aludj%20kislany%20%281126%29/Aludj%20kislany%20-%20Joanne%20Harris.epub)
@@ -86,7 +86,7 @@ Henry Chester, a vagyonos, de nem különösebben tehetséges festő szüntelen�
 
 <hr/>
 # <a name="id_1127">Joanne Harris: Szederbor (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Szederbor%20%281127%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Szederbor%20%281127%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Szederbor%20%281127%29/Szederbor%20-%20Joanne%20Harris.epub)
@@ -102,7 +102,7 @@ Joanne Harris ebben a könyvében is csak szépet és jót tartogat az olvasó s
 
 <hr/>
 # <a name="id_1123">Joanne Harris: Ötnegyed narancs (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Otnegyed%20narancs%20%281123%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Otnegyed%20narancs%20%281123%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Otnegyed%20narancs%20%281123%29/Otnegyed%20narancs%20-%20Joanne%20Harris.epub)
@@ -118,7 +118,7 @@ A Csokoládé és a Szederbor szerzője, Joanne Harris e kötetében is bámulat
 
 <hr/>
 # <a name="id_1128">Joanne Harris: Partvidékiek (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Partvidekiek%20%281128%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Partvidekiek%20%281128%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Harris/Partvidekiek%20%281128%29/Partvidekiek%20-%20Joanne%20Harris.epub)

@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_975">Pasquale Festa Campanile: A szerelmes boszorkány (1989)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Pasquale%20Festa%20Campanile/A%20szerelmes%20boszorkany%20%28975%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Pasquale%20Festa%20Campanile/A%20szerelmes%20boszorkany%20%28975%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Pasquale%20Festa%20Campanile/A%20szerelmes%20boszorkany%20%28975%29/A%20szerelmes%20boszorkany%20-%20Pasquale%20Festa%20Campanile.epub)

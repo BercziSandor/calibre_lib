@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_521">Jeff Lindsay: Drága, dolgos Dexter (Dexter 2) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jeff%20Lindsay/Draga%2C%20dolgos%20Dexter%20%28521%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jeff%20Lindsay/Draga%2C%20dolgos%20Dexter%20%28521%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jeff%20Lindsay/Draga%2C%20dolgos%20Dexter%20%28521%29/Draga%2C%20dolgos%20Dexter%20-%20Jeff%20Lindsay.epub)
@@ -14,7 +14,7 @@
 
 <hr/>
 # <a name="id_520">Jeff Lindsay: Dermedt, dacos Dexter (Dexter 3) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jeff%20Lindsay/Dermedt%2C%20dacos%20Dexter%20%28520%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jeff%20Lindsay/Dermedt%2C%20dacos%20Dexter%20%28520%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jeff%20Lindsay/Dermedt%2C%20dacos%20Dexter%20%28520%29/Dermedt%2C%20dacos%20Dexter%20-%20Jeff%20Lindsay.epub)
@@ -28,7 +28,7 @@
 
 <hr/>
 # <a name="id_518">Jeff Lindsay: Dexter darabokban (Dexter 4) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jeff%20Lindsay/Dexter%20darabokban%20%28518%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jeff%20Lindsay/Dexter%20darabokban%20%28518%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jeff%20Lindsay/Dexter%20darabokban%20%28518%29/Dexter%20darabokban%20-%20Jeff%20Lindsay.epub)

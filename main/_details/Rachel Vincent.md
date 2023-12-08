@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_428">Rachel Vincent: Stray – Kóborok (Vérmacskák 1) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rachel%20Vincent/Stray%20-%20Koborok%20%28428%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rachel%20Vincent/Stray%20-%20Koborok%20%28428%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rachel%20Vincent/Stray%20-%20Koborok%20%28428%29/Stray%20-%20Koborok%20-%20Rachel%20Vincent.epub)

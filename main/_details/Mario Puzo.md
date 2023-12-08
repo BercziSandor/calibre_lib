@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_283">Mario Puzo: A Keresztapa (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Mario%20Puzo/A%20Keresztapa%20%28283%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Mario%20Puzo/A%20Keresztapa%20%28283%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Mario%20Puzo/A%20Keresztapa%20%28283%29/A%20Keresztapa%20-%20Mario%20Puzo.epub)

@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_669">Frank W. Abagnale: Kapj el, ha tudsz (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Frank%20W.%20Abagnale/Kapj%20el%2C%20ha%20tudsz%20%28669%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Frank%20W.%20Abagnale/Kapj%20el%2C%20ha%20tudsz%20%28669%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Frank%20W.%20Abagnale/Kapj%20el%2C%20ha%20tudsz%20%28669%29/Kapj%20el%2C%20ha%20tudsz%20-%20Frank%20W.%20Abagnale.epub)

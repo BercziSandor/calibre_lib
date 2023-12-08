@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_159">Kordos, Szabolcs: Luxushotel, Hungary (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kordos%2C%20Szabolcs/Luxushotel%2C%20Hungary%20%28159%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kordos%2C%20Szabolcs/Luxushotel%2C%20Hungary%20%28159%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kordos%2C%20Szabolcs/Luxushotel%2C%20Hungary%20%28159%29/Luxushotel%2C%20Hungary%20-%20Kordos%2C%20Szabolcs.epub)

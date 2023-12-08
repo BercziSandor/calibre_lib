@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_751">Michael Crichton: Az Androméda-törzs (Androméda 1) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Az%20Andromeda-torzs%20%28751%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Az%20Andromeda-torzs%20%28751%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Az%20Andromeda-torzs%20%28751%29/Az%20Andromeda-torzs%20-%20Michael%20Crichton.epub)
@@ -16,7 +16,7 @@ Michael Crichton ezzel a regénnyel új műfajt teremtett: a techno-thrillert. A
 
 <hr/>
 # <a name="id_757">Michael Crichton: Őslénypark (Jurassic Park 1) (1993)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Oslenypark%20%28757%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Oslenypark%20%28757%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Oslenypark%20%28757%29/Oslenypark%20-%20Michael%20Crichton.epub)
@@ -32,7 +32,7 @@ De hiába a számítógépes tervezés, a tökéletesnek hitt biztonsági rendsz
 
 <hr/>
 # <a name="id_760">Michael Crichton: Szörnyek szigete (Jurassic Park 2) (1996)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Szornyek%20szigete%20%28760%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Szornyek%20szigete%20%28760%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Szornyek%20szigete%20%28760%29/Szornyek%20szigete%20-%20Michael%20Crichton.epub)
@@ -46,7 +46,7 @@ A gyerekek szeretik a dinoszauruszokat. És úgy tűnik mindnyájunkban él egy 
 
 <hr/>
 # <a name="id_755">Michael Crichton: Ködsárkányok (1993)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Kodsarkanyok%20%28755%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Kodsarkanyok%20%28755%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Kodsarkanyok%20%28755%29/Kodsarkanyok%20-%20Michael%20Crichton.epub)
@@ -60,7 +60,7 @@ Kr. u. 922-ben a bagdadi kalifa követet küld a Béke Városából, hogy keljen
 
 <hr/>
 # <a name="id_752">Michael Crichton: Az átprogramozott ember (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Az%20atprogramozott%20ember%20%28752%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Az%20atprogramozott%20ember%20%28752%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Az%20atprogramozott%20ember%20%28752%29/Az%20atprogramozott%20ember%20-%20Michael%20Crichton.epub)
@@ -74,7 +74,7 @@ Kr. u. 922-ben a bagdadi kalifa követet küld a Béke Városából, hogy keljen
 
 <hr/>
 # <a name="id_759">Michael Crichton: Repülő koporsó (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Repulo%20koporso%20%28759%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Repulo%20koporso%20%28759%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Repulo%20koporso%20%28759%29/Repulo%20koporso%20-%20Michael%20Crichton.epub)
@@ -88,7 +88,7 @@ Kr. u. 922-ben a bagdadi kalifa követet küld a Béke Városából, hogy keljen
 
 <hr/>
 # <a name="id_754">Michael Crichton: Idővonal (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Idovonal%20%28754%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Idovonal%20%28754%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Idovonal%20%28754%29/Idovonal%20-%20Michael%20Crichton.epub)
@@ -102,7 +102,7 @@ Ekkora hatalom eddig soha nem létezett, de most, a 21. század küszöbén, ami
 
 <hr/>
 # <a name="id_758">Michael Crichton: Préda / Viharos szerelem / Hajsza Tokióban / Utcagyerekek (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Preda%20_%20Viharos%20szerelem%20_%20Hajsza%20T%20%28758%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Preda%20_%20Viharos%20szerelem%20_%20Hajsza%20T%20%28758%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Preda%20_%20Viharos%20szerelem%20_%20Hajsza%20T%20%28758%29/Preda%20_%20Viharos%20szerelem%20_%20Hajs%20-%20Michael%20Crichton.epub)
@@ -123,7 +123,7 @@ Lorenzo Carcaterra: Utcagyerekek
 
 <hr/>
 # <a name="id_753">Michael Crichton: A Gömb (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/A%20gomb%20%28753%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/A%20gomb%20%28753%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/A%20gomb%20%28753%29/A%20Gomb%20-%20Michael%20Crichton.epub)
@@ -137,7 +137,7 @@ A Csendes-óceán déli részén, 300 méterrel a felszín alatt az amerikai had
 
 <hr/>
 # <a name="id_756">Michael Crichton: Kongó (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Kongo%20%28756%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Kongo%20%28756%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Crichton/Kongo%20%28756%29/Kongo%20-%20Michael%20Crichton.epub)

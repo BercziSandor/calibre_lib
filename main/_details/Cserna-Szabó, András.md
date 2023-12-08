@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1704">Cserna-Szabó, András: Zerkó (2022)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Cserna-Szabo%2C%20Andras/Zerko%20%281704%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Cserna-Szabo%2C%20Andras/Zerko%20%281704%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Tagek
 [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md)

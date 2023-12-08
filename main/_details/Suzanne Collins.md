@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_81">Suzanne Collins: Az éhezők viadala (Az éhezők viadala trilógia 1) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Suzanne%20Collins/Az%20ehezok%20viadala%20%2881%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Suzanne%20Collins/Az%20ehezok%20viadala%20%2881%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Suzanne%20Collins/Az%20ehezok%20viadala%20%2881%29/Az%20ehezok%20viadala%20-%20Suzanne%20Collins.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_82">Suzanne Collins: Futótűz (Az éhezők viadala trilógia 2) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Suzanne%20Collins/Futotuz%20%2882%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Suzanne%20Collins/Futotuz%20%2882%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Suzanne%20Collins/Futotuz%20%2882%29/Futotuz%20-%20Suzanne%20Collins.epub)
@@ -30,7 +30,7 @@
 
 <hr/>
 # <a name="id_83">Suzanne Collins: A kiválasztott (Az éhezők viadala trilógia 3) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Suzanne%20Collins/A%20kivalasztott%20%2883%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Suzanne%20Collins/A%20kivalasztott%20%2883%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Suzanne%20Collins/A%20kivalasztott%20%2883%29/A%20kivalasztott%20-%20Suzanne%20Collins.epub)

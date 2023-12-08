@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_530">Albert, Györgyi: Miért pont én? (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Albert%2C%20Gyorgyi/Miert%20pont%20en_%20%28530%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Albert%2C%20Gyorgyi/Miert%20pont%20en_%20%28530%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Albert%2C%20Gyorgyi/Miert%20pont%20en_%20%28530%29/Miert%20pont%20en_%20-%20Albert%2C%20Gyorgyi.epub)

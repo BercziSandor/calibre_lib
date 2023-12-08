@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1073">Dean R. Koontz: Ticktak (BB Fiction 1) (1997)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Ticktak%20%281073%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Ticktak%20%281073%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Ticktak%20%281073%29/Ticktak%20-%20Dean%20R.%20Koontz.epub)
@@ -14,7 +14,7 @@
 
 <hr/>
 # <a name="id_1069">Dean R. Koontz: A halottlátó (Odd Thomas 1) (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20halottlato%20%281069%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20halottlato%20%281069%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20halottlato%20%281069%29/A%20halottlato%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
@@ -29,7 +29,7 @@ A 21 éves fiatalember, Odd Thomas, egy csendes és békés amerikai kisvárosba
 
 <hr/>
 # <a name="id_1510">Dean R. Koontz: A rossz hely (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20Rossz%20Hely%20%281510%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20Rossz%20Hely%20%281510%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20Rossz%20Hely%20%281510%29/A%20rossz%20hely%20-%20Dean%20R.%20Koontz.epub)
@@ -41,7 +41,7 @@ A 21 éves fiatalember, Odd Thomas, egy csendes és békés amerikai kisvárosba
 
 <hr/>
 # <a name="id_1076">Dean R. Koontz: Rettegés (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Retteges%20%281076%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Retteges%20%281076%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Retteges%20%281076%29/Retteges%20-%20Dean%20R.%20Koontz.epub)
@@ -55,7 +55,7 @@ Ne nézz le, mert csapdába kerültél. Egy gyönyörű, rémült nő társaság
 
 <hr/>
 # <a name="id_1092">Dean R. Koontz: Az éjszaka hangjai (1997)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Az%20ejszaka%20hangjai%20%281092%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Az%20ejszaka%20hangjai%20%281092%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Az%20ejszaka%20hangjai%20%281092%29/Az%20ejszaka%20hangjai%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
@@ -70,7 +70,7 @@ A szemérmes, tartózkodó Colin és a népszerű, lányok kedvence Roy jó bar�
 
 <hr/>
 # <a name="id_1075">Dean R. Koontz: Téli hold (1997)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Teli%20hold%20%281075%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Teli%20hold%20%281075%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Teli%20hold%20%281075%29/Teli%20hold%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
@@ -85,7 +85,7 @@ A szolgálat közben súlyosan megsebesült Los Angeles-i nyomozó, Jack McGarve
 
 <hr/>
 # <a name="id_1090">Dean R. Koontz: Égi jel (2000)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Egi%20jel%20%281090%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Egi%20jel%20%281090%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Egi%20jel%20%281090%29/Egi%20jel%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
@@ -100,7 +100,7 @@ Rejtélyes égi jelenség kíséri a férfi érkezését, aki a náci Németorsz
 
 <hr/>
 # <a name="id_1087">Dean R. Koontz: A rettegés ajtaja (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20retteges%20ajtaja%20%281087%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20retteges%20ajtaja%20%281087%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20retteges%20ajtaja%20%281087%29/A%20retteges%20ajtaja%20-%20Dean%20R.%20Koontz.epub)
@@ -114,7 +114,7 @@ A kilencéves Melanie öntudatlanul kóborol az utcán, amikor rátalálnak. Min
 
 <hr/>
 # <a name="id_1099">Dean R. Koontz: A Szeme Sarkából 1-2. (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20Szeme%20Sarkabol%201-2_%20%281099%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20Szeme%20Sarkabol%201-2_%20%281099%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20Szeme%20Sarkabol%201-2_%20%281099%29/A%20Szeme%20Sarkabol%201-2_%20-%20Dean%20R.%20Koontz.epub)
@@ -128,7 +128,7 @@ A kilencéves Melanie öntudatlanul kóborol az utcán, amikor rátalálnak. Min
 
 <hr/>
 # <a name="id_1098">Dean R. Koontz: A szív sötét folyói (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20sziv%20sotet%20folyoi%20%281098%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20sziv%20sotet%20folyoi%20%281098%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20sziv%20sotet%20folyoi%20%281098%29/A%20sziv%20sotet%20folyoi%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
@@ -143,7 +143,7 @@ A magányos Spencer Grant betér egy bárba, ahol az egyik pincérnő jóvoltáb
 
 <hr/>
 # <a name="id_1097">Dean R. Koontz: A túlélő (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20tulelo%20%281097%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20tulelo%20%281097%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20tulelo%20%281097%29/A%20tulelo%20-%20Dean%20R.%20Koontz.epub)
@@ -157,7 +157,7 @@ Joe Carpenter, egy repülőgép-szerencsétlenség során – 330 halott, nincs 
 
 <hr/>
 # <a name="id_1082">Dean R. Koontz: Kulcs az éjfélhez (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Kulcs%20az%20ejfelhez%20%281082%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Kulcs%20az%20ejfelhez%20%281082%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Kulcs%20az%20ejfelhez%20%281082%29/Kulcs%20az%20ejfelhez%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
@@ -172,7 +172,7 @@ Az amerikai Joanna Rand lassan tíz éve dolgozik Japánban, mint egy nightclub 
 
 <hr/>
 # <a name="id_1081">Dean R. Koontz: Látomás (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Latomas%20%281081%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Latomas%20%281081%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Latomas%20%281081%29/Latomas%20-%20Dean%20R.%20Koontz.epub)
@@ -186,7 +186,7 @@ Mary Bergen „látó”. Gyilkosságokat képes megérezni és meglátni még a
 
 <hr/>
 # <a name="id_1101">Dean R. Koontz: Maszk (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Maszk%20%281101%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Maszk%20%281101%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Maszk%20%281101%29/Maszk%20-%20Dean%20R.%20Koontz.epub)
@@ -200,7 +200,7 @@ Dr. Carol Tracy egy esős napon elüt az autójával egy elragadó szőke kislá
 
 <hr/>
 # <a name="id_1071">Dean R. Koontz: Végsőkig (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Vegsokig%20%281071%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Vegsokig%20%281071%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Vegsokig%20%281071%29/Vegsokig%20-%20Dean%20R.%20Koontz.epub)
@@ -214,7 +214,7 @@ Chyna Shepherd álmatlanul bámulja a holdfényben fürdő szőlőt a vendégszo
 
 <hr/>
 # <a name="id_1095">Dean R. Koontz: A visszatérő (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20visszatero%20%281095%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20visszatero%20%281095%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20visszatero%20%281095%29/A%20visszatero%20-%20Dean%20R.%20Koontz.epub)
@@ -228,7 +228,7 @@ Hilary Thomas már gyerekkorában megtapasztalhatta, mi is az erőszak. Ami azon
 
 <hr/>
 # <a name="id_1080">Dean R. Koontz: Menekülés (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Menekules%20%281080%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Menekules%20%281080%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Menekules%20%281080%29/Menekules%20-%20Dean%20R.%20Koontz.epub)
@@ -242,7 +242,7 @@ Preston Maddoc fanatikus ufó hívő. Ettől még békében élhetne családjáv
 
 <hr/>
 # <a name="id_1094">Dean R. Koontz: Amnézia (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Amnezia%20%281094%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Amnezia%20%281094%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Amnezia%20%281094%29/Amnezia%20-%20Dean%20R.%20Koontz.epub)
@@ -256,7 +256,7 @@ Susan, a harminc körüli fizikusnő egy ismeretlen városka kórházában ébre
 
 <hr/>
 # <a name="id_1074">Dean R. Koontz: A Hold fényénél (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20Hold%20Fenyenel%20%281074%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20Hold%20Fenyenel%20%281074%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20Hold%20Fenyenel%20%281074%29/A%20Hold%20fenyenel%20-%20Dean%20R.%20Koontz.epub)
@@ -270,7 +270,7 @@ Dylan O'Conner, a tehetséges fiatal festő és autista öccse Shep, egy művés
 
 <hr/>
 # <a name="id_1093">Dean R. Koontz: Az arc (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Az%20arc%20%281093%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Az%20arc%20%281093%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Az%20arc%20%281093%29/Az%20arc%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
@@ -285,7 +285,7 @@ Milliók rajonganak Hollywood talán leghódítóbb szárjáért, ám hírneve e
 
 <hr/>
 # <a name="id_1085">Dean R. Koontz: Hideglelés (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Hidegleles%20%281085%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Hidegleles%20%281085%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Hidegleles%20%281085%29/Hidegleles%20-%20Dean%20R.%20Koontz.epub)
@@ -299,7 +299,7 @@ A Hideglelés a szerző egyik mesterműve. lankadatlan, nemegyszer a tűréshat�
 
 <hr/>
 # <a name="id_1086">Dean R. Koontz: Idegenek (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Idegenek%20%281086%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Idegenek%20%281086%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Idegenek%20%281086%29/Idegenek%20-%20Dean%20R.%20Koontz.epub)
@@ -313,7 +313,7 @@ Idegenek voltak. Egy maroknyi ember más-más városból, más-más háttérrel.
 
 <hr/>
 # <a name="id_1091">Dean R. Koontz: Az eljövetel (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Az%20eljovetel%20%281091%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Az%20eljovetel%20%281091%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Az%20eljovetel%20%281091%29/Az%20eljovetel%20-%20Dean%20R.%20Koontz.epub)
@@ -327,7 +327,7 @@ Molly és férje Neil özönvízszerű viharra ébrednek a kaliforniai hegyi vá
 
 <hr/>
 # <a name="id_1089">Dean R. Koontz: Hideg tűz (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Hideg%20tuz%20%281089%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Hideg%20tuz%20%281089%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Hideg%20tuz%20%281089%29/Hideg%20tuz%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 
@@ -344,7 +344,7 @@ A lélegzetelállító történet végén fény derül arra, miért perzseli a h
 
 <hr/>
 # <a name="id_1070">Dean R. Koontz: Virrasztók (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Virrasztok%20%281070%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Virrasztok%20%281070%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Virrasztok%20%281070%29/Virrasztok%20-%20Dean%20R.%20Koontz.epub)
@@ -359,7 +359,7 @@ A lélegzetelállító történet végén fény derül arra, miért perzseli a h
 
 <hr/>
 # <a name="id_1096">Dean R. Koontz: A Tékozló Fiú (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20Tekozlo%20Fiu%20%281096%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20Tekozlo%20Fiu%20%281096%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20Tekozlo%20Fiu%20%281096%29/A%20Tekozlo%20Fiu%20-%20Dean%20R.%20Koontz.epub)
@@ -373,7 +373,7 @@ A lélegzetelállító történet végén fény derül arra, miért perzseli a h
 
 <hr/>
 # <a name="id_1083">Dean R. Koontz: Jégcsapda (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Jegcsapda%20%281083%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Jegcsapda%20%281083%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Jegcsapda%20%281083%29/Jegcsapda%20-%20Dean%20R.%20Koontz.epub)
@@ -387,7 +387,7 @@ Koontz egyik korai művét tartja kezében az olvasó, melynek hangja, stílusa 
 
 <hr/>
 # <a name="id_1079">Dean R. Koontz: Mr. Murder (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Mr.%20Murder%20%281079%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Mr.%20Murder%20%281079%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Mr.%20Murder%20%281079%29/Mr.%20Murder%20-%20Dean%20R.%20Koontz.epub)
@@ -401,7 +401,7 @@ A regény főhőse, Martin Stillwater igazán boldognak érezheti magát. Sikere
 
 <hr/>
 # <a name="id_1100">Dean R. Koontz: A sötétség szeme (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20sotetseg%20szeme%20%281100%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20sotetseg%20szeme%20%281100%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/A%20sotetseg%20szeme%20%281100%29/A%20sotetseg%20szeme%20-%20Dean%20R.%20Koontz.epub)
@@ -415,7 +415,7 @@ Egy tizenkét éves kisfiú kirándulni megy iskolatársaival a hegyekbe, de soh
 
 <hr/>
 # <a name="id_1078">Dean R. Koontz: Összetörve (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Osszetorve%20%281078%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Osszetorve%20%281078%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Osszetorve%20%281078%29/Osszetorve%20-%20Dean%20R.%20Koontz.epub)
@@ -429,7 +429,7 @@ A Thunderbird Philadelphiából indult. Az úti cél: a nyugati part. Alex és a
 
 <hr/>
 # <a name="id_1084">Dean R. Koontz: Kényszerjátszma (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Kenyszerjatszma%20%281084%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Kenyszerjatszma%20%281084%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Kenyszerjatszma%20%281084%29/Kenyszerjatszma%20-%20Dean%20R.%20Koontz.epub)
@@ -443,7 +443,7 @@ A bárpultos Billy Wiles egyhangú élete egy csapásra megváltozik, amikor egy
 
 <hr/>
 # <a name="id_1072">Dean R. Koontz: Váltságdíj (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Valtsagdij%20%281072%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Valtsagdij%20%281072%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Valtsagdij%20%281072%29/Valtsagdij%20-%20Dean%20R.%20Koontz.epub)
@@ -457,7 +457,7 @@ Elkaptuk a feleségét. Kétmillió kápéért visszakaphatja. Egy hétköznapi 
 
 <hr/>
 # <a name="id_1077">Dean R. Koontz: Pokoli hordák (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Pokoli%20hordak%20%281077%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Pokoli%20hordak%20%281077%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dean%20R.%20Koontz/Pokoli%20hordak%20%281077%29/Pokoli%20hordak%20-%20Dean%20R.%20Koontz%20%28Case%20Conflict%29.epub) 

@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_18">J. K. Rowling: Harry Potter és a bölcsek köve (Harry Potter 1) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20bolcsek%20kove%20%2818%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20bolcsek%20kove%20%2818%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20bolcsek%20kove%20%2818%29/Harry%20Potter%20es%20a%20bolcsek%20kove%20-%20J.%20K.%20Rowling.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_19">J. K. Rowling: Harry Potter és a Titkok Kamrája (Harry Potter 2) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20Titkok%20Kamraja%20%2819%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20Titkok%20Kamraja%20%2819%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20Titkok%20Kamraja%20%2819%29/Harry%20Potter%20es%20a%20Titkok%20Kamraj%20-%20J.%20K.%20Rowling.epub)
@@ -30,7 +30,7 @@
 
 <hr/>
 # <a name="id_20">J. K. Rowling: Harry Potter és az azkabani fogoly (Harry Potter 3) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20az%20azkabani%20fogoly%20%2820%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20az%20azkabani%20fogoly%20%2820%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20az%20azkabani%20fogoly%20%2820%29/Harry%20Potter%20es%20az%20azkabani%20fog%20-%20J.%20K.%20Rowling.epub)
@@ -45,7 +45,7 @@
 
 <hr/>
 # <a name="id_21">J. K. Rowling: Harry Potter és a Tűz Serlege (Harry Potter 4) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20Tuz%20Serlege%20%2821%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20Tuz%20Serlege%20%2821%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20Tuz%20Serlege%20%2821%29/Harry%20Potter%20es%20a%20Tuz%20Serlege%20-%20J.%20K.%20Rowling.epub)
@@ -60,7 +60,7 @@
 
 <hr/>
 # <a name="id_22">J. K. Rowling: Harry Potter és a Főnix Rendje (Harry Potter 5) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20Fonix%20Rendje%20%2822%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20Fonix%20Rendje%20%2822%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20Fonix%20Rendje%20%2822%29/Harry%20Potter%20es%20a%20Fonix%20Rendje%20-%20J.%20K.%20Rowling.epub)
@@ -75,7 +75,7 @@
 
 <hr/>
 # <a name="id_23">J. K. Rowling: Harry Potter és a Félvér Herceg (Harry Potter 6) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20Felver%20Herceg%20%2823%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20Felver%20Herceg%20%2823%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20Felver%20Herceg%20%2823%29/Harry%20Potter%20es%20a%20Felver%20Herceg%20-%20J.%20K.%20Rowling.epub)
@@ -90,7 +90,7 @@
 
 <hr/>
 # <a name="id_24">J. K. Rowling: Harry Potter és a Halál ereklyéi (Harry Potter 7) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20Halal%20ereklyei%20%2824%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20Halal%20ereklyei%20%2824%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20a%20Halal%20ereklyei%20%2824%29/Harry%20Potter%20es%20a%20Halal%20ereklye%20-%20J.%20K.%20Rowling.epub)
@@ -105,7 +105,7 @@
 
 <hr/>
 # <a name="id_1459">J. K. Rowling: Harry Potter és az elátkozott gyermek (Harry Potter 8) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20az%20elatkozott%20gyerm%20%281459%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20az%20elatkozott%20gyerm%20%281459%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20K.%20Rowling/Harry%20Potter%20es%20az%20elatkozott%20gyerm%20%281459%29/Harry%20Potter%20es%20az%20elatkozott%20g%20-%20J.%20K.%20Rowling.epub)

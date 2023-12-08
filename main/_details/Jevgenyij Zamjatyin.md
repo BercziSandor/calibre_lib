@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_607">Jevgenyij Zamjatyin: Mi (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jevgenyij%20Zamjatyin/Mi%20%28607%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jevgenyij%20Zamjatyin/Mi%20%28607%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jevgenyij%20Zamjatyin/Mi%20%28607%29/Mi%20-%20Jevgenyij%20Zamjatyin.epub)

@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1419">Márai, Sándor: Füves könyv (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Marai%2C%20Sandor/Fuves%20konyv%20%281419%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Marai%2C%20Sandor/Fuves%20konyv%20%281419%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Marai%2C%20Sandor/Fuves%20konyv%20%281419%29/Fuves%20konyv%20-%20Marai%2C%20Sandor.epub)

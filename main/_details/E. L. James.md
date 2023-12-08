@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_466">E. L. James: A szürke ötven árnyalata (Árnyalat 1) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/E.%20L.%20James/A%20szurke%20otven%20arnyalata%20%28466%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/E.%20L.%20James/A%20szurke%20otven%20arnyalata%20%28466%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/E.%20L.%20James/A%20szurke%20otven%20arnyalata%20%28466%29/A%20szurke%20otven%20arnyalata%20-%20E.%20L.%20James.epub)

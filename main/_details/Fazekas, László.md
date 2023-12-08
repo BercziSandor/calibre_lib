@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1271">Fazekas, László: Kapukulcs a kő alatt (Villantó 2) (1978)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fazekas%2C%20Laszlo/Kapukulcs%20a%20ko%20alatt%20%281271%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fazekas%2C%20Laszlo/Kapukulcs%20a%20ko%20alatt%20%281271%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fazekas%2C%20Laszlo/Kapukulcs%20a%20ko%20alatt%20%281271%29/Kapukulcs%20a%20ko%20alatt%20-%20Fazekas%2C%20Laszlo.epub)

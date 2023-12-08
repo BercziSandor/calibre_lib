@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_58">Jane Austen: Értelem és érzelem (A világirodalom remekei 1) (1986)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Ertelem%20es%20erzelem%20%2858%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Ertelem%20es%20erzelem%20%2858%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Ertelem%20es%20erzelem%20%2858%29/Ertelem%20es%20erzelem%20-%20Jane%20Austen.epub)
@@ -16,7 +16,7 @@
 
 <hr/>
 # <a name="id_56">Jane Austen: Büszkeség és Balítélet (1975)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Buszkeseg%20es%20Balitelet%20%2856%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Buszkeseg%20es%20Balitelet%20%2856%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Buszkeseg%20es%20Balitelet%20%2856%29/Buszkeseg%20es%20Balitelet%20-%20Jane%20Austen.epub)
@@ -30,7 +30,7 @@
 
 <hr/>
 # <a name="id_54">Jane Austen: A Klastrom Titka (1983)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/A%20Klastrom%20Titka%20%2854%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/A%20Klastrom%20Titka%20%2854%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/A%20Klastrom%20Titka%20%2854%29/A%20Klastrom%20Titka%20-%20Jane%20Austen.epub)
@@ -47,7 +47,7 @@ Catherine Morland végül mégiscsak eléri az "igaz hősnői magaslatokat"- enn
 
 <hr/>
 # <a name="id_55">Jane Austen: A Mansfieldi Kastély (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/A%20Mansfieldi%20Kastely%20%2855%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/A%20Mansfieldi%20Kastely%20%2855%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/A%20Mansfieldi%20Kastely%20%2855%29/A%20Mansfieldi%20Kastely%20-%20Jane%20Austen.epub)
@@ -63,7 +63,7 @@ Fanny Price-nak számos szerelmi intrika közepette is sikerül megóvnia tiszta
 
 <hr/>
 # <a name="id_57">Jane Austen: Emma (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Emma%20%2857%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Emma%20%2857%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Emma%20%2857%29/Emma%20-%20Jane%20Austen.epub)
@@ -77,7 +77,7 @@ Fanny Price-nak számos szerelmi intrika közepette is sikerül megóvnia tiszta
 
 <hr/>
 # <a name="id_59">Jane Austen: Meggyőző érvek (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Meggyozo%20ervek%20%2859%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Meggyozo%20ervek%20%2859%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Meggyozo%20ervek%20%2859%29/Meggyozo%20ervek%20-%20Jane%20Austen.epub)
@@ -91,7 +91,7 @@ Fanny Price-nak számos szerelmi intrika közepette is sikerül megóvnia tiszta
 
 <hr/>
 # <a name="id_996">Jane Austen: Meggyőző érvek (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Meggyozo%20ervek%20%28996%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Meggyozo%20ervek%20%28996%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Meggyozo%20ervek%20%28996%29/Meggyozo%20ervek%20-%20Jane%20Austen.epub)

@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1681">Lars Kepler: A hipnotizőr (Joona Linna 1) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/A%20hipnotizor%20%281681%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/A%20hipnotizor%20%281681%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/A%20hipnotizor%20%281681%29/A%20hipnotizor%20-%20Lars%20Kepler.epub) 
@@ -16,7 +16,7 @@
 
 <hr/>
 # <a name="id_674">Lars Kepler: A Paganini-szerződés (Joona Linna 2) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/A%20Paganini-szerzodes%20%28674%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/A%20Paganini-szerzodes%20%28674%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/A%20Paganini-szerzodes%20%28674%29/A%20Paganini-szerzodes%20-%20Lars%20Kepler.epub)
@@ -31,7 +31,7 @@
 
 <hr/>
 # <a name="id_1677">Lars Kepler: A tűz tanúja (Joona Linna 3) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/A%20tuz%20tanuja%20%281677%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/A%20tuz%20tanuja%20%281677%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/A%20tuz%20tanuja%20%281677%29/A%20tuz%20tanuja%20-%20Lars%20Kepler.epub)
@@ -46,7 +46,7 @@
 
 <hr/>
 # <a name="id_1678">Lars Kepler: A Bosszúálló (Joona Linna 4) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/A%20Bosszuallo%20%281678%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/A%20Bosszuallo%20%281678%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Tagek
 [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [mystery](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mystery.md), [suspense](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/suspense.md)
@@ -58,7 +58,7 @@
 
 <hr/>
 # <a name="id_1680">Lars Kepler: Lesben (Joona Linna 5) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/Lesben%20%281680%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/Lesben%20%281680%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Tagek
 [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md)
@@ -69,7 +69,7 @@
 
 <hr/>
 # <a name="id_1679">Lars Kepler: Nyúlvadász (Joona Linna 6) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/Nyulvadasz%20%281679%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/Nyulvadasz%20%281679%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Tagek
 [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [sorozatgyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozatgyilkoss%c3%a1g.md), [svéd szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sv%c3%a9d%20szerz%c5%91.md)
@@ -80,7 +80,7 @@ Joona Linna már két évet letöltött büntetéséből a Kumlai Zárt Fegyint�
 
 <hr/>
 # <a name="id_1683">Lars Kepler: Lázár (Joona Linna 7) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/Lazar%20%281683%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/Lazar%20%281683%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/Lazar%20%281683%29/Lazar%20-%20Lars%20Kepler.epub)
@@ -91,7 +91,7 @@ Svédország leghírhedtebb sorozatgyilkosát, Jurek Waltert évekkel ezelőtt k
 
 <hr/>
 # <a name="id_1682">Lars Kepler: Tükörember (Joona Linna 8) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/Tukorember%20%281682%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/Tukorember%20%281682%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/Tukorember%20%281682%29/Tukorember%20-%20Lars%20Kepler.epub)

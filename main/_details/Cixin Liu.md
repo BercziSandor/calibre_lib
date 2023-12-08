@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1451">Cixin Liu: A háromtest-probléma (A háromtest-trilógia 1) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Cixin%20Liu/A%20haromtest-problema%20%281451%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Cixin%20Liu/A%20haromtest-problema%20%281451%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Cixin%20Liu/A%20haromtest-problema%20%281451%29/A%20haromtest-problema%20-%20Cixin%20Liu.azw3)

@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_526">Murakami Haruki: Birkakergető nagy kaland (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Murakami%20Haruki/Birkakergeto%20nagy%20kaland%20%28526%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Murakami%20Haruki/Birkakergeto%20nagy%20kaland%20%28526%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Murakami%20Haruki/Birkakergeto%20nagy%20kaland%20%28526%29/Birkakergeto%20nagy%20kaland%20-%20Murakami%20Haruki.epub)
@@ -14,7 +14,7 @@
 
 <hr/>
 # <a name="id_471">Murakami Haruki: Miről beszélek, amikor futásról beszélek? (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Murakami%20Haruki/Mirol%20beszelek%2C%20amikor%20futasrol%20beszelek_%20%28471%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Murakami%20Haruki/Mirol%20beszelek%2C%20amikor%20futasrol%20beszelek_%20%28471%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Murakami%20Haruki/Mirol%20beszelek%2C%20amikor%20futasrol%20beszelek_%20%28471%29/Mirol%20beszelek%2C%20amikor%20futasrol%20-%20Murakami%20Haruki.epub)

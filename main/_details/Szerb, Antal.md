@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_387">Szerb, Antal: Utas és holdvilág (1985)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szerb%2C%20Antal/Utas%20es%20holdvilag%20%28387%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szerb%2C%20Antal/Utas%20es%20holdvilag%20%28387%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szerb%2C%20Antal/Utas%20es%20holdvilag%20%28387%29/Utas%20es%20holdvilag%20-%20Szerb%2C%20Antal.epub)
@@ -14,7 +14,7 @@
 
 <hr/>
 # <a name="id_272">Szerb, Antal: A Legszebb Kutyatörténetek Gerald Durrell Válogatásában (1996)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szerb%2C%20Antal/A%20Legszebb%20Kutyatortenetek%20Gerald%20Durrell%20Valogatasaban%20%28272%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szerb%2C%20Antal/A%20Legszebb%20Kutyatortenetek%20Gerald%20Durrell%20Valogatasaban%20%28272%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szerb%2C%20Antal/A%20Legszebb%20Kutyatortenetek%20Gerald%20Durrell%20Valogatasaban%20%28272%29/A%20Legszebb%20Kutyatortenetek%20Gera%20-%20Szerb%2C%20Antal.epub)

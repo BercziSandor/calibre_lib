@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_401">Hermann Hesse: Narziss és Goldmund (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Hermann%20Hesse/Narziss%20es%20Goldmund%20%28401%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Hermann%20Hesse/Narziss%20es%20Goldmund%20%28401%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Hermann%20Hesse/Narziss%20es%20Goldmund%20%28401%29/Narziss%20es%20Goldmund%20-%20Hermann%20Hesse.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_400">Hermann Hesse: A pusztai farkas (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Hermann%20Hesse/A%20pusztai%20farkas%20%28400%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Hermann%20Hesse/A%20pusztai%20farkas%20%28400%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Hermann%20Hesse/A%20pusztai%20farkas%20%28400%29/A%20pusztai%20farkas%20-%20Hermann%20Hesse.epub)
@@ -30,7 +30,7 @@
 
 <hr/>
 # <a name="id_399">Hermann Hesse: Demian (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Hermann%20Hesse/Demian%20%28399%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Hermann%20Hesse/Demian%20%28399%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Hermann%20Hesse/Demian%20%28399%29/Demian%20-%20Hermann%20Hesse.epub)

@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1599">Heribert Illig: Kitalált középkor (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Heribert%20Illig/Kitalalt%20kozepkor%20%281599%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Heribert%20Illig/Kitalalt%20kozepkor%20%281599%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Heribert%20Illig/Kitalalt%20kozepkor%20%281599%29/Kitalalt%20kozepkor%20-%20Heribert%20Illig.epub)

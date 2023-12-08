@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_515">Örkény, István: „Rózsakiállítás” (1979)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Orkeny%2C%20Istvan/%2C%2CRozsakiallitas_%20%28515%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Orkeny%2C%20Istvan/%2C%2CRozsakiallitas_%20%28515%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Orkeny%2C%20Istvan/%2C%2CRozsakiallitas_%20%28515%29/%2C%2CRozsakiallitas_%20-%20Orkeny%2C%20Istvan.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_516">Örkény, István: Válogatott egyperces novellák (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Orkeny%2C%20Istvan/Valogatott%20egyperces%20novellak%20%28516%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Orkeny%2C%20Istvan/Valogatott%20egyperces%20novellak%20%28516%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Orkeny%2C%20Istvan/Valogatott%20egyperces%20novellak%20%28516%29/Valogatott%20egyperces%20novellak%20-%20Orkeny%2C%20Istvan.epub)
@@ -30,7 +30,7 @@
 
 <hr/>
 # <a name="id_514">Örkény, István: Egyperces novellák (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Orkeny%2C%20Istvan/Egyperces%20novellak%20%28514%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Orkeny%2C%20Istvan/Egyperces%20novellak%20%28514%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Orkeny%2C%20Istvan/Egyperces%20novellak%20%28514%29/Egyperces%20novellak%20-%20Orkeny%2C%20Istvan.epub)

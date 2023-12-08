@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_977">Augusten Burroughs: Farkas az asztalnál (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Augusten%20Burroughs/Farkas%20az%20asztalnal%20%28977%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Augusten%20Burroughs/Farkas%20az%20asztalnal%20%28977%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Augusten%20Burroughs/Farkas%20az%20asztalnal%20%28977%29/Farkas%20az%20asztalnal%20-%20Augusten%20Burroughs.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_968">Augusten Burroughs: Kiszáradva (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Augusten%20Burroughs/Kiszaradva%20%28968%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Augusten%20Burroughs/Kiszaradva%20%28968%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Augusten%20Burroughs/Kiszaradva%20%28968%29/Kiszaradva%20-%20Augusten%20Burroughs.epub)

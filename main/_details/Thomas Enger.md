@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_617">Thomas Enger: Hegek (Henning Juul 1) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Thomas%20Enger/Hegek%20%28617%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Thomas%20Enger/Hegek%20%28617%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Thomas%20Enger/Hegek%20%28617%29/Hegek%20-%20Thomas%20Enger.epub)

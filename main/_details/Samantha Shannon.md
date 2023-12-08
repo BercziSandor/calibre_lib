@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1005">Samantha Shannon: Csontszüret (Csontszüret 1) (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Samantha%20Shannon/Csontszuret%20%281005%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Samantha%20Shannon/Csontszuret%20%281005%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Samantha%20Shannon/Csontszuret%20%281005%29/Csontszuret%20-%20Samantha%20Shannon.epub)

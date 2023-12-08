@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_883">G. M.: Tesco titok (Tesco titok 1) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/G.%20M_/Tesco%20titok%20%28883%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/G.%20M_/Tesco%20titok%20%28883%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [igaz történet alapján](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/igaz%20t%c3%b6rt%c3%a9net%20alapj%c3%a1n.md), [kereskedelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kereskedelem.md), [marketing](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/marketing.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/riport.md)
@@ -11,7 +11,7 @@
 
 <hr/>
 # <a name="id_884">G. M.: Tesco titok 2. (Tesco titok 2) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/G.%20M_/Tesco%20titok%202_%20%28884%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/G.%20M_/Tesco%20titok%202_%20%28884%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [igaz történet alapján](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/igaz%20t%c3%b6rt%c3%a9net%20alapj%c3%a1n.md), [kereskedelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kereskedelem.md), [marketing](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/marketing.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/riport.md)

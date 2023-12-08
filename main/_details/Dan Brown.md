@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1639">Dan Brown: The Da Vinci Code (Robert Langdon 2) (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dan%20Brown/The%20Da%20Vinci%20Code%20%281639%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dan%20Brown/The%20Da%20Vinci%20Code%20%281639%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dan%20Brown/The%20Da%20Vinci%20Code%20%281639%29/The%20Da%20Vinci%20Code%20-%20Dan%20Brown.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_1637">Dan Brown: Origin (Robert Langdon 5) (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dan%20Brown/Origin%20%281637%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dan%20Brown/Origin%20%281637%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dan%20Brown/Origin%20%281637%29/Origin%20-%20Dan%20Brown.epub)
@@ -27,7 +27,7 @@
 
 <hr/>
 # <a name="id_1636">Dan Brown: Diabolus </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dan%20Brown/Diabolus%20%281636%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dan%20Brown/Diabolus%20%281636%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dan%20Brown/Diabolus%20%281636%29/Diabolus%20-%20Dan%20Brown.epub)
@@ -41,7 +41,7 @@ Die kryptographische Abteilung des US-Geheimdienstes NSA verfügt über einen ge
 
 <hr/>
 # <a name="id_1643">Dan Brown: Digital Fortress (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dan%20Brown/Digital%20Fortress%20%281643%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dan%20Brown/Digital%20Fortress%20%281643%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dan%20Brown/Digital%20Fortress%20%281643%29/Digital%20Fortress%20-%20Dan%20Brown.pdf)
@@ -53,7 +53,7 @@ Die kryptographische Abteilung des US-Geheimdienstes NSA verfügt über einen ge
 
 <hr/>
 # <a name="id_1638">Dan Brown: Az elveszett jelkép (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dan%20Brown/Az%20elveszett%20jelkep%20%281638%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dan%20Brown/Az%20elveszett%20jelkep%20%281638%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dan%20Brown/Az%20elveszett%20jelkep%20%281638%29/Az%20elveszett%20jelkep%20-%20Dan%20Brown.epub)

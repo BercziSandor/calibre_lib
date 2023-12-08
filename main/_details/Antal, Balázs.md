@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1203">Antal, Balázs: Öreg (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Antal%2C%20Balazs/Oreg%20%281203%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Antal%2C%20Balazs/Oreg%20%281203%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Antal%2C%20Balazs/Oreg%20%281203%29/Oreg%20-%20Antal%2C%20Balazs.epub)

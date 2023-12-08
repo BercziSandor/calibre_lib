@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_462">Szergej Lukjanyenko: Alkonyi őrség (Örség 3) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Alkonyi%20orseg%20%28462%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Alkonyi%20orseg%20%28462%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Alkonyi%20orseg%20%28462%29/Alkonyi%20orseg%20-%20Szergej%20Lukjanyenko.epub)
@@ -14,7 +14,7 @@
 
 <hr/>
 # <a name="id_457">Szergej Lukjanyenko: Utolsó őrség (Örség 4) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Utolso%20orseg%20%28457%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Utolso%20orseg%20%28457%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Utolso%20orseg%20%28457%29/Utolso%20orseg%20-%20Szergej%20Lukjanyenko.epub)
@@ -28,7 +28,7 @@
 
 <hr/>
 # <a name="id_458">Szergej Lukjanyenko: Új Őrség (Örség 5) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Uj%20Orseg%20%28458%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Uj%20Orseg%20%28458%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Uj%20Orseg%20%28458%29/Uj%20Orseg%20-%20Szergej%20Lukjanyenko.epub)
@@ -38,7 +38,7 @@
 
 <hr/>
 # <a name="id_461">Szergej Lukjanyenko: Éjszakai őrség (Őrség 1) (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Ejszakai%20orseg%20%28461%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Ejszakai%20orseg%20%28461%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Ejszakai%20orseg%20%28461%29/Ejszakai%20orseg%20-%20Szergej%20Lukjanyenko.epub)
@@ -53,7 +53,7 @@
 
 <hr/>
 # <a name="id_459">Szergej Lukjanyenko: Nappali őrség (Őrség 2) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Nappali%20orseg%20%28459%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Nappali%20orseg%20%28459%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Lukjanyenko/Nappali%20orseg%20%28459%29/Nappali%20orseg%20-%20Szergej%20Lukjanyenko.epub)

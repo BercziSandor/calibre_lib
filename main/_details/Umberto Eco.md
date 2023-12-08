@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1024">Umberto Eco: A Foucault-inga (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Umberto%20Eco/A%20Foucault-inga%20%281024%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Umberto%20Eco/A%20Foucault-inga%20%281024%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Umberto%20Eco/A%20Foucault-inga%20%281024%29/A%20Foucault-inga%20-%20Umberto%20Eco.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_789">Umberto Eco: A rózsa neve (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Umberto%20Eco/A%20rozsa%20neve%20%28789%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Umberto%20Eco/A%20rozsa%20neve%20%28789%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Umberto%20Eco/A%20rozsa%20neve%20%28789%29/A%20rozsa%20neve%20-%20Umberto%20Eco.epub)

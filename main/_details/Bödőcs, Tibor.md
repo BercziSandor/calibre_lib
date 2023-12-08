@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1556">Bödőcs, Tibor: Meg se kínáltak (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bodocs%2C%20Tibor/Meg%20se%20kinaltak%20%281556%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bodocs%2C%20Tibor/Meg%20se%20kinaltak%20%281556%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bodocs%2C%20Tibor/Meg%20se%20kinaltak%20%281556%29/Meg%20se%20kinaltak%20-%20Bodocs%2C%20Tibor.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_1428">Bödőcs, Tibor: Addig se iszik (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bodocs%2C%20Tibor/Addig%20se%20iszik%20%281428%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bodocs%2C%20Tibor/Addig%20se%20iszik%20%281428%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bodocs%2C%20Tibor/Addig%20se%20iszik%20%281428%29/Addig%20se%20iszik%20-%20Bodocs%2C%20Tibor.epub)
@@ -30,7 +30,7 @@
 
 <hr/>
 # <a name="id_1557">Bödőcs, Tibor: Mulat a Manézs (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bodocs%2C%20Tibor/Mulat%20a%20Manezs%20%281557%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bodocs%2C%20Tibor/Mulat%20a%20Manezs%20%281557%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bodocs%2C%20Tibor/Mulat%20a%20Manezs%20%281557%29/Mulat%20a%20Manezs%20-%20Bodocs%2C%20Tibor.epub)

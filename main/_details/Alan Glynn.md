@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_295">Alan Glynn: Csúcshatás (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alan%20Glynn/Csucshatas%20%28295%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alan%20Glynn/Csucshatas%20%28295%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Alan%20Glynn/Csucshatas%20%28295%29/Csucshatas%20-%20Alan%20Glynn.epub)

@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_383">Jonas Jonasson: A százéves ember, aki kimászott az ablakon és eltűnt (A százéves ember aki... 1) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jonas%20Jonasson/A%20szazeves%20ember%2C%20aki%20kimaszott%20az%20%28383%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jonas%20Jonasson/A%20szazeves%20ember%2C%20aki%20kimaszott%20az%20%28383%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jonas%20Jonasson/A%20szazeves%20ember%2C%20aki%20kimaszott%20az%20%28383%29/A%20szazeves%20ember%2C%20aki%20kimaszott%20-%20Jonas%20Jonasson.epub)
@@ -14,7 +14,7 @@
 
 <hr/>
 # <a name="id_984">Jonas Jonasson: Gyilkos-Anders és barátai (meg akik nem azok) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jonas%20Jonasson/Gyilkos-Anders%20es%20baratai%20%28meg%20akik%20%28984%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jonas%20Jonasson/Gyilkos-Anders%20es%20baratai%20%28meg%20akik%20%28984%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jonas%20Jonasson/Gyilkos-Anders%20es%20baratai%20%28meg%20akik%20%28984%29/Gyilkos-Anders%20es%20baratai%20%28meg%20-%20Jonas%20Jonasson.epub)
@@ -29,7 +29,7 @@
 
 <hr/>
 # <a name="id_668">Jonas Jonasson: Az analfabéta, aki tudott számolni (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jonas%20Jonasson/Az%20analfabeta%2C%20aki%20tudott%20szamolni%20%28668%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jonas%20Jonasson/Az%20analfabeta%2C%20aki%20tudott%20szamolni%20%28668%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jonas%20Jonasson/Az%20analfabeta%2C%20aki%20tudott%20szamolni%20%28668%29/Az%20analfabeta%2C%20aki%20tudott%20szamo%20-%20Jonas%20Jonasson.epub)

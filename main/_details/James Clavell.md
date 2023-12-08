@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_168">James Clavell: A sógun (Ázsia-saga 1) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Clavell/A%20Sogun%20%28168%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Clavell/A%20Sogun%20%28168%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Clavell/A%20Sogun%20%28168%29/A%20sogun%20-%20James%20Clavell.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_1027">James Clavell: A Tajpan (Ázsia-saga 2) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Clavell/A%20Tajpan%20%281027%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Clavell/A%20Tajpan%20%281027%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Clavell/A%20Tajpan%20%281027%29/A%20Tajpan%20-%20James%20Clavell.epub)
@@ -30,7 +30,7 @@
 
 <hr/>
 # <a name="id_1028">James Clavell: Gajdzsin (Ázsia-saga 3) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Clavell/Gajdzsin%20%281028%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Clavell/Gajdzsin%20%281028%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Clavell/Gajdzsin%20%281028%29/Gajdzsin%20-%20James%20Clavell.epub)

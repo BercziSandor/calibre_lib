@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1168">Gregory Benford: Az Alapítvány félelme (Alapítvány 7) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gregory%20Benford/Az%20Alapitvany%20felelme%20%281168%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gregory%20Benford/Az%20Alapitvany%20felelme%20%281168%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [prc](https://github.com/BercziSandor/calibre_lib/raw/main/main/Gregory%20Benford/Az%20Alapitvany%20felelme%20%281168%29/Az%20Alapitvany%20felelme%20-%20Gregory%20Benford.prc)

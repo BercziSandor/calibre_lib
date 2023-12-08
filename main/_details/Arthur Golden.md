@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_280">Arthur Golden: Egy gésa emlékiratai (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Arthur%20Golden/Egy%20gesa%20emlekiratai%20%28280%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Arthur%20Golden/Egy%20gesa%20emlekiratai%20%28280%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Arthur%20Golden/Egy%20gesa%20emlekiratai%20%28280%29/Egy%20gesa%20emlekiratai%20-%20Arthur%20Golden%20%28Case%20Conflict%29.epub) 

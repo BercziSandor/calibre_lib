@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_819">Daniel Silva: Az angol bérgyilkos (Gabriel Allon 2) (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Az%20angol%20bergyilkos%20%28819%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Az%20angol%20bergyilkos%20%28819%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Az%20angol%20bergyilkos%20%28819%29/Az%20angol%20bergyilkos%20-%20Daniel%20Silva.epub)
@@ -14,7 +14,7 @@ A Hidegvérrel és más népszerű regények írója ezúttal is a titkosszolgá
 
 <hr/>
 # <a name="id_818">Daniel Silva: Az utolsó esély (Gabriel Allon 4) (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Az%20utolso%20esely%20%28818%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Az%20utolso%20esely%20%28818%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Az%20utolso%20esely%20%28818%29/Az%20utolso%20esely%20-%20Daniel%20Silva.epub)
@@ -28,7 +28,7 @@ A gyóntatóban már megismerhettük Gabriel Allont, az izraeli titkosügynökö
 
 <hr/>
 # <a name="id_808">Daniel Silva: A bosszú (Gabriel Allon 5) (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20bosszu%20%28808%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20bosszu%20%28808%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20bosszu%20%28808%29/A%20bosszu%20-%20Daniel%20Silva.epub)
@@ -42,7 +42,7 @@ Gabriel Allont Velencében éri a szörnyű hír: Rómában terroristák robbant
 
 <hr/>
 # <a name="id_811">Daniel Silva: A Moszad ügynöke a Vatikánban (Gabriel Allon 6) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20a%20Vatikanban%20%28811%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20a%20Vatikanban%20%28811%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20a%20Vatikanban%20%28811%29/A%20Moszad%20ugynoke%20a%20Vatikanban%20-%20Daniel%20Silva.epub)
@@ -57,7 +57,7 @@ Londonban megölnek egy feltételezett al-Kaida tagot, akinél az izraeli titkos
 
 <hr/>
 # <a name="id_810">Daniel Silva: A Moszad ügynöke (Gabriel Allon 7) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20%28810%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20%28810%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20%28810%29/A%20Moszad%20ugynoke%20-%20Daniel%20Silva.epub)
@@ -77,7 +77,7 @@ Daniel Silva korunk egyik legnagyobb kémregényírója John le Carré és Ian F
 
 <hr/>
 # <a name="id_814">Daniel Silva: A Moszad ügynöke Moszkvában (Gabriel Allon 8) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20Moszkvaban%20%28814%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20Moszkvaban%20%28814%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20Moszkvaban%20%28814%29/A%20Moszad%20ugynoke%20Moszkvaban%20-%20Daniel%20Silva.epub)
@@ -92,7 +92,7 @@ A volt KGB-ügynök Ivan Harkov a Szovjetunió romjaiból építette fel pénzü
 
 <hr/>
 # <a name="id_813">Daniel Silva: A Moszad ügynöke és az oligarcha (Gabriel Allon 9) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20es%20az%20oligarcha%20%28813%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20es%20az%20oligarcha%20%28813%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20es%20az%20oligarcha%20%28813%29/A%20Moszad%20ugynoke%20es%20az%20oligarch%20-%20Daniel%20Silva.epub)
@@ -110,7 +110,7 @@ Daniel Silva, napjaink talán legnépszerűbb thrillerszerzője, feledhetetlen k
 
 <hr/>
 # <a name="id_812">Daniel Silva: A Moszad ügynöke és a Rembrandt ügy (Gabriel Allon 10) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20es%20a%20Rembrandt%20ugy%20%28812%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20es%20a%20Rembrandt%20ugy%20%28812%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Moszad%20ugynoke%20es%20a%20Rembrandt%20ugy%20%28812%29/A%20Moszad%20ugynoke%20es%20a%20Rembrandt%20-%20Daniel%20Silva.epub)
@@ -129,7 +129,7 @@ Elizabeth Halton percei meg vannak számlálva; Allon versenyt fut az idővel, �
 
 <hr/>
 # <a name="id_957">Daniel Silva: A rablás (Gabriel Allon 14) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20rablas%20%28957%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20rablas%20%28957%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20rablas%20%28957%29/A%20rablas%20-%20Daniel%20Silva.epub)
@@ -144,7 +144,7 @@ Elizabeth Halton percei meg vannak számlálva; Allon versenyt fut az idővel, �
 
 <hr/>
 # <a name="id_816">Daniel Silva: Bűnjel (Michael Osbourne 1) (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Bunjel%20%28816%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Bunjel%20%28816%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Bunjel%20%28816%29/Bunjel%20-%20Daniel%20Silva.epub)
@@ -158,7 +158,7 @@ Michael Osbourne-nak, a CIA Terroristaelhárító Központ vezető munkatársán
 
 <hr/>
 # <a name="id_809">Daniel Silva: A Gyóntató - 2003 </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Gyontato%20-%202003%20%28809%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Gyontato%20-%202003%20%28809%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/A%20Gyontato%20-%202003%20%28809%29/A%20Gyontato%20-%202003%20-%20Daniel%20Silva.epub)
@@ -169,7 +169,7 @@ Michael Osbourne-nak, a CIA Terroristaelhárító Központ vezető munkatársán
 
 <hr/>
 # <a name="id_817">Daniel Silva: Hidegvérrel - 2000 </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Hidegverrel%20-%202000%20%28817%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Hidegverrel%20-%202000%20%28817%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Hidegverrel%20-%202000%20%28817%29/Hidegverrel%20-%202000%20-%20Daniel%20Silva.epub)
@@ -180,7 +180,7 @@ A Hidegvérrel feszes, jól felépített regény egy hősről, akinek az a küld
 
 <hr/>
 # <a name="id_815">Daniel Silva: Az időzített kém (1997)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Az%20idozitett%20kem%20%28815%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Az%20idozitett%20kem%20%28815%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Daniel%20Silva/Az%20idozitett%20kem%20%28815%29/Az%20idozitett%20kem%20-%20Daniel%20Silva.epub)

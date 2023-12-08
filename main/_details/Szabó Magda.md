@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1336">Szabó Magda: A pillanat (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%20Magda/A%20pillanat%20%281336%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%20Magda/A%20pillanat%20%281336%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%20Magda/A%20pillanat%20%281336%29/A%20pillanat%20-%20Szabo%20Magda.epub)

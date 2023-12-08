@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_671">Matti Rönkä: A határjáró (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Matti%20Ronka/A%20hatarjaro%20%28671%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Matti%20Ronka/A%20hatarjaro%20%28671%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Matti%20Ronka/A%20hatarjaro%20%28671%29/A%20hatarjaro%20-%20Matti%20Ronka.epub)

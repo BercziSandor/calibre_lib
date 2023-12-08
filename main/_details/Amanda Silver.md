@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_952">Amanda Silver: A kéz, amely a bölcsőt ringatja (1995)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Amanda%20Silver/A%20kez%2C%20amely%20a%20bolcsot%20ringatja%20%28952%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Amanda%20Silver/A%20kez%2C%20amely%20a%20bolcsot%20ringatja%20%28952%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Amanda%20Silver/A%20kez%2C%20amely%20a%20bolcsot%20ringatja%20%28952%29/A%20kez%2C%20amely%20a%20bolcsot%20ringatja%20-%20Amanda%20Silver.epub)

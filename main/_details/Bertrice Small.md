@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_769">Bertrice Small: Titkos örömök (Csatorna 1) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bertrice%20Small/Titkos%20oromok%20%28769%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bertrice%20Small/Titkos%20oromok%20%28769%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bertrice%20Small/Titkos%20oromok%20%28769%29/Titkos%20oromok%20-%20Bertrice%20Small.epub)

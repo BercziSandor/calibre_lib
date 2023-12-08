@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_103">Robin Cook: Vakság (Jack Stapleton & Laurie Montgomery 1) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Vaksag%20%28103%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Vaksag%20%28103%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Vaksag%20%28103%29/Vaksag%20-%20Robin%20Cook.epub)
@@ -14,7 +14,7 @@ Adva van egy csinos, fiatal orvosnő, két férfi – egyikük maga is orvos, m�
 
 <hr/>
 # <a name="id_95">Robin Cook: Kromoszóma (Jack Stapleton & Laurie Montgomery 3) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Kromoszoma%20%2895%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Kromoszoma%20%2895%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Kromoszoma%20%2895%29/Kromoszoma%20-%20Robin%20Cook.epub)
@@ -28,7 +28,7 @@ Tökéletes ​génmanipuláció, korszakalkotó szervátültetések, plusz még
 
 <hr/>
 # <a name="id_106">Robin Cook: Vektor (Jack Stapleton & Laurie Montgomery 4) (1999)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Vektor%20%28106%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Vektor%20%28106%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Vektor%20%28106%29/Vektor%20-%20Robin%20Cook.epub)
@@ -42,7 +42,7 @@ Dr. ​Robin Cook a hajmeresztő orvosi thriller koronázatlan királya most vis
 
 <hr/>
 # <a name="id_89">Robin Cook: Fertőzés (Jack Stapleton & Laurie Montgomery 5) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Fertozes%20%2889%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Fertozes%20%2889%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Fertozes%20%2889%29/Fertozes%20-%20Robin%20Cook.epub)
@@ -58,7 +58,7 @@ Robin Cook nemhiába a kontrasztok nagymestere!
 
 <hr/>
 # <a name="id_104">Robin Cook: Válság (Jack Stapleton & Laurie Montgomery 6) (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Valsag%20%28104%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Valsag%20%28104%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Valsag%20%28104%29/Valsag%20-%20Robin%20Cook.epub)
@@ -72,7 +72,7 @@ Robin ​Cook, az orvosi krimi koronázatlan királya vadonatúj, szinte a magya
 
 <hr/>
 # <a name="id_102">Robin Cook: Szöktetés (2000)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Szoktetes%20%28102%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Szoktetes%20%28102%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Szoktetes%20%28102%29/Szoktetes%20-%20Robin%20Cook.epub)
@@ -86,7 +86,7 @@ Az INVÁZIÓ sikerén felbuzdulva Robin Cook ismét egy új világba kalauzolja 
 
 <hr/>
 # <a name="id_100">Robin Cook: Szélütés (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Szelutes%20%28100%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Szelutes%20%28100%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Szelutes%20%28100%29/Szelutes%20-%20Robin%20Cook.epub)
@@ -100,7 +100,7 @@ Mi ​köze egymáshoz egy konzervatív, déli amerikai szenátornak, a kereszt�
 
 <hr/>
 # <a name="id_92">Robin Cook: Invázió (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Invazio%20%2892%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Invazio%20%2892%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Invazio%20%2892%29/Invazio%20-%20Robin%20Cook.epub)
@@ -115,7 +115,7 @@ Az ​Egyesült Államok nyugati részén egy éjszaka az égen különös, csil
 
 <hr/>
 # <a name="id_97">Robin Cook: Műhiba (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Muhiba%20%2897%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Muhiba%20%2897%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Muhiba%20%2897%29/Muhiba%20-%20Robin%20Cook.epub)
@@ -129,7 +129,7 @@ Az ​Egyesült Államok nyugati részén egy éjszaka az égen különös, csil
 
 <hr/>
 # <a name="id_88">Robin Cook: Életjel (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Eletjel%20%2888%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Eletjel%20%2888%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Eletjel%20%2888%29/Eletjel%20-%20Robin%20Cook.epub)
@@ -143,7 +143,7 @@ A gyermek utáni vágy kizsákmányolói – Terror és rémület az élet bölc
 
 <hr/>
 # <a name="id_91">Robin Cook: Haláltusa (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Halaltusa%20%2891%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Halaltusa%20%2891%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Halaltusa%20%2891%29/Halaltusa%20-%20Robin%20Cook.epub)
@@ -157,7 +157,7 @@ Dúsgazdag, befolyásos üzletemberek, kitűnő családból származó fiatal l�
 
 <hr/>
 # <a name="id_93">Robin Cook: Járvány (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Jarvany%20%2893%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Jarvany%20%2893%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Jarvany%20%2893%29/Jarvany%20-%20Robin%20Cook.epub)
@@ -173,7 +173,7 @@ járványkutatók. És magánnyomozásba kezd a becsvágyó, fiatal orvosnő, Ma
 
 <hr/>
 # <a name="id_101">Robin Cook: Szfinx (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Szfinx%20%28101%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Szfinx%20%28101%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Szfinx%20%28101%29/Szfinx%20-%20Robin%20Cook.epub)
@@ -187,7 +187,7 @@ Az orvosi krimijeiről ismert szerző ezúttal klasszikus helyszínt választott
 
 <hr/>
 # <a name="id_84">Robin Cook: A gyötrelem éve (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/A%20gyotrelem%20eve%20%2884%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/A%20gyotrelem%20eve%20%2884%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/A%20gyotrelem%20eve%20%2884%29/A%20gyotrelem%20eve%20-%20Robin%20Cook.epub)
@@ -202,7 +202,7 @@ A kezdő orvos kitartóan küzd a folyton csukló Mr. Roso, vagy a megállíthat
 
 <hr/>
 # <a name="id_85">Robin Cook: Agy (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Agy%20%2885%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Agy%20%2885%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Agy%20%2885%29/Agy%20-%20Robin%20Cook.epub)
@@ -217,7 +217,7 @@ A kezdő orvos kitartóan küzd a folyton csukló Mr. Roso, vagy a megállíthat
 
 <hr/>
 # <a name="id_86">Robin Cook: Agymosás (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Agymosas%20%2886%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Agymosas%20%2886%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Agymosas%20%2886%29/Agymosas%20-%20Robin%20Cook.epub)
@@ -231,7 +231,7 @@ Adam ​Schonberg, harmadéves orvostanhallgató nehéz anyagi körülmények k�
 
 <hr/>
 # <a name="id_87">Robin Cook: Akár az Isten (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Akar%20az%20Isten%20%2887%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Akar%20az%20Isten%20%2887%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Akar%20az%20Isten%20%2887%29/Akar%20az%20Isten%20-%20Robin%20Cook.epub)
@@ -245,7 +245,7 @@ Adam ​Schonberg, harmadéves orvostanhallgató nehéz anyagi körülmények k�
 
 <hr/>
 # <a name="id_94">Robin Cook: Kóma (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Koma%20%2894%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Koma%20%2894%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Koma%20%2894%29/Koma%20-%20Robin%20Cook.epub)
@@ -262,7 +262,7 @@ A regényből készült filmet Magyarországon is nagy sikerrel játszották.
 
 <hr/>
 # <a name="id_96">Robin Cook: Láz (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Laz%20%2896%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Laz%20%2896%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Laz%20%2896%29/Laz%20-%20Robin%20Cook.epub)
@@ -276,7 +276,7 @@ Charles Martel, a kiváló rákkutató orvos egy napon rádöbben, hogy tizenké
 
 <hr/>
 # <a name="id_98">Robin Cook: Mutáció (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Mutacio%20%2898%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Mutacio%20%2898%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Mutacio%20%2898%29/Mutacio%20-%20Robin%20Cook.epub)
@@ -290,7 +290,7 @@ Amikor Kivi, a hideg fénnyel csillogó szemű kisfiú megszületik, még senki 
 
 <hr/>
 # <a name="id_90">Robin Cook: Halálos kockázat (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Halalos%20kockazat%20%2890%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Halalos%20kockazat%20%2890%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Halalos%20kockazat%20%2890%29/Halalos%20kockazat%20-%20Robin%20Cook.epub)
@@ -304,7 +304,7 @@ Dr. Edward Amstrong a nagyreményű, fiatal agykutató egy véletlen folytán mi
 
 <hr/>
 # <a name="id_105">Robin Cook: Végzetes megoldás (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Vegzetes%20megoldas%20%28105%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Vegzetes%20megoldas%20%28105%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Vegzetes%20megoldas%20%28105%29/Vegzetes%20megoldas%20-%20Robin%20Cook.epub)
@@ -318,7 +318,7 @@ Semmi nem az, aminek látszik - csak a rémület... Mint a mesében... Egy fiata
 
 <hr/>
 # <a name="id_99">Robin Cook: Sokk (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Sokk%20%2899%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Sokk%20%2899%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Sokk%20%2899%29/Sokk%20-%20Robin%20Cook.epub)

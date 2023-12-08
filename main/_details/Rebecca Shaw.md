@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1009">Rebecca Shaw: Az új lelkész (Turnham Malpas 1) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rebecca%20Shaw/Az%20uj%20lelkesz%20%281009%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rebecca%20Shaw/Az%20uj%20lelkesz%20%281009%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rebecca%20Shaw/Az%20uj%20lelkesz%20%281009%29/Az%20uj%20lelkesz%20-%20Rebecca%20Shaw.epub)

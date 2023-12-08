@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1016">Tari, Annamária: Z generáció (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tari%2C%20Annamaria/Z%20generacio%20%281016%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tari%2C%20Annamaria/Z%20generacio%20%281016%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Tari%2C%20Annamaria/Z%20generacio%20%281016%29/Z%20generacio%20-%20Tari%2C%20Annamaria.epub)

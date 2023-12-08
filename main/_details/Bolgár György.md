@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1647">Bolgár György: Orbán-mesék (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bolgar%20Gyorgy/Orban-mesek%20%281647%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bolgar%20Gyorgy/Orban-mesek%20%281647%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bolgar%20Gyorgy/Orban-mesek%20%281647%29/Orban-mesek%20-%20Bolgar%20Gyorgy.epub)

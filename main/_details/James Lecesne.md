@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1272">James Lecesne: Trevor (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Lecesne/Trevor%20%281272%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Lecesne/Trevor%20%281272%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Lecesne/Trevor%20%281272%29/Trevor%20-%20James%20Lecesne.epub)

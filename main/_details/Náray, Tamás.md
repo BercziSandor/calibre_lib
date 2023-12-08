@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1234">Náray, Tamás: Zarah (Zarah 1) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Naray%2C%20Tamas/Zarah%20%281234%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Naray%2C%20Tamas/Zarah%20%281234%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Naray%2C%20Tamas/Zarah%20%281234%29/Zarah%20-%20Naray%2C%20Tamas.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_1233">Náray, Tamás: Zarah öröksége (Zarah 2) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Naray%2C%20Tamas/Zarah%20oroksege%20%281233%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Naray%2C%20Tamas/Zarah%20oroksege%20%281233%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Naray%2C%20Tamas/Zarah%20oroksege%20%281233%29/Zarah%20oroksege%20-%20Naray%2C%20Tamas.epub)
@@ -29,7 +29,7 @@
 
 <hr/>
 # <a name="id_1235">Náray, Tamás: Zarah álma (Zarah 3) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Naray%2C%20Tamas/Zarah%20alma%20%281235%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Naray%2C%20Tamas/Zarah%20alma%20%281235%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Naray%2C%20Tamas/Zarah%20alma%20%281235%29/Zarah%20alma%20-%20Naray%2C%20Tamas.epub)

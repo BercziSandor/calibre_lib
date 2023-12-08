@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1006">Simon Kernick: Rossz időben, rossz helyen (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Simon%20Kernick/Rossz%20idoben%2C%20rossz%20helyen%20%281006%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Simon%20Kernick/Rossz%20idoben%2C%20rossz%20helyen%20%281006%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Simon%20Kernick/Rossz%20idoben%2C%20rossz%20helyen%20%281006%29/Rossz%20idoben%2C%20rossz%20helyen%20-%20Simon%20Kernick.epub)

@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_797">Jon Krakauer: Út a vadonba (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jon%20Krakauer/Ut%20a%20vadonba%20%28797%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jon%20Krakauer/Ut%20a%20vadonba%20%28797%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jon%20Krakauer/Ut%20a%20vadonba%20%28797%29/Ut%20a%20vadonba%20-%20Jon%20Krakauer.epub)

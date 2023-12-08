@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_2">Erich Fromm: Birtokolni vagy létezni? (1994)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Fromm/Birtokolni%20vagy%20letezni_%20%282%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Fromm/Birtokolni%20vagy%20letezni_%20%282%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Fromm/Birtokolni%20vagy%20letezni_%20%282%29/Birtokolni%20vagy%20letezni_%20-%20Erich%20Fromm.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_290">Erich Fromm: Férfi és nő (1996)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Fromm/Ferfi%20es%20no%20%28290%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Fromm/Ferfi%20es%20no%20%28290%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Fromm/Ferfi%20es%20no%20%28290%29/Ferfi%20es%20no%20-%20Erich%20Fromm.epub)
@@ -30,7 +30,7 @@
 
 <hr/>
 # <a name="id_314">Erich Fromm: Az Önmagáért való Ember (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Fromm/Az%20Onmagaert%20valo%20Ember%20%28314%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Fromm/Az%20Onmagaert%20valo%20Ember%20%28314%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Fromm/Az%20Onmagaert%20valo%20Ember%20%28314%29/Az%20Onmagaert%20valo%20Ember%20-%20Erich%20Fromm.epub)
@@ -45,7 +45,7 @@
 
 <hr/>
 # <a name="id_288">Erich Fromm: A szeretet művészete (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Fromm/A%20szeretet%20muveszete%20%28288%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Fromm/A%20szeretet%20muveszete%20%28288%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Fromm/A%20szeretet%20muveszete%20%28288%29/A%20szeretet%20muveszete%20-%20Erich%20Fromm.epub)

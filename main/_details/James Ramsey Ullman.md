@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_953">James Ramsey Ullman: A Himalája fia (1963)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Ramsey%20Ullman/A%20Himalaja%20fia%20%28953%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Ramsey%20Ullman/A%20Himalaja%20fia%20%28953%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Ramsey%20Ullman/A%20Himalaja%20fia%20%28953%29/A%20Himalaja%20fia%20-%20James%20Ramsey%20Ullman.epub)

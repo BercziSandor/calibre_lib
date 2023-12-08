@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1653">Rick Riordan: A csontlabirintus (A 39 kulcs 1) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/A%20csontlabirintus%20%281653%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/A%20csontlabirintus%20%281653%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/A%20csontlabirintus%20%281653%29/A%20csontlabirintus%20-%20Rick%20Riordan.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_1656">Rick Riordan: Az elrejtett orákulum (Apollón próbái 1) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Az%20elrejtett%20orakulum%20%281656%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Az%20elrejtett%20orakulum%20%281656%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Az%20elrejtett%20orakulum%20%281656%29/Az%20elrejtett%20orakulum%20-%20Rick%20Riordan.epub)
@@ -30,7 +30,7 @@
 
 <hr/>
 # <a name="id_1655">Rick Riordan: A lángoló Labirintus (Apollón próbái 3) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/A%20langolo%20Labirintus%20%281655%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/A%20langolo%20Labirintus%20%281655%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/A%20langolo%20Labirintus%20%281655%29/A%20langolo%20Labirintus%20-%20Rick%20Riordan.epub)
@@ -45,7 +45,7 @@
 
 <hr/>
 # <a name="id_1663">Rick Riordan: Az elveszett hős (Az Olimposz hősei 1) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Az%20elveszett%20hos%20%281663%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Az%20elveszett%20hos%20%281663%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Az%20elveszett%20hos%20%281663%29/Az%20elveszett%20hos%20-%20Rick%20Riordan.epub)
@@ -60,7 +60,7 @@
 
 <hr/>
 # <a name="id_1652">Rick Riordan: Neptunus fia (Az Olimposz hősei 2) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Neptunus%20fia%20%281652%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Neptunus%20fia%20%281652%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Neptunus%20fia%20%281652%29/Neptunus%20fia%20-%20Rick%20Riordan.epub)
@@ -75,7 +75,7 @@
 
 <hr/>
 # <a name="id_1657">Rick Riordan: Percy Jackson görög hősei (Az Olimposz hősei 4.1) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Percy%20Jackson%20gorog%20hosei%20%281657%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Percy%20Jackson%20gorog%20hosei%20%281657%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Percy%20Jackson%20gorog%20hosei%20%281657%29/Percy%20Jackson%20gorog%20hosei%20-%20Rick%20Riordan.epub)
@@ -90,7 +90,7 @@
 
 <hr/>
 # <a name="id_1650">Rick Riordan: Az Olimposz vére (Az Olimposz hősei 5) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Az%20Olimposz%20vere%20%281650%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Az%20Olimposz%20vere%20%281650%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Az%20Olimposz%20vere%20%281650%29/Az%20Olimposz%20vere%20-%20Rick%20Riordan.epub)
@@ -102,7 +102,7 @@
 
 <hr/>
 # <a name="id_1658">Rick Riordan: Tűztrónus (Kane krónikák 2) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Tuztronus%20%281658%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Tuztronus%20%281658%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Tuztronus%20%281658%29/Tuztronus%20-%20Rick%20Riordan.epub)
@@ -114,7 +114,7 @@
 
 <hr/>
 # <a name="id_1654">Rick Riordan: A kígyó árnyéka (Kane krónikák 3) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/A%20kigyo%20arnyeka%20%281654%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/A%20kigyo%20arnyeka%20%281654%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/A%20kigyo%20arnyeka%20%281654%29/A%20kigyo%20arnyeka%20-%20Rick%20Riordan.epub)
@@ -136,7 +136,7 @@
 
 <hr/>
 # <a name="id_1649">Rick Riordan: A villámtolvaj (Percy Jackson és az olimposziak 1) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/A%20villamtolvaj%20%281649%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/A%20villamtolvaj%20%281649%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/A%20villamtolvaj%20%281649%29/A%20villamtolvaj%20-%20Rick%20Riordan.epub)
@@ -148,7 +148,7 @@
 
 <hr/>
 # <a name="id_1661">Rick Riordan: A szörnyek tengere (Percy Jackson és az olimposziak 2) (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/A%20szornyek%20tengere%20%281661%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/A%20szornyek%20tengere%20%281661%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/A%20szornyek%20tengere%20%281661%29/A%20szornyek%20tengere%20-%20Rick%20Riordan.epub)
@@ -163,7 +163,7 @@
 
 <hr/>
 # <a name="id_1648">Rick Riordan: A titán átka (Percy Jackson és az olimposziak 3) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/A%20titan%20atka%20%281648%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/A%20titan%20atka%20%281648%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/A%20titan%20atka%20%281648%29/A%20titan%20atka%20-%20Rick%20Riordan.epub)
@@ -178,7 +178,7 @@
 
 <hr/>
 # <a name="id_1659">Rick Riordan: The Battle of the Labyrinth (Percy Jackson és az olimposziak 4) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/The%20Battle%20of%20the%20Labyrinth%20%281659%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/The%20Battle%20of%20the%20Labyrinth%20%281659%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/The%20Battle%20of%20the%20Labyrinth%20%281659%29/The%20Battle%20of%20the%20Labyrinth%20-%20Rick%20Riordan.epub)
@@ -193,7 +193,7 @@
 
 <hr/>
 # <a name="id_1662">Rick Riordan: Az utolsó olimposzi (Percy Jackson és az olimposziak 5) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Az%20utolso%20olimposzi%20%281662%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Az%20utolso%20olimposzi%20%281662%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Az%20utolso%20olimposzi%20%281662%29/Az%20utolso%20olimposzi%20-%20Rick%20Riordan.epub)
@@ -208,7 +208,7 @@
 
 <hr/>
 # <a name="id_1660">Rick Riordan: Percy Jackson és a görög istenek (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Percy%20Jackson%20es%20a%20gorog%20istenek%20%281660%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Percy%20Jackson%20es%20a%20gorog%20istenek%20%281660%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Rick%20Riordan/Percy%20Jackson%20es%20a%20gorog%20istenek%20%281660%29/Percy%20Jackson%20es%20a%20gorog%20istene%20-%20Rick%20Riordan.pdf)

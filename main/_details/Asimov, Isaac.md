@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1172">Asimov, Isaac: Robottörténetek I-II. (Alapítvány-Birodalom-Robot 1) (1993)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Asimov%2C%20Isaac/Robottortenetek%20I-II_%20%281172%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Asimov%2C%20Isaac/Robottortenetek%20I-II_%20%281172%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Asimov%2C%20Isaac/Robottortenetek%20I-II_%20%281172%29/Robottortenetek%20I-II_%20-%20Asimov%2C%20Isaac.epub)
@@ -14,7 +14,7 @@ A gyűjteményben valamennyi robottörténet szerepel, amelyet a világhírű í
 
 <hr/>
 # <a name="id_1188">Asimov, Isaac: A robbanó Napok (1987)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Asimov%2C%20Isaac/A%20robbano%20Napok%20%281188%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Asimov%2C%20Isaac/A%20robbano%20Napok%20%281188%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Asimov%2C%20Isaac/A%20robbano%20Napok%20%281188%29/A%20robbano%20Napok%20-%20Asimov%2C%20Isaac.epub)
@@ -29,7 +29,7 @@ A gyűjteményben valamennyi robottörténet szerepel, amelyet a világhírű í
 
 <hr/>
 # <a name="id_1171">Asimov, Isaac: Útikalauz (1992)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Asimov%2C%20Isaac/Utikalauz%20%281171%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Asimov%2C%20Isaac/Utikalauz%20%281171%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Asimov%2C%20Isaac/Utikalauz%20%281171%29/Utikalauz%20-%20Asimov%2C%20Isaac.epub)

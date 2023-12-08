@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1368">Moldova, György: Az utolsó töltény 9. (Az utolsó töltény 9) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%209_%20%281368%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%209_%20%281368%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%209_%20%281368%29/Az%20utolso%20tolteny%209_%20-%20Moldova%2C%20Gyorgy.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_1366">Moldova, György: Az utolsó töltény 10. (Az utolsó töltény 10) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%2010_%20%281366%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%2010_%20%281366%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%2010_%20%281366%29/Az%20utolso%20tolteny%2010_%20-%20Moldova%2C%20Gyorgy.epub)
@@ -30,7 +30,7 @@
 
 <hr/>
 # <a name="id_1367">Moldova, György: Az utolsó töltény 11. (Az utolsó töltény 11) (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%2011_%20%281367%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%2011_%20%281367%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%2011_%20%281367%29/Az%20utolso%20tolteny%2011_%20-%20Moldova%2C%20Gyorgy.epub)
@@ -45,7 +45,7 @@
 
 <hr/>
 # <a name="id_1400">Moldova, György: Az utolsó töltény 12. (Az utolsó töltény 12) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%2012_%20%281400%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%2012_%20%281400%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20utolso%20tolteny%2012_%20%281400%29/Az%20utolso%20tolteny%2012_%20-%20Moldova%2C%20Gyorgy.epub)
@@ -60,7 +60,7 @@
 
 <hr/>
 # <a name="id_344">Moldova, György: Harcolj vagy menekülj! (Harcolj, vagy menekülj 1) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Harcolj%20vagy%20menekulj%21%20%28344%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Harcolj%20vagy%20menekulj%21%20%28344%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Harcolj%20vagy%20menekulj%21%20%28344%29/Harcolj%20vagy%20menekulj%21%20-%20Moldova%2C%20Gyorgy.epub)
@@ -74,7 +74,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 
 <hr/>
 # <a name="id_345">Moldova, György: Harcolj vagy menekülj! (Harcolj, vagy menekülj 2) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Harcolj%20vagy%20menekulj%21%20%28345%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Harcolj%20vagy%20menekulj%21%20%28345%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Harcolj%20vagy%20menekulj%21%20%28345%29/Harcolj%20vagy%20menekulj%21%20-%20Moldova%2C%20Gyorgy.epub)
@@ -88,7 +88,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 
 <hr/>
 # <a name="id_1399">Moldova, György: Kegyelemkenyér 1. (Kegyelemkenyér 1) (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Kegyelemkenyer%201_%20%281399%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Kegyelemkenyer%201_%20%281399%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Kegyelemkenyer%201_%20%281399%29/Kegyelemkenyer%201_%20-%20Moldova%2C%20Gyorgy.epub)
@@ -103,14 +103,14 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 
 <hr/>
 # <a name="id_371">Moldova, György: Kádár János 2. (Kádár János 2) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Kadar%20Janos%202_%20%28371%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Kadar%20Janos%202_%20%28371%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Kadar%20Janos%202_%20%28371%29/Kadar%20Janos%202_%20-%20Moldova%2C%20Gyorgy.epub)
 
 <hr/>
 # <a name="id_370">Moldova, György: Kádár János (Kádár János 3) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Kadar%20Janos%20%28370%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Kadar%20Janos%20%28370%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Kadar%20Janos%20%28370%29/Kadar%20Janos%20-%20Moldova%2C%20Gyorgy.epub)
@@ -125,7 +125,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 
 <hr/>
 # <a name="id_1395">Moldova, György: A népet le kell váltani </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20nepet%20le%20kell%20valtani%20%281395%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20nepet%20le%20kell%20valtani%20%281395%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20nepet%20le%20kell%20valtani%20%281395%29/A%20nepet%20le%20kell%20valtani%20-%20Moldova%2C%20Gyorgy.epub)
@@ -140,7 +140,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 
 <hr/>
 # <a name="id_1383">Moldova, György: A pénz szaga </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20penz%20szaga%20%281383%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20penz%20szaga%20%281383%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20penz%20szaga%20%281383%29/A%20penz%20szaga%20-%20Moldova%2C%20Gyorgy.epub)
@@ -151,7 +151,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 
 <hr/>
 # <a name="id_1401">Moldova, György: A Puskás-ügy </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20Puskas-ugy%20%281401%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20Puskas-ugy%20%281401%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20Puskas-ugy%20%281401%29/A%20Puskas-ugy%20-%20Moldova%2C%20Gyorgy.epub)
@@ -163,7 +163,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 
 <hr/>
 # <a name="id_1397">Moldova, György: Az új császár új ruhája </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20uj%20csaszar%20uj%20ruhaja%20%281397%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20uj%20csaszar%20uj%20ruhaja%20%281397%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20uj%20csaszar%20uj%20ruhaja%20%281397%29/Az%20uj%20csaszar%20uj%20ruhaja%20-%20Moldova%2C%20Gyorgy.epub)
@@ -178,7 +178,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 
 <hr/>
 # <a name="id_1372">Moldova, György: Az utóvéd </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20utoved%20%281372%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20utoved%20%281372%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20utoved%20%281372%29/Az%20utoved%20-%20Moldova%2C%20Gyorgy.epub)
@@ -193,14 +193,14 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 
 <hr/>
 # <a name="id_1406">Moldova, György: Kádár János 2. </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Kadar%20Janos%202_%20%281406%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Kadar%20Janos%202_%20%281406%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Kadar%20Janos%202_%20%281406%29/Kadar%20Janos%202_%20-%20Moldova%2C%20Gyorgy.epub)
 
 <hr/>
 # <a name="id_1364">Moldova, György: Akar velem beszélgetni? (1977)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Akar%20velem%20beszelgetni_%20%281364%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Akar%20velem%20beszelgetni_%20%281364%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Akar%20velem%20beszelgetni_%20%281364%29/Akar%20velem%20beszelgetni_%20-%20Moldova%2C%20Gyorgy.epub)
@@ -215,7 +215,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 
 <hr/>
 # <a name="id_1382">Moldova, György: A beszélő disznó (1978)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20beszelo%20diszno%20%281382%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20beszelo%20diszno%20%281382%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20beszelo%20diszno%20%281382%29/A%20beszelo%20diszno%20-%20Moldova%2C%20Gyorgy.epub)
@@ -230,7 +230,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 
 <hr/>
 # <a name="id_1363">Moldova, György: Magyar atom (1980)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Magyar%20atom%20%281363%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Magyar%20atom%20%281363%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Magyar%20atom%20%281363%29/Magyar%20atom%20-%20Moldova%2C%20Gyorgy.epub)
@@ -245,7 +245,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 
 <hr/>
 # <a name="id_1371">Moldova, György: Égi szekér (1982)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Egi%20szeker%20%281371%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Egi%20szeker%20%281371%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Egi%20szeker%20%281371%29/Egi%20szeker%20-%20Moldova%2C%20Gyorgy.epub)
@@ -260,7 +260,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 
 <hr/>
 # <a name="id_1374">Moldova, György: Méhednek gyümölcse (1986)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Mehednek%20gyumolcse%20%281374%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Mehednek%20gyumolcse%20%281374%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Mehednek%20gyumolcse%20%281374%29/Mehednek%20gyumolcse%20-%20Moldova%2C%20Gyorgy.epub)
@@ -275,7 +275,7 @@ A riportkönyvben Moldova György bemutatja a tűzoltók izgalmas munkáját. A 
 
 <hr/>
 # <a name="id_403">Moldova, György: Az Őrség panasza (1987)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20Orseg%20panasza%20%28403%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20Orseg%20panasza%20%28403%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20Orseg%20panasza%20%28403%29/Az%20Orseg%20panasza%20-%20Moldova%2C%20Gyorgy.epub)
@@ -290,7 +290,7 @@ Harminc-negyven teli jegyzettömbbel jöttem haza, itthon is próbáltam kiegés
 
 <hr/>
 # <a name="id_1373">Moldova, György: Ki ölte meg a Holt-tengert? (1988)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Ki%20olte%20meg%20a%20Holt-tengert_%20%281373%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Ki%20olte%20meg%20a%20Holt-tengert_%20%281373%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Ki%20olte%20meg%20a%20Holt-tengert_%20%281373%29/Ki%20olte%20meg%20a%20Holt-tengert_%20-%20Moldova%2C%20Gyorgy.epub)
@@ -305,7 +305,7 @@ Harminc-negyven teli jegyzettömbbel jöttem haza, itthon is próbáltam kiegés
 
 <hr/>
 # <a name="id_1390">Moldova, György: Lopni tudni kell (1989)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Lopni%20tudni%20kell%20%281390%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Lopni%20tudni%20kell%20%281390%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Lopni%20tudni%20kell%20%281390%29/Lopni%20tudni%20kell%20-%20Moldova%2C%20Gyorgy.epub)
@@ -320,7 +320,7 @@ Harminc-negyven teli jegyzettömbbel jöttem haza, itthon is próbáltam kiegés
 
 <hr/>
 # <a name="id_1375">Moldova, György: Magányos pavilon / Az elbocsátott légió (1989)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Maganyos%20pavilon%20_%20Az%20elbocsatott%20l%20%281375%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Maganyos%20pavilon%20_%20Az%20elbocsatott%20l%20%281375%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Maganyos%20pavilon%20_%20Az%20elbocsatott%20l%20%281375%29/Maganyos%20pavilon%20_%20Az%20elbocsato%20-%20Moldova%2C%20Gyorgy.epub)
@@ -335,7 +335,7 @@ Harminc-negyven teli jegyzettömbbel jöttem haza, itthon is próbáltam kiegés
 
 <hr/>
 # <a name="id_1388">Moldova, György: Akit szerettek a nők (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Akit%20szerettek%20a%20nok%20%281388%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Akit%20szerettek%20a%20nok%20%281388%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Akit%20szerettek%20a%20nok%20%281388%29/Akit%20szerettek%20a%20nok%20-%20Moldova%2C%20Gyorgy.epub)
@@ -350,7 +350,7 @@ Harminc-negyven teli jegyzettömbbel jöttem haza, itthon is próbáltam kiegés
 
 <hr/>
 # <a name="id_1384">Moldova, György: A néma súgó (1991)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20nema%20sugo%20%281384%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20nema%20sugo%20%281384%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20nema%20sugo%20%281384%29/A%20nema%20sugo%20-%20Moldova%2C%20Gyorgy.epub)
@@ -365,7 +365,7 @@ Harminc-negyven teli jegyzettömbbel jöttem haza, itthon is próbáltam kiegés
 
 <hr/>
 # <a name="id_939">Moldova, György: A bal oroszlán (1992)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20bal%20oroszlan%20%28939%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20bal%20oroszlan%20%28939%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20bal%20oroszlan%20%28939%29/A%20bal%20oroszlan%20-%20Moldova%2C%20Gyorgy.epub)
@@ -379,7 +379,7 @@ Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattj�
 
 <hr/>
 # <a name="id_1402">Moldova, György: A félelem kapuja (1992)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20felelem%20kapuja%20%281402%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20felelem%20kapuja%20%281402%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20felelem%20kapuja%20%281402%29/A%20felelem%20kapuja%20-%20Moldova%2C%20Gyorgy.epub)
@@ -394,7 +394,7 @@ Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattj�
 
 <hr/>
 # <a name="id_1369">Moldova, György: Bűn az élet… (1993)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Bun%20az%20elet__%20%281369%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Bun%20az%20elet__%20%281369%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Bun%20az%20elet__%20%281369%29/Bun%20az%20elet__%20-%20Moldova%2C%20Gyorgy.epub)
@@ -409,7 +409,7 @@ Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattj�
 
 <hr/>
 # <a name="id_1381">Moldova, György: A jog zsoldosai (1994)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20jog%20zsoldosai%20%281381%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20jog%20zsoldosai%20%281381%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [jog](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/jog.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/riport.md), [ügyvéd](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%bcgyv%c3%a9d.md)
@@ -421,7 +421,7 @@ Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattj�
 
 <hr/>
 # <a name="id_352">Moldova, György: A jog zsoldosai (1994)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20jog%20zsoldosai%20%28352%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20jog%20zsoldosai%20%28352%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20jog%20zsoldosai%20%28352%29/A%20jog%20zsoldosai%20-%20Moldova%2C%20Gyorgy.epub)
@@ -435,7 +435,7 @@ Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattj�
 
 <hr/>
 # <a name="id_1392">Moldova, György: Magyarország szennybemenetele (1995)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Magyarorszag%20szennybemenetele%20%281392%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Magyarorszag%20szennybemenetele%20%281392%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Magyarorszag%20szennybemenetele%20%281392%29/Magyarorszag%20szennybemenetele%20-%20Moldova%2C%20Gyorgy.epub)
@@ -450,7 +450,7 @@ Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattj�
 
 <hr/>
 # <a name="id_1380">Moldova, György: A Balaton elrablása (1996)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20Balaton%20elrablasa%20%281380%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20Balaton%20elrablasa%20%281380%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20Balaton%20elrablasa%20%281380%29/A%20Balaton%20elrablasa%20-%20Moldova%2C%20Gyorgy.epub)
@@ -465,7 +465,7 @@ Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattj�
 
 <hr/>
 # <a name="id_1370">Moldova, György: Ég a Duna! (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Eg%20a%20Duna%21%20%281370%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Eg%20a%20Duna%21%20%281370%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Eg%20a%20Duna%21%20%281370%29/Eg%20a%20Duna%21%20-%20Moldova%2C%20Gyorgy.epub)
@@ -480,7 +480,7 @@ Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattj�
 
 <hr/>
 # <a name="id_1385">Moldova, György: A város hercege (1999)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20varos%20hercege%20%281385%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20varos%20hercege%20%281385%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20varos%20hercege%20%281385%29/A%20varos%20hercege%20-%20Moldova%2C%20Gyorgy.epub)
@@ -495,7 +495,7 @@ Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattj�
 
 <hr/>
 # <a name="id_1404">Moldova, György: Európa hátsó udvara (2000)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Europa%20hatso%20udvara%20%281404%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Europa%20hatso%20udvara%20%281404%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Europa%20hatso%20udvara%20%281404%29/Europa%20hatso%20udvara%20-%20Moldova%2C%20Gyorgy.epub)
@@ -510,7 +510,7 @@ Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattj�
 
 <hr/>
 # <a name="id_1386">Moldova, György: A végtelen vonal (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20vegtelen%20vonal%20%281386%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20vegtelen%20vonal%20%281386%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20vegtelen%20vonal%20%281386%29/A%20vegtelen%20vonal%20-%20Moldova%2C%20Gyorgy.epub)
@@ -525,7 +525,7 @@ Egy luxushajó halad a háborús vizeken, hirtelen egy ellenséges tengeralattj�
 
 <hr/>
 # <a name="id_993">Moldova, György: A napló (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20naplo%20%28993%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20naplo%20%28993%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20naplo%20%28993%29/A%20naplo%20-%20Moldova%2C%20Gyorgy.epub)
@@ -541,7 +541,7 @@ Tízévi munkám fekszik ebben a könyvben, de nagy megtiszteltetésnek tekinten
 
 <hr/>
 # <a name="id_1365">Moldova, György: Az Elátkozott Hivatal (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20Elatkozott%20Hivatal%20%281365%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20Elatkozott%20Hivatal%20%281365%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20Elatkozott%20Hivatal%20%281365%29/Az%20Elatkozott%20Hivatal%20-%20Moldova%2C%20Gyorgy.epub)
@@ -556,7 +556,7 @@ Tízévi munkám fekszik ebben a könyvben, de nagy megtiszteltetésnek tekinten
 
 <hr/>
 # <a name="id_1407">Moldova, György: Kádár János (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Kadar%20Janos%20%281407%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Kadar%20Janos%20%281407%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Kadar%20Janos%20%281407%29/Kadar%20Janos%20-%20Moldova%2C%20Gyorgy.epub)
@@ -571,7 +571,7 @@ Tízévi munkám fekszik ebben a könyvben, de nagy megtiszteltetésnek tekinten
 
 <hr/>
 # <a name="id_1405">Moldova, György: Negyven prédikátor (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Negyven%20predikator%20%281405%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Negyven%20predikator%20%281405%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [prc](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Negyven%20predikator%20%281405%29/Negyven%20predikator%20-%20Moldova%2C%20Gyorgy.prc)
@@ -586,7 +586,7 @@ Tízévi munkám fekszik ebben a könyvben, de nagy megtiszteltetésnek tekinten
 
 <hr/>
 # <a name="id_1378">Moldova, György: Sötét angyal (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Sotet%20angyal%20%281378%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Sotet%20angyal%20%281378%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [prc](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Sotet%20angyal%20%281378%29/Sotet%20angyal%20-%20Moldova%2C%20Gyorgy.prc)
@@ -601,7 +601,7 @@ Tízévi munkám fekszik ebben a könyvben, de nagy megtiszteltetésnek tekinten
 
 <hr/>
 # <a name="id_1408">Moldova, György: Kis aljasságok lányaimnak (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Kis%20aljassagok%20lanyaimnak%20%281408%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Kis%20aljassagok%20lanyaimnak%20%281408%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Kis%20aljassagok%20lanyaimnak%20%281408%29/Kis%20aljassagok%20lanyaimnak%20-%20Moldova%2C%20Gyorgy.epub)
@@ -612,7 +612,7 @@ A "kis aljasságok" gyűjteménye voltaképpen a hatvanéves író élettapaszta
 
 <hr/>
 # <a name="id_1389">Moldova, György: Keserű pohár I. (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Keseru%20pohar%20I_%20%281389%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Keseru%20pohar%20I_%20%281389%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [bor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bor.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [riport](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/riport.md)
@@ -624,7 +624,7 @@ A "kis aljasságok" gyűjteménye voltaképpen a hatvanéves író élettapaszta
 
 <hr/>
 # <a name="id_1391">Moldova, György: Keserű pohár I. (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Keseru%20pohar%20I_%20%281391%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Keseru%20pohar%20I_%20%281391%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Keseru%20pohar%20I_%20%281391%29/Keseru%20pohar%20I_%20-%20Moldova%2C%20Gyorgy.epub)
@@ -639,7 +639,7 @@ A "kis aljasságok" gyűjteménye voltaképpen a hatvanéves író élettapaszta
 
 <hr/>
 # <a name="id_1393">Moldova, György: Per Kádár sírjáért (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Per%20Kadar%20sirjaert%20%281393%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Per%20Kadar%20sirjaert%20%281393%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Per%20Kadar%20sirjaert%20%281393%29/Per%20Kadar%20sirjaert%20-%20Moldova%2C%20Gyorgy.epub)
@@ -650,7 +650,7 @@ Kádár János történelmi szerepéről újra nagyon sokat beszélnek az embere
 
 <hr/>
 # <a name="id_938">Moldova, György: A beszélő disznó / Józsi rendszert vált / Én, I. Viktor (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20beszelo%20diszno%20_%20Jozsi%20rendszert%20%28938%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20beszelo%20diszno%20_%20Jozsi%20rendszert%20%28938%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20beszelo%20diszno%20_%20Jozsi%20rendszert%20%28938%29/A%20beszelo%20diszno%20_%20Jozsi%20rendsz%20-%20Moldova%2C%20Gyorgy.epub)
@@ -664,7 +664,7 @@ Kádár János történelmi szerepéről újra nagyon sokat beszélnek az embere
 
 <hr/>
 # <a name="id_1379">Moldova, György: Ferencvárosi koktél (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Ferencvarosi%20koktel%20%281379%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Ferencvarosi%20koktel%20%281379%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Ferencvarosi%20koktel%20%281379%29/Ferencvarosi%20koktel%20-%20Moldova%2C%20Gyorgy.epub)
@@ -679,7 +679,7 @@ Kádár János történelmi szerepéről újra nagyon sokat beszélnek az embere
 
 <hr/>
 # <a name="id_1362">Moldova, György: A nagy októberi összefogás (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20nagy%20oktoberi%20osszefogas%20%281362%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20nagy%20oktoberi%20osszefogas%20%281362%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/A%20nagy%20oktoberi%20osszefogas%20%281362%29/A%20nagy%20oktoberi%20osszefogas%20-%20Moldova%2C%20Gyorgy.epub)
@@ -694,7 +694,7 @@ Kádár János történelmi szerepéről újra nagyon sokat beszélnek az embere
 
 <hr/>
 # <a name="id_1394">Moldova, György: Zsidómentes övezet (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Zsidomentes%20ovezet%20%281394%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Zsidomentes%20ovezet%20%281394%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Zsidomentes%20ovezet%20%281394%29/Zsidomentes%20ovezet%20-%20Moldova%2C%20Gyorgy.epub)
@@ -709,7 +709,7 @@ Kádár János történelmi szerepéről újra nagyon sokat beszélnek az embere
 
 <hr/>
 # <a name="id_1377">Moldova, György: Akit a mozdony füstje megcsapott… (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Akit%20a%20mozdony%20fustje%20megcsapott__%20%281377%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Akit%20a%20mozdony%20fustje%20megcsapott__%20%281377%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Akit%20a%20mozdony%20fustje%20megcsapott__%20%281377%29/Akit%20a%20mozdony%20fustje%20megcsapot%20-%20Moldova%2C%20Gyorgy.epub)
@@ -724,7 +724,7 @@ Kádár János történelmi szerepéről újra nagyon sokat beszélnek az embere
 
 <hr/>
 # <a name="id_1387">Moldova, György: Az Úr jó vitéze (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20Ur%20jo%20viteze%20%281387%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20Ur%20jo%20viteze%20%281387%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Az%20Ur%20jo%20viteze%20%281387%29/Az%20Ur%20jo%20viteze%20-%20Moldova%2C%20Gyorgy.azw3)
@@ -739,7 +739,7 @@ Kádár János történelmi szerepéről újra nagyon sokat beszélnek az embere
 
 <hr/>
 # <a name="id_1396">Moldova, György: Előttünk az özönvíz (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Elottunk%20az%20ozonviz%20%281396%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Elottunk%20az%20ozonviz%20%281396%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Moldova%2C%20Gyorgy/Elottunk%20az%20ozonviz%20%281396%29/Elottunk%20az%20ozonviz%20-%20Moldova%2C%20Gyorgy.epub)

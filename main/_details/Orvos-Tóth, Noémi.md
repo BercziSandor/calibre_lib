@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1290">Orvos-Tóth, Noémi: Örökölt sors (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Orvos-Toth%2C%20Noemi/Orokolt%20sors%20%281290%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Orvos-Toth%2C%20Noemi/Orokolt%20sors%20%281290%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Orvos-Toth%2C%20Noemi/Orokolt%20sors%20%281290%29/Orokolt%20sors%20-%20Orvos-Toth%2C%20Noemi.epub)

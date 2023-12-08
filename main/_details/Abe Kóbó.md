@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_948">Abe Kóbó: A negyedik jégkorszak (Kozmosz (KFK) 4) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Abe%20Kobo/A%20negyedik%20jegkorszak%20%28948%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Abe%20Kobo/A%20negyedik%20jegkorszak%20%28948%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Abe%20Kobo/A%20negyedik%20jegkorszak%20%28948%29/A%20negyedik%20jegkorszak%20-%20Abe%20Kobo.epub)

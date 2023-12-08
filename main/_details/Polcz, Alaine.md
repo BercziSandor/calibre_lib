@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1815">Polcz, Alaine: Meghalok Én Is? : A Halál És Gyermek (1993)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Meghalok%20En%20Is_%20_%20A%20Halal%20Es%20Gyerme%20%281815%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Meghalok%20En%20Is_%20_%20A%20Halal%20Es%20Gyerme%20%281815%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Meghalok%20En%20Is_%20_%20A%20Halal%20Es%20Gyerme%20%281815%29/Meghalok%20En%20Is_%20_%20A%20Halal%20Es%20Gy%20-%20Polcz%2C%20Alaine.epub)
@@ -12,7 +12,7 @@
 
 <hr/>
 # <a name="id_1505">Polcz, Alaine: Világjáték (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Vilagjatek%20%281505%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Vilagjatek%20%281505%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [djvu](https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Vilagjatek%20%281505%29/Vilagjatek%20-%20Polcz%2C%20Alaine.djvu)
@@ -25,7 +25,7 @@
 
 <hr/>
 # <a name="id_1440">Polcz, Alaine: Ideje a meghalásnak (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Ideje%20a%20meghalasnak%20%281440%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Ideje%20a%20meghalasnak%20%281440%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Ideje%20a%20meghalasnak%20%281440%29/Ideje%20a%20meghalasnak%20-%20Polcz%2C%20Alaine.epub)
@@ -39,7 +39,7 @@
 
 <hr/>
 # <a name="id_1441">Polcz, Alaine: Meghalok én is? (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Meghalok%20en%20is_%20%281441%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Meghalok%20en%20is_%20%281441%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Meghalok%20en%20is_%20%281441%29/Meghalok%20en%20is_%20-%20Polcz%2C%20Alaine.epub)
@@ -54,7 +54,7 @@
 
 <hr/>
 # <a name="id_1442">Polcz, Alaine: Rend és rendetlenség (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Rend%20es%20rendetlenseg%20%281442%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Rend%20es%20rendetlenseg%20%281442%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Rend%20es%20rendetlenseg%20%281442%29/Rend%20es%20rendetlenseg%20-%20Polcz%2C%20Alaine.epub)
@@ -69,14 +69,14 @@
 
 <hr/>
 # <a name="id_1504">Polcz, Alaine: Kit siratok? Mit siratok? (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Kit%20siratok_%20Mit%20siratok_%20%281504%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Kit%20siratok_%20Mit%20siratok_%20%281504%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Kit%20siratok_%20Mit%20siratok_%20%281504%29/Kit%20siratok_%20Mit%20siratok_%20-%20Polcz%2C%20Alaine.pdf)
 
 <hr/>
 # <a name="id_1814">Polcz, Alaine: Rend és rendetlenség (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Rend%20es%20rendetlenseg%20%281814%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Rend%20es%20rendetlenseg%20%281814%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Rend%20es%20rendetlenseg%20%281814%29/Rend%20es%20rendetlenseg%20-%20Polcz%2C%20Alaine.epub)
@@ -90,7 +90,7 @@
 
 <hr/>
 # <a name="id_1439">Polcz, Alaine: Macskaregény (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Macskaregeny%20%281439%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Macskaregeny%20%281439%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Macskaregeny%20%281439%29/Macskaregeny%20-%20Polcz%2C%20Alaine.epub)
@@ -105,7 +105,7 @@
 
 <hr/>
 # <a name="id_1506">Polcz, Alaine: Főzzünk örömmel! (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Fozzunk%20orommel%21%20%281506%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Fozzunk%20orommel%21%20%281506%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Fozzunk%20orommel%21%20%281506%29/Fozzunk%20orommel%21%20-%20Polcz%2C%20Alaine.epub)
@@ -117,7 +117,7 @@
 
 <hr/>
 # <a name="id_1443">Polcz, Alaine: Asszony a fronton (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Asszony%20a%20fronton%20%281443%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Asszony%20a%20fronton%20%281443%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Tagek
 [2. világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/2.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [303 magyar regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/303%20magyar%20reg%c3%a9ny.md), [betegség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/betegs%c3%a9g.md), [budapest](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/budapest.md), [erdély](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/erd%c3%a9ly.md), [erdélyi magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/erd%c3%a9lyi%20magyar%20szerz%c5%91.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1bor%c3%ba.md), [házasság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1zass%c3%a1g.md), [kolozsvár](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kolozsv%c3%a1r.md), [kórház](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b3rh%c3%a1z.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [magyarország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyarorsz%c3%a1g.md), [memoár](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/memo%c3%a1r.md), [nemi erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nemi%20er%c5%91szak.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [nők elleni erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91k%20elleni%20er%c5%91szak.md), [románia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/rom%c3%a1nia.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md)

@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_905">Eric Berne: Szex a szerelemben (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Eric%20Berne/Szex%20a%20szerelemben%20%28905%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Eric%20Berne/Szex%20a%20szerelemben%20%28905%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [djvu](https://github.com/BercziSandor/calibre_lib/raw/main/main/Eric%20Berne/Szex%20a%20szerelemben%20%28905%29/Szex%20a%20szerelemben%20-%20Eric%20Berne.djvu) 
@@ -16,7 +16,7 @@
 
 <hr/>
 # <a name="id_291">Eric Berne: Emberi játszmák (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Eric%20Berne/Emberi%20Jatszmak%20%28291%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Eric%20Berne/Emberi%20Jatszmak%20%28291%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Eric%20Berne/Emberi%20Jatszmak%20%28291%29/Emberi%20jatszmak%20-%20Eric%20Berne.epub)
@@ -31,7 +31,7 @@
 
 <hr/>
 # <a name="id_292">Eric Berne: Sorskönyv (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Eric%20Berne/Sorskonyv%20%28292%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Eric%20Berne/Sorskonyv%20%28292%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Eric%20Berne/Sorskonyv%20%28292%29/Sorskonyv%20-%20Eric%20Berne.epub)

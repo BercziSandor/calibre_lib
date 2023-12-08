@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_921">Alexander McCall Smith: Az első női detektív iroda (No. 1. Női Nyomozóiroda 1) (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Az%20elso%20noi%20detektiv%20iroda%20%28Az%20Elso%20%28921%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Az%20elso%20noi%20detektiv%20iroda%20%28Az%20Elso%20%28921%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Az%20elso%20noi%20detektiv%20iroda%20%28Az%20Elso%20%28921%29/Az%20elso%20noi%20detektiv%20iroda%20-%20Alexander%20McCall%20Smith.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_920">Alexander McCall Smith: Zsiráfkönnyek (No. 1. Női Nyomozóiroda 2) (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Zsirafkonnyek%20%28920%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Zsirafkonnyek%20%28920%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Zsirafkonnyek%20%28920%29/Zsirafkonnyek%20-%20Alexander%20McCall%20Smith.epub)
@@ -30,7 +30,7 @@
 
 <hr/>
 # <a name="id_918">Alexander McCall Smith: Erkölcstan szép lányoknak (No. 1. Női Nyomozóiroda 3) (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Erkolcstan%20Szep%20Lanyoknak%20%28918%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Erkolcstan%20Szep%20Lanyoknak%20%28918%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Erkolcstan%20Szep%20Lanyoknak%20%28918%29/Erkolcstan%20szep%20lanyoknak%20-%20Alexander%20McCall%20Smith.epub)
@@ -45,7 +45,7 @@
 
 <hr/>
 # <a name="id_919">Alexander McCall Smith: Kalahári gépíróiskola férfiak részére (No. 1. Női Nyomozóiroda 4) (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Kalahari%20gepiroiskola%20ferfiak%20resze%20%28919%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Kalahari%20gepiroiskola%20ferfiak%20resze%20%28919%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Kalahari%20gepiroiskola%20ferfiak%20resze%20%28919%29/Kalahari%20gepiroiskola%20ferfiak%20r%20-%20Alexander%20McCall%20Smith.epub)

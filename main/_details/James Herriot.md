@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_926">James Herriot: Egy állatorvos történetei (1983)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Herriot/Egy%20allatorvos%20tortenetei%20%28926%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Herriot/Egy%20allatorvos%20tortenetei%20%28926%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Herriot/Egy%20allatorvos%20tortenetei%20%28926%29/Egy%20allatorvos%20tortenetei%20-%20James%20Herriot.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_1270">James Herriot: Az állatorvos is nős ember (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Herriot/Az%20allatorvos%20is%20nos%20ember%20%281270%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Herriot/Az%20allatorvos%20is%20nos%20ember%20%281270%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Herriot/Az%20allatorvos%20is%20nos%20ember%20%281270%29/Az%20allatorvos%20is%20nos%20ember%20-%20James%20Herriot.epub)
@@ -30,7 +30,7 @@
 
 <hr/>
 # <a name="id_782">James Herriot: Kutyák a rendelőmben (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Herriot/Kutyak%20a%20rendelomben%20%28782%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Herriot/Kutyak%20a%20rendelomben%20%28782%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Herriot/Kutyak%20a%20rendelomben%20%28782%29/Kutyak%20a%20rendelomben%20-%20James%20Herriot.epub)
@@ -45,7 +45,7 @@
 
 <hr/>
 # <a name="id_925">James Herriot: Minden élő az ég alatt (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Herriot/Minden%20elo%20az%20eg%20alatt%20%28925%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Herriot/Minden%20elo%20az%20eg%20alatt%20%28925%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Herriot/Minden%20elo%20az%20eg%20alatt%20%28925%29/Minden%20elo%20az%20eg%20alatt%20-%20James%20Herriot.epub)
@@ -60,7 +60,7 @@
 
 <hr/>
 # <a name="id_929">James Herriot: A repülő állatorvos (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Herriot/A%20repulo%20allatorvos%20%28929%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Herriot/A%20repulo%20allatorvos%20%28929%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Herriot/A%20repulo%20allatorvos%20%28929%29/A%20repulo%20allatorvos%20-%20James%20Herriot.epub)
@@ -75,7 +75,7 @@
 
 <hr/>
 # <a name="id_924">James Herriot: Kutyák a rendelőmben 2. (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Herriot/Kutyak%20a%20rendelomben%202_%20%28924%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Herriot/Kutyak%20a%20rendelomben%202_%20%28924%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Herriot/Kutyak%20a%20rendelomben%202_%20%28924%29/Kutyak%20a%20rendelomben%202_%20-%20James%20Herriot.epub)
@@ -90,7 +90,7 @@
 
 <hr/>
 # <a name="id_927">James Herriot: Állatorvosi pályám kezdetén… (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Herriot/Allatorvosi%20palyam%20kezdeten__%20%28927%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Herriot/Allatorvosi%20palyam%20kezdeten__%20%28927%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Herriot/Allatorvosi%20palyam%20kezdeten__%20%28927%29/Allatorvosi%20palyam%20kezdeten__%20-%20James%20Herriot.epub)

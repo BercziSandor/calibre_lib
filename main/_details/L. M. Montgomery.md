@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_488">L. M. Montgomery: Anne otthonra talál (Anne 1) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20otthonra%20talal%20%28488%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20otthonra%20talal%20%28488%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20otthonra%20talal%20%28488%29/Anne%20otthonra%20talal%20-%20L.%20M.%20Montgomery.epub)
@@ -14,7 +14,7 @@ Avonlea ​kanadai falucska népe felbolydul: vajon mi indíthatta a besavanyodo
 
 <hr/>
 # <a name="id_483">L. M. Montgomery: Anne az élet iskolájában (Anne 2) (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20az%20elet%20iskolajaban%20%28483%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20az%20elet%20iskolajaban%20%28483%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20az%20elet%20iskolajaban%20%28483%29/Anne%20az%20elet%20iskolajaban%20-%20L.%20M.%20Montgomery.epub)
@@ -28,7 +28,7 @@ Anne Shirley, ez a vörös hajú, örökké csacsogó és álmodozásra hajlamos
 
 <hr/>
 # <a name="id_490">L. M. Montgomery: Anne válaszúton (Anne 3) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20valaszuton%20%28490%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20valaszuton%20%28490%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20valaszuton%20%28490%29/Anne%20valaszuton%20-%20L.%20M.%20Montgomery.epub)
@@ -45,7 +45,7 @@ A rendkívül népszerű kanadai írónő legismertebb sorozatának harmadik dar
 
 <hr/>
 # <a name="id_489">L. M. Montgomery: Anne új vizekre evez (Anne 4) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20uj%20vizekre%20evez%20%28489%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20uj%20vizekre%20evez%20%28489%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20uj%20vizekre%20evez%20%28489%29/Anne%20uj%20vizekre%20evez%20-%20L.%20M.%20Montgomery.epub)
@@ -59,7 +59,7 @@ A ​népszerű Anne-sorozat legújabb, sorrendben negyedik kötete az Anne új 
 
 <hr/>
 # <a name="id_486">L. M. Montgomery: Anne férjhez megy (Anne 5) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20ferjhez%20megy%20%28486%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20ferjhez%20megy%20%28486%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20ferjhez%20megy%20%28486%29/Anne%20ferjhez%20megy%20-%20L.%20M.%20Montgomery.epub)
@@ -75,7 +75,7 @@ Anne anya lesz, de rögtön gyászba is borul. Ám végül jóra fordulnak a dol
 
 <hr/>
 # <a name="id_484">L. M. Montgomery: Anne családja körében (Anne 6) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20csaladja%20koreben%20%28484%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20csaladja%20koreben%20%28484%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20csaladja%20koreben%20%28484%29/Anne%20csaladja%20koreben%20-%20L.%20M.%20Montgomery.epub)
@@ -89,7 +89,7 @@ Anne Shirley, aki valaha árvalányként került az Edward-szigeti falucskába, 
 
 <hr/>
 # <a name="id_485">L. M. Montgomery: Anne és a Szivárvány-völgy (Anne 7) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20es%20a%20Szivarvany-volgy%20%28485%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20es%20a%20Szivarvany-volgy%20%28485%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20es%20a%20Szivarvany-volgy%20%28485%29/Anne%20es%20a%20Szivarvany-volgy%20-%20L.%20M.%20Montgomery.epub)
@@ -103,7 +103,7 @@ A ​Zöldmanzárdos-ház vörös hajú Anne-je hatgyerekes családanya, s már 
 
 <hr/>
 # <a name="id_487">L. M. Montgomery: Anne gyermekei a háborúban (Anne 8) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20gyermekei%20a%20haboruban%20%28487%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20gyermekei%20a%20haboruban%20%28487%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20gyermekei%20a%20haboruban%20%28487%29/Anne%20gyermekei%20a%20haboruban%20-%20L.%20M.%20Montgomery.epub)
@@ -117,7 +117,7 @@ Anne gyermekei már majdnem felnőttek, kivéve a vidám, szeleburdi és nyakigl
 
 <hr/>
 # <a name="id_493">L. M. Montgomery: A tűzpróba (Emily 1) (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/A%20tuzproba%20%28493%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/A%20tuzproba%20%28493%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/A%20tuzproba%20%28493%29/A%20tuzproba%20-%20L.%20M.%20Montgomery.epub)
@@ -131,7 +131,7 @@ Emily Starr szeretett édesapja haláláig nem tudja, mi a magány. Noha otthon 
 
 <hr/>
 # <a name="id_494">L. M. Montgomery: Barátságok (Emily 2) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Baratsagok%20%28494%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Baratsagok%20%28494%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Baratsagok%20%28494%29/Baratsagok%20-%20L.%20M.%20Montgomery.epub)
@@ -145,7 +145,7 @@ Emily már a második nyarat tölti New Moonban, a titokzatos, sokat látott, ö
 
 <hr/>
 # <a name="id_495">L. M. Montgomery: Bagolykacaj (Emily 3) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Bagolykacaj%20%28495%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Bagolykacaj%20%28495%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Bagolykacaj%20%28495%29/Bagolykacaj%20-%20L.%20M.%20Montgomery.epub)
@@ -160,7 +160,7 @@ Emily Starr egy sereg oktalan és helytelen dolgot művel, ámde ő nem hétköz
 
 <hr/>
 # <a name="id_496">L. M. Montgomery: Forgószél (Emily 4) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Forgoszel%20%28496%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Forgoszel%20%28496%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Forgoszel%20%28496%29/Forgoszel%20-%20L.%20M.%20Montgomery.epub)
@@ -175,7 +175,7 @@ Nem csoda hát, ha ostobának tartják Emilyt, amikor visszautasítja a fantaszt
 
 <hr/>
 # <a name="id_497">L. M. Montgomery: Szerelmek (Emily 5) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Szerelmek%20%28497%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Szerelmek%20%28497%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Szerelmek%20%28497%29/Szerelmek%20-%20L.%20M.%20Montgomery.epub)
@@ -189,7 +189,7 @@ Emily barátai mind elhagyják Blair Water-t: Ilse Burnley a Montreali Irodalmi 
 
 <hr/>
 # <a name="id_492">L. M. Montgomery: A Mesélő Lány (Váratlan utazás 1) (1999)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/A%20Meselo%20Lany%20%28492%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/A%20Meselo%20Lany%20%28492%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/A%20Meselo%20Lany%20%28492%29/A%20Meselo%20Lany%20-%20L.%20M.%20Montgomery%20%28Case%20Conflict%29.epub) 
@@ -204,7 +204,7 @@ A ​Mesélő Lány ismerős vidékre kalauzolja Lucy Maud Montgomery méltán n
 
 <hr/>
 # <a name="id_491">L. M. Montgomery: Az arany út (Váratlan utazás 2) (2000)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Az%20arany%20ut%20%28491%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Az%20arany%20ut%20%28491%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Az%20arany%20ut%20%28491%29/Az%20arany%20ut%20-%20L.%20M.%20Montgomery.epub)
@@ -218,7 +218,7 @@ Lucy ​Maud Montgomery, a méltán népszerű Anne sorozat szerzője, fiatal ol
 
 <hr/>
 # <a name="id_265">L. M. Montgomery: Avonlea-i krónikák (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Avonlea-i%20kronikak%20%28265%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Avonlea-i%20kronikak%20%28265%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [kanadai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kanadai%20szerz%c5%91.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [prince edward-sziget](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/prince%20edward-sziget.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md)

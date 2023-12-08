@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_346">Dosztojevszkij, Fjodor Mihajlovics: Bűn és bűnhődés (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dosztojevszkij%2C%20Fjodor%20Mihajlovics/Bun%20es%20bunhodes%20%28346%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dosztojevszkij%2C%20Fjodor%20Mihajlovics/Bun%20es%20bunhodes%20%28346%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dosztojevszkij%2C%20Fjodor%20Mihajlovics/Bun%20es%20bunhodes%20%28346%29/Bun%20es%20bunhodes%20-%20Dosztojevszkij%2C%20Fjodor%20Mihajlov.epub)

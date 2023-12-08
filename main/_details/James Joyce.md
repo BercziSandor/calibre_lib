@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_455">James Joyce: Dublini emberek (1914)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Joyce/Dublini%20emberek%20%28455%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Joyce/Dublini%20emberek%20%28455%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Joyce/Dublini%20emberek%20%28455%29/Dublini%20emberek%20-%20James%20Joyce.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_456">James Joyce: Ifjúkori önarckép (1916)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Joyce/Ifjukori%20onarckep%20%28456%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Joyce/Ifjukori%20onarckep%20%28456%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Joyce/Ifjukori%20onarckep%20%28456%29/Ifjukori%20onarckep%20-%20James%20Joyce.epub)
@@ -30,7 +30,7 @@
 
 <hr/>
 # <a name="id_1473">James Joyce: Ulysses (1922)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Joyce/Ulysses%20%281473%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Joyce/Ulysses%20%281473%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Joyce/Ulysses%20%281473%29/Ulysses%20-%20James%20Joyce.epub)

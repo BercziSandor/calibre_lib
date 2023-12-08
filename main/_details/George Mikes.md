@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_406">George Mikes: Papucsban (1987)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20Mikes/Papucsban%20%28406%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20Mikes/Papucsban%20%28406%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20Mikes/Papucsban%20%28406%29/Papucsban%20-%20George%20Mikes.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_985">George Mikes: Hogyan legyünk szegények (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20Mikes/Hogyan%20legyunk%20szegenyek%20%28985%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20Mikes/Hogyan%20legyunk%20szegenyek%20%28985%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20Mikes/Hogyan%20legyunk%20szegenyek%20%28985%29/Hogyan%20legyunk%20szegenyek%20-%20George%20Mikes.epub)

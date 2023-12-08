@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_646">Beck, Judit: Nagy drogkönyv (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Beck%2C%20Judit/Nagy%20drogkonyv%20%28646%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Beck%2C%20Judit/Nagy%20drogkonyv%20%28646%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Beck%2C%20Judit/Nagy%20drogkonyv%20%28646%29/Nagy%20drogkonyv%20-%20Beck%2C%20Judit.epub)

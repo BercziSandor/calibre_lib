@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1211">Elizabeth Adler: Toszkánai nyár (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Elizabeth%20Adler/Toszkanai%20nyar%20%281211%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Elizabeth%20Adler/Toszkanai%20nyar%20%281211%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Elizabeth%20Adler/Toszkanai%20nyar%20%281211%29/Toszkanai%20nyar%20-%20Elizabeth%20Adler.epub)

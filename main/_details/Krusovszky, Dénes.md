@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1521">Krusovszky, Dénes: A fiúk országa (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Krusovszky%2C%20Denes/A%20fiuk%20orszaga%20%281521%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Krusovszky%2C%20Denes/A%20fiuk%20orszaga%20%281521%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Krusovszky%2C%20Denes/A%20fiuk%20orszaga%20%281521%29/A%20fiuk%20orszaga%20-%20Krusovszky%2C%20Denes.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_1520">Krusovszky, Dénes: Akik már nem leszünk sosem (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Krusovszky%2C%20Denes/Akik%20mar%20nem%20leszunk%20sosem%20%281520%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Krusovszky%2C%20Denes/Akik%20mar%20nem%20leszunk%20sosem%20%281520%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Krusovszky%2C%20Denes/Akik%20mar%20nem%20leszunk%20sosem%20%281520%29/Akik%20mar%20nem%20leszunk%20sosem%20-%20Krusovszky%2C%20Denes.epub)

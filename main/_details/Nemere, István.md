@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1015">Nemere, István: Szélhámosok könyve (1993)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Nemere%2C%20Istvan/Szelhamosok%20konyve%20%281015%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Nemere%2C%20Istvan/Szelhamosok%20konyve%20%281015%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Nemere%2C%20Istvan/Szelhamosok%20konyve%20%281015%29/Szelhamosok%20konyve%20-%20Nemere%2C%20Istvan.epub)

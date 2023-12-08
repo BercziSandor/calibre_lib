@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_589">Peter Freund: Laura és Aventerra titkai (Laura 1) (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Peter%20Freund/Laura%20es%20Aventerra%20titkai%20%28589%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Peter%20Freund/Laura%20es%20Aventerra%20titkai%20%28589%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Peter%20Freund/Laura%20es%20Aventerra%20titkai%20%28589%29/Laura%20es%20Aventerra%20titkai%20-%20Peter%20Freund.epub)
@@ -14,7 +14,7 @@ Laura bentlakásos kollégiumban tanul. Őt és öccsét mostohaanyja neveli. A 
 
 <hr/>
 # <a name="id_586">Peter Freund: Laura és a Hét Hold pecsétje (Laura 2) (2004)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Peter%20Freund/Laura%20es%20a%20Het%20Hold%20pecsetje%20%28586%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Peter%20Freund/Laura%20es%20a%20Het%20Hold%20pecsetje%20%28586%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Peter%20Freund/Laura%20es%20a%20Het%20Hold%20pecsetje%20%28586%29/Laura%20es%20a%20Het%20Hold%20pecsetje%20-%20Peter%20Freund.epub)
@@ -29,7 +29,7 @@ Laura ​csak tizenhárom esztendős, de bátorsággal és rendkívüli képess�
 
 <hr/>
 # <a name="id_590">Peter Freund: Laura és az Ezüstszfinx rejtvénye (Laura 3) (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Peter%20Freund/Laura%20es%20az%20Ezustszfinx%20rejtvenye%20%28590%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Peter%20Freund/Laura%20es%20az%20Ezustszfinx%20rejtvenye%20%28590%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Peter%20Freund/Laura%20es%20az%20Ezustszfinx%20rejtvenye%20%28590%29/Laura%20es%20az%20Ezustszfinx%20rejtven%20-%20Peter%20Freund.epub)
@@ -44,7 +44,7 @@ A csata kilátástalannak tűnik…
 
 <hr/>
 # <a name="id_587">Peter Freund: Laura és a sárkánykirályok átka (Laura 4) (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Peter%20Freund/Laura%20es%20a%20sarkanykiralyok%20atka%20%28587%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Peter%20Freund/Laura%20es%20a%20sarkanykiralyok%20atka%20%28587%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Peter%20Freund/Laura%20es%20a%20sarkanykiralyok%20atka%20%28587%29/Laura%20es%20a%20sarkanykiralyok%20atka%20-%20Peter%20Freund.epub)
@@ -58,7 +58,7 @@ Sárkányföldről még senki sem tért vissza – ám csakis itt található a 
 
 <hr/>
 # <a name="id_588">Peter Freund: Laura és a Tűzkígyó gyűrűje (Laura 5) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Peter%20Freund/Laura%20es%20a%20Tuzkigyo%20gyuruje%20%28588%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Peter%20Freund/Laura%20es%20a%20Tuzkigyo%20gyuruje%20%28588%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Peter%20Freund/Laura%20es%20a%20Tuzkigyo%20gyuruje%20%28588%29/Laura%20es%20a%20Tuzkigyo%20gyuruje%20-%20Peter%20Freund.epub)
@@ -72,7 +72,7 @@ Laura egy sok évvel ezelőtt történt baleset óta halottnak hiszi az anyját,
 
 <hr/>
 # <a name="id_1301">Peter Freund: Laura és a Fény Labirintusa (Laura 6) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Peter%20Freund/Laura%20es%20a%20Feny%20Labirintusa%20%281301%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Peter%20Freund/Laura%20es%20a%20Feny%20Labirintusa%20%281301%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Peter%20Freund/Laura%20es%20a%20Feny%20Labirintusa%20%281301%29/Laura%20es%20a%20Feny%20Labirintusa%20-%20Peter%20Freund.epub) 

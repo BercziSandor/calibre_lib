@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_961">Csáki, Judit: Alföldi Róbert Magánügy (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Csaki%2C%20Judit/Alfoldi%20Robert%20Maganugy%20%28961%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Csaki%2C%20Judit/Alfoldi%20Robert%20Maganugy%20%28961%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Csaki%2C%20Judit/Alfoldi%20Robert%20Maganugy%20%28961%29/Alfoldi%20Robert%20Maganugy%20-%20Csaki%2C%20Judit.epub)

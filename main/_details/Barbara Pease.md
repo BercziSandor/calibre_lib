@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_5">Barbara Pease: Miért hazudik a férfi? Miért sír a nő? (Hétköznapi pszichológia 50) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Barbara%20Pease/Miert%20hazudik%20a%20ferfi_%20Miert%20sir%20a%20n%20%285%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Barbara%20Pease/Miert%20hazudik%20a%20ferfi_%20Miert%20sir%20a%20n%20%285%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Barbara%20Pease/Miert%20hazudik%20a%20ferfi_%20Miert%20sir%20a%20n%20%285%29/Miert%20hazudik%20a%20ferfi_%20Miert%20si%20-%20Barbara%20Pease.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_576">Barbara Pease: A férfinak szex kell, a nőnek szerelem (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Barbara%20Pease/A%20ferfinak%20szex%20kell%2C%20a%20nonek%20szere%20%28576%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Barbara%20Pease/A%20ferfinak%20szex%20kell%2C%20a%20nonek%20szere%20%28576%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Barbara%20Pease/A%20ferfinak%20szex%20kell%2C%20a%20nonek%20szere%20%28576%29/A%20ferfinak%20szex%20kell%2C%20a%20nonek%20s%20-%20Barbara%20Pease.epub)
@@ -30,7 +30,7 @@
 
 <hr/>
 # <a name="id_294">Barbara Pease: A testbeszéd enciklopédiája (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Barbara%20Pease/A%20testbeszed%20enciklopediaja%20%28294%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Barbara%20Pease/A%20testbeszed%20enciklopediaja%20%28294%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Barbara%20Pease/A%20testbeszed%20enciklopediaja%20%28294%29/A%20testbeszed%20enciklopediaja%20-%20Barbara%20Pease.epub)

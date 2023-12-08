@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_293">Kivaghy, Krisztián: A manipuláció tudománya (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kivaghy%2C%20Krisztian/A%20manipulacio%20tudomanya%20%28293%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kivaghy%2C%20Krisztian/A%20manipulacio%20tudomanya%20%28293%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kivaghy%2C%20Krisztian/A%20manipulacio%20tudomanya%20%28293%29/A%20manipulacio%20tudomanya%20-%20Kivaghy%2C%20Krisztian.epub)

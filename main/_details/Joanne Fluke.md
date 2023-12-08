@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_622">Joanne Fluke: Áfonyás muffin és gyilkosság (Hannah Swensen titokzatos esetei 3) (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Afonyas%20muffin%20es%20gyilkossag%20%28622%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Afonyas%20muffin%20es%20gyilkossag%20%28622%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Afonyas%20muffin%20es%20gyilkossag%20%28622%29/Afonyas%20muffin%20es%20gyilkossag%20-%20Joanne%20Fluke.epub)
@@ -17,7 +17,7 @@ A sok fordulat és izgalom között már-már alig jut idő a sütésre, de Hann
 
 <hr/>
 # <a name="id_623">Joanne Fluke: Pikáns meglepetés és gyilkosság (Hannah Swensen titokzatos esetei 4) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Pikans%20meglepetes%20es%20gyilkossag%20%28623%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Pikans%20meglepetes%20es%20gyilkossag%20%28623%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Pikans%20meglepetes%20es%20gyilkossag%20%28623%29/Pikans%20meglepetes%20es%20gyilkossag%20-%20Joanne%20Fluke.epub)
@@ -33,7 +33,7 @@ A nyomozási versenyfutás pedig a legnagyobb amerikai ünnep, a július negyedi
 
 <hr/>
 # <a name="id_624">Joanne Fluke: Csokis tündértorta és gyilkosság (Hannah Swensen titokzatos esetei 5) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Csokis%20tundertorta%20es%20gyilkossag%20%28624%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Csokis%20tundertorta%20es%20gyilkossag%20%28624%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Csokis%20tundertorta%20es%20gyilkossag%20%28624%29/Csokis%20tundertorta%20es%20gyilkossa%20-%20Joanne%20Fluke.epub)
@@ -48,7 +48,7 @@ Hannah-nak most mindennél fontosabb, hogy tisztázza sógorát és kiderítse, 
 
 <hr/>
 # <a name="id_625">Joanne Fluke: Karácsonyi habcsók és gyilkosság (Hannah Swensen titokzatos esetei 6) (2009)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Karacsonyi%20habcsok%20es%20gyilkossag%20%28625%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Karacsonyi%20habcsok%20es%20gyilkossag%20%28625%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Karacsonyi%20habcsok%20es%20gyilkossag%20%28625%29/Karacsonyi%20habcsok%20es%20gyilkossa%20-%20Joanne%20Fluke.epub)

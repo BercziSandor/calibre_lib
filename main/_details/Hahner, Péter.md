@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_512">Hahner, Péter: 100 történelmi tévhit (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Hahner%2C%20Peter/100%20tortenelmi%20tevhit%20%28512%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Hahner%2C%20Peter/100%20tortenelmi%20tevhit%20%28512%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Hahner%2C%20Peter/100%20tortenelmi%20tevhit%20%28512%29/100%20tortenelmi%20tevhit%20-%20Hahner%2C%20Peter.epub)

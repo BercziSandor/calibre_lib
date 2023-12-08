@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1238">Szabó T., Anna: A Fűszermadár (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%20T.%2C%20Anna/A%20Fuszermadar%20%281238%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%20T.%2C%20Anna/A%20Fuszermadar%20%281238%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%20T.%2C%20Anna/A%20Fuszermadar%20%281238%29/A%20Fuszermadar%20-%20Szabo%20T.%2C%20Anna.pdf)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_1236">Szabó T., Anna: Törésteszt (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%20T.%2C%20Anna/Toresteszt%20%281236%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%20T.%2C%20Anna/Toresteszt%20%281236%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%20T.%2C%20Anna/Toresteszt%20%281236%29/Toresteszt%20-%20Szabo%20T.%2C%20Anna.epub)

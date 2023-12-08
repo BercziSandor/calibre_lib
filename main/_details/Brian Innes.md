@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1448">Brian Innes: A kínzás és kínvallatás története (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Brian%20Innes/A%20kinzas%20es%20kinvallatas%20tortenete%20%281448%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Brian%20Innes/A%20kinzas%20es%20kinvallatas%20tortenete%20%281448%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Brian%20Innes/A%20kinzas%20es%20kinvallatas%20tortenete%20%281448%29/A%20kinzas%20es%20kinvallatas%20tortene%20-%20Brian%20Innes.epub)

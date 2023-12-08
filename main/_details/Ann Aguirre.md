@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1518">Ann Aguirre: Menedék (Razorland-trilógia 1) (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ann%20Aguirre/Menedek%20%281518%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ann%20Aguirre/Menedek%20%281518%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ann%20Aguirre/Menedek%20%281518%29/Menedek%20-%20Ann%20Aguirre.pdf)

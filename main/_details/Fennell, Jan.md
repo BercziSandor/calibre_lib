@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1723">Fennell, Jan: Kutyapszichológia </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fennell%2C%20Jan/Kutyapszichologia%20%281723%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fennell%2C%20Jan/Kutyapszichologia%20%281723%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fennell%2C%20Jan/Kutyapszichologia%20%281723%29/Kutyapszichologia%20-%20Fennell%2C%20Jan.epub)

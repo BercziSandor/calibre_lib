@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1664">Arne Dahl: Valaki figyel (Berger & Blom 1) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Arne%20Dahl/Valaki%20figyel%20%281664%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Arne%20Dahl/Valaki%20figyel%20%281664%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Arne%20Dahl/Valaki%20figyel%20%281664%29/Valaki%20figyel%20-%20Arne%20Dahl.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_1666">Arne Dahl: Hajsza (Berger & Blom 2) (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Arne%20Dahl/Hajsza%20%281666%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Arne%20Dahl/Hajsza%20%281666%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Arne%20Dahl/Hajsza%20%281666%29/Hajsza%20-%20Arne%20Dahl.epub)
@@ -30,7 +30,7 @@
 
 <hr/>
 # <a name="id_1667">Arne Dahl: Misterioso (Misterioso 1) (1998)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Arne%20Dahl/Misterioso%20%281667%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Arne%20Dahl/Misterioso%20%281667%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Arne%20Dahl/Misterioso%20%281667%29/Misterioso%20-%20Arne%20Dahl.epub)
@@ -45,7 +45,7 @@
 
 <hr/>
 # <a name="id_1668">Arne Dahl: Rossz vér (Misterioso 2) (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Arne%20Dahl/Rossz%20ver%20%281668%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Arne%20Dahl/Rossz%20ver%20%281668%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Arne%20Dahl/Rossz%20ver%20%281668%29/Rossz%20ver%20-%20Arne%20Dahl.epub)

@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1452">Salman Rushdie: Fúriadüh (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Salman%20Rushdie/Furiaduh%20%281452%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Salman%20Rushdie/Furiaduh%20%281452%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Salman%20Rushdie/Furiaduh%20%281452%29/Furiaduh%20-%20Salman%20Rushdie.azw3)

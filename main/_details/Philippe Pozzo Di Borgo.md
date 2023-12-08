@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1267">Philippe Pozzo Di Borgo: Életrevalók (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Philippe%20Pozzo%20Di%20Borgo/Eletrevalok%20%281267%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Philippe%20Pozzo%20Di%20Borgo/Eletrevalok%20%281267%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Philippe%20Pozzo%20Di%20Borgo/Eletrevalok%20%281267%29/Eletrevalok%20-%20Philippe%20Pozzo%20Di%20Borgo.epub)

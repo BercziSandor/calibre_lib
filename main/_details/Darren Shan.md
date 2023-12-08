@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_277">Darren Shan: A holtak vonulása (Város-trilógia 1) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Darren%20Shan/A%20holtak%20vonulasa%20%28277%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Darren%20Shan/A%20holtak%20vonulasa%20%28277%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Darren%20Shan/A%20holtak%20vonulasa%20%28277%29/A%20holtak%20vonulasa%20-%20Darren%20Shan.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_278">Darren Shan: A pokol pereme (Város-trilógia 2) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Darren%20Shan/A%20Pokol%20Pereme%20%28278%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Darren%20Shan/A%20Pokol%20Pereme%20%28278%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Darren%20Shan/A%20Pokol%20Pereme%20%28278%29/A%20pokol%20pereme%20-%20Darren%20Shan.epub) 
@@ -31,7 +31,7 @@
 
 <hr/>
 # <a name="id_279">Darren Shan: A kígyók városa (Város-trilógia 3) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Darren%20Shan/A%20Kigyok%20Varosa%20%28279%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Darren%20Shan/A%20Kigyok%20Varosa%20%28279%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [ír szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%adr%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [trilógia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tril%c3%b3gia.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md)

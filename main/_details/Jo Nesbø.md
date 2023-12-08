@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1705">Jo Nesbø: A nagy aranyrablás (Doktor Proktor Pukipora 4) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20nagy%20aranyrablas%20%281705%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20nagy%20aranyrablas%20%281705%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20nagy%20aranyrablas%20%281705%29/A%20nagy%20aranyrablas%20-%20Jo%20Nesbo.epub)
@@ -13,7 +13,7 @@
 
 <hr/>
 # <a name="id_581">Jo Nesbø: Denevérember (Harry Hole 1) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Deneverember%20%28581%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Deneverember%20%28581%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Deneverember%20%28581%29/Deneverember%20-%20Jo%20Nesbo.epub)
@@ -28,7 +28,7 @@ Az első Harry Hole-sztori!
 
 <hr/>
 # <a name="id_577">Jo Nesbø: Csótányok (Harry Hole 2) (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Csotanyok%20%28577%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Csotanyok%20%28577%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Csotanyok%20%28577%29/Csotanyok%20-%20Jo%20Nesbo.epub)
@@ -42,7 +42,7 @@ Harry Holét, a norvég rendőrség legellentmondásosabb figuráját Thaiföldr
 
 <hr/>
 # <a name="id_1742">Jo Nesbø: Vörösbegy (Harry Hole 3) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Vorosbegy%20%281742%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Vorosbegy%20%281742%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Vorosbegy%20%281742%29/Vorosbegy%20-%20Jo%20Nesbo.epub)
@@ -56,7 +56,7 @@ Harry Holét, a norvég rendőrség legellentmondásosabb figuráját Thaiföldr
 
 <hr/>
 # <a name="id_410">Jo Nesbø: Nemeszisz (Harry Hole 4) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Nemeszisz%20%28410%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Nemeszisz%20%28410%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Nemeszisz%20%28410%29/Nemeszisz%20-%20Jo%20Nesbo.epub)
@@ -71,7 +71,7 @@ Minden benne van, ami egy krimitől elvárható: hamis nyomok, váratlan fordula
 
 <hr/>
 # <a name="id_412">Jo Nesbø: Boszorkányszög (Harry Hole 5) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Boszorkanyszog%20%28412%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Boszorkanyszog%20%28412%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Boszorkanyszog%20%28412%29/Boszorkanyszog%20-%20Jo%20Nesbo.epub)
@@ -86,7 +86,7 @@ Nesbø irodalmi ambícióval közelít a bűnügyi regény műfajához. Mély em
 
 <hr/>
 # <a name="id_592">Jo Nesbø: A megváltó (Harry Hole 6) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20megvalto%20%28592%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20megvalto%20%28592%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20megvalto%20%28592%29/A%20megvalto%20-%20Jo%20Nesbo.epub)
@@ -100,7 +100,7 @@ Egy héttel karácsony előtt, Oslo legforgalmasabb bevásárló utcáján agyon
 
 <hr/>
 # <a name="id_582">Jo Nesbø: Hóember (Harry Hole 7) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Hoember%20%28582%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Hoember%20%28582%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Hoember%20%28582%29/Hoember%20-%20Jo%20Nesbo.epub)
@@ -115,7 +115,7 @@ Amint lehull az első hó, titokzatos eltűnések, bestiális gyilkosságok sora
 
 <hr/>
 # <a name="id_580">Jo Nesbø: Leopárd (Harry Hole 8) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Leopard%20%28580%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Leopard%20%28580%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Leopard%20%28580%29/Leopard%20-%20Jo%20Nesbo.epub)
@@ -130,7 +130,7 @@ Márpedig úgy tűnik, minden eddiginél nehezebb feladat lesz a tettes kézre k
 
 <hr/>
 # <a name="id_591">Jo Nesbø: Kísértet (Harry Hole 9) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Kisertet%20%28591%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Kisertet%20%28591%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Kisertet%20%28591%29/Kisertet%20-%20Jo%20Nesbo.epub)
@@ -144,7 +144,7 @@ Nyár. ​Harangzúgás. Egy fiú, Gusto, a konyha padlóján fekszik egy vért�
 
 <hr/>
 # <a name="id_578">Jo Nesbø: Police (Harry Hole 10) (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Police%20%28578%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Police%20%28578%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Police%20%28578%29/Police%20-%20Jo%20Nesbo.epub)
@@ -159,7 +159,7 @@ Nyár. ​Harangzúgás. Egy fiú, Gusto, a konyha padlóján fekszik egy vért�
 
 <hr/>
 # <a name="id_1739">Jo Nesbø: Szomjúság (Harry Hole 11) (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Szomjusag%20%281739%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Szomjusag%20%281739%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Szomjusag%20%281739%29/Szomjusag%20-%20Jo%20Nesbo.epub)
@@ -173,7 +173,7 @@ Harry Hole három éve visszavonult a nyomozói munkától, a rendőrtiszti fői
 
 <hr/>
 # <a name="id_1740">Jo Nesbø: KÉS (Harry Hole 12) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/KES%20%281740%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/KES%20%281740%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/KES%20%281740%29/KES%20-%20Jo%20Nesbo.epub)
@@ -189,7 +189,7 @@ Amikor Harry egy részeg éjszakán bekövetkezett filmszakadás után reggel fe
 
 <hr/>
 # <a name="id_1736">Jo Nesbø: Vér a havon (Vér a havon 1) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Ver%20a%20havon%20%281736%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Ver%20a%20havon%20%281736%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Ver%20a%20havon%20%281736%29/Ver%20a%20havon%20-%20Jo%20Nesbo.epub)
@@ -203,7 +203,7 @@ Olav furcsa figura, nemigen mer közeledni másokhoz. Gyermekkora óta falja a k
 
 <hr/>
 # <a name="id_978">Jo Nesbø: Fehér éjszaka (Vér a havon 2) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Feher%20ejszaka%20%28978%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Feher%20ejszaka%20%28978%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Feher%20ejszaka%20%28978%29/Feher%20ejszaka%20-%20Jo%20Nesbo.epub)
@@ -217,7 +217,7 @@ Vajon akkor kezdődött ez a történet, amikor rájöttem, hogy csak a negyedik
 
 <hr/>
 # <a name="id_411">Jo Nesbø: Fejvadászok (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Fejvadaszok%20%28411%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Fejvadaszok%20%28411%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Fejvadaszok%20%28411%29/Fejvadaszok%20-%20Jo%20Nesbo.epub)
@@ -231,7 +231,7 @@ Roger Brown igazán a szerencse fiának tűnik: ő Norvégia legsikeresebb fejva
 
 <hr/>
 # <a name="id_1741">Jo Nesbø: A fiú (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20fiu%20%281741%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20fiu%20%281741%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20fiu%20%281741%29/A%20fiu%20-%20Jo%20Nesbo.epub)
@@ -246,7 +246,7 @@ Roger Brown igazán a szerencse fiának tűnik: ő Norvégia legsikeresebb fejva
 
 <hr/>
 # <a name="id_1738">Jo Nesbø: Macbeth (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Macbeth%20%281738%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Macbeth%20%281738%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/Macbeth%20%281738%29/Macbeth%20-%20Jo%20Nesbo.epub)
@@ -262,7 +262,7 @@ Roger Brown igazán a szerencse fiának tűnik: ő Norvégia legsikeresebb fejva
 
 <hr/>
 # <a name="id_1735">Jo Nesbø: A birodalom (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20birodalom%20%281735%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20birodalom%20%281735%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20birodalom%20%281735%29/A%20birodalom%20-%20Jo%20Nesbo.epub)
@@ -278,7 +278,7 @@ Roger Brown igazán a szerencse fiának tűnik: ő Norvégia legsikeresebb fejva
 
 <hr/>
 # <a name="id_1737">Jo Nesbø: A féltékenység-szakértő és más történetek (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20feltekenyseg-szakerto%20es%20mas%20tort%20%281737%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20feltekenyseg-szakerto%20es%20mas%20tort%20%281737%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jo%20Nesbo/A%20feltekenyseg-szakerto%20es%20mas%20tort%20%281737%29/A%20feltekenyseg-szakerto%20es%20mas%20-%20Jo%20Nesbo.epub)

@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_788">Karin Slaughter: Nadragulya (Grant County 1) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Karin%20Slaughter/Nadragulya%20%28788%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Karin%20Slaughter/Nadragulya%20%28788%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Karin%20Slaughter/Nadragulya%20%28788%29/Nadragulya%20-%20Karin%20Slaughter.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_599">Karin Slaughter: Bőr (Grant County 6) (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Karin%20Slaughter/Bor%20%28599%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Karin%20Slaughter/Bor%20%28599%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Karin%20Slaughter/Bor%20%28599%29/Bor%20-%20Karin%20Slaughter.epub)
@@ -30,7 +30,7 @@
 
 <hr/>
 # <a name="id_1488">Karin Slaughter: Összetörve (Will Trent 2) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Karin%20Slaughter/Osszetorve%20%281488%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Karin%20Slaughter/Osszetorve%20%281488%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Karin%20Slaughter/Osszetorve%20%281488%29/Osszetorve%20-%20Karin%20Slaughter.epub)

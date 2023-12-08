@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_763">Popper, Péter: Lélekrágcsálók (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Popper%2C%20Peter/Lelekragcsalok%20%28763%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Popper%2C%20Peter/Lelekragcsalok%20%28763%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Popper%2C%20Peter/Lelekragcsalok%20%28763%29/Lelekragcsalok%20-%20Popper%2C%20Peter.epub)

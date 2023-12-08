@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_904">Laura D.: Szex és tandíj (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Laura%20D_/Szex%20es%20tandij%20%28904%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Laura%20D_/Szex%20es%20tandij%20%28904%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Laura%20D_/Szex%20es%20tandij%20%28904%29/Szex%20es%20tandij%20-%20Laura%20D_.epub)

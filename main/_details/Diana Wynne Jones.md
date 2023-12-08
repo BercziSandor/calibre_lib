@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1413">Diana Wynne Jones: A vándorló palota (Palota 1) (2010)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Diana%20Wynne%20Jones/A%20vandorlo%20palota%20%281413%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Diana%20Wynne%20Jones/A%20vandorlo%20palota%20%281413%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Diana%20Wynne%20Jones/A%20vandorlo%20palota%20%281413%29/A%20vandorlo%20palota%20-%20Diana%20Wynne%20Jones.epub)

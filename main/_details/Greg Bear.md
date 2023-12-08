@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1169">Greg Bear: Alapítvány és Káosz (Alapítvány 5) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Greg%20Bear/Alapitvany%20es%20Kaosz%20%281169%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Greg%20Bear/Alapitvany%20es%20Kaosz%20%281169%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [prc](https://github.com/BercziSandor/calibre_lib/raw/main/main/Greg%20Bear/Alapitvany%20es%20Kaosz%20%281169%29/Alapitvany%20es%20Kaosz%20-%20Greg%20Bear.prc)

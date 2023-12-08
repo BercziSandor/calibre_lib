@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1017">Tersánszky, Józsi Jenő: A tiroli kocsmáros (A tiroli kocsmáros 1) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/A%20tiroli%20kocsmaros%20%281017%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/A%20tiroli%20kocsmaros%20%281017%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/A%20tiroli%20kocsmaros%20%281017%29/A%20tiroli%20kocsmaros%20-%20Tersanszky%2C%20Jozsi%20Jeno.epub)
@@ -11,7 +11,7 @@
 
 <hr/>
 # <a name="id_1012">Tersánszky, Józsi Jenő: A tiroli kocsmáros (A tiroli kocsmáros 2) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/A%20tiroli%20kocsmaros%20%281012%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/A%20tiroli%20kocsmaros%20%281012%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/A%20tiroli%20kocsmaros%20%281012%29/A%20tiroli%20kocsmaros%20-%20Tersanszky%2C%20Jozsi%20Jeno.epub)
@@ -22,7 +22,7 @@
 
 <hr/>
 # <a name="id_611">Tersánszky, Józsi Jenő: A havasi selyemfiú (1976)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/A%20havasi%20selyemfiu%20%28611%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/A%20havasi%20selyemfiu%20%28611%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/A%20havasi%20selyemfiu%20%28611%29/A%20havasi%20selyemfiu%20-%20Tersanszky%2C%20Jozsi%20Jeno.epub)
@@ -37,7 +37,7 @@ Tersánszky különös félvad világot ábrázol, olyan társadalmat mutat be, 
 
 <hr/>
 # <a name="id_613">Tersánszky, Józsi Jenő: Viszontlátásra, drága… / Legenda a nyúlpaprikásról (1982)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/Viszontlatasra%2C%20draga_.%20_%20Legenda%20a%20%28613%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/Viszontlatasra%2C%20draga_.%20_%20Legenda%20a%20%28613%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/Viszontlatasra%2C%20draga_.%20_%20Legenda%20a%20%28613%29/Viszontlatasra%2C%20draga_.%20_%20Legen%20-%20Tersanszky%2C%20Jozsi%20Jeno.epub)
@@ -54,7 +54,7 @@ A másik kisregény szomorkás-derűs története hétköznapi legenda – Legen
 
 <hr/>
 # <a name="id_612">Tersánszky, Józsi Jenő: Legenda a nyúlpaprikásról (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/Legenda%20a%20nyulpaprikasrol%20%28612%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/Legenda%20a%20nyulpaprikasrol%20%28612%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/Legenda%20a%20nyulpaprikasrol%20%28612%29/Legenda%20a%20nyulpaprikasrol%20-%20Tersanszky%2C%20Jozsi%20Jeno.epub)

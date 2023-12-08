@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1228">Grecsó, Krisztián: Jelmezbál (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Jelmezbal%20%281228%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Jelmezbal%20%281228%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Jelmezbal%20%281228%29/Jelmezbal%20-%20Grecso%2C%20Krisztian.epub)
@@ -14,7 +14,7 @@ Az ötödik Grecsó-regény e-book előzetessel és "bemelegítő" - kb. negyven
 
 <hr/>
 # <a name="id_1227">Grecsó, Krisztián: Harminc év napsütés (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Harminc%20ev%20napsutes%20%281227%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Harminc%20ev%20napsutes%20%281227%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Harminc%20ev%20napsutes%20%281227%29/Harminc%20ev%20napsutes%20-%20Grecso%2C%20Krisztian.epub)
@@ -28,7 +28,7 @@ Az Egy csendes kalendárium alcímű kispróza-gyűjtemény valóban az író ö
 
 <hr/>
 # <a name="id_1230">Grecsó, Krisztián: Megyek utánad (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Megyek%20utanad%20%281230%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Megyek%20utanad%20%281230%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Megyek%20utanad%20%281230%29/Megyek%20utanad%20-%20Grecso%2C%20Krisztian.epub)
@@ -44,7 +44,7 @@ Hogyan is lehetne jobban elmesélni egy ember életét, ha nem a szerelmei tört
 
 <hr/>
 # <a name="id_990">Grecsó, Krisztián: Megyek utánad (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Megyek%20utanad%20%28990%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Megyek%20utanad%20%28990%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Megyek%20utanad%20%28990%29/Megyek%20utanad%20-%20Grecso%2C%20Krisztian.epub)
@@ -60,7 +60,7 @@ Hogyan is lehetne jobban elmesélni egy ember életét, ha nem a szerelmei tört
 
 <hr/>
 # <a name="id_1231">Grecsó, Krisztián: Mellettem elférsz (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Mellettem%20elfersz%20%281231%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Mellettem%20elfersz%20%281231%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Mellettem%20elfersz%20%281231%29/Mellettem%20elfersz%20-%20Grecso%2C%20Krisztian.epub)
@@ -75,7 +75,7 @@ Az addig széttartó életpályák a ma Budapestjén találkoznak. A Mellettem e
 
 <hr/>
 # <a name="id_989">Grecsó, Krisztián: Mellettem elférsz (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Mellettem%20elfersz%20%28989%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Mellettem%20elfersz%20%28989%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Mellettem%20elfersz%20%28989%29/Mellettem%20elfersz%20-%20Grecso%2C%20Krisztian.epub)
@@ -90,7 +90,7 @@ Az addig széttartó életpályák a ma Budapestjén találkoznak. A Mellettem e
 
 <hr/>
 # <a name="id_1229">Grecsó, Krisztián: Pletykaanyu (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Pletykaanyu%20%281229%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Pletykaanyu%20%281229%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Pletykaanyu%20%281229%29/Pletykaanyu%20-%20Grecso%2C%20Krisztian.epub)
@@ -104,7 +104,7 @@ Az Isten hozott szerzője ezzel a novelláskötettel robbant be a kortárs magya
 
 <hr/>
 # <a name="id_1224">Grecsó, Krisztián: Vera (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Vera%20%281224%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Vera%20%281224%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Vera%20%281224%29/Vera%20-%20Grecso%2C%20Krisztian.epub)
@@ -119,7 +119,7 @@ Grecsó Krisztián új regénye arról szól, hogy a családi titkokat felfedni 
 
 <hr/>
 # <a name="id_1226">Grecsó, Krisztián: Isten hozott (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Isten%20hozott%20%281226%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Isten%20hozott%20%281226%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Isten%20hozott%20%281226%29/Isten%20hozott%20-%20Grecso%2C%20Krisztian.epub)
@@ -134,7 +134,7 @@ A 2002-ben Bródy Sándor-díjat nyert, Pletykaanyu című könyv szerzőjének 
 
 <hr/>
 # <a name="id_1225">Grecsó, Krisztián: Magamról többet (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Magamrol%20tobbet%20%281225%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Magamrol%20tobbet%20%281225%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Grecso%2C%20Krisztian/Magamrol%20tobbet%20%281225%29/Magamrol%20tobbet%20-%20Grecso%2C%20Krisztian.epub)

@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1491">Thomas Mann: József és testvérei (2014)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Thomas%20Mann/Jozsef%20es%20testverei%20%281491%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Thomas%20Mann/Jozsef%20es%20testverei%20%281491%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Thomas%20Mann/Jozsef%20es%20testverei%20%281491%29/Jozsef%20es%20testverei%20-%20Thomas%20Mann.epub)

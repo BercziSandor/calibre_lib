@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1498">Leiner, Laura: Együtt (A Szent Johanna Gimi 2) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Egyutt%20%281498%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Egyutt%20%281498%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Egyutt%20%281498%29/Egyutt%20-%20Leiner%2C%20Laura.epub)
@@ -12,7 +12,7 @@
 
 <hr/>
 # <a name="id_1497">Leiner, Laura: Egyedül (A Szent Johanna Gimi 3) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Egyedul%20%281497%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Egyedul%20%281497%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Egyedul%20%281497%29/Egyedul%20-%20Leiner%2C%20Laura.epub)
@@ -24,7 +24,7 @@
 
 <hr/>
 # <a name="id_1496">Leiner, Laura: Barátok (A Szent Johanna Gimi 4) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Baratok%20%281496%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Baratok%20%281496%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Baratok%20%281496%29/Baratok%20-%20Leiner%2C%20Laura.epub)
@@ -36,7 +36,7 @@
 
 <hr/>
 # <a name="id_1495">Leiner, Laura: Remény (A Szent Johanna Gimi 5) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Remeny%20%281495%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Remeny%20%281495%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Remeny%20%281495%29/Remeny%20-%20Leiner%2C%20Laura.epub)
@@ -48,7 +48,7 @@
 
 <hr/>
 # <a name="id_1519">Leiner, Laura: Ketten (A Szent Johanna Gimi 6) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Ketten%20%281519%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Ketten%20%281519%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Ketten%20%281519%29/Ketten%20-%20Leiner%2C%20Laura.epub)
@@ -60,7 +60,7 @@
 
 <hr/>
 # <a name="id_1482">Leiner, Laura: Útvesztő (A Szent Johanna Gimi 7) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Utveszto%20%281482%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Utveszto%20%281482%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Utveszto%20%281482%29/Utveszto%20-%20Leiner%2C%20Laura.epub)
@@ -75,7 +75,7 @@
 
 <hr/>
 # <a name="id_1499">Leiner, Laura: Örökké (A Szent Johanna Gimi 8.1) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Orokke%20%281499%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Orokke%20%281499%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Orokke%20%281499%29/Orokke%20-%20Leiner%2C%20Laura.epub)
@@ -90,7 +90,7 @@
 
 <hr/>
 # <a name="id_1500">Leiner, Laura: Örökké (A Szent Johanna Gimi 8.2) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Orokke%20%281500%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Orokke%20%281500%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Orokke%20%281500%29/Orokke%20-%20Leiner%2C%20Laura.epub)
@@ -105,7 +105,7 @@
 
 <hr/>
 # <a name="id_1474">Leiner, Laura: Késtél (Bexi 1) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Kestel%20%281474%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Kestel%20%281474%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Kestel%20%281474%29/Kestel%20-%20Leiner%2C%20Laura.epub)
@@ -120,7 +120,7 @@
 
 <hr/>
 # <a name="id_1487">Leiner, Laura: Valahol (Bexi 5) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Valahol%20%281487%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Valahol%20%281487%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Valahol%20%281487%29/Valahol%20-%20Leiner%2C%20Laura.epub)
@@ -141,7 +141,7 @@ felforgatott mindent a zenészek életében.
 
 <hr/>
 # <a name="id_1480">Leiner, Laura: Egyszer (Bexi 6) (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Egyszer%20%281480%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Egyszer%20%281480%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Egyszer%20%281480%29/Egyszer%20-%20Leiner%2C%20Laura.epub)
@@ -156,7 +156,7 @@ felforgatott mindent a zenészek életében.
 
 <hr/>
 # <a name="id_1476">Leiner, Laura: Ég veled (Iskolák versenye 11) (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Eg%20veled%20%281476%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Eg%20veled%20%281476%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Eg%20veled%20%281476%29/Eg%20veled%20-%20Leiner%2C%20Laura.epub)
@@ -171,7 +171,7 @@ felforgatott mindent a zenészek életében.
 
 <hr/>
 # <a name="id_1477">Leiner, Laura: Maradj velem (Iskolák versenye 12) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Maradj%20velem%20%281477%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Maradj%20velem%20%281477%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Maradj%20velem%20%281477%29/Maradj%20velem%20-%20Leiner%2C%20Laura.epub)
@@ -186,7 +186,7 @@ felforgatott mindent a zenészek életében.
 
 <hr/>
 # <a name="id_1485">Leiner, Laura: Emlékezz rám (Iskolák versenye 13) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Emlekezz%20ram%20%281485%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Emlekezz%20ram%20%281485%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Emlekezz%20ram%20%281485%29/Emlekezz%20ram%20-%20Leiner%2C%20Laura.epub)
@@ -198,7 +198,7 @@ felforgatott mindent a zenészek életében.
 
 <hr/>
 # <a name="id_1486">Leiner, Laura: Bízz bennem (Iskolák versenye 21) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Bizz%20bennem%20%281486%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Bizz%20bennem%20%281486%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Bizz%20bennem%20%281486%29/Bizz%20bennem%20-%20Leiner%2C%20Laura.epub)
@@ -214,7 +214,7 @@ felforgatott mindent a zenészek életében.
 
 <hr/>
 # <a name="id_1479">Leiner, Laura: Higgy nekem (Iskolák versenye 22) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Higgy%20nekem%20%281479%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Higgy%20nekem%20%281479%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Higgy%20nekem%20%281479%29/Higgy%20nekem%20-%20Leiner%2C%20Laura.epub)
@@ -229,7 +229,7 @@ felforgatott mindent a zenészek életében.
 
 <hr/>
 # <a name="id_1561">Leiner, Laura: Állj mellém (Iskolák versenye 23) (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Allj%20mellem%20%281561%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Allj%20mellem%20%281561%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Allj%20mellem%20%281561%29/Allj%20mellem%20-%20Leiner%2C%20Laura.epub) 
@@ -245,7 +245,7 @@ felforgatott mindent a zenészek életében.
 
 <hr/>
 # <a name="id_1502">Leiner, Laura: Remek! (Remek! 1) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Remek%21%20%281502%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Remek%21%20%281502%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Remek%21%20%281502%29/Remek%21%20-%20Leiner%2C%20Laura.epub)
@@ -260,7 +260,7 @@ felforgatott mindent a zenészek életében.
 
 <hr/>
 # <a name="id_1475">Leiner, Laura: Ez is Remek!! (Remek! 2) (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Ez%20is%20Remek%21%21%20%281475%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Ez%20is%20Remek%21%21%20%281475%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Ez%20is%20Remek%21%21%20%281475%29/Ez%20is%20Remek%21%21%20-%20Leiner%2C%20Laura.epub)
@@ -275,7 +275,7 @@ felforgatott mindent a zenészek életében.
 
 <hr/>
 # <a name="id_644">Leiner, Laura: Bábel (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Babel%20%28644%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Babel%20%28644%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Babel%20%28644%29/Babel%20-%20Leiner%2C%20Laura.epub)
@@ -290,7 +290,7 @@ felforgatott mindent a zenészek életében.
 
 <hr/>
 # <a name="id_1494">Leiner, Laura: Mindig karácsony (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Mindig%20karacsony%20%281494%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Mindig%20karacsony%20%281494%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Mindig%20karacsony%20%281494%29/Mindig%20karacsony%20-%20Leiner%2C%20Laura.epub)
@@ -305,7 +305,7 @@ felforgatott mindent a zenészek életében.
 
 <hr/>
 # <a name="id_1481">Leiner, Laura: Közhelyek (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Kozhelyek%20%281481%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Kozhelyek%20%281481%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Leiner%2C%20Laura/Kozhelyek%20%281481%29/Kozhelyek%20-%20Leiner%2C%20Laura.epub)

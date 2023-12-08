@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1216">de Sade, Márki: Szodoma százhúsz napja (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/de%20Sade%2C%20Marki/Szodoma%20szazhusz%20napja%20%281216%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/de%20Sade%2C%20Marki/Szodoma%20szazhusz%20napja%20%281216%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/de%20Sade%2C%20Marki/Szodoma%20szazhusz%20napja%20%281216%29/Szodoma%20szazhusz%20napja%20-%20de%20Sade%2C%20Marki.epub)

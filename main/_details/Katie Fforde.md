@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1208">Katie Fforde: Szerelmes levelek (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Katie%20Fforde/Szerelmes%20levelek%20%281208%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Katie%20Fforde/Szerelmes%20levelek%20%281208%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Katie%20Fforde/Szerelmes%20levelek%20%281208%29/Szerelmes%20levelek%20-%20Katie%20Fforde.epub)

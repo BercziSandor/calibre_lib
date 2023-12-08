@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1437">Mieshelle Nagelschneider: Macskákkal suttogó (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Mieshelle%20Nagelschneider/Macskakkal%20suttogo%20%281437%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Mieshelle%20Nagelschneider/Macskakkal%20suttogo%20%281437%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Mieshelle%20Nagelschneider/Macskakkal%20suttogo%20%281437%29/Macskakkal%20suttogo%20-%20Mieshelle%20Nagelschneider.epub)

@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1031">Thomas Harris: A vörös sárkány (Hannibal 1) (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Thomas%20Harris/A%20voros%20sarkany%20%281031%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Thomas%20Harris/A%20voros%20sarkany%20%281031%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Thomas%20Harris/A%20voros%20sarkany%20%281031%29/A%20voros%20sarkany%20-%20Thomas%20Harris.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_1032">Thomas Harris: A bárányok hallgatnak (Hannibal 2) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Thomas%20Harris/A%20baranyok%20hallgatnak%20%281032%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Thomas%20Harris/A%20baranyok%20hallgatnak%20%281032%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Thomas%20Harris/A%20baranyok%20hallgatnak%20%281032%29/A%20baranyok%20hallgatnak%20-%20Thomas%20Harris.epub)

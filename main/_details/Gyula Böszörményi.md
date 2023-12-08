@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1587">Gyula Böszörményi: Ütközet a Meridim felett (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gyula%20Boszormenyi/Utkozet%20a%20Meridim%20felett%20%281587%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gyula%20Boszormenyi/Utkozet%20a%20Meridim%20felett%20%281587%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Összefoglalás
 <div>

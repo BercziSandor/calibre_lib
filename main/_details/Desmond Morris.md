@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_416">Desmond Morris: Miért csinálja…? A ló (Miért csinálja...? 1) (1993)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Desmond%20Morris/Miert%20csinalja_._%20A%20lo%20%28416%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Desmond%20Morris/Miert%20csinalja_._%20A%20lo%20%28416%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Desmond%20Morris/Miert%20csinalja_._%20A%20lo%20%28416%29/Miert%20csinalja_._%20A%20lo%20-%20Desmond%20Morris.epub) 
@@ -16,7 +16,7 @@
 
 <hr/>
 # <a name="id_415">Desmond Morris: Miért csinálja…? A macska (Miért csinálja...? 2) (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Desmond%20Morris/Miert%20csinalja_._%20A%20macska%20%28415%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Desmond%20Morris/Miert%20csinalja_._%20A%20macska%20%28415%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Desmond%20Morris/Miert%20csinalja_._%20A%20macska%20%28415%29/Miert%20csinalja_._%20A%20macska%20-%20Desmond%20Morris.epub) 
@@ -32,7 +32,7 @@
 
 <hr/>
 # <a name="id_536">Desmond Morris: A csupasz majom (1989)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Desmond%20Morris/A%20csupasz%20majom%20%28536%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Desmond%20Morris/A%20csupasz%20majom%20%28536%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [antropológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/antropol%c3%b3gia.md), [biológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/biol%c3%b3gia.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [etológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/etol%c3%b3gia.md), [evolúció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/evol%c3%baci%c3%b3.md), [evolúcióbiológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/evol%c3%baci%c3%b3biol%c3%b3gia.md), [evolúciós pszichológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/evol%c3%baci%c3%b3s%20pszichol%c3%b3gia.md), [humánetológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hum%c3%a1netol%c3%b3gia.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ismeretterjeszt%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [természettudomány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/term%c3%a9szettudom%c3%a1ny.md), [tudományos](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tudom%c3%a1nyos.md)
@@ -44,7 +44,7 @@
 
 <hr/>
 # <a name="id_1722">Desmond Morris: Miért csinálja ...? a kutya: nélkülözhetetlen útmutato a kutyák viselkedéséhez (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Desmond%20Morris/Miert%20csinalja%20_._%20a%20kutya_%20nelkulo%20%281722%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Desmond%20Morris/Miert%20csinalja%20_._%20a%20kutya_%20nelkulo%20%281722%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [djvu](https://github.com/BercziSandor/calibre_lib/raw/main/main/Desmond%20Morris/Miert%20csinalja%20_._%20a%20kutya_%20nelkulo%20%281722%29/Miert%20csinalja%20_._%20a%20kutya_%20nel%20-%20Desmond%20Morris.djvu)

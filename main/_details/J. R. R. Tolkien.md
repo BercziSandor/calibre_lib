@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_12">J. R. R. Tolkien: The Fellowship of the Ring (A gyűrűk Ura 1) (1966)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/The%20Fellowship%20of%20the%20Ring%20%2812%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/The%20Fellowship%20of%20the%20Ring%20%2812%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/The%20Fellowship%20of%20the%20Ring%20%2812%29/The%20Fellowship%20of%20the%20Ring%20-%20J.%20R.%20R.%20Tolkien.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_13">J. R. R. Tolkien: The two towers (A gyűrűk Ura 2) (1992)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/The%20two%20towers%20%2813%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/The%20two%20towers%20%2813%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/The%20two%20towers%20%2813%29/The%20two%20towers%20-%20J.%20R.%20R.%20Tolkien.epub)
@@ -30,7 +30,7 @@
 
 <hr/>
 # <a name="id_14">J. R. R. Tolkien: The Return of the King (A gyűrűk Ura 3) (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/The%20Return%20of%20the%20King%20%2814%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/The%20Return%20of%20the%20King%20%2814%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/The%20Return%20of%20the%20King%20%2814%29/The%20Return%20of%20the%20King%20-%20J.%20R.%20R.%20Tolkien.epub)
@@ -45,7 +45,7 @@
 
 <hr/>
 # <a name="id_60">J. R. R. Tolkien: A szilmarilok (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/A%20szilmarilok%20%2860%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/A%20szilmarilok%20%2860%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/A%20szilmarilok%20%2860%29/A%20szilmarilok%20-%20J.%20R.%20R.%20Tolkien.epub)
@@ -60,7 +60,7 @@
 
 <hr/>
 # <a name="id_61">J. R. R. Tolkien: A hobbit (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/A%20hobbit%20%2861%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/A%20hobbit%20%2861%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/A%20hobbit%20%2861%29/A%20hobbit%20-%20J.%20R.%20R.%20Tolkien.epub)
@@ -75,7 +75,7 @@
 
 <hr/>
 # <a name="id_53">J. R. R. Tolkien: Húrin gyermekei (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/Hurin%20gyermekei%20%2853%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/Hurin%20gyermekei%20%2853%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/Hurin%20gyermekei%20%2853%29/Hurin%20gyermekei%20-%20J.%20R.%20R.%20Tolkien.epub)
@@ -90,7 +90,7 @@
 
 <hr/>
 # <a name="id_62">J. R. R. Tolkien: J. R. R. Tolkien meséi (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/J.%20R.%20R.%20Tolkien%20mesei%20%2862%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/J.%20R.%20R.%20Tolkien%20mesei%20%2862%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20R.%20R.%20Tolkien/J.%20R.%20R.%20Tolkien%20mesei%20%2862%29/J.%20R.%20R.%20Tolkien%20mesei%20-%20J.%20R.%20R.%20Tolkien.epub)

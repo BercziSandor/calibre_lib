@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_468">Okszana Zabuzsko: Terepvizsgálatok az ukránok szexuális életéről (1999)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Okszana%20Zabuzsko/Terepvizsgalatok%20az%20ukranok%20szexualis%20eleterol%20%28468%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Okszana%20Zabuzsko/Terepvizsgalatok%20az%20ukranok%20szexualis%20eleterol%20%28468%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Okszana%20Zabuzsko/Terepvizsgalatok%20az%20ukranok%20szexualis%20eleterol%20%28468%29/Terepvizsgalatok%20az%20ukranok%20sze%20-%20Okszana%20Zabuzsko.epub)

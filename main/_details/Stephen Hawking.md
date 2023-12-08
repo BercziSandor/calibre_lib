@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_390">Stephen Hawking: Az idő még rövidebb története (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20Hawking/Az%20ido%20meg%20rovidebb%20tortenete%20%28390%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20Hawking/Az%20ido%20meg%20rovidebb%20tortenete%20%28390%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20Hawking/Az%20ido%20meg%20rovidebb%20tortenete%20%28390%29/Az%20ido%20meg%20rovidebb%20tortenete%20-%20Stephen%20Hawking.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_1166">Stephen Hawking: Az idő rövid története (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20Hawking/Az%20ido%20rovid%20tortenete%20%281166%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20Hawking/Az%20ido%20rovid%20tortenete%20%281166%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20Hawking/Az%20ido%20rovid%20tortenete%20%281166%29/Az%20ido%20rovid%20tortenete%20-%20Stephen%20Hawking.epub)

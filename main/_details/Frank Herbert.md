@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_182">Frank Herbert: Dune (A Dűne 1) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Frank%20Herbert/Dune%20%28182%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Frank%20Herbert/Dune%20%28182%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Frank%20Herbert/Dune%20%28182%29/Dune%20-%20Frank%20Herbert.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_184">Frank Herbert: A Dűne gyermekei (A Dűne 3) (2002)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Frank%20Herbert/A%20Dune%20gyermekei%20%28184%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Frank%20Herbert/A%20Dune%20gyermekei%20%28184%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Frank%20Herbert/A%20Dune%20gyermekei%20%28184%29/A%20Dune%20gyermekei%20-%20Frank%20Herbert.epub)

@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_351">Jodi Picoult: Szívtől szívig (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jodi%20Picoult/Szivtol%20szivig%20%28351%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jodi%20Picoult/Szivtol%20szivig%20%28351%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jodi%20Picoult/Szivtol%20szivig%20%28351%29/Szivtol%20szivig%20-%20Jodi%20Picoult.epub)
@@ -15,7 +15,7 @@ A népszerű írónő, a Nővérem húga és a Tizenkilenc perc szerzője, e kö
 
 <hr/>
 # <a name="id_348">Jodi Picoult: Tizenkilenc perc (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jodi%20Picoult/Tizenkilenc%20perc%20%28348%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jodi%20Picoult/Tizenkilenc%20perc%20%28348%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jodi%20Picoult/Tizenkilenc%20perc%20%28348%29/Tizenkilenc%20perc%20-%20Jodi%20Picoult.epub)
@@ -30,7 +30,7 @@ Tizenkilenc perc alatt meg tudod állítani a világot, és akár le is szállha
 
 <hr/>
 # <a name="id_350">Jodi Picoult: A nővérem húga (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jodi%20Picoult/A%20noverem%20huga%20%28350%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jodi%20Picoult/A%20noverem%20huga%20%28350%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jodi%20Picoult/A%20noverem%20huga%20%28350%29/A%20noverem%20huga%20-%20Jodi%20Picoult.epub)
@@ -48,7 +48,7 @@ A végkifejlet pedig majdnem akkora meglepetéseket tartogat, mint egy krimi.
 
 <hr/>
 # <a name="id_349">Jodi Picoult: Elrabolt az apám (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jodi%20Picoult/Elrabolt%20az%20apam%20%28349%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jodi%20Picoult/Elrabolt%20az%20apam%20%28349%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jodi%20Picoult/Elrabolt%20az%20apam%20%28349%29/Elrabolt%20az%20apam%20-%20Jodi%20Picoult.epub)

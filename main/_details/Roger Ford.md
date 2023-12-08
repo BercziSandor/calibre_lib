@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1444">Roger Ford: Németország titkos fegyverei a II. világháborúban (2007)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Roger%20Ford/Nemetorszag%20titkos%20fegyverei%20a%20II.%20%281444%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Roger%20Ford/Nemetorszag%20titkos%20fegyverei%20a%20II.%20%281444%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Roger%20Ford/Nemetorszag%20titkos%20fegyverei%20a%20II.%20%281444%29/Nemetorszag%20titkos%20fegyverei%20a%20-%20Roger%20Ford.epub)

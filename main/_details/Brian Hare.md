@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1724">Brian Hare: Az okos kutya - A kutyák sokkal többre képesek, mint gondolnád (2013)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Brian%20Hare/Az%20okos%20kutya%20-%20A%20kutyak%20sokkal%20tob%20%281724%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Brian%20Hare/Az%20okos%20kutya%20-%20A%20kutyak%20sokkal%20tob%20%281724%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Brian%20Hare/Az%20okos%20kutya%20-%20A%20kutyak%20sokkal%20tob%20%281724%29/Az%20okos%20kutya%20-%20A%20kutyak%20sokkal%20-%20Brian%20Hare.epub)

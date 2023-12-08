@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1438">Pam Johnson-Bennett: Gondolkodj macskául (2018)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Pam%20Johnson-Bennett/Gondolkodj%20macskaul%20%281438%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Pam%20Johnson-Bennett/Gondolkodj%20macskaul%20%281438%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Pam%20Johnson-Bennett/Gondolkodj%20macskaul%20%281438%29/Gondolkodj%20macskaul%20-%20Pam%20Johnson-Bennett.epub)

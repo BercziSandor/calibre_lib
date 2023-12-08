@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_359">Richard Dawkins: A hódító gén (1989)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Richard%20Dawkins/A%20hodito%20gen%20%28359%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Richard%20Dawkins/A%20hodito%20gen%20%28359%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Richard%20Dawkins/A%20hodito%20gen%20%28359%29/A%20hodito%20gen%20-%20Richard%20Dawkins.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_362">Richard Dawkins: Folyam az Édenkertből (1996)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Richard%20Dawkins/Folyam%20az%20Edenkertbol%20%28362%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Richard%20Dawkins/Folyam%20az%20Edenkertbol%20%28362%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Richard%20Dawkins/Folyam%20az%20Edenkertbol%20%28362%29/Folyam%20az%20Edenkertbol%20-%20Richard%20Dawkins.epub)
@@ -30,7 +30,7 @@
 
 <hr/>
 # <a name="id_361">Richard Dawkins: Az Ördög Káplánja (2005)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Richard%20Dawkins/Az%20Ordog%20Kaplanja%20%28361%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Richard%20Dawkins/Az%20Ordog%20Kaplanja%20%28361%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Richard%20Dawkins/Az%20Ordog%20Kaplanja%20%28361%29/Az%20Ordog%20Kaplanja%20-%20Richard%20Dawkins.epub)
@@ -45,7 +45,7 @@
 
 <hr/>
 # <a name="id_360">Richard Dawkins: Az önző gén (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Richard%20Dawkins/Az%20onzo%20gen%20%28360%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Richard%20Dawkins/Az%20onzo%20gen%20%28360%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Richard%20Dawkins/Az%20onzo%20gen%20%28360%29/Az%20onzo%20gen%20-%20Richard%20Dawkins.epub)
@@ -60,7 +60,7 @@
 
 <hr/>
 # <a name="id_363">Richard Dawkins: Isteni téveszme (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Richard%20Dawkins/Isteni%20teveszme%20%28363%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Richard%20Dawkins/Isteni%20teveszme%20%28363%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Richard%20Dawkins/Isteni%20teveszme%20%28363%29/Isteni%20teveszme%20-%20Richard%20Dawkins.epub)

@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1033">John Nada: Ébresztőfilm </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/John%20Nada/Ebresztofilm%20%281033%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/John%20Nada/Ebresztofilm%20%281033%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/John%20Nada/Ebresztofilm%20%281033%29/Ebresztofilm%20-%20John%20Nada.epub)

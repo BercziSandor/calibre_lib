@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_908">Jared Diamond: Miért élvezet a szex? (1997)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jared%20Diamond/Miert%20elvezet%20a%20szex_%20%28908%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jared%20Diamond/Miert%20elvezet%20a%20szex_%20%28908%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Jared%20Diamond/Miert%20elvezet%20a%20szex_%20%28908%29/Miert%20elvezet%20a%20szex_%20-%20Jared%20Diamond.epub)

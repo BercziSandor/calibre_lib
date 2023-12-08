@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_510">David Farland: A sötétség harcosa (Farkasok szövetsége 1) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/David%20Farland/A%20sotetseg%20harcosa%20%28510%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/David%20Farland/A%20sotetseg%20harcosa%20%28510%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/David%20Farland/A%20sotetseg%20harcosa%20%28510%29/A%20sotetseg%20harcosa%20-%20David%20Farland.epub)
@@ -14,7 +14,7 @@ A tűzszövők élő lángokként énekeltek és táncoltak. Hamarosan egy zöld
 
 <hr/>
 # <a name="id_511">David Farland: A Pusztítás Pecsétje (Farkasok szövetsége 2) </a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/David%20Farland/A%20Pusztitas%20Pecsetje%20%28511%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/David%20Farland/A%20Pusztitas%20Pecsetje%20%28511%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/David%20Farland/A%20Pusztitas%20Pecsetje%20%28511%29/A%20Pusztitas%20Pecsetje%20-%20David%20Farland.epub)

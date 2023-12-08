@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_775">Frederick Forsyth: Profi munka (1990)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Frederick%20Forsyth/Profi%20munka%20%28775%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Frederick%20Forsyth/Profi%20munka%20%28775%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Frederick%20Forsyth/Profi%20munka%20%28775%29/Profi%20munka%20-%20Frederick%20Forsyth.epub)
@@ -14,7 +14,7 @@
 
 <hr/>
 # <a name="id_44">Frederick Forsyth: A negyedik jegyzőkönyv (2000)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Frederick%20Forsyth/A%20negyedik%20jegyzokonyv%20%2844%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Frederick%20Forsyth/A%20negyedik%20jegyzokonyv%20%2844%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [kémregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%a9mreg%c3%a9ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md)
@@ -26,7 +26,7 @@
 
 <hr/>
 # <a name="id_43">Frederick Forsyth: Az ördög alternatívája (2006)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Frederick%20Forsyth/Az%20ordog%20alternativaja%20%2843%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Frederick%20Forsyth/Az%20ordog%20alternativaja%20%2843%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Frederick%20Forsyth/Az%20ordog%20alternativaja%20%2843%29/Az%20ordog%20alternativaja%20-%20Frederick%20Forsyth.epub)

@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_529">Philip Carlo: A Jeges (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Philip%20Carlo/A%20Jeges%20%28529%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Philip%20Carlo/A%20Jeges%20%28529%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Philip%20Carlo/A%20Jeges%20%28529%29/A%20Jeges%20-%20Philip%20Carlo.epub)

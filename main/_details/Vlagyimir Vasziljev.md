@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_460">Vlagyimir Vasziljev: Káosz-Őrség (Őrség 5) (2008)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vlagyimir%20Vasziljev/Kaosz-Orseg%20%28460%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vlagyimir%20Vasziljev/Kaosz-Orseg%20%28460%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Vlagyimir%20Vasziljev/Kaosz-Orseg%20%28460%29/Kaosz-Orseg%20-%20Vlagyimir%20Vasziljev.epub)

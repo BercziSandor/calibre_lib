@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_616">Vekerdy, Tamás: Gyerekek, óvodák, iskolák (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vekerdy%2C%20Tamas/Gyerekek%2C%20ovodak%2C%20iskolak%20%28616%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vekerdy%2C%20Tamas/Gyerekek%2C%20ovodak%2C%20iskolak%20%28616%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Vekerdy%2C%20Tamas/Gyerekek%2C%20ovodak%2C%20iskolak%20%28616%29/Gyerekek%2C%20ovodak%2C%20iskolak%20-%20Vekerdy%2C%20Tamas.epub)

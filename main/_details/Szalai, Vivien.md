@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_407">Szalai, Vivien: Stohl – Őszintén (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szalai%2C%20Vivien/Stohl%20-%20Oszinten%20%28407%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szalai%2C%20Vivien/Stohl%20-%20Oszinten%20%28407%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Szalai%2C%20Vivien/Stohl%20-%20Oszinten%20%28407%29/Stohl%20-%20Oszinten%20-%20Szalai%2C%20Vivien.epub)

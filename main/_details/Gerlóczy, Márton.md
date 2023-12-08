@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1470">Gerlóczy, Márton: Igazolt hiányzás (2003)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerloczy%2C%20Marton/Igazolt%20hianyzas%20%281470%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerloczy%2C%20Marton/Igazolt%20hianyzas%20%281470%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerloczy%2C%20Marton/Igazolt%20hianyzas%20%281470%29/Igazolt%20hianyzas%20-%20Gerloczy%2C%20Marton.epub)
@@ -14,7 +14,7 @@
 
 <hr/>
 # <a name="id_1468">Gerlóczy, Márton: Elvonókúra (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerloczy%2C%20Marton/Elvonokura%20%281468%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerloczy%2C%20Marton/Elvonokura%20%281468%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerloczy%2C%20Marton/Elvonokura%20%281468%29/Elvonokura%20-%20Gerloczy%2C%20Marton.azw3)
@@ -28,7 +28,7 @@
 
 <hr/>
 # <a name="id_1469">Gerlóczy, Márton: Mikecs Anna: Altató (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerloczy%2C%20Marton/Mikecs%20Anna_%20Altato%20%281469%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerloczy%2C%20Marton/Mikecs%20Anna_%20Altato%20%281469%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerloczy%2C%20Marton/Mikecs%20Anna_%20Altato%20%281469%29/Mikecs%20Anna_%20Altato%20-%20Gerloczy%2C%20Marton.epub)

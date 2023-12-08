@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_482">Dmitry Glukhovsky: Metró 2033 (Metró 2033 1) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dmitry%20Glukhovsky/Metro%202033%20%28482%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dmitry%20Glukhovsky/Metro%202033%20%28482%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dmitry%20Glukhovsky/Metro%202033%20%28482%29/Metro%202033%20-%20Dmitry%20Glukhovsky.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_355">Dmitry Glukhovsky: Metró 2034 (Metró 2033 2) (2019)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dmitry%20Glukhovsky/Metro%202034%20%28355%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dmitry%20Glukhovsky/Metro%202034%20%28355%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dmitry%20Glukhovsky/Metro%202034%20%28355%29/Metro%202034%20-%20Dmitry%20Glukhovsky.epub) 

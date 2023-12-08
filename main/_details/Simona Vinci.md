@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_609">Simona Vinci: Szégyentelenek (2001)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Simona%20Vinci/Szegyentelenek%20%28609%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Simona%20Vinci/Szegyentelenek%20%28609%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Simona%20Vinci/Szegyentelenek%20%28609%29/Szegyentelenek%20-%20Simona%20Vinci.epub)

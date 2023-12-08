@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_771">Fejős, Éva: Csajok (Csajok 1) (2016)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fejos%2C%20Eva/Csajok%20%28771%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fejos%2C%20Eva/Csajok%20%28771%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Tagek
 [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [magyar szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20szerz%c5%91.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md)
@@ -12,7 +12,7 @@
 
 <hr/>
 # <a name="id_17">Fejős, Éva: Eper reggelire (Hotel Bali 2) (2015)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fejos%2C%20Eva/Eper%20reggelire%20%2817%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fejos%2C%20Eva/Eper%20reggelire%20%2817%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fejos%2C%20Eva/Eper%20reggelire%20%2817%29/Eper%20reggelire%20-%20Fejos%2C%20Eva.epub)
@@ -27,7 +27,7 @@
 
 <hr/>
 # <a name="id_773">Fejős, Éva: Éjszaka Bangkokban (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fejos%2C%20Eva/Ejszaka%20Bangkokban%20%28773%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fejos%2C%20Eva/Ejszaka%20Bangkokban%20%28773%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fejos%2C%20Eva/Ejszaka%20Bangkokban%20%28773%29/Ejszaka%20Bangkokban%20-%20Fejos%2C%20Eva.epub)
@@ -42,7 +42,7 @@
 
 <hr/>
 # <a name="id_426">Fejős, Éva: Holtodiglan (2012)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fejos%2C%20Eva/Holtodiglan%20%28426%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fejos%2C%20Eva/Holtodiglan%20%28426%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fejos%2C%20Eva/Holtodiglan%20%28426%29/Holtodiglan%20-%20Fejos%2C%20Eva.epub)
@@ -57,7 +57,7 @@
 
 <hr/>
 # <a name="id_774">Fejős, Éva: Szeretlek, Bangkok (2017)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fejos%2C%20Eva/Szeretlek%2C%20Bangkok%20%28774%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fejos%2C%20Eva/Szeretlek%2C%20Bangkok%20%28774%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fejos%2C%20Eva/Szeretlek%2C%20Bangkok%20%28774%29/Szeretlek%2C%20Bangkok%20-%20Fejos%2C%20Eva.epub)

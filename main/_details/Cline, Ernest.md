@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_1708">Cline, Ernest: Ready Player Two: A Novel (2020)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Cline%2C%20Ernest/Ready%20Player%20Two_%20A%20Novel%20%281708%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Cline%2C%20Ernest/Ready%20Player%20Two_%20A%20Novel%20%281708%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Cline%2C%20Ernest/Ready%20Player%20Two_%20A%20Novel%20%281708%29/Ready%20Player%20Two_%20A%20Novel%20-%20Cline%2C%20Ernest.epub)
@@ -11,7 +11,7 @@
 
 <hr/>
 # <a name="id_1707">Cline, Ernest: Ready Player Two (2021)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Cline%2C%20Ernest/Ready%20Player%20Two%20%281707%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Cline%2C%20Ernest/Ready%20Player%20Two%20%281707%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Cline%2C%20Ernest/Ready%20Player%20Two%20%281707%29/Ready%20Player%20Two%20-%20Cline%2C%20Ernest.epub)

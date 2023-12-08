@@ -1,6 +1,6 @@
 <hr/>
 # <a name="id_683">Åsa Schwarz: Nefilim (Nova Barakel 1) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Asa%20Schwarz/Nefilim%20%28683%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Asa%20Schwarz/Nefilim%20%28683%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Asa%20Schwarz/Nefilim%20%28683%29/Nefilim%20-%20Asa%20Schwarz.epub)
@@ -15,7 +15,7 @@
 
 <hr/>
 # <a name="id_684">Åsa Schwarz: Halott angyal (Nova Barakel 2) (2011)</a>
-<img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Asa%20Schwarz/Halott%20angyal%20%28684%29/cover.jpg" alt="cover" width="300"/>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Asa%20Schwarz/Halott%20angyal%20%28684%29/cover.jpg" alt="cover" width="300"/></center>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Asa%20Schwarz/Halott%20angyal%20%28684%29/Halott%20angyal%20-%20Asa%20Schwarz.epub)
