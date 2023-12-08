@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1031">Thomas Harris: A vörös sárkány (Hannibal 1) (2018)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Thomas%20Harris/A%20voros%20sarkany%20%281031%29/cover.jpg" alt="cover" width="300"/>
 
@@ -12,6 +13,7 @@
 <p>Will Graham nyomozó egy halott család csendes, üres házában álldogál, és a gyilkos helyébe képzeli magát. Graham, aki FBI-kiképző-tiszt, a nyomokból fejti meg sorozatgyilkosa kinézetét, tudja, hogyan gondolkozik, és mit tett az áldozataival haláluk után. Már csak el kell kapnia. De ahhoz, hogy ez sikerüljön, bele kell élnie magát a szerepébe; ráadásul együtt kell működnie egy veszélyes elmebeteggel, dr. Hannibal Lecterrel…</p></div>
 
 
+<hr/>
 # <a name="id_1032">Thomas Harris: A bárányok hallgatnak (Hannibal 2) (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Thomas%20Harris/A%20baranyok%20hallgatnak%20%281032%29/cover.jpg" alt="cover" width="300"/>
 

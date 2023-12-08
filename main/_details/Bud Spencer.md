@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1212">Bud Spencer: Különben dühbe jövök (Bud Spencer önéletrajza 1) (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bud%20Spencer/Kulonben%20duhbe%20jovok%20%281212%29/cover.jpg" alt="cover" width="300"/>
 
@@ -12,6 +13,7 @@
 <p>Meghökkentően őszinte önéletrajz a hagymásbab és a pofonok nagymesterétől. Bár westernfilmek hőseként ismerte meg a nagyvilág, Carlo Pedersoli sokkal több ennél: forgatókönyvíró, producer, úszóbajnok, olimpikon. Miután aláírta első hollywoodi szerződését, utolsó vízilabda-mérkőzését a magyar válogatott ellen vívta.<br>Könyvében az immár 81 éves színész, akit 1991-ben a Time a leghíresebb olasznak nevezett, megható öniróniával mesél gyermekkoráról, a sportolóként töltött évekről, arról, hogy hogyan került bele szinte véletlenül a filmek világába, barátságáról Mario Grottival, azaz Terence Hillel, a tengerentúli élményeiről és végül visszatéréséről Rómába.<br>Ki ne ismerné a Nincs kettő négy nélkül, a Kincs ami nincs, a Bombajó bokszoló című filmeket vagy a legendás Piedone-sorozatot! Most eljött az idő, hogy megismerjük az embert a pofonok mögött!</p></div>
 
 
+<hr/>
 # <a name="id_966">Bud Spencer: Eszem, tehát vagyok (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bud%20Spencer/Eszem%2C%20tehat%20vagyok%20%28966%29/cover.jpg" alt="cover" width="300"/>
 

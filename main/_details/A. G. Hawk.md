@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_949">A. G. Hawk: Időtlenségbe zárva (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/A.%20G.%20Hawk/Idotlensegbe%20zarva%20%28949%29/cover.jpg" alt="cover" width="300"/>
 

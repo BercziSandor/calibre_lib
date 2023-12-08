@@ -1,9 +1,11 @@
+<hr/>
 # <a name="id_890">Neil Gaiman: Shoggoth Különleges (Novellák 1) </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Shoggoth%20Kulonleges%20%28890%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Shoggoth%20Kulonleges%20%28890%29/Shoggoth%20Kulonleges%20-%20Neil%20Gaiman.epub)
 
+<hr/>
 # <a name="id_665">Neil Gaiman: 27 képtelen történet </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/27%20keptelen%20tortenet%20%28665%29/cover.jpg" alt="cover" width="300"/>
 
@@ -17,18 +19,22 @@
 <font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;">A legjobb kortárs angolszász szerzők vadonatúj novellái akár a képzelet legkülső határairól merítik témájukat, akár a mindennapokból, egy közös bennük: különlegesek. Vannak köztük olyanok, melyek megborzongatnak a forróbb napokon is, mások pedig megmelengetik a lelket, ha hűvös az idő. Mesék ezek egy varázslatos, néha félelmetes, néha megmosolyogtató világról, amely a mi világunk. Mesék felnőtteknek.</span></font>
 
 
+<hr/>
 # <a name="id_887">Neil Gaiman: Góliát </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Goliat%20%28887%29/cover.jpg" alt="cover" width="300"/>
 
+<hr/>
 # <a name="id_888">Neil Gaiman: Hó, tükör, almák </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ho%2C%20tukor%2C%20almak%20%28888%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ho%2C%20tukor%2C%20almak%20%28888%29/Ho%2C%20tukor%2C%20almak%20-%20Neil%20Gaiman.epub)
 
+<hr/>
 # <a name="id_889">Neil Gaiman: Mátrix </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Matrix%20%28889%29/cover.jpg" alt="cover" width="300"/>
 
+<hr/>
 # <a name="id_896">Neil Gaiman: Elveszett Próféciák (1990)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Elveszett%20Profeciak%20%28896%29/cover.jpg" alt="cover" width="300"/>
 
@@ -43,6 +49,7 @@
 <p>Ha hihetünk Anges Nutter szép és pontos próféciáinak – az egyetlen teljesen megbízható jövendölésnek a világ jövőjéről –, akkor a világ egy szombati napon ér véget.<br>Ami azt illeti, most szombaton. Nem sokkal uzsonnaidő után…<br>Ami elég nagy fejtörést okoz Crowleynak, a Pokol itt ügyködő démonának (korábban kígyónak), és ellenpárjának, Azirafaelnek, aki aktív angyal és passzív antikvárius.<br>Ők ugyanis szeretnek itt lenni. Így hát meg kell állítaniuk az Apokalipszis Négy Motorosát, kivédeni a Boszorkányvadász hadsereg (létszám: két fő) támadását, mindenekelőtt pedig megtalálni – tibetiek, földönkívüliek, atlantisziak és egyéb helyi érdekek között – az Antikrisztust, akiről annyit lehet tudni, hogy jelenleg tizenegy éves és egy angol kisvárosban unatkozik…</p>
 
 
+<hr/>
 # <a name="id_1808">Neil Gaiman: Neverwhere (1996)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Neverwhere%20%281808%29/cover.jpg" alt="cover" width="300"/>
 
@@ -81,6 +88,7 @@
 <p><strong>Neil Gaiman</strong> is the <em>New York Times</em> bestselling and multi-award winning author and creator of many beloved books, graphic novels, short stories, film, television and theatre for all ages. He is the recipient of the Newbery and Carnegie Medals, and many Hugo, Nebula, World Fantasy, and Will Eisner Awards. Neil has adapted many of his works to television series, including <em>Good Omens</em> (co-written with Terry Pratchett) and <em>The Sandman</em>. He is a Goodwill Ambassador for the UN Refugee Agency UNHCR and Professor in the Arts at Bard College. For a lot more about his work, please visit: https://www.neilgaiman.com/</p></div>
 
 
+<hr/>
 # <a name="id_224">Neil Gaiman: Amerikai Istenek (2001)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Amerikai%20Istenek%20%28224%29/cover.jpg" alt="cover" width="300"/>
 
@@ -94,6 +102,7 @@
 <p class="description">Mike Ainsell három évet töltött börtönben, ám a sorscsapások ezzel nem értek véget számára. Szabadulása előtt néhány nappal a felesége és a legjobb barátja meghal autóbalesetben, így azután első útja a temetésre vezet. Útközben találkozik egy furcsa idegennel, aki Szerda néven mutatkozik be, és munkát kínál Mikenak. A büntetett előéletű férfinak nincs más választása: elfogadja az ajánlatot, nem sejtve, hogy ezzel különös, természetfölötti események sodrába kerül. Fokozatosan derül fény Szerda sötét tervére, és egyre nyilvánvalóbbá válik, hogy a mindennapi élet felszíne alatt különös háború dúl, amelynek tétje nem más, mint Amerika lelke...</p>
 
 
+<hr/>
 # <a name="id_1811">Neil Gaiman: Coraline (2006)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Coraline%20%281811%29/cover.jpg" alt="cover" width="300"/>
 
@@ -109,6 +118,7 @@
 </div>
 
 
+<hr/>
 # <a name="id_1810">Neil Gaiman: The Graveyard Book (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/The%20Graveyard%20Book%20%281810%29/cover.jpg" alt="cover" width="300"/>
 
@@ -124,6 +134,7 @@
 <p>Nobody Owens, known to his friends as Bod, is a normal boy. He would be completely normal if he didn't live in a sprawling graveyard, being raised and educated by ghosts, with a solitary guardian who belongs to neither the world of the living nor of the dead. There are dangers and adventures in the graveyard for a boy - an ancient indigo man, a gateway to abandoned city of ghouls, the strange and terrible fleer. But if Bod leaves the graveyard, then he will be in danger from the man Jack - who has already killed Bod's family . . .</p></div>
 
 
+<hr/>
 # <a name="id_1809">Neil Gaiman: American Gods: The Tenth Anniversary Edition: A Novel (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/American%20Gods_%20The%20Tenth%20Anniversar%20%281809%29/cover.jpg" alt="cover" width="300"/>
 
@@ -138,6 +149,7 @@
 <p>First published in 2001, American Gods became an instant classic—an intellectual and artistic benchmark from the multiple-award-winning master of innovative fiction, Neil Gaiman. Now discover the mystery and magic of American Gods in this tenth anniversary edition. Newly updated and expanded with the author’s preferred text, this commemorative volume is a true celebration of a modern masterpiece by the one, the only, Neil Gaiman. A storm is coming . . . Locked behind bars for three years, Shadow did his time, quietly waiting for the magic day when he could return to Eagle Point, Indiana. A man no longer scared of what tomorrow might bring, all he wanted was to be with Laura, the wife he deeply loved, and start a new life. But just days before his release, Laura and Shadow’s best friend are killed in an accident. With his life in pieces and nothing to keep him tethered, Shadow accepts a job from a beguiling stranger he meets on the way home, an enigmatic man who calls himself Mr. Wednesday. A trickster and rogue, Wednesday seems to know more about Shadow than Shadow does himself. Life as Wednesday’s bodyguard, driver, and errand boy is far more interesting and dangerous than Shadow ever imagined—it is a job that takes him on a dark and strange road trip and introduces him to a host of eccentric characters whose fates are mysteriously intertwined with his own. Along the way Shadow will learn that the past never dies; that everyone, including his beloved Laura, harbors secrets; and that dreams, totems, legends, and myths are more real than we know. Ultimately, he will discover that beneath the placid surface of everyday life a storm is brewing—an epic war for the very soul of America—and that he is standing squarely in its path. Relevant and prescient, American Gods has been lauded for its brilliant synthesis of “mystery, satire, sex, horror, and poetic prose” (Michael Dirda, Washington Post Book World) and as a modern phantasmagoria that “distills the essence of America” (Seattle Post-Intelligencer). It is, quite simply, an outstanding work of literary imagination that will endure for generations.</p></div>
 
 
+<hr/>
 # <a name="id_1706">Neil Gaiman: Ne ess pánikba! (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ne%20ess%20panikba%21%20%281706%29/cover.jpg" alt="cover" width="300"/>
 
@@ -152,6 +164,7 @@
 <p align="justify">Douglas Adams a 20. század talán legjelentősebb sci-fi írója. Népszerűségét egy Innsbruck melletti mezőn felmerült ötletnek köszönheti, melyből aztán életre kelt a Galaxis Útikalauz stopposoknak. <br>Neil Gaiman, az ismert és elismert képregény és sci-fi szerző Ne ess pánikba! című könyve Douglas Adams munkásságát élteti. A személyes beszélgetéseknek és interjúknak köszönhetően Gaiman első kézből tárja fel az olvasók előtt Adams életművét a Ki vagy, Doki? forgatókönyvektől a Dirk Gently regényeken át az Utoljára látható című útikönyvig. És természetesen mindent bemutat, ami Galaxis: az eredeti rádióműsort, a könyveket, a televíziós sorozatot, a törülköző jelentőségét, a számítógépes játékot és az internetes oldalt. A könyv, a közelmúlt eseményeit követve, mesél a mozifilmről, az első regény 30. évfordulójáról és a trilógia Eoin Colfer tollából származó hatodik, Ja, és még valami… című tagjának megjelenéséről is.</p></div>
 
 
+<hr/>
 # <a name="id_1433">Neil Gaiman: Óceán az út végén (2013)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ocean%20az%20ut%20vegen%20%281433%29/cover.jpg" alt="cover" width="300"/>
 
@@ -166,6 +179,7 @@
 <p>AMIKOR EGY EMLÉK FELENGED, A MÚLT SZIVÁROG KI BELŐLE<br>Mit tehet egy hétéves fiú, ha az addig nyugodt, vidéki életet megzavarja valami, ami nagyobb nemcsak nála, de az általa ismert felnőtteknél, sőt az általa ismert világnál is? Ami a világon túlról jött? Hirtelen elszakad a saját családjától, és egyetlen hely van ahová mehet, egy ház a földút végén. Ebben a házban három nő lakik, három nemzedék, nagymama, anya és lánya, akik sokat láttak és még többet tudnak. Ismerik a titkos utakat és lebegő járatokat, értik a halk szavakat és a néma igéket, jártak a földeken innen és a vizeken túl. Ők segíthetnek, csakhogy mint mindennek, a segítségnek ára van.<br>Neil Gaiman új regénye a gyermekkor varázslatát mutatja a felnőttlét karcos szemüvegén át, az ártatlanság elvesztését a tapasztalat párás tükrében, hírnevéhez méltóan egy olyan történetben, amely semmihez sem hasonlít.</p></div>
 
 
+<hr/>
 # <a name="id_1805">Neil Gaiman: Óceán az út végén (2013)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ocean%20az%20ut%20vegen%20%281805%29/cover.jpg" alt="cover" width="300"/>
 
@@ -182,6 +196,7 @@
 <p>Neil Gaiman új regénye a gyermekkor varázslatát mutatja a felnőttlét karcos szemüvegén át, az ártatlanság elvesztését a tapasztalat párás tükrében, hírnevéhez méltóan egy olyan történetben, amely semmihez sem hasonlít</p></div>
 
 
+<hr/>
 # <a name="id_1806">Neil Gaiman: The Ocean at the End of the Lane (2013)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/The%20Ocean%20at%20the%20End%20of%20the%20Lane%20%281806%29/cover.jpg" alt="cover" width="300"/>
 
@@ -224,6 +239,7 @@
 <p><strong>Neil Gaiman</strong> is the <em>New York Times</em> bestselling and multi-award winning author and creator of many beloved books, graphic novels, short stories, film, television and theatre for all ages. He is the recipient of the Newbery and Carnegie Medals, and many Hugo, Nebula, World Fantasy, and Will Eisner Awards. Neil has adapted many of his works to television series, including <em>Good Omens</em> (co-written with Terry Pratchett) and <em>The Sandman</em>. He is a Goodwill Ambassador for the UN Refugee Agency UNHCR and Professor in the Arts at Bard College. For a lot more about his work, please visit: https://www.neilgaiman.com/</p></div>
 
 
+<hr/>
 # <a name="id_1802">Neil Gaiman: Unnatural Creatures (2013)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Unnatural%20Creatures%20%281802%29/cover.jpg" alt="cover" width="300"/>
 
@@ -234,6 +250,7 @@
 <p><em>Unnatural Creatures</em> is a collection of short stories about the fantastical things that exist only in our minds--collected and introduced by beloved <em>New York Times</em> bestselling author Neil Gaiman.<br /> <br />The sixteen stories gathered by Gaiman, winner of the Hugo and Nebula Awards, range from the whimsical to the terrifying. The magical creatures range from werewolves to sunbirds to beings never before classified. E. Nesbit, Diana Wynne Jones, Gahan Wilson, and other literary luminaries contribute to the anthology.<br /> <br />Sales of <em>Unnatural Creatures</em> benefit 826DC, a nonprofit organization dedicated to supporting students in their creative and expository writing, and to helping teachers inspire their students to write.</p>
 
 
+<hr/>
 # <a name="id_1432">Neil Gaiman: Anansi fiúk (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Anansi%20fiuk%20%281432%29/cover.jpg" alt="cover" width="300"/>
 
@@ -248,6 +265,7 @@
 <p>Kövér Charlie Nancy normális élete abban a pillanatban zökken ki, ahogy apja meghal egy karaokeszínpadon Floridában. Charlie nem tudta, hogy az apja egy isten. És nem is sejtette, hogy van egy testvére. Ez a testvér most bekopogtat hozzá, hogy sokkal érdekesebbé tegye Kövér Charlie életét. És sokkal, de sokkal veszélyesebbé…<br>Az olvasó Daniel Egnéus illusztrációival, új szerkesztésben tartja a kezében a könyvet.</p></div>
 
 
+<hr/>
 # <a name="id_1431">Neil Gaiman: Coraline (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Coraline%20%281431%29/cover.jpg" alt="cover" width="300"/>
 
@@ -262,6 +280,7 @@
 <p>Coraline ​lives with her preoccupied parents in part of a huge old house--a house so huge that other people live in it, too… round, old former actresses Miss Spink and Miss Forcible and their aging Highland terriers ("We trod the boards, luvvy") and the mustachioed old man under the roof ("'The reason you cannot see the mouse circus,' said the man upstairs, 'is that the mice are not yet ready and rehearsed.'") Coraline contents herself for weeks with exploring the vast garden and grounds. But with a little rain she becomes bored--so bored that she begins to count everything blue (153), the windows (21), and the doors (14). And it is the 14th door that--sometimes blocked with a wall of bricks--opens up for Coraline into an entirely alternate universe. Now, if you're thinking fondly of The Lion, the Witch, and the Wardrobe or Alice's Adventures in Wonderland, you're on the wrong track. Neil Gaiman's Coraline is far darker, far stranger, playing on our deepest fears. And, like Roald Dahl's work, it is delicious.</p></div>
 
 
+<hr/>
 # <a name="id_976">Neil Gaiman: Felkavaró tartalom (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Felkavaro%20tartalom%20%28976%29/cover.jpg" alt="cover" width="300"/>
 
@@ -276,6 +295,7 @@
 A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai istenek világában játszódik, és Árnyék kalandjait szövi tovább. A gyűjtemény többi része is hasonlóan varázslatos: Gaiman számos stílust és műfajt – horror- és kísértettörténet, science-fiction és tündérmese, tanmese és vers – felvonultatva deríti fel az emberi érzések, élmények és tapasztalatok birodalmát. Egy novella az Óceán az út végén mellé, egy öregkori Sherlock Holmes-rejtély, egy közösségi média inspirálta kisprózafüzér és további húsz írás található a kötetben, mely méltó párja a Tükör és füstnek és a Törékeny holmiknak.
 
 
+<hr/>
 # <a name="id_1804">Neil Gaiman: Trigger Warning: Short Fictions and Disturbances (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Trigger%20Warning_%20Short%20Fictions%20and%20%281804%29/cover.jpg" alt="cover" width="300"/>
 
@@ -355,6 +375,7 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 <p>--This text refers to an alternate kindle_edition edition.</p></div>
 
 
+<hr/>
 # <a name="id_1812">Neil Gaiman: Kilátás az erkélyről (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Kilatas%20az%20erkelyrol%20%281812%29/cover.jpg" alt="cover" width="300"/>
 
@@ -368,6 +389,7 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 <div> <p align="justify" id="full_description">Egy ​lebilincselő esszékötet rengeteg témáról – a művészettől és művészektől az álmokig, mítoszokig és emlékekig – a New York Times bestsellerszerző Neil Gaiman mélyre hatoló, szórakoztató és egyéni stílusában. </p> <p align="justify">Neil Gaimant, aki éles szemű megfigyelő, gondolatébresztő kommentátor és szorgalmas mesterember, már régóta nagyra tartják éles intellektusáért és meghökkentő képzeletéért, amelyek népszerű műveit áthatják. A Kilátás az erkélyről című kötet most először együtt mutatja be hatvan kiemelkedő nonfiction írását. Ebben a gazdag válogatásban analitikusan, de játékosan, ékesszólóan, mégis érthetően érdeklődési körök és témák széles skáláját találjuk, úgymint: régi és kortárs szerzők; zene; történetmondás; képregények; könyvesboltok; utazás; mesék; Amerika; ihlet; könyvtárak; szellemek. Ehhez jön még a címadó darab, mely hol meghatóan, hol öngúnnyal a szerző élményeit meséli el a 2010-es Oscar-díjkiosztó gálán Hollywoodban. </p> <p align="justify">Az éles, gunyoros, szellemes és bölcs kötet azokat a kérdéseket és témákat taglalja, melyek a legjobban érdeklik Neil Gaimant, ezáltal bepillantást kínálnak korunk egyik legméltatottabb, legkedveltebb és legbefolyásosabb művészének fejébe és szívébe.</p></div>
 
 
+<hr/>
 # <a name="id_1435">Neil Gaiman: Északi mitológia (2017)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Eszaki%20mitologia%20%281435%29/cover.jpg" alt="cover" width="300"/>
 
@@ -382,6 +404,7 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 <p>Egy ​új klasszikus: a jól ismert skandináv mítoszok a történetmesélés nagymestere, Neil Gaiman elképesztő átiratában.<br>Az ősi történetekből Gaiman regényszerű ívet kovácsol, kezdve a kilenc világ legendás megteremtésével, majd sorra veszi a félistenek, törpék és óriások tetteit. Például Thor pörölyének ellopását, aki ezután kénytelen nőnek öltözni – ez az ő szakállával és étvágyával nem kis feladat –, és úgy visszalopni. De elmeséli a legmeghatóbb történetet is, amikor Kvasir, a legbölcsebb isten véréből megfőzik azt a sört, amely aztán létrehozza a költészetet. A számtalan kaland Ragnarökkel, az istenek alkonyával, új idők és emberek születésével zárul.<br>Gaiman keze alatt a régi poros mítoszok újra élettel telnek meg. A regény mesteri és szellemes prózája kiemeli az istenek versengő énjét, megmutatja hajlamukat arra, hogy átverjenek másokat, és őket is átverjék, valamint megismerteti az olvasót azzal a tulajdonságukkal, hogy a szenvedélyt mindig hagyják felülkerekedni a józan eszükön.</p></div>
 
 
+<hr/>
 # <a name="id_1807">Neil Gaiman: Norse Mythology (2017)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Norse%20Mythology%20%281807%29/cover.jpg" alt="cover" width="300"/>
 
@@ -397,6 +420,7 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 <p>" — Petra Mayer, NPR Neil Gaiman, long inspired by ancient mythology in creating the fantastical realms of his fiction, presents a bravura rendition of the Norse gods and their world from their origin though their upheaval in Ragnarok. In Norse Mythology, Gaiman stays true to the myths in envisioning the major Norse pantheon: Odin, the highest of the high, wise, daring, and cunning; Thor, Odin’s son, incredibly strong yet not the wisest of gods; and Loki—son of a giant—blood brother to Odin and a trickster and unsurpassable manipulator. Gaiman fashions these primeval stories into a novelistic arc that begins with the genesis of the legendary nine worlds and delves into the exploits of deities, dwarfs, and giants. Through Gaiman’s deft and witty prose, these gods emerge with their fiercely competitive natures, their susceptibility to being duped and to duping others, and their tendency to let passion ignite their actions, making these long-ago myths breathe pungent life again.</p></div>
 
 
+<hr/>
 # <a name="id_1436">Neil Gaiman: Törékeny holmik (2017)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Torekeny%20holmik%20%281436%29/cover.jpg" alt="cover" width="300"/>
 
@@ -411,6 +435,7 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 <p>Neil Gaimant a magyar olvasóközönség elsősorban fantasy regényei okán ismerhette és szerethette meg; a műfaj nem változott ezúttal sem, a különbség csak annyi, hogy a jelen kötetben nem egyetlen hosszabb történet, hanem több rövidprózai és lírai alkotása kapott helyet. A választékban sok-sok egyéb mellett olyan novellák szerepelnek, mint a Smaragdzöld tanulmány című misztikus „minikrimi”, az egy élő és egy halott fiú történetét elbeszélő Október a székben, a Záróra című klasszikus kísértettörténet, A térképkészítő, amely a hajdani Kínába kalauzol el, az Emlékek és kincsek című szokatlan szerelmi történet, a Narnia krónikái által ihletett Susan problémája vagy épp a Falatok és falatozók, mely egy igazi rémálomból született. Ezek mellett – felvillantva a szerző egy eleddig ismeretlen arcát – versek (Tündérverkli; A titkos kamra; Befásulni; A csészealjak eljövetelének napja stb.) is találhatóak a kötetben. "www.kello.hu © minden jog fenntartva"</p></div>
 
 
+<hr/>
 # <a name="id_1434">Neil Gaiman: Tükör és füst (2017)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Tukor%20es%20fust%20%281434%29/cover.jpg" alt="cover" width="300"/>
 
@@ -425,6 +450,7 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 <p>A magyar olvasók korábban Neil Gaiman terjedelmes életművéből leginkább regényeit ismerhették. Az utóbbi időben azonban sorra jelennek meg a Gaiman-oeuvre tetemes részét képező rövidprózai írásaiból készült válogatások. Jelen kötet - amely eredetileg 1998-ban került kibocsátásra - is ezekből kínál ízelítőt: a kollekcióban nagyrészt (korábban más fórumokon már közzétett) novellái olvashatóak, de találunk közöttük pár költeményt is (mint például a művet nyitó Jövendölés, avagy madárjóslás belsőségekből, a Miklós akkor már..., A fehér úton, A kések asszonya vagy a Változó tenger). A hátborzongató kis történetek - bár akad közöttük néhány érezhetően korai darab - a mágikus realizmus apró kis baljós gyöngyszemei, amelyek között sok-sok egyéb mellett olyan elbeszéléseket találunk, mint A troll hídja, a Baglyoknak lánya, a Shoggoth Ófőzdei Banyaszomorító, a Megint csak világvége, Az álomseprő, a Vámpír szextina, a Sivatagi szél vagy a (különösképp rettenetes) Babavilág. Ez a Gaiman-kötet kizárólag felnőtt olvasók kezébe való. "www.kello.hu © minden jog fenntartva"</p></div>
 
 
+<hr/>
 # <a name="id_222">Neil Gaiman: Sosehol (2018)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Sosehol%20%28222%29/cover.jpg" alt="cover" width="300"/>
 
@@ -440,6 +466,7 @@ Richard Mayhew egy fiatal üzletember jó úton a fényes karrier, szép felesé
 A csatornák és metróalagutak labirintusában velük kell boldogulnia Richardnak, hogy segíthessen másokon és így segíthessen magán is. Vajon megleli-e azt az életet, amelyet már jóval korábban elveszített, mint hitte?
 
 
+<hr/>
 # <a name="id_886">Neil Gaiman: Csillagpor (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Csillagpor%20%28886%29/cover.jpg" alt="cover" width="300"/>
 
@@ -454,6 +481,7 @@ Neil Gaiman könyve is úgy kezdődik, ahogyan a legjobb történetek általába
 Falva falva egy aprócska település Angliában. Arról a falról kapta a nevét, amely a falu határában húzódik, és elválasztja az emberi világot a varázslatok birodalmától. Egy hűvös októberi estén a fiatal Tristran Thorn hullócsillagot lát a falon túl a földre zuhanni, és hogy elnyerje a gyönyörűséges Victoria kezét, megígéri a lánynak: elhozza neki a lehullott csillagot. Tristran elindul hát élete nagy kalandjára a falon túli varázslatos világba, amelyet a legfurcsább teremtmények és soha nem látott lények népesítenek be. Hűséges társak, halálos ellenségek várják, és ha Tristran elég kitartó, olyasmit találhat meg, amire egyáltalán nem számított.
 
 
+<hr/>
 # <a name="id_1424">Neil Gaiman: A temető könyve (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/A%20temeto%20konyve%20%281424%29/cover.jpg" alt="cover" width="300"/>
 

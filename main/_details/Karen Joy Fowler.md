@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_629">Karen Joy Fowler: A Jane Austen könyvklub (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Karen%20Joy%20Fowler/A%20Jane%20Austen%20konyvklub%20%28629%29/cover.jpg" alt="cover" width="300"/>
 

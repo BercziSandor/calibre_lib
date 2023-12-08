@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_377">Richard Haack: Kémek könyve (1994)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Haack%2C%20Richard/Kemek%20konyve%20%28377%29/cover.jpg" alt="cover" width="300"/>
 

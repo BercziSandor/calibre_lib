@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_513">Eva-Maria Zurhorst: Szeresd önmagad, és mindegy, kivel élsz (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Eva-Maria%20Zurhorst/Szeresd%20onmagad%2C%20es%20mindegy%2C%20kivel%20elsz%20%28513%29/cover.jpg" alt="cover" width="300"/>
 

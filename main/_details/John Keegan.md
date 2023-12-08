@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_997">John Keegan: A második világháború (The Times 1) (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/John%20Keegan/A%20masodik%20vilaghaboru%20%28997%29/cover.jpg" alt="cover" width="300"/>
 

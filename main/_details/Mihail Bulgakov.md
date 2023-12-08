@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_275">Mihail Bulgakov: A Mester és Margarita (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Mihail%20Bulgakov/A%20Mester%20es%20Margarita%20%28275%29/cover.jpg" alt="cover" width="300"/>
 

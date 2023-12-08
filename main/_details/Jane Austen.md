@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_58">Jane Austen: Értelem és érzelem (A világirodalom remekei 1) (1986)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Ertelem%20es%20erzelem%20%2858%29/cover.jpg" alt="cover" width="300"/>
 
@@ -13,6 +14,7 @@
  A regény végén Elinor és Marianne természetesen révbe ér, a szívek meggyógyulnak, s az élet megy tovább - ám addig a szerző szórakoztató események és figurák végtelen sorát vonultatja fel, s szerez velük az olvasónak felejthetetlen élményt.
 
 
+<hr/>
 # <a name="id_56">Jane Austen: Büszkeség és Balítélet (1975)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Buszkeseg%20es%20Balitelet%20%2856%29/cover.jpg" alt="cover" width="300"/>
 
@@ -26,6 +28,7 @@
 <p class="description">Jane Austen is vidéki papleány volt, mint a Bronte nővérek. A hampshire-i Steventonban született; szülővárosában, Bathban, Sothamptonban és Winchesterben élte eseménytelen életét; Winchesterben halt meg, itt is van eltemetve. Hat teljes regény maradt utána és néhány töredék. Ennek a viszonylag kicsiny életműnek legismertebb és sok kritikus szerint legjelentősebb darabja a Büszkeség és balítélet (1796; megjelent 1813-ban). Mint Austen többi regényét, ezt is emberismeret, fegyelmezett, klasszikus stílus, érett realizmus jellemzi. Nem emlegeti tételesen a történelem nagy mérföldköveit, de a maga korának és körének életéről telibe találó jellemrajzot - nem egy esetben gúnyrajzot - kapunk a fiatal írónő tollából. Regényei, nem úgy, mint közvetlen elődei, viszonylag rövidek, kerülik a kitérőket, célratörően ábrázolják többnyire két-két jellem párhuzamos fejlődését. A Büszkeség és balítélet-ben ez a két jellem: Elizabeth és Darcy, akik - ki-ki a maga módján - a címben jelzett tulajdonságok hordozói, hogy azoktól a regény végére kellőképpen megszabadulva, egymásra találjanak. Körülöttük pedig a sok-sok maradandó figura: a partivadász lányos anya, Mrs. Bennet, a szelíd Jane, a kétes jellemű Wickham, a ledér Lydia, a gőgös Lady Catherine, a jámbor Bingley, a problémái elől könyvtárába menekülő Mr. Bennet, és nem utolsósorban a világirodalom egyik legélesebben karikírozott figurája, az üresfejű, szolgalelkű Collins tiszteletes.<br>A regény több részes televízióváltozatát a magyar tv-nézők is láthatták.</p>
 
 
+<hr/>
 # <a name="id_54">Jane Austen: A Klastrom Titka (1983)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/A%20Klastrom%20Titka%20%2854%29/cover.jpg" alt="cover" width="300"/>
 
@@ -42,6 +45,7 @@ Tizenöt éves korában Catherine szépülni kezdett; bodorította a haját, és
 Catherine Morland végül mégiscsak eléri az "igaz hősnői magaslatokat"- ennek az útnak szellemes, sok helyütt csipkelődő, az érett írónő valamennyi erényéréről tanúskodó krónikája ez az 1803-ban írt, de csak Jane Austin halála után, 1818-ban megjelent bájos regény; Catherine Morland pedig méltó társa a többi Austen-hősnőnek, Elizabeth Bennetnek, Emma Woodhous-nak, Fanny Price-nak, a Dashwood nővéreknek és Anne Elliotnak.
 
 
+<hr/>
 # <a name="id_55">Jane Austen: A Mansfieldi Kastély (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/A%20Mansfieldi%20Kastely%20%2855%29/cover.jpg" alt="cover" width="300"/>
 
@@ -57,6 +61,7 @@ Bertramék magukhoz veszik Mrs. Price egyik kislányát, a kedves szerény Fanny
 Fanny Price-nak számos szerelmi intrika közepette is sikerül megóvnia tisztaságát; emberi értékei, harmonikus egyénisége, bája méltóvá teszik arra a boldogságra, amelyet az élet kacskaringós útján végül sikerül elérnie.
 
 
+<hr/>
 # <a name="id_57">Jane Austen: Emma (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Emma%20%2857%29/cover.jpg" alt="cover" width="300"/>
 
@@ -70,6 +75,7 @@ Fanny Price-nak számos szerelmi intrika közepette is sikerül megóvnia tiszta
 <p class="description">„Emma Woodhouse igazán mindent megkapott az élettől, ami szép és jó: csinos volt, eszes, gazdag, derűs természetű; már huszonegyedik évében járt, de komolyabb baj vagy bánat még sosem érte." E sorokkal kezdődik a jellegzetes Austen-hősnők közé méltán felsorakozó Emma regénye; s az említett számos jó tulajdonság, kedvező adottság ellenére bizony vele is végigjáratja az írónő a csalódások, kisebb-nagyobb bánatok, tanulságok iskoláját. Az események középpontjában három ifjú pár félreértéseken és viszályokon át győzedelmeskedő szerelme áll. A színtér, a környezet itt is ugyanaz, mint a többi Austen-regényben: vidéki angol úriházak, amelyek úgy élik derűsnek és kiegyensúlyozottnak látszó életüket, mintha az országnak semmi köze sem volna a Csatorna túlsó oldalán dúló napóleoni háborúkhoz. De a szereplők újszerű érzékenységén, társadalmi komédiájuk apró mozzanatain mégis érezni, hogy a világ épp változófélben van körülöttük.</p>
 
 
+<hr/>
 # <a name="id_59">Jane Austen: Meggyőző érvek (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Meggyozo%20ervek%20%2859%29/cover.jpg" alt="cover" width="300"/>
 
@@ -83,6 +89,7 @@ Fanny Price-nak számos szerelmi intrika közepette is sikerül megóvnia tiszta
 <p class="description">Kaphat-e a sorstól újabb esélyt a boldogságra egy érzékeny, eszes és jószívű hölgy, miután éretlen lánykaként botor módon hagyta magát lebeszélni a párválasztásról? Ezzel a kérdéssel szembesül az özvegy Sir Walter középső lánya, Anne Elliot, amikor szomszédságukban felbukkan nyolc évvel korábban kikosarazott udvarlója, méghozzá immár jómódú tengerésztisztként. S ha valóban révbe érhet, Anne vajon az egyszer már elutasított Wentworth kapitány oldalán találja meg a boldogságot és harmóniát, vagy annak az elragadó idegennek a párjaként, akivel a legváratlanabb helyzetekben találkozik újra meg újra?<br>Utolsó – sokak szerint legjobb – regényében Jane Austen a rá oly jellemző otthonossággal és kitűnő lélekrajzzal tárja az olvasó elé a vidéki úrilakok társasági életének mozzanatait, a szerelem ösvényén csetlő-botló hősnő életének bonyodalmait, s a nagyvilági úrhatnámságban tespedő léha alakok parádéját. Az örök klasszikussá vált szerző hívei természetesen most sem csalatkoznak: elnézően derűs mosollyal követhetik nyomon, hogyan küzd meg Anne lelkében az értelem és érzelemmel, miközben környezetének bölcs iróniával ábrázolt páváskodó alakjait inkább büszkeség és balítélet jellemzi.</p>
 
 
+<hr/>
 # <a name="id_996">Jane Austen: Meggyőző érvek (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Austen/Meggyozo%20ervek%20%28996%29/cover.jpg" alt="cover" width="300"/>
 

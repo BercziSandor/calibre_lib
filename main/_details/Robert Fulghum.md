@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1277">Robert Fulghum: Már lángolt, amikor ráfeküdtem (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Fulghum/Mar%20langolt%2C%20amikor%20rafekudtem%20%281277%29/cover.jpg" alt="cover" width="300"/>
 
@@ -9,6 +10,7 @@
 <p>Az okos, éles szemű és nagyszívű Fulghum sikerrerceptje látszólag egyszerű: esszéiben általában mindenki számára ismerős, hétköznapi dolgokat vesz szemügyre, de a maga egyedülálló látásmódját alkalmazza, s amit tapasztalataiból papírra vet, azt humor, bölcsesség, empátia színezi át. Legnagyobb varázslata -a receptet maga árulta el-, hogy „inkább értelmet keres az életben, mintsem hogy magát az élet értelmét keresné”. A „Már az óvodában megtanultam…” szerzőjének újabb tűnődései.</p></div>
 
 
+<hr/>
 # <a name="id_1302">Robert Fulghum: Már az óvodában megtanultam mindent, amit tudni érdemes (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Fulghum/Mar%20az%20ovodaban%20megtanultam%20mindent%20%281302%29/cover.jpg" alt="cover" width="300"/>
 

@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_991">Nógrádi, György: 40 év alatt a Föld körül (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Nogradi%2C%20Gyorgy/40%20ev%20alatt%20a%20Fold%20korul%20%28991%29/cover.jpg" alt="cover" width="300"/>
 

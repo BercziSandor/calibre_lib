@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_356">Emma Donoghue: A szoba (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Emma%20Donoghue/A%20szoba%20%28356%29/cover.jpg" alt="cover" width="300"/>
 

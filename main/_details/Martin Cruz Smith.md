@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1214">Martin Cruz Smith: Gorkij Park (Arkagyij Renko 1) (1991)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Martin%20Cruz%20Smith/Gorkij%20Park%20%281214%29/cover.jpg" alt="cover" width="300"/>
 

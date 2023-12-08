@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1017">Tersánszky, Józsi Jenő: A tiroli kocsmáros (A tiroli kocsmáros 1) </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/A%20tiroli%20kocsmaros%20%281017%29/cover.jpg" alt="cover" width="300"/>
 
@@ -8,6 +9,7 @@
 <div> <p style="margin-bottom: 0in">Tersánszky J. Jenőt eredetisége, életigenlő szenvedélye, mindent megértő humanizmusa a magyar novella legjelentősebb mesterei, legkiválóbb művelői közé emeli. <br>Elbeszélései az ősi mesetípust képviselik irodalmunkban. Az író „derűs fatalista”-ként szemléli hőseit, szenvtelenül közvetít a megfellebbezhetetlen valóság és az olvasó között, e „szenvtelenségnek” azonban mindig morális tartalma, társadalmi célzata van: „A világ eseményei között a véletlen játékára történik ezer, ezer csodálatos és érthetetlen dolog. Ezekre adni is lehet, meg nem is. De van a dolgok között olyan, ami biztos, és amire mindig adni kell, és ez az élőlények jelleme. A cápa cápa és nem emberbarát, akárhogy mutatkozik is annak.” <br>Az „élőlények jellemének” művészi rajza teszi feledhetetlen élménnyé A tiroli kocsmáros c. kötetének darabjait is.</p><p style="margin-bottom: 0in"> </p></div>
 
 
+<hr/>
 # <a name="id_1012">Tersánszky, Józsi Jenő: A tiroli kocsmáros (A tiroli kocsmáros 2) (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/A%20tiroli%20kocsmaros%20%281012%29/cover.jpg" alt="cover" width="300"/>
 
@@ -18,6 +20,7 @@
 <div> <p style="margin-bottom: 0in">Tersánszky J. Jenőt eredetisége, életigenlő szenvedélye, mindent megértő humanizmusa a magyar novella legjelentősebb mesterei, legkiválóbb művelői közé emeli. <br>Elbeszélései az ősi mesetípust képviselik irodalmunkban. Az író „derűs fatalista”-ként szemléli hőseit, szenvtelenül közvetít a megfellebbezhetetlen valóság és az olvasó között, e „szenvtelenségnek” azonban mindig morális tartalma, társadalmi célzata van: „A világ eseményei között a véletlen játékára történik ezer, ezer csodálatos és érthetetlen dolog. Ezekre adni is lehet, meg nem is. De van a dolgok között olyan, ami biztos, és amire mindig adni kell, és ez az élőlények jelleme. A cápa cápa és nem emberbarát, akárhogy mutatkozik is annak.” <br>Az „élőlények jellemének” művészi rajza teszi feledhetetlen élménnyé A tiroli kocsmáros c. kötetének darabjait is.</p><p style="margin-bottom: 0in"> </p></div>
 
 
+<hr/>
 # <a name="id_611">Tersánszky, Józsi Jenő: A havasi selyemfiú (1976)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/A%20havasi%20selyemfiu%20%28611%29/cover.jpg" alt="cover" width="300"/>
 
@@ -32,6 +35,7 @@ Tersánszky erotikus regényei közé tartozik. Témája a nagytermészetű vén
 Tersánszky különös félvad világot ábrázol, olyan társadalmat mutat be, amelyet a vagyon, az előítéletek mozgatnak, s amelyben nem számít az emberség, a bátorság. Pongyola stílusa ellenére a kisregény hatása alól nehezen tudja magát kivonni az olvasó.
 
 
+<hr/>
 # <a name="id_613">Tersánszky, Józsi Jenő: Viszontlátásra, drága… / Legenda a nyúlpaprikásról (1982)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/Viszontlatasra%2C%20draga_.%20_%20Legenda%20a%20%28613%29/cover.jpg" alt="cover" width="300"/>
 
@@ -48,6 +52,7 @@ Azután új szavakat tanul: „előnyomulás”, „lóveszteség”, „fogyó 
 A másik kisregény szomorkás-derűs története hétköznapi legenda – Legenda a nyúlpaprikásról. A társadalom peremén élők közé vezet el minket az író, átéli velünk a tiszta szívű Gazsi sóvárgását, azt az egyáltalán nem „ínycsiklandó”, hanem torokszorító vágyakozást: „Ez a Gazsi porciója!… Hát Gazsi elkezdte nyelni a nyúlpaprikást. És nyelte, nyelte, nyelte, nyelte. A könnye csurgott Gazsinak a gyönyörtől, a homloka verejtékezett. Úgy nyelte azt a nyúlpaprikást.” – álmodja meg lehetőségeinek netovábbját a falu nyomorultja, majd mesévé oldódik e görcsös keserűség…
 
 
+<hr/>
 # <a name="id_612">Tersánszky, Józsi Jenő: Legenda a nyúlpaprikásról (2013)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tersanszky%2C%20Jozsi%20Jeno/Legenda%20a%20nyulpaprikasrol%20%28612%29/cover.jpg" alt="cover" width="300"/>
 

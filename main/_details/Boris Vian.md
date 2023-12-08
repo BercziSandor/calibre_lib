@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1511">Boris Vian: Tajtékos napok (1979)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Boris%20Vian/Tajtekos%20napok%20%281511%29/cover.jpg" alt="cover" width="300"/>
 

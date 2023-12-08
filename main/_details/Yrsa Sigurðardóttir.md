@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1731">Yrsa Sigurðardóttir: Gének (Freyja & Huldar 1) (2017)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Yrsa%20Sigurdardottir/Genek%20%281731%29/cover.jpg" alt="cover" width="300"/>
 
@@ -11,6 +12,7 @@
 <p class="description">Huldar esetei sorozat első kötete.</p>
 
 
+<hr/>
 # <a name="id_1732">Yrsa Sigurðardóttir: Örvény (Freyja & Huldar 2) </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Yrsa%20Sigurdardottir/Orveny%20%281732%29/cover.jpg" alt="cover" width="300"/>
 
@@ -24,6 +26,7 @@
 <p class="description">Vigyázat! Cselekményleírást tartalmaz.<br>Egy iskolában tíz éve elástak egy időkapszulát. A benne található fogalmazásokban a diákok leírták, milyennek képzelik a jövőt. Csakhogy a gyermeki elképzelések közé egy fenyegető üzenet is került, amely hat, monogrammal jelölt ember halálát jövendöli. <br>Huldar, aki elvesztette vezetői pozícióját a rendőrségnél, úgy véli, ezzel a piti üggyel akarják távol tartani a valódi nyomozói munkától. Ugyan valószínűtlennek tartja, hogy bárki valóra váltaná kamaszkori fantáziáit, a biztonság kedvéért a gyerekpszichológus Freyja segítségét kéri, hogy kideríthesse, valós-e a fenyegetés. Nemsokára döbbenetes dolgok történnek: levágott testrészeket találnak egy kertben, majd meghal egy férfi, akinek monogramja egyezik a fenyegető üzenetben található egyik monogrammal. Megkezdődik a versenyfutás az idővel: Huldarnak és Freyjának meg kell találnia az üzenet íróját, azonosítania kell a potenciális áldozatokat és a gyilkost, amíg nem késő.</p>
 
 
+<hr/>
 # <a name="id_1728">Yrsa Sigurðardóttir: Exit (Freyja & Huldar 3) (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Yrsa%20Sigurdardottir/Exit%20%281728%29/cover.jpg" alt="cover" width="300"/>
 
@@ -40,6 +43,7 @@
 <p>Mivel kiskorúak kihallgatásakor jelen kell lennie egy pszichológusnak, Freyja is belekeveredik a nyomozásba. A nő azt gyanítja, hogy az ügy hátterében iskolai zaklatás állhat, és bármennyire nem akar Huldarral dolgozni, egyvalamiben egyetért a férfival: a gyilkos még nem végzett.</p></div>
 
 
+<hr/>
 # <a name="id_1733">Yrsa Sigurðardóttir: Vesztőhely (Freyja & Huldar 4) (2021)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Yrsa%20Sigurdardottir/Vesztohely%20%281733%29/cover.jpg" alt="cover" width="300"/>
 
@@ -54,6 +58,7 @@
 <p>Reykjavík mellett, egy sivár lávamezőn magasodik a Gálgaklettur, azaz a Bitó-kő. Valaha kivégzőhely volt, mára már csak turistalátványosság. Aztán egyik reggel egy felakasztott embert találnak rajta… A férfi mellkasából kiálló szög egyértelművé teszi, hogy nem öngyilkosság történt. <br>Az áldozat lakásán újabb talány fogadja a rendőröket: valaki otthagyott egy négyéves kisfiút. A gyerek semmiféle kapcsolatban nem áll az elhunyttal, a szüleit sehol sem találják, a rajzaiból pedig az derül ki, hogy valami szörnyűségnek volt a tanúja.<br>Míg Huldar nyomozó a gyilkosra vadászik, Freyja, a gyermekpszichológus pedig a kisfiú szüleit keresi, kibontakozik előttük a bűntény titokzatos története, amely mások kihasználásáról, az erőszakról és a bosszúról szól.</p></div>
 
 
+<hr/>
 # <a name="id_1729">Yrsa Sigurðardóttir: A baba (Freyja & Huldar 5) (2017)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Yrsa%20Sigurdardottir/A%20baba%20%281729%29/cover.jpg" alt="cover" width="300"/>
 
@@ -70,6 +75,7 @@
 <p>Miközben a holttest körüli rejtély egyre nő, Huldar egy drogfüggő hajléktalan meggyilkolásának ügyébe is belebonyolódik, Freyja pedig egy állítólagos gyermekmolesztálás után vizsgálódik egy nevelőotthonban. Hamar kiderül, hogy az eseteket egyetlen eltűnt és kiszolgáltatott tanú köti össze: a kislány, aki annak idején annyira akarta azt a babát.</p></div>
 
 
+<hr/>
 # <a name="id_1730">Yrsa Sigurðardóttir: Csend (Freyja & Huldar 6) (2023)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Yrsa%20Sigurdardottir/Csend%20%281730%29/cover.jpg" alt="cover" width="300"/>
 
@@ -87,6 +93,7 @@ Tizenegy évvel később Rögnvaldur és a felesége a tízéves kislányukat te
 A rendőrség néhány hónappal ezután egy nő megcsonkított, fej nélküli holttestére bukkan egy autóban. Freyját is bevonják a nyomozásba, mint pszichológus szakértőt, így együtt kell dolgoznia Huldarral, ami egyre jobban megnehezíti, hogy elkülönítsék a munkakapcsolatukat a személyestől. Ráadásul Freyját sorozatos szabályszegéssel gyanúsítják, ami az állásába kerülhet. Vajon Huldar tud neki segíteni? Közben a gyilkosság utáni nyomozás olyan múltbéli titkokhoz és elhallgatott bűnökhöz vezet, amelyek végzetesen összekapcsolják három család sorsát.
 
 
+<hr/>
 # <a name="id_1734">Yrsa Sigurðardóttir: Az utolsó rítus </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Yrsa%20Sigurdardottir/Az%20utolso%20ritus%20%281734%29/cover.jpg" alt="cover" width="300"/>
 
@@ -96,6 +103,7 @@ A rendőrség néhány hónappal ezután egy nő megcsonkított, fej nélküli h
 ### Tagek
 [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [krimi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/krimi.md)
 
+<hr/>
 # <a name="id_1727">Yrsa Sigurðardóttir: Emlékszem ​rád (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Yrsa%20Sigurdardottir/Emlekszem%20%20rad%20%281727%29/cover.jpg" alt="cover" width="300"/>
 

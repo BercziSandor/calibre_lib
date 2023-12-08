@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_615">Robert Louis Stevenson: Dr. Jekyll és Mr. Hyde különös esete (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Louis%20Stevenson/Dr.%20Jekyll%20es%20Mr.%20Hyde%20kulonos%20eset%20%28615%29/cover.jpg" alt="cover" width="300"/>
 

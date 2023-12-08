@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_168">James Clavell: A sógun (Ázsia-saga 1) (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Clavell/A%20Sogun%20%28168%29/cover.jpg" alt="cover" width="300"/>
 
@@ -12,6 +13,7 @@
 <p>Európai ​- németalföldi – hajó bukdácsol Japán partjai felé, rettenetes viharban. Megkerülte az egész ismert (és még nem ismert) világot, s mire szokatlan irányból, kelet felől érkezve megfeneklik Izu-félsziget sziklazátonyain, a legénységből alig tucatnyian maradnak életben. A japánok azonmód fogságba vetik őket, vezetőjükkel, az angol kalandorral, Blackthorne főnavigátorral együtt.<br>Az európai naptár az 1600. esztendőt mutatja. A holland tengerészek – noha ők ezt természetesen nem tudják – baljósabb időpontban nem is érkezhettek volna. Két éve, 1598-ban halt meg Nippon katonai diktátora, a taikó, s azóta az országot az egész 16. századon át dúló polgárháborúk utolsó felvonása zajlik: a kisebb-nagyobb szamurájseregekkel rendelkező főurak, a daimjó-k a végső, nagy csatára készülnek, hogy egyszer s mindenkorra eldőljön, ki, melyik család birtokolja majd évszázadokon át a sóguni címet, ki lesz a szamurájok, az egész ország teljhatalmú ura. Cselvetések, árulások, orgyilkosságok feszültséggel teli, ismeretlen világába csöppen a tucatnyi protestáns európai – és talán még a „vad” japánoknál is nagyobb veszély leselkedik rájuk a katolikus portugálok és spanyolok képében. Ezek ugyanis már több mint ötven esztendeje jelen vannak a japán kikötővárosokban, s nemcsak vallási, hanem kereskedelmi monopóliumukat is féltik az „eretnek kalózoktól”, ahogy Blackthorne-t és társait nevezik. Ami lesz a sorsa az Erasmus hajósainak, miféle rafinált eszközökkel és módszerekkel küzdenek egymás és sokszor az európaiak ellen is a japán hadvezérek, hogyan kell japán módra íjjal célba lőni, a teát szertartásos módon megfőzni és felszolgálni, harakirit elkövetni, hogyan támadnak a nindzsák – minderről és még számtalan egyéb érdekességről olvashatunk ebben a vérbeli történelmi regényben. Legtöbben azonban mégis egy rendkívüli formátumú, zseniális japán hadvezérről és politikusról tudunk meg – s egy nem kevésbé rendkívüli európairól, akiből a szamuráj lett.</p></div>
 
 
+<hr/>
 # <a name="id_1027">James Clavell: A Tajpan (Ázsia-saga 2) (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Clavell/A%20Tajpan%20%281027%29/cover.jpg" alt="cover" width="300"/>
 
@@ -26,6 +28,7 @@
 <p>Nagy-Britannia ​1841. január 26-án felségterületévé, kolóniájává nyilvánítja Hongkong apró, kopár sziklaszigetét. A jelenlévő nemzetközi kereskedő-kalandorok és katonák között nem egy akad, aki fitymálja az értéktelennek látszó új birtokot. A hatalmas termetű, kiváló hajósnak és ragyogó vezetőnek számító Dirk Struan azonban pontosan tudja, mire való ez a hely. Hongkong a Távol-Kelet legbiztonságosabb kikötőjévé lesz, bázisa annak a hatalmas arányú kereskedelemnek, amit a roppant méretű és hihetetlen erőforrásokkal rendelkező kínai birodalommal lehet lebonyolítani. <br>Ezüst, fűszerek, selyem, jáde és legfőképp a tea… A több évszázados, korhadó mandzsu birodalom alatt elgyöngült Kína rengeteg kincset rejt azok számára, akik elég bátrak és könyörtelenek, hogy elvegyék tőle. <br>Ám a sikernek ára van. <br>Halálos veszedelmek leselkednek Dirk Struanra és családjára. Ellenségei – európaiak és kínaiak – semmitől sem riadnak vissza. Igaz, ő sem válogat az eszközökben. Pénzzel, fortéllyal – vagy éppen korbáccsal – juttatja érvényre akaratát és becsvágyát. Csak így lehet belőle kínai elnevezéssel Tajpan, sárgák és fehérek megkérdőjelezhetetlen főnöke, az üzlet és az emberek ura, a virágzó település vezetője. Kalózok és kínai titkos társaságok, ópiumháborúk és politikai intrikák, tengeri kalandok és viharos szerelmek… <br>Az olvasó A sógun világhírű szerzőjének e „hongkongi regényében” sem fog csalódni.</p></div>
 
 
+<hr/>
 # <a name="id_1028">James Clavell: Gajdzsin (Ázsia-saga 3) (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Clavell/Gajdzsin%20%281028%29/cover.jpg" alt="cover" width="300"/>
 

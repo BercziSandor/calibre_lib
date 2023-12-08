@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_673">Karin Alvtegen: A kitaszított (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Karin%20Alvtegen/A%20kitaszitott%20%28673%29/cover.jpg" alt="cover" width="300"/>
 
@@ -12,6 +13,7 @@
 <p>Sibylla egy ifjúkori, a szülők által nem helyeselt szerelmi viszony következtében elmegyógyintézetbe kerül. Miután megszökik, hajléktalanként csavarog Stockholmban és környékén. Kedvenc trükkje, hogy a bajba jutott hölgy szerepét játszva, rávesz egy-egy tehetősebb férfit arra, hogy fizesse szállodai szobáját és vacsoráját. Egyik palimadara azonban reggelre rituális gyilkosság áldozata lesz, és a személyzet vallomása alapján a gyanú Sibyllára terelődik. Most már nem csupán csavarognia, hanem bujkálnia is kell a sorozatgyilkosság vádja elől, miközben az igazi gyilkos újból lecsap…</p></div>
 
 
+<hr/>
 # <a name="id_676">Karin Alvtegen: Árnyak (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Karin%20Alvtegen/Arnyak%20%28676%29/cover.jpg" alt="cover" width="300"/>
 

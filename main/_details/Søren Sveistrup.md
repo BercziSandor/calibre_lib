@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1490">Søren Sveistrup: A gesztenyeember (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Soren%20Sveistrup/A%20gesztenyeember%20%281490%29/cover.jpg" alt="cover" width="300"/>
 

@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1515">Krekó, Péter: Tömegparanoia 2.0 (2021)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kreko%2C%20Peter/Tomegparanoia%202.0%20%281515%29/cover.jpg" alt="cover" width="300"/>
 

@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_907">Valérie Tasso: A szex antikézikönyve (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Valerie%20Tasso/A%20szex%20antikezikonyve%20%28907%29/cover.jpg" alt="cover" width="300"/>
 

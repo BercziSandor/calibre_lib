@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_678">Poul Örum: Csak az igazat (1980)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Poul%20Orum/Csak%20az%20igazat%20%28678%29/cover.jpg" alt="cover" width="300"/>
 

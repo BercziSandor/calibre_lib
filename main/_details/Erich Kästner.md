@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1199">Erich Kästner: A két Lotti (Pöttyös 1) (2018)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Kastner/A%20ket%20Lotti%20%281199%29/cover.jpg" alt="cover" width="300"/>
 
@@ -12,6 +13,7 @@
 <p>Melyik gyerek nem gondolt még arra, mennyire jó lenne egy ikertestvér, aki úgy hasonlítana rá, hogy még az édesanyjuk sem tudná megkülönböztetni őket? Nos, Kästner regényében két ilyen kislányról van szó. Ráadásul még nem is ismerik egymást, mert szüleik régóta elváltan élnek, s egyik az apjánál, másik az anyjánál nevelkedik. Az ikrek egy gyermeknyaralóban találkoznak, és rájönnek, hogy testvérek. Hasonlóságuk sok mulatságos bonyodalmat okoz, de a két kislány komolyabb dolgot tervez: ki akarják békíteni az elvált szülőket, s ezért szerepet cserélnek. Hogyan viselkedik mindegyik a megváltozott élethelyzetében, és miképp sikerül tervük végrehajtása – erről szól A két Lotti könnyes-vidám története.</p></div>
 
 
+<hr/>
 # <a name="id_964">Erich Kästner: A repülő osztály (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Kastner/A%20repulo%20osztaly%20%28964%29/cover.jpg" alt="cover" width="300"/>
 
@@ -25,6 +27,7 @@
 <p class="description">A kirchbergi gimnázium diákjai karácsonyi színdarabot próbálnak. A próbán minden remekül megy, de az előadásig történik egy és más előre nem látott esemény. Például kitör a háború a gimnazisták és a reáliskolások között, s hatalmas hócsatákat vívnak, áldozatul esik egy köteg dolgozatfüzet, elcsattan több tucat pofon, valaki nyaktörő mutatványt hajt végre egy nyitott esernyővel… A többi pedig – hát az már maradjon titok. Erich Kästnernek, az Emil és a detektívek, a Május 35 és A két Lotti szerzőjének nevét már jól ismerik az olvasók. A repülő osztály egyik legjobb ifjúsági regénye.</p>
 
 
+<hr/>
 # <a name="id_667">Erich Kästner: Három ember a hóban (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Kastner/Harom%20ember%20a%20hoban%20%28667%29/cover.jpg" alt="cover" width="300"/>
 

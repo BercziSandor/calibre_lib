@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_387">Szerb, Antal: Utas és holdvilág (1985)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szerb%2C%20Antal/Utas%20es%20holdvilag%20%28387%29/cover.jpg" alt="cover" width="300"/>
 
@@ -11,6 +12,7 @@
 <p class="description">Mikor döbbenjen rá egy férfi, hogy nem adhatja föl ifjúsága eszményeit, és nem hajthatja fejét „csak úgy" a házasság jármába, ha nem a nászútján? Szerb Antal regénybeli utasa holdvilágos transzban szökik meg fiatal felesége mellől, hogy kiegészítse, továbbélje azt az ifjúságot, amely visszavonhatatlanul elveszett. A szökött férj arra a kérdésre keresi a választ, hogy a lélek időgépén vissza lehet-e szállni a múltba, vajon torzónak maradt élet-epizódokkal kiteljesíthető-e a jelen, és megszabadulhat-e valamikor az ember énje börtönéből vagy hazugnak gondolt „felnőttsége" bilincseitől? Az Utas és holdvilág a magát kereső ember önelemző regénye. Mihály, a regény hőse hiába akar előbb a házassága révén konformista polgári életet élni, s hiába szökik meg ez elől az élet elöl, a regény végén ott tart, ahol az elején: mégis bele kell törnie mindabba, amibe nem akar. „És ha az ember él, még mindig történhet valami" – ezzel a mondattal zárul a finom lélektani részletekkel megírt, először 1937-ben megjelent regény, amely első megjelenése óta hatalmas világsikerre tett szert.</p>
 
 
+<hr/>
 # <a name="id_272">Szerb, Antal: A Legszebb Kutyatörténetek Gerald Durrell Válogatásában (1996)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szerb%2C%20Antal/A%20Legszebb%20Kutyatortenetek%20Gerald%20Durrell%20Valogatasaban%20%28272%29/cover.jpg" alt="cover" width="300"/>
 

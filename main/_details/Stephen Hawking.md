@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_390">Stephen Hawking: Az idő még rövidebb története (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20Hawking/Az%20ido%20meg%20rovidebb%20tortenete%20%28390%29/cover.jpg" alt="cover" width="300"/>
 
@@ -12,6 +13,7 @@
 <p>Stephen Hawking világszerte ismert sikerkönyve Az idő rövid története mérföldkő volt a tudományos ismeretterjesztés történetében. Ennek csak egyik oka a szerző lebilincselő stílusa, a másik viszont az általa tárgyalt lenyűgöző témák: a tér és az idő természete, Isten szerepe a teremtésben, a Világegyetem története és jövője. Kétségtelen tény viszont, hogy a könyv megjelenése óta sok olvasó jelezte Hawking professzornak, hogy milyen nehézséget okozott a könyvben szereplő legfontosabb fogalmak megértése.Ezért született meg Az idő még rövidebb története. A szerző szerette volna korábbi könyve mondanivalóját még érthetőbbé tenni olvasói számára – és egyúttal kiegészítette azt a legújabb tudományos megfigyelések és felfedezések ismertetésével.</p></div>
 
 
+<hr/>
 # <a name="id_1166">Stephen Hawking: Az idő rövid története (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20Hawking/Az%20ido%20rovid%20tortenete%20%281166%29/cover.jpg" alt="cover" width="300"/>
 

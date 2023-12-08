@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1599">Heribert Illig: Kitalált középkor (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Heribert%20Illig/Kitalalt%20kozepkor%20%281599%29/cover.jpg" alt="cover" width="300"/>
 

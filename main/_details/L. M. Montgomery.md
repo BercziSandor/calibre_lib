@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_488">L. M. Montgomery: Anne otthonra talál (Anne 1) (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20otthonra%20talal%20%28488%29/cover.jpg" alt="cover" width="300"/>
 
@@ -11,6 +12,7 @@
 Avonlea ​kanadai falucska népe felbolydul: vajon mi indíthatta a besavanyodott agglegényt, Matthew Cuthbertet, no meg kardos nővérét, a háztartását parancsnoki szigorral vezető Marillát, hogy árva gyereket fogadjanak tanyájukra? Bizony, a szorgalmas, puritán testvérpár fölött eljárt az idő – segítségre van szükségük, és ki lenne erre alkalmasabb, mint holmi apátlan-anyátlan legényke, aki örül, ha fedelet kap a feje fölé? Mekkora aztán Matt meglepetése, amikor a várt legényke helyett egy pulykatojásképű, vörös hajú leányzó várja szerény bőröndjén üldögélve, hogy örökbefogadója megjelenjen… Matthew legszívesebben azonnal visszaküldené, Marillától sem várhat sokat a jövevény, aki, mint kiderül, az Anne névre hallgat. Vissza is penderítenék menten, ha a különlegesen fejlett szókinccsel rendelkező, jég hátán is megélő kis árva lány, akit jócskán cibált már az élet, és alapos ismereteket szerzett a felnőttek világáról, ki nem vágná magát a kutyaszorítóból, és lány létére nélkülözhetetlenné nem tenné magát a derék idősödő testvérpár életében… Persze az út a kölcsönös megértéshez, mi több: a szeretethez ugyancsak rögös, de a talpraesett kislány sikerrel végigjárja: segíti ebben élénk képzelete, és az, hogy a világot szépnek és megjavíthatónak látja.
 
 
+<hr/>
 # <a name="id_483">L. M. Montgomery: Anne az élet iskolájában (Anne 2) (2005)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20az%20elet%20iskolajaban%20%28483%29/cover.jpg" alt="cover" width="300"/>
 
@@ -24,6 +26,7 @@ Avonlea ​kanadai falucska népe felbolydul: vajon mi indíthatta a besavanyodo
 Anne Shirley, ez a vörös hajú, örökké csacsogó és álmodozásra hajlamos kislány, akinek gyermekkoráról az Anne otthonra talál című kötet számolt be, immár 16 éves ifjú hölgy. Kijárta a főiskolát, és visszatért Avonlea-be. De a visszatérés egyben új kezdet is, Anne kilép az élet iskolájába, hiszen dolgozni kezd: tanítónőként helyezkedik el abban az iskolában, ahol valaha maga is tanult. Ahogy már megszokhattuk, az élet továbbra is folyton pezseg körülötte: meglágyítja az új szomszéd, a mogorva agglegény hírében álló Mr. Harrison szívét, Levendula kisasszony személyében pedig igazi „rokon lélekre” talál. Hősünk azonban nem volna méltó az Anne Shirley névre, ha nem kerülne időről időre kisebb-nagyobb kalamajkába… A világszerte rendkívül népszerű írónő történetéből készült filmsorozat olyan sikeres, hogy a tévécsatornák újra és újra a műsorukra tűzik. Az olvasók pedig újra és újra a kezükbe veszik a magával ragadó sorozat köteteit.
 
 
+<hr/>
 # <a name="id_490">L. M. Montgomery: Anne válaszúton (Anne 3) (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20valaszuton%20%28490%29/cover.jpg" alt="cover" width="300"/>
 
@@ -40,6 +43,7 @@ Vajon mi vagy ki áll Anne boldogságának útjában? És vajon elmegy-e a lány
 A rendkívül népszerű kanadai írónő legismertebb sorozatának harmadik darabját tartja a kezében az olvasó.
 
 
+<hr/>
 # <a name="id_489">L. M. Montgomery: Anne új vizekre evez (Anne 4) (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20uj%20vizekre%20evez%20%28489%29/cover.jpg" alt="cover" width="300"/>
 
@@ -53,6 +57,7 @@ A rendkívül népszerű kanadai írónő legismertebb sorozatának harmadik dar
 A ​népszerű Anne-sorozat legújabb, sorrendben negyedik kötete az Anne új vizekre evez Anne Shirley életének újabb állomására kalauzolja az olvasót. Hősnőnk elfoglalja első igazi állását: igazgatónő a summerside-i középiskolában – és ahogy azt a különlegesen fejlett beszédkészségű, élénk képzelőerejű kislánytól megszoktuk már, felnőttként is mindent megtesz, hogy színt, izgalmat vigyen a városka életébe. Először a Prigle-klánnal kell megküzdenie. Ők a városka igazi urai, és Anne helyett saját rokonukat akarták az igazgatói székben látni. Így aztán Anne nem éppen népszerű a körükben, de vitézül állja a harcot. Igaz, ha a vakszerencse nem juttatja egy régi hajónapló birtokába, és ha a sors nem sodor útjába egy kivételes színészi képességekkel megáldott kisleányt, aligha sikerülne diadalmaskodnia. Így azonban hamarosan mégiscsak az egész város kedvencévé válik. Ekkor aztán semmi akadálya többé, hogy nyélbe üssön néhány házasságot, felderítse boldogtalan, magányos és tüskés szívű tantársa, Katherine Brooke életét és végül de nem utolsósorban a szomszéd házban élő, ugyancsak élénk képzelőerejű félárva kislányt kiszabadítsa zsémbes és rideg nagyanyja kezei közül. Három év elteltével Anne elégedetten térhet haza Avonlea-be, hogy szeretett Gilbertjével, aki időközben elvégezte az orvosi egyetemet, esküvőjükre készülhessen…
 
 
+<hr/>
 # <a name="id_486">L. M. Montgomery: Anne férjhez megy (Anne 5) (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20ferjhez%20megy%20%28486%29/cover.jpg" alt="cover" width="300"/>
 
@@ -68,6 +73,7 @@ Anne Shirley, aki egykor árvaként érkezett az Edward-szigeti kis faluba, Avon
 Anne anya lesz, de rögtön gyászba is borul. Ám végül jóra fordulnak a dolgok, és mire mindenki megtalálja a boldogságát, Anne-éknek is költözniük kell. Nagyobb, kényelmesebb, új otthonba, hiszen ez az élet rendje.
 
 
+<hr/>
 # <a name="id_484">L. M. Montgomery: Anne családja körében (Anne 6) (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20csaladja%20koreben%20%28484%29/cover.jpg" alt="cover" width="300"/>
 
@@ -81,6 +87,7 @@ Anne anya lesz, de rögtön gyászba is borul. Ám végül jóra fordulnak a dol
 Anne Shirley, aki valaha árvalányként került az Edward-szigeti falucskába, Avonlea-be, annyi mulatságos és szívszorító kaland után révbe érkezett: szerelme, Gilbert Blythe oldalán a házasélet örömei és gondjai között telnek napjai a Négy Szél-öböl menti Glenben. Az évek múlásával a család egyre szaporodik, de Anne most is éppoly karcsú, vonzó és csinos – és vörös, mint lánykorában. A kedves és hűséges Susan segítségével irányítja a barátságos ház, a Zugoly életét, értő szemmel figyeli gyerekei fejlődését, biztatja őket az élet kisebb-nagyobb csalódásai között, osztozik álmaikban, boldogságukban. Eközben azonban őt magát kétségek és félelmek emésztik: lehet, hogy annyi év szerelme után Gilbert szíve nem az övé többé?
 
 
+<hr/>
 # <a name="id_485">L. M. Montgomery: Anne és a Szivárvány-völgy (Anne 7) (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20es%20a%20Szivarvany-volgy%20%28485%29/cover.jpg" alt="cover" width="300"/>
 
@@ -94,6 +101,7 @@ Anne Shirley, aki valaha árvalányként került az Edward-szigeti falucskába, 
 A ​Zöldmanzárdos-ház vörös hajú Anne-je hatgyerekes családanya, s már csak a két kicsi, Shirley és Rilla van állandóan a szoknyája körül, a négy nagy, Jem, Walter és az ikrek, Di és Nan iskolába járnak. Szabadidejüket pedig a Zugoly melletti mesés tájékon töltik, a Szivárvány-völgyben, amelyet, akárcsak valaha az avonlea-i erdőket-mezőket, képzeletbeli tündéri teremtmények népesítenek be. Hamarosan új játszótársaik akadnak, a falu újonnan érkezett, özvegy lelkészének négy rakoncátlan gyereke. Az anyai gondoskodás nélkül cseperedő Meredith gyerekek egyik botrányt a másik után kavarják Glen St. Maryben. Befogadnak házukba egy szökött lelencet, disznóháton lovagolnak végig a falun, a metodista temetőben játszanak. Bármit tesznek is, a teológia kérdéseivel viaskodó apjuk szórakozott tudatáig alig jut el, viszont magukra haragítják a falu éber figyelmű, pletykás véneit, és ha nem állnának mellettük a Blythe gyerekek és szüleik: Anne és Gilbert, még a tiszteletes hivatalát is veszélybe sodornák. Szerencsére a világ egy kanadai falucskában sem csupa pletykás és álszent vénasszonyból áll, és a gyerekek bátor őszinteségének köszönhetően végül minden jóra fordul. Igaz, a regény utolsó oldaláig kétséges, vajon a bájos Miss Rosemary West igent mond-e Mr. Meredith házassági ajánlatára…
 
 
+<hr/>
 # <a name="id_487">L. M. Montgomery: Anne gyermekei a háborúban (Anne 8) (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20gyermekei%20a%20haboruban%20%28487%29/cover.jpg" alt="cover" width="300"/>
 
@@ -107,6 +115,7 @@ A ​Zöldmanzárdos-ház vörös hajú Anne-je hatgyerekes családanya, s már 
 Anne gyermekei már majdnem felnőttek, kivéve a vidám, szeleburdi és nyakigláb Rillát. Ő még csak tizenöt éves, és bálokról, hódításokról, udvarlókról ábrándozik. De élete első báljának a napja egyben az első világháború kitörésének is a napja. Hiába tölt oly emlékezetes pillanatokat a Négy Szél-beli világítótoronyban rendezett táncmulatságon, Rillára négy év felhőtlen vigalom helyett szenvedés, bánat, kötelességek hosszú sora vár. Anne legkisebb lánya azonban méltó anyjához: bátran, hősiesen, erős szívvel áll helyt. Teszi, ami a háború sújtotta világban talán a legnehezebb, tisztességgel éli mindennapjait, segít, ahol tud. Nevelgeti a kis Jimset, a hadiárvát, szervezi a helyi ifjúsági Vöröskeresztet, főz, varr, köt, sőt még egy esküvőt is nyélbe üt. És mindeközben, szinte észrevétlenül felnőtté érik, aki képes arra, hogy a romokban heverő régi világ helyébe újat építsen.
 
 
+<hr/>
 # <a name="id_493">L. M. Montgomery: A tűzpróba (Emily 1) (2006)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/A%20tuzproba%20%28493%29/cover.jpg" alt="cover" width="300"/>
 
@@ -120,6 +129,7 @@ Anne gyermekei már majdnem felnőttek, kivéve a vidám, szeleburdi és nyakigl
 Emily Starr szeretett édesapja haláláig nem tudja, mi a magány. Noha otthon tanul és játszópajtásai nincsenek, a könyvekben talál barátokat, elnevezi kedvenc fáit és növényeit, s úgy beszél hozzájuk, mintha barátok volnának. Amikor teljesen elárvul, anyja szőrösszívű rokonai sorshúzással döntik el, ki viselje gondját az érzékeny és gazdag képzelőerővel megáldott tizenegy éves kislánynak. Így kerül „nem szívesen látott” rokonként a New Moon farmra. A romantikus természetű, ám szókimondó Emilynek nem csupán a vaskalapos Elizabeth nénjével, de komiszkodó osztálytársaival is meggyűlik a baja. Akkor kezdenek jobbra fordulni a dolgok, amikor összebarátkozik a féktelen temperamentumú Ilsével, Teddyvel, a művésszel és Perryvel, a világot bejárt tengerésszel.
 
 
+<hr/>
 # <a name="id_494">L. M. Montgomery: Barátságok (Emily 2) (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Baratsagok%20%28494%29/cover.jpg" alt="cover" width="300"/>
 
@@ -133,6 +143,7 @@ Emily Starr szeretett édesapja haláláig nem tudja, mi a magány. Noha otthon 
 Emily már a második nyarat tölti New Moonban, a titokzatos, sokat látott, öreg házban, ahová édesapja halála után sorshúzás révén került. Noha egyre inkább otthon érzi magát, még mindig sokszor gyűlik meg a baja végletekig puritán, bigott Elizabeth nénjével. Jóval megértőbb rokonra lel azonban Nancy néni személyében, aki nem csupán azt engedi meg, hogy frufrut viseljen és mezítláb csatangoljon, hanem olyannyira szabadjára engedi a kislányt, hogy az életveszélyes kalandba keveredik. „Kajlalábú” Dean Priest menti meg az életét, akiben tüstént rokonlélekre talál és szoros barátság alakul ki közöttük. Emily legkedvesebb időtöltése az írás. Egy táj, egy esemény, egy ötlet, legyen az szép vagy csúnya, addig nem hagyja nyugodni, amíg „ki nem írja” magából. Megigézik őt és óhatatlanul tollhegyére kívánkoznak az élet komédiái és tragédiái, a valóság függönye mögött rejtőzködő álomvilág
 
 
+<hr/>
 # <a name="id_495">L. M. Montgomery: Bagolykacaj (Emily 3) (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Bagolykacaj%20%28495%29/cover.jpg" alt="cover" width="300"/>
 
@@ -147,6 +158,7 @@ Emily, Ilse, Teddy és Perry már a Shrewsbury-i középiskola diákjai. Emily a
 Emily Starr egy sereg oktalan és helytelen dolgot művel, ámde ő nem hétköznapi kamaszlány. „Naplója” minden ifjonti csiszolatlansága és dőlt betűi ellenére bármely önéletrajzírónál hívebben mutatja be az immár tizennégy esztendős lány környezetét, személyiségét, fantáziadús, önelemző elméjét. Vessünk hát egy újabb pillantást a „Jimmy-naplók” lapjaira, amelyet ezúttal nem csupán a New Moon-i toronyszobában, hanem Shrewsbury-ben, a barátságtalan Ruth néni fedele alatt és állandó szurkapiszkái közepette ír…
 
 
+<hr/>
 # <a name="id_496">L. M. Montgomery: Forgószél (Emily 4) (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Forgoszel%20%28496%29/cover.jpg" alt="cover" width="300"/>
 
@@ -161,6 +173,7 @@ Emily sikerek, kudarcok, no meg vad kalandok közepette elvégzi a középiskol�
 Nem csoda hát, ha ostobának tartják Emilyt, amikor visszautasítja a fantasztikus lehetőséget: egy New York-i magazin állásajánlatát. Csakhogy Emily Starrnak nagyon is határozott elképzelései vannak a jövőjét illetően, és úgy véli, hogy azért, mert New York és New Moon közül az utóbbit választotta, még nem veszítette el az esélyt, hogy sikeresen megmássza az „Alpok ösvényét”.
 
 
+<hr/>
 # <a name="id_497">L. M. Montgomery: Szerelmek (Emily 5) (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Szerelmek%20%28497%29/cover.jpg" alt="cover" width="300"/>
 
@@ -174,6 +187,7 @@ Nem csoda hát, ha ostobának tartják Emilyt, amikor visszautasítja a fantaszt
 Emily barátai mind elhagyják Blair Water-t: Ilse Burnley a Montreali Irodalmi és Előadóművészeti Akadémiára megy, Perry Miller, az egykori béres, egy charlottetown-i ügyvédi irodában tanul jogot, Teddy Kent pedig a Montreali Rajzakadémián fejleszti rajztehetségét. Emily azonban New Moonban marad írni és egy szörnyű baleset hónapokra az ágyba kényszeríti. Régi barátja Dean Priest, hűségesen látogatja és ápolja Emilyt, aki végül igent mondott Dean házassági ajánlatára, de… Eközben Emily régi barátai is a szerelem és a házasság bonyolult útvesztőjébe tévednek… Végül azonban minden jóra fordul, Emily és a többiek révbe érnek.
 
 
+<hr/>
 # <a name="id_492">L. M. Montgomery: A Mesélő Lány (Váratlan utazás 1) (1999)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/A%20Meselo%20Lany%20%28492%29/cover.jpg" alt="cover" width="300"/>
 
@@ -188,6 +202,7 @@ Emily barátai mind elhagyják Blair Water-t: Ilse Burnley a Montreali Irodalmi 
 A ​Mesélő Lány ismerős vidékre kalauzolja Lucy Maud Montgomery méltán népszerű Anne-sorozatának olvasóit. A derűs és megható történetek ezúttal is a varázslatos szépségű kanadai Prince Edward-szigeten játszódnak. Itt, Carlisle-ban él a King család, amelynek tulajdonában különös gyümölcsöskert van: valahányszor új jövevény érkezett a családba, az alapító nagyapa egy almafát ültetett születését megünnepelni, s ugyanígy, ha vendég szállt meg a házban, azt is megkérték, ültessen el egy fát. Ezek között a rokonokról elnevezett fák között tölti nyarát egy kis gyerekcsapat: a szép és hiú Felicity, a jólelkű Cecily, a testvérük, az örökké kételkedő Dan, továbbá Peter, a béresfiú, aki Felicity odaadó hódolója, Sara Rey, Cecily könnyen elpityeredő barátnője, aki soha nem engednek el sehova, valamint a kövérkés, lobbanékony Felix és testvére, Bev, aki e régi nyár emlékeit feleleveníti a könyv lapjain. Ismerjük őket: olyanok, mint páratlan adományal ruházott fel a sors. A Mesélő Lány, rendes nevén Sara Stanley hangjával, meséivel és azzal a varázslatos képességével, hogy mesemondás közben eggyé válik történetének szereplőivel, elbűvöli hallgatóit. Még a felnőtteket is, akik nagy színészi jövőt jósolnak neki. Egyelőre azonban ő és társai tízes éveik elején járnak. Képzelet és valóság keveredik kiskamasz világukba, amely korántsem maga a felhőtlen gondatlanság. Ismerkednek az élettel, de a halállal is, barátkoznak egymással, és ha nehezen megy is, megpróbálják megérteni a felnőttek világát. Eközben persze egyre többet tudnak meg önmagukról. A Mesélő Lány mulatságos és szívszorító történetei segítik eligazodni bontakozó lelkület a világ rejtelmei között.
 
 
+<hr/>
 # <a name="id_491">L. M. Montgomery: Az arany út (Váratlan utazás 2) (2000)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Az%20arany%20ut%20%28491%29/cover.jpg" alt="cover" width="300"/>
 
@@ -201,6 +216,7 @@ A ​Mesélő Lány ismerős vidékre kalauzolja Lucy Maud Montgomery méltán n
 Lucy ​Maud Montgomery, a méltán népszerű Anne sorozat szerzője, fiatal olvasóik ezreit bűvöli el varázslatos történeteivel. Az arany út, amely A mesélő Lány folytatása, a Prince Edward-szigeti gyerekek, Bev, Felix, Dan, Felicity, Cecily, Sara Ray, Peter és a Mesélő Lány, életének kisebb-nagyobb eseményei elevenednek meg. Ám történeteiket ezúttal a gyerekek saját, házilagosan írt és szerkesztett újságjukban örökítik meg, ahol mindegyikük a neki leginkább megfelelő rovatban próbálhatja ki újságírói tehetségét. Természetesen a pálmát itt is a Mesélő Lány történetei viszik el a karácsonyi hárfásról, aki zenéjével békét hozott a világnak, a bátor és fortélyos Ursuláról, aki egy pamutgombolyagba rejtett levélkével ad jelzést a szerelmének, valamint a szép és fiatal Unáról, aki az esküvője tervezett napján hal meg. Értesülünk továbbá arról, hogyan tévesztették össze a kormányzó feleségét a süket Eliza nénivel, hogyan tette tönkre Sara Ray és Mesélő Lány előadását és hogyan látogatták meg a boszorkány hírében álló Peg Bowent, akinek jóslatai sorra valóra válnak: hiszen Olivia néni tényleg férjhez megy és Peter apja valóban hazatér. Megtudjuk, hogyan üldözte szerelmével Cecilyt egyik kis osztálytársa, és mi történt, amikor Peg Bowen megjelent a vasárnapi misén. A legszebb és legrészletesebben kidolgozott történet hőse a művelt, érzékeny és visszahúzódó Félszeg Ember, aki, ahogy a népmesékben szokás, végül elnyeri a környék legszebb és leggazdagabb hajadonának, Miss Reade-nek a kezét. Az újság utolsó száma búcsúszám: a Mesélő Lányért eljön édesapja, hogy magával vigye. Nem csupán a szigettől, a családtól, a barátoktól és az unokatestvérektől búcsúzik, hanem a boldog, felhőtlen, meséktől ragyogó aranykortól, a gyerekkortól is.
 
 
+<hr/>
 # <a name="id_265">L. M. Montgomery: Avonlea-i krónikák (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Avonlea-i%20kronikak%20%28265%29/cover.jpg" alt="cover" width="300"/>
 

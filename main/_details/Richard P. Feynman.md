@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_820">Richard P. Feynman: „Tréfál, Feynman úr?” (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Richard%20P.%20Feynman/%2C%2CTrefal%2C%20Feynman%20ur__%20%28820%29/cover.jpg" alt="cover" width="300"/>
 

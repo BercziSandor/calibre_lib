@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_770">Carl Gustav Jung: Gondolatok a szexualitásról és a szerelemről (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Carl%20Gustav%20Jung/Gondolatok%20a%20szexualitasrol%20es%20a%20sz%20%28770%29/cover.jpg" alt="cover" width="300"/>
 

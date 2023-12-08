@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_837">Viktor Pelevin: A rovarok élete (1999)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Viktor%20Pelevin/A%20rovarok%20elete%20%28837%29/cover.jpg" alt="cover" width="300"/>
 
@@ -12,6 +13,7 @@ Ez a könyv -amely most ÚJ BORÍTÓVAL jelent meg- volt az ELSŐ magyarul megje
 Egy krími üdülőhelyen alkoholmérgezést kap a helyi lakosság véréből próbát venni érkezett amerikai szúnyog, hasist szívnak és megvilágosodnak a keleti filozófiáról értekező, nonkonformista éjjeli lepkék, a ganajtúró bogár saját példájával teszi világossá a fia számára, mi az élet értelme, a hangyalány romantikus szerelemről álmodik, de sivár magány lesz a sorsa, egyetlen lánya is elhagyja. És közben ragyognak a csillagok, hullámzik a tenger, születnek és meghalnak a rovaremberek.
 
 
+<hr/>
 # <a name="id_835">Viktor Pelevin: A tervhivatal hercege – Elbeszélések (2004)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Viktor%20Pelevin/A%20tervhivatal%20hercege%20-%20Elbeszelese%20%28835%29/cover.jpg" alt="cover" width="300"/>
 
@@ -26,6 +28,7 @@ Egy krími üdülőhelyen alkoholmérgezést kap a helyi lakosság véréből pr
 <p class="description">"Pelevin New Yorktól Moszkváig ma a legolvasottabb orosz író, sõt, az egyik legnépszerûbb európai író."Háy János<br>"Nyugodtan rábízhatjuk magunkat Pelevin mesélõkéjére."<br>Podmaniczky Szilárd<br>"Ott lenni Pelevinnél nem idõfecsérlés, mert elragad a talált világok karneválja, mert hihetetlen bátor ez a fickó, nem pöcsöl a mondatokkal, nem érdekli tetszik-e vagy nem, hogy elvárásoknak megfelel-e vagy nem. Az érdekli, hogy odategye, amit oda akar."<br>Háy János<br>Részlet a könyvbõl:<br>Loading<br>Apró emberi alak szalad a folyosón. Nagy szeretettel rajzolták meg, kissé talán szentimentálisan. Ha megnyomjuk az „Up" billentyût, felugrik, homorít, egy pillanatra megáll a levegõben, és próbál elkapni valamit a feje fölött. Ha a „Down"-t nyomjuk meg, leguggol, és igyekszik felemelni valamit a földrõl. Ha a „Right"-ot nyomjuk meg, jobbra szalad. Ha a „Left"-et, balra. Egyszóval különbözõ billentyûk segítségével lehet irányítani, de ez a négy a legfontosabb.<br>A folyosó, amelyben az emberke szalad, változó. Többnyire valamilyen kõtárna, de néha gyönyörûséges galériává változik, falán keleti díszítésekkel és magas, keskeny ablakokkal. Fáklyák égnek a falon a zsákutcának bizonyuló folyosók végén, a mély aknák fölött átívelõ ingatag hidakon pedig kivont karddal ellenségek állnak - ezekkel harcba száll a kis figura, ha megnyomjuk a „Shift" billentyût. Ha egyszerre több billentyût nyomunk meg, a figura felugrik, hajladozik, vagy inogva egyensúlyoz peremeken, akár nekifutásból át tud ugrani az aknák fölött, melyek alján éles nyársak meredeznek. A játéknak sok szintje van, az alacsonyabbról fel lehet jutni a magasabbra, a magasabbról pedig visszahullani az alacsonyabbra -<br>közben változnak a folyosók, változnak a csapdák, máshogy néznek ki a korsók, amelyekbõl az emberke iszik, hogy fölfrissítse életerejét, de egyébként minden változatlan: az emberke a kõfalak és fáklyák közt szalad, a földön koponyák, a falakon rajzok. <br>A játék célja, hogy eljusson az utolsó szintre, ahol a hercegnõ várja, de ehhez sok idõt kell a játéknak szentelni. Ahhoz, hogy sikeresek legyünk, el kell felejteni, hogy billentyûket nyomogatunk, és át kell változnunk az emberkévé - csak ekkor leszünk olyan ügyesek, hogy képesek legyünk vívni, átugrani a keskeny folyosókon csattogó pengéken, átszökellni az aknák fölött, és végigszaladni a beomló kõlapokon, amelyek csak egy pillanatra tartják meg a test súlyát, bár nincs semmiféle teste a figurának, súlya még kevésbé, mint ahogy, ha jobban belegondolunk, a beszakadó kõlapoknak sincs, bármilyen meggyõzõnek tûnjék is a koppanás, amelyet zuhanásukkal keltenek.</p>
 
 
+<hr/>
 # <a name="id_830">Viktor Pelevin: Kristályvilág (2004)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Viktor%20Pelevin/Kristalyvilag%20%28830%29/cover.jpg" alt="cover" width="300"/>
 
@@ -39,6 +42,7 @@ Egy krími üdülőhelyen alkoholmérgezést kap a helyi lakosság véréből pr
 Ott lenni Pelevinnél nem időfecsérlés, mert elragad a talált világok karneválja, mert hihetetlen bátor ez a fickó, nem pöcsöl a mondatokkal, nem érdekli tetszik-e vagy nem, hogy elvárásoknak megfelel-e vagy nem. Az érdekli, hogy odategye, amit oda akar.
 
 
+<hr/>
 # <a name="id_826">Viktor Pelevin: A hunok harmóniája (2005)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Viktor%20Pelevin/A%20hunok%20harmoniaja%20%28826%29/cover.jpg" alt="cover" width="300"/>
 
@@ -52,6 +56,7 @@ Ott lenni Pelevinnél nem időfecsérlés, mert elragad a talált világok karne
 Minden azzal kezdődött, hogy egyszer napközben Vera életében először nem a létezés értelmén gondolkodott el, mint előtte szinte mindig, hanem a titkán. Ennek az lett az eredménye, hogy beleejtette a rongyot a sötét, szappanos vízzel teli vödörbe, és egy halk „ah” vagy valami „ah”-hoz hasonló hagyta el a torkát. A gondolat váratlan és elviselhetetlen volt, és ami a legfontosabb, semmihez sem kapcsolódott, amit maga körül láthatott – egyszerűen csak az eszébe jutott hirtelen, ott volt a fejében hívatlanul, és ebből a gondolatból az a következtetés adódott, hogy az értelem keresésére fordított szellemi munka sok-sok éve mind elpocsékolt idő volt, mert, lám csak, nem az a lényeg, hanem a titok.
 
 
+<hr/>
 # <a name="id_836">Viktor Pelevin: A Metamor Szent Könyve (2006)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Viktor%20Pelevin/A%20Metamor%20Szent%20Konyve%20%28836%29/cover.jpg" alt="cover" width="300"/>
 
@@ -65,6 +70,7 @@ A Hu-li életébe egyszer csak beköszönt az igazi, nagy szerelem, amikor megis
 Pelevin új regénye – a szerzőtől meglepő módon – a szerelemről szól. A ugyanakkor fantasztikus szellemi kaland: a buddhizmusból, Berkeley püspök gondolataiból, Wittgensteinből, posztmodern filozófusok elméleteiből, nabokovi motívumokból és persze a világ illuzórikus természetéről szóló hamisítatlan pelevini eszmefuttatásokból szőtt filozófiai párbeszédek ragyogó gyűjteménye egy egészen eredeti történetbe ágyazva, miközben a háttérben ott lüktet az a józan ésszel szinte megközelíthetetlen bizarr mai orosz világ, melyet senki sem tud olyan hátborzongatóan leírni, mint Pelevin.
 
 
+<hr/>
 # <a name="id_828">Viktor Pelevin: A Sárga Nyíl (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Viktor%20Pelevin/A%20Sarga%20Nyil%20%28828%29/cover.jpg" alt="cover" width="300"/>
 
@@ -81,6 +87,7 @@ A Remete és Hatujjú két ember (?) filozofikus beszélgetésével kezdődik: R
 A Hírek Nepálból és a Buldózeristák napja visszavarázsol minket a kései szocializmus éveibe, azokba az időkbe, amikor semmi sem az volt, aminek látszott, s gyakran a maga pőre tisztaságában mutatkozott meg a világ illuzórikus természete.
 
 
+<hr/>
 # <a name="id_829">Viktor Pelevin: Empire 'V' (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Viktor%20Pelevin/Empire%20%27V%27%20%28829%29/cover.jpg" alt="cover" width="300"/>
 
@@ -97,6 +104,7 @@ Most hát itt van az „elit” képviselőjének szobájában – mert Brahma v
 Romannak – immár II. Rama néven – sok mindent meg kell tanulnia, hogy igazi vámpírrá – a tápláléklánc legfelső és leghumánusabb lényévé – váljon. Majd számot is kell adnia e tudásáról: arról például, hogyan tudja észrevétlenül úgy megharapni egy ember nyakát, hogy a kevéske vörös folyadékból az illető lelkének minden titka föltáruljon előtte.
 
 
+<hr/>
 # <a name="id_832">Viktor Pelevin: P5 – Pindosztán politikai pigmeusai – Pá, pederaszták (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Viktor%20Pelevin/P5%20-%20Pindosztan%20politikai%20pigmeusai%20%28832%29/cover.jpg" alt="cover" width="300"/>
 
@@ -116,6 +124,7 @@ Majd Dél-Franciaországban utazgató orosz újgazdagokkal együtt élvezzük a 
 S mindezen kalandok mögött ott van annak az új orosz valóságnak a képe, amely leszámolt Pindosztán politikai pigmeusaival, vagyis az Amerikát, a Nyugatot kiszolgáló, az orosz nép egységét megbontó politikusokkal – s innen már egyenes út vezet a földi Paradicsomhoz… már ha egy kariatida le nem harapja a fejünket.
 
 
+<hr/>
 # <a name="id_827">Viktor Pelevin: A rettenet sisakja (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Viktor%20Pelevin/A%20rettenet%20sisakja%20%28827%29/cover.jpg" alt="cover" width="300"/>
 
@@ -129,6 +138,7 @@ S mindezen kalandok mögött ott van annak az új orosz valóságnak a képe, am
 „Miért ​van a Minótaurosznak bikafeje? És mi jár az eszében, milyen az észjárása? Thészeusz bent van-e a labirintusban? Sokan állították, hogy birtokában vannak az igazságnak. Ám mindezidáig senki nem találta meg a labirintusból kivezető utat. Úgyhogy kellemes sétát. És ha összefutnának a Minótaurosszal, semmiképp ne mondják, hogy MÚÚÚÚÚ! Az ilyesmi kimondottan sértő.” Az agyag géppuska és A rovarok élete szerzőjének új kötete a Minótaurosz és a labirintus témájának merészen XXI. századi feldolgozása. Helyszíne nem más, mint a kibertér, melyben egy maroknyi csoport tagjai egy nap arra ébrednek, hogy megmagyarázhatatlan módon egy internetes útvesztőben találják magukat. Csak számítógép útján tudnak érintkezni egymással, egy közös csevegőszobában, és felfedezéseiket így megosztva próbálnak értelmet találni a különös helyzetben. Egy idő után többen kimerészkednek szobájukból, ám odakint félelmetes és riasztó tapasztalatok várnak rájuk… melyek középpontjában a Rettenet Sisakja áll. Vajon beletörődnek-e, hogy az áradó információ világában a megismerés végső soron hiú remény?
 
 
+<hr/>
 # <a name="id_834">Viktor Pelevin: Az agyag géppuska (2013)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Viktor%20Pelevin/Az%20agyag%20geppuska%20%28834%29/cover.jpg" alt="cover" width="300"/>
 
@@ -143,6 +153,7 @@ S mindezen kalandok mögött ott van annak az új orosz valóságnak a képe, am
 Az ​elmúlt évek orosz irodalmának legnagyobb világsikere Az agyag géppuska, s az orosz Playboy szerint ez a XX. század második felének legjobb orosz regénye. Főhőse, Pjotr Puszta egy elmegyógyintézet lakója valamikor a kilencvenes években, s „hamis személyisége” szerint valójában a tizenhetes forradalom után, a polgárháborús Oroszországban él, éspedig ő Csapajev híres komisszárja, Petyka. A két valóságszint a regényben egyenlő mértékben valós (vagy virtuális): hol az elmegyógyintézeti ápoltak között vagyunk, hol a polgárháborús frontokon, ahol Csapajev és Petyka mély filozófiai beszélgetéseket folytat (a regénybeli Csapajev ugyanis nem annyira egy vörös hadvezér, mint inkább keleti guru). A mintegy számítógépes virtuális valóságokat létrehozó mű azonban a részleteiben vaskosan s gyakran parodisztikusan realista: Pelevin remekül ábrázolja mind a polgárháború Oroszországát, mind az elmegyógyintézet világát, ahol Pjotr a többi beteg hallucinációit is végighallgatja, s ezek betétnovellaként szerepelnek a műben – az egyik ilyen például egy mexikói szappanoperahős, Maria és Arnold Schwarzenegger szürreális kalandjait meséli el.
 
 
+<hr/>
 # <a name="id_831">Viktor Pelevin: Generation P (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Viktor%20Pelevin/Generation%20P%20%28831%29/cover.jpg" alt="cover" width="300"/>
 

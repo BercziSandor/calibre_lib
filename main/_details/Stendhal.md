@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_992">Stendhal: Napóleon élete (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stendhal/Napoleon%20elete%20%28992%29/cover.jpg" alt="cover" width="300"/>
 
@@ -12,6 +13,7 @@
 <p>Bonaparte Napóleon életéről könyvtárnyi az irodalom. Kiadónknál sem egyetlen szerző kezéből származó életrajzot kínálunk. Mégis, Stendhal műve sok szempontból kiemelkedik ezek közül. Az egyik legfontosabb az, hogy kortársak voltak, ugyanazt a nyelvet beszélték, ugyanabban a környezetben nőttek föl és éltek.<br>A másik az, hogy Stendhal ezt a művét majd' húsz évig írta-csiszolta-érlelte, és nyomtatott formában csak halálát követően, 1929-ben látott napvilágot. És persze Stendhal írói nagysága is kellett ahhoz, hogy ez az életrajz kiemelkedjék a többi Napóleon-leírás közül.<br>És persze a magyar nyelvű kiadásnak is van egy fontos vonzereje. Stendhal Napóleon életrajzának magyar fordítását Lontay László friss, élő műfordításában élvezhetjük, amely kizárólag kiadónknál kapható e-könyvként.</p></div>
 
 
+<hr/>
 # <a name="id_562">Stendhal: Vörös és fekete (2018)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stendhal/Voros%20es%20fekete%20%28562%29/cover.jpg" alt="cover" width="300"/>
 

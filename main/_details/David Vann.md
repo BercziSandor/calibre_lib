@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_946">David Vann: Akvárium (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/David%20Vann/Akvarium%20%28946%29/cover.jpg" alt="cover" width="300"/>
 

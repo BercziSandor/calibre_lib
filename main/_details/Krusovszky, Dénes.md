@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1521">Krusovszky, Dénes: A fiúk országa (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Krusovszky%2C%20Denes/A%20fiuk%20orszaga%20%281521%29/cover.jpg" alt="cover" width="300"/>
 
@@ -12,6 +13,7 @@
 <p>Krusovszky Dénest, a fiatal generáció kiemelkedő alkotóját eddig költőként ismerhettük. A fiúk országa az első novelláskötete: nem szárnypróbálgatás egy új műfajban, nem egyszeri kaland, mert a szerző máris kész prózaíróként lép elénk. Pontos történeteket alkot fiúkról és férfiakról. Problémaérzékeny, éles a tekintete: legyen szó egy család széthullásáról, a párkapcsolatok dinamikájáról, a művészi ambíciók és a polgári élet összeegyeztetésének nehézségeiről. Nem a kényelmes utat választja. Nem fűzi fel a történeteit egyetlen szálra. Minden egyes írásában új világokat fedez fel, a járt utat járatlanra cserélve. Novellái intellektuálisak, higgadtak, érzékenyek. Lélektani látleletek, önmagukkal is vívódó emberekről. Gyönyörről, szorongásról, szerelemről, halálról. Közelmúltról és jelenről, hazai és idegen tájakról.</p></div>
 
 
+<hr/>
 # <a name="id_1520">Krusovszky, Dénes: Akik már nem leszünk sosem (2018)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Krusovszky%2C%20Denes/Akik%20mar%20nem%20leszunk%20sosem%20%281520%29/cover.jpg" alt="cover" width="300"/>
 

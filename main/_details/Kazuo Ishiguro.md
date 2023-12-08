@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_158">Kazuo Ishiguro: Ne engedj el… (2018)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kazuo%20Ishiguro/Ne%20engedj%20el__%20%28158%29/cover.jpg" alt="cover" width="300"/>
 

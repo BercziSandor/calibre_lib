@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1198">Kati Hiekkapelto: Kolibri (Fekete Anna 1) (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kati%20Hiekkapelto/Kolibri%20%281198%29/cover.jpg" alt="cover" width="300"/>
 

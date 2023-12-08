@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1647">Bolgár György: Orbán-mesék (2018)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bolgar%20Gyorgy/Orban-mesek%20%281647%29/cover.jpg" alt="cover" width="300"/>
 

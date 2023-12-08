@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1558">Molnár, Ferenc: A Pál utcai fiúk (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Molnar%2C%20Ferenc/A%20Pal%20utcai%20fiuk%20%281558%29/cover.jpg" alt="cover" width="300"/>
 

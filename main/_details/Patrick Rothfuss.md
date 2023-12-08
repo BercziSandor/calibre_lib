@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1029">Patrick Rothfuss: A bölcs ember félelme (A királygyilkos krónikája 2) (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Patrick%20Rothfuss/A%20bolcs%20ember%20felelme%20%281029%29/cover.jpg" alt="cover" width="300"/>
 

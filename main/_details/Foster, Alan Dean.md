@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_649">Foster, Alan Dean: A nyolcadik utas: a Halál (Alien 1) (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Foster%2C%20Alan%20Dean/A%20nyolcadik%20utas_%20a%20Halal%20%28649%29/cover.jpg" alt="cover" width="300"/>
 
@@ -12,6 +13,7 @@
 <p>A ​Nostromo teherszállító űrhajó legénységét felébresztik a hibernációból, hogy megvizsgáljanak egy idegen eredetű rádiójelet, amit a hajót irányító számítógép fogad. Nem sokkal később leszállnak az egyik közeli bolygón, és megtalálják a forrást: egy régóta elhagyott hajót, a rakterében több ezernyi furcsa tojással. Ezek vizsgálata során a felfedezőcsapat egyik tagja szerencsétlen balesetet szenved, így a visszatérésükkor kénytelenek magukkal vinni egy idegen lényt a fedélzetre, aki nem sokkal később a legrettenetesebb félelmeiket megtestesítve elkezd egyesével levadászni mindenkit.<br>A nyolcadik utas: a Halál az 1979-es megjelenését követően a sci-fik egyik alapkövévé vált, Ellen Ripley karakteréből példakép lett. A filmek népszerűsége mindmáig töretlen, számos folytatást forgattak és forgatnak hozzájuk mindmáig, valamint az irodalomban is hatalmas sikert aratott a történet, amelyet további művekkel egészítettek ki és írtak tovább. Alan Dean Foster korabeli regényadaptációja nagyszerűen ragadja meg a filmben lévő izgalmat és rettegést, olyan normákat állítva fel, amiket még ma is követnek a legnagyobb írók. Az olvasó az eredeti regény újraszerkesztett, napjaink nyelvezetéhez és az azóta hatalmas méretűre nőtt Alien-univerzumhoz pontosabban illeszkedő kiadását tartja a kezében.</p></div>
 
 
+<hr/>
 # <a name="id_650">Foster, Alan Dean: A bolygó neve: Halál (Alien 2) (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Foster%2C%20Alan%20Dean/A%20bolygo%20neve_%20Halal%20%28650%29/cover.jpg" alt="cover" width="300"/>
 
@@ -26,6 +28,7 @@
 <p>Miután visszatért a Földre, Ellen Ripley megtudja, hogy létrehoztak egy telepesekből álló kolóniát az LV-426-on, azon a bolygón, ahol a Nostromo legénysége találkozott az idegenekkel. Nemrég ráadásul megszűnt velük a rádiókapcsolat, ezért most egy tengerészgyalogos egység kíséretében visszatér, hogy kiderítse mi történt… és szembenézzen a szörnyetegekkel, akik mindennél többen vannak, és akiknek még mindig lételemük a pusztítás.<br>A bolygó neve: Halált 1986-ban mutatták be a mozik, és a mérföldkőnek számító előd méltó folytatása lett. Az olvasó az eredeti regény újrafordított, napjaink nyelvezetéhez és az azóta hatalmas méretűre nőtt Alien-univerzumhoz pontosabban illeszkedő kiadását tartja a kezében.</p></div>
 
 
+<hr/>
 # <a name="id_652">Foster, Alan Dean: Az út végén a halál (Alien 3) (1992)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Foster%2C%20Alan%20Dean/Az%20ut%20vegen%20a%20halal%20%28652%29/cover.jpg" alt="cover" width="300"/>
 

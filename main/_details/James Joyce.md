@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_455">James Joyce: Dublini emberek (1914)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Joyce/Dublini%20emberek%20%28455%29/cover.jpg" alt="cover" width="300"/>
 
@@ -12,6 +13,7 @@
 <p>James Joyce első megjelent elbeszéléseit, a később Dublini emberek címen ismertté vált novellafüzér korai darabjait eredetileg még írói álnévvel jegyezte. Az 1914-ben megjelent novelláskötet történetei igen színvonalas pillanatképek egy nagyvárosi igényű kisváros életéből.</p></div>
 
 
+<hr/>
 # <a name="id_456">James Joyce: Ifjúkori önarckép (1916)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Joyce/Ifjukori%20onarckep%20%28456%29/cover.jpg" alt="cover" width="300"/>
 
@@ -26,6 +28,7 @@
 <p>„Nem vagyok hajlandó tovább szolgálni azt, amiben már nem hiszek – nevezzék azt akár otthonomnak, a hazámnak vagy az egyháznak…” Bátor kiállás egy bátor író könyvében, akihez már addig is sok botrány kapcsolódott. Ráadásul Írországban, ahol minden kimondott szónak más értelme van.<br>Az önarckép önéletrajzi alkotás, James Joyce ifjúkora, s előképe a későbbi, briliáns technikával megírt műnek, az Ulyssesnek. A téma a művész önként vállalt magányossága, az a meggyőződés, amit végül egy mondatban fejezett ki: „Az egyedüli dolog, ami érdekel, a stílus.”</p></div>
 
 
+<hr/>
 # <a name="id_1473">James Joyce: Ulysses (1922)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/James%20Joyce/Ulysses%20%281473%29/cover.jpg" alt="cover" width="300"/>
 

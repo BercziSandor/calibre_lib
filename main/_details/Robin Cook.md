@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_103">Robin Cook: Vakság (Jack Stapleton & Laurie Montgomery 1) (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Vaksag%20%28103%29/cover.jpg" alt="cover" width="300"/>
 
@@ -11,6 +12,7 @@
 Adva van egy csinos, fiatal orvosnő, két férfi – egyikük maga is orvos, másikuk Columbo-stílusú nyomozó- akik között a nő ingadozik. Értetlen, akadékoskodó felettesek, segítőkész kollégák. Meg a New York-i maffia, amely szenvtelenül teszi a dolgát: gyilkos és gyilkol. Ezúttal csak azt nem érti senki, hogy miért is? Mindent és mindenkit elborít a vakság. Laurine, a hősnő és az olvasó egyaránt úgy érezheti, lidércálomban él, ahol egy gigantikus puzzle-t kellene összeraknia, és a darabok még csak illeszkednek valahogy, de hogy az egészből mi lesz, nem tudni… egészen a végkifejletig, mely még a legrafináltabb, krimik tucatjain edződött olvasónak is tartogat meglepetést.
 
 
+<hr/>
 # <a name="id_95">Robin Cook: Kromoszóma (Jack Stapleton & Laurie Montgomery 3) (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Kromoszoma%20%2895%29/cover.jpg" alt="cover" width="300"/>
 
@@ -24,6 +26,7 @@ Adva van egy csinos, fiatal orvosnő, két férfi – egyikük maga is orvos, m�
 Tökéletes ​génmanipuláció, korszakalkotó szervátültetések, plusz még a klónozásról is szót ejt az orvosi krimik szülőatyja. Mint a többi 15 könyve, a Kromoszóma is bővelkedik fordulatos eseményekben, s a történet végéig a valós világ tudományos fejlettsége előtt jár egy lépéssel. Robin Cook valószínűleg annak köszönheti sikerét, hogy beavatja az olvasót, olyan orvosi titokba, amelyekről sehol máshol nem lehet hallani. Kevin Marshall, a GenSys alkalmazásában álló sejtbiológus nyomozni kezd, mert kígyózó füstöt lát felszállni egy olyan szigetről, ahol a GenSys az általa kikísérletezett bonobó majmokat tartja. Az ő munkája az, hogy a bonobók génállományát emberire cserélje, a cég tiktos céljai érdekében. A génsebészeti úton átalakított bonobók leszármazottjai megváltoznak. De mennyire? A lehetőségek megrémítik Kevint. Ő az egész életét a kutatásnak szentelte, de nem akar olyan dolgot létrehozni, ami még az atombombánál is veszélyesebb lehet. Ezalatt New Yorkban a törvényszéki orvosszakértő és segédje egy másik ügyben kezd el nyomozni. Az ő kálváriájuk azzal kezdődik, hogy Carlo Franconi hullája eltűnik a boncteremből és néhány nappal később kifogják a megcsonkított tetemet a folyóból. Ki és miért lopta el Franconi hulláját? Van-e valamilyen kapcsolat a new yorki és a guineai eset között? A Kromószóma elképesztő sebességgel cikázik a két helyszín között.
 
 
+<hr/>
 # <a name="id_106">Robin Cook: Vektor (Jack Stapleton & Laurie Montgomery 4) (1999)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Vektor%20%28106%29/cover.jpg" alt="cover" width="300"/>
 
@@ -37,6 +40,7 @@ Tökéletes ​génmanipuláció, korszakalkotó szervátültetések, plusz még
 Dr. ​Robin Cook a hajmeresztő orvosi thriller koronázatlan királya most visszatér, és ha lehet még félelmetesebb, mint valaha. A „vektor”, vagyis a könyv címe egy hordozó, amely egyik szervezetből a másikba juttatja el a fertőzést. Jack Stapleton és Laurie Montgomery kórboncnokok – az olvasó mindkettőjükkel találkozott már a Kromoszómában – nyugodtan végzik a dolgukat, mígnem egy meglepő halálesetre bukkannak. A szőnyegkereskedő Jason Papparis hulláját vizsgálva New Yorkban csak elvétve előforduló betegséggel, tüdőlépfenével találják szembe magukat. A törvényszéki orvosi intézetben felbukkan még egy különös, vagy inkább hátborzongató eset: egy Brad Cassidy nevű fiatalember hulláját megcsonkítva szállítják be, és az FBI tudja, hogy az áldozat az Árja Népi Hadsereg nevű skinheadekből rohamosztag alakító jobboldali szervezet tagja volt. Aztán újabb, kezdetben hétköznapinak tűnő haláleset történik: meghal Stepleton egyik barátjának nővére. Connic Davyov férje, Jurij, mielőtt az Egyesült Államokba érkezett, egy biológiai fegyvereket előállító oroszországi gyárban dolgozott. Jurij erősen antiszemita beállítottságú és a zsidókat okolja azért, hogy az őt mostohán kezelő új hazájában csupán taxisofőrként dolgozhat. Sikertelenségbe fulladt élete akkor kap csak értelmet, amikor megismerkedik két határozott gondolkodású férfival, Curt Rogersszel és Seve Hendersonnal, az Árja Népi Hadsereg vezetőivel. Céljaik azonosnak tűnnek, de vajon tényleg azok? És mit tehet két békés, az emberi élet védelmére fölesküdött patológus ennyi fanatikus, a legszörnyűbb tettektől sem visszariadó megszállottal szemben? Az izgalmas kérdésekre Robin Cook, a tőle megszokott lebilincselő, az olvasó figyelmét a könyv utolsó lapjáig fogva tartó stílusban válaszol.
 
 
+<hr/>
 # <a name="id_89">Robin Cook: Fertőzés (Jack Stapleton & Laurie Montgomery 5) (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Fertozes%20%2889%29/cover.jpg" alt="cover" width="300"/>
 
@@ -52,6 +56,7 @@ Pedig e keserû konklúzió köré felépül egy történet, tele szerelemmel, c
 Robin Cook nemhiába a kontrasztok nagymestere!
 
 
+<hr/>
 # <a name="id_104">Robin Cook: Válság (Jack Stapleton & Laurie Montgomery 6) (2006)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Valsag%20%28104%29/cover.jpg" alt="cover" width="300"/>
 
@@ -65,6 +70,7 @@ Robin Cook nemhiába a kontrasztok nagymestere!
 Robin ​Cook, az orvosi krimi koronázatlan királya vadonatúj, szinte a magyar kiadással egyszerre megjelenő könyvében az orvosi szakma sötét oldalát mutatja be. Középponti történése egy orvosi műhibaper, amelynek vádlottja dr. Craig Bowman, nagytiszteletű, hivatását mindenek elé helyező orvos. Nyolc hónapja elhunyt páciense, Mrs. Stanhope férje a felperes. A férfit egy rámenős ügyvéd tüzelte fel, mondván, az asszony halálát az okozta, hogy későn került kórházba, mert az orvos nem vette komolyan a szívpanaszait. A közismerten hipochonder nő mindig sok problémát okozott kezelőorvosának, sokszor az éjszaka közepén riasztotta képzelt bajainak elpanaszolásával, de dr. Bowman mindig lelkiismeretesen ellátta. A tárgyalás során dr. Jack Stapleton, neves igazságügyi orvos szakértő tanúként idézi meg a halott asszonyt: exhumáltatja és felboncolja, hogy sógora, Bowman doktor ártatlanságát bizonyítsa. Ám a holttest nem tanúskodik – nem utal semmi gyilkosságra, de semmi nem igazolja a kórház zárójelentését sem, miszerint szívroham végzett volna az asszonnyal. Vajon sikerül-e megtudni, mi lappang a rejtélyes haláleset mögött, vagy a sikeres orvos életét végképp tönkreteszi a koholt műhibaper? Az elborzasztó történetben az író lendületesen bonyolítja a cselekményt, kitűnően adagolja a feszültséget, míg el nem jut a megdöbbentő, tökéletes végkifejletig…
 
 
+<hr/>
 # <a name="id_102">Robin Cook: Szöktetés (2000)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Szoktetes%20%28102%29/cover.jpg" alt="cover" width="300"/>
 
@@ -78,6 +84,7 @@ Robin ​Cook, az orvosi krimi koronázatlan királya vadonatúj, szinte a magya
 Az INVÁZIÓ sikerén felbuzdulva Robin Cook ismét egy új világba kalauzolja el olvasóit. Ez a könyve ötvözi az orvosi krimik izgalmát azzal a megrázó lehetőséggel, hogy egy idegen faj jelenik meg bolygónkon. Még nyomdába sem került a regény, s már készül belőle a film, amely vélhetően hamarosan látható lesz nálunk is.
 
 
+<hr/>
 # <a name="id_100">Robin Cook: Szélütés (2003)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Szelutes%20%28100%29/cover.jpg" alt="cover" width="300"/>
 
@@ -91,6 +98,7 @@ Az INVÁZIÓ sikerén felbuzdulva Robin Cook ismét egy új világba kalauzolja 
 Mi ​köze egymáshoz egy konzervatív, déli amerikai szenátornak, a keresztény egyház egyik legfontosabb és legrejtélyesebb ereklyéjének, a torinói lepelnek, s egy vállalkozóvá vált, forradalmian új gyógyító eljárást kidolgozó orvoskutatónak? Látszólag semmi, csakhogy a csillapíthatatlan politikusi ambíciótól fűtött Ashley Butler szenátor megtudja, hogy gyors leépülést előidéző Parkinson-kórja van, Daniel Lowell génmanipulációs eljárásának, s a kutató által alapított vállalat felvirágzásának útjában pedig már csak a módszer alkalmazását tiltó washingtoni törvényhozás áll. A megoldás tehát kézenfekvő: titokban azon kell alkalmazni a módszert, aki a nyilvánosság előtt a legjobban ellenzi, és ha ehhez a vérfoltos Krisztusi lepelről vett DNS-részlet formájában még „isteni segítség” is társul, akkor az eredmény nem lehet kétséges. Vagy mégis? A legidőszerűbb, és vitatott orvosi kérdéseket – jelen esetben a gyógyító célú klónozást – mesteri krimibe ágyazva körüljáró Robin Cook ezúttal is lélegzetelállítóan izgalmas regényt alkotott. Olyat, amely kutatóit, laikust és a forradalmian új módszerek engedélyezéséről döntő törvényhozót egyaránt gondolkodásra késztet.
 
 
+<hr/>
 # <a name="id_92">Robin Cook: Invázió (2006)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Invazio%20%2892%29/cover.jpg" alt="cover" width="300"/>
 
@@ -105,6 +113,7 @@ Az ​Egyesült Államok nyugati részén egy éjszaka az égen különös, csil
  Sci-fi alapokra helyezett orvosi regény, amely a víruskutatás már-már krimiszerű izgalmat gyorsan pergő, váratlan fordulatokkal teli történettel párosítja, s mindez Robin Cook feszes ritmusában a tőle megszokott egyedülállóan magas színvonalon.
 
 
+<hr/>
 # <a name="id_97">Robin Cook: Műhiba (2006)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Muhiba%20%2897%29/cover.jpg" alt="cover" width="300"/>
 
@@ -118,6 +127,7 @@ Az ​Egyesült Államok nyugati részén egy éjszaka az égen különös, csil
 „Jeffrey nagyot nyelt, mert összeszorította a torkát a félelem. Csak néhány másodperce fecskendezte be a Marcaine-t. A próbaadag eredménye ellenére lehet, hogy vénába ment? Szakmai pályafutása során volt már dolga ilyen ellentétes reakcióval egy helyi érzéstelenítés során, és az eset lesújtó volt. A rendellenes szívverések gyakorisága növekedett. Miért gyorsul a szívműködés, és miért ilyen zilált ritmusban? Ha az érzéstelenítő adag intravénásan került be, miért nem zuhant le a vérnyomás? Jeffrey pillanatnyilag nem talált választ ezekre a kérdésekre. De orvosi tapasztalatai során kialakult hatodik érzéke megszólaltatta agyában a vészcsengőt. Valami abnormális dolog történik! Valami, amit nem tud megmagyarázni, még kevésbé megérteni…”
 
 
+<hr/>
 # <a name="id_88">Robin Cook: Életjel (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Eletjel%20%2888%29/cover.jpg" alt="cover" width="300"/>
 
@@ -131,6 +141,7 @@ Az ​Egyesült Államok nyugati részén egy éjszaka az égen különös, csil
 A gyermek utáni vágy kizsákmányolói – Terror és rémület az élet bölcsőjénél – Megdöbbentő, megindító… és letehetetlen Marissa, a csinos, sikeres bostoni orvosnő életéből már csak az anyaság boldogsága hiányzik. Ám hiába tesz meg mindent, hiába vállal minden fájdalmat, a várva várt örömhír helyett újra és újra csak a lehangoló reménytelenség kísérti. A lélekölő tortúrák nyomán ereje fogyatkozik, boldog házassága is romlófélben. Már maga sem tudja, nem csak rémeket lát-e, amikor gyanús összefüggéseket vél felfedezni saját és sorstársai kórtörténetében. Barátnőjével közösen veszélyes nyomozásba kezd: Amerika, Ausztrália, Hongkong és Kína a halálos veszedelmekkel teli út állomásai… Életeket teremtő szenvedély – Életeket kioltó hatalom
 
 
+<hr/>
 # <a name="id_91">Robin Cook: Haláltusa (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Halaltusa%20%2891%29/cover.jpg" alt="cover" width="300"/>
 
@@ -144,6 +155,7 @@ A gyermek utáni vágy kizsákmányolói – Terror és rémület az élet bölc
 Dúsgazdag, befolyásos üzletemberek, kitűnő családból származó fiatal lányok agyában fészkel a pusztító kór. A gyógyulás küszöbén álló, emlőrákos nők állapota egyszer csak megmagyarázhatatlanul, drámaian romlani kezd. Életben maradásukra semmi esély. Hacsak… Miami harsány ege alatt orvosmaffia és egy könyörtelen kéjgyilkos szedi áldozatait. A szálak a Forbes Onkológiai Klinikára vezetnek, ahol a zseniális orvospalánta, a hippikülsejű és kissé rovott múltú harvardi medikus, szőke bombázó kedvesével az oldalán, reménytelennek tűnő küzdelmet folytat a tudomány tisztaságáért és a puszta életéért…
 
 
+<hr/>
 # <a name="id_93">Robin Cook: Járvány (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Jarvany%20%2893%29/cover.jpg" alt="cover" width="300"/>
 
@@ -159,6 +171,7 @@ rosszabbul volt, mint előző este… Maláriám van, gondolta, bár megelőzés
 járványkutatók. És magánnyomozásba kezd a becsvágyó, fiatal orvosnő, Marissa is. Vajon milyen eredménnyel?
 
 
+<hr/>
 # <a name="id_101">Robin Cook: Szfinx (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Szfinx%20%28101%29/cover.jpg" alt="cover" width="300"/>
 
@@ -172,6 +185,7 @@ járványkutatók. És magánnyomozásba kezd a becsvágyó, fiatal orvosnő, Ma
 Az orvosi krimijeiről ismert szerző ezúttal klasszikus helyszínt választott könyve színteréül. A huszonnyolc éves amerikai egyiptológus, Erica Baron megérkezik álmai országába, Egyiptomba, hogy saját szemével lássa az ókor csodáit. Alighogy elindul első útjára a kairói bazárban, máris véletlen szemtanúja lesz egy gyilkosságnak és egy titokzatos módon előkerült, felbecsülhetetlen értékű ó-egyiptomi szobor eltűnésének.
 
 
+<hr/>
 # <a name="id_84">Robin Cook: A gyötrelem éve (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/A%20gyotrelem%20eve%20%2884%29/cover.jpg" alt="cover" width="300"/>
 
@@ -186,6 +200,7 @@ Ezt ​a könyvet Robin Cook katonai szolgálata idején, egy tengeralattjáró 
 A kezdő orvos kitartóan küzd a folyton csukló Mr. Roso, vagy a megállíthatatlanul vérző Mrs. Takura életéért, újraélesztésekkel próbálkozik és szülést vezet le egymaga, vizsgál, varr vagy sebkampókat tart – napi huszonnégy órán át –, ám mindez kevés az üdvösséghez. Üres szeretkezések, magányos szörfözések, meg egy tudathasadásos beszélgetés után rá kell döbbennie, hogy embersége, orvosi hivatástudata végveszélybe került. Fejbeverő érzés. Hasonló ahhoz, amit a beteg élhet át, amikor eláll a szívverése, vagy a szörfös, amikor nem sikerül a deszkát kibuktatnia a hullám alól; netán a tengeralattjáró személyzete, ha úgy merül le az óceán mélyére, hogy nem tudni, lesz-e elég üzemanyag a fölemelkedéshez. S ez legalább olyan izgalmas, mint egy orvoskrimi…
 
 
+<hr/>
 # <a name="id_85">Robin Cook: Agy (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Agy%20%2885%29/cover.jpg" alt="cover" width="300"/>
 
@@ -200,6 +215,7 @@ A kezdő orvos kitartóan küzd a folyton csukló Mr. Roso, vagy a megállíthat
 <p>„Katherine Collins bizonytalan léptekkel ment végig a járdától fölvezető három lépcsőfokon. Aztán meglökte a csupa üveg és krómacél ajtót, de az nem nyílt ki. Hátrahajolva nézett föl a magasan díszelgő feliratra 'Hobson Egyetem Egészségügyi Központja: New York város betegei és elesettjei szolgálatában'. De Katherine inkább ezt olvasta ki belőle: 'Ki itt belépsz, hagyj fel minden reménnyel.' (…) Maria Gonzales megpróbálta fölébreszteni Lynn Anne-t. Nehéz dolga volt. Elmagyarázta a mentősöknek, hogy telefonon utasították: egy várható roham elkerülése végett adjanak a betegnek dupla adag altatót, s hozzá még phenobarbitalt is. Az emberek erre azt mondták, nem baj, ha nem ébred föl..”</p></div>
 
 
+<hr/>
 # <a name="id_86">Robin Cook: Agymosás (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Agymosas%20%2886%29/cover.jpg" alt="cover" width="300"/>
 
@@ -213,6 +229,7 @@ A kezdő orvos kitartóan küzd a folyton csukló Mr. Roso, vagy a megállíthat
 Adam ​Schonberg, harmadéves orvostanhallgató nehéz anyagi körülmények között él feleségével, Jenniferrel, a táncosnővel. Jennifer teherbe esik, és azért hogy a gyereket megtarthassák, Adam félbehagyja tanulmányait, és egy gyógyszergyárnál, az Arolennél helyezkedik el. A virágzó, ultramodern intézmény örömmel fogadja ajánlkozását, s Adam szépen is halad előre. Ámde furcsa dolgokat tapasztal a cégnél. A gyár egy luxushajón rendez továbbképző tanfolyamokat meghívott orvosok számára, akik a hajóútról visszatérve különös személyiségváltozás jeleit mutatják. A fiatalok házasságában is egyre több feszültség gyülemlik fel: egy házastársi veszekedést követően Jennifer hazaköltözik szüleihez, de hamarosan súlyos döntésre kényszerül: orvosa szerint a vizsgálatok arra utalnak, hogy jövendő gyermeke súlyos fejlődési rendellenességgel jönne világra, ezért abortuszra volna szükség. Adam gyanúját az Arolen különös üzelmeivel kapcsolatban tovább erősíti egyik munkatársának eltűnése és egy orvos öngyilkossága. Elhatározza, hogy végére jár a dolognak… A bestseller orvosíró láthatólag túl akarta szárnyalni főművét, a Láz-t – s ez sikerült is neki. Könyve a maga speciális műfajában, a sci-fibe hajló techno-horrorban ismét azokat a rémlátomásokat idézi fel, amelyhez – szerinte – a teljesen gépesített, elembertelenedett és elüzletiesedett modern gyógyászat vezethet. Cook szabadon engedi fantáziáját, mely egy abszurd és hátborzongató „szép új világ”-ba sodorja. Története – az ifjú medikus és felesége, a táncosnő története – hátborzongató kalandfilmhez hasonlít – s pompásan kielégíti az olvasó mese- és borzongásigényét.
 
 
+<hr/>
 # <a name="id_87">Robin Cook: Akár az Isten (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Akar%20az%20Isten%20%2887%29/cover.jpg" alt="cover" width="300"/>
 
@@ -226,6 +243,7 @@ Adam ​Schonberg, harmadéves orvostanhallgató nehéz anyagi körülmények k�
 "- A rohadt életbe – ordította Thomas, és a kormánykerékre csapott. – Hát neked mindig csak saját magadra kell gondolnod? Hetekkel ezelőtt mondtam neked, hogy az igazgató tanács tagjai és az orvosegyetem dékánjai lesznek ott. Valami furcsa dolog zajlik a kórházban, amit nem mondanak el nekem. De gondolom, ez szerinted nem fontos, mi? Thomas elvörösödött a haragtól, Cassi majd elsüllyedt. Az volt az érzése, bármit mond is, csak rosszabbra fordul tőle minden. Thomas mogorva némaságba burkolódzott. Még irgalmatlanabbul vezetett, s a kocsi sebességét, mire a szikes mocsárhoz értek, kilencven mérföldre vitte föl. Cassi a biztonsági öv ellenére ide-oda billent, amint a kocsi az éles kanyarokat vette. Megkönnyebbült, amikor a saját felhajtójuk előtt lassítani kezdett. Mire a bejárathoz értek, Cassi már beletörődött a partyba. Mentegetőzött, amiért nem értette meg férje szándékait, és szelíden hozzátette: – Te is fáradtnak látszol.
 
 
+<hr/>
 # <a name="id_94">Robin Cook: Kóma (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Koma%20%2894%29/cover.jpg" alt="cover" width="300"/>
 
@@ -242,6 +260,7 @@ Robin Cook, a világhírű amerikai író Bostonban játszódó kórházregénye
 A regényből készült filmet Magyarországon is nagy sikerrel játszották.
 
 
+<hr/>
 # <a name="id_96">Robin Cook: Láz (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Laz%20%2896%29/cover.jpg" alt="cover" width="300"/>
 
@@ -255,6 +274,7 @@ A regényből készült filmet Magyarországon is nagy sikerrel játszották.
 Charles Martel, a kiváló rákkutató orvos egy napon rádöbben, hogy tizenkét éves lánya leukémiában szenved, ugyanabban a betegségben, amely nem sokkal korábban feleségével is végzett. A kutatóorvos ekkor elhatározza, hogy maga menti meg imádott kislánya életét. Martéi egy olyan gyógyszeripari cégcsoport csapdájában vergődik, amely az orvos által hatástalannak tartott kezelésekhez ragaszkodik, s a kutató munkáját is szakmai rivalizálások és grandiózus üzleti érdekek veszélyeztetik. Ő azonban mindenkivel szembeszáll azért, hogy kiderítse gyermeke betegségének okát, majd a gyógymódot is meglelje. De az idő, ami rendelkezésére áll, nagyon rövid…
 
 
+<hr/>
 # <a name="id_98">Robin Cook: Mutáció (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Mutacio%20%2898%29/cover.jpg" alt="cover" width="300"/>
 
@@ -268,6 +288,7 @@ Charles Martel, a kiváló rákkutató orvos egy napon rádöbben, hogy tizenké
 Amikor Kivi, a hideg fénnyel csillogó szemű kisfiú megszületik, még senki sem gondolja a családból, hogy a gyerek valójában génmanipulált. Csak az apja tudja a titkot, aki a beavatkozást végrehajtotta azzal a céllal, hogy igazi zsenit hozzon létre. A családban azonban egyre több megmagyarázhatatlan, szörnyű tragédia történik, miközben a kis zseninek láthatóan nincsenek érzelmei… De a legrettenetesebb események még hátravannak – de mi történik közben Kivivel? Hátborzongató történet – csak felnőtt olvasóknak!
 
 
+<hr/>
 # <a name="id_90">Robin Cook: Halálos kockázat (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Halalos%20kockazat%20%2890%29/cover.jpg" alt="cover" width="300"/>
 
@@ -281,6 +302,7 @@ Amikor Kivi, a hideg fénnyel csillogó szemű kisfiú megszületik, még senki 
 Dr. Edward Amstrong a nagyreményű, fiatal agykutató egy véletlen folytán milliárdokat érő molekulát fedez föl, egy új alkaloidot, a XXI. század ideggyógyszerének alapanyagát. A véletlen: a gyönyörű Kimberly Stewart, az 1962-es salemi boszorkányperek egyik áldozatának, Elizabeth Stewartnak a leszármazottja. Ő örökölte az ódon házat, ahol Elizabeth lakott, és ahol Edwarddal rábukkannak az új szer alapanyagára. Miközben Kimberly szinte megszállottként mindent meg akar tudni a tragikus sorsú Elizabeth-ről, Edward a kecsegtető milliárdok reményében úgy dönt, hogy először saját magán próbálja ki az új gyógyszert…Robin Cook mesterien vezeti el a tizenhetedik századi tömeghisztéria történetének szálait az új gyógyszer létrejöttének lenyűgözően izgalmas történetéhez. És eközben Salemben most, háromszázhat év múltán újra elszabadulni látszik a pokol…
 
 
+<hr/>
 # <a name="id_105">Robin Cook: Végzetes megoldás (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Vegzetes%20megoldas%20%28105%29/cover.jpg" alt="cover" width="300"/>
 
@@ -294,6 +316,7 @@ Dr. Edward Amstrong a nagyreményű, fiatal agykutató egy véletlen folytán mi
 Semmi nem az, aminek látszik - csak a rémület... Mint a mesében... Egy fiatal orvosházaspár, Angela és David ideálisnak tűnő állásajánlatot kap egy festői szépségű kisváros kórházában. Maga a hely, az éghajlat, a tiszta levegő pedig a szinte biztos gyógyulást ígéri tízéves kislányuk, Nikki számára, aki öröklött légzőszervi betegségben szenved. Kezdetben beteljesülni látszik Davidék minden várakozása, egészen addig, amíg idilli boldogságukat meg nem zavarja a betegség - a kislány állapota váratlanul rosszabbra fordul -, és még valami, ami a betegségnél is rosszabb: a rémület, aztán a bizonyosság, hogy ebben az idillben valami borzalom rejtőzik... A Könyvjelző magazin 2013. áprilisi számában megjelent cikk: Kórház a város szélén
 
 
+<hr/>
 # <a name="id_99">Robin Cook: Sokk (2017)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robin%20Cook/Sokk%20%2899%29/cover.jpg" alt="cover" width="300"/>
 

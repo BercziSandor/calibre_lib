@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_357">Erich Maria Remarque: Éjszaka Lisszabonban (Eroica könyvek 1) (1991)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Maria%20Remarque/Ejszaka%20Lisszabonban%20%28357%29/cover.jpg" alt="cover" width="300"/>
 
@@ -12,6 +13,7 @@
 <p>1942, ​Lisszabon. A város, az ország: utolsó menedéke azoknak, akik a hitlerizmus elől menekülnek zárt határokon, őrségen, rendőrkopók és nyomozók gyűrűjén át. Portugália azért menedék, mert onnan nyílik az út a biztonság felé: Amerikába. A világszerte népszerű, sok millió példányban olvasott író regénye színhelyén is életműve nagy, izgalmas és tanulságos témáját bontja ki, vizsgálja tovább: a háborúét és az emigrációét. A történet éjszakáján két német emigráns férfi beszélget. Egyiküknek vágyálma, hogy meneküljön, de nincs se vízuma, se hajójegye. Másikuknak mind a kettő megvan. Hajóra szállnia végül mégis annak lehet majd, akinek a beszélgetés kezdetén nem voltak iratai: reggelre vannak már, mert beszélgetőtársa átadja saját iratait. Az iratairól lemondó, az emigránstársát a szabadságba segítő ember képtelennek tetsző nagylelkűségét, áldozatát az a történet indokolja meg, amelyet a már nem továbbmenekülni, hanem maradni akaró menekült a lisszaboni éjszakában elmond. Hányatott élete drámáját, üldöztetései történetét, szerelmének halállal zárulásáét.</p></div>
 
 
+<hr/>
 # <a name="id_317">Erich Maria Remarque: Nyugaton a helyzet változatlan (Nyugaton a helyzet változatlan 1) (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Maria%20Remarque/Nyugaton%20a%20helyzet%20valtozatlan%20%28317%29/cover.jpg" alt="cover" width="300"/>
 
@@ -26,6 +28,7 @@
 <p>Erich ​Maria Remarque 1898-ban született, s a tanárképző padjából került az első világháborúba. Húszéves korában szerelt le. Ő és társai, akikkel egyszerre vonult be, semmi egyebet nem láttak a világból, csak az iskolát és a frontot. A Nyugaton a helyzet változatlan az ő szenvedéseik és kiábrándulásuk története. Hőse, Paul Baumer, csak apró vonásokban különbözik társaitól. A lövészárok élete nagyjából egyforma emberekké gyúrja őket. A front iszonyata mindent kiéget belőlük, egyetlen erényük, egyetlen kincsük marad: a bajtársiasság. Megrázóan igaz, őszinte írás ez a regény. Óriási sikerét kétségtelen értékei mellett annak is köszönhette, hogy megjelenésekor már szükséges volt a belőle harsogó figyelmeztetés: íme, valójában ez a háború, vigyázzatok, nehogy újra belesodorjanak benneteket! Hiszen ekkoriban egy müncheni sörház asztalai mellett már a második világháború sikerére isznak az osztrák káplár hívei. De ami ebben a sodró lendületű regényben a humánum magas hőfokán megfogalmazódik, ma is eleven problémája az emberiségnek, s még sokáig nem veszíti érvényét.</p></div>
 
 
+<hr/>
 # <a name="id_313">Erich Maria Remarque: Szerelem és halál órája (2015)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Maria%20Remarque/Szerelem%20es%20halal%20oraja%20%28313%29/cover.jpg" alt="cover" width="300"/>
 

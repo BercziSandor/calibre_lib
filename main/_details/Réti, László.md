@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1703">Réti, László: Az ellenkező nem (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Reti%2C%20Laszlo/Az%20ellenkezo%20nem%20%281703%29/cover.jpg" alt="cover" width="300"/>
 

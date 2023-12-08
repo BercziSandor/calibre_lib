@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_618">Lily Blake: Hófehér és a Vadász (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lily%20Blake/Hofeher%20es%20a%20vadasz%20%28618%29/cover.jpg" alt="cover" width="300"/>
 

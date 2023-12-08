@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_204">Wass, Albert: Halálos köd Holtember Partján (2002)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Halalos%20kod%20Holtember%20Partjan%20%28204%29/cover.jpg" alt="cover" width="300"/>
 
@@ -11,6 +12,7 @@
 Bűnügyi történet, korrajz a bevándorlók Amerikájáról és egyszerre történelmi oknyomozás is a klasszikus író e kései, emigrációban írt regénye. Halálos játék és műfaji megújulás. Attila kardját keressük a szereplőkkel és a szerzővel együtt Erdély havasaitól a Floridai lápvilág iszapos rejtekéig. A mű a szerző egyfajta válasza is a román Securitate ő ellene irányuló többszöri gyilkossági kísérleteire. Nem felejthetjük, ahogy az író hangsúlyozza ebben a regényében: „Vannak olyan népek, melyeknek gondolkodásmódja nem lát semmi kifogásolnivalót abban, ha a győztes azt tesz a legyőzöttel, ami éppen pillanatnyilag a kedvére való. Mert őszerintük a legyőzött minden tulajdona, asszonyát és gyermekét is beleértve, a győztes prédájává válik.” (Turcsány Péter)
 
 
+<hr/>
 # <a name="id_201">Wass, Albert: Rézkígyó / Hagyaték (2002)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Rezkigyo%20_%20Hagyatek%20%28201%29/cover.jpg" alt="cover" width="300"/>
 
@@ -24,6 +26,7 @@ Bűnügyi történet, korrajz a bevándorlók Amerikájáról és egyszerre tör
 A Rézkígyó Mózes könyveinek hol tragikus, hol mitikus újragondolása – a szerző 1947-ben írt müncheni kézirata alapján. A Hagyaték magyar hitvilágunk ősi törvényeit aktualizálja a székelység történetének kiemelkedő eseményeiben. Ez az „archaikus” krónika korunknak és korunk ifjúságának címzett remekmű.
 
 
+<hr/>
 # <a name="id_210">Wass, Albert: A költő és a macska / Te és a világ (2003)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/A%20kolto%20es%20a%20macska%20_%20Te%20es%20a%20vilag%20%28210%29/cover.jpg" alt="cover" width="300"/>
 
@@ -37,6 +40,7 @@ A Rézkígyó Mózes könyveinek hol tragikus, hol mitikus újragondolása – a
 A két egymást kiegészítő íráscsokor az emberi jóság és emberhez méltó életfilozófia lehetőségeit keresi a háborús magyar múltban éppúgy, mint az emigráció sokszor nekünk életidegen amerikai világában. Szépség és bölcsesség győzi le ezekben a művekben az emberiségre leselkedő szorongásokat. A kötet írásai először nyújtanak válogatást az emigrációban írt elbeszélésekből és először összegzi a nagyszerű író életbölcseleti tapsztalatait.
 
 
+<hr/>
 # <a name="id_202">Wass, Albert: A titokzatos őzbak (2003)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/A%20titokzatos%20ozbak%20%28202%29/cover.jpg" alt="cover" width="300"/>
 
@@ -50,6 +54,7 @@ A két egymást kiegészítő íráscsokor az emberi jóság és emberhez mélt�
 „Minden útnak valahol vége van. S emberi tulajdonság, hogy az út végén visszafordulunk s eltűnődünk életünk értelmén. Addig nem, de akkor igen. Addig csak megyünk ösztönösen s néha vakon is, egy nyom, egy cél, egy gondolat után. Hogy miért, azon majd töprengünk a végén, ha kifut az út lábaink alól s lábainkból kifogy az erő. Talán én is rájövök egyszer, hogy céltalan kapkodás volt az egész s legjobb lett volna semmit sem csinálni. De addig még sok idő van. Sok hegygerinc, sok völgy és sok tető. S keresztül rajtuk a nyom, amit követnem kell.” (Részlet a könyvből)
 
 
+<hr/>
 # <a name="id_221">Wass, Albert: Ember az országút szélén (2003)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Ember%20az%20orszagut%20szelen%20%28221%29/cover.jpg" alt="cover" width="300"/>
 
@@ -64,6 +69,7 @@ A két egymást kiegészítő íráscsokor az emberi jóság és emberhez mélt�
 (Részlet a Regényből)
 
 
+<hr/>
 # <a name="id_203">Wass, Albert: Magukrahagyottak (2003)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Magukrahagyottak%20%28203%29/cover.jpg" alt="cover" width="300"/>
 
@@ -77,6 +83,7 @@ A két egymást kiegészítő íráscsokor az emberi jóság és emberhez mélt�
 A könyv beszédes címe jelzi, hogy szól a Kárpátok hágóin a hazájukat az orosz hadsereg ellen védő székelységről, a koreai háborúban szinte halálraítéltként küzdő fiatal amerikai önkéntesekről, az 1956-ban a nagyvilág által becsapott harcos magyar fiatalokról és minden eszményért küzdő, de elárult emberről, akinek példája nem halványodhat el tudatunkban.
 
 
+<hr/>
 # <a name="id_207">Wass, Albert: A funtineli boszorkány III. (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/A%20funtineli%20boszorkany%20III_%20%28207%29/cover.jpg" alt="cover" width="300"/>
 
@@ -90,6 +97,7 @@ A könyv beszédes címe jelzi, hogy szól a Kárpátok hágóin a hazájukat az
 <P>"Valaki énekelt. De nem lehetett tudni, hogy hol. Közel-e, vagy messze? Valahol fönt a tisztáson? Vagy az erdők között? Vagy a fák fölött? A holdban? Nem lehetett tudni. Néha olyan volt, mintha onnan jött volna a karám mögül, egészen közelről. Máskor mintha véghetetlen messzeségből hoznák a hold sugarai, valahonnan az erdők legsötétebb mélységéből vagy a Pietrosz sárgás-kéken kirajzolt csúcsáról, vagy talán éppen a holdról. Búgott, halkan és panaszosan, mintha valaki belesúgta volna bánatát az éjtszakába, és a hold sugarai dallá szűrve csobogtatnák tovább, mint valami láthatatlan, lágy patakvizet a csönd fekete partjai között. Valaki valahol énekelt." (Részlet a regény harmadik részéből) </P> <P>PRC by TothTJ</P>
 
 
+<hr/>
 # <a name="id_209">Wass, Albert: A funtineli boszorkány II. (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/A%20funtineli%20boszorkany%20II_%20%28209%29/cover.jpg" alt="cover" width="300"/>
 
@@ -103,6 +111,7 @@ A könyv beszédes címe jelzi, hogy szól a Kárpátok hágóin a hazájukat az
 <P>"Amelyik ház arra épül, hogy otthona legyen egy családnak, és úgy épül, és azok építik, akik otthont akarnak belőle maguk köré: abból a házból otthon lesz. És jó otthon lesz, és sokáig lesz otthona sokaknak: férfinak és asszonynak és gyermekeknek és gyermekek gyermekeinek. De amelyik ház nem úgy épül, és nem arra épül, érted - és itt Vénség fölemelte a fejét, és egyenesen az asszony szemébe nézett -, az olyan házba hiába jön asszony, az olyan ház nem lesz hosszan tartó békés otthona senkinek." (Részlet a regény második részéből) </P> <P>PRC by TothTJ</P>
 
 
+<hr/>
 # <a name="id_208">Wass, Albert: A funtineli boszorkány I. (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/A%20funtineli%20boszorkany%20I_%20%28208%29/cover.jpg" alt="cover" width="300"/>
 
@@ -116,6 +125,7 @@ A könyv beszédes címe jelzi, hogy szól a Kárpátok hágóin a hazájukat az
 <P>&nbsp; "Jó vagy és szelíd. Szeretni akarsz, és halált osztogatsz. Nem érzed a gyűlöletet, aminek eszközéül jöttél erre a földre. Terméketlen maradsz, mint a tűzliliom, aminek illata megöli a legyeket. Ha életet hoznál mégis a világra, magad ölnéd meg azt is, és nem tehetnél róla. Borzalmas írás van a tenyereden, leány... és az írások ellen nem tehetünk semmit. Te vagy a bosszú angyala, akinek boszorkány a neve... szép és borzalmas a sorsod, félelmetes és gyönyörűséges... kívánságod parancs a poklok hatalmasai előtt, vágyad beteljesül, mielőtt kimondanád... gyűlöleted vért és tüzet teremt, s csókod nyomán kinyílik a halál... megcsúfolt szüzek bosszúját hordozza a véred... megcsalt leányok átkát váltod valóra... eredj... megérzed a szemek mögött a gondolatot, és meghallod a szavakat, amiket nem mondanak el. Meglátod, ami láthatatlan, meghallod, ami hang nélkül való, s megérzed, aminek illata sincs, mert még meg sem született az időben." (Részlet a regény első részéből) </P> <P>PRC by TothTJ</P>
 
 
+<hr/>
 # <a name="id_212">Wass, Albert: Kard és kasza I-II (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Kard%20es%20kasza%20I-II%20%28212%29/cover.jpg" alt="cover" width="300"/>
 
@@ -129,6 +139,7 @@ A könyv beszédes címe jelzi, hogy szól a Kárpátok hágóin a hazájukat az
 <P>"Hont foglalni alkalmas a kard, s annak védelmezésében hasznos. Megtartani a hont azonban csak kaszával lehet. Kaszával, ekével, izzadságos, becsületes munkával. Hont veszejt, ki másra bízza a munkát." <BR>"- Kétféle ember van ezen a világon, /.../ egyik karddal farag világot magának, a másik ekével. De a karddal faragott világot egy másik kard ledöntheti, s újjá faraghatja nagyon is gyorsan. Maradandót csupán az eke farag. -" (Részletek a regényből) </P> <P>Wass Albert ebben a kétkötetes remekművében saját ősi nemzetségének állít emléket, elvezetve története szálait a közelmúltbeli Mezőség jelen idejéig, visszatérve mintegy a vasasszentgothárdi táj- és időkezdetekhez, az Istenttudó látóemberi bölcsességhez. (<EM>Turcsány Péter</EM>) </P> <P>PRC by TothTJ</P>
 
 
+<hr/>
 # <a name="id_219">Wass, Albert: A kastély árnyékában (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/A%20kastely%20arnyekaban%20%28219%29/cover.jpg" alt="cover" width="300"/>
 
@@ -142,6 +153,7 @@ A könyv beszédes címe jelzi, hogy szól a Kárpátok hágóin a hazájukat az
 Wass Albert a Mire a fák megnőnek történetét folytatja. Egyetlen család környezetében, egy mezőségi tanya verőfényében és a vele szomszédos kastély árnyékában rá tud tapintani a Kiegyezéstől a Békeidőkig tartó korszak belső életére, mozgató eszméire és tévedéseire. Csak a líra szépsége tudja esztétikailag megszerettetni velünk ezt a súlyos vádirattá komorodó epikát.
 
 
+<hr/>
 # <a name="id_205">Wass, Albert: Átoksori kísértetek (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Atoksori%20kisertetek%20%28205%29/cover.jpg" alt="cover" width="300"/>
 
@@ -158,6 +170,7 @@ Fájdalmak, kiábrándultság, helytállás, a remény fel nem adása jellemzi W
  Turcsány Péter
 
 
+<hr/>
 # <a name="id_215">Wass, Albert: Az Antikrisztus és a pásztorok (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Az%20Antikrisztus%20es%20a%20pasztorok%20%28215%29/cover.jpg" alt="cover" width="300"/>
 
@@ -171,6 +184,7 @@ Fájdalmak, kiábrándultság, helytállás, a remény fel nem adása jellemzi W
 „Nem volt puszta véletlen, ami azzal a bányával történt, mivel véletlenül soha nem történik semmi. Viszont, ami az Úristent illeti… hát megmondom azt is, miképpen gondolkozok én erről. Ha az Úristen csudát akarna tenni mivelünk, emberekkel, megtehette volna azt a bánya nélkül is. Már azelőtt, mikor az első katonák megérkeztek azzal a zsidó fiúval. Elpusztíthatta volna őket abban a pillanatban, amikor fölértek volt oda a hágóra, és sok emberélet megkímélődött volna, sok nyomorúságtól megmentődhetett volna ez a falu…” – Wass Albert egyetlen falu orosz katonai megszállásának történetébe sűrítette az erdélyi nép találkozását a bolseviki diktatúrával.
 
 
+<hr/>
 # <a name="id_211">Wass, Albert: Elvásik a veres csillag (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Elvasik%20a%20veres%20csillag%20%28211%29/cover.jpg" alt="cover" width="300"/>
 
@@ -186,6 +200,7 @@ A regény két nagy fejezetből áll. Az első a többé-kevésbé sikeres boldo
 Aztán a regény második részében már kevesebbet kacagunk, mert az ott bemutatott események során minden tönkremegy. Először lecserélik az „odesszai magyart” egy másik komisszárra, majd Mózsi is megszűnik „csertifikátos vadőrnek” lenni. Ezzel kezdődik a Tánczos család és a falu életének megállíthatatlan romlása. Odafönn a bércen mind csak halványul a veres csillag, amelyet a falu népe elismerésként kapott kitűnő termelési eredményéért, amely nem is volt annyira kitűnő, csak Mózsi furfangossága miatt hitte azt róla a településre küldött ellenőrző bizottság. Fenn az ormon mindegyre vásik a veres csillag, miközben odalent az 1956-os forradalom után a szomszéd román falu lakói népirtást rendeznek a helyi székelyek között, s egyre gyakrabban indulnak vagonok a falubeliekkel Dobrudzsába. Az elhurcoltak helyébe besszarábiai románokat telepítenek, hogy a kötet végén Mózsival és feleségével, Rozálival is elinduljon a marhavagon a messzi lápvidék felé, s a családból egyedül az időközben felnőtté cseperedett kicsi Mózsi maradjon meg szülőföldjén, havasi bujdosóként. A regény zárlatából az elkeseredés helyett mégis a bizalom hangja sejlik elő. Akit érdekel, az olvassa el az Elvásik a veres csillag című Wass Albert-regényt, amely abba a mifelénk ismét egyre ismerősebbé váló időszakba kalauzolja el az olvasót, amelynek során „ami ezelőtt okosság volt, az ma lopás, s ami azelőtt lopás volt, az most törvény, s mindezt együtt úgy nevezik, hogy szociálizmus”.
 
 
+<hr/>
 # <a name="id_217">Wass, Albert: Elvész a nyom (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Elvesz%20a%20nyom%20%28217%29/cover.jpg" alt="cover" width="300"/>
 
@@ -199,6 +214,7 @@ Aztán a regény második részében már kevesebbet kacagunk, mert az ott bemut
 Ahány ember – annyi sors. Ezerszeresen igaz e mondás a II. Világháborút átszenvedőkre. S mégis, miért éli túl az egyik a sorsdöntő vészhelyzetet, s később a háború kiszolgáltatott hányattatásait, a világválságot – s a másik miért nem? Isten szándékai mindig érthetők-e számunkra? Mit akar Isten az életünkkel? Ezt a nagy kérdést vizsgálja megdöbbentő igazságérzettel Wass Albert ebben a rendkívüli könyvben.
 
 
+<hr/>
 # <a name="id_214">Wass, Albert: Farkasverem (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Farkasverem%20%28214%29/cover.jpg" alt="cover" width="300"/>
 
@@ -212,6 +228,7 @@ Ahány ember – annyi sors. Ezerszeresen igaz e mondás a II. Világháborút �
 „Nem is veszem észre, a ceruza szánt és telnek a papírok, szürke betűk sorakoznak és valamennyi őriz egy-egy szinte felfedett napsugarat, mondatok sorakoznak és bennük lüktet egy eltékozolt nyár, ívek telnek meg rejtett tűzzel, rajtuk ég és lázad és tombol és sajog egy szomorú ember ifjúsága…”
 
 
+<hr/>
 # <a name="id_220">Wass, Albert: Jönnek! / Adjátok vissza a hegyeimet! (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Jonnek%21%20_%20Adjatok%20vissza%20a%20hegyeime%20%28220%29/cover.jpg" alt="cover" width="300"/>
 
@@ -225,6 +242,7 @@ Ahány ember – annyi sors. Ezerszeresen igaz e mondás a II. Világháborút �
 A két regény témája: Erdély visszacsatolása Magyarországhoz /1940/ és Erdély elszakítása Magyarországtól /1946/. Meghitt olvasmány a történelmi regényeket és magas szintű szépirodalmat kedvelőknek egyaránt.
 
 
+<hr/>
 # <a name="id_213">Wass, Albert: Mire a fák megnőnek (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Mire%20a%20fak%20megnonek%20%28213%29/cover.jpg" alt="cover" width="300"/>
 
@@ -238,6 +256,7 @@ A két regény témája: Erdély visszacsatolása Magyarországhoz /1940/ és Er
 A Habsburg elnyomás XIX. századi világában Wass Albert nem titkolt erdélyi családregénye egyszerre tart társadalmi-nemzeti önvizsgálatot és fájdalmasan felkészítő történelmi memoritert a mai magyar utódnemzedékek számára. A 48-as és a kiegyezéskori nemzedékek meghasonlásának hű tükre ez a kötet.
 
 
+<hr/>
 # <a name="id_216">Wass, Albert: Tizenhárom almafa (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Tizenharom%20almafa%20%28216%29/cover.jpg" alt="cover" width="300"/>
 
@@ -251,6 +270,7 @@ A Habsburg elnyomás XIX. századi világában Wass Albert nem titkolt erdélyi 
 Az 1953-ban írt Tizenhárom almafa a klasszikus történelmi regény hagyományai szerint a nagypolitika történései helyett inkább arra összpontosít, hogy e történések hatása miképpen jelenik meg a kisemberek életében, ez esetben a kommandói vadőr, Tánczos Csuda Mózsi és családja mindennapjaiban. Az újonnan kijelölt magyar-román határ éppen Mózsiék háza alatt szeli ketté Erdélyországot. Mózsi annak idején húsz almafát ültetett a ház mellé, melyekből Észak-Erdély hazatérésekor már csupán tizenhárom fácska növekszik a kommandói hegyoldalban. A remek humorral fűszerezett szatírikus mű visszatérő motívumaként szerepeltetett almafák így válnak a székely megmaradás jelképévé: a csonkokból életrevaló vesszők sarjadnak, bizonyítván azt, hogy „Isten, aki a kivágott csonkból termőfát tud növeszteni újra, nem hagyja elveszni a népeket sem, akik benne hisznek.”
 
 
+<hr/>
 # <a name="id_218">Wass, Albert: Csaba (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Csaba%20%28218%29/cover.jpg" alt="cover" width="300"/>
 

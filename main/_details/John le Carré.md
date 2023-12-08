@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1000">John le Carré: Egy tökéletes kém (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/John%20le%20Carre/Egy%20tokeletes%20kem%20%281000%29/cover.jpg" alt="cover" width="300"/>
 

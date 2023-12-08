@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_947">Aldous Huxley: Moksha a tudat határai (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Aldous%20Huxley/Moksha%20a%20tudat%20hatarai%20%28947%29/cover.jpg" alt="cover" width="300"/>
 

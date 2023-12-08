@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_280">Arthur Golden: Egy gésa emlékiratai (2001)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Arthur%20Golden/Egy%20gesa%20emlekiratai%20%28280%29/cover.jpg" alt="cover" width="300"/>
 

@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_379">Gary Chapman: Egymásra hangolva (2018)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gary%20Chapman/Egymasra%20Hangolva%20%28379%29/cover.jpg" alt="cover" width="300"/>
 

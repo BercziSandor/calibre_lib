@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1290">Orvos-Tóth, Noémi: Örökölt sors (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Orvos-Toth%2C%20Noemi/Orokolt%20sors%20%281290%29/cover.jpg" alt="cover" width="300"/>
 

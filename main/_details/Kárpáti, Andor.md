@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_670">Kárpáti, Andor: Kurvajó! (2002)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Karpati%2C%20Andor/Kurvajo%21%20%28670%29/cover.jpg" alt="cover" width="300"/>
 

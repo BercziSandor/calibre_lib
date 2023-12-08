@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_606">Mátéffy, Éva: Ruby (2003)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Mateffy%2C%20Eva/Ruby%20%28606%29/cover.jpg" alt="cover" width="300"/>
 

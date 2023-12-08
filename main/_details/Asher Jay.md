@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_786">Asher Jay: Tizenhárom okom volt... – KEMÉNYTÁBLA (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Asher%20Jay/Tizenharom%20okom%20volt_.%20-%20KEMENYTABL%20%28786%29/cover.jpg" alt="cover" width="300"/>
 

@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1269">Alex Garland: A Part (2000)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alex%20Garland/A%20Part%20%281269%29/cover.jpg" alt="cover" width="300"/>
 

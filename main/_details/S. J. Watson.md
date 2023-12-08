@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_994">S. J. Watson: Mielőtt elalszom (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/S.%20J.%20Watson/Mielott%20elalszom%20%28994%29/cover.jpg" alt="cover" width="300"/>
 

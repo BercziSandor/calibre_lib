@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1517">Brian Cox: A természet erői </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Brian%20Cox%2C%20Andrew%20Cohen/A%20termeszet%20eroi%20%281517%29/cover.jpg" alt="cover" width="300"/>
 
@@ -13,6 +14,7 @@
 <p>Hogyan jött létre a Földön az élet?<br>Milyen a tér és az idő természete? <br>Mekkora az esélye annak, hogy más bolygókon <br>az élet nyomaira bukkanunk?<br>A természet erőiben a szerző a világunkat irányító, alapvető törvényeket keresi. Eközben olyan különleges helyekre kísérhetjük el, mint Izlandon a Közép-Atlanti-hátság felszínre bukkanó része vagy a Florida partjai körül élő lamantinok birodalma. A könyvben tárgyalt egyetemes törvények alakítanak mindent, a hópelyhek struktúrájától a galaxisok elegáns spiráljaiig. Miközben meg akarjuk érteni mindennapi problémáinkat – otthonunk színeit, a földi élet struktúráit, az élővilág viselkedését és történetét –, túlléphetünk hétköznapi világunkon, és betekinthetünk az azokon túli univerzumba. <br>Azt hiszed, hogy ismered bolygónkat?<br>Gondold végig még egyszer</p></div>
 
 
+<hr/>
 # <a name="id_1516">Brian Cox: E=mc² (De miért olyan nagy ügy ez?) (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Brian%20Cox/E%3Dmc2%20%28De%20miert%20olyan%20nagy%20ugy%20ez_%29%20%281516%29/cover.jpg" alt="cover" width="300"/>
 

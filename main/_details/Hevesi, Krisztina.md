@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_986">Hevesi, Krisztina: Szextrém (2014)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Hevesi%2C%20Krisztina/Szextrem%20%28986%29/cover.jpg" alt="cover" width="300"/>
 

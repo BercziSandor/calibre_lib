@@ -1,9 +1,11 @@
+<hr/>
 # <a name="id_1213">Stephenie Meyer: Alkonyat (Twilight saga </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephenie%20Meyer/Alkonyat%20%281213%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephenie%20Meyer/Alkonyat%20%281213%29/Alkonyat%20-%20Stephenie%20Meyer.epub)
 
+<hr/>
 # <a name="id_795">Stephenie Meyer: New Moon – Újhold (Twilight saga 1) (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephenie%20Meyer/New%20Moon%20-%20Ujhold%20%28795%29/cover.jpg" alt="cover" width="300"/>
 
@@ -18,6 +20,7 @@
 <p>Bella mer szeretni. Az élete árán is. Edward Cullen titkokkal terhes hosszú élete során először igazán boldog végre. És ekkor kezdődnek csak az igazi bajok. Egyetlen ostoba pillanat végzetes következményekkel jár. Edward maga mögött hagy mindent, Bella pedig majdnem belehal a veszteségbe. S miközben hátborzongató halálesetek tartják izgalomban Forks városát, különös árnyak kószálnak a rezervátum körüli erdőkben, Bellát pedig egy furcsa hang bűvöli egyre hajmeresztőbb őrültségekbe. A földgolyó túloldalán Edward végzetes lépésre készül, de ezzel csak még nagyobb veszélybe sodorja valamennyiüket… Hát mégis rémálommá válhat ez a szerelem? Elfogyhat, mint a Hold?</p></div>
 
 
+<hr/>
 # <a name="id_794">Stephenie Meyer: Eclipse – Napfogyatkozás (Twilight saga 2) (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephenie%20Meyer/Eclipse%20-%20Napfogyatkozas%20%28794%29/cover.jpg" alt="cover" width="300"/>
 
@@ -32,6 +35,7 @@
 <p>"Mondják, ​a föld veszte a tűz lesz, vagy a jég.<br>Én mint ember, kit vágya űz, amondó vagyok, hogy a tűz.<br>De ha kell a kétféle vég, itt gyűlölet is annyi van,<br>hogy pusztítószerül a jég is éppolyan jó és elég."<br>(Robert Frost: Tűz és jég)<br>Miközben Seattle-t rejtélyes gyilkosságsorozat tartja rettegésben, és egy gonosz vámpír még mindig nem adta föl, hogy bosszút álljon rajta, Bellát továbbra is minden oldalról veszély környékezi. És mintha ez nem lenne elég, kénytelen választani Edward iránt érzett szerelme és Jacobbal való barátsága között – és közben tudja, ennek a döntésnek az lehet a következménye, hogy újra lángra lobban az ősi ellenségeskedés a vámpírok és a vérfarkasok között. Miközben vészesen közeledik az érettségi időpontja, Bellára még egy további döntés is vár: választania kell élet és halál között. De vajon melyik melyik?<br>Azok az olvasók, akiket rabul ejtett az Alkonyat és az Újhold, ugyanilyen mohón falják majd Stephenie Meyer magával ragadó vámpír-történetének rég várt harmadik kötetét, a Napfogyatkozást is.</p></div>
 
 
+<hr/>
 # <a name="id_793">Stephenie Meyer: Breaking Dawn – Hajnalhasadás (Twilight saga 3) (2013)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephenie%20Meyer/Breaking%20Dawn%20-%20Hajnalhasadas%20%28793%29/cover.jpg" alt="cover" width="300"/>
 
@@ -47,6 +51,7 @@ Most, hogy Bella meghozta a döntést, megdöbbentő, váratlan események sorá
 A Twilight saga legújabb döbbenetes, türelmetlenül várt kötetében, a Hajnalhasadásban végre fény derül ennek a lenyűgöző romantikus történetnek minden titkára és rejtélyére.
 
 
+<hr/>
 # <a name="id_163">Stephenie Meyer: A burok (2013)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephenie%20Meyer/A%20burok%20%28163%29/cover.jpg" alt="cover" width="300"/>
 

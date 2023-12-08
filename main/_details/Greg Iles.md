@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_780">Greg Iles: Huszonnégy óra (2002)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Greg%20Iles/Huszonnegy%20ora%20%28780%29/cover.jpg" alt="cover" width="300"/>
 

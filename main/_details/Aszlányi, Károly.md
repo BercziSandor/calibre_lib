@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_851">Aszlányi, Károly: Az Északi Park felfedezése </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Aszlanyi%2C%20Karoly/Az%20Eszaki%20Park%20felfedezese%20%28851%29/cover.jpg" alt="cover" width="300"/>
 
@@ -11,6 +12,7 @@
 <p class="description">Az 1938-ban tragikusan fiatalon elhunyt írót sokan úgy emlegették, hogy humora Karinthyéval vetekszik. E két ifjúsági regénye egyértelműen beleillik kiadónk Klasszikusok fiataloknak sorozatába, s mint ahogy a többi klasszikust, ezt is élvezettel forgathatják gyermeklelkű felnőttek is.<br>A Felfedezők öttagú társasága fogalom a suliban. Némi töprengés után vakációjuk két hetét osztálytársuk, a „báró” papájának sápvári birtokán töltik.Ennek során mozdonyt vezetnek, porrá zúznak egy autót, találkoznak az ősök szellemével, megverik az urasági inast és még számtalan kalandban van részük. Ezután döntenek úgy, hogy a téli szünetet is együtt töltik, ezúttal egy alpesi síparadicsomban. Itt sem kerülik el őket az izgalmak, és újra találkoznak a „báró” húgával, Xénia baronesszel. És ez – nem véletlenül – újabb galibákat okoz…</p>
 
 
+<hr/>
 # <a name="id_853">Aszlányi, Károly: Sok hűhó Emmiért (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Aszlanyi%2C%20Karoly/Sok%20huho%20Emmiert%20%28853%29/cover.jpg" alt="cover" width="300"/>
 
@@ -24,6 +26,7 @@
 <p class="description">„Akivel Emmi megtörtént, utólag se talál magyarázatot – akár az ember, aki a fejére esett. Emmi lop, csal, bánt, komisz és hazudik és jó vele lenni. És mégis, Emmi itt van a nyakunkon a sok más baj mellett, amiről jobb nem beszélni – itt van mindig, mint ráadás, vagy talán minden baj eredő oka. És veszekszünk vele ebédnél, reggel és este, a hálószobában, utcán és tribünökön, mint az a két légy, amely ugyanabban a levesben fuldokolt; mert ahelyett, hogy magába szállt volna, a levesbe szállt. Szeretni annyit tesz, mint lehetetlent kívánni felebarátunktól. És nem szeretni annyi, mint lehetetlent kívánni önmagunktól.” Így kezdődik a magyar irodalom egyik legnagyobb tehetségű, és legnépszerűbb írójának filmként is milliók által rajongott műve Emmiről, a magyar Makrancos Katáról, és Málnássy Gáborról, a művelt, szolid, gazdag arisztokratáról, akik egy igazi „road movie” keretében szeretik és gyilkolják egymást, imádnivaló tehetséggel, humorral és kegyetlenséggel, egészen a váratlan végkifejletig. Aszlányi Károly – Rejtő Jenő humorát és Molnár Ferenc finom tehetségét ötvöző – bestsellere elgondolkodtató és pihentető olvasmány, örök kedvencünk.</p>
 
 
+<hr/>
 # <a name="id_852">Aszlányi, Károly: Pénz a láthatáron (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Aszlanyi%2C%20Karoly/Penz%20a%20lathataron%20%28852%29/cover.jpg" alt="cover" width="300"/>
 
@@ -46,6 +49,7 @@
 <p class="description"> – Szeretném, ha ezt leközölné a lapja, változtatás nélkül.</p></div>
 
 
+<hr/>
 # <a name="id_854">Aszlányi, Károly: Brentford rendet csinál (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Aszlanyi%2C%20Karoly/Brentford%20rendet%20csinal%20%28854%29/cover.jpg" alt="cover" width="300"/>
 
@@ -60,6 +64,7 @@
 <p class="description">Ha még azt a néhány közkeletű igazságot elmondjuk a sziamangokról, hogy: 18 dorsolumbál csigolyájuk, 13 pár bordájuk s – ellentétben a többi gibbonnal – gégezacskójuk van, viszont farkuk és pofazacskójuk nincsen: akkor az olvasó már szinte többet tud róluk, mint Brentford tudott, amikor közéjük került."</p></div>
 
 
+<hr/>
 # <a name="id_855">Aszlányi, Károly: Haybodyt nem lehet agyonütni (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Aszlanyi%2C%20Karoly/Haybodyt%20nem%20lehet%20agyonutni%20%28855%29/cover.jpg" alt="cover" width="300"/>
 
@@ -80,6 +85,7 @@
 <p class="description">  „Soha nem bíztam az olyan emberben, aki a szemembe mert nézni és állta a tekintetemet, mert ez demonstráció, amire tisztességes embernek nincs szüksége.” (Haybody)</p></div>
 
 
+<hr/>
 # <a name="id_850">Aszlányi, Károly: Hét pofon (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Aszlanyi%2C%20Karoly/Het%20pofon%20%28850%29/cover.jpg" alt="cover" width="300"/>
 
@@ -93,6 +99,7 @@
 <p class="description">A Hét pofon elõször rövid történet volt; szólt egy fiatalemberrõl, aki nem nyugodott bele, hogy visszaéljenek a fiatalságával: nyugodt, világos, áttetszõ és szemtelen történet, amelynek jelentõsége nincs, csak hatása. Én is voltam fiatalember, és semmibe se nyugodtam bele, tehát tudom, hogyan van ez. A legtöbb fiatalember belenyugszik. <br>Errõl a kérdésrõl sokszor írtam már. Máskülönben mindig kimondtam, amit gondolok, csak a Hét pofonban nem mondtam ki, amit gondolok: csak azt mondtam ki, ami történik…</p>
 
 
+<hr/>
 # <a name="id_787">Aszlányi, Károly: Kalandos vakáció (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Aszlanyi%2C%20Karoly/Kalandos%20vakacio%20%28787%29/cover.jpg" alt="cover" width="300"/>
 

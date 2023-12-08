@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1024">Umberto Eco: A Foucault-inga (2003)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Umberto%20Eco/A%20Foucault-inga%20%281024%29/cover.jpg" alt="cover" width="300"/>
 
@@ -12,6 +13,7 @@
 <p>Három ​kiadói szerkesztő megunja az okkult könyvek „ördöngös" szerzőinek pancserságát, és egy Abulafia nevű számítógép segítségével nekilát, hogy egy tökéletes Tervet kovácsoljon. Az állítólagos Terv értelmében az emberiség sorsa a Világ Urainak kezében van; ez pedig valamiképpen összefügg azzal a gyanúval, hogy Szép Fülöp francia királynak talán mégsem sikerült felszámolnia annak idején a templomos lovagrendet. Hőseink remekül szórakoznak, ám egyszer csak hátborzongató sejtéseik támadnak… Annyi bizonyos, hogy bajba kerültek. A Foucault-inga a második nagy sikerű regénye Eco professzornak, a világhírű olasz szemiotikusnak. Ezúttal már nem egy gyilkosságsorozat tettesét s a tettes indítékait, tervét kutatja a detektív, mint A rózsa nevében, hanem végső soron maga a Terv: az emberi történelem, sőt a Mindenség tervszerűsége válik meghökkentően kérdésessé. Ha van Terv, akkor minden mindennel összefügg. Ha van Terv, akkor nem kétséges, mi közük a templomos lovagoknak a hasszaszínokhoz, az alkimistáknak a párizsi metróhoz, a titokzatos Saint-Germain grófnak Shakespeare-hez,a rózsakereszteseknek Arséne Lupinhez, a druidáknak az Eiffel-toronyhoz, a Föld forgását bizonyító Foucault-ingának… Kihez-mihez is? Ha van Terv, minden kiderül.</p></div>
 
 
+<hr/>
 # <a name="id_789">Umberto Eco: A rózsa neve (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Umberto%20Eco/A%20rozsa%20neve%20%28789%29/cover.jpg" alt="cover" width="300"/>
 

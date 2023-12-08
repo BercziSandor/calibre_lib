@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_921">Alexander McCall Smith: Az első női detektív iroda (No. 1. Női Nyomozóiroda 1) (2003)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Az%20elso%20noi%20detektiv%20iroda%20%28Az%20Elso%20%28921%29/cover.jpg" alt="cover" width="300"/>
 
@@ -12,6 +13,7 @@
 <p>„Elbűvölt ​a főhősnő Ramotswe figurája, a szerző nagyszerű humora, és az kifinomult módszer, ahogy egy már-már elfelejtett kultúra értékeit emlékezetünkbe idézi.”<br>Anthony Minghela Az angol beteg című film Oscar-díjas forgatókönyvírója<br>Az édesapjától örökölt pénzzel, Drága Ramotswe megalapítja Botswana első és egyetlen női detektív irodáját. Az én küldetésem, hogy segítsem azokat az embereket, akiknek problémájuk adódik az életben – jelenti ki Ramotswe. Mindezt nagy lelkesedéssel végzi, amikor belép az eltűnt férjek, szélhámos rokonok, önfejű lánygyermekek és emberrablók világába.<br>Az 1999-es első megjelenés óta Az első női detektív iroda két Irodalomkritikai Különdíjat kapott, és a Times Irodalmi Melléklete megítélése alapján a Milleniumi év egyik legjobb külföldi könyvének szavazták meg. A folytatás, a Zsiráfkönnyek, a 2000. évben a Guardian lektűr bestseller listáján az első tíz legjobb közé került.<br>A regények sikerére jellemző, hogy Az első női detektív iroda, és a Zsiráfkönnyek megfilmesítési jogait eladták már.<br>„A nők sok mindent észrevesznek, amit a férfiak nem”, magyarázza Mma Ramotswe a hüledező tisztviselőnek, miért is akar egy testes (pardon!, "hagyományos testalkatú"), középkorú afrikai hölgy épp detektívirodát nyitni Botswanában – az ország első ilyen intézményét. És láss csodát: a békés, csöndes, a sivatag szélén a túlélésért küzdő kis ország lakóinak szintén vannak olyan problémái, amiket csak egy magándetektív, lehetőleg női detektív oldhat meg. Pedig itt még elevenen élnek az emberek szívében azok a hagyományos értékek, amikről Európa kiábrándult polgárai már inkább csak álmodoznak: a szolidaritás, a jóakarat, az egymás iránti tisztelet, a hősiesség, a becsület.</p></div>
 
 
+<hr/>
 # <a name="id_920">Alexander McCall Smith: Zsiráfkönnyek (No. 1. Női Nyomozóiroda 2) (2003)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Zsirafkonnyek%20%28920%29/cover.jpg" alt="cover" width="300"/>
 
@@ -26,6 +28,7 @@
 <p>Az Első Női Detektív Iroda tulajdonosa, Mma Ramotswe, úgy tűnik, révbe ért: szolgáltatásait már az amerikai nagykövetség is ajánlja, Mr. J. L. B. Matekonitól gyémánt jegygyűrűt kap, és az iroda szokásos ügyeit – sikkasztó hivatalnokok, hűtlen házastársak, aggódó testvérek eseteit – is sikerrel oldja meg. Miért van mégis olyan érzése, hogy valami nincs rendjén? Miközben barátságot köt egy másik kultúra képviselőjével, segít elrendezni két kis árva sorsát, és egy szeretetre méltó, tekintélyes úriember jegyese, valahol mélyen ott munkál benne az érzés: valami nincs rendben…</p></div>
 
 
+<hr/>
 # <a name="id_918">Alexander McCall Smith: Erkölcstan szép lányoknak (No. 1. Női Nyomozóiroda 3) (2003)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Erkolcstan%20Szep%20Lanyoknak%20%28918%29/cover.jpg" alt="cover" width="300"/>
 
@@ -40,6 +43,7 @@
 <p>Az Első Női Detektív Iroda tulajdonosa, Mma Ramotswe váratlan problémákkal szembesül: irodája még mindig veszteséges, és jegyese, a köztiszteletnek örvendő Mr. J. L. B. Matekoni is egyre különösebben viselkedik. Közben megbízást kapnak egy fontos kormányzati embertől, és a helyi szépségverseny szervezője szintén hozzájuk fordul segítségért. Hogyan lehetne egyszerre gyorsan pénzt szerezni, a két egyidejű megbízást teljesíteni és Mr. J. L. B. Matekoni problémáját megoldani? Nem gond, hiszen az Első Női Detektív Irodában KÉT talpraesett hölgy dolgozik. Mérgezés, pénzhiány, szép lányok erkölcsei – az Első Női Detektív Iroda megoldja a problémát! A varázslatos hangulatú afrikai helyszíneken játszódó izgalmas történet – Az Első Női Detektív Iroda és a Zsiráfkönnyek után – immár a sorozat harmadik kötete.</p></div>
 
 
+<hr/>
 # <a name="id_919">Alexander McCall Smith: Kalahári gépíróiskola férfiak részére (No. 1. Női Nyomozóiroda 4) (2004)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alexander%20McCall%20Smith/Kalahari%20gepiroiskola%20ferfiak%20resze%20%28919%29/cover.jpg" alt="cover" width="300"/>
 

@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_971">Roderick Gordon: Az alagutak rejtélye (Alagutak 1) (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Roderick%20Gordon/Az%20alagutak%20rejtelye%20%28971%29/cover.jpg" alt="cover" width="300"/>
 
@@ -12,6 +13,7 @@
 <p>Ki ​ne álmodozott volna arról, hogy kincset talál a föld alatt? Vagy arról, hogy olyasmire bukkan, ami minden tekintetben egyedülálló és izgalmas? A tizennégy éves Will Burrows is erről álmodozik. Ezért minden szabad percét ásóval és lapáttal a kezében a föld alatt tölti, édesapja társaságában, aki egy napon nyomtalanul eltűnik. Will a barátjával, Chesterrel indul a keresésére, és hamarosan a föld alatt találják magukat, ahol egy sötét titokra bukkannak, amelyért akár az életüket is kockáztatnák. <br>Sokszor halljuk a figyelmeztetést: légy óvatos, mit kívánsz, mert a végén még valóra válik. Hát Will pontosan így járt. Ám amikor az álma valóra vált, és döbbenetes felfedezést tett, mindenre számított, csak arra nem, hogy ezzel nem csak saját, hanem szerettei életét is halálos veszedelembe sodorja.<br>Ezúttal nem hagyatkozhat másra, csak saját leleményességére és kitartására, pedig könnyen lehet, hogy még ezt is kevésnek bizonyul, ha megszokott világa összeomlani látszik körülötte, akár egy romos alagút fala, mélyen a föld alatt…</p></div>
 
 
+<hr/>
 # <a name="id_974">Roderick Gordon: Földmély titka (Alagutak 2) (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Roderick%20Gordon/Foldmely%20Titka%20%28974%29/cover.jpg" alt="cover" width="300"/>
 

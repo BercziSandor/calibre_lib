@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1775">Charles Osborne: Feketekávé (Hercule Poirot 9) (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Charles%20Osborne/Feketekave%20%281775%29/cover.jpg" alt="cover" width="300"/>
 

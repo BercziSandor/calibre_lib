@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1645">Kopátsy, Sándor: Az Orbán jelenség (2002)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kopatsy%2C%20Sandor/Az%20Orban%20jelenseg%20%281645%29/cover.jpg" alt="cover" width="300"/>
 

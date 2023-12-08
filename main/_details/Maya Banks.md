@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_285">Maya Banks: Vénuszdombi mesék (2010)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Maya%20Banks/Venuszdombi%20mesek%20%28285%29/cover.jpg" alt="cover" width="300"/>
 

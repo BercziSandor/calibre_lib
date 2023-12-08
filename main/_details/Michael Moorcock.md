@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_525">Michael Moorcock: Harcikutya (Von Bek 1) (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Moorcock/Harcikutya%20%28525%29/cover.jpg" alt="cover" width="300"/>
 

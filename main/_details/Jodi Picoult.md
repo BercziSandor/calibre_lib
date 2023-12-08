@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_351">Jodi Picoult: Szívtől szívig (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jodi%20Picoult/Szivtol%20szivig%20%28351%29/cover.jpg" alt="cover" width="300"/>
 
@@ -12,6 +13,7 @@ E bravúros fordulatokkal tarkított, megindító regény egy gyilkosságért ha
 A népszerű írónő, a Nővérem húga és a Tizenkilenc perc szerzője, e kötetében is rendkívüli érzékenységgel foglalkozik olyan kényes témákkal, mint a szervadományozás, a halálbüntetés és a vallásos meggyőződés. A könyv több héten keresztül vezette a New York Times bestseller-listáját.
 
 
+<hr/>
 # <a name="id_348">Jodi Picoult: Tizenkilenc perc (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jodi%20Picoult/Tizenkilenc%20perc%20%28348%29/cover.jpg" alt="cover" width="300"/>
 
@@ -26,6 +28,7 @@ Tizenkilenc perc alatt lenyírhatod a ház előtt a füvet. Befestheted a hajad.
 Tizenkilenc perc alatt meg tudod állítani a világot, és akár le is szállhatsz róla.
 
 
+<hr/>
 # <a name="id_350">Jodi Picoult: A nővérem húga (2021)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jodi%20Picoult/A%20noverem%20huga%20%28350%29/cover.jpg" alt="cover" width="300"/>
 
@@ -43,6 +46,7 @@ A krízishelyzetet a népszerű írónő felváltva láttatja a hét szereplő s
 A végkifejlet pedig majdnem akkora meglepetéseket tartogat, mint egy krimi.
 
 
+<hr/>
 # <a name="id_349">Jodi Picoult: Elrabolt az apám (2021)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jodi%20Picoult/Elrabolt%20az%20apam%20%28349%29/cover.jpg" alt="cover" width="300"/>
 

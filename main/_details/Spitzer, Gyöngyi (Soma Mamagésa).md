@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_6">Spitzer, Gyöngyi (Soma Mamagésa): Tiszta Szex (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Spitzer%2C%20Gyongyi%20%28soma%20Mamagesa%29/Tiszta%20Szex%20%286%29/cover.jpg" alt="cover" width="300"/>
 

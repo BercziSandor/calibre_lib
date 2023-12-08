@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1509">Richelle Mead: A szukkubusz dala (Georgina Kincaid 1) (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Richelle%20Mead/A%20szukkubusz%20dala%20%281509%29/cover.jpg" alt="cover" width="300"/>
 

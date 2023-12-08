@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_897">Mózes, István Miklós: 1200 találós kérdés a magyar folklór világából (2008)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Mozes%2C%20Istvan%20Miklos/1200%20talalos%20kerdes%20a%20magyar%20folklo%20%28897%29/cover.jpg" alt="cover" width="300"/>
 

@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_634">Arto Paasilinna: A nyúl éve (1983)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Arto%20Paasilinna/A%20nyul%20eve%20%28634%29/cover.jpg" alt="cover" width="300"/>
 

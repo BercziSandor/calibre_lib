@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_973">Terebess, Gábor: Ezerízű Kína (1986)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Terebess%2C%20Gabor/Ezerizu%20Kina%20%28973%29/cover.jpg" alt="cover" width="300"/>
 

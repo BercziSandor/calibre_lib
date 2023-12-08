@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_526">Murakami Haruki: Birkakergető nagy kaland (2007)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Murakami%20Haruki/Birkakergeto%20nagy%20kaland%20%28526%29/cover.jpg" alt="cover" width="300"/>
 
@@ -11,6 +12,7 @@
 <p class="description">Ez a különleges, misztikus-mitologikus irodalmi thriller keltette fel a világ figyelmét Murakami Haruki könyvei iránt, és alapozta meg írói tekintélyét a nemzetközi könyvszakmában.<br>Története murakamisan egyszerűen kezdődik: Egy alig harmincéves reklámszövegíró férfi képeslapot kap eltűnt barátjától, és azt felhasználja az egyik biztosítótársaság hirdetéséhez. Csupán akkor szerez tudomást arról, hogy a hegyi legelőt ábrázoló képen látható a nyájban egy mutáns birka csillaggal a hátán, amikor felkeresi egy furcsa, fekete ruhás férfi, és ultimátum elé állítja: vagy megtalálja az állatot, vagy meghal. A fiatalember unalmas élete egy csapásra megváltozik. Fölkerekedik barátja és a nem mindennapi birka felkutatására, és ezzel kezdetét veszi a birkakergető nagy kaland, amelynek során hősünk megismerkedik a juhtudományok professzorával, elvetődik Japán északi hegyvidékének legelhagyatottabb zugába, ahol nemcsak a mitikus birkával néz farkasszemet, hanem a hagyományok szorításában önmaga démonaival is.<br>Murakami, ahogy szokta, újfent meglepi, lehengerli és elképeszti olvasóit.</p>
 
 
+<hr/>
 # <a name="id_471">Murakami Haruki: Miről beszélek, amikor futásról beszélek? (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Murakami%20Haruki/Mirol%20beszelek%2C%20amikor%20futasrol%20beszelek_%20%28471%29/cover.jpg" alt="cover" width="300"/>
 

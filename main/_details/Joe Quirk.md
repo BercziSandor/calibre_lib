@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_1524">Joe Quirk: Prűdek és paráznák (2009)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Joe%20Quirk/Prudek%20es%20paraznak%20%281524%29/cover.jpg" alt="cover" width="300"/>
 

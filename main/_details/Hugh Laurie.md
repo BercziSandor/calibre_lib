@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_162">Hugh Laurie: A balek (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Hugh%20Laurie/A%20balek%20%28162%29/cover.jpg" alt="cover" width="300"/>
 

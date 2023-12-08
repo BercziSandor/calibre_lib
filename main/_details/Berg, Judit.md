@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_467">Berg, Judit: Rumini (Rumini 1) </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Berg%2C%20Judit/Rumini%20%28467%29/cover.jpg" alt="cover" width="300"/>
 
@@ -40,6 +41,7 @@ végén minden titokra fény derül. De vajon lesz-e pénzük, hogy még a
 bazárban is vásároljanak?</p></div>
 
 
+<hr/>
 # <a name="id_567">Berg, Judit: Rumini Zúzmaragyarmaton (Rumini 2) (2020)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Berg%2C%20Judit/Rumini%20Zuzmaragyarmaton%20%28567%29/cover.jpg" alt="cover" width="300"/>
 
@@ -54,6 +56,7 @@ bazárban is vásároljanak?</p></div>
 <p>Berg Judit IBBY-díjjal kitüntetett Ruminije folytatódik! A Szélkirálynő nevű hajó ezúttal Zúzmaragyarmatra indul, ahol az egerek sosem látott bonyodalmakba keverednek: eltévednek, fekete sirályok és más alattomos lények támadnak rájuk, egy időre Negró lesz a kapitány, és Rumini megint eltűnik…</p></div>
 
 
+<hr/>
 # <a name="id_570">Berg, Judit: Rumini és a négy jogar (Rumini 3) (2019)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Berg%2C%20Judit/Rumini%20es%20a%20negy%20jogar%20%28570%29/cover.jpg" alt="cover" width="300"/>
 
@@ -68,6 +71,7 @@ bazárban is vásároljanak?</p></div>
 <p>Rumini ezúttal nyugatra utazik, ahol az Arany-tenger szigetvilágát négy nemzet lakja: a hódok, kígyók, teknősök és fénylények. Eddig békében éltek egymás mellett, de az egyik nép királya aljas csellel le akarja igázni korábbi szövetségeseit.<br>Ruminiék a viszály kellős közepébe csöppennek. Hamarosan kiderül: egyetlen reményük van csak a hazajutásra: ha a hódító ellen fordulva segítenek békét hozni a Hódszövetség négy népének.<br>De mit kell tenni akkor, ha saját társaik is ellenséggé válnak?</p></div>
 
 
+<hr/>
 # <a name="id_479">Berg, Judit: Micsoda Idő! (2012)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Berg%2C%20Judit/Micsoda%20Ido%21%20%28479%29/cover.jpg" alt="cover" width="300"/>
 
@@ -77,6 +81,7 @@ bazárban is vásároljanak?</p></div>
 ### Tagek
 [gyermek- és ifjúsági irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek-%20%c3%a9s%20ifj%c3%bas%c3%a1gi%20irodalom.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [gyermek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [mese](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mese.md)
 
+<hr/>
 # <a name="id_1274">Berg, Judit: Alma (2016)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Berg%2C%20Judit/Alma%20%281274%29/cover.jpg" alt="cover" width="300"/>
 

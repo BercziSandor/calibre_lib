@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_40">Robert Ludlum: Bourne Hatalma (Bourne 1) (2006)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Bourne%20Hatalma%20%2840%29/cover.jpg" alt="cover" width="300"/>
 
@@ -11,6 +12,7 @@
 <p class="description">A Bourne-trilógia második kötetében ismét élethalálharcra kényszerül Jason Bourne, Robert Ludlum legkülönösebb sorsú hőse. Egy honkongi tajpan utasítására elrabolják Bourne feleségét, s ezzel kezdetét veszi a kegyelmet nem ismerő küzdelem a gyilkos gengszterek és a semmivel sem kíméletesebb titkosszolgálatok között. A tét látszólag egy asszony élete, de valójában a hatalom és a pénz körül forog minden a Távol-Kelet véres kulisszái között.<br>Jason Bourne a hajdani Fantom ismét feltűnik Ázsiában, s ahol ő megjelenik, ott eluralkodik a rettegés és arat a halál...</p>
 
 
+<hr/>
 # <a name="id_33">Robert Ludlum: A Hádész faktor (Covert-One 1) (2006)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/A%20Hadesz%20faktor%20%2833%29/cover.jpg" alt="cover" width="300"/>
 
@@ -24,6 +26,7 @@
 Három ​ember gyors egymásutánban, érthetetlen módon meghal az Egyesült Államokban. Halálukat soha nem tapasztalt tüneteket elődidéző, ismei vírus okozza, amely előtt tehetetlenül állnak a tudósok, köztük Sophia Russell, az amerikai hadsereg fertőző betegségekkel foglalkozó kutatóintezetének munkatársa. Sophiának azonban támad egy bizonytalan ötlete, s tovább is lépne, de a vírus őt sem kíméli.Vőlegénye, Jon smith orvos-alezredes egy rég nem látott baráttól szűkszavú figyelmeztetést kap: meneküljön, mert életveszélyben van. A figyelmeztetést rögtön megmagyarázhatatlan támadások követik. Egy rejtélyes, kimeríthetetlen er-forrásokkal rendelkező erő tör az életére, az amely Sophia halálát is okozta. Smith egyszerre válik üldözötté és üldözővé. Félelem és düh hajtja, menteni igyekszik magát, s kideríteni, miért, ki miatt veszítette el szerelmét. Áthatolhatatlannak tűnő falak veszik körül, próbálkozásai kudarcot vallanának, ha nem lennének a barátai: Marty az autista számítógépes zseni és Howell , a rejtélyes öreg brit, a SAS kommandó egykori tisztje…
 
 
+<hr/>
 # <a name="id_37">Robert Ludlum: A Párizs opció (Covert-One 3) (2005)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/A%20Parizs%20opcio%20%2837%29/cover.jpg" alt="cover" width="300"/>
 
@@ -37,6 +40,7 @@ Három ​ember gyors egymásutánban, érthetetlen módon meghal az Egyesült �
 A tudományos világban általánosan elterjedt vélemény szerint még évek kellenek hozzá, hogy valaki megalkosson egy működőképes, a szilikonalapúnál nagyságrendekkel gyorsabb és nagyobb erejű DNS-komputert. És mégis, a csendes-óceáni Diego Garcia amerikai támaszpont radarernyőiről teljes öt percre eltűnnek a környéken járőröző repülőgépek, és nem tud magyarázatot adni rá senki. Az USA nyugati részén leáll az áramellátás, és minden távközlési összeköttetés, ennek összes tragikus következményével. Washington kezdetben egy szokatlanul ügyes hackerre – számítógépkalózra – gyanakszik, a hivatalos közleménye is erről szól, de a szakemberek tudják, hogy csak egy DNS-számítógép képes előidézni ilyen méretű zavarokat…
 
 
+<hr/>
 # <a name="id_30">Robert Ludlum: A Bourne-rejtély (Fantom/Bourne 1) (2005)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/A%20Bourne-Rejtely%20%2830%29/cover.jpg" alt="cover" width="300"/>
 
@@ -51,6 +55,7 @@ A tudományos világban általánosan elterjedt vélemény szerint még évek ke
 <p>Egy ​francia halászhajó legénysége félhalott férfit ment ki a tengerből. Az idegen amnéziában szenved, és a testében lévő golyókon és egy csípőjébe ültetett svájci bankszámlaszámon kívül semmije sincs. Nem tudja, ki ő és honnan jött, de hamarosan kivételes tehetséget árul el az önvédelem, a keleti harcművészetek és a nyelvek terén. Mindez pedig sokatmondóan veszélyes múltat sejtet. Hősünk összezavarodottan és kimerülten hozzálát, hogy kiderítse, ki is ő valójában, és hogyan sodródott ilyen veszélybe. A zürichi széffiók tartalma, ha lehet, még az előzményeknél is zavarba ejtőbb. Duzzadó bankszámla és egy név: Jason Bourne, valamint utasítás, hogy vegye fel a kapcsolatot a Treadstone nevű New York-i céggel. Hogy mindez mit jelent, az Bourne számára is rejtély. Senkit nem ismer, őt azonban rendre felismerik, de úgy tűnik, hogy nem a jóakaróiba botlik úton-útfélen. Fokozódó paranoiája teljesen indokolt, valóban üldözik őt, sőt az életére törnek.<br>A regény korábban A FANTOM címen is megjelent.</p></div>
 
 
+<hr/>
 # <a name="id_32">Robert Ludlum: Bourne ultimátuma (Fantom/Bourne 3) (2006)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Bourne%20ultimatuma%20%2832%29/cover.jpg" alt="cover" width="300"/>
 
@@ -66,6 +71,7 @@ A tudományos világban általánosan elterjedt vélemény szerint még évek ke
 <p>David Webb már öt éve éli az egyetemi történelemtanárok nyugalmas életét családjával egy maine-i kisvárosban, amikor hirtelen megjelenik valami a múltjából, valami, ami fenyegető – pontosabban nem is valami, hanem valaki. Valaki, aki ellen David Webb tehetetlen lenne, ezért visszavedlik még egyszer Jason Bourne-ná, aki most már nem csak a feleségéért harcol, hanem kisgyermekéért is. És nagyon reméli, hogy ez a harc lesz a végső. Mindent erre az egy lapra tesz fel. Megkezdődik a gyilkos és véres hajsza két kontinensen át, két elsőosztályú bérgyilkos próbál egyedül maradni a porondon, mindkét oldalon hullanak az ártatlan (vagy éppen egyáltalán nem ártatlan) áldozatok, míg végre elérkezik a leszámolás pillanata. Jason Bourne – és szellemi atyja, Robert Ludlum – ezúttal sem tagadja meg önmagát. A Bourne-trilógia befejező kötete – ezt minden túlzás nélkül kijelenthetjük – a műfaj gyöngyszeme.</p></div>
 
 
+<hr/>
 # <a name="id_35">Robert Ludlum: Matarese klán (Matarese Klán 1) (1979)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Matarese%20klan%20%2835%29/cover.jpg" alt="cover" width="300"/>
 
@@ -80,12 +86,14 @@ A tudományos világban általánosan elterjedt vélemény szerint még évek ke
 <p>Korzika ​vad hegyei között egy őrült elme által kitervelt, a század elején elkövetett szörnyű tömeggyilkosság áldozatai nyugszanak. <br>Sokkoló, a két szuperhatalom közvetlen konfrontációjának veszélyével fenyegető merénylet áldozata előbb az Egyesült Államok vezérkari főnökei egyesített bizottságának elnöke, majd a szovjet rakétaprogram egyik atyja. <br>Mi köze a korzikai, Guillaume de Matarese által létrehozott, mindenki tudomása szerint már nem működő egykori politikai bérgyilkos szervezetnek az újabb gyilkosságokhoz? Miért halnak meg sorban a Matarese Tanács örökösei? Ki és miért akarja káoszba dönteni, a nukleáris katasztrófa veszélyének kitenni a világot? <br>Ahhoz, hogy a kibogozhatatlannak tűnő rejtélyek megoldódjanak, két férfira, két halálos ellenségre van szükség. Brandon Scofieldnak az amerikai, és Alekszandr Talejnyikovnak, a szovjet hírszerzés szuperügynökének nincs más választása, mint félretenni személyes bosszúvágyát, összefogni a gyűlölt ellenséggel, hogy Korzikán, a Szovjetunión, Németországon, Olaszországon, Párizson és Londonon át az Egyesült Államokba visszajutva feltárják a nemcsak őket, hanem az általuk hitt értékeket is pusztulással fenyegető világméretű összeesküvést, megoldják a „Matarese-kör” rejtélyét, s leszámoljanak kitervelőivel. Nincs más kiút számukra, mint elfogadni a tényt, hogy csak egymásra számíthatnak – ők, az ősellenségek. <br>Robert Ludlum, a politikai kalandregények mestere, legkiválóbb erényeit vonultatja fel ebben a sodró lendületű, rendkívül izgalmas történetben, amely már az első lapjain megragadja, és a szerzőre jellemző dupla csavaros végkifejletig nem is engedi lankadni az olvasó figyelmét.</p></div>
 
 
+<hr/>
 # <a name="id_36">Robert Ludlum: Matarese Klán(2) (Matarese Klán 2) </a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Matarese%20Klan%282%29%20%2836%29/cover.jpg" alt="cover" width="300"/>
 
 ### Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Matarese%20Klan%282%29%20%2836%29/Matarese%20Klan%282%29%20-%20Robert%20Ludlum.epub)
 
+<hr/>
 # <a name="id_772">Robert Ludlum: Csak tanú ne maradjon! (1988)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Csak%20tanu%20ne%20maradjon%21%20%28772%29/cover.jpg" alt="cover" width="300"/>
 
@@ -99,6 +107,7 @@ A tudományos világban általánosan elterjedt vélemény szerint még évek ke
 Hosszú ​hetekig vezette az amerikai bestsellerlistát ezzel a regényével Robert Ludlum, aki mindmáig a legnépszerűbb lektűrírók egyike. Ludlumnak nem ez az egyetlen regénye, mely a második világháborúban játszódik, de alighanem ez a legeredetibb, mint ahogy igazán „ eredeti” az ötlet is, amely részint az amerikai titkosszolgálat, részint a Gestapo berkeiben vetődött fel, s amely kétségtelenül az egész háború legcinikusabb akciójává vált. 1944-ben ugyanis mind a náci hadvezetőségnek, mind az amerikai főparancsnokságnak súlyos gondjai támadtak. Egyrészt Peenemündében, a Keleti-tenger mellékén, ahol a német „csodafegyver”, ,a V-2 közvetlenül a befejezés előtt állt, elfogyott a speciális ipari gyémántkészlet; másrészt a normandiai partraszállást előkészítő szövetséges légi főparancsnokság (az érdekelt amerikai konszernek üzleti ellenállása miatt) nem tudta megoldani egy döntő fontosságú repülőgépműszer előállítását, és ez az egész inváziós hadműveletet veszélybe sodorta. Ekkor született meg a „nagy tipp”. Mivel mind a két fél rendelkezik azzal, amire a másik rászorul – cseréljenek! Az akció üzleti bonyolítását Rhinemann, a bankár vállalta, a technikai lebonyolítást pedig az amerikai titkosszolgálat egyik tapasztaltabb tisztjére, David Spauldingra bízták. Csakhogy sem Rhinemann, sem Spaulding nem tudott arról, hogy a nácik és az amerikaiak a csereüzleten kívül abban is megállapodtak, hogy a csereüzletet végrehajtó személyeket egytől egyig elteszik láb alól. CSAK TANÚ NE MARADJON! A mit sem sejtő Spaulding egy véletlen esemény nyomán döbben rá arra, hogy valójában mi is vár reá…
 
 
+<hr/>
 # <a name="id_38">Robert Ludlum: A Skorpió illúzió I-II. (2000)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/A%20Skorpio%20illuzio%20I-II_%20%2838%29/cover.jpg" alt="cover" width="300"/>
 
@@ -113,6 +122,7 @@ Hosszú ​hetekig vezette az amerikai bestsellerlistát ezzel a regényével Ro
 És Amaya Bajaratt, a gyönyörű, csábító nő, a mindenre elszánt, szakszerűen kiképzett „gyilkos fegyver” elindul, hogy végrehajtsa a legvakmerőbb terroristaakciót, amit ember csak kitervelhetett. Kémszervezetek sora lép ellenakcióba, de a végzetet csupán egyvalaki állíthatja meg. Egy férfi, akinek elszámolnivalója van a világ összes terroristájával…
 
 
+<hr/>
 # <a name="id_39">Robert Ludlum: A Skorpió illúzió I-II. (2000)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/A%20Skorpio%20illuzio%20I-II_%20%2839%29/cover.jpg" alt="cover" width="300"/>
 
@@ -127,6 +137,7 @@ Hosszú ​hetekig vezette az amerikai bestsellerlistát ezzel a regényével Ro
 És Amaya Bajaratt, a gyönyörű, csábító nő, a mindenre elszánt, szakszerűen kiképzett „gyilkos fegyver” elindul, hogy végrehajtsa a legvakmerőbb terroristaakciót, amit ember csak kitervelhetett. Kémszervezetek sora lép ellenakcióba, de a végzetet csupán egyvalaki állíthatja meg. Egy férfi, akinek elszámolnivalója van a világ összes terroristájával…
 
 
+<hr/>
 # <a name="id_34">Robert Ludlum: Holcroft szövetség (2001)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Holcroft%20szovetseg%20%2834%29/cover.jpg" alt="cover" width="300"/>
 
@@ -146,6 +157,7 @@ Pedig ellenfelei már felkészülten várják, halálát ugyanolyan alaposan elt
 Végezetül: Ludlum eme korai regénye rendkívül izgalmas és érdekfeszítő. Az olvasó többször úgy érzi, le kellene tennie, félbe kéne hagynia. A kíváncsiság azonban minden alkalommal erősebbnek bizonyul, s így továbbra is izgulhatunk a jó győzelméért, a pénz sorsáért. A befejezés minden előzetes elképzelést megcáfol, már csak ezért is érdemes elolvasni a könyvet. Érdekes elképzelés a nácik háború utáni terveiről.
 
 
+<hr/>
 # <a name="id_41">Robert Ludlum: Parsifal mozaik (2004)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Parsifal%20mozaik%20%2841%29/cover.jpg" alt="cover" width="300"/>
 
@@ -159,6 +171,7 @@ Végezetül: Ludlum eme korai regénye rendkívül izgalmas és érdekfeszítő.
 Michael Havelock számára egy holdsütötte Costa Brava-tengerparton összedőlt a világ. Saját ügynökségének emberei a szeme láttára lőtték szitává társát és szerelmét, Jenna Karast. Havelock úgy érzi, hogy végleg ki kell szállnia a játékból. Egészen addig, amíg egy zsúfolt római pályaudvar nyüzségésben meg nem pillantja Jennát – élve. Havelock abban a pillantaban céltáblává változik: amerikai és szovjet bérgyilkosok üldözik, ő menekül, s közben hajszolja Jennát, a szépséges árulót, így lesz egyre inkább foglya egy sötét csalásokból, árulásokból kirakott mozaiknak, amelyet egy nagyhatalmú, titokzatos férfi alakít kénye-kedve szerint: Parsifal.
 
 
+<hr/>
 # <a name="id_42">Robert Ludlum: Parsifal mozaik (2004)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/Parsifal%20mozaik%20%2842%29/cover.jpg" alt="cover" width="300"/>
 
@@ -172,6 +185,7 @@ Michael Havelock számára egy holdsütötte Costa Brava-tengerparton összedől
 Michael Havelock számára egy holdsütötte Costa Brava-tengerparton összedőlt a világ. Saját ügynökségének emberei a szeme láttára lőtték szitává társát és szerelmét, Jenna Karast. Havelock úgy érzi, hogy végleg ki kell szállnia a játékból. Egészen addig, amíg egy zsúfolt római pályaudvar nyüzségésben meg nem pillantja Jennát – élve. Havelock abban a pillantaban céltáblává változik: amerikai és szovjet bérgyilkosok üldözik, ő menekül, s közben hajszolja Jennát, a szépséges árulót, így lesz egyre inkább foglya egy sötét csalásokból, árulásokból kirakott mozaiknak, amelyet egy nagyhatalmú, titokzatos férfi alakít kénye-kedve szerint: Parsifal.
 
 
+<hr/>
 # <a name="id_801">Robert Ludlum: A Chancellor kézirat (2005)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Ludlum/A%20Chancellor%20kezirat%20%28801%29/cover.jpg" alt="cover" width="300"/>
 

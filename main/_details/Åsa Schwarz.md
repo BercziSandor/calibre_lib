@@ -1,3 +1,4 @@
+<hr/>
 # <a name="id_683">Åsa Schwarz: Nefilim (Nova Barakel 1) (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Asa%20Schwarz/Nefilim%20%28683%29/cover.jpg" alt="cover" width="300"/>
 
@@ -12,6 +13,7 @@
 <p>Stockholm, Svédország, napjainkban<br>Nova Barakel, az elszánt Greenpeace-aktivista betör a Vattenfall AB energetikai cég vezetőjének otthonába, hogy különféle szlogenekkel írja tele a falakat. Svédország első számú környezetszennyezője végre megkapja, amit érdemel! Csakhogy valaki csapdába csalta a lányt. A cégvezetőt ugyanis meggyilkolták, méghozzá felettébb brutális módon. Nova elmenekül a bűntett helyszínéről, de sajnos hátrahagy néhány árulkodó nyomot, így ő lesz a gyilkosság legfőbb gyanúsítottja.<br>A mindenre elszánt lány megpróbálja kideríteni, ki bízta meg a gyilkost, és hogy miért éppen az általuk feketelistára helyezett környezetszennyezőkre vetett szemet. De vajon mit jelentenek a vízözönre és Noé bárkájára utaló jelek? Ki kutatta át Nova stockholmi lakását? És mindenekelőtt: ki akarja Novára kenni a gyilkosságokat?<br>És látá az Úr, hogy megsokasult az ember gonoszsága a földön, és hogy szíve gondolatának minden alkotása szüntelen csak gonosz.<br>(1 Móz 6,5)</p></div>
 
 
+<hr/>
 # <a name="id_684">Åsa Schwarz: Halott angyal (Nova Barakel 2) (2011)</a>
 <img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Asa%20Schwarz/Halott%20angyal%20%28684%29/cover.jpg" alt="cover" width="300"/>
 
