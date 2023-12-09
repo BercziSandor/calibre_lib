@@ -2,13 +2,13 @@
 # <a name="id_474">Konrad Lorenz: Ember és kutya (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Konrad%20Lorenz/Ember%20es%20kutya%20%28474%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Konrad%20Lorenz/Ember%20es%20kutya%20%28474%29/Ember%20es%20kutya%20-%20Konrad%20Lorenz.epub)
 
-### Tagek
+## Tagek
 [állat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llat.md), [állattartás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llattart%c3%a1s.md), [állattörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llatt%c3%b6rt%c3%a9net.md), [állatvédelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llatv%c3%a9delem.md), [etológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/etol%c3%b3gia.md), [igaz történet alapján](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/igaz%20t%c3%b6rt%c3%a9net%20alapj%c3%a1n.md), [ismeretterjesztő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ismeretterjeszt%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [osztrák szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/osztr%c3%a1k%20szerz%c5%91.md), [természettudomány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/term%c3%a9szettudom%c3%a1ny.md), [zoológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/zool%c3%b3gia.md), [kutya](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kutya.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>A ​világhírű tudós – aki kitűnő humorú írónak bizonyul ebben a könyvében is – hosszú évek tapasztalatait írja meg nagyszerűen felépített kis kutyatörténeteiben. Mint etológus arra keres feleletet, mi az ami az emberi és állati magatartásformákat megkülönbözteti és ugyanakkor arra is – mi az ami összekapcsolja őket. Könyvében arról is ír röviden, hogyan alakult ki az ember és kutya évezredes kapcsolata, de sokkal inkább foglalkoztatja a kutya és gazdája mai helyes „együttélési” szabályainak sok kérdése. Tanácsai arra vonatkoznak ki milyen kutyát válasszon, milyen szoktatási módszereket tekinthetünk emberhez és állathoz méltónak, milyen tapasztalatai vannak az egyes kutyafajtákkal kapcsolatban.<br>A sok kitűnő etológiai és természeti megfigyelés ellenére sem szakkönyvet tart a kezében az olvasó. Nagyszerűen felépített, szórakoztató, irodalmi igényeket is kielégítő olvasmány ez, melynek minden sorából az élőlények iránti szeretet, gyengédség és tisztelet árad. Egyszerű stílusa, árnyalt, sokszínű humora bizonyára éppúgy megragad majd mindenkit, mint ahogyan ez előző könyvénél, a Salamon király gyűrűjé-nél történt.</p></div>
 

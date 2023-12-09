@@ -2,13 +2,13 @@
 # <a name="id_1452">Salman Rushdie: Fúriadüh (2019)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Salman%20Rushdie/Furiaduh%20%281452%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Salman%20Rushdie/Furiaduh%20%281452%29/Furiaduh%20-%20Salman%20Rushdie.azw3)
 
-### Tagek
+## Tagek
 [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1001%20k%c3%b6nyv%20list%c3%a1n%20szerepel.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [indiai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/indiai%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [mágikus realizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gikus%20realizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [new york](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/new%20york.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>„Az ​élet maga a düh… szexuális, ödipális, politikai, mágikus, brutális… a legszebb magasságainkba és a legdurvább mélységeinkbe hajt bennünket… Ezek vagyunk, ennek az álcázására neveljük magunkat – a bennünk rejlő, rettenetes emberi állatéra, a teremtés szertelen, transzcendens, önpusztító, gátlástalan uráéra. Az öröm csúcsaira emeljük egymást. Kitépjük egymás kurva tagjait.” <br>Malik Solanka, az eszmetörténész és babakészítő egy napon kilép az életéből, egyetlen magyarázó szó nélkül otthagyja családját, és elszökik New Yorkba. Düh tombol benne, ezért attól fél, hogy veszélybe sodorja azokat, akiket szeret. A példátlan bőség idején, Amerika gazdagságának és hatalmának tetőpontján érkezik meg New Yorkba, ahol le akarja „radírozni” magát. Falj fel, Amerika, imádkozik, és adj békességet. Körötte azonban mindenütt ott a düh. A taxisofőrök szitkokat fröcsögnek. Egy sorozatgyilkos betondarabbal öli a nőket. A metropolisz pitiáner csetepatéi és zsigeri bosszúságai beborítják. De közben elszabadulnak az ő gondolatai, érzelmei és vágyai is. Két fiatal nő is magával ragadja. Az egyik Mila Milo, az utca laza császárnője, a számítógépkalózok királynője, aki Szerbiából menekült Amerikába, a másik Neela Mahendra, aki még messzebbről, a csendes-óceáni Lilliput-Blefuscu polgárháború dúlta szigetéről érkezett. Volt feleségével kiegészülve ők testesítik meg a három Fúriát, akiknek sikolyától Malik Solanka egyre csak menekül. <br>Salman Rushdie műve egyszerre könyörtelen és szurokfekete komédia, az emberi természet legsötétebb oldalának zavarbeejtő feltárása és igéző erejű szerelmi történet. Megdöbbentő képet rajzol ugyanakkor New Yorkról is, amelyet pontosan a könyv megjelenésekor sújtott a szeptember 11-i terrortámadás, s ezért talán Rushdie az utolsó, aki hűen ábrázolhatta azt a valaha volt, és soha többé ugyanúgy nem létező várost.</p></div>
 

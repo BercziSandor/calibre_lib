@@ -2,13 +2,13 @@
 # <a name="id_745">Kenneth Roberts: Északnyugati átjáró (1992)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kenneth%20Roberts/Eszaknyugati%20atjaro%20%28745%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Kenneth%20Roberts/Eszaknyugati%20atjaro%20%28745%29/Eszaknyugati%20atjaro%20-%20Kenneth%20Roberts.epub)
 
-### Tagek
+## Tagek
 [18. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/18.%20sz%c3%a1zad.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/er%c5%91szak.md), [felfedezés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/felfedez%c3%a9s.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyarmatosítás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyarmatos%c3%adt%c3%a1s.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1bor%c3%ba.md), [indián](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/indi%c3%a1n.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [kanada](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kanada.md), [katonaság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/katonas%c3%a1g.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [london](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/london.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>A lebilincselően izgalmas történet főhőse Rogers őrnagy, a Rangerek parancsnoka, aki úttalan utakon, Kanada érintetlen őserdein keresztül vezeti maroknyi csapatát győzelemre. A természet legyőzője, a kemény katona azonban nem tud megbirkózni kora társadalmának kicsinyes, szűk látókörű emberivel és sorsa tragikus kietlenségbe torkollik. A széles ívelésű történet hátterét a francia és angol gyarmatosítók harca, az indián törzsek fokozatos visszaszorításának és az amerikai függetlenségi háborúnak a históriája adja.</p></div>
 

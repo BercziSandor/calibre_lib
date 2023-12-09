@@ -2,13 +2,13 @@
 # <a name="id_422">Arthur Ransome: Fecske-völgy (Fecskék és Fruskák 2) (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Arthur%20Ransome/Fecske-volgy%20%28422%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Arthur%20Ransome/Fecske-volgy%20%28422%29/Fecske-volgy%20-%20Arthur%20Ransome.epub)
 
-### Tagek
+## Tagek
 [1930-as évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1930-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [hajótörés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/haj%c3%b3t%c3%b6r%c3%a9s.md), [hajózás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/haj%c3%b3z%c3%a1s.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [kamasz főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kamasz%20f%c5%91szerepl%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [szünidő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%bcnid%c5%91.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [angol](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol.md), [európa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/eur%c3%b3pa.md), [az író származása szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/az%20%c3%adr%c3%b3%20sz%c3%a1rmaz%c3%a1sa%20szerint.md), [gyermek- és ifjúsági irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek-%20%c3%a9s%20ifj%c3%bas%c3%a1gi%20irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [regények](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9nyek.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [kalandregények](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9nyek.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [nagy-britannia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nagy-britannia.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [tartalom szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tartalom%20szerint.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>Szervusztok ​gyerekek! Itt vagyunk megint! Az ám, mi vagyunk: a Fecskék és a Fruskák! Hiszen ismeritek már nagy kalandjainkat, pompás vakációs históriáinkat a „Fecskék és Fruskák” című kötetből. A történet, amelyről ebben a könyvben olvashattok, a felfedezéseinkről szól .Régebben ezen a címen jelent meg: Fecskék és Fruskák , a Felfedezők – dehát a Fecske-völgy mégiscsak jobban illik hozzá, mivelhogy a völgyet mi, a Fecskék fedeztük fel, amikor kis vitorlásunkkal zátonyra futottunk és …. Na, hogy aztán mi történt legyen ennek a könyvnek a titka. Még csak annyit: Arthur Ransome, híres angol író, aki ezt a könyvet írta, nagyon jól ismer bennünket, és biztosan nem unalmában találta ki a kalandjainkat. Hallhatott rólunk, megleshetett minket egyszóval úgy ismer, mint hús-vér gyerekeket ismer az ember. Igazán. Vagyis ami velünk történt, akár veletek is megeshet bármikor. Éppen csak egy kis képzelet kell hozzá. Mert elhihetitek, mi voltaképpen jó gyerekek vagyunk, a kalandok egy része a képzeletünkben zajlik – azazhogy marad még a kalandokból elég hogy a valósában is átéljük.</p></div>
 
@@ -17,13 +17,13 @@
 # <a name="id_423">Arthur Ransome: A kincskeresők (Fecskék és Fruskák 3) (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Arthur%20Ransome/A%20Kincskeresok%20%28423%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Arthur%20Ransome/A%20Kincskeresok%20%28423%29/A%20kincskeresok%20-%20Arthur%20Ransome.epub)
 
-### Tagek
+## Tagek
 [1930-as évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1930-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kamasz főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kamasz%20f%c5%91szerepl%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [angol](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>A Fecskék és a Fruskák izgalmas kalandra indulnak! Flint kapitány nagy vitorlásán, a Vadmacskán már az óceánnak vágnak neki, ráadásul egy vérbeli veterán tengerész, a Fecske-völgyből már ismert Peter Duck, a gyerekek képzeletbeli barátja lesz az útitársuk. Útjuk célja pedig nem kevesebb, mint egy elásott kincs felkutatása egy magányos szigeten. Vajon sikerrel járnak-e, miközben az út során veszedelmekkel, kalózokkal, viharokkal kell szembenézniük?<br>A Fecskék és Fruskák-sorozat újabb, időrendben harmadik kötete, amely tulajdonképpen „mese a mesében”, most jelenik meg első alkalommal magyar nyelven.</p></div>
 
@@ -32,13 +32,13 @@
 # <a name="id_429">Arthur Ransome: Téli szünidő (Fecskék és Fruskák 4) (2012)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Arthur%20Ransome/Teli%20szunido%20%28429%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Arthur%20Ransome/Teli%20szunido%20%28429%29/Teli%20szunido%20-%20Arthur%20Ransome.epub)
 
-### Tagek
+## Tagek
 [1930-as évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1930-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [kamasz főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kamasz%20f%c5%91szerepl%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [tél](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a9l.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [angol](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>A Fecskék és a Fruskák – a Walker gyerekek meg a Blackett lányok – összeszokott hatos fogata új tagokkal gyarapodik: két városi gyerek, Dick és Dorothea tölti téli szünidejét egy közeli tanyán. Ezúttal téli pihenőn vannak a vitorlás hajók, a kalandok most jégen és havon folytatódnak – a cél pedig nem más, mint az „Északi-sark” meghódítása. Természetesen itt is rengeteg viszontagságot kell kiállniuk, sok kalamajkába sodorja őket kalandvágyó természetük – még szerencse, hogy Nancy „kapitány” mumpsza révén egyhavi vesztegzár hosszabbítja meg a véges szünidőt. Flint kapitány is idejében érkezik hogy egyengesse a merész gyerekek útját, akik azonban megmutatják egymásnak és az „eszkimók” – a felnőttek – világának, hogy hóban-fagyban is éppúgy megállják a helyüket, mint szárazon és vízen.</p></div>
 
@@ -47,13 +47,13 @@
 # <a name="id_431">Arthur Ransome: Galambposta (Fecskék és Fruskák 6) (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Arthur%20Ransome/Galambposta%20%28431%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Arthur%20Ransome/Galambposta%20%28431%29/Galambposta%20-%20Arthur%20Ransome.epub)
 
-### Tagek
+## Tagek
 [1930-as évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1930-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [carnegie-medál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/carnegie-med%c3%a1l.md), [galamb](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/galamb.md), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kamasz főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kamasz%20f%c5%91szerepl%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [szünidő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%bcnid%c5%91.md), [nagy-britannia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nagy-britannia.md), [európa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/eur%c3%b3pa.md), [az író származása szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/az%20%c3%adr%c3%b3%20sz%c3%a1rmaz%c3%a1sa%20szerint.md), [gyermek- és ifjúsági irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek-%20%c3%a9s%20ifj%c3%bas%c3%a1gi%20irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [regények](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9nyek.md), [gyerektörténetek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyerekt%c3%b6rt%c3%a9netek.md), [kalandregények](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9nyek.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [tartalom szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tartalom%20szerint.md)
 
-### Összefoglalás
+## Összefoglalás
 <p class="description">Arhur Ransome, a híres angol ifjúsági író egész sorozatot írt kedves gyerekhőseinek kalandjaiból. A gyerekeket a sorozat első kötetében mint Fecskéket, ill. Fruskákat ismertük meg. Ebben a kötetben is így nevezik egymást. Kalandjainak színtere ezúttal egy kimerültnek hitt és régen elhagyott bányavidék, ahová kincskutatásra indulnak. A nagy expedíció sikerét azonban folyton kétségessé teszi egy titokzatos és csöppet sem bizalomgerjesztő idegen, akinek téblábolását ifjú hőseink nagyon is gyanúsnak vélik. Annyi biztos, kedves barátainkat, a Fecskéket és a Fruskákat ezúttal komoly veszélyben találjuk: hol erdőtűz, hol meg bányaomlás teszi próbára őket. Szerencsére velük vannak okos postagalambjaik.</p>
 
 
@@ -61,13 +61,13 @@
 # <a name="id_430">Arthur Ransome: Nem akartunk tengerre szállni (Fecskék és Fruskák 7) (1998)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Arthur%20Ransome/Nem%20akartunk%20tengerre%20szallni%20%28430%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Arthur%20Ransome/Nem%20akartunk%20tengerre%20szallni%20%28430%29/Nem%20akartunk%20tengerre%20szallni%20-%20Arthur%20Ransome.epub)
 
-### Tagek
+## Tagek
 [1930-as évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1930-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [atlanti-óceán](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/atlanti-%c3%b3ce%c3%a1n.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [gyermekkönyv iskolásoknak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekk%c3%b6nyv%20iskol%c3%a1soknak.md), [hajó](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/haj%c3%b3.md), [hajózás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/haj%c3%b3z%c3%a1s.md), [kamasz főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kamasz%20f%c5%91szerepl%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [angol](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>A Walker gyerekek régi jó barátaink. Ismerjük változatos és érdekes kalandjaikat a Fecskék és Fruskák, a Galambposta és más regényekből, amelyekkel Arthur Ransome az angol gyerekirodalom nagy alakja ajándékozta meg ifjú olvasóit. Ifjú barátaink ezúttal igazán veszélyes kalandot élnek át. Amint az a könyv címéből is kitűnik, éppen csak vitorlázgatni szerettek volna a tengerparti öbölben – méghozzá nem is egyedül. Egy érettségizett nagyfiú egy valóságos „felnőtt” viszi el őket rövid kirándulásra, hogy aztán egyik óráról a másikra minden összekuszálódjék, a nagyfiú eltűnik, a köd gomolyog, majd feltámad a szél, aztán…. de hát a többit már ez a nagyszerű regény mesélje el!</p></div>
 

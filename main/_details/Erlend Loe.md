@@ -2,13 +2,13 @@
 # <a name="id_531">Erlend Loe: Doppler, az utak királya (Doppler 2) (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erlend%20Loe/Doppler%2C%20az%20utak%20kiralya%20%28531%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Erlend%20Loe/Doppler%2C%20az%20utak%20kiralya%20%28531%29/Doppler%2C%20az%20utak%20kiralya%20-%20Erlend%20Loe.epub)
 
-### Tagek
+## Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [cserkész](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cserk%c3%a9sz.md), [drog](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/drog.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [norvég szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/norv%c3%a9g%20szerz%c5%91.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [társadalomkritika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1rsadalomkritika.md), [európa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/eur%c3%b3pa.md), [az író származása szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/az%20%c3%adr%c3%b3%20sz%c3%a1rmaz%c3%a1sa%20szerint.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [norvégia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/norv%c3%a9gia.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>Erlend ​Loe hatodik, Doppler, az utak királya című regényében a fő-antihős, Andreas Doppler és jóléti partizáncsapata ott folytatja, ahol a Doppler (Scolar Kiadó, 2006) utolsó lapjain abbahagyta, s a szerző ígéretéhez híven tovább vívja harcát. Ugyanis még mindig háború dúl. Háború. Amelyet azért mégsem kell véresen komolyan venni. Például ki lehet belőle szállni, ha kezd kínossá válni a helyzet. Az írói én egyes szám első személyről egyes szám harmadik személyre vált, és fokozatosan kívülállóvá válva hagyja, hogy antifőhőse önmaga karikatúrájáva váljék. Vad neoanarchistából egy békés, konformista gondolatkísérlet alanyává szelídülve lehetővé teszi az olvasó számára a vele való teljes azonosulást. Doppler jellemének fogyaszthatóvá tétele így megengedi, hogy anélkül kövessük az ő példáját, hogy közben fel kelljen állnunk a fotelből, s elég, ha magunknak bevalljuk: ennél többet mi sem várunk el sem tőle, sem pedig önmagunktól. Hiszen tőrölmetszett anarchistának születni kell, ám az árát is komolyan megkérik – ezt a folytatás igazi hőse, Maj Britt példája mutatja a legjobban. Hozzá képest Doppler művagány, annak viszont őszinte és szerethető – pont olyan, amilyen az olvasó lenne az ő helyében.</p></div>
 
@@ -17,13 +17,13 @@
 # <a name="id_532">Erlend Loe: Naiv.Szuper. (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erlend%20Loe/Naiv.Szuper_%20%28532%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Erlend%20Loe/Naiv.Szuper_%20%28532%29/Naiv.Szuper_%20-%20Erlend%20Loe.epub)
 
-### Tagek
+## Tagek
 [1990-es évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1990-es%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [usa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/usa.md), [énregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9nreg%c3%a9ny.md), [fiatalkor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiatalkor.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [játék](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/j%c3%a1t%c3%a9k.md), [játékterápia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/j%c3%a1t%c3%a9kter%c3%a1pia.md), [kapunyitási pánik](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kapunyit%c3%a1si%20p%c3%a1nik.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [minimalista próza](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/minimalista%20pr%c3%b3za.md), [new york](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/new%20york.md), [norvég szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/norv%c3%a9g%20szerz%c5%91.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [testvérek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/testv%c3%a9rek.md), [utazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/utaz%c3%a1s.md), [világegyetem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vil%c3%a1gegyetem.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [norvég](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/norv%c3%a9g.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>A Naiv.Szuper. egy 25 éves szemszögéből mutatja be azt a generációt, amely nem találja meg az élet értelmét, nem látja az ahhoz vezető utat és céltalan pótcselekvésekkel igyekszik megtalálni a helyét a világban. Hősünk egyszerűen gondolkodik az életről. Listákat ír a számára fontos és nem fontos dolgokról, labdázik és faxol, kínjában még New Yorkba is elrepül… Erlend Loe regénye elgondolkodtatja az olvasót az életről és a halálról, a jövőről és a gyermekeinkről. Több országban kultuszregényként tartják számon.</p></div>
 

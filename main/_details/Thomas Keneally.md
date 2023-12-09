@@ -2,15 +2,15 @@
 # <a name="id_318">Thomas Keneally: Schindler listája (2006)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Keneally%2C%20Thomas/Schindler%20listaja%20%28318%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Keneally%2C%20Thomas/Schindler%20listaja%20%28318%29/Schindler%20listaja%20-%20Keneally%2C%20Thomas%20%28Case%20Conflict%29.epub) 
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Keneally%2C%20Thomas/Schindler%20listaja%20%28318%29/Schindler%20listaja%20-%20Keneally%2C%20Thomas.epub) 
  [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Keneally%2C%20Thomas/Schindler%20listaja%20%28318%29/Schindler%20listaja%20-%20Thomas%20Keneally.epub)
 
-### Tagek
+## Tagek
 [2. világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/2.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [ausztrál szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ausztr%c3%a1l%20szerz%c5%91.md), [booker-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/booker-d%c3%adj.md), [igaz történet alapján](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/igaz%20t%c3%b6rt%c3%a9net%20alapj%c3%a1n.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md), [holokauszt](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/holokauszt.md), [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1001%20k%c3%b6nyv%20list%c3%a1n%20szerepel.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>Az ​ausztrál író immár bestsellerré vált regénye Oskar Schindler, egykori német gyárosnak állít emléket. Schindler született üzletember és szerencsejátékos. Idejekorán belép a náci pártba, s egyetlen célja: élvezni az életet, a pénzt és a szép nőket. A második világháború elején a gyors meggazdagodás reményében költözik Krakkóba, és azonnal megérzi, milyen hatalmas üzleti lehetőségek nyílhatnak meg előtte. Baráti kapcsolatok és némi ügyeskedés révén megszerez magának egy gyárat, és nem győz eleget tenni a Hitler hadseregétől beözönlő megrendeléseknek. Mivel kitűnő viszonyban van a náci vezetéssel, vállalkozásához minden támogatást megkap, gyárába a zsidó gettóból toborozhat olcsó munkaerőt.<br>A sorozatos kivégzések és megaláztatások azonban, amiknek maga is tanúja lesz, rádöbbentik, mi is történik valójában. Lassan szembesül a ténnyel, hogy a rendszer, amelyet kiszolgál, és amelynek hasznát élvezi, egy embertelen, gyilkos rendszer, amely ártatlanokat küld a halálba. A koncentrációs táborok és a hidegvérű gyilkosságok láttán meggyűlöli a fasizmust, s ettől kezdve minden eszközzel, csellel és megvesztegetéssel igyekszik zsidó munkásainak, mintegy másfélezer embernek az életét megmenteni.<br>A regény egy ellentmondásos hős története, aki bebizonyítja, hogy egyetlen ember is képes lehet arra, hogy a körülmények ellenére megváltoztassa a dolgok menetét, és azok drámája, akik az ő segítségével élik túl az emberi történelem egyik legsötétebb fejezetét.</p></div>
 

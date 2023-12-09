@@ -2,7 +2,7 @@
 # <a name="id_1818">Alaine Polcz: Egész lényeddel (2005)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Alaine%20Polcz/Egesz%20lenyeddel%20%281818%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>„Egész lényeddel” című könyve férjéhez, – a néhány éve elhunyt – Mészöly Miklós íróhoz fűződő szerelméről, élethosszig tartó szerető gondoskodásáról, kapcsolatuk – házasságuk – több, mint ötven évéről, a halálra való készülődésről és a gyászról szól. Az olvasó találkozhat az élettel teli, alkotó Mészöly Miklóssal, láthatja öregségében, és leülhet egy pillanatra felesége mellé elbúcsúzni a haldoklótól." </p>
 <p>A cím nagyon kifejező, hisz a könyv végsősoron „az ember egész lényében élő szeretetről szól”. Az írónő saját bevallása szerint a szerelemről ír könyvet. De a nagy kérdés kutatásán kívül beavat férje egy-egy írásába, illetve azok hátterébe. Kik voltak az egyes szereplők mögött lévő valós személyek, illetve hogyan gondolta Mészöly azt, amit leírt. </p>

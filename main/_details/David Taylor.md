@@ -2,13 +2,13 @@
 # <a name="id_473">David Taylor: Hogyan lettem állatkerti orvos (1990)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/David%20Taylor/Hogyan%20lettem%20allatkerti%20orvos%20%28473%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/David%20Taylor/Hogyan%20lettem%20allatkerti%20orvos%20%28473%29/Hogyan%20lettem%20allatkerti%20orvos%20-%20David%20Taylor.epub)
 
-### Tagek
+## Tagek
 [állat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llat.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [állatgyógyászat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llatgy%c3%b3gy%c3%a1szat.md), [állatkert](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llatkert.md), [életrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letrajz.md), [nagy-britannia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nagy-britannia.md), [európa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/eur%c3%b3pa.md), [az író származása szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/az%20%c3%adr%c3%b3%20sz%c3%a1rmaz%c3%a1sa%20szerint.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [tartalom szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tartalom%20szerint.md), [állatregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llatreg%c3%a9ny.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>David ​Taylor egyike a kevés számú független állatorvosoknak, akik egzotikus állatok gyógyítására specializálódtak; állatkertek, delfináriumok, szafari parkok állandó tanácsadója. Könyvében izgalmasan írja le a sokrétű munkája közben szerzett élményeit, tapasztalatait. Mi a teendő, ha… … a puma lenyeli a gombolyag spárgát? …az óriáskígyó szorosan egybeöleti az orvost tulajdonosával, egy sztriptíztáncosnővel? …a frissen kifogott delfinkölyök lélegzetét visszatartva próbál öngyilkos lenni? …két vadszamarat kell befogni az Amszterdam közeli, csatornákkal szabdalt óriás mezőkön? …kétezerötszáz kilométerre tizenkét, túlérett őszibarackkal teletömött zsiráf a végét járja? …véletlenül rájön, hogy lelkiismeretlen emberek hogyan használják fel a tevéket a bűn futáraiként? …megtudja, az ártalmatlan tengeritehenet azért tartják fogságban, mert könnyei növelik a férfiak szerelmi képességeit? Ilyen és még számos különös problémával kellett D. Taylornak szembenéznie, amikor vadállatok orvoslásával kezdett foglalkozni. Humoros történetei sohasem öncélúak, mindig az állatok megmentése, gyógyítása, körülményeik jobbítása a cél.</p></div>
 

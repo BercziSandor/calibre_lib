@@ -2,13 +2,13 @@
 # <a name="id_530">Albert, Györgyi: Miért pont én? (2005)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Albert%2C%20Gyorgyi/Miert%20pont%20en_%20%28530%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Albert%2C%20Gyorgyi/Miert%20pont%20en_%20%28530%29/Miert%20pont%20en_%20-%20Albert%2C%20Gyorgyi.epub)
 
-### Tagek
+## Tagek
 [ismert ember](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ismert%20ember.md), [önéletrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6n%c3%a9letrajz.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 
 <p class="MsoNormal"><i style="mso-bidi-font-style:normal">Tizenkét éve

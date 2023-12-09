@@ -2,13 +2,13 @@
 # <a name="id_357">Erich Maria Remarque: Éjszaka Lisszabonban (Eroica könyvek 1) (1991)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Maria%20Remarque/Ejszaka%20Lisszabonban%20%28357%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Maria%20Remarque/Ejszaka%20Lisszabonban%20%28357%29/Ejszaka%20Lisszabonban%20-%20Erich%20Maria%20Remarque.epub)
 
-### Tagek
+## Tagek
 [2. világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/2.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [emigráció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/emigr%c3%a1ci%c3%b3.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1bor%c3%ba.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [koncentrációs tábor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/koncentr%c3%a1ci%c3%b3s%20t%c3%a1bor.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [német szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9met%20szerz%c5%91.md), [öngyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6ngyilkoss%c3%a1g.md), [portugália](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/portug%c3%a1lia.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md), [németország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9metorsz%c3%a1g.md), [európa](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/eur%c3%b3pa.md), [az író származása szerint](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/az%20%c3%adr%c3%b3%20sz%c3%a1rmaz%c3%a1sa%20szerint.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>1942, ​Lisszabon. A város, az ország: utolsó menedéke azoknak, akik a hitlerizmus elől menekülnek zárt határokon, őrségen, rendőrkopók és nyomozók gyűrűjén át. Portugália azért menedék, mert onnan nyílik az út a biztonság felé: Amerikába. A világszerte népszerű, sok millió példányban olvasott író regénye színhelyén is életműve nagy, izgalmas és tanulságos témáját bontja ki, vizsgálja tovább: a háborúét és az emigrációét. A történet éjszakáján két német emigráns férfi beszélget. Egyiküknek vágyálma, hogy meneküljön, de nincs se vízuma, se hajójegye. Másikuknak mind a kettő megvan. Hajóra szállnia végül mégis annak lehet majd, akinek a beszélgetés kezdetén nem voltak iratai: reggelre vannak már, mert beszélgetőtársa átadja saját iratait. Az iratairól lemondó, az emigránstársát a szabadságba segítő ember képtelennek tetsző nagylelkűségét, áldozatát az a történet indokolja meg, amelyet a már nem továbbmenekülni, hanem maradni akaró menekült a lisszaboni éjszakában elmond. Hányatott élete drámáját, üldöztetései történetét, szerelmének halállal zárulásáét.</p></div>
 
@@ -17,13 +17,13 @@
 # <a name="id_317">Erich Maria Remarque: Nyugaton a helyzet változatlan (Nyugaton a helyzet változatlan 1) (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Maria%20Remarque/Nyugaton%20a%20helyzet%20valtozatlan%20%28317%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Maria%20Remarque/Nyugaton%20a%20helyzet%20valtozatlan%20%28317%29/Nyugaton%20a%20helyzet%20valtozatlan%20-%20Erich%20Maria%20Remarque.epub)
 
-### Tagek
+## Tagek
 [1910-es évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1910-es%20%c3%a9vek.md), [1920-as évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1920-as%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [igaz történet alapján](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/igaz%20t%c3%b6rt%c3%a9net%20alapj%c3%a1n.md), [katonaság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/katonas%c3%a1g.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [német](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9met.md), [német szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c3%a9met%20szerz%c5%91.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [történelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelem.md), [történelmi regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%b6rt%c3%a9nelmi%20reg%c3%a9ny.md), [világtörténelem](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vil%c3%a1gt%c3%b6rt%c3%a9nelem.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1001%20k%c3%b6nyv%20list%c3%a1n%20szerepel.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [1. világháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1.%20vil%c3%a1gh%c3%a1bor%c3%ba.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1bor%c3%ba.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>Erich ​Maria Remarque 1898-ban született, s a tanárképző padjából került az első világháborúba. Húszéves korában szerelt le. Ő és társai, akikkel egyszerre vonult be, semmi egyebet nem láttak a világból, csak az iskolát és a frontot. A Nyugaton a helyzet változatlan az ő szenvedéseik és kiábrándulásuk története. Hőse, Paul Baumer, csak apró vonásokban különbözik társaitól. A lövészárok élete nagyjából egyforma emberekké gyúrja őket. A front iszonyata mindent kiéget belőlük, egyetlen erényük, egyetlen kincsük marad: a bajtársiasság. Megrázóan igaz, őszinte írás ez a regény. Óriási sikerét kétségtelen értékei mellett annak is köszönhette, hogy megjelenésekor már szükséges volt a belőle harsogó figyelmeztetés: íme, valójában ez a háború, vigyázzatok, nehogy újra belesodorjanak benneteket! Hiszen ekkoriban egy müncheni sörház asztalai mellett már a második világháború sikerére isznak az osztrák káplár hívei. De ami ebben a sodró lendületű regényben a humánum magas hőfokán megfogalmazódik, ma is eleven problémája az emberiségnek, s még sokáig nem veszíti érvényét.</p></div>
 
@@ -32,13 +32,13 @@
 # <a name="id_313">Erich Maria Remarque: Szerelem és halál órája (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Maria%20Remarque/Szerelem%20es%20halal%20oraja%20%28313%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Maria%20Remarque/Szerelem%20es%20halal%20oraja%20%28313%29/Szerelem%20es%20halal%20oraja%20-%20Erich%20Maria%20Remarque.epub)
 
-### Tagek
+## Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [war & military](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/war%20%26%20military.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [további könyveink](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/tov%c3%a1bbi%20k%c3%b6nyveink.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>Remarque talán legérettebb munkája, a Szerelem és halál órája a második világháború keleti frontján játszódik. A náci hadsereg Sztálingrád utáni fejvesztett menekülését, a felégetett orosz falvak és a bombázott német városok lakóinak gyötrelmeit tárja elénk egy humanista, töprengő, el-elbizonytalanodó fiatal katona tragikus sorsán keresztül, akit tapasztalatai és tépelődései elvezetnek az igazság felismeréséhez: "Árulás. Elárulták őket, elárulták és becsapták, a harcukat és a halálukat gyilkossággal és jogtalansággal és hazugsággal és erőszákkal kötötték egybe; félrevezették őket, kisemmizték mindenből, még a nyomorúságos, hősies, szánalmas és haszontalan halálból is." Bár e regény már 1952-53-ban íródott, ugyanaz az élmény tette halhatatlanná, mint Remarque korai remekművét, a Nyugaton a helyzet változatlant: a fájdalom a sok értelmetlenül elpusztult fiatal élet miatt és a szolidaritás a tehetetlen, kiszolgáltatott, a halál órájában már szinte pőrére vetkőzött emberrel; mindvégig a humánum legtisztább értékeit képviselve.</p></div>
 

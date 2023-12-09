@@ -2,20 +2,20 @@
 # <a name="id_890">Neil Gaiman: Shoggoth Különleges (Novellák 1) </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Shoggoth%20Kulonleges%20%28890%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Shoggoth%20Kulonleges%20%28890%29/Shoggoth%20Kulonleges%20-%20Neil%20Gaiman.epub)
 
 <hr/>
 # <a name="id_665">Neil Gaiman: 27 képtelen történet </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/27%20keptelen%20tortenet%20%28665%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/27%20keptelen%20tortenet%20%28665%29/27%20keptelen%20tortenet%20-%20Neil%20Gaiman.epub)
 
-### Tagek
+## Tagek
 [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md)
 
-### Összefoglalás
+## Összefoglalás
 <font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif"><span class="Apple-style-span" style="font-size: 12px;">A legjobb kortárs angolszász szerzők vadonatúj novellái akár a képzelet legkülső határairól merítik témájukat, akár a mindennapokból, egy közös bennük: különlegesek. Vannak köztük olyanok, melyek megborzongatnak a forróbb napokon is, mások pedig megmelengetik a lelket, ha hűvös az idő. Mesék ezek egy varázslatos, néha félelmetes, néha megmosolyogtató világról, amely a mi világunk. Mesék felnőtteknek.</span></font>
 
 
@@ -27,7 +27,7 @@
 # <a name="id_888">Neil Gaiman: Hó, tükör, almák </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ho%2C%20tukor%2C%20almak%20%28888%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ho%2C%20tukor%2C%20almak%20%28888%29/Ho%2C%20tukor%2C%20almak%20-%20Neil%20Gaiman.epub)
 
 <hr/>
@@ -38,14 +38,14 @@
 # <a name="id_896">Neil Gaiman: Elveszett Próféciák (1990)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Elveszett%20Profeciak%20%28896%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Elveszett%20Profeciak%20%28896%29/Elveszett%20Profeciak%20-%20Neil%20Gaiman.epub) 
  [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Elveszett%20Profeciak%20%28896%29/Elveszett%20Profeciak%20-%20Neil%20Gaiman.rtf)
 
-### Tagek
+## Tagek
 [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md)
 
-### Összefoglalás
+## Összefoglalás
 <p>Ha hihetünk Anges Nutter szép és pontos próféciáinak – az egyetlen teljesen megbízható jövendölésnek a világ jövőjéről –, akkor a világ egy szombati napon ér véget.<br>Ami azt illeti, most szombaton. Nem sokkal uzsonnaidő után…<br>Ami elég nagy fejtörést okoz Crowleynak, a Pokol itt ügyködő démonának (korábban kígyónak), és ellenpárjának, Azirafaelnek, aki aktív angyal és passzív antikvárius.<br>Ők ugyanis szeretnek itt lenni. Így hát meg kell állítaniuk az Apokalipszis Négy Motorosát, kivédeni a Boszorkányvadász hadsereg (létszám: két fő) támadását, mindenekelőtt pedig megtalálni – tibetiek, földönkívüliek, atlantisziak és egyéb helyi érdekek között – az Antikrisztust, akiről annyit lehet tudni, hogy jelenleg tizenegy éves és egy angol kisvárosban unatkozik…</p>
 
 
@@ -53,13 +53,13 @@
 # <a name="id_1808">Neil Gaiman: Neverwhere (1996)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Neverwhere%20%281808%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Neverwhere%20%281808%29/Neverwhere%20-%20Neil%20Gaiman.epub)
 
-### Tagek
+## Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [urban](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/urban.md), [contemporary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/contemporary.md), [literary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literary.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p><strong>“Neil Gaiman is undoubtedly one of the modern masters of fantasy writing....For those who have not read</strong> Neverwhere <strong>, the new edition is the one to read, and is a fitting introduction to Gaiman’s adult fiction....American readers can experience this spellbinding, magical world the way that Neil Gaiman wanted us to all along.” —</strong> Huffington Post <strong><br></strong></p>
 <p><strong>The #1</strong> New York Times <strong>bestselling author’s ultimate edition of his wildly successful first novel featuring his “preferred text”—and including his special</strong> Neverwhere <strong>tale, “How the Marquis Got His Coat Back”.</strong></p>
@@ -92,13 +92,13 @@
 # <a name="id_224">Neil Gaiman: Amerikai Istenek (2001)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Amerikai%20Istenek%20%28224%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Amerikai%20Istenek%20%28224%29/Amerikai%20Istenek%20-%20Neil%20Gaiman.epub)
 
-### Tagek
+## Tagek
 [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md)
 
-### Összefoglalás
+## Összefoglalás
 <p class="description">Mike Ainsell három évet töltött börtönben, ám a sorscsapások ezzel nem értek véget számára. Szabadulása előtt néhány nappal a felesége és a legjobb barátja meghal autóbalesetben, így azután első útja a temetésre vezet. Útközben találkozik egy furcsa idegennel, aki Szerda néven mutatkozik be, és munkát kínál Mikenak. A büntetett előéletű férfinak nincs más választása: elfogadja az ajánlatot, nem sejtve, hogy ezzel különös, természetfölötti események sodrába kerül. Fokozatosan derül fény Szerda sötét tervére, és egyre nyilvánvalóbbá válik, hogy a mindennapi élet felszíne alatt különös háború dúl, amelynek tétje nem más, mint Amerika lelke...</p>
 
 
@@ -106,13 +106,13 @@
 # <a name="id_1811">Neil Gaiman: Coraline (2006)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Coraline%20%281811%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Coraline%20%281811%29/Coraline%20-%20Neil%20Gaiman.epub)
 
-### Tagek
+## Tagek
 [juvenile nonfiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/juvenile%20nonfiction.md), [young adult fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/young%20adult%20fiction.md), [juvenile fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/juvenile%20fiction.md), [fantasy & magic](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy%20%26%20magic.md), [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [horror & ghost stories](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror%20%26%20ghost%20stories.md), [supernatural](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/supernatural.md), [horror stories](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror%20stories.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md)
 
-### Összefoglalás
+## Összefoglalás
 <div><h3>Amazon.com Review</h3><p>Coraline lives with her preoccupied parents in part of a huge old house--a house so huge that other people live in it, too... round, old former actresses Miss Spink and Miss Forcible and their aging Highland terriers ("We trod the boards, luvvy") and the mustachioed old man under the roof ("'The reason you cannot see the mouse circus,' said the man upstairs, 'is that the mice are not yet ready and rehearsed.'") Coraline contents herself for weeks with exploring the vast garden and grounds. But with a little rain she becomes bored--so bored that she begins to count everything blue (153), the windows (21), and the doors (14). And it is the 14th door that--sometimes blocked with a wall of bricks--opens up for Coraline into an entirely alternate universe. Now, if you're thinking fondly of <em>The Lion, the Witch, and the Wardrobe</em> or <em>Alice's Adventures in Wonderland</em>, you're on the wrong track. Neil Gaiman's <em>Coraline</em> is far darker, far stranger, playing on our deepest fears. And, like Roald Dahl's work, it is delicious. </p><p>What's on the other side of the door? A distorted-mirror world, containing presumably everything Coraline has ever dreamed of... people who pronounce her name correctly (not "Caroline"), delicious meals (not like her father's overblown "recipes"), an unusually pink and green bedroom (not like her dull one), and plenty of horrible (very un-boring) marvels, like a man made out of live rats. The creepiest part, however, is her mirrored parents, her "other mother" and her "other father"--people who look just like her own parents, but with big, shiny, black button eyes, paper-white skin... and a keen desire to keep her on <em>their</em> side of the door. To make creepy creepier, <em>Coraline</em> has been illustrated masterfully in scritchy, terrifying ink drawings by British mixed-media artist and Sandman cover illustrator Dave McKean. This delightful, funny, haunting, scary as heck, fairy-tale novel is about as fine as they come. Highly recommended. (Ages 11 and older) <em>--Karin Snelson</em></p><h3>From Publishers Weekly</h3><p>British novelist Gaiman (American Gods; Stardust) and his long-time accomplice McKean (collaborators on a number of Gaiman's Sandman graphic novels as well as The Day I Swapped My Dad for 2 Goldfish) spin an electrifyingly creepy tale likely to haunt young readers for many moons. After Coraline and her parents move into an old house, Coraline asks her mother about a mysterious locked door. Her mother unlocks it to reveal that it leads nowhere: "When they turned the house into flats, they simply bricked it up," her mother explains. But something about the door attracts the girl, and when she later unlocks it herself, the bricks have disappeared. Through the door, she travels a dark corridor (which smells "like something very old and very slow") into a world that eerily mimics her own, but with sinister differences. "I'm your other mother," announces a woman who looks like Coraline's mother, except "her eyes were big black buttons." Coraline eventually makes it back to her real home only to find that her parents are missing--they're trapped in the shadowy other world, of course, and it's up to their scrappy daughter to save them. Gaiman twines his taut tale with a menacing tone and crisp prose fraught with memorable imagery ("Her other mother's hand scuttled off Coraline's shoulder like a frightened spider"), yet keeps the narrative just this side of terrifying. The imagery adds layers of psychological complexity (the button eyes of the characters in the other world vs. the heroine's increasing ability to distinguish between what is real and what is not; elements of Coraline's dreams that inform her waking decisions). McKean's scratchy, angular drawings, reminiscent of Victorian etchings, add an ominous edge that helps ensure this book will be a real bedtime-buster. Ages 8-up.<br>Copyright 2002 Cahners Business Information, Inc. </p>
 
 </div>
@@ -122,13 +122,13 @@
 # <a name="id_1810">Neil Gaiman: The Graveyard Book (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/The%20Graveyard%20Book%20%281810%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/The%20Graveyard%20Book%20%281810%29/The%20Graveyard%20Book%20-%20Neil%20Gaiman.epub)
 
-### Tagek
+## Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [young adult](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/young%20adult.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [paranormal](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/paranormal.md), [childrens](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/childrens.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p style="font-weight: bold">IT TAKES A GRAVEYARD TO RAISE A CHILD. </p>
 <p>Nobody Owens, known to his friends as Bod, is a normal boy. He would be completely normal if he didn't live in a sprawling graveyard, being raised and educated by ghosts, with a solitary guardian who belongs to neither the world of the living nor of the dead. There are dangers and adventures in the graveyard for a boy - an ancient indigo man, a gateway to abandoned city of ghouls, the strange and terrible fleer. But if Bod leaves the graveyard, then he will be in danger from the man Jack - who has already killed Bod's family . . .</p></div>
@@ -138,13 +138,13 @@
 # <a name="id_1809">Neil Gaiman: American Gods: The Tenth Anniversary Edition: A Novel (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/American%20Gods_%20The%20Tenth%20Anniversar%20%281809%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/American%20Gods_%20The%20Tenth%20Anniversar%20%281809%29/American%20Gods_%20The%20Tenth%20Annive%20-%20Neil%20Gaiman.epub)
 
-### Tagek
+## Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>First published in 2001, American Gods became an instant classic—an intellectual and artistic benchmark from the multiple-award-winning master of innovative fiction, Neil Gaiman. Now discover the mystery and magic of American Gods in this tenth anniversary edition. Newly updated and expanded with the author’s preferred text, this commemorative volume is a true celebration of a modern masterpiece by the one, the only, Neil Gaiman. A storm is coming . . . Locked behind bars for three years, Shadow did his time, quietly waiting for the magic day when he could return to Eagle Point, Indiana. A man no longer scared of what tomorrow might bring, all he wanted was to be with Laura, the wife he deeply loved, and start a new life. But just days before his release, Laura and Shadow’s best friend are killed in an accident. With his life in pieces and nothing to keep him tethered, Shadow accepts a job from a beguiling stranger he meets on the way home, an enigmatic man who calls himself Mr. Wednesday. A trickster and rogue, Wednesday seems to know more about Shadow than Shadow does himself. Life as Wednesday’s bodyguard, driver, and errand boy is far more interesting and dangerous than Shadow ever imagined—it is a job that takes him on a dark and strange road trip and introduces him to a host of eccentric characters whose fates are mysteriously intertwined with his own. Along the way Shadow will learn that the past never dies; that everyone, including his beloved Laura, harbors secrets; and that dreams, totems, legends, and myths are more real than we know. Ultimately, he will discover that beneath the placid surface of everyday life a storm is brewing—an epic war for the very soul of America—and that he is standing squarely in its path. Relevant and prescient, American Gods has been lauded for its brilliant synthesis of “mystery, satire, sex, horror, and poetic prose” (Michael Dirda, Washington Post Book World) and as a modern phantasmagoria that “distills the essence of America” (Seattle Post-Intelligencer). It is, quite simply, an outstanding work of literary imagination that will endure for generations.</p></div>
 
@@ -153,13 +153,13 @@
 # <a name="id_1706">Neil Gaiman: Ne ess pánikba! (2012)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ne%20ess%20panikba%21%20%281706%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ne%20ess%20panikba%21%20%281706%29/Ne%20ess%20panikba%21%20-%20Neil%20Gaiman.epub)
 
-### Tagek
+## Tagek
 [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [életrajz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letrajz.md), [angol humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20humor.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p align="justify">Douglas Adams a 20. század talán legjelentősebb sci-fi írója. Népszerűségét egy Innsbruck melletti mezőn felmerült ötletnek köszönheti, melyből aztán életre kelt a Galaxis Útikalauz stopposoknak. <br>Neil Gaiman, az ismert és elismert képregény és sci-fi szerző Ne ess pánikba! című könyve Douglas Adams munkásságát élteti. A személyes beszélgetéseknek és interjúknak köszönhetően Gaiman első kézből tárja fel az olvasók előtt Adams életművét a Ki vagy, Doki? forgatókönyvektől a Dirk Gently regényeken át az Utoljára látható című útikönyvig. És természetesen mindent bemutat, ami Galaxis: az eredeti rádióműsort, a könyveket, a televíziós sorozatot, a törülköző jelentőségét, a számítógépes játékot és az internetes oldalt. A könyv, a közelmúlt eseményeit követve, mesél a mozifilmről, az első regény 30. évfordulójáról és a trilógia Eoin Colfer tollából származó hatodik, Ja, és még valami… című tagjának megjelenéséről is.</p></div>
 
@@ -168,13 +168,13 @@
 # <a name="id_1433">Neil Gaiman: Óceán az út végén (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ocean%20az%20ut%20vegen%20%281433%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ocean%20az%20ut%20vegen%20%281433%29/Ocean%20az%20ut%20vegen%20-%20Neil%20Gaiman.epub)
 
-### Tagek
+## Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [állat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1llat.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [család](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1d.md), [dark fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dark%20fantasy.md), [emlékezet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/eml%c3%a9kezet.md), [énelbeszélő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9nelbesz%c3%a9l%c5%91.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [fizikai bántalmazás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fizikai%20b%c3%a1ntalmaz%c3%a1s.md), [gyermek főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek%20f%c5%91szerepl%c5%91.md), [gyermekkor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekkor.md), [gyermekszemszög](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekszemsz%c3%b6g.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [locus-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/locus-d%c3%adj.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>AMIKOR EGY EMLÉK FELENGED, A MÚLT SZIVÁROG KI BELŐLE<br>Mit tehet egy hétéves fiú, ha az addig nyugodt, vidéki életet megzavarja valami, ami nagyobb nemcsak nála, de az általa ismert felnőtteknél, sőt az általa ismert világnál is? Ami a világon túlról jött? Hirtelen elszakad a saját családjától, és egyetlen hely van ahová mehet, egy ház a földút végén. Ebben a házban három nő lakik, három nemzedék, nagymama, anya és lánya, akik sokat láttak és még többet tudnak. Ismerik a titkos utakat és lebegő járatokat, értik a halk szavakat és a néma igéket, jártak a földeken innen és a vizeken túl. Ők segíthetnek, csakhogy mint mindennek, a segítségnek ára van.<br>Neil Gaiman új regénye a gyermekkor varázslatát mutatja a felnőttlét karcos szemüvegén át, az ártatlanság elvesztését a tapasztalat párás tükrében, hírnevéhez méltóan egy olyan történetben, amely semmihez sem hasonlít.</p></div>
 
@@ -183,13 +183,13 @@
 # <a name="id_1805">Neil Gaiman: Óceán az út végén (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ocean%20az%20ut%20vegen%20%281805%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ocean%20az%20ut%20vegen%20%281805%29/Ocean%20az%20ut%20vegen%20-%20Neil%20Gaiman.epub)
 
-### Tagek
+## Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [young adult](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/young%20adult.md), [adult](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/adult.md), [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md), [paranormal](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/paranormal.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>Amikor egy emlék felenged, a múlt szivárog ki belőle. </p>
 <p>Mit tehet egy hétéves fiú, ha az addig nyugodt, vidéki életet megzavarja valami, ami nagyobb nemcsak nála, de az általa ismert felnőtteknél, sőt az általa ismert világnál is? Hirtelen elszakad a saját családjától, és egyetlen hely van ahová mehet, egy ház a földút végén. Ebben a házban három nő lakik, három nemzedék, nagymama, anya és lánya, akik sokat láttak és még többet tudnak. Ismerik a titkos utakat és lebegő járatokat, értik a halk szavakat és a néma igéket, jártak a földeken innen és a vizeken túl. Ők segíthetnek, csakhogy mint mindennek, a segítségnek ára van. </p>
@@ -200,13 +200,13 @@
 # <a name="id_1806">Neil Gaiman: The Ocean at the End of the Lane (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/The%20Ocean%20at%20the%20End%20of%20the%20Lane%20%281806%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/The%20Ocean%20at%20the%20End%20of%20the%20Lane%20%281806%29/The%20Ocean%20at%20the%20End%20of%20the%20Lan%20-%20Neil%20Gaiman.epub)
 
-### Tagek
+## Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [coming of age](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/coming%20of%20age.md), [magical realism](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magical%20realism.md), [literary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literary.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p><strong>#1</strong> New York Times <strong>Bestseller</strong></p>
 <p style="font-weight: bold">UK National Book Awards Book of the Year</p>
@@ -243,10 +243,10 @@
 # <a name="id_1802">Neil Gaiman: Unnatural Creatures (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Unnatural%20Creatures%20%281802%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Unnatural%20Creatures%20%281802%29/Unnatural%20Creatures%20-%20Neil%20Gaiman.epub)
 
-### Összefoglalás
+## Összefoglalás
 <p><em>Unnatural Creatures</em> is a collection of short stories about the fantastical things that exist only in our minds--collected and introduced by beloved <em>New York Times</em> bestselling author Neil Gaiman.<br /> <br />The sixteen stories gathered by Gaiman, winner of the Hugo and Nebula Awards, range from the whimsical to the terrifying. The magical creatures range from werewolves to sunbirds to beings never before classified. E. Nesbit, Diana Wynne Jones, Gahan Wilson, and other literary luminaries contribute to the anthology.<br /> <br />Sales of <em>Unnatural Creatures</em> benefit 826DC, a nonprofit organization dedicated to supporting students in their creative and expository writing, and to helping teachers inspire their students to write.</p>
 
 
@@ -254,13 +254,13 @@
 # <a name="id_1432">Neil Gaiman: Anansi fiúk (2014)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Anansi%20fiuk%20%281432%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Anansi%20fiuk%20%281432%29/Anansi%20fiuk%20-%20Neil%20Gaiman.epub)
 
-### Tagek
+## Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [august derleth-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/august%20derleth-d%c3%adj.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [british fantasy-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/british%20fantasy-d%c3%adj.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [istenek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/istenek.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [locus-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/locus-d%c3%adj.md), [madarak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/madarak.md), [mágikus realizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gikus%20realizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [mitológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mitol%c3%b3gia.md), [pókok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/p%c3%b3kok.md), [posztmodern](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/posztmodern.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [testvérek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/testv%c3%a9rek.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>Kövér Charlie Nancy normális élete abban a pillanatban zökken ki, ahogy apja meghal egy karaokeszínpadon Floridában. Charlie nem tudta, hogy az apja egy isten. És nem is sejtette, hogy van egy testvére. Ez a testvér most bekopogtat hozzá, hogy sokkal érdekesebbé tegye Kövér Charlie életét. És sokkal, de sokkal veszélyesebbé…<br>Az olvasó Daniel Egnéus illusztrációival, új szerkesztésben tartja a kezében a könyvet.</p></div>
 
@@ -269,13 +269,13 @@
 # <a name="id_1431">Neil Gaiman: Coraline (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Coraline%20%281431%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Coraline%20%281431%29/Coraline%20-%20Neil%20Gaiman.epub)
 
-### Tagek
+## Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [boszorkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/boszork%c3%a1ny.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [család](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csal%c3%a1d.md), [dark fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dark%20fantasy.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [gyermek főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek%20f%c5%91szerepl%c5%91.md), [gyermekszemszög](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermekszemsz%c3%b6g.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [hugo-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hugo-d%c3%adj.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [locus-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/locus-d%c3%adj.md), [macska](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/macska.md), [mágikus realizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gikus%20realizmus.md), [meseregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mesereg%c3%a9ny.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>Coraline ​lives with her preoccupied parents in part of a huge old house--a house so huge that other people live in it, too… round, old former actresses Miss Spink and Miss Forcible and their aging Highland terriers ("We trod the boards, luvvy") and the mustachioed old man under the roof ("'The reason you cannot see the mouse circus,' said the man upstairs, 'is that the mice are not yet ready and rehearsed.'") Coraline contents herself for weeks with exploring the vast garden and grounds. But with a little rain she becomes bored--so bored that she begins to count everything blue (153), the windows (21), and the doors (14). And it is the 14th door that--sometimes blocked with a wall of bricks--opens up for Coraline into an entirely alternate universe. Now, if you're thinking fondly of The Lion, the Witch, and the Wardrobe or Alice's Adventures in Wonderland, you're on the wrong track. Neil Gaiman's Coraline is far darker, far stranger, playing on our deepest fears. And, like Roald Dahl's work, it is delicious.</p></div>
 
@@ -284,13 +284,13 @@
 # <a name="id_976">Neil Gaiman: Felkavaró tartalom (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Felkavaro%20tartalom%20%28976%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Felkavaro%20tartalom%20%28976%29/Felkavaro%20tartalom%20-%20Neil%20Gaiman.epub)
 
-### Tagek
+## Tagek
 [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [urban fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/urban%20fantasy.md), [weird fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/weird%20fiction.md)
 
-### Összefoglalás
+## Összefoglalás
 Új novelláskötetében Neil Gaiman a maszkjainkat lerántva próbálja feltárni sebezhető, igazi énünket. Finom humora és borzongató képzelőereje olyan novellákat eredményez, melyeket újra meg újra el akarunk olvasni.
 A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai istenek világában játszódik, és Árnyék kalandjait szövi tovább. A gyűjtemény többi része is hasonlóan varázslatos: Gaiman számos stílust és műfajt – horror- és kísértettörténet, science-fiction és tündérmese, tanmese és vers – felvonultatva deríti fel az emberi érzések, élmények és tapasztalatok birodalmát. Egy novella az Óceán az út végén mellé, egy öregkori Sherlock Holmes-rejtély, egy közösségi média inspirálta kisprózafüzér és további húsz írás található a kötetben, mely méltó párja a Tükör és füstnek és a Törékeny holmiknak.
 
@@ -299,13 +299,13 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 # <a name="id_1804">Neil Gaiman: Trigger Warning: Short Fictions and Disturbances (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Trigger%20Warning_%20Short%20Fictions%20and%20%281804%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Trigger%20Warning_%20Short%20Fictions%20and%20%281804%29/Trigger%20Warning_%20Short%20Fictions%20-%20Neil%20Gaiman.epub)
 
-### Tagek
+## Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md), [anthologies](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anthologies.md), [poetry](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/poetry.md), [adult](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/adult.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>Multiple award winning, #1 <em>New York Times</em> bestselling author Neil Gaiman returns to dazzle, captivate, haunt, and entertain with this third collection of short fiction following <em>Smoke and Mirrors</em> and <em>Fragile Things</em> —which includes a never-before published <em>American Gods</em> story, “Black Dog,” written exclusively for this volume.</p>
 <p>In this new anthology, Neil Gaiman pierces the veil of reality to reveal the enigmatic, shadowy world that lies beneath. <em>Trigger Warning</em> includes previously published pieces of short fiction—stories, verse, and a very special <em>Doctor Who</em> story that was written for the fiftieth anniversary of the beloved series in 2013—as well “Black Dog,” a new tale that revisits the world of <em>American Gods</em> , exclusive to this collection.</p>
@@ -379,13 +379,13 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 # <a name="id_1812">Neil Gaiman: Kilátás az erkélyről (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Kilatas%20az%20erkelyrol%20%281812%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Kilatas%20az%20erkelyrol%20%281812%29/Kilatas%20az%20erkelyrol%20-%20Neil%20Gaiman.epub)
 
-### Tagek
+## Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [esszé](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/essz%c3%a9.md), [ismeretközlő irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ismeretk%c3%b6zl%c5%91%20irodalom.md), [könyvesbolt](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b6nyvesbolt.md), [könyvkultúra](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b6nyvkult%c3%bara.md), [könyvtár](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b6nyvt%c3%a1r.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [válogatás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a1logat%c3%a1s.md)
 
-### Összefoglalás
+## Összefoglalás
 <div> <p align="justify" id="full_description">Egy ​lebilincselő esszékötet rengeteg témáról – a művészettől és művészektől az álmokig, mítoszokig és emlékekig – a New York Times bestsellerszerző Neil Gaiman mélyre hatoló, szórakoztató és egyéni stílusában. </p> <p align="justify">Neil Gaimant, aki éles szemű megfigyelő, gondolatébresztő kommentátor és szorgalmas mesterember, már régóta nagyra tartják éles intellektusáért és meghökkentő képzeletéért, amelyek népszerű műveit áthatják. A Kilátás az erkélyről című kötet most először együtt mutatja be hatvan kiemelkedő nonfiction írását. Ebben a gazdag válogatásban analitikusan, de játékosan, ékesszólóan, mégis érthetően érdeklődési körök és témák széles skáláját találjuk, úgymint: régi és kortárs szerzők; zene; történetmondás; képregények; könyvesboltok; utazás; mesék; Amerika; ihlet; könyvtárak; szellemek. Ehhez jön még a címadó darab, mely hol meghatóan, hol öngúnnyal a szerző élményeit meséli el a 2010-es Oscar-díjkiosztó gálán Hollywoodban. </p> <p align="justify">Az éles, gunyoros, szellemes és bölcs kötet azokat a kérdéseket és témákat taglalja, melyek a legjobban érdeklik Neil Gaimant, ezáltal bepillantást kínálnak korunk egyik legméltatottabb, legkedveltebb és legbefolyásosabb művészének fejébe és szívébe.</p></div>
 
 
@@ -393,13 +393,13 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 # <a name="id_1435">Neil Gaiman: Északi mitológia (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Eszaki%20mitologia%20%281435%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Eszaki%20mitologia%20%281435%29/Eszaki%20mitologia%20-%20Neil%20Gaiman.epub)
 
-### Tagek
+## Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [északi népek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9szaki%20n%c3%a9pek.md), [harcosok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/harcosok.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [istenek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/istenek.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [mítosz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%adtosz.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [összetett regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6sszetett%20reg%c3%a9ny.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [skandináv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1v.md), [skandinávia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/skandin%c3%a1via.md), [tél](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a9l.md), [viking](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/viking.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [mitológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mitol%c3%b3gia.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>Egy ​új klasszikus: a jól ismert skandináv mítoszok a történetmesélés nagymestere, Neil Gaiman elképesztő átiratában.<br>Az ősi történetekből Gaiman regényszerű ívet kovácsol, kezdve a kilenc világ legendás megteremtésével, majd sorra veszi a félistenek, törpék és óriások tetteit. Például Thor pörölyének ellopását, aki ezután kénytelen nőnek öltözni – ez az ő szakállával és étvágyával nem kis feladat –, és úgy visszalopni. De elmeséli a legmeghatóbb történetet is, amikor Kvasir, a legbölcsebb isten véréből megfőzik azt a sört, amely aztán létrehozza a költészetet. A számtalan kaland Ragnarökkel, az istenek alkonyával, új idők és emberek születésével zárul.<br>Gaiman keze alatt a régi poros mítoszok újra élettel telnek meg. A regény mesteri és szellemes prózája kiemeli az istenek versengő énjét, megmutatja hajlamukat arra, hogy átverjenek másokat, és őket is átverjék, valamint megismerteti az olvasót azzal a tulajdonságukkal, hogy a szenvedélyt mindig hagyják felülkerekedni a józan eszükön.</p></div>
 
@@ -408,13 +408,13 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 # <a name="id_1807">Neil Gaiman: Norse Mythology (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Norse%20Mythology%20%281807%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Norse%20Mythology%20%281807%29/Norse%20Mythology%20-%20Neil%20Gaiman.epub)
 
-### Tagek
+## Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [fairy tales](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fairy%20tales.md), [folk tales](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/folk%20tales.md), [legends & mythology](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/legends%20%26%20mythology.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [literary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literary.md), [cultural heritage](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cultural%20heritage.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>From the #1 New York Times bestselling author and “one of the modern masters of fantasy writing,” (Huffington Post) a dazzling, witty telling of the Norse myths. "A lively, funny, and very human rendition of Thor the thunder god, his father Odin, and the dark-hearted trickster Loki (plus countless other gods and monsters). </p>
 <p>" — Petra Mayer, NPR Neil Gaiman, long inspired by ancient mythology in creating the fantastical realms of his fiction, presents a bravura rendition of the Norse gods and their world from their origin though their upheaval in Ragnarok. In Norse Mythology, Gaiman stays true to the myths in envisioning the major Norse pantheon: Odin, the highest of the high, wise, daring, and cunning; Thor, Odin’s son, incredibly strong yet not the wisest of gods; and Loki—son of a giant—blood brother to Odin and a trickster and unsurpassable manipulator. Gaiman fashions these primeval stories into a novelistic arc that begins with the genesis of the legendary nine worlds and delves into the exploits of deities, dwarfs, and giants. Through Gaiman’s deft and witty prose, these gods emerge with their fiercely competitive natures, their susceptibility to being duped and to duping others, and their tendency to let passion ignite their actions, making these long-ago myths breathe pungent life again.</p></div>
@@ -424,13 +424,13 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 # <a name="id_1436">Neil Gaiman: Törékeny holmik (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Torekeny%20holmik%20%281436%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Torekeny%20holmik%20%281436%29/Torekeny%20holmik%20-%20Neil%20Gaiman.epub)
 
-### Tagek
+## Tagek
 [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [cirkusz](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cirkusz.md), [démon](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/d%c3%a9mon.md), [drog](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/drog.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [hugo-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hugo-d%c3%adj.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [misztikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/misztikus.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [pedofília](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pedof%c3%adlia.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [szellemek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szellemek.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [urban fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/urban%20fantasy.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>Neil Gaimant a magyar olvasóközönség elsősorban fantasy regényei okán ismerhette és szerethette meg; a műfaj nem változott ezúttal sem, a különbség csak annyi, hogy a jelen kötetben nem egyetlen hosszabb történet, hanem több rövidprózai és lírai alkotása kapott helyet. A választékban sok-sok egyéb mellett olyan novellák szerepelnek, mint a Smaragdzöld tanulmány című misztikus „minikrimi”, az egy élő és egy halott fiú történetét elbeszélő Október a székben, a Záróra című klasszikus kísértettörténet, A térképkészítő, amely a hajdani Kínába kalauzol el, az Emlékek és kincsek című szokatlan szerelmi történet, a Narnia krónikái által ihletett Susan problémája vagy épp a Falatok és falatozók, mely egy igazi rémálomból született. Ezek mellett – felvillantva a szerző egy eleddig ismeretlen arcát – versek (Tündérverkli; A titkos kamra; Befásulni; A csészealjak eljövetelének napja stb.) is találhatóak a kötetben. "www.kello.hu © minden jog fenntartva"</p></div>
 
@@ -439,13 +439,13 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 # <a name="id_1434">Neil Gaiman: Tükör és füst (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Tukor%20es%20fust%20%281434%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Tukor%20es%20fust%20%281434%29/Tukor%20es%20fust%20-%20Neil%20Gaiman.epub)
 
-### Tagek
+## Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [adaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/adapt%c3%a1ci%c3%b3.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [angyal](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angyal.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [dark fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dark%20fantasy.md), [démon](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/d%c3%a9mon.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/er%c5%91szak.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [mágikus realizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gikus%20realizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [novella](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/novella.md), [pedofília](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pedof%c3%adlia.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [válogatás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a1logat%c3%a1s.md), [vérfarkas](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a9rfarkas.md), [vers](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vers.md), [short stories](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/short%20stories.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>A magyar olvasók korábban Neil Gaiman terjedelmes életművéből leginkább regényeit ismerhették. Az utóbbi időben azonban sorra jelennek meg a Gaiman-oeuvre tetemes részét képező rövidprózai írásaiból készült válogatások. Jelen kötet - amely eredetileg 1998-ban került kibocsátásra - is ezekből kínál ízelítőt: a kollekcióban nagyrészt (korábban más fórumokon már közzétett) novellái olvashatóak, de találunk közöttük pár költeményt is (mint például a művet nyitó Jövendölés, avagy madárjóslás belsőségekből, a Miklós akkor már..., A fehér úton, A kések asszonya vagy a Változó tenger). A hátborzongató kis történetek - bár akad közöttük néhány érezhetően korai darab - a mágikus realizmus apró kis baljós gyöngyszemei, amelyek között sok-sok egyéb mellett olyan elbeszéléseket találunk, mint A troll hídja, a Baglyoknak lánya, a Shoggoth Ófőzdei Banyaszomorító, a Megint csak világvége, Az álomseprő, a Vámpír szextina, a Sivatagi szél vagy a (különösképp rettenetes) Babavilág. Ez a Gaiman-kötet kizárólag felnőtt olvasók kezébe való. "www.kello.hu © minden jog fenntartva"</p></div>
 
@@ -454,13 +454,13 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 # <a name="id_222">Neil Gaiman: Sosehol (2018)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Sosehol%20%28222%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Sosehol%20%28222%29/Sosehol%20-%20Neil%20Gaiman.epub)
 
-### Tagek
+## Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [london](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/london.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [urban fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/urban%20fantasy.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gia.md), [metró](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/metr%c3%b3.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [angyal](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angyal.md), [weird fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/weird%20fiction.md), [portál fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/port%c3%a1l%20fantasy.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md)
 
-### Összefoglalás
+## Összefoglalás
 A világ és ami alatta van
 Richard Mayhew egy fiatal üzletember jó úton a fényes karrier, szép feleség és kellemes élet felé… ami mind semmivé lesz, amikor egy bajba jutott lány segítségére siet. Jótette jutalmául a hétköznapi Fenti Londonból átkerül a baljós, sötét Lenti Londonba, az elveszett idők, elveszett helyek és elveszett emberek bizarr világába. Különös társaságba csöppen: Ajtó – a lány, akin segített – nemesi származású és szülei gyilkosát keresi; de Carabas márki kétes szívességeket behajtva éli még kétesebb életét; Vadász a világ legnagyobb szörnyeit hajszolja.
 A csatornák és metróalagutak labirintusában velük kell boldogulnia Richardnak, hogy segíthessen másokon és így segíthessen magán is. Vajon megleli-e azt az életet, amelyet már jóval korábban elveszített, mint hitte?
@@ -470,13 +470,13 @@ A csatornák és metróalagutak labirintusában velük kell boldogulnia Richardn
 # <a name="id_886">Neil Gaiman: Csillagpor (2019)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Csillagpor%20%28886%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Csillagpor%20%28886%29/Csillagpor%20-%20Neil%20Gaiman.epub)
 
-### Tagek
+## Tagek
 [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [19. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/19.%20sz%c3%a1zad.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [testvérek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/testv%c3%a9rek.md), [meseregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mesereg%c3%a9ny.md), [portál fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/port%c3%a1l%20fantasy.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [tündér](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%bcnd%c3%a9r.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [boszorkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/boszork%c3%a1ny.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [szellemek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szellemek.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md)
 
-### Összefoglalás
+## Összefoglalás
 Neil Gaiman könyve is úgy kezdődik, ahogyan a legjobb történetek általában: egy fiúval, egy lánnyal meg egy beteljesületlen szerelemmel. De aztán egyáltalán nem úgy folytatódik, ahogyan a mesék folytatódni szoktak. Neil Gaiman ezzel a regényével is bebizonyítja, hogy nem véletlenül tartják őt a modern fantasy egyik legnagyobb alakjának.
 Falva falva egy aprócska település Angliában. Arról a falról kapta a nevét, amely a falu határában húzódik, és elválasztja az emberi világot a varázslatok birodalmától. Egy hűvös októberi estén a fiatal Tristran Thorn hullócsillagot lát a falon túl a földre zuhanni, és hogy elnyerje a gyönyörűséges Victoria kezét, megígéri a lánynak: elhozza neki a lehullott csillagot. Tristran elindul hát élete nagy kalandjára a falon túli varázslatos világba, amelyet a legfurcsább teremtmények és soha nem látott lények népesítenek be. Hűséges társak, halálos ellenségek várják, és ha Tristran elég kitartó, olyasmit találhat meg, amire egyáltalán nem számított.
 
@@ -485,13 +485,13 @@ Falva falva egy aprócska település Angliában. Arról a falról kapta a nevé
 # <a name="id_1424">Neil Gaiman: A temető könyve (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/A%20temeto%20konyve%20%281424%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/A%20temeto%20konyve%20%281424%29/A%20temeto%20konyve%20-%20Neil%20Gaiman.epub)
 
-### Tagek
+## Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [anglia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/anglia.md), [angol szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/angol%20szerz%c5%91.md), [barátság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/bar%c3%a1ts%c3%a1g.md), [brit szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brit%20szerz%c5%91.md), [carnegie-medál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/carnegie-med%c3%a1l.md), [dark fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dark%20fantasy.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [fejlődésregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fejl%c5%91d%c3%a9sreg%c3%a9ny.md), [gyermek főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyermek%20f%c5%91szerepl%c5%91.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [halloween](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/halloween.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [hugo-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hugo-d%c3%adj.md), [ifjúsági](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ifj%c3%bas%c3%a1gi.md), [illusztrált](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/illusztr%c3%a1lt.md), [locus-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/locus-d%c3%adj.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [meseregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/mesereg%c3%a9ny.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>Senki Owens, a barátainak csak Sen, egy majdnem teljesen átlagos fiú. Akkor lenne teljesen átlagos, ha nem egy hatalmas temetőben lakna, ahol szellemek nevelik és tanítják, a gyámja pedig egy magának való alak, aki nem tartozik sem az élők, sem a holtak világához.<br>Egy fiú számára a temető tele van veszéllyel és kalanddal: ott a domb alatti vén Indigóember, ott a kapu, amely egy sivatagra nyílik, ahol elhagyott vámpírváros áll, és ott a különös és rettentő lény, a szlír.<br>Az igazi veszély azonban a való világban leskelődik Senre: ha kimegy a temetőből, vár rá a Jack nevű férfi, aki már megölte Sen egész családját…<br>Neil Gaiman barátságról és szeretetről szóló lenyűgöző története a legváratlanabb helyekre vezet, felejthetetlen élményt nyújtva. Az olvasó Chris Riddell illusztrációival, új szerkesztésben tartja a kezében a könyvet.</p></div>
 

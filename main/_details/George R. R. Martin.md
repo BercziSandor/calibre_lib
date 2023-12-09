@@ -2,14 +2,14 @@
 # <a name="id_420">George R. R. Martin: Trónok harca (A tűz és jég dala 1) (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Tronok%20harca%20%28420%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Tronok%20harca%20%28420%29/Tronok%20harca%20-%20George%20R.%20R.%20Martin.epub) 
  [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Tronok%20harca%20%28420%29/Tronok%20harca%20-%20George%20R.%20R.%20Martin.rtf)
 
-### Tagek
+## Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md), [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md)
 
-### Összefoglalás
+## Összefoglalás
 A Trónok harca lebilincselő fantasy, amely klasszikus lovagkirályságot tár az olvasó elé: Westeros fölött valaha a sárkánykirályok uralkodtak, ám a Targaryen-dinasztiát 15 évvel ezelőtt elűzték, és most Robert Baratheon uralkodik hű barátai, Jon Arryn, majd Eddard Stark segítségével. A konfliktus középpontjában Deres urai, a Starkok állnak. Olyanok, mint a föld, ahol születtek: makacs, kemény jellemű család. Szemünk előtt hősök, gazemberek és egy gonosz hatalom története elevenedik meg.
 Ám hamar rá kell ébrednünk, hogy ebben a világban mégsem egyszerűen jók és gonoszok kerülnek szembe egymással, hanem mesterien ábrázolt jellemek bontakoznak ki előttünk különböző vágyakkal, célokkal, félelmekkel és sebekkel.
 Martin legnagyobb erőssége hogy meg tudja újítani, élettel tölti fel azt a műfajt, amit a sok populáris Tolkien-imitáció évtizedeken át klisék sorozatába fojtva ismételgetett. A jég és tűz dalának első kötete egy világteremtő fantasy eposz nagyszabású felütése.
@@ -19,14 +19,14 @@ Martin legnagyobb erőssége hogy meg tudja újítani, élettel tölti fel azt a
 # <a name="id_418">George R. R. Martin: Királyok csatája (A tűz és jég dala 2) (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Kiralyok%20csataja%20%28418%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Kiralyok%20csataja%20%28418%29/Kiralyok%20csataja%20-%20George%20R.%20R.%20Martin.epub) 
  [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Kiralyok%20csataja%20%28418%29/Kiralyok%20csataja%20-%20George%20R.%20R.%20Martin.rtf)
 
-### Tagek
+## Tagek
 [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [boszorkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/boszork%c3%a1ny.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/er%c5%91szak.md), [kalandregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kalandreg%c3%a9ny.md), [lovag](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/lovag.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1bor%c3%ba.md), [dráma](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dr%c3%a1ma.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [dark fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dark%20fantasy.md), [locus-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/locus-d%c3%adj.md), [epikus fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/epikus%20fantasy.md), [felnőtt tartalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/feln%c5%91tt%20tartalom.md), [grimdark](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/grimdark.md), [antihős](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/antih%c5%91s.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md), [alkímia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/alk%c3%admia.md)
 
-### Összefoglalás
+## Összefoglalás
 Hogyan veszi fel a küzdelmet a világ másik végére száműzött királynő a szétesett és megosztott birodalom felett uralkodó gonosz démonok és gyilkosok ellen? Ki is valójában a titokzatos, álruhában rejtőző kisfiú? A Jó vagy Rossz képviselői nyerik meg végül a legöldöklőbb, legkegyetlenebb csatákat? Sikerül-e a szörnyű káoszt újra békévé varázsolni?
 A Királyok csatája a vad mulatságok és véres megtorlások világába repít el bennünket. Ebben a mesében fivér fivér ellen támad, éjszakánként pedig félelmetes kísértetek suhannak át a lombok közt. A káprázatos Holdhegység sziklái közt vademberek, veszedelmes boszorkányok és méregkeverők ereszkednek le, hogy feldúlják az addig békés vidéket.
 Vérfertőzés és apagyilkosság, alkímia és merénylet – e kegyetlen világ dicsőségének ára csak a vér lehet.
@@ -37,14 +37,14 @@ A Királyok csatája merész, ötletes és bámulatos képzelőerővel megalkoto
 # <a name="id_424">George R. R. Martin: Kardok vihara (A tűz és jég dala 3) (2009)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Kardok%20vihara%20%28424%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Kardok%20vihara%20%28424%29/Kardok%20vihara%20-%20George%20R.%20R.%20Martin.epub) 
  [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Kardok%20vihara%20%28424%29/Kardok%20vihara%20-%20George%20R.%20R.%20Martin.rtf)
 
-### Tagek
+## Tagek
 [politika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/politika.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [boszorkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/boszork%c3%a1ny.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [gyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/gyilkoss%c3%a1g.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/er%c5%91szak.md), [lovag](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/lovag.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gia.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1bor%c3%ba.md), [dráma](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dr%c3%a1ma.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [dark fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dark%20fantasy.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [locus-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/locus-d%c3%adj.md), [grimdark](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/grimdark.md), [antihős](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/antih%c5%91s.md), [amerikai szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai%20szerz%c5%91.md)
 
-### Összefoglalás
+## Összefoglalás
 Ritkán ​született még olyan történet, amely annyira rabul ejtené egy egész nemzedék képzeletét és szívét, olyan lebilincselő mese, mint George R. R. Martin hatalmas fantasy-sorozata. A Trónok harcában megismertünk egy ősi királyságot, amelyet könyörtelen férfiak és nők hatalomvágya marcangolt. A Királyok csatájában kiéhezett ragadozóként söpört végig a birodalmon a háború, a mágia és az őrület. Most pedig, ahogy a hatalomért folytatott embertelen küzdelem viharos tetőpontjához közeledik, a megtépázott és megosztott királyság kénytelen szembenézni legszörnyűbb ellenségével, egy ellenséggel, amely a síron túlról érkezik…
 A hatalomért versengő öt király közül egy halott, egy pedig meggyengült, a harcok mégis változatlan hevességgel tombolnak. Szövetségek születnek és hullanak szét. A Vastrónuson a Lannister-házból való Joffrey, a Hét Királyság ingatag uralkodója ül. Legengesztelhetetlenebb ellenfele, a legyőzött és megalázott Lord Stannis egy féltékeny boszorkány hálójába keveredett. Északot azonban még mindig az ifjú Robb Stark kormányozza Zúgó várából. Robb haditervet készít megvetett ellenségei, a Lannisterek ellen nem törődve azzal, hogy a húgát túszként tartják fogva Királyvárban, a Vastrónus fővárosában.
 A száműzött Daenerys királynő, a világ utolsó három sárkányának úrnője eközben egy távoli földrész véráztatta vidékein kel át. A pusztító dinasztiaháború dögletes, halált hozó bűzében Daenerys szövetségeseket keres és erőt gyűjt a Királyvár elleni támadáshoz, amellyel visszanyerheti a meggyőződése szerint törvényesen őt illető koronát.
@@ -55,13 +55,13 @@ Ahogy a szembenálló erők a végső, gigászi összecsapásra készülnek, a c
 # <a name="id_419">George R. R. Martin: Varjak lakomája (A tűz és jég dala 4) (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Varjak%20lakomaja%20%28419%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Varjak%20lakomaja%20%28419%29/Varjak%20lakomaja%20-%20George%20R.%20R.%20Martin.epub)
 
-### Tagek
+## Tagek
 [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md), [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md)
 
-### Összefoglalás
+## Összefoglalás
 A ​XXI. század által generált digitalizáció, a modern éra által minden elérhető közelségbe került. De vajon igaz-e ez letűnt vagy kitalált korok és legendák, ködbe burkolózó hősök, emberszabású és szörnyszülött alakok tekintetében is? Már Frodó történetei is arról tanúskodtak, hogy ez a sötét középkor árnyaiból táplálkozó, ősidők mondavilágát „megéneklő” műfaj igencsak vonzza a maga elérhetetlenségével, megfoghatatlanságával a mai embert. És most itt van George R. R. Martin, aki a trilógiának indult Tűz és jég dala sorozat negyedik köteteként megjelent Varjak lakomájában újabb lenyomatát adja ezeknek az időknek. A Trónok harcában megjelenő, az ősi királyságot szétszakító kegyetlen erők, a Királyok csatájának kísértetei, vademberei, boszorkányai, a Kardok viharának a másvilágról előretörő inváziója után a ciklus negyedik kötetében Martin ismét egy sokszereplős, tabudöntögető fantasy-opusszal rukkolt elő. Az 1996-ban elindított, immár tetralógiává bővült sorozat most megjelent kötetét legjobban a könyv utószavának szerzője, Stemler Miklós foglalja össze: „Szemben a legtöbb populáris fantasyvel, ahol a közékori háttér csupán díszlet, amely előtt jobban vissza lehet mondani a Tolkientől tanult, ám teljes egészében soha el nem sajátított leckét, Westeroson a lovagi csillogás mellett jelen vannak a nyomor és a társadalmi különbségek is. Míg Tolkien elsődleges kiindulópontja az ógermán mitológia – pontosabban annak megmaradt töredékei voltak…, addig Martin inspirációit középkori eseményekből merítette, elsősorban a Rózsák háborújából.”
 
 
@@ -69,13 +69,13 @@ A ​XXI. század által generált digitalizáció, a modern éra által minden 
 # <a name="id_898">George R. R. Martin: Sárkányok tánca (A tűz és jég dala 5) (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Sarkanyok%20tanca%20%28898%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20R.%20R.%20Martin/Sarkanyok%20tanca%20%28898%29/Sarkanyok%20tanca%20-%20George%20R.%20R.%20Martin.epub)
 
-### Tagek
+## Tagek
 [politika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/politika.md), [fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fantasy.md), [boszorkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/boszork%c3%a1ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [low fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/low%20fantasy.md), [lovag](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/lovag.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [high fantasy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/high%20fantasy.md), [mágia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/m%c3%a1gia.md), [kaland](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kaland.md), [háború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/h%c3%a1bor%c3%ba.md), [sárkány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/s%c3%a1rk%c3%a1ny.md), [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/amerikai.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md), [locus-díj](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/locus-d%c3%adj.md), [antihős](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/antih%c5%91s.md), [középkor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/k%c3%b6z%c3%a9pkor.md)
 
-### Összefoglalás
+## Összefoglalás
 Közeleg a tél. A hideg szelek feltámadtak a sokat szenvedett Hét Királyságban, ahol az Öt Király háborúja után a túlélőknek most az éhínséggel kell szembenézniük. Az emberek birodalmát védelmező Fal ifjú parancsnoka, Havas Jon a Mások elleni reménytelen küzdelemre próbálja felkészíteni a szétzüllött Éjjeli Őrséget, ám rá kell döbbennie, hogy ellenségei jóval közelebb vannak hozzá, mint gondolná. Stannis Baratheon Észak uralmáért vív elkeseredett harcot a Boltonokkal, miközben Királyvárban a Lannister-ház próbálja megerősíteni Tommen, a gyermekkirály törékeny uralmát a kivérzett Hét Királyság fölött. A Keskeny-tenger másik oldalán Tyrion Lannister, a megvetett és üldözött rokongyilkos sárkányvadászatra indul, ám útja veszélyekkel és váratlan kitérőkkel teli. A világ eközben az ősi városra, Meereenre figyel, ahol Viharbanszületett Daeneryst, Westeros jog szerinti uralkodóját minden oldalról szorongatják ellenségei. Hogy arathat diadalt a Sárkányok Anyja, ha három gyermekére sem számíthat? A végkifejlet csak tűz és vér lehet, ám ki éli túl a sárkányok táncát? A Sárkányok tánca George R.R. Martin diadalmas visszatérése A tűz és jég dala világába, a regény, amelyre világszerte rajongók tízmilliói vártak.
 
 

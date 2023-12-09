@@ -2,20 +2,20 @@
 # <a name="id_1026">Ernest Hemingway: Novellák </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ernest%20Hemingway/Novellak%20%281026%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ernest%20Hemingway/Novellak%20%281026%29/Novellak%20-%20Ernest%20Hemingway.epub)
 
 <hr/>
 # <a name="id_1196">Ernest Hemingway: Akiért a harang szól (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ernest%20Hemingway/Akiert%20a%20harang%20szol%20%281196%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ernest%20Hemingway/Akiert%20a%20harang%20szol%20%281196%29/Akiert%20a%20harang%20szol%20-%20Ernest%20Hemingway.epub)
 
-### Tagek
+## Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [literary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literary.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [general](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>Robert Jordan, a fiatal amerikai, aki a spanyol polgárháborúban a köztársaságaik oldalán harcol, fontos feladatot kap: az ellenséges vonalak mögött fel kell robbantania egy hidat. Egy partizánegységhez kerül, a saját bőrén tapasztalja a polgárháború esztelen kegyetlenségét, a köztársaságiak között dúló viszályokat, az egymásra fenekedés poklát. Beleszeret Mariába, a meggyötört, megalázott lányba, már a jövőjüket tervezgetik, amikor eljön a feladat végrehajtásának ideje. A hidat sikerül felrobbantani, ám Jordan menekülés közben eltöri a lábát, kiszolgáltatott helyzetében ő marad utóvédnek. A halál előtti percekben végigfut szeme előtt egész élete, a háború, s a soha be nem teljesülő szerelem története, a fájdalmas búcsú Mariától. A megrázó regényt Hemingway a saját személyes tapasztalata alapján írta, s rá jellemző, tömör, szaggatott stílusban.</p></div>
 
@@ -24,13 +24,13 @@
 # <a name="id_1025">Ernest Hemingway: Az öreg halász és a tenger (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ernest%20Hemingway/Az%20oreg%20halasz%20es%20a%20tenger%20%281025%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ernest%20Hemingway/Az%20oreg%20halasz%20es%20a%20tenger%20%281025%29/Az%20oreg%20halasz%20es%20a%20tenger%20-%20Ernest%20Hemingway.epub)
 
-### Tagek
+## Tagek
 [fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fiction.md), [literary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literary.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szépirodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%a9pirodalom.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>Hemingway-életműsorozat 1.Irodalmi Nobel-díj, 1954Pulitzer-díj, 1953A kubai halász már jó ideje nem járt szerencsével, amikor találkozik egy óriási marlinnal. Hosszú és szenvedéssel teli csatát vívnak, messze kisodródva az öböl vízére.Hemingway egyszerű nyelven, nagy láttató erővel jeleníti meg a veszteség és diadal történetét, mellyel élete legnagyobb kritikai sikerét aratta. Időtálló művét Ottlik Géza klasszikussá vált fordításában adjuk ki, a szerzői sorozat első köteteként.A regény 1952-ben jelent meg, ’53-ban Pulitzer-díjat kapott, az író pedig – az indoklásból könnyen kikövetkeztethetően: ezért a műért – egy évre rá Nobel-díjat.Az öreg halász és a tenger a világirodalom legfontosabb és legnagyobb hatású regényeinek egyike, Hemingway helye pedig – ez által és más nagy művei által – Bergman, Kuroszava, Picasso, Bartók, Marlon Brando, Pelé vagy Muhammad Ali mellett van, a 20. századi kultúra meghatározó alakjai közt.Aprócska regény, mégis mindenki ismeri, mindenki olvassa, nem egyszerűen iskolai kötelező olvasmány, hanem tényleg kötelező. Állandó viták tárgya, kezdve onnan, hogy ki is valójában Santiago, a kubai halász, mit jelent a tenger és mit a gigantikus hal, hogy győz-e az öreg, vagy veszít végül, egészen odáig, hogy hibázott-e a művet meseszépen fordító Ottlik Géza, amikor az „ember” szót „halászra" cserélte a címben. Hiszen az öregember nem is halászik, hanem horgászik...</p></div>
 

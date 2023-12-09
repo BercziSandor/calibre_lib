@@ -2,13 +2,13 @@
 # <a name="id_482">Dmitry Glukhovsky: Metró 2033 (Metró 2033 1) (2019)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dmitry%20Glukhovsky/Metro%202033%20%28482%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dmitry%20Glukhovsky/Metro%202033%20%28482%29/Metro%202033%20-%20Dmitry%20Glukhovsky.epub)
 
-### Tagek
+## Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [apokalipszis](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/apokalipszis.md), [atomháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/atomh%c3%a1bor%c3%ba.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diszt%c3%b3pia.md), [fegyverek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fegyverek.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [metró](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/metr%c3%b3.md), [moszkva](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/moszkva.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md), [oroszország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/oroszorsz%c3%a1g.md), [posztapokaliptikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/posztapokaliptikus.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [túlélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%bal%c3%a9l%c3%a9s.md), [vallás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/vall%c3%a1s.md), [irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalom.md), [szórakoztató irodalom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%b3rakoztat%c3%b3%20irodalom.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>2033.<br>Az egész világ romokban hever.<br>Az emberiség majdnem teljesen elpusztult.<br>Moszkva szellemvárossá változott, megmérgezte a radioaktív sugárzás, és szörnyek népesítik be. A kevés életben maradt ember a moszkvai metróban bújik meg – a Föld legnagyobb atombombabiztos óvóhelyén. A metró állomásai most városállamok, az alagutakban sötétség honol, és borzalom fészkel.<br>Artyomnak az egész metróhálózaton át kell jutnia, hogy megmentse a szörnyű veszedelemtől az állomását, sőt talán az egész emberiséget.</p></div>
 
@@ -17,14 +17,14 @@
 # <a name="id_355">Dmitry Glukhovsky: Metró 2034 (Metró 2033 2) (2019)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dmitry%20Glukhovsky/Metro%202034%20%28355%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dmitry%20Glukhovsky/Metro%202034%20%28355%29/Metro%202034%20-%20Dmitry%20Glukhovsky.epub) 
  [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Dmitry%20Glukhovsky/Metro%202034%20%28355%29/Metro%202034%20-%20Dmitry%20Glukhovsky.rtf)
 
-### Tagek
+## Tagek
 [21. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/21.%20sz%c3%a1zad.md), [apokalipszis](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/apokalipszis.md), [atomháború](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/atomh%c3%a1bor%c3%ba.md), [disztópia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diszt%c3%b3pia.md), [erőszak](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/er%c5%91szak.md), [fegyverek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fegyverek.md), [halál](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hal%c3%a1l.md), [horror](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/horror.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [metró](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/metr%c3%b3.md), [moszkva](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/moszkva.md), [orosz szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/orosz%20szerz%c5%91.md), [oroszország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/oroszorsz%c3%a1g.md), [posztapokaliptikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/posztapokaliptikus.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [sci-fi](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sci-fi.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [thriller](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/thriller.md), [váltott szemszög](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/v%c3%a1ltott%20szemsz%c3%b6g.md), [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>2034.<br>Több mint húsz évvel az utolsó háború után az egész világ romokban hever. Moszkvában a túlélők a metróban, a föld legnagyobb atombombabiztos óvóhelyén húzzák meg magukat.<br>Az egyik periferikus állomást, a Szevasztopolszkaját borzalmas mutánsok fenyegetik, s egyszer csak megszakad az összeköttetés a többi állomással – így pedig, lőszer nélkül halálra vannak ítélve.<br>A titokzatos Hunter és az öreg Homérosz, aki egyre csak egy új eposz megírásáról álmodozik, elindul, hogy kiderítse, mi történt…<br>S miközben lélegzetelállító kalandok során csapnak össze hol a metró szörnyeivel, hol a felszíni világ romjai között élő rémséges lényekkel, hőseink – akikhez a szerelmet kereső Szása, a száműzetésben felnőtt szép fiatal lány is csatlakozik – egyre mélyebben gondolják át e torz világ értelmét és a föld alá bújt, nyomorult emberiség rendeltetését…<br>A Metró 2033 és folytatása a világ számos országában bestseller lett, és a két regényből népszerű számítógépes játék is készült.</p></div>
 

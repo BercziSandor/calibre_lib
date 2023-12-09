@@ -2,13 +2,13 @@
 # <a name="id_264">Paulo Coelho: Veronika meg akar halni (És a hetedik 1) (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Paulo%20Coelho/Veronika%20meg%20akar%20halni%20%28264%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Paulo%20Coelho/Veronika%20meg%20akar%20halni%20%28264%29/Veronika%20meg%20akar%20halni%20-%20Paulo%20Coelho.epub)
 
-### Tagek
+## Tagek
 [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1001%20k%c3%b6nyv%20list%c3%a1n%20szerepel.md), [1990-es évek](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1990-es%20%c3%a9vek.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [brazil szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brazil%20szerz%c5%91.md), [dél-amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/d%c3%a9l-amerikai.md), [elmegyógyintézet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elmegy%c3%b3gyint%c3%a9zet.md), [emberi sorsok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/emberi%20sorsok.md), [filmadaptáció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filmadapt%c3%a1ci%c3%b3.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [öngyilkosság](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6ngyilkoss%c3%a1g.md), [pszichés betegség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszich%c3%a9s%20betegs%c3%a9g.md), [pszichiátria](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszichi%c3%a1tria.md), [pszichológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pszichol%c3%b3gia.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [sorozat része](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sorozat%20r%c3%a9sze.md), [szlovénia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szlov%c3%a9nia.md), [literature](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literature.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>A huszonnégy éves Veronikának látszólag mindene megvan, mégis úgy dönt egy reggel, megöli magát. Egy szanatóriumban tér magához a sikertelen kísérlet után, ahol barátokra talál, és egy skizofrén fiúban igazi társra lel.<br>A Veronika meg akar halni a világ egyik legnépszerűbb brazil szerzője által írt trilógia második része: A Piedra folyó partján ültem, és sírtam, valamint Az ördög és Prym kisasszony című regényekkel alkot kerek egészet.</p></div>
 
@@ -17,13 +17,13 @@
 # <a name="id_260">Paulo Coelho: A zarándoklat (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Paulo%20Coelho/A%20zarandoklat%20%28260%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Paulo%20Coelho/A%20zarandoklat%20%28260%29/A%20zarandoklat%20-%20Paulo%20Coelho.epub)
 
-### Tagek
+## Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [brazil szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brazil%20szerz%c5%91.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [spanyolország](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/spanyolorsz%c3%a1g.md), [útleírás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%batle%c3%adr%c3%a1s.md), [zarándoklat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/zar%c3%a1ndoklat.md), [general fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general%20fiction.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>Paulo ​Coelho 1986-ban indult el a santiago de compostella-i zarándoklatra. „Azokban a napokban – vallja a szerző – spirituális érdeklődésem abból a meggyőződésből indult ki, miszerint léteznek titkok, rejtélyes utak, amelyeket néhányunk képes lehet megérteni és irányítani, annak ellenére, hogy mindez a legtöbb halandó számára nem sikerülne. Azt gondoltam, hogy ami elvezet az élet rejtélyeinek megismeréséhez, az csak komplikált, nehéz próbatétel lehet.” Ez az utazás valódi beavatássá vált, és Coelho minden addigi tudását megváltoztatta annak az egyszerű és természetes igazságnak a felismerése, miszerint „a Rendkívüli az Átlagemberek útján rejtezik”. Íróként annak szentelte magát – érthető és gördülékeny stílusában –, hogy feltárja lelkünk belső gazdagságát, és hogy mindannyian részesei lehessünk e felfedezésnek. Tehát A zarándoklat nagyon fontos szerepet tölt be a munkásságában. Nem csak azért, mert ez az első azon kiemelkedő könyvei között, ahová Az alkimista című művét is soroljuk, hanem mert teljes képet fest az olvasó számára Coelho emberi természetéről, filozófiájáról és lélektani kutatásának mélységéről.</p></div>
 
@@ -32,13 +32,13 @@
 # <a name="id_261">Paulo Coelho: Az alkimista (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Paulo%20Coelho/Az%20alkimista%20%28261%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Paulo%20Coelho/Az%20alkimista%20%28261%29/Az%20alkimista%20-%20Paulo%20Coelho.epub)
 
-### Tagek
+## Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [afrika](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/afrika.md), [alkímia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/alk%c3%admia.md), [allegorikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/allegorikus.md), [álom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a1lom.md), [arab világ](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/arab%20vil%c3%a1g.md), [bölcsesség](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/b%c3%b6lcsess%c3%a9g.md), [brazil szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brazil%20szerz%c5%91.md), [dél-amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/d%c3%a9l-amerikai.md), [egyiptom](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/egyiptom.md), [életfilozófia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letfiloz%c3%b3fia.md), [életmód](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%a9letm%c3%b3d.md), [ezotéria](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/ezot%c3%a9ria.md), [fejlődésregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fejl%c5%91d%c3%a9sreg%c3%a9ny.md), [férfi főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/f%c3%a9rfi%20f%c5%91szerepl%c5%91.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [identitás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/identit%c3%a1s.md), [klasszikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/klasszikus.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [literature](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/literature.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>Paulo Coelho 1988-ban megjelent regénye, Az alkimista minden idők legnagyobb könyvsikere az író hazájában, Brazíliában, ahol eddig közel kétszáz kiadásban látott napvilágot. A spanyol pásztorfiú története – jelképes zarándokútja – arra ösztönöz bennünket világnézetünktől függetlenül, hogy merjünk hinni álmainknak, vegyük kezünkbe sorsunk irányítását, találjuk meg elrejtett kincsünket, ami csak a miénk, s közelebb van hozzánk, mint gondolnánk. Ez a legendás mű úgy lett világsiker néhány év alatt negyven nyelven, sok-sok millió példányban, hogy irodalmi értékét is mindenütt elismerték.</p></div>
 
@@ -47,13 +47,13 @@
 # <a name="id_263">Paulo Coelho: Tizenegy perc (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Paulo%20Coelho/Tizenegy%20perc%20%28263%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Paulo%20Coelho/Tizenegy%20perc%20%28263%29/Tizenegy%20perc%20-%20Paulo%20Coelho.epub)
 
-### Tagek
+## Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [brazil szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/brazil%20szerz%c5%91.md), [dél-amerikai](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/d%c3%a9l-amerikai.md), [emberi sorsok](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/emberi%20sorsok.md), [erotikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/erotikus.md), [fejlődésregény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/fejl%c5%91d%c3%a9sreg%c3%a9ny.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [nemi élet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/nemi%20%c3%a9let.md), [női főszereplő](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/n%c5%91i%20f%c5%91szerepl%c5%91.md), [prostitúció](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/prostit%c3%baci%c3%b3.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [romantikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/romantikus.md), [spiritualitás](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/spiritualit%c3%a1s.md), [svájc](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sv%c3%a1jc.md), [tánc](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/t%c3%a1nc.md), [general fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/general%20fiction.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p>A szerző új regényében, mely szinte egy időben 33 nyelven jelenik meg, egy fiatal brazil lány életét meséli el. Maria egy gyerekkori csalódás után úgy érzi, soha életében nem fogja megtalálni az igaz szerelmet. Egy váratlan találkozás révén eljut álmai városába, Genfbe, ahol mesés gazdagságot és hírnevet remélve kezd táncosnőként dolgozni. Hamar ráeszmél, hogy a hírnevet nem adják ingyen, és nemsokára az utcán találja magát, ahol prostituáltként kell megélnie. Az igaz érzelmekről rég letett ugyan, de a szexualitás új és új utakra csábítja mindaddig, amíg egy fiatal festő fel nem lobbantja benne a szerelem tüzét. Választás elé kényszerül: vagy végleg feloldódik a testiségben, vagy megtalálja saját „belső fényét”, és a szent szerelemben keresi meg a szex helyét. Coelho újabb világsikerű művében a szerelem szentségéről és a benne rejlő szexualitásról ír, tabuk nélkül, szenvedéllyel, a tőle megszokott spirituális emelkedettséggel.</p></div>
 

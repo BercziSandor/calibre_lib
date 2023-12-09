@@ -2,13 +2,13 @@
 # <a name="id_1703">Réti, László: Az ellenkező nem (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Reti%2C%20Laszlo/Az%20ellenkezo%20nem%20%281703%29/cover.jpg" alt="cover" width="300"/></center>
 
-### Letöltés
+## Letöltés
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Reti%2C%20Laszlo/Az%20ellenkezo%20nem%20%281703%29/Az%20ellenkezo%20nem%20-%20Reti%2C%20Laszlo.epub)
 
-### Tagek
+## Tagek
 [párkapcsolat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/p%c3%a1rkapcsolat.md), [humor](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humor.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szat%c3%adra.md)
 
-### Összefoglalás
+## Összefoglalás
 <div>
 <p align="justify">Végre ​megtudjuk, mit is gondol egy férfi az élet olyan, női szemmel alapvető fontosságú – ám férfiként végtelenül lényegtelen – kérdéseiről, mint a fogyókúra, a női táska, a reformkonyha, vagy éppen a vécédeszka lehajtásának problémaköre. Cserébe azok a hölgyolvasók, akik belevágnak e könyvbe, pótolhatatlan információkat kapnak a férfiak gondolatvilágáról. Higgyék el: párjuk soha nem volt, és nem is lesz önökhöz olyan őszinte, mint ez a könyv… Amennyiben a kedves érdeklődő harcos feminista, kérjük, óvatosan helyezze vissza ezt a könyvet a polcra. Nem vennénk a lelkünkre, ha felizgatná magát a regény olvasása során. A világ már csak úgy van berendezve, hogy a nők lelkével foglalkozik – ez a könyv azonban a férfi szemszögéből közelít a párkapcsolatokhoz, és az írót láthatóan nem izgatta, hogy véleményformálása közben rálép néhány tyúkszemre. Réti László ezen könyvével nem a tőle megszokott realista thrillerrel jelentkezik, hanem könnyedén szórakoztatva vezeti be olvasóit a férfi-nő kapcsolat rejtelmeibe, melynek során szokatlan szókimondással és szarkazmussal boncolgatja azokat a kérdéseket, amelyeket nem szokás kimondani.<br>A könyv ebben a formában e-book-ként jelent meg, amely azonos Marcus Meadow 7. könyvével, melynek eredeti címe: Szex és Szekszárd.</p></div>
 
