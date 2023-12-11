@@ -6,102 +6,461 @@
 <meta content="pandoc" name="generator"/>
 <meta content="width=device-width, initial-scale=1.0, user-scalable=yes" name="viewport"/>
 <title>Cassandra Clare.md.tmp</title>
-<style type="text/css">
-      code{white-space: pre-wrap;}
-      span.smallcaps{font-variant: small-caps;}
-      span.underline{text-decoration: underline;}
-      div.column{display: inline-block; vertical-align: top; width: 50%;}
+<style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
+<!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
 </head>
 <body>
 <hr/>
-<h1 id="cassandra-clare-csontváros-a-végzet-ereklyéi-1-2020"><a name="id_635">Cassandra Clare: Csontváros (A Végzet Ereklyéi 1) (2020)</a></h1>
+<h1 id="cassandra-clare-csontváros-a-végzet-ereklyéi-1-2020"><a name="id_635">Cassandra
+Clare: Csontváros (A Végzet Ereklyéi 1) (2020)</a></h1>
 <center>
 <img alt="cover" src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Cassandra%20Clare/Csontvaros%20%28635%29/cover.jpg" width="300"/>
 </center>
 <h2 id="letöltés">Letöltés</h2>
 <p><a href="./../Cassandra%20Clare/Csontvaros%20%28635%29/Csontvaros%20-%20Cassandra%20Clare.epub">epub</a></p>
 <h2 id="tagek">Tagek</h2>
-<p><a href="./../_tags/21.%20sz%C3%A1zad.html">21. század</a>, <a href="./../_tags/amerikai.html">amerikai</a>, <a href="./../_tags/usa.html">usa</a>, <a href="./../_tags/amerikai%20szerz%C5%91.html">amerikai szerző</a>, <a href="./../_tags/bar%C3%A1ts%C3%A1g.html">barátság</a>, <a href="./../_tags/boszork%C3%A1ny.html">boszorkány</a>, <a href="./../_tags/d%C3%A9mon.html">démon</a>, <a href="./../_tags/fantasy.html">fantasy</a>, <a href="./../_tags/f%C3%A9rfi%20f%C5%91szerepl%C5%91.html">férfi főszereplő</a>, <a href="./../_tags/filmadapt%C3%A1ci%C3%B3.html">filmadaptáció</a>, <a href="./../_tags/hal%C3%A1l.html">halál</a>, <a href="./../_tags/humoros.html">humoros</a>, <a href="./../_tags/ifj%C3%BAs%C3%A1gi.html">ifjúsági</a>, <a href="./../_tags/kaland.html">kaland</a>, <a href="./../_tags/kort%C3%A1rs.html">kortárs</a>, <a href="./../_tags/magyar%20nyelv%C5%B1.html">magyar nyelvű</a>, <a href="./../_tags/new%20york.html">new york</a>, <a href="./../_tags/new%20york%20%C3%A1llam.html">new york (állam)</a>, <a href="./../_tags/n%C5%91i%20f%C5%91szerepl%C5%91.html">női főszereplő</a>, <a href="./../_tags/ny%C3%A1r.html">nyár</a></p>
+<p><a href="./../_tags/21.%20sz%C3%A1zad.html">21.
+század</a>, <a href="./../_tags/amerikai.html">amerikai</a>,
+<a href="./../_tags/usa.html">usa</a>,
+<a href="./../_tags/amerikai%20szerz%C5%91.html">amerikai
+szerző</a>, <a href="./../_tags/bar%C3%A1ts%C3%A1g.html">barátság</a>,
+<a href="./../_tags/boszork%C3%A1ny.html">boszorkány</a>,
+<a href="./../_tags/d%C3%A9mon.html">démon</a>,
+<a href="./../_tags/fantasy.html">fantasy</a>,
+<a href="./../_tags/f%C3%A9rfi%20f%C5%91szerepl%C5%91.html">férfi
+főszereplő</a>, <a href="./../_tags/filmadapt%C3%A1ci%C3%B3.html">filmadaptáció</a>,
+<a href="./../_tags/hal%C3%A1l.html">halál</a>,
+<a href="./../_tags/humoros.html">humoros</a>,
+<a href="./../_tags/ifj%C3%BAs%C3%A1gi.html">ifjúsági</a>,
+<a href="./../_tags/kaland.html">kaland</a>,
+<a href="./../_tags/kort%C3%A1rs.html">kortárs</a>,
+<a href="./../_tags/magyar%20nyelv%C5%B1.html">magyar
+nyelvű</a>, <a href="./../_tags/new%20york.html">new
+york</a>, <a href="./../_tags/new%20york%20%C3%A1llam.html">new
+york (állam)</a>, <a href="./../_tags/n%C5%91i%20f%C5%91szerepl%C5%91.html">női
+főszereplő</a>, <a href="./../_tags/ny%C3%A1r.html">nyár</a></p>
 <h2 id="összefoglalás">Összefoglalás</h2>
 <div>
 <p>
-Gyilkosság ​tanúja lesz – a tizenöt éves Clary Fray aligha számít erre, amikor elindul a Pandemonium nevű New York-i klubba. Az elkövetők: három, különös tetoválásokkal borított és bizarr fegyverekkel hadonászó tinédzser.<br/>A holttest aztán eltűnik a semmibe. Nehéz kihívni a rendőrséget, ha a gyilkosok mindenki más számára láthatatlanok, és semmi, még egy vércsepp sem bizonyítja, hogy egy fiú meghalt. De fiú volt-e az áldozat egyáltalán?<br/>Így találkozik Clary először az Árnyvadászokkal, akik azért küzdenek, hogy megszabadítsák a földet a démonoktól. Közülük való az angyali külseje ellenére igazi bunkó módjára viselkedő Jace is. Clary egyetlen nappal később, akarata ellenére már bele is csöppen Jace világába: édesanyja eltűnik, őt magát pedig megtámadja egy démon. De miért érdekelne egy démont két olyan hétköznapi mondi, mint Clary és az édesanyja? És hogyan tett szert Clary egyszer csak a Látásra?<br/>Az Árnyvadászok tudni akarják…<br/>Cassandra Clare lendületes, sziporkázó és végtelenül lebilincselő regénye szórakoztató, vad utazásra visz. Azt fogod kívánni, bárcsak sose érnél az út végére.
+Gyilkosság ​tanúja lesz – a tizenöt éves Clary Fray aligha számít erre,
+amikor elindul a Pandemonium nevű New York-i klubba. Az elkövetők:
+három, különös tetoválásokkal borított és bizarr fegyverekkel hadonászó
+tinédzser.<br/>A holttest aztán eltűnik a semmibe. Nehéz kihívni a
+rendőrséget, ha a gyilkosok mindenki más számára láthatatlanok, és
+semmi, még egy vércsepp sem bizonyítja, hogy egy fiú meghalt. De fiú
+volt-e az áldozat egyáltalán?<br/>Így találkozik Clary először az
+Árnyvadászokkal, akik azért küzdenek, hogy megszabadítsák a földet a
+démonoktól. Közülük való az angyali külseje ellenére igazi bunkó módjára
+viselkedő Jace is. Clary egyetlen nappal később, akarata ellenére már
+bele is csöppen Jace világába: édesanyja eltűnik, őt magát pedig
+megtámadja egy démon. De miért érdekelne egy démont két olyan hétköznapi
+mondi, mint Clary és az édesanyja? És hogyan tett szert Clary egyszer
+csak a Látásra?<br/>Az Árnyvadászok tudni akarják…<br/>Cassandra Clare
+lendületes, sziporkázó és végtelenül lebilincselő regénye szórakoztató,
+vad utazásra visz. Azt fogod kívánni, bárcsak sose érnél az út végére.
 </p>
 </div>
 <hr/>
-<h1 id="cassandra-clare-hamuváros-a-végzet-ereklyéi-2-2020"><a name="id_636">Cassandra Clare: Hamuváros (A Végzet Ereklyéi 2) (2020)</a></h1>
+<h1 id="cassandra-clare-hamuváros-a-végzet-ereklyéi-2-2020"><a name="id_636">Cassandra
+Clare: Hamuváros (A Végzet Ereklyéi 2) (2020)</a></h1>
 <center>
 <img alt="cover" src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Cassandra%20Clare/Hamuvaros%20%28636%29/cover.jpg" width="300"/>
 </center>
 <h2 id="letöltés-1">Letöltés</h2>
 <p><a href="./../Cassandra%20Clare/Hamuvaros%20%28636%29/Hamuvaros%20-%20Cassandra%20Clare.epub">epub</a></p>
 <h2 id="tagek-1">Tagek</h2>
-<p><a href="./../_tags/21.%20sz%C3%A1zad.html">21. század</a>, <a href="./../_tags/usa.html">usa</a>, <a href="./../_tags/amerikai%20szerz%C5%91.html">amerikai szerző</a>, <a href="./../_tags/bar%C3%A1ts%C3%A1g.html">barátság</a>, <a href="./../_tags/boszork%C3%A1ny.html">boszorkány</a>, <a href="./../_tags/d%C3%A9mon.html">démon</a>, <a href="./../_tags/fantasy.html">fantasy</a>, <a href="./../_tags/f%C3%A9rfi%20f%C5%91szerepl%C5%91.html">férfi főszereplő</a>, <a href="./../_tags/ifj%C3%BAs%C3%A1gi.html">ifjúsági</a>, <a href="./../_tags/kaland.html">kaland</a>, <a href="./../_tags/kamasz%20f%C5%91szerepl%C5%91.html">kamasz főszereplő</a>, <a href="./../_tags/kort%C3%A1rs.html">kortárs</a>, <a href="./../_tags/macska.html">macska</a>, <a href="./../_tags/magyar%20nyelv%C5%B1.html">magyar nyelvű</a>, <a href="./../_tags/new%20york.html">new york</a>, <a href="./../_tags/n%C5%91i%20f%C5%91szerepl%C5%91.html">női főszereplő</a>, <a href="./../_tags/reg%C3%A9ny.html">regény</a>, <a href="./../_tags/sorozat%20r%C3%A9sze.html">sorozat része</a>, <a href="./../_tags/testv%C3%A9rek.html">testvérek</a>, <a href="./../_tags/t%C3%A9v%C3%A9sorozat-adapt%C3%A1ci%C3%B3.html">tévésorozat-adaptáció</a></p>
+<p><a href="./../_tags/21.%20sz%C3%A1zad.html">21.
+század</a>, <a href="./../_tags/usa.html">usa</a>,
+<a href="./../_tags/amerikai%20szerz%C5%91.html">amerikai
+szerző</a>, <a href="./../_tags/bar%C3%A1ts%C3%A1g.html">barátság</a>,
+<a href="./../_tags/boszork%C3%A1ny.html">boszorkány</a>,
+<a href="./../_tags/d%C3%A9mon.html">démon</a>,
+<a href="./../_tags/fantasy.html">fantasy</a>,
+<a href="./../_tags/f%C3%A9rfi%20f%C5%91szerepl%C5%91.html">férfi
+főszereplő</a>, <a href="./../_tags/ifj%C3%BAs%C3%A1gi.html">ifjúsági</a>,
+<a href="./../_tags/kaland.html">kaland</a>,
+<a href="./../_tags/kamasz%20f%C5%91szerepl%C5%91.html">kamasz
+főszereplő</a>, <a href="./../_tags/kort%C3%A1rs.html">kortárs</a>,
+<a href="./../_tags/macska.html">macska</a>,
+<a href="./../_tags/magyar%20nyelv%C5%B1.html">magyar
+nyelvű</a>, <a href="./../_tags/new%20york.html">new
+york</a>, <a href="./../_tags/n%C5%91i%20f%C5%91szerepl%C5%91.html">női
+főszereplő</a>, <a href="./../_tags/reg%C3%A9ny.html">regény</a>,
+<a href="./../_tags/sorozat%20r%C3%A9sze.html">sorozat
+része</a>, <a href="./../_tags/testv%C3%A9rek.html">testvérek</a>,
+<a href="./../_tags/t%C3%A9v%C3%A9sorozat-adapt%C3%A1ci%C3%B3.html">tévésorozat-adaptáció</a></p>
 <h2 id="összefoglalás-1">Összefoglalás</h2>
 <div>
 <p>
-Hát lehetetlen?!<br/>Clary Fray másra sem vágyik, csak hogy végre ismét normális életet élhessen.<br/>De vajon mi számít normálisnak, ha valaki démonokat pusztító Árnyvadász, az édesanyja varázslattal előidézett kómában fekszik, és egyszerre vérfarkasok, vámpírok meg tündérek nyüzsögnek körülötte? Clary szívesen töltene több időt legjobb barátjával, Simonnal, csakhogy az Árnyvadászoktól nem szabadulhat – főleg nem jóképű, ámde bosszantó, újonnan megtalált bátyjától, Jace-től. Clary csakis úgy segíthet édesanyján, ha felkutatja a rossz útra tért Árnyvadászt, Valentine-t, aki talán őrült, bizonyosan gonosz – ráadásul az édesapja.<br/>Amikor a Végzet Ereklyéi közül a másodikat is ellopják, a félelmetes Inkvizítor Jace-t gyanúsítja. Lehet, hogy a fiú tényleg elárul mindent, amiben hitt, és az apja mellé áll?<br/>„Humoros, komor és szexi. Az egyik kedvenc könyvem.” – Holly Black<br/>„Kapaszkodj erősen! Izgalmas, szenvedélyes, hátborzongató utazásra indulsz.” – Libba Bray
+Hát lehetetlen?!<br/>Clary Fray másra sem vágyik, csak hogy végre ismét
+normális életet élhessen.<br/>De vajon mi számít normálisnak, ha valaki
+démonokat pusztító Árnyvadász, az édesanyja varázslattal előidézett
+kómában fekszik, és egyszerre vérfarkasok, vámpírok meg tündérek
+nyüzsögnek körülötte? Clary szívesen töltene több időt legjobb
+barátjával, Simonnal, csakhogy az Árnyvadászoktól nem szabadulhat –
+főleg nem jóképű, ámde bosszantó, újonnan megtalált bátyjától, Jace-től.
+Clary csakis úgy segíthet édesanyján, ha felkutatja a rossz útra tért
+Árnyvadászt, Valentine-t, aki talán őrült, bizonyosan gonosz – ráadásul
+az édesapja.<br/>Amikor a Végzet Ereklyéi közül a másodikat is ellopják,
+a félelmetes Inkvizítor Jace-t gyanúsítja. Lehet, hogy a fiú tényleg
+elárul mindent, amiben hitt, és az apja mellé áll?<br/>„Humoros, komor és
+szexi. Az egyik kedvenc könyvem.” – Holly Black<br/>„Kapaszkodj erősen!
+Izgalmas, szenvedélyes, hátborzongató utazásra indulsz.” – Libba Bray
 </p>
 </div>
 <hr/>
-<h1 id="cassandra-clare-üvegváros-a-végzet-ereklyéi-3-2018"><a name="id_637">Cassandra Clare: Üvegváros (A Végzet Ereklyéi 3) (2018)</a></h1>
+<h1 id="cassandra-clare-üvegváros-a-végzet-ereklyéi-3-2018"><a name="id_637">Cassandra
+Clare: Üvegváros (A Végzet Ereklyéi 3) (2018)</a></h1>
 <center>
 <img alt="cover" src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Cassandra%20Clare/Uvegvaros%20%28637%29/cover.jpg" width="300"/>
 </center>
 <h2 id="letöltés-2">Letöltés</h2>
 <p><a href="./../Cassandra%20Clare/Uvegvaros%20%28637%29/Uvegvaros%20-%20Cassandra%20Clare.epub">epub</a></p>
 <h2 id="tagek-2">Tagek</h2>
-<p><a href="./../_tags/21.%20sz%C3%A1zad.html">21. század</a>, <a href="./../_tags/amerikai%20szerz%C5%91.html">amerikai szerző</a>, <a href="./../_tags/angyal.html">angyal</a>, <a href="./../_tags/bar%C3%A1ts%C3%A1g.html">barátság</a>, <a href="./../_tags/boszork%C3%A1ny.html">boszorkány</a>, <a href="./../_tags/d%C3%A9mon.html">démon</a>, <a href="./../_tags/fantasy.html">fantasy</a>, <a href="./../_tags/f%C3%A9rfi%20f%C5%91szerepl%C5%91.html">férfi főszereplő</a>, <a href="./../_tags/h%C3%A1bor%C3%BA.html">háború</a>, <a href="./../_tags/ifj%C3%BAs%C3%A1gi.html">ifjúsági</a>, <a href="./../_tags/kaland.html">kaland</a>, <a href="./../_tags/kamasz%20f%C5%91szerepl%C5%91.html">kamasz főszereplő</a>, <a href="./../_tags/kort%C3%A1rs.html">kortárs</a>, <a href="./../_tags/magyar%20nyelv%C5%B1.html">magyar nyelvű</a>, <a href="./../_tags/n%C5%91i%20f%C5%91szerepl%C5%91.html">női főszereplő</a>, <a href="./../_tags/reg%C3%A9ny.html">regény</a>, <a href="./../_tags/romantikus.html">romantikus</a>, <a href="./../_tags/sorozat%20r%C3%A9sze.html">sorozat része</a>, <a href="./../_tags/testv%C3%A9rek.html">testvérek</a>, <a href="./../_tags/t%C3%A9v%C3%A9sorozat-adapt%C3%A1ci%C3%B3.html">tévésorozat-adaptáció</a></p>
+<p><a href="./../_tags/21.%20sz%C3%A1zad.html">21.
+század</a>, <a href="./../_tags/amerikai%20szerz%C5%91.html">amerikai
+szerző</a>, <a href="./../_tags/angyal.html">angyal</a>,
+<a href="./../_tags/bar%C3%A1ts%C3%A1g.html">barátság</a>,
+<a href="./../_tags/boszork%C3%A1ny.html">boszorkány</a>,
+<a href="./../_tags/d%C3%A9mon.html">démon</a>,
+<a href="./../_tags/fantasy.html">fantasy</a>,
+<a href="./../_tags/f%C3%A9rfi%20f%C5%91szerepl%C5%91.html">férfi
+főszereplő</a>, <a href="./../_tags/h%C3%A1bor%C3%BA.html">háború</a>,
+<a href="./../_tags/ifj%C3%BAs%C3%A1gi.html">ifjúsági</a>,
+<a href="./../_tags/kaland.html">kaland</a>,
+<a href="./../_tags/kamasz%20f%C5%91szerepl%C5%91.html">kamasz
+főszereplő</a>, <a href="./../_tags/kort%C3%A1rs.html">kortárs</a>,
+<a href="./../_tags/magyar%20nyelv%C5%B1.html">magyar
+nyelvű</a>, <a href="./../_tags/n%C5%91i%20f%C5%91szerepl%C5%91.html">női
+főszereplő</a>, <a href="./../_tags/reg%C3%A9ny.html">regény</a>,
+<a href="./../_tags/romantikus.html">romantikus</a>,
+<a href="./../_tags/sorozat%20r%C3%A9sze.html">sorozat
+része</a>, <a href="./../_tags/testv%C3%A9rek.html">testvérek</a>,
+<a href="./../_tags/t%C3%A9v%C3%A9sorozat-adapt%C3%A1ci%C3%B3.html">tévésorozat-adaptáció</a></p>
 <h2 id="összefoglalás-2">Összefoglalás</h2>
 <div>
 <p>
-Hogy ​megmentse édesanyja életét, Clarynek el kell utaznia az Üvegvárosba, az Árnyvadászok ősi otthonába – még ha engedély nélkül belépni a városba a Törvénybe is ütközik, márpedig a Törvény megszegése halált jelenthet. Ha ennyi nem lenne elég, Jace nem akarja, hogy ott legyen, Simont pedig börtönbe vetették az Árnyvadászok, akik igencsak gyanúsnak találnak egy vámpírt, akinek nem árt a napfény.<br/>Ahogy Clary egyre többet tud meg családja múltjáról, szövetségesre lel Sebastian, a titokzatos Árnyvadász személyében. Valentine minden erejével azon van, hogy örökre megsemmisítsen minden Árnyvadászt, nekik pedig csak akkor van esélyük vele szemben, ha összefognak örökös ellenségeikkel. De félre tudják-e tenni gyűlöletüket az Árnyvadászok és az Alvilágiak, hogy együttműködhessenek? Miközben Jace rádöbben, mi mindent hajlandó kockára tenni Claryért, vajon a lány újonnan meglelt képességeivel segíthet-e megmenteni az Üvegvárost – bármilyen áron?<br/>A szerelem halálos bűn, és a múlt titkai is végzetesnek bizonyulnak, amikor Clary és Jace szembenéz Valentine-nal a New York Times nagysikerű sorozatának, A Végzet Ereklyéinek utolsó darabjában.
+Hogy ​megmentse édesanyja életét, Clarynek el kell utaznia az
+Üvegvárosba, az Árnyvadászok ősi otthonába – még ha engedély nélkül
+belépni a városba a Törvénybe is ütközik, márpedig a Törvény megszegése
+halált jelenthet. Ha ennyi nem lenne elég, Jace nem akarja, hogy ott
+legyen, Simont pedig börtönbe vetették az Árnyvadászok, akik igencsak
+gyanúsnak találnak egy vámpírt, akinek nem árt a napfény.<br/>Ahogy Clary
+egyre többet tud meg családja múltjáról, szövetségesre lel Sebastian, a
+titokzatos Árnyvadász személyében. Valentine minden erejével azon van,
+hogy örökre megsemmisítsen minden Árnyvadászt, nekik pedig csak akkor
+van esélyük vele szemben, ha összefognak örökös ellenségeikkel. De félre
+tudják-e tenni gyűlöletüket az Árnyvadászok és az Alvilágiak, hogy
+együttműködhessenek? Miközben Jace rádöbben, mi mindent hajlandó kockára
+tenni Claryért, vajon a lány újonnan meglelt képességeivel segíthet-e
+megmenteni az Üvegvárost – bármilyen áron?<br/>A szerelem halálos bűn, és
+a múlt titkai is végzetesnek bizonyulnak, amikor Clary és Jace szembenéz
+Valentine-nal a New York Times nagysikerű sorozatának, A Végzet
+Ereklyéinek utolsó darabjában.
 </p>
 </div>
 <hr/>
-<h1 id="cassandra-clare-bukott-angyalok-városa-a-végzet-ereklyéi-4-2018"><a name="id_638">Cassandra Clare: Bukott angyalok városa (A Végzet Ereklyéi 4) (2018)</a></h1>
+<h1 id="cassandra-clare-bukott-angyalok-városa-a-végzet-ereklyéi-4-2018"><a name="id_638">Cassandra
+Clare: Bukott angyalok városa (A Végzet Ereklyéi 4) (2018)</a></h1>
 <center>
 <img alt="cover" src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Cassandra%20Clare/Bukott%20angyalok%20varosa%20%28638%29/cover.jpg" width="300"/>
 </center>
 <h2 id="letöltés-3">Letöltés</h2>
 <p><a href="./../Cassandra%20Clare/Bukott%20angyalok%20varosa%20%28638%29/Bukott%20angyalok%20varosa%20-%20Cassandra%20Clare.epub">epub</a></p>
 <h2 id="tagek-3">Tagek</h2>
-<p><a href="./../_tags/21.%20sz%C3%A1zad.html">21. század</a>, <a href="./../_tags/%C3%A1lom.html">álom</a>, <a href="./../_tags/usa.html">usa</a>, <a href="./../_tags/amerikai%20szerz%C5%91.html">amerikai szerző</a>, <a href="./../_tags/angyal.html">angyal</a>, <a href="./../_tags/bar%C3%A1ts%C3%A1g.html">barátság</a>, <a href="./../_tags/boszork%C3%A1ny.html">boszorkány</a>, <a href="./../_tags/d%C3%A9mon.html">démon</a>, <a href="./../_tags/fantasy.html">fantasy</a>, <a href="./../_tags/f%C3%A9rfi%20f%C5%91szerepl%C5%91.html">férfi főszereplő</a>, <a href="./../_tags/gyilkoss%C3%A1g.html">gyilkosság</a>, <a href="./../_tags/ifj%C3%BAs%C3%A1gi.html">ifjúsági</a>, <a href="./../_tags/kamasz%20f%C5%91szerepl%C5%91.html">kamasz főszereplő</a>, <a href="./../_tags/kort%C3%A1rs.html">kortárs</a>, <a href="./../_tags/magyar%20nyelv%C5%B1.html">magyar nyelvű</a>, <a href="./../_tags/new%20york.html">new york</a>, <a href="./../_tags/n%C5%91i%20f%C5%91szerepl%C5%91.html">női főszereplő</a>, <a href="./../_tags/reg%C3%A9ny.html">regény</a>, <a href="./../_tags/romantikus.html">romantikus</a>, <a href="./../_tags/sorozat%20r%C3%A9sze.html">sorozat része</a></p>
+<p><a href="./../_tags/21.%20sz%C3%A1zad.html">21.
+század</a>, <a href="./../_tags/%C3%A1lom.html">álom</a>,
+<a href="./../_tags/usa.html">usa</a>,
+<a href="./../_tags/amerikai%20szerz%C5%91.html">amerikai
+szerző</a>, <a href="./../_tags/angyal.html">angyal</a>,
+<a href="./../_tags/bar%C3%A1ts%C3%A1g.html">barátság</a>,
+<a href="./../_tags/boszork%C3%A1ny.html">boszorkány</a>,
+<a href="./../_tags/d%C3%A9mon.html">démon</a>,
+<a href="./../_tags/fantasy.html">fantasy</a>,
+<a href="./../_tags/f%C3%A9rfi%20f%C5%91szerepl%C5%91.html">férfi
+főszereplő</a>, <a href="./../_tags/gyilkoss%C3%A1g.html">gyilkosság</a>,
+<a href="./../_tags/ifj%C3%BAs%C3%A1gi.html">ifjúsági</a>,
+<a href="./../_tags/kamasz%20f%C5%91szerepl%C5%91.html">kamasz
+főszereplő</a>, <a href="./../_tags/kort%C3%A1rs.html">kortárs</a>,
+<a href="./../_tags/magyar%20nyelv%C5%B1.html">magyar
+nyelvű</a>, <a href="./../_tags/new%20york.html">new
+york</a>, <a href="./../_tags/n%C5%91i%20f%C5%91szerepl%C5%91.html">női
+főszereplő</a>, <a href="./../_tags/reg%C3%A9ny.html">regény</a>,
+<a href="./../_tags/romantikus.html">romantikus</a>,
+<a href="./../_tags/sorozat%20r%C3%A9sze.html">sorozat
+része</a></p>
 <h2 id="összefoglalás-3">Összefoglalás</h2>
 <div>
 <p>
-A ​háborúnak vége, és Clary Fray izgatottan tért vissza New Yorkba, ahol egy lehetőségekkel teli, új világ vár rá. Szorgalmasan edz, hogy Árnyvadász válhasson belőle, és felhasználhassa különleges képességeit. Édesanyja feleségül megy élete szerelméhez. Az Árnyvadászok és az Alvilágiak végre békében élnek egymással. És ami a legfontosabb, Clary és Jace szerelme végre igazán kiteljesedhet.<br/>Valaki azonban Árnyvadászokat kezd gyilkolni, és az éleződő feszültség újabb véres háborúval fenyeget. Clary legjobb barátja, Simon sem segíthet. Akármerre fordul, valaki maga mellé akarja állítani, hiszen szükségük van az életét megrontó átok rettenetes hatalmára. Arról nem is beszélve, hogy két gyönyörű, ámde veszélyes lánnyal jár egyszerre, akik közül egyik sem tud a másikról.<br/>Amikor Jace minden magyarázat nélkül távolodni kezd Clarytől, a lány egy rejtély kellős közepén találja magát, amelynek a megoldásával valóra válik a legrosszabb rémálma. Rettenetes események láncolatát indítja el, aminek akár az is lehet a vége, hogy mindent elveszít, ami fontos a számára. Még Jace-t is.
+A ​háborúnak vége, és Clary Fray izgatottan tért vissza New Yorkba, ahol
+egy lehetőségekkel teli, új világ vár rá. Szorgalmasan edz, hogy
+Árnyvadász válhasson belőle, és felhasználhassa különleges képességeit.
+Édesanyja feleségül megy élete szerelméhez. Az Árnyvadászok és az
+Alvilágiak végre békében élnek egymással. És ami a legfontosabb, Clary
+és Jace szerelme végre igazán kiteljesedhet.<br/>Valaki azonban
+Árnyvadászokat kezd gyilkolni, és az éleződő feszültség újabb véres
+háborúval fenyeget. Clary legjobb barátja, Simon sem segíthet. Akármerre
+fordul, valaki maga mellé akarja állítani, hiszen szükségük van az
+életét megrontó átok rettenetes hatalmára. Arról nem is beszélve, hogy
+két gyönyörű, ámde veszélyes lánnyal jár egyszerre, akik közül egyik sem
+tud a másikról.<br/>Amikor Jace minden magyarázat nélkül távolodni kezd
+Clarytől, a lány egy rejtély kellős közepén találja magát, amelynek a
+megoldásával valóra válik a legrosszabb rémálma. Rettenetes események
+láncolatát indítja el, aminek akár az is lehet a vége, hogy mindent
+elveszít, ami fontos a számára. Még Jace-t is.
 </p>
 </div>
 <hr/>
-<h1 id="cassandra-clare-elveszett-lelkek-városa-a-végzet-ereklyéi-5-2018"><a name="id_639">Cassandra Clare: Elveszett lelkek városa (A Végzet Ereklyéi 5) (2018)</a></h1>
+<h1 id="cassandra-clare-elveszett-lelkek-városa-a-végzet-ereklyéi-5-2018"><a name="id_639">Cassandra
+Clare: Elveszett lelkek városa (A Végzet Ereklyéi 5) (2018)</a></h1>
 <center>
 <img alt="cover" src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Cassandra%20Clare/Elveszett%20lelkek%20varosa%20%28639%29/cover.jpg" width="300"/>
 </center>
 <h2 id="letöltés-4">Letöltés</h2>
 <p><a href="./../Cassandra%20Clare/Elveszett%20lelkek%20varosa%20%28639%29/Elveszett%20lelkek%20varosa%20-%20Cassandra%20Clare.epub">epub</a></p>
 <h2 id="tagek-4">Tagek</h2>
-<p><a href="./../_tags/21.%20sz%C3%A1zad.html">21. század</a>, <a href="./../_tags/usa.html">usa</a>, <a href="./../_tags/amerikai%20szerz%C5%91.html">amerikai szerző</a>, <a href="./../_tags/angyal.html">angyal</a>, <a href="./../_tags/bar%C3%A1ts%C3%A1g.html">barátság</a>, <a href="./../_tags/boszork%C3%A1ny.html">boszorkány</a>, <a href="./../_tags/d%C3%A9mon.html">démon</a>, <a href="./../_tags/fantasy.html">fantasy</a>, <a href="./../_tags/f%C3%A9rfi%20f%C5%91szerepl%C5%91.html">férfi főszereplő</a>, <a href="./../_tags/ifj%C3%BAs%C3%A1gi.html">ifjúsági</a>, <a href="./../_tags/kamasz%20f%C5%91szerepl%C5%91.html">kamasz főszereplő</a>, <a href="./../_tags/kort%C3%A1rs.html">kortárs</a>, <a href="./../_tags/m%C3%A1gia.html">mágia</a>, <a href="./../_tags/magyar%20nyelv%C5%B1.html">magyar nyelvű</a>, <a href="./../_tags/n%C5%91i%20f%C5%91szerepl%C5%91.html">női főszereplő</a>, <a href="./../_tags/reg%C3%A9ny.html">regény</a>, <a href="./../_tags/romantikus.html">romantikus</a>, <a href="./../_tags/sorozat%20r%C3%A9sze.html">sorozat része</a>, <a href="./../_tags/testv%C3%A9rek.html">testvérek</a>, <a href="./../_tags/t%C3%A9v%C3%A9sorozat-adapt%C3%A1ci%C3%B3.html">tévésorozat-adaptáció</a></p>
+<p><a href="./../_tags/21.%20sz%C3%A1zad.html">21.
+század</a>, <a href="./../_tags/usa.html">usa</a>,
+<a href="./../_tags/amerikai%20szerz%C5%91.html">amerikai
+szerző</a>, <a href="./../_tags/angyal.html">angyal</a>,
+<a href="./../_tags/bar%C3%A1ts%C3%A1g.html">barátság</a>,
+<a href="./../_tags/boszork%C3%A1ny.html">boszorkány</a>,
+<a href="./../_tags/d%C3%A9mon.html">démon</a>,
+<a href="./../_tags/fantasy.html">fantasy</a>,
+<a href="./../_tags/f%C3%A9rfi%20f%C5%91szerepl%C5%91.html">férfi
+főszereplő</a>, <a href="./../_tags/ifj%C3%BAs%C3%A1gi.html">ifjúsági</a>,
+<a href="./../_tags/kamasz%20f%C5%91szerepl%C5%91.html">kamasz
+főszereplő</a>, <a href="./../_tags/kort%C3%A1rs.html">kortárs</a>,
+<a href="./../_tags/m%C3%A1gia.html">mágia</a>,
+<a href="./../_tags/magyar%20nyelv%C5%B1.html">magyar
+nyelvű</a>, <a href="./../_tags/n%C5%91i%20f%C5%91szerepl%C5%91.html">női
+főszereplő</a>, <a href="./../_tags/reg%C3%A9ny.html">regény</a>,
+<a href="./../_tags/romantikus.html">romantikus</a>,
+<a href="./../_tags/sorozat%20r%C3%A9sze.html">sorozat
+része</a>, <a href="./../_tags/testv%C3%A9rek.html">testvérek</a>,
+<a href="./../_tags/t%C3%A9v%C3%A9sorozat-adapt%C3%A1ci%C3%B3.html">tévésorozat-adaptáció</a></p>
 <h2 id="összefoglalás-4">Összefoglalás</h2>
 <div>
 <p>
-Mi az az ár, ami még a szerelemért is túl magas? Amikor Jace és Clary ismét találkoznak, a lány elborzadva tapasztalja, hogy szerelmét és gonosz bátyját Lilith varázslata egymáshoz köti. A Klávé célja megölni Sebastiant, de lehetetlen anélkül végezni az egyik fiúval, hogy a másiknak ne essék bántódása. Alec, Magnus, Simon és Isabelle tündérekkel, démonokkal meg a könyörtelen Vasnővérekkel alkudozik, Clary pedig veszélyes játszmába kezd. A tét nem csak a saját élete, de Jace lelke is egyben. De bízhat-e még a fiúban egyáltalán?<br/>Szerelem. Vér. Árulás. Bosszú. A Végzet Ereklyéi lélegzetelállító ötödik darabjában közelítő sötétség fenyegeti az árnyvadászokat.
+Mi az az ár, ami még a szerelemért is túl magas? Amikor Jace és Clary
+ismét találkoznak, a lány elborzadva tapasztalja, hogy szerelmét és
+gonosz bátyját Lilith varázslata egymáshoz köti. A Klávé célja megölni
+Sebastiant, de lehetetlen anélkül végezni az egyik fiúval, hogy a
+másiknak ne essék bántódása. Alec, Magnus, Simon és Isabelle
+tündérekkel, démonokkal meg a könyörtelen Vasnővérekkel alkudozik, Clary
+pedig veszélyes játszmába kezd. A tét nem csak a saját élete, de Jace
+lelke is egyben. De bízhat-e még a fiúban egyáltalán?<br/>Szerelem. Vér.
+Árulás. Bosszú. A Végzet Ereklyéi lélegzetelállító ötödik darabjában
+közelítő sötétség fenyegeti az árnyvadászokat.
 </p>
 </div>
 <hr/>
-<h1 id="cassandra-clare-az-angyal-pokoli-szerkezetek-1-2020"><a name="id_640">Cassandra Clare: Az angyal (Pokoli szerkezetek 1) (2020)</a></h1>
+<h1 id="cassandra-clare-az-angyal-pokoli-szerkezetek-1-2020"><a name="id_640">Cassandra
+Clare: Az angyal (Pokoli szerkezetek 1) (2020)</a></h1>
 <center>
 <img alt="cover" src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Cassandra%20Clare/Az%20angyal%20%28640%29/cover.jpg" width="300"/>
 </center>
 <h2 id="letöltés-5">Letöltés</h2>
 <p><a href="./../Cassandra%20Clare/Az%20angyal%20%28640%29/Az%20angyal%20-%20Cassandra%20Clare.epub">epub</a></p>
 <h2 id="tagek-5">Tagek</h2>
-<p><a href="./../_tags/19.%20sz%C3%A1zad.html">19. század</a>, <a href="./../_tags/amerikai%20szerz%C5%91.html">amerikai szerző</a>, <a href="./../_tags/anglia.html">anglia</a>, <a href="./../_tags/angyal.html">angyal</a>, <a href="./../_tags/bar%C3%A1ts%C3%A1g.html">barátság</a>, <a href="./../_tags/boszork%C3%A1ny.html">boszorkány</a>, <a href="./../_tags/d%C3%A9mon.html">démon</a>, <a href="./../_tags/f%C3%A9rfi%20f%C5%91szerepl%C5%91.html">férfi főszereplő</a>, <a href="./../_tags/ifj%C3%BAs%C3%A1gi.html">ifjúsági</a>, <a href="./../_tags/kaland.html">kaland</a>, <a href="./../_tags/kalandreg%C3%A9ny.html">kalandregény</a>, <a href="./../_tags/kort%C3%A1rs.html">kortárs</a>, <a href="./../_tags/london.html">london</a>, <a href="./../_tags/m%C3%A1gia.html">mágia</a>, <a href="./../_tags/magyar%20nyelv%C5%B1.html">magyar nyelvű</a>, <a href="./../_tags/n%C5%91i%20f%C5%91szerepl%C5%91.html">női főszereplő</a>, <a href="./../_tags/reg%C3%A9ny.html">regény</a>, <a href="./../_tags/romantikus.html">romantikus</a>, <a href="./../_tags/sorozat%20r%C3%A9sze.html">sorozat része</a>, <a href="./../_tags/fantasy.html">fantasy</a></p>
+<p><a href="./../_tags/19.%20sz%C3%A1zad.html">19.
+század</a>, <a href="./../_tags/amerikai%20szerz%C5%91.html">amerikai
+szerző</a>, <a href="./../_tags/anglia.html">anglia</a>,
+<a href="./../_tags/angyal.html">angyal</a>,
+<a href="./../_tags/bar%C3%A1ts%C3%A1g.html">barátság</a>,
+<a href="./../_tags/boszork%C3%A1ny.html">boszorkány</a>,
+<a href="./../_tags/d%C3%A9mon.html">démon</a>,
+<a href="./../_tags/f%C3%A9rfi%20f%C5%91szerepl%C5%91.html">férfi
+főszereplő</a>, <a href="./../_tags/ifj%C3%BAs%C3%A1gi.html">ifjúsági</a>,
+<a href="./../_tags/kaland.html">kaland</a>,
+<a href="./../_tags/kalandreg%C3%A9ny.html">kalandregény</a>,
+<a href="./../_tags/kort%C3%A1rs.html">kortárs</a>,
+<a href="./../_tags/london.html">london</a>,
+<a href="./../_tags/m%C3%A1gia.html">mágia</a>,
+<a href="./../_tags/magyar%20nyelv%C5%B1.html">magyar
+nyelvű</a>, <a href="./../_tags/n%C5%91i%20f%C5%91szerepl%C5%91.html">női
+főszereplő</a>, <a href="./../_tags/reg%C3%A9ny.html">regény</a>,
+<a href="./../_tags/romantikus.html">romantikus</a>,
+<a href="./../_tags/sorozat%20r%C3%A9sze.html">sorozat
+része</a>, <a href="./../_tags/fantasy.html">fantasy</a></p>
 <h2 id="összefoglalás-5">Összefoglalás</h2>
 <div>
 <p>
-A mágia veszélyes – de a szerelem még veszélyesebb! <br/>Amikor a tizenhat éves Tessa Gray megérkezik a viktoriánus Angliába, valami rettenetes vár rá a londoni Alvilágban, ahol vámpírok, boszorkánymesterek és más természetfeletti lények járják az utcákat a gázlámpák alatt. Tessának nincsenek barátai, és egyetlen pillanatra sem érezheti magát biztonságban, ezért menedéket kér az Árnyvadászoktól, akiknek egyetlen célja, hogy megszabadítsák a világot a démonoktól.<br/>Ahogy egyre mélyebben merül el a világukba, a lány azt veszi észre, hogy egyszerre varázsolja el két legjobb barát, és nemsokára rá kell döbbennie, hogy a szerelem a legveszélyesebb varázslat mind közül.<br/>„A Végzet Ereklyéi olyan mesevilágot fest le, ahol imádnék élni. Csodálatos”<br/>Stephenie Meyer, a Twilight szerzője
+A mágia veszélyes – de a szerelem még veszélyesebb! <br/>Amikor a
+tizenhat éves Tessa Gray megérkezik a viktoriánus Angliába, valami
+rettenetes vár rá a londoni Alvilágban, ahol vámpírok,
+boszorkánymesterek és más természetfeletti lények járják az utcákat a
+gázlámpák alatt. Tessának nincsenek barátai, és egyetlen pillanatra sem
+érezheti magát biztonságban, ezért menedéket kér az Árnyvadászoktól,
+akiknek egyetlen célja, hogy megszabadítsák a világot a
+démonoktól.<br/>Ahogy egyre mélyebben merül el a világukba, a lány azt
+veszi észre, hogy egyszerre varázsolja el két legjobb barát, és
+nemsokára rá kell döbbennie, hogy a szerelem a legveszélyesebb varázslat
+mind közül.<br/>„A Végzet Ereklyéi olyan mesevilágot fest le, ahol
+imádnék élni. Csodálatos”<br/>Stephenie Meyer, a Twilight szerzője
 </p>
 </div>
 </body>
