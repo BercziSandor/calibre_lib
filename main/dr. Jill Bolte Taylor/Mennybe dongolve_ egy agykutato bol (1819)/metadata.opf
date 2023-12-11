@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1819</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5b78925-c642-4eb0-9d68-340463e8af73</dc:identifier>
+        <dc:title>Mennybe döngölve: egy agykutató boldogító agyvérzése</dc:title>
+        <dc:creator opf:file-as="Taylor, Jill Bolte" opf:role="aut">dr. Jill Bolte Taylor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Érdekfeszítő és rendkívül jelentős mű. Hatalmas &lt;strong&gt;agyvérzés&lt;/strong&gt; miatt &lt;span style="font-weight: bold; font-style: italic"&gt;Jill Bolte Taylor&lt;/span&gt; (1959, -) amerikai neuroanatómus, író, előadó bal agyféltekéje gyakorlatilag lekapcsolt, és az agykutatónő így megtapasztalta, milyen érzés kizárólag a jobb agyféltekén keresztül szemlélni a világot. &lt;br&gt;&lt;br&gt;Azon a jobb agyféltekén keresztül, amelyet az agykontroll tanfolyamon résztvevők módszeresen edzenek! &lt;em&gt;Jill&lt;/em&gt; – igen tanulságos – felgyógyulása 8 évig tartott.&lt;br&gt;&lt;br&gt;A könyv elolvasása &lt;strong&gt;javasolt:&lt;/strong&gt; &lt;em&gt;agykontrollt végzetteknek, stroke-os (szélütéses) betegeknek és hozzátartozóiknak, valamint stroke-os betegeket kezelő szakembereknek.&lt;/em&gt;&lt;br&gt;&lt;br&gt;A történet betekintést nyújt az &lt;strong&gt;emberi agy működésébe&lt;/strong&gt;, valamint annak hihetetlen plaszticitásába. Azt is elénk tárja, hogy az agyvérzést átélt betegeknek valójában mire van szükségük a felépüléshez. DR. JILL BOLTE TAYLOR számára az agyvérzés megvilágosító hatású áldásnak bizonyult.&lt;br&gt;&lt;br&gt;Ahogy a bal agyféltekéjének nyelvi központjai elcsendesültek, megtapasztalta, hogy mi történik, ha a jobb agyfélteke kerül „főszerepbe”. Mély lelki békét és eufóriát élt át, és megértette, hogy az &lt;em&gt;univerzumban végső soron minden energia, s hogy minden létező összekapcsolódik.&lt;/em&gt;&lt;br&gt;&lt;br&gt;A felépüléssel járó nehézségek elviseléséhez az adott neki erőt, hogy sok emberhez eljuttathatja majd az üzenetet, hogy mindannyiunk számára elérhető a mély lelki béke. Ha felismerjük a &lt;strong&gt;két agyféltekénk&lt;/strong&gt; valódi képességeit, és használatukban megtaláljuk a megfelelő egyensúlyt, akkor békésebb, boldogabb és együtt érzőbb világot tudunk teremteni. &lt;br&gt;&lt;br&gt;&lt;em&gt;Gandhi&lt;/em&gt; szavaival élve&lt;strong&gt;:&lt;/strong&gt; &lt;em&gt;„Nekünk kell megtestesíteni azt a változást, amit a világban akarunk látni.”&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Agykontroll Kft.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789637491238</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">tOPtsgEACAAJ</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>pszichológia</dc:subject>
+        <dc:subject>agyvérzés</dc:subject>
+        <dc:subject>stroke</dc:subject>
+        <meta name="calibre:timestamp" content="2023-12-11T09:08:16.738342+00:00"/>
+        <meta name="calibre:title_sort" content="Mennybe döngölve: egy agykutató boldogító agyvérzése"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, PDF&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

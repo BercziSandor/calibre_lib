@@ -13,6 +13,10 @@
   "check_library_ignore_names": "",
   "gui_view_history": [
     [
+      1819,
+      "Mennybe d\u00f6ng\u00f6lve: egy agykutat\u00f3 boldog\u00edt\u00f3 agyv\u00e9rz\u00e9se"
+    ],
+    [
       1619,
       "Gal\u00e1pagos"
     ],
@@ -67,24 +71,60 @@
     [
       236,
       "A titkos ellenf\u00e9l"
-    ],
-    [
-      1745,
-      "A barna ruh\u00e1s f\u00e9rfi"
     ]
   ],
   "plugboards": {},
   "tag_browser_hidden_categories": [],
   "library_view books view state": {
+    "column_alignment": {
+      "pubdate": "center",
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "#formats": 12,
+      "authors": 1,
+      "formats": 14,
+      "id": 13,
+      "languages": 5,
+      "last_modified": 11,
+      "ondevice": 0,
+      "path": 15,
+      "pubdate": 4,
+      "publisher": 10,
+      "rating": 8,
+      "series": 2,
+      "size": 7,
+      "tags": 9,
+      "timestamp": 6,
+      "title": 3
+    },
+    "column_sizes": {
+      "#formats": 170,
+      "authors": 202,
+      "formats": 0,
+      "id": 0,
+      "languages": 84,
+      "last_modified": 91,
+      "path": 0,
+      "pubdate": 95,
+      "publisher": 61,
+      "rating": 94,
+      "series": 166,
+      "size": 76,
+      "tags": 484,
+      "timestamp": 110,
+      "title": 218
+    },
+    "formats_injected": true,
     "hidden_columns": [
       "id",
       "formats",
       "path"
     ],
-    "last_modified_injected": true,
-    "languages_injected": true,
-    "formats_injected": true,
     "id_injected": true,
+    "languages_injected": true,
+    "last_modified_injected": true,
     "path_injected": true,
     "sort_history": [
       [
@@ -99,47 +139,7 @@
         "timestamp",
         false
       ]
-    ],
-    "column_positions": {
-      "ondevice": 0,
-      "id": 13,
-      "title": 3,
-      "authors": 1,
-      "timestamp": 6,
-      "size": 7,
-      "rating": 8,
-      "tags": 9,
-      "series": 2,
-      "publisher": 10,
-      "formats": 14,
-      "path": 15,
-      "pubdate": 4,
-      "last_modified": 11,
-      "languages": 5,
-      "#formats": 12
-    },
-    "column_sizes": {
-      "id": 0,
-      "title": 218,
-      "authors": 202,
-      "timestamp": 110,
-      "size": 76,
-      "rating": 94,
-      "tags": 484,
-      "series": 166,
-      "publisher": 61,
-      "formats": 0,
-      "path": 0,
-      "pubdate": 95,
-      "last_modified": 91,
-      "languages": 84,
-      "#formats": 170
-    },
-    "column_alignment": {
-      "pubdate": "center",
-      "size": "center",
-      "timestamp": "center"
-    }
+    ]
   },
   "field_metadata": {
     "#formats": {
@@ -970,7 +970,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1702019926.0132413,
+  "last_expired_trash_at": 1702285672.705166,
   "virtual_libraries": {
     "kutya": "tags:\"=kutya\""
   }

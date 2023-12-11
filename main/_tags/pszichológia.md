@@ -7,6 +7,7 @@
 - Carl Gustav Jung: Gondolatok a szexualitásról és a szerelemről [részletek](../_details/Carl%20Gustav%20Jung.md#id_770)
 - Csernus, Imre: A nő [részletek](../_details/Csernus%2C%20Imre.md#id_16)
 - Dosztojevszkij, Fjodor Mihajlovics: Bűn és bűnhődés [részletek](../_details/Dosztojevszkij%2C%20Fjodor%20Mihajlovics.md#id_346)
+- dr. Jill Bolte Taylor: Mennybe döngölve: egy agykutató boldogító agyvérzése [részletek](../_details/dr.%20Jill%20Bolte%20Taylor.md#id_1819)
 - Eric Berne: Emberi játszmák [részletek](../_details/Eric%20Berne.md#id_291)
 - Eric Berne: Sorskönyv [részletek](../_details/Eric%20Berne.md#id_292)
 - Eric Berne: Szex a szerelemben [részletek](../_details/Eric%20Berne.md#id_905)
