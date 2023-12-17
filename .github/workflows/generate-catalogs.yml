@@ -1,0 +1,36 @@
+name: Generate Catalog
+
+on: [push]
+
+jobs:
+  docker-job:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Save current files as an artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: changed-files
+        path: .
+
+    - name: Use Docker image with volumes
+      uses: docker://sberczi/calibre2web:latest
+      with:
+        args: |
+          /bin/bash -c "echo Hello, world! && ls -al"
+
+    - name: Retrieve changed files
+      uses: actions/download-artifact@v2
+      with:
+        name: changed-files
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.email "github-actions@github.com"
+        git config --global user.name "GitHub Actions"
+        git add .
+        git commit -m "Updated files from sberczi/calibre2web:latest"
+        git push
