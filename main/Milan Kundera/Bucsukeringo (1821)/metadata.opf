@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1821</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ab69b42-d2ff-4c08-b4d6-3974a559b20e</dc:identifier>
+        <dc:title>Búcsúkeringő</dc:title>
+        <dc:creator opf:file-as="Kundera, Milan" opf:role="aut">Milan Kundera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A ​neves cseh író regényében öt fejezetbe sűríti egy meg nem nevezett – de nyilvánvalóan cseh – fürdővároskában összeverődött néhány ember életútjának metszéspontjait. Az öt fejezet – öt nap. Ezalatt szerelmek lángolnak fel és lobbannak ki, tragédiába torkollik a végzetet kihívó játszadozás a sorssal. Az action gratuite-re, a századelő francia regényhullámának indíték nélküli gyilkosságára emlékeztet az a mód, ahogy Jakub – a regény egyik főhőse – mérget csempész egy ismeretlen nő gyógyszeres fiolájába, majd „működni” hagyja a sorsot. Egyébként a regény nyolctagú, véletlenül összekerült társaságának mindegyike meghatározott típust képvisel. A kissé elnagyoltan, néhány vonással megrajzolt szereplők között van gazdag amerikai; helybéli szoknyabolond és nagy orrú nőgyógyász; az esztelen, oktalan és leküzdhetetlen féltékenységet megtestesítő szépasszony és fiatalember; a csinos, de üresfejű és nagyravágyó ápolónő; a kevésbé csinos, de nevelőapját mégis elcsábítani képes fiatal lány, és végül a nőktől üldözött, országszerte ünnepelt zenész. A regény mozgalmas és gyorsuló cselekménysora mögött politikai tartalmú szimbólumok bukkannak fel: husángokkal felszerelt, karszalagos aggastyánok hada üldözi a kóbor kutyákat, Jakub, pedig, aki irtózattal nézi barbár működésüket, megment egy kutyát: hajdani politikai fogoly létére szolidáris az üldözött lényekkel. Egyébként búcsúzik barátaitól, ismerőseitől, a várostól, sőt magától az országtól is, amelyet – miként a szerző is, nem sokkal regénye megírása után – örökre elhagyni készül, nehéz szívvel, hiszen „egyetlen hazájából megy el és nincs másik”. &lt;br&gt;Kundera műveinek sorában e regény az olvasmányosabb munkák közé sorolható, de keserű tapasztalatokat hordoz.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa Könyvkiadó</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">ea508376-8337-4381-94ff-9092a6ba8dbc</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630777216</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">tCp0ygAACAAJ</dc:identifier>
+        <dc:language>hun</dc:language>
+        <meta name="calibre:timestamp" content="2023-12-23T05:21:51.754777+00:00"/>
+        <meta name="calibre:title_sort" content="Búcsúkeringő"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;MOBI&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

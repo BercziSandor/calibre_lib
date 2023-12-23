@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1824</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">08c5a0b5-4aff-479f-9dc1-8a13340e9f48</dc:identifier>
+        <dc:title>Az élet máshol van</dc:title>
+        <dc:creator opf:file-as="Kundera, Milan &amp; Varga, György" opf:role="aut">Milan Kundera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1972-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Az 1968-as prágai tavasz nagy emigránsa, a világhírű Milan Kundera mozgalmasan barokkos-szürrealisztikus regénye lenyűgöző társadalmi és emberi tablót rajzol fel. Afféle negatív fejlődésregény ez. &lt;/p&gt;
+&lt;p&gt;Főhőse a belső és külső hazugságok, hamisságok, valótlan értékek és megcsúfolt ideálok szövevényében vergődő Jaromil, az önjelölt költő, akinek már a világra jöttét sem kívánta senki. Jaromil élete egy boldogtalan közép-kelet-európai generáció életútját példázza. Annak a nemzedéknek az életútját, amely a kisszerűség, a csúfság, az ostobaság győzelemre vitelével, az értékek sárba tiprásával, a való világ feje tetejére állításával írta be magát szégyenszemre az emberiség történelmébe. &lt;/p&gt;
+&lt;p&gt;Ezt a regényét Kundera még Csehszlovákiában vetette papírra, de megjelenni már csak emigrálása után jelent meg — először franciául.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Európa Könyvkiadó</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789634051527</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">17379339</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-12-23T05:21:52.103777+00:00"/>
+        <meta name="calibre:title_sort" content="élet máshol van, Az"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;MOBI&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

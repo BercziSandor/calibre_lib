@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1822</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88da9780-847e-4a41-8589-b3ff3bb07035</dc:identifier>
+        <dc:title>A ​függöny</dc:title>
+        <dc:creator opf:file-as="Kundera, Milan" opf:role="aut">Milan Kundera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-03T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Saját ​bevallása szerint hazájának 1968-as szovjet lerohanása ébresztette fel Milan Kunderában, az utóbb Párizsba emigráló és sok éve már csak franciául alkotó világhírű cseh íróban az Európa-nosztalgiát. Ez a nosztalgia újra meg újra felsejlik a Kundera-regényekben, és alighanem belőle fakad Kunderának az egyik legnagyobb európai kultúrkincs, a négy évszázados múltú regény művészete iránti szenvedélyes érdeklődése is. Kundera nem teoretikusként, hanem vizsgálódásai tárgyát fáradhatatlanul gyakorló regényszerzőként vall minden nagyképűségtől mentes, rendkívül élvezetes stílusban a mesterségéről. Ebben a legújabb könyvében, A regény művészetének fonalát véve fel újra, a regény születésének körülményeit, valamint azt vizsgálja, hogy a XX. század nagy modern áramlatai (különös tekintettel Kafkára, Brochra, Musilra, Carlos Fuentesre, Gabriel Gárcia Márquezre) mi újat hoztak Cervantes és Rabelais hajdani regénytechnikájához képest. A világot függöny takarja. „Legendákból szőtt varázsfüggöny”, az „előértelmezések függönye”. Ezt a függönyt rántotta le Cervantes, amikor útjára indította Don Quijotét, és vele együtt az európai regényt. A mai Európa mintha távolodni látszana kissé a regényhagyomány Európájától. Annál fontosabb – értjük meg Kunderát olvasva –, hogy ma se feledjük, mi e hagyomány lényege. A függönylerántó gesztus. A tisztánlátás.&lt;/p&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789634059189</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">c09a170b-c584-42cb-bfb9-b7b4e75b563b</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>cseh szerző</dc:subject>
+        <dc:subject>esszé</dc:subject>
+        <dc:subject>francia szerző</dc:subject>
+        <dc:subject>irodalomelmélet</dc:subject>
+        <dc:subject>irodalomtörténet</dc:subject>
+        <dc:subject>irodalomtudomány</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <meta name="calibre:timestamp" content="2023-12-23T05:21:51.868776+00:00"/>
+        <meta name="calibre:title_sort" content="​függöny, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;AZW3&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

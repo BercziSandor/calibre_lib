@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1829</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6230daeb-d97d-42da-bb5f-9c94bea74062</dc:identifier>
+        <dc:title>Lassúság</dc:title>
+        <dc:creator opf:file-as="Kundera, Milan" opf:role="aut">Milan Kundera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-03T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Miért ​tűnt el életünkből a „lassan járj” öröme, és miért nem fogadjuk meg a „tovább érsz” jó tanácsát? Hová lettek a népdalok sehová sem siető vándor-legényei, akik a szabad ég alatt háltak, s egy cseh közmondás szerint „a Jóisten ablakait nézegették”? – teszi fel a kérdést legújabb regénye elején a cseh származású, de immár franciául író Milan Kundera, és két vidéki utazás – egy XX. századi rohanó és egy XVIII. századi ráérős – valamint két szerelmi kaland elbeszélésével adja meg a választ. Az író és felesége egy szállodává alakított Párizs környéki kastélyban tölti a hétvégét. A kastély, ahol a környékbeliek szerint a hajdani lakók kísértenek, a XVIII. században különös, libertinus szerelmi románc színhelye volt. E kaland nem mindennapi tapasztalatokat szerzett hőse találkozik össze a kastély parkjában XX. századi hasonmásával, egy, a kastélyban zajló nemzetközi konferencia résztvevőjével, aki éppoly különös szerelmes éjszakát élt át. A két hős próbálná megosztani egymással érzéseit, élményeit, gondolatait, ám próbálkozásuk kudarcra van ítélve. Mintha nem is egy nyelven beszélnének. A világhírű szerző korunk két nagy egzisztenciális témáját vizsgálja-elemzi ebben a szellemes, vidáman ironikus, remekül megszerkesztett, igazi intellektuális élvezetet nyújtó, szórakoztató regényben: a rohanást (a történelemét és az egyénét), valamint az exhibicionizmust (az intellektuellek és a politikusok erkölcsi exhibiciozizmusát, féktelen vágyát, hogy indiszkrét módon közszemlére tegyék magánéletüket.)&lt;/p&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789634055709</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">71a1ad62-797f-4f60-8ab4-3034ece3d0a7</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>cseh szerző</dc:subject>
+        <dc:subject>filozófia</dc:subject>
+        <dc:subject>filozofikus regény</dc:subject>
+        <dc:subject>francia szerző</dc:subject>
+        <dc:subject>hangoskönyv</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <meta name="calibre:timestamp" content="2023-12-23T05:21:52.679942+00:00"/>
+        <meta name="calibre:title_sort" content="Lassúság"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;AZW3&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
