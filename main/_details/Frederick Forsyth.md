@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_775">Frederick Forsyth: Profi munka (1990)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Frederick%20Forsyth/Profi%20munka%20%28775%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -13,6 +14,7 @@
 
 
 <hr/>
+
 # <a name="id_44">Frederick Forsyth: A negyedik jegyzőkönyv (2000)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Frederick%20Forsyth/A%20negyedik%20jegyzokonyv%20%2844%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -25,6 +27,7 @@
 
 
 <hr/>
+
 # <a name="id_43">Frederick Forsyth: Az ördög alternatívája (2006)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Frederick%20Forsyth/Az%20ordog%20alternativaja%20%2843%29/cover.jpg" alt="cover" width="300"/></center>
 

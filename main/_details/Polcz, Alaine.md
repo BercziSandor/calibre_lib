@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1815">Polcz, Alaine: Meghalok Én Is? : A Halál És Gyermek (1993)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Meghalok%20En%20Is_%20_%20A%20Halal%20Es%20Gyerme%20%281815%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -11,6 +12,7 @@
 
 
 <hr/>
+
 # <a name="id_1505">Polcz, Alaine: Világjáték (1998)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Vilagjatek%20%281505%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -24,6 +26,7 @@
 
 
 <hr/>
+
 # <a name="id_1440">Polcz, Alaine: Ideje a meghalásnak (2001)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Ideje%20a%20meghalasnak%20%281440%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -38,6 +41,7 @@
 
 
 <hr/>
+
 # <a name="id_1441">Polcz, Alaine: Meghalok én is? (2007)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Meghalok%20en%20is_%20%281441%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -53,6 +57,7 @@
 
 
 <hr/>
+
 # <a name="id_1442">Polcz, Alaine: Rend és rendetlenség (2007)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Rend%20es%20rendetlenseg%20%281442%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -68,6 +73,7 @@
 
 
 <hr/>
+
 # <a name="id_1504">Polcz, Alaine: Kit siratok? Mit siratok? (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Kit%20siratok_%20Mit%20siratok_%20%281504%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -75,6 +81,7 @@
 [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Kit%20siratok_%20Mit%20siratok_%20%281504%29/Kit%20siratok_%20Mit%20siratok_%20-%20Polcz%2C%20Alaine.pdf)
 
 <hr/>
+
 # <a name="id_1814">Polcz, Alaine: Rend és rendetlenség (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Rend%20es%20rendetlenseg%20%281814%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -89,6 +96,7 @@
 
 
 <hr/>
+
 # <a name="id_1439">Polcz, Alaine: Macskaregény (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Macskaregeny%20%281439%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -104,6 +112,7 @@
 
 
 <hr/>
+
 # <a name="id_1506">Polcz, Alaine: Főzzünk örömmel! (2018)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Fozzunk%20orommel%21%20%281506%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -116,6 +125,7 @@
 
 
 <hr/>
+
 # <a name="id_1443">Polcz, Alaine: Asszony a fronton (2021)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Polcz%2C%20Alaine/Asszony%20a%20fronton%20%281443%29/cover.jpg" alt="cover" width="300"/></center>
 

@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1446">Bret Easton Ellis: Amerikai psycho (2002)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bret%20Easton%20Ellis/Amerikai%20Psycho%20%281446%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_1447">Bret Easton Ellis: Az informátorok (2007)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bret%20Easton%20Ellis/Az%20informatorok%20%281447%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -29,6 +31,7 @@
 
 
 <hr/>
+
 # <a name="id_1273">Bret Easton Ellis: Nullánál is kevesebb (2010)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bret%20Easton%20Ellis/Nullanal%20is%20kevesebb%20%281273%29/cover.jpg" alt="cover" width="300"/></center>
 

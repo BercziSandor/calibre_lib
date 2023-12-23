@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_619">Gárdonyi, Géza: Isten rabjai (2014)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gardonyi%2C%20Geza/Isten%20rabjai%20%28619%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_1603">Gárdonyi, Géza: Egri csillagok (2019)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gardonyi%2C%20Geza/Egri%20csillagok%20%281603%29/cover.jpg" alt="cover" width="300"/></center>
 

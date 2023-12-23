@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1360">Lackfi, János: Milyenek a magyarok? (Milyenek a magyarok? 1) (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lackfi%2C%20Janos/Milyenek%20a%20magyarok_%20%281360%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_935">Lackfi, János: Milyenek MÉG a magyarok? (Milyenek a magyarok? 2) (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lackfi%2C%20Janos/Milyenek%20MEG%20a%20magyarok_%20%28935%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -28,6 +30,7 @@
 
 
 <hr/>
+
 # <a name="id_934">Lackfi, János: A legnehezebb kabát (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lackfi%2C%20Janos/A%20legnehezebb%20kabat%20%28934%29/cover.jpg" alt="cover" width="300"/></center>
 

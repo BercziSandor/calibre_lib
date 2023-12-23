@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1344">Szabó, Magda: Egy czitrom hajával (Szabó Magda ízei 2) (2018)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Egy%20czitrom%20hajaval%20%281344%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_1340">Szabó, Magda: A szemlélők </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/A%20szemlelok%20%281340%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -25,6 +27,7 @@
 
 
 <hr/>
+
 # <a name="id_1359">Szabó, Magda: Hullámok kergetése (1965)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Hullamok%20kergetese%20%281359%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -40,6 +43,7 @@
 
 
 <hr/>
+
 # <a name="id_463">Szabó, Magda: Pilátus (1965)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Pilatus%20%28463%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -54,6 +58,7 @@
 
 
 <hr/>
+
 # <a name="id_464">Szabó, Magda: Ókút (1976)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Okut%20%28464%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -68,6 +73,7 @@
 
 
 <hr/>
+
 # <a name="id_476">Szabó, Magda: Megmaradt Szobotkának (1983)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Megmaradt%20Szobotkanak%20%28476%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -82,6 +88,7 @@
 
 
 <hr/>
+
 # <a name="id_1357">Szabó, Magda: Az ajtó (1987)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Az%20ajto%20%281357%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -97,6 +104,7 @@
 
 
 <hr/>
+
 # <a name="id_1338">Szabó, Magda: Abigél (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Abigel%20%281338%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -115,6 +123,7 @@
 
 
 <hr/>
+
 # <a name="id_1337">Szabó, Magda: Születésnap (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Szuletesnap%20%281337%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -130,6 +139,7 @@
 
 
 <hr/>
+
 # <a name="id_1341">Szabó, Magda: Liber Mortis (2012)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Liber%20Mortis%20%281341%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -145,6 +155,7 @@
 
 
 <hr/>
+
 # <a name="id_1356">Szabó, Magda: Régimódi történet (2012)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Regimodi%20tortenet%20%281356%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -160,6 +171,7 @@
 
 
 <hr/>
+
 # <a name="id_1350">Szabó, Magda: A Danaida (2014)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/A%20Danaida%20%281350%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -175,6 +187,7 @@
 
 
 <hr/>
+
 # <a name="id_1354">Szabó, Magda: Tündér Lala (2014)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Tunder%20Lala%20%281354%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -187,6 +200,7 @@
 
 
 <hr/>
+
 # <a name="id_1352">Szabó, Magda: Álarcosbál (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Alarcosbal%20%281352%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -199,6 +213,7 @@
 
 
 <hr/>
+
 # <a name="id_1353">Szabó, Magda: Katalin utca (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Katalin%20utca%20%281353%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -211,6 +226,7 @@
 
 
 <hr/>
+
 # <a name="id_1348">Szabó, Magda: Az őz (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Az%20oz%20%281348%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -226,6 +242,7 @@
 
 
 <hr/>
+
 # <a name="id_1347">Szabó, Magda: Freskó (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Fresko%20%281347%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -241,6 +258,7 @@
 
 
 <hr/>
+
 # <a name="id_1339">Szabó, Magda: Für Elise (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Fur%20Elise%20%281339%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -256,6 +274,7 @@
 
 
 <hr/>
+
 # <a name="id_1346">Szabó, Magda: Mondják meg Zsófikának (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Mondjak%20meg%20Zsofikanak%20%281346%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -271,6 +290,7 @@
 
 
 <hr/>
+
 # <a name="id_1349">Szabó, Magda: Ókút (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Okut%20%281349%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -286,6 +306,7 @@
 
 
 <hr/>
+
 # <a name="id_1342">Szabó, Magda: Magdaléna (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Magdalena%20%281342%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -301,6 +322,7 @@
 
 
 <hr/>
+
 # <a name="id_1343">Szabó, Magda: Zeusz küszöbén (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Zeusz%20kuszoben%20%281343%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -316,6 +338,7 @@
 
 
 <hr/>
+
 # <a name="id_1345">Szabó, Magda: Csigaház (2019)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Csigahaz%20%281345%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -331,6 +354,7 @@
 
 
 <hr/>
+
 # <a name="id_1351">Szabó, Magda: Pilátus (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szabo%2C%20Magda/Pilatus%20%281351%29/cover.jpg" alt="cover" width="300"/></center>
 

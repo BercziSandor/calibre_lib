@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_642">Fred Vogelstein: Dogfight: How Apple and Google Went to War and Started a Revolution (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fred%20Vogelstein/Dogfight_%20How%20Apple%20and%20Google%20Went%20%28642%29/cover.jpg" alt="cover" width="300"/></center>
 

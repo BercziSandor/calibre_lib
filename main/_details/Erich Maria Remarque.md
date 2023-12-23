@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_357">Erich Maria Remarque: Éjszaka Lisszabonban (Eroica könyvek 1) (1991)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Maria%20Remarque/Ejszaka%20Lisszabonban%20%28357%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_317">Erich Maria Remarque: Nyugaton a helyzet változatlan (Nyugaton a helyzet változatlan 1) (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Maria%20Remarque/Nyugaton%20a%20helyzet%20valtozatlan%20%28317%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -29,6 +31,7 @@
 
 
 <hr/>
+
 # <a name="id_313">Erich Maria Remarque: Szerelem és halál órája (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Maria%20Remarque/Szerelem%20es%20halal%20oraja%20%28313%29/cover.jpg" alt="cover" width="300"/></center>
 

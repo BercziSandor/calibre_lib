@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_666">Anthony E. Zuiker: 26 – sötét kezdetek </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Anthony%20E.%20Zuiker/26%20-%20sotet%20kezdetek%20%28666%29/cover.jpg" alt="cover" width="300"/></center>
 

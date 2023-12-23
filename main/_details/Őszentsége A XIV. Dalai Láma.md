@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_610">Őszentsége A XIV. Dalai Láma: Száműzetésben – szabadon (2005)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Oszentsege%20A%20XIV.%20Dalai%20Lama/Szamuzetesben%20-%20szabadon%20%28610%29/cover.jpg" alt="cover" width="300"/></center>
 

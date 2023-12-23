@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_781">Ian Stewart: A természet számai (1997)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ian%20Stewart/A%20termeszet%20szamai%20%28781%29/cover.jpg" alt="cover" width="300"/></center>
 

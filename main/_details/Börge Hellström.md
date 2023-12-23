@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_680">Börge Hellström: Három másodperc (2014)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Borge%20Hellstrom/Harom%20masodperc%20%28680%29/cover.jpg" alt="cover" width="300"/></center>
 

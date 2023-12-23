@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_161">Bálint, Ágnes: Szeleburdi család (Szeleburdi család 1) (2018)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Balint%2C%20Agnes/Szeleburdi%20csalad%20%28161%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_534">Bálint, Ágnes: Az elvarázsolt egérkisasszony (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Balint%2C%20Agnes/Az%20elvarazsolt%20egerkisasszony%20%28534%29/cover.jpg" alt="cover" width="300"/></center>
 

@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1453">Philip Roth: Összeesküvés Amerika ellen (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Philip%20Roth/Osszeeskuves%20Amerika%20ellen%20%281453%29/cover.jpg" alt="cover" width="300"/></center>
 

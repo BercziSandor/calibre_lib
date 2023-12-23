@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_715">Tvrtko, Vujity: 12 pokoli történet </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tvrtko%2C%20Vujity/12%20pokoli%20tortenet%20%28715%29/cover.jpg" alt="cover" width="300"/></center>
 

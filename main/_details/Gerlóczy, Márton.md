@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1470">Gerlóczy, Márton: Igazolt hiányzás (2003)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerloczy%2C%20Marton/Igazolt%20hianyzas%20%281470%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -13,6 +14,7 @@
 
 
 <hr/>
+
 # <a name="id_1468">Gerlóczy, Márton: Elvonókúra (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerloczy%2C%20Marton/Elvonokura%20%281468%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -27,6 +29,7 @@
 
 
 <hr/>
+
 # <a name="id_1469">Gerlóczy, Márton: Mikecs Anna: Altató (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerloczy%2C%20Marton/Mikecs%20Anna_%20Altato%20%281469%29/cover.jpg" alt="cover" width="300"/></center>
 

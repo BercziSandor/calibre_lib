@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1717">Csányi, Vilmos: Hiedelmeink </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Csanyi%2C%20Vilmos/Hiedelmeink%20%281717%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -11,6 +12,7 @@
 
 
 <hr/>
+
 # <a name="id_1716">Csányi, Vilmos: Íme, az ember </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Csanyi%2C%20Vilmos/Ime%2C%20az%20ember%20%281716%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -21,6 +23,7 @@
 [humánetológia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hum%c3%a1netol%c3%b3gia.md)
 
 <hr/>
+
 # <a name="id_1713">Csányi, Vilmos: Segítség, kutyás lettem! </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Csanyi%2C%20Vilmos/Segitseg%2C%20kutyas%20lettem%21%20%281713%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -36,6 +39,7 @@
 
 
 <hr/>
+
 # <a name="id_308">Csányi, Vilmos: Az emberi természet (2003)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Csanyi%2C%20Vilmos/Az%20Emberi%20Termeszet%20%28308%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -50,6 +54,7 @@
 
 
 <hr/>
+
 # <a name="id_1714">Csányi, Vilmos: Marci, a beszélő kutya (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Csanyi%2C%20Vilmos/Marci%2C%20a%20beszelo%20kutya%20%281714%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -65,6 +70,7 @@
 
 
 <hr/>
+
 # <a name="id_1711">Csányi, Vilmos: A globális elme. Elmélkedések a világról (2018)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Csanyi%2C%20Vilmos/A%20globalis%20elme.%20Elmelkedesek%20a%20vil%20%281711%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -77,6 +83,7 @@
 
 
 <hr/>
+
 # <a name="id_1719">Csányi, Vilmos: A kutyák szőrös gyerekek (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Csanyi%2C%20Vilmos/A%20kutyak%20szoros%20gyerekek%20%281719%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -92,6 +99,7 @@
 
 
 <hr/>
+
 # <a name="id_1720">Csányi, Vilmos: Ironikus etológia (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Csanyi%2C%20Vilmos/Ironikus%20etologia%20%281720%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -108,6 +116,7 @@
 
 
 <hr/>
+
 # <a name="id_1718">Csányi, Vilmos: Jeromos, a barátom - A kutyák szerint a világ (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Csanyi%2C%20Vilmos/Jeromos%2C%20a%20baratom%20-%20A%20kutyak%20szeri%20%281718%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -123,6 +132,7 @@
 
 
 <hr/>
+
 # <a name="id_1712">Csányi, Vilmos: Drága barátaim, kedves majmok (2021)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Csanyi%2C%20Vilmos/Draga%20barataim%2C%20kedves%20majmok%20%281712%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -139,6 +149,7 @@
 
 
 <hr/>
+
 # <a name="id_1715">Csányi, Vilmos: Édes Janka (2021)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Csanyi%2C%20Vilmos/Edes%20Janka%20%281715%29/cover.jpg" alt="cover" width="300"/></center>
 

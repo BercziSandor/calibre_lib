@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_951">Andrea Schacht: A sötét tükör (Almut Bossart 1) (2004)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Andrea%20Schacht/A%20sotet%20tukor%20%28951%29/cover.jpg" alt="cover" width="300"/></center>
 

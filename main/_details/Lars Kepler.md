@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1681">Lars Kepler: A hipnotizőr (Joona Linna 1) (2009)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/A%20hipnotizor%20%281681%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -15,6 +16,7 @@
 
 
 <hr/>
+
 # <a name="id_674">Lars Kepler: A Paganini-szerződés (Joona Linna 2) (2019)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/A%20Paganini-szerzodes%20%28674%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -30,6 +32,7 @@
 
 
 <hr/>
+
 # <a name="id_1677">Lars Kepler: A tűz tanúja (Joona Linna 3) (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/A%20tuz%20tanuja%20%281677%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -45,6 +48,7 @@
 
 
 <hr/>
+
 # <a name="id_1678">Lars Kepler: A Bosszúálló (Joona Linna 4) (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/A%20Bosszuallo%20%281678%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -57,6 +61,7 @@
 
 
 <hr/>
+
 # <a name="id_1680">Lars Kepler: Lesben (Joona Linna 5) (2018)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/Lesben%20%281680%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -68,6 +73,7 @@
 
 
 <hr/>
+
 # <a name="id_1679">Lars Kepler: Nyúlvadász (Joona Linna 6) (2019)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/Nyulvadasz%20%281679%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -79,6 +85,7 @@ Joona Linna már két évet letöltött büntetéséből a Kumlai Zárt Fegyint�
 
 
 <hr/>
+
 # <a name="id_1683">Lars Kepler: Lázár (Joona Linna 7) (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/Lazar%20%281683%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -90,6 +97,7 @@ Svédország leghírhedtebb sorozatgyilkosát, Jurek Waltert évekkel ezelőtt k
 
 
 <hr/>
+
 # <a name="id_1682">Lars Kepler: Tükörember (Joona Linna 8) (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Lars%20Kepler/Tukorember%20%281682%29/cover.jpg" alt="cover" width="300"/></center>
 

@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_7">Leslie M. Lecron: Az önhipnózis technikája és felhasználása a mindennapi életben (1998)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Leslie%20M.%20Lecron/Az%20onhipnozis%20technikaja%20es%20felhaszn%20%287%29/cover.jpg" alt="cover" width="300"/></center>
 

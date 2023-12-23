@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1219">Philip Pullman: Északi fény (Az Úr Sötét Anyagai 1) (2007)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Philip%20Pullman/Eszaki%20feny%20%281219%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -13,6 +14,7 @@
 
 
 <hr/>
+
 # <a name="id_1220">Philip Pullman: A titokzatos kés (Az Úr Sötét Anyagai 2) (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Philip%20Pullman/A%20titokzatos%20kes%20%281220%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -27,6 +29,7 @@
 
 
 <hr/>
+
 # <a name="id_1221">Philip Pullman: A borostyán látcső (Az Úr Sötét Anyagai 3) (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Philip%20Pullman/A%20borostyan%20latcso%20%281221%29/cover.jpg" alt="cover" width="300"/></center>
 

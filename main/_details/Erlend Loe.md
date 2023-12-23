@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_531">Erlend Loe: Doppler, az utak királya (Doppler 2) (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erlend%20Loe/Doppler%2C%20az%20utak%20kiralya%20%28531%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_532">Erlend Loe: Naiv.Szuper. (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erlend%20Loe/Naiv.Szuper_%20%28532%29/cover.jpg" alt="cover" width="300"/></center>
 

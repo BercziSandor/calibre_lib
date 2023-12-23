@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_503">P. G. Wodehouse: Forduljon Psmithhez! (Blandings kastély 2) (2005)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Forduljon%20Psmithhez%21%20%28503%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -30,6 +31,7 @@ Minderről pedig P.G. Wodehouse rendkívül mulatságos, kitűnően megszerkeszt
 
 
 <hr/>
+
 # <a name="id_507">P. G. Wodehouse: Nyári zivatar (Blandings kastély 4) (2000)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Nyari%20zivatar%20%28507%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -44,6 +46,7 @@ Egy ​bizonyos kritikus – mert ilyen emberek fájdalom, léteznek – azt a m
 
 
 <hr/>
+
 # <a name="id_501">P. G. Wodehouse: Egy pelikán Blandingsben (Blandings kastély 11) (2007)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Egy%20pelikan%20Blandingsben%20%28501%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -59,6 +62,7 @@ Egy ​bizonyos kritikus – mert ilyen emberek fájdalom, léteznek – azt a m
 
 
 <hr/>
+
 # <a name="id_945">P. G. Wodehouse: Halihó, Jeeves! (Jeeves 2) (2007)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Haliho%2C%20Jeeves%21%20%28945%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -73,6 +77,7 @@ Bertram Wooster Londonban és New Yorkban számtalan furcsánál furcsább szitu
 
 
 <hr/>
+
 # <a name="id_502">P. G. Wodehouse: Folytassa, Jeeves! (Jeeves 3) (2004)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Folytassa%2C%20Jeeves%21%20%28502%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -87,6 +92,7 @@ Attól kezdve, hogy Jeeves belép Bertie Wooster életébe, és rendkívül hat�
 
 
 <hr/>
+
 # <a name="id_943">P. G. Wodehouse: Gáz van, Jeeves! (Jeeves 7) (2004)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Gaz%20van%2C%20Jeeves%21%20%28943%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -101,6 +107,7 @@ Bertie Wooster kényes küldetésben jár Totleigh Towersban, számos korábbi v
 
 
 <hr/>
+
 # <a name="id_508">P. G. Wodehouse: Psmith a pénzvilágban (Psmith 2) (1998)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Psmith%20a%20penzvilagban%20%28508%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -115,6 +122,7 @@ A Forduljon Psmithhez közkedvelt hősével, a magát minden helyzetben feltalá
 
 
 <hr/>
+
 # <a name="id_506">P. G. Wodehouse: Kirabol a komornyikom (1988)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Kirabol%20a%20komornyikom%20%28506%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -129,6 +137,7 @@ Rabolnak-e bankot a komornyikok?, teszi fel a kérdést a könyv egyik szereplő
 
 
 <hr/>
+
 # <a name="id_500">P. G. Wodehouse: Az életművész (2002)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Az%20eletmuvesz%20%28500%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -144,6 +153,7 @@ Rabolnak-e bankot a komornyikok?, teszi fel a kérdést a könyv egyik szereplő
 
 
 <hr/>
+
 # <a name="id_509">P. G. Wodehouse: Rengeteg pénz (2004)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Rengeteg%20penz%20%28509%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -158,6 +168,7 @@ Mit ​tegyen egy londoni fiatalember, ha nincs pénze? Mit tegyen két londoni 
 
 
 <hr/>
+
 # <a name="id_944">P. G. Wodehouse: Rengeteg pénz (2004)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Rengeteg%20penz%20%28944%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -172,6 +183,7 @@ Mit ​tegyen egy londoni fiatalember, ha nincs pénze? Mit tegyen két londoni 
 
 
 <hr/>
+
 # <a name="id_504">P. G. Wodehouse: Hübele Sámuel (2007)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Hubele%20Samuel%20%28504%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -186,6 +198,7 @@ Sam Shotter amerikai fiatalember egy újságkivágás alapján beleszeret egy l�
 
 
 <hr/>
+
 # <a name="id_505">P. G. Wodehouse: Karikacsapás (2012)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Karikacsapas%20%28505%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -200,6 +213,7 @@ Végy egy Amerikából Angliába származott sonkakirályt, egy nem-is-olyan-gaz
 
 
 <hr/>
+
 # <a name="id_942">P. G. Wodehouse: Csirkék és szerelem (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Csirkek%20es%20szerelem%20%28942%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -215,6 +229,7 @@ Végy egy Amerikából Angliába származott sonkakirályt, egy nem-is-olyan-gaz
 
 
 <hr/>
+
 # <a name="id_941">P. G. Wodehouse: Blandings és vidéke (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/P.%20G.%20Wodehouse/Blandings%20es%20videke%20%28941%29/cover.jpg" alt="cover" width="300"/></center>
 

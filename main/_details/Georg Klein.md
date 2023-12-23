@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_981">Georg Klein: Szilárd Leó tízparancsolata (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Georg%20Klein/Szilard%20Leo%20tizparancsolata%20%28981%29/cover.jpg" alt="cover" width="300"/></center>
 

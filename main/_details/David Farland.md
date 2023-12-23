@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_510">David Farland: A sötétség harcosa (Farkasok szövetsége 1) </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/David%20Farland/A%20sotetseg%20harcosa%20%28510%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -13,6 +14,7 @@ A tűzszövők élő lángokként énekeltek és táncoltak. Hamarosan egy zöld
 
 
 <hr/>
+
 # <a name="id_511">David Farland: A Pusztítás Pecsétje (Farkasok szövetsége 2) </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/David%20Farland/A%20Pusztitas%20Pecsetje%20%28511%29/cover.jpg" alt="cover" width="300"/></center>
 

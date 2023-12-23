@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_992">Stendhal: Napóleon élete (2014)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stendhal/Napoleon%20elete%20%28992%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_562">Stendhal: Vörös és fekete (2018)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stendhal/Voros%20es%20fekete%20%28562%29/cover.jpg" alt="cover" width="300"/></center>
 

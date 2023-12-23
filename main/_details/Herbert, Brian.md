@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_194">Herbert, Brian: Dűne-7-A Dűne vadászai (Düne 7) </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Brian/Dune-7-A%20Dune%20vadaszai%20%28194%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -13,6 +14,7 @@
 
 
 <hr/>
+
 # <a name="id_195">Herbert, Brian: Dűne-8-A Dűne homokférgei (Düne 8) </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Brian/Dune-8-A%20Dune%20homokfergei%20%28195%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -27,6 +29,7 @@ A Sokarcú Ellenség immár betört az egykori Impérium területére, és úgy 
 
 
 <hr/>
+
 # <a name="id_188">Herbert, Brian: Dűne Előj.1-Az Atreides-ház </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Brian/Dune%20Eloj.1-Az%20Atreides-haz%20%28188%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -41,6 +44,7 @@ A Dűne és annak folytatásai – Frank Herbert klasszikussá vált regénycikl
 
 
 <hr/>
+
 # <a name="id_189">Herbert, Brian: Dűne Előj.2-A Harkonnen-ház </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Brian/Dune%20Eloj.2-A%20Harkonnen-haz%20%28189%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -55,6 +59,7 @@ A Harkonnen-ház a Dűne: Az Atreides-ház-ban megkezdett történet folytatása
 
 
 <hr/>
+
 # <a name="id_190">Herbert, Brian: Dűne Előj.3-A Corrino-ház </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Brian/Dune%20Eloj.3-A%20Corrino-haz%20%28190%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -69,6 +74,7 @@ Elérkezett az idő, hogy Shaddam, az Impérium császára teljessé tegye uralm
 
 
 <hr/>
+
 # <a name="id_191">Herbert, Brian: Dűne legend-1-A butleri dzsihad </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Brian/Dune%20legend-1-A%20butleri%20dzsihad%20%28191%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -83,6 +89,7 @@ Tizenegy évezreddel A Dűne című regény eseményei előtt egy borzalmas háb
 
 
 <hr/>
+
 # <a name="id_192">Herbert, Brian: Dűne legend-2-A gépirtó hadjárat </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Brian/Dune%20legend-2-A%20gepirto%20hadjarat%20%28192%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -97,6 +104,7 @@ A Dűne legendái-trilógia második kötete az emberiséget rabszolgasorban tar
 
 
 <hr/>
+
 # <a name="id_193">Herbert, Brian: Dűne legend-3-A corrini csata </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Brian/Dune%20legend-3-A%20corrini%20csata%20%28193%29/cover.jpg" alt="cover" width="300"/></center>
 

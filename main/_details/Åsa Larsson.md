@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_681">Åsa Larsson: Kristálytemplom (2012)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Asa%20Larsson/Kristalytemplom%20%28681%29/cover.jpg" alt="cover" width="300"/></center>
 

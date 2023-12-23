@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_967">Charles Cumming: Egy idegen ország (Thomas Kell 1) (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Charles%20Cumming/Egy%20idegen%20orszag%20%28967%29/cover.jpg" alt="cover" width="300"/></center>
 

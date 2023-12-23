@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_223">Gabriel García Márquez: Száz év magány (1994)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gabriel%20Garcia%20Marquez/Szaz%20ev%20magany%20%28223%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_342">Gabriel García Márquez: Szerelem a kolera idején (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gabriel%20Garcia%20Marquez/Szerelem%20a%20kolera%20idejen%20%28342%29/cover.jpg" alt="cover" width="300"/></center>
 

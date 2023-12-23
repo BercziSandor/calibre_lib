@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_601">Vámos, Miklós: 135 lehetetlen történet (1997)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vamos%2C%20Miklos/135%20lehetetlen%20tortenet%20%28601%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_1013">Vámos, Miklós: Hogy volt (2006)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vamos%2C%20Miklos/Hogy%20volt%20%281013%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -29,6 +31,7 @@
 
 
 <hr/>
+
 # <a name="id_604">Vámos, Miklós: Zenga zének (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vamos%2C%20Miklos/Zenga%20zenek%20%28604%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -44,6 +47,7 @@
 
 
 <hr/>
+
 # <a name="id_603">Vámos, Miklós: Anya csak egy van (2012)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vamos%2C%20Miklos/Anya%20csak%20egy%20van%20%28603%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -59,6 +63,7 @@
 
 
 <hr/>
+
 # <a name="id_602">Vámos, Miklós: A New York–Budapest metró (2014)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vamos%2C%20Miklos/A%20New%20York-Budapest%20metro%20%28602%29/cover.jpg" alt="cover" width="300"/></center>
 

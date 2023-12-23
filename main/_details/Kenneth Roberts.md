@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_745">Kenneth Roberts: Északnyugati átjáró (1992)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kenneth%20Roberts/Eszaknyugati%20atjaro%20%28745%29/cover.jpg" alt="cover" width="300"/></center>
 

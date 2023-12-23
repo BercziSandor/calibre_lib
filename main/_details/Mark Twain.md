@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_937">Mark Twain: Élet a Mississippin (1971)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Mark%20Twain/Elet%20a%20Mississippin%20%28937%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_936">Mark Twain: Megszelídítem a kerékpárt (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Mark%20Twain/Megszeliditem%20a%20kerekpart%20%28936%29/cover.jpg" alt="cover" width="300"/></center>
 

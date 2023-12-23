@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_183">Herbert, Frank: Dűne-2-Dűne messiása (Düne 2) </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Frank/Dune-2-Dune%20messiasa%20%28183%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -13,6 +14,7 @@ A távoli jövő galaktikus birodalmának központja Arrakis, e sivár bolygó, 
 
 
 <hr/>
+
 # <a name="id_185">Herbert, Frank: Dűne-4-Dűne isten-császára (Düne 4) </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Frank/Dune-4-Dune%20isten-csaszara%20%28185%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -27,6 +29,7 @@ A Szent Szörnyeteg<BR>Paul Atreides Próféta két és félezer éves gyermeke,
 
 
 <hr/>
+
 # <a name="id_186">Herbert, Frank: Dűne-5-Dűne eretnekei (Düne 5) </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Frank/Dune-5-Dune%20eretnekei%20%28186%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -41,6 +44,7 @@ Az Atreidesek hősi küzdelme rég legendává fakult az idők homályába. Ör�
 
 
 <hr/>
+
 # <a name="id_187">Herbert, Frank: Dűne-6-Dűne Káptalanház (Düne 6) </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Frank/Dune-6-Dune%20Kaptalanhaz%20%28187%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -55,6 +59,7 @@ Arrakis a sivatagbolygó, amit Dűnének hívtak, megsemmisült. Így most a Ben
 
 
 <hr/>
+
 # <a name="id_702">Herbert, Frank: Védett nők </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Herbert%2C%20Frank/Vedett%20nok%20%28702%29/cover.jpg" alt="cover" width="300"/></center>
 

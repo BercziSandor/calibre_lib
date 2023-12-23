@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1600">Chuck Palahniuk: Halálraítélt (Kárhozott 2) (2014)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Chuck%20Palahniuk/Halalraitelt%20%281600%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_662">Chuck Palahniuk: Cigányút (2007)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Chuck%20Palahniuk/Ciganyut%20%28662%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -29,6 +31,7 @@
 
 
 <hr/>
+
 # <a name="id_663">Chuck Palahniuk: Altató (2010)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Chuck%20Palahniuk/Altato%20%28663%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -44,6 +47,7 @@
 
 
 <hr/>
+
 # <a name="id_660">Chuck Palahniuk: Harcosok klubja (2018)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Chuck%20Palahniuk/Harcosok%20klubja%20%28660%29/cover.jpg" alt="cover" width="300"/></center>
 

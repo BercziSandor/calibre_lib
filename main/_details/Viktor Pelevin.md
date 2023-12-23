@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_837">Viktor Pelevin: A rovarok élete (1999)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Viktor%20Pelevin/A%20rovarok%20elete%20%28837%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@ Egy krími üdülőhelyen alkoholmérgezést kap a helyi lakosság véréből pr
 
 
 <hr/>
+
 # <a name="id_835">Viktor Pelevin: A tervhivatal hercege – Elbeszélések (2004)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Viktor%20Pelevin/A%20tervhivatal%20hercege%20-%20Elbeszelese%20%28835%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -29,6 +31,7 @@ Egy krími üdülőhelyen alkoholmérgezést kap a helyi lakosság véréből pr
 
 
 <hr/>
+
 # <a name="id_830">Viktor Pelevin: Kristályvilág (2004)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Viktor%20Pelevin/Kristalyvilag%20%28830%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -43,6 +46,7 @@ Ott lenni Pelevinnél nem időfecsérlés, mert elragad a talált világok karne
 
 
 <hr/>
+
 # <a name="id_826">Viktor Pelevin: A hunok harmóniája (2005)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Viktor%20Pelevin/A%20hunok%20harmoniaja%20%28826%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -57,6 +61,7 @@ Minden azzal kezdődött, hogy egyszer napközben Vera életében először nem 
 
 
 <hr/>
+
 # <a name="id_836">Viktor Pelevin: A Metamor Szent Könyve (2006)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Viktor%20Pelevin/A%20Metamor%20Szent%20Konyve%20%28836%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -71,6 +76,7 @@ Pelevin új regénye – a szerzőtől meglepő módon – a szerelemről szól.
 
 
 <hr/>
+
 # <a name="id_828">Viktor Pelevin: A Sárga Nyíl (2007)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Viktor%20Pelevin/A%20Sarga%20Nyil%20%28828%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -88,6 +94,7 @@ A Hírek Nepálból és a Buldózeristák napja visszavarázsol minket a kései 
 
 
 <hr/>
+
 # <a name="id_829">Viktor Pelevin: Empire 'V' (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Viktor%20Pelevin/Empire%20%27V%27%20%28829%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -105,6 +112,7 @@ Romannak – immár II. Rama néven – sok mindent meg kell tanulnia, hogy igaz
 
 
 <hr/>
+
 # <a name="id_832">Viktor Pelevin: P5 – Pindosztán politikai pigmeusai – Pá, pederaszták (2010)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Viktor%20Pelevin/P5%20-%20Pindosztan%20politikai%20pigmeusai%20%28832%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -125,6 +133,7 @@ S mindezen kalandok mögött ott van annak az új orosz valóságnak a képe, am
 
 
 <hr/>
+
 # <a name="id_827">Viktor Pelevin: A rettenet sisakja (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Viktor%20Pelevin/A%20rettenet%20sisakja%20%28827%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -139,6 +148,7 @@ S mindezen kalandok mögött ott van annak az új orosz valóságnak a képe, am
 
 
 <hr/>
+
 # <a name="id_834">Viktor Pelevin: Az agyag géppuska (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Viktor%20Pelevin/Az%20agyag%20geppuska%20%28834%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -154,6 +164,7 @@ Az ​elmúlt évek orosz irodalmának legnagyobb világsikere Az agyag géppusk
 
 
 <hr/>
+
 # <a name="id_831">Viktor Pelevin: Generation P (2019)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Viktor%20Pelevin/Generation%20P%20%28831%29/cover.jpg" alt="cover" width="300"/></center>
 

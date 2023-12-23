@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_704">Nick Hornby: Pop, csajok satöbbi </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Nick%20Hornby/Pop%2C%20csajok%20satobbi%20%28704%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -10,6 +11,7 @@
 
 
 <hr/>
+
 # <a name="id_304">Nick Hornby: Hogy legyünk jók? (2002)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Nick%20Hornby/Hogy%20legyunk%20jok_%20%28304%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -25,6 +27,7 @@
 
 
 <hr/>
+
 # <a name="id_708">Nick Hornby: Betoncsók (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Nick%20Hornby/Betoncsok%20%28708%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -40,6 +43,7 @@
 
 
 <hr/>
+
 # <a name="id_709">Nick Hornby: A Meztelen Juliet (2009)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Nick%20Hornby/A%20Meztelen%20Juliet%20%28709%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -55,6 +59,7 @@
 
 
 <hr/>
+
 # <a name="id_703">Nick Hornby: Fociláz (2014)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Nick%20Hornby/Focilaz%20%28703%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -70,6 +75,7 @@
 
 
 <hr/>
+
 # <a name="id_705">Nick Hornby: Hosszú út lefelé (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Nick%20Hornby/Hosszu%20ut%20lefele%20%28705%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -85,6 +91,7 @@
 
 
 <hr/>
+
 # <a name="id_707">Nick Hornby: Egy fiúról (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Nick%20Hornby/Egy%20fiurol%20%28707%29/cover.jpg" alt="cover" width="300"/></center>
 

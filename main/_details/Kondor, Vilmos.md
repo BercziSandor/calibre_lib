@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_980">Kondor, Vilmos: A bűntől keletre (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kondor%2C%20Vilmos/A%20buntol%20keletre%20%28980%29/cover.jpg" alt="cover" width="300"/></center>
 

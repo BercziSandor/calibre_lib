@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_561">J. D. Salinger: Zabhegyező (2012)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20D.%20Salinger/Zabhegyezo%20%28561%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_1409">J. D. Salinger: Rozsban a fogó (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/J.%20D.%20Salinger/Rozsban%20a%20fogo%20%281409%29/cover.jpg" alt="cover" width="300"/></center>
 

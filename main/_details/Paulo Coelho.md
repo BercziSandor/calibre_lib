@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_264">Paulo Coelho: Veronika meg akar halni (És a hetedik 1) (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Paulo%20Coelho/Veronika%20meg%20akar%20halni%20%28264%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_260">Paulo Coelho: A zarándoklat (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Paulo%20Coelho/A%20zarandoklat%20%28260%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -29,6 +31,7 @@
 
 
 <hr/>
+
 # <a name="id_261">Paulo Coelho: Az alkimista (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Paulo%20Coelho/Az%20alkimista%20%28261%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -44,6 +47,7 @@
 
 
 <hr/>
+
 # <a name="id_263">Paulo Coelho: Tizenegy perc (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Paulo%20Coelho/Tizenegy%20perc%20%28263%29/cover.jpg" alt="cover" width="300"/></center>
 

@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_956">John Cure: A gonosz új arca (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/John%20Cure/A%20gonosz%20uj%20arca%20%28956%29/cover.jpg" alt="cover" width="300"/></center>
 

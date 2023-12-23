@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_474">Konrad Lorenz: Ember és kutya (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Konrad%20Lorenz/Ember%20es%20kutya%20%28474%29/cover.jpg" alt="cover" width="300"/></center>
 

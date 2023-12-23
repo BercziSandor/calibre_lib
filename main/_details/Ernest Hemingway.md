@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1026">Ernest Hemingway: Novellák </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ernest%20Hemingway/Novellak%20%281026%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -6,6 +7,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ernest%20Hemingway/Novellak%20%281026%29/Novellak%20-%20Ernest%20Hemingway.epub)
 
 <hr/>
+
 # <a name="id_1196">Ernest Hemingway: Akiért a harang szól (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ernest%20Hemingway/Akiert%20a%20harang%20szol%20%281196%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -21,6 +23,7 @@
 
 
 <hr/>
+
 # <a name="id_1025">Ernest Hemingway: Az öreg halász és a tenger (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ernest%20Hemingway/Az%20oreg%20halasz%20es%20a%20tenger%20%281025%29/cover.jpg" alt="cover" width="300"/></center>
 

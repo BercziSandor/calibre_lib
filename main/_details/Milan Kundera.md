@@ -1,7 +1,6 @@
 <hr/>
 
 # <a name="id_1820">Milan Kundera: Tréfa (1966)</a>
-
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Trefa%20%281820%29/cover.jpg" alt="cover" width="300"/></center>
 
 ## Letöltés
@@ -33,6 +32,7 @@
 
 
 <hr/>
+
 # <a name="id_1827">Milan Kundera: Halhatatlanság (1990)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Halhatatlansag%20%281827%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -48,8 +48,8 @@
 
 
 <hr/>
-# <a name="id_1825">Milan Kundera: Azonosság (1997)</a>
 
+# <a name="id_1825">Milan Kundera: Azonosság (1997)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Azonossag%20%281825%29/cover.jpg" alt="cover" width="300"/></center>
 
 ## Letöltés
@@ -65,7 +65,8 @@
 
 
 <hr/>
-# Milan Kundera: Búcsúkeringő (2005)<a name="id_1821"></a>
+
+# <a name="id_1821">Milan Kundera: Búcsúkeringő (2005)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Bucsukeringo%20%281821%29/cover.jpg" alt="cover" width="300"/></center>
 
 ## Összefoglalás
@@ -74,6 +75,7 @@
 
 
 <hr/>
+
 # <a name="id_1828">Milan Kundera: Nemtudás (2006)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Nemtudas%20%281828%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -88,6 +90,7 @@
 
 
 <hr/>
+
 # <a name="id_1826">Milan Kundera: Jakab ​és az ura (2007)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Jakab%20%20es%20az%20ura%20%281826%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -102,6 +105,7 @@
 
 
 <hr/>
+
 # <a name="id_1822">Milan Kundera: A ​függöny (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20%20fuggony%20%281822%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -116,6 +120,7 @@
 
 
 <hr/>
+
 # <a name="id_1830">Milan Kundera: Nevetséges ​szerelmek (2009)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Nevetseges%20%20szerelmek%20%281830%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -130,6 +135,7 @@
 
 
 <hr/>
+
 # <a name="id_1823">Milan Kundera: A lét elviselhetetlen könnyűsége (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20let%20elviselhetetlen%20konnyusege%20%281823%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -141,6 +147,7 @@
 
 
 <hr/>
+
 # <a name="id_1829">Milan Kundera: Lassúság (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Lassusag%20%281829%29/cover.jpg" alt="cover" width="300"/></center>
 

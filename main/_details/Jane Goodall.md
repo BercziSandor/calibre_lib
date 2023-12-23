@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_402">Jane Goodall: Az ember árnyékában (1980)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jane%20Goodall/Az%20ember%20arnyekaban%20%28402%29/cover.jpg" alt="cover" width="300"/></center>
 

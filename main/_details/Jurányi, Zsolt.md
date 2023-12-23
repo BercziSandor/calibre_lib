@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_374">Jurányi, Zsolt: Az alvilág zsoldjában (Az alvilág zsoldjában 1) (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Juranyi%2C%20Zsolt/Az%20alvilag%20zsoldjaban%20%28374%29/cover.jpg" alt="cover" width="300"/></center>
 

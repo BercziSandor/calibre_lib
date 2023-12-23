@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_998">Majtényi, Zoltán: A furfangos Thyl (1990)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Majtenyi%2C%20Zoltan/A%20furfangos%20Thyl%20%28998%29/cover.jpg" alt="cover" width="300"/></center>
 

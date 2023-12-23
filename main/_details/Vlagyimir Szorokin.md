@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_839">Vlagyimir Szorokin: A jég (Jég-trilógia 1) (2019)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vlagyimir%20Szorokin/A%20jeg%20%28839%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_840">Vlagyimir Szorokin: Bro útja (Jég-trilógia 2) (2019)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vlagyimir%20Szorokin/Bro%20utja%20%28840%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -29,6 +31,7 @@
 
 
 <hr/>
+
 # <a name="id_838">Vlagyimir Szorokin: 23000 (Jég-trilógia 3) (2019)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vlagyimir%20Szorokin/23000%20%28838%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -44,6 +47,7 @@
 
 
 <hr/>
+
 # <a name="id_842">Vlagyimir Szorokin: Az opricsnyik egy napja (Kreml 1) (2019)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vlagyimir%20Szorokin/Az%20opricsnyik%20egy%20napja%20%28842%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -59,6 +63,7 @@
 
 
 <hr/>
+
 # <a name="id_841">Vlagyimir Szorokin: Cukor Kreml (Kreml 2) (2009)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vlagyimir%20Szorokin/Cukor%20Kreml%20%28841%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -74,6 +79,7 @@
 
 
 <hr/>
+
 # <a name="id_843">Vlagyimir Szorokin: Kékháj (2004)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Vlagyimir%20Szorokin/Kekhaj%20%28843%29/cover.jpg" alt="cover" width="300"/></center>
 

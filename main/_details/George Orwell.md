@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_364">George Orwell: 1984 (Európa Diákkönyvtár 1) (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/George%20Orwell/1984%20%28364%29/cover.jpg" alt="cover" width="300"/></center>
 

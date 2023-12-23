@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_903">Szerdahelyi Szabolcs: Szex-tusa (1988)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szerdahelyi%20Szabolcs/Szex-tusa%20%28903%29/cover.jpg" alt="cover" width="300"/></center>
 

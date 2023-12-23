@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_585">Kormos, Anett: Dumaszínház (2010)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kormos%2C%20Anett/Dumaszinhaz%20%28585%29/cover.jpg" alt="cover" width="300"/></center>
 

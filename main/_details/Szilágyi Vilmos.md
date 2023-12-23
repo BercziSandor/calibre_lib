@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1523">Szilágyi Vilmos: Intimkapcsolat kézikönyve (1994)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szilagyi%20Vilmos/Intimkapcsolat%20kezikonyve%20%281523%29/cover.jpg" alt="cover" width="300"/></center>
 

@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1410">Jostein Gaarder: A kártya titka (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jostein%20Gaarder/A%20kartya%20titka%20%281410%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -13,6 +14,7 @@
 
 
 <hr/>
+
 # <a name="id_1411">Jostein Gaarder: Anna világa (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jostein%20Gaarder/Anna%20vilaga%20%281411%29/cover.jpg" alt="cover" width="300"/></center>
 

@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_174">Fable, Vavyan: Halkirálynő (Halkiralynö 1) (1990)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Halkiralyno%20%28174%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -16,6 +17,7 @@
 
 
 <hr/>
+
 # <a name="id_176">Fable, Vavyan: A pokol is elnyeli (Halkirálynő (2002)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/A%20pokol%20is%20elnyeli%20%28176%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -30,6 +32,7 @@ Patrick Wyne, az akciócsoport fáradt vezetője éppen aludni készül, amikor 
 
 
 <hr/>
+
 # <a name="id_173">Fable, Vavyan: A Halkirálynő és a dzsinnek (Halkirálynő 2) (2006)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/A%20Halkiralyno%20es%20a%20dzsinnek%20%28173%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -44,6 +47,7 @@ A ​Halkirálynő és a kommandó hőseit újra veszély fenyegeti. Denisa, a r
 
 
 <hr/>
+
 # <a name="id_181">Fable, Vavyan: Ki feküdt az ágyamban? (Halkirálynő 3) (2006)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Ki%20fekudt%20az%20agyamban_%20%28181%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -61,6 +65,7 @@ Kérdezik mások is, gorombán. Denisa öt napot kap, hogy válasszal szolgáljo
 
 
 <hr/>
+
 # <a name="id_180">Fable, Vavyan: Ébredj velem! (Halkirálynő 4) (2007)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Ebredj%20velem%21%20%28180%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -79,6 +84,7 @@ Látom a fickó arcát: őrült nagyra tágult szempár, a pupilla zöldesen fel
 
 
 <hr/>
+
 # <a name="id_1152">Fable, Vavyan: Mogorva nyár (Halkirálynő 4.5) (2007)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Mogorva%20nyar%20%281152%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -93,6 +99,7 @@ Belloq ​és akciócsoportos társai különleges kiképzési programról hazat
 
 
 <hr/>
+
 # <a name="id_175">Fable, Vavyan: A Hold forró jegén (Halkirálynő 6) (2007)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/A%20Hold%20forro%20jegen%20%28175%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -107,6 +114,7 @@ Belloq ​és akciócsoportos társai különleges kiképzési programról hazat
 
 
 <hr/>
+
 # <a name="id_179">Fable, Vavyan: Apád, anyád ide lőjön! (Halkirálynő 7) (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Apad%2C%20anyad%20ide%20lojon%21%20%28179%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -121,6 +129,7 @@ A ​halkirálynő nevében! Az előrahaladottan állapotos zsarulány, Denisa W
 
 
 <hr/>
+
 # <a name="id_1151">Fable, Vavyan: Mesemaraton (Mesemaraton 1) (2009)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Mesemaraton%20%281151%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -136,6 +145,7 @@ Burleszk, paródia, karikatúra ÉS kalandregény. Hella Postor, a vagány, idő
 
 
 <hr/>
+
 # <a name="id_1163">Fable, Vavyan: Emlékfutam (Mesemaraton 2) (2007)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Emlekfutam%20%281163%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -150,6 +160,7 @@ Hella ​Postor, a dúsgazdag öreg hölgy a hajdani Mesemaraton nevű lovasvers
 
 
 <hr/>
+
 # <a name="id_1161">Fable, Vavyan: Nászjelentés 1. (Nászjelentés 1) (2002)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Naszjelentes%201_%20%281161%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -225,6 +236,7 @@ eszközön történő túlutazás, továbbá családelhanyago­lás okozta káro
 
 
 <hr/>
+
 # <a name="id_1162">Fable, Vavyan: Nászjelentés 2. (Nászjelentés 2) (2003)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Naszjelentes%202_%20%281162%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -232,6 +244,7 @@ eszközön történő túlutazás, továbbá családelhanyago­lás okozta káro
 [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Naszjelentes%202_%20%281162%29/Naszjelentes%202_%20-%20Fable%2C%20Vavyan.rtf)
 
 <hr/>
+
 # <a name="id_178">Fable, Vavyan: Álomhajsza (Seym és Lilia 1) (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Alomhajsza%20%28178%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -246,6 +259,7 @@ Amint ​tudomást szerzünk a KÉK KRISTÁLY létezéséről, azonnal szenvedé
 
 
 <hr/>
+
 # <a name="id_1156">Fable, Vavyan: Tündértánc I. (Tündértánc 1) (2000)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Tundertanc%20I_%20%281156%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -291,6 +305,7 @@ TÜNDÉRTÁNC-lépéseket!<p></p></p>
 
 
 <hr/>
+
 # <a name="id_1157">Fable, Vavyan: Tündértánc II. (Tündértánc 2) (2001)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Tundertanc%20II_%20%281157%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -336,6 +351,7 @@ TÜNDÉRTÁNC-lépéseket!<p></p></p>
 
 
 <hr/>
+
 # <a name="id_1153">Fable, Vavyan: Vis Major (Vis Major 1) (2004)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Vis%20Major%20%281153%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -347,6 +363,7 @@ A boldog-boldogtalan őslakók által csak Fertő Cityként emlegetett nagyváro
 
 
 <hr/>
+
 # <a name="id_1164">Fable, Vavyan: Kyra Eleison (Vis Major 2) (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Kyra%20Eleison%20%281164%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -361,6 +378,7 @@ A boldog-boldogtalan őslakók által csak Fertő Cityként emlegetett nagyváro
 
 
 <hr/>
+
 # <a name="id_1154">Fable, Vavyan: Vészbejárat (Vis Major 4) (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Veszbejarat%20%281154%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -375,6 +393,7 @@ Vis ​Major és Kyra Emett, a Fertő City utcáin járőröző zsarupáros mege
 
 
 <hr/>
+
 # <a name="id_1158">Fable, Vavyan: Tíz kicsi kommandós (Vis Major 5) (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Tiz%20kicsi%20kommandos%20%281158%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -389,6 +408,7 @@ Vis ​Major és Kyra Emett, minden idők leghatékonyabb akciózsaru párosa to
 
 
 <hr/>
+
 # <a name="id_1014">Fable, Vavyan: Szamurájszív (Vis Major 7) (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Szamurajsziv%20%281014%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -407,6 +427,7 @@ Vigyázat! Csak erős szívűeknek!
 
 
 <hr/>
+
 # <a name="id_177">Fable, Vavyan: Álmok Tengere (Álmok Tengere 1) (2012)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Almok%20Tengere%20%28177%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -421,6 +442,7 @@ Egy réges-régen varázsálomba süllyesztett, legendás király, akit visszas�
 
 
 <hr/>
+
 # <a name="id_558">Fable, Vavyan: Barbárság Tengere (Álmok Tengere 2) (2012)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Barbarsag%20Tengere%20%28558%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -439,6 +461,7 @@ A Világ Lelke legyen velünk.
 
 
 <hr/>
+
 # <a name="id_803">Fable, Vavyan: My fair lord (1995)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/My%20fair%20lord%20%28803%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -453,6 +476,7 @@ A ​hölgy kalapja hatalmas, haja homokszőke, arcán régi sebhely, farmerja r
 
 
 <hr/>
+
 # <a name="id_1146">Fable, Vavyan: Fattyúdal (1996)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Fattyudal%20%281146%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -467,6 +491,7 @@ Az indián Fattyú és Tashina idilli helyen ismerkednek meg, ahol a csendet csa
 
 
 <hr/>
+
 # <a name="id_1149">Fable, Vavyan: Jégtánc (1998)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Jegtanc%20%281149%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -481,6 +506,7 @@ Jade baja elég korán meggyűlik „mintaszerű” szüleivel, akik elvárják 
 
 
 <hr/>
+
 # <a name="id_881">Fable, Vavyan: Démontangó (1999)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Demontango%20%28881%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -495,6 +521,7 @@ A ​Halkirálynő szerzőjének – új könyve az olvasó által jól ismert v
 
 
 <hr/>
+
 # <a name="id_1155">Fable, Vavyan: Vakvágta (1999)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Vakvagta%20%281155%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -509,6 +536,7 @@ A ​férfi, Kentaro sokoldalú kaszkadőr, miáltal hol lángra kap, hol a maga
 
 
 <hr/>
+
 # <a name="id_1148">Fable, Vavyan: Halálnak halálával (2001)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Halalnak%20halalaval%20%281148%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -523,6 +551,7 @@ A ​Szent Kristóf börtönből külső segítséggel megszökik három nehézb
 
 
 <hr/>
+
 # <a name="id_1150">Fable, Vavyan: Kedves, mint egy kéjgyilkos (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Kedves%2C%20mint%20egy%20kejgyilkos%20%281150%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -546,6 +575,7 @@ A ​Szent Kristóf börtönből külső segítséggel megszökik három nehézb
 
 
 <hr/>
+
 # <a name="id_1160">Fable, Vavyan: Sárkánykönny (2009)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Sarkanykonny%20%281160%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -560,6 +590,7 @@ Kezdetnek felhívogat. Telefonüzenget. Követ. Leselkedik rád. Meglátogat ál
 
 
 <hr/>
+
 # <a name="id_701">Fable, Vavyan: A halál zsoldjában (2010)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/A%20halal%20zsoldjaban%20%28701%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -574,6 +605,7 @@ A Halkirálynő és a Kommandó" íróját napjaink vérfagyasztó terrorcselekm
 
 
 <hr/>
+
 # <a name="id_1159">Fable, Vavyan: Szennyből az angyal (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Szennybol%20az%20angyal%20%281159%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -588,6 +620,7 @@ A regény hősnője, Tonie – túl egy súlyos válságon – mesei karácsonyr
 
 
 <hr/>
+
 # <a name="id_1145">Fable, Vavyan: Ezüstegér (2012)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Ezusteger%20%281145%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -610,6 +643,7 @@ Sötét üvegű ablakain megtört a napsugarak áthatolási igyekezete.
 
 
 <hr/>
+
 # <a name="id_1144">Fable, Vavyan: Édes, mint a bűn (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fable%2C%20Vavyan/Edes%2C%20mint%20a%20bun%20%281144%29/cover.jpg" alt="cover" width="300"/></center>
 

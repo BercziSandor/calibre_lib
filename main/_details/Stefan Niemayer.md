@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_806">Stefan Niemayer: Titkos kísérletek a náci birodalomban (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stefan%20Niemayer/Titkos%20kiserletek%20a%20naci%20birodalomb%20%28806%29/cover.jpg" alt="cover" width="300"/></center>
 

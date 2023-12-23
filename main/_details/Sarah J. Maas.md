@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1693">Sarah J. Maas: Föld és vér háza (Crescent City 1) (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Fold%20es%20ver%20haza%20%281693%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_1694">Sarah J. Maas: Ég és lélegzet háza (Crescent City 2) (2022)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Eg%20es%20lelegzet%20haza%20%281694%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -33,6 +35,7 @@
 
 
 <hr/>
+
 # <a name="id_1698">Sarah J. Maas: Tüskék és rózsák udvara (Tüskék és rózsák udvara 1) (2018)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Tuskek%20es%20rozsak%20udvara%20%281698%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -50,6 +53,7 @@
 
 
 <hr/>
+
 # <a name="id_1699">Sarah J. Maas: Köd és harag udvara (Tüskék és rózsák udvara 2) (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Kod%20es%20harag%20udvara%20%281699%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -62,6 +66,7 @@
 
 
 <hr/>
+
 # <a name="id_1700">Sarah J. Maas: Szárnyak és pusztulás udvara (Tüskék és rózsák udvara 3) (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Szarnyak%20es%20pusztulas%20udvara%20%281700%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -79,6 +84,7 @@
 
 
 <hr/>
+
 # <a name="id_1696">Sarah J. Maas: Fagy és csillagfény udvara (Tüskék és rózsák udvara 3.1) (2018)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Fagy%20es%20csillagfeny%20udvara%20%281696%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -96,6 +102,7 @@
 
 
 <hr/>
+
 # <a name="id_1697">Sarah J. Maas: Ezüst lángok udvara (Tüskék és rózsák udvara 4) (2021)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Ezust%20langok%20udvara%20%281697%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -108,6 +115,7 @@
 
 
 <hr/>
+
 # <a name="id_1685">Sarah J. Maas: Az orgyilkos pengéje és más történetek (Üvegtrón 0.5) (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Az%20orgyilkos%20pengeje%20es%20mas%20tortene%20%281685%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -124,6 +132,7 @@
 
 
 <hr/>
+
 # <a name="id_1686">Sarah J. Maas: Üvegtrón (Üvegtrón 1) (2012)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Uvegtron%20%281686%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -138,6 +147,7 @@
 
 
 <hr/>
+
 # <a name="id_1689">Sarah J. Maas: Éjkorona (Üvegtrón 2) (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Ejkorona%20%281689%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -152,6 +162,7 @@ Calaena könyörtelen küzdelemben legyőzte ellenfeleit és a király bajnoka l
 
 
 <hr/>
+
 # <a name="id_1692">Sarah J. Maas: A tűz örököse (Üvegtrón 3) (2014)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/A%20tuz%20orokose%20%281692%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -166,6 +177,7 @@ Calaena könyörtelen küzdelemben legyőzte ellenfeleit és a király bajnoka l
 
 
 <hr/>
+
 # <a name="id_1691">Sarah J. Maas: Árnyak királynője (Üvegtrón 4) (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Arnyak%20kiralynoje%20%281691%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -180,6 +192,7 @@ Calaena könyörtelen küzdelemben legyőzte ellenfeleit és a király bajnoka l
 
 
 <hr/>
+
 # <a name="id_1690">Sarah J. Maas: Viharok birodalma (Üvegtrón 5) (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Viharok%20birodalma%20%281690%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -194,6 +207,7 @@ Calaena könyörtelen küzdelemben legyőzte ellenfeleit és a király bajnoka l
 
 
 <hr/>
+
 # <a name="id_1688">Sarah J. Maas: A hajnal tornya (Üvegtrón 6) (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/A%20hajnal%20tornya%20%281688%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -210,6 +224,7 @@ Calaena könyörtelen küzdelemben legyőzte ellenfeleit és a király bajnoka l
 
 
 <hr/>
+
 # <a name="id_1687">Sarah J. Maas: Felperzselt királyság (Üvegtrón 7) (2018)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Felperzselt%20kiralysag%20%281687%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -230,6 +245,7 @@ Calaena könyörtelen küzdelemben legyőzte ellenfeleit és a király bajnoka l
 
 
 <hr/>
+
 # <a name="id_1684">Sarah J. Maas: Macskanő - Lélektolvaj (2018)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Sarah%20J.%20Maas/Macskano%20-%20Lelektolvaj%20%281684%29/cover.jpg" alt="cover" width="300"/></center>
 

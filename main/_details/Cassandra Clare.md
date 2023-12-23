@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_635">Cassandra Clare: Csontváros (A Végzet Ereklyéi 1) (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Cassandra%20Clare/Csontvaros%20%28635%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_636">Cassandra Clare: Hamuváros (A Végzet Ereklyéi 2) (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Cassandra%20Clare/Hamuvaros%20%28636%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -29,6 +31,7 @@
 
 
 <hr/>
+
 # <a name="id_637">Cassandra Clare: Üvegváros (A Végzet Ereklyéi 3) (2018)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Cassandra%20Clare/Uvegvaros%20%28637%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -44,6 +47,7 @@
 
 
 <hr/>
+
 # <a name="id_638">Cassandra Clare: Bukott angyalok városa (A Végzet Ereklyéi 4) (2018)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Cassandra%20Clare/Bukott%20angyalok%20varosa%20%28638%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -59,6 +63,7 @@
 
 
 <hr/>
+
 # <a name="id_639">Cassandra Clare: Elveszett lelkek városa (A Végzet Ereklyéi 5) (2018)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Cassandra%20Clare/Elveszett%20lelkek%20varosa%20%28639%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -74,6 +79,7 @@
 
 
 <hr/>
+
 # <a name="id_640">Cassandra Clare: Az angyal (Pokoli szerkezetek 1) (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Cassandra%20Clare/Az%20angyal%20%28640%29/cover.jpg" alt="cover" width="300"/></center>
 

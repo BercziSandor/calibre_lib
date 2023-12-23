@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1452">Salman Rushdie: Fúriadüh (2019)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Salman%20Rushdie/Furiaduh%20%281452%29/cover.jpg" alt="cover" width="300"/></center>
 

@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_446">Bohumil Hrabal: Őfelsége pincére voltam (Európa Zsebkönyvek 1) (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Ofelsege%20pincere%20voltam%20%28446%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_445">Bohumil Hrabal: Házimurik (Házimurik 1) (2012)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Hazimurik%20%28445%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -29,6 +31,7 @@
 
 
 <hr/>
+
 # <a name="id_453">Bohumil Hrabal: Vita nuova (Házimurik 2) (2009)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Vita%20nuova%20%28453%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -44,6 +47,7 @@
 
 
 <hr/>
+
 # <a name="id_442">Bohumil Hrabal: Foghíjak (Házimurik 3) (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Foghijak%20%28442%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -59,6 +63,7 @@
 
 
 <hr/>
+
 # <a name="id_448">Bohumil Hrabal: Sörgyári capriccio (Kisvárosi történetek 1) (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Sorgyari%20capriccio%20%28448%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -74,6 +79,7 @@
 
 
 <hr/>
+
 # <a name="id_440">Bohumil Hrabal: Díszgyász (Kisvárosi történetek 2) (2009)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Diszgyasz%20%28440%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -89,6 +95,7 @@
 
 
 <hr/>
+
 # <a name="id_444">Bohumil Hrabal: Háromlábú ló az ügetőpályán </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Haromlabu%20lo%20az%20ugetopalyan%20%28444%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -96,6 +103,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Haromlabu%20lo%20az%20ugetopalyan%20%28444%29/Haromlabu%20lo%20az%20ugetopalyan%20-%20Bohumil%20Hrabal.epub)
 
 <hr/>
+
 # <a name="id_439">Bohumil Hrabal: A városka, ahol megállt az idő (2005)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/A%20varoska%2C%20ahol%20megallt%20az%20ido%20%28439%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -111,6 +119,7 @@
 
 
 <hr/>
+
 # <a name="id_452">Bohumil Hrabal: Véres történetek és legendák (2005)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Veres%20tortenetek%20es%20legendak%20%28452%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -126,6 +135,7 @@
 
 
 <hr/>
+
 # <a name="id_969">Bohumil Hrabal: Egy osztályismétlő emlékezései (2006)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Egy%20osztalyismetlo%20emlekezesei%20%28969%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -141,6 +151,7 @@
 
 
 <hr/>
+
 # <a name="id_447">Bohumil Hrabal: Rózsalovag (2006)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Rozsalovag%20%28447%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -156,6 +167,7 @@
 
 
 <hr/>
+
 # <a name="id_449">Bohumil Hrabal: Szigorúan ellenőrzött vonatok (2007)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Szigoruan%20ellenorzott%20vonatok%20%28449%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -171,6 +183,7 @@
 
 
 <hr/>
+
 # <a name="id_451">Bohumil Hrabal: Tükrök árulása (2007)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Tukrok%20arulasa%20%28451%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -186,6 +199,7 @@
 
 
 <hr/>
+
 # <a name="id_443">Bohumil Hrabal: Gyöngéd barbárok (2014)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Gyonged%20barbarok%20%28443%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -201,6 +215,7 @@
 
 
 <hr/>
+
 # <a name="id_450">Bohumil Hrabal: Táncórák idősebbeknek és haladóknak (2014)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bohumil%20Hrabal/Tancorak%20idosebbeknek%20es%20haladoknak%20%28450%29/cover.jpg" alt="cover" width="300"/></center>
 

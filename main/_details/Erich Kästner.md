@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1199">Erich Kästner: A két Lotti (Pöttyös 1) (2018)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Kastner/A%20ket%20Lotti%20%281199%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_964">Erich Kästner: A repülő osztály (2019)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Kastner/A%20repulo%20osztaly%20%28964%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -28,6 +30,7 @@
 
 
 <hr/>
+
 # <a name="id_667">Erich Kästner: Három ember a hóban (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Erich%20Kastner/Harom%20ember%20a%20hoban%20%28667%29/cover.jpg" alt="cover" width="300"/></center>
 

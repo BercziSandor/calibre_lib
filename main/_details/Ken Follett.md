@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1641">Ken Follett: Fall of Giants (The Century Trilogy 1) (2010)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ken%20Follett/Fall%20of%20Giants%20%281641%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_1640">Ken Follett: The Third Twin (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ken%20Follett/The%20Third%20Twin%20%281640%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -25,6 +27,7 @@
 
 
 <hr/>
+
 # <a name="id_807">Ken Follett: Az ördög műve (2012)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ken%20Follett/Az%20ordog%20muve%20%28807%29/cover.jpg" alt="cover" width="300"/></center>
 

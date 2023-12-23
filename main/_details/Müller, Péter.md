@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_114">Müller, Péter: Sorsról és életről (Útravaló 1) (2012)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Muller%2C%20Peter/Sorsrol%20es%20eletrol%20%28114%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_112">Müller, Péter: Boldogság (2007)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Muller%2C%20Peter/Boldogsag%20%28112%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -29,6 +31,7 @@
 
 
 <hr/>
+
 # <a name="id_113">Müller, Péter: Kígyó és kereszt (2007)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Muller%2C%20Peter/Kigyo%20es%20kereszt%20%28113%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -44,6 +47,7 @@
 
 
 <hr/>
+
 # <a name="id_110">Müller, Péter: Örömkönyv (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Muller%2C%20Peter/Oromkonyv%20%28110%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -59,6 +63,7 @@
 
 
 <hr/>
+
 # <a name="id_270">Müller, Péter: Gondviselés (2009)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Muller%2C%20Peter/Gondviseles%20%28270%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -74,6 +79,7 @@
 
 
 <hr/>
+
 # <a name="id_116">Müller, Péter: Titkos tanítások (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Muller%2C%20Peter/Titkos%20tanitasok%20%28116%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -89,6 +95,7 @@
 
 
 <hr/>
+
 # <a name="id_111">Müller, Péter: Benső mosoly (2014)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Muller%2C%20Peter/Benso%20mosoly%20%28111%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -104,6 +111,7 @@
 
 
 <hr/>
+
 # <a name="id_115">Müller, Péter: Szeretetkönyv (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Muller%2C%20Peter/Szeretetkonyv%20%28115%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -119,6 +127,7 @@
 
 
 <hr/>
+
 # <a name="id_117">Müller, Péter: Varázskő (2018)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Muller%2C%20Peter/Varazsko%20%28117%29/cover.jpg" alt="cover" width="300"/></center>
 

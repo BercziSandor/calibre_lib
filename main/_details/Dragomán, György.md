@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1192">Dragomán, György: A pusztítás könyve (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dragoman%2C%20Gyorgy/A%20pusztitas%20konyve%20%281192%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_1191">Dragomán, György: Oroszlánkórus (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dragoman%2C%20Gyorgy/Oroszlankorus%20%281191%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -29,6 +31,7 @@
 
 
 <hr/>
+
 # <a name="id_1193">Dragomán, György: A fehér király (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dragoman%2C%20Gyorgy/A%20feher%20kiraly%20%281193%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -44,6 +47,7 @@
 
 
 <hr/>
+
 # <a name="id_1223">Dragomán, György: Rendszerújra (2018)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dragoman%2C%20Gyorgy/Rendszerujra%20%281223%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -59,6 +63,7 @@
 
 
 <hr/>
+
 # <a name="id_1194">Dragomán, György: Máglya (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Dragoman%2C%20Gyorgy/Maglya%20%281194%29/cover.jpg" alt="cover" width="300"/></center>
 

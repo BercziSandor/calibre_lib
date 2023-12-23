@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_488">L. M. Montgomery: Anne otthonra talál (Anne 1) (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20otthonra%20talal%20%28488%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -13,6 +14,7 @@ Avonlea ​kanadai falucska népe felbolydul: vajon mi indíthatta a besavanyodo
 
 
 <hr/>
+
 # <a name="id_483">L. M. Montgomery: Anne az élet iskolájában (Anne 2) (2005)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20az%20elet%20iskolajaban%20%28483%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -27,6 +29,7 @@ Anne Shirley, ez a vörös hajú, örökké csacsogó és álmodozásra hajlamos
 
 
 <hr/>
+
 # <a name="id_490">L. M. Montgomery: Anne válaszúton (Anne 3) (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20valaszuton%20%28490%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -44,6 +47,7 @@ A rendkívül népszerű kanadai írónő legismertebb sorozatának harmadik dar
 
 
 <hr/>
+
 # <a name="id_489">L. M. Montgomery: Anne új vizekre evez (Anne 4) (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20uj%20vizekre%20evez%20%28489%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -58,6 +62,7 @@ A ​népszerű Anne-sorozat legújabb, sorrendben negyedik kötete az Anne új 
 
 
 <hr/>
+
 # <a name="id_486">L. M. Montgomery: Anne férjhez megy (Anne 5) (2007)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20ferjhez%20megy%20%28486%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -74,6 +79,7 @@ Anne anya lesz, de rögtön gyászba is borul. Ám végül jóra fordulnak a dol
 
 
 <hr/>
+
 # <a name="id_484">L. M. Montgomery: Anne családja körében (Anne 6) (2012)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20csaladja%20koreben%20%28484%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -88,6 +94,7 @@ Anne Shirley, aki valaha árvalányként került az Edward-szigeti falucskába, 
 
 
 <hr/>
+
 # <a name="id_485">L. M. Montgomery: Anne és a Szivárvány-völgy (Anne 7) (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20es%20a%20Szivarvany-volgy%20%28485%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -102,6 +109,7 @@ A ​Zöldmanzárdos-ház vörös hajú Anne-je hatgyerekes családanya, s már 
 
 
 <hr/>
+
 # <a name="id_487">L. M. Montgomery: Anne gyermekei a háborúban (Anne 8) (2009)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Anne%20gyermekei%20a%20haboruban%20%28487%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -116,6 +124,7 @@ Anne gyermekei már majdnem felnőttek, kivéve a vidám, szeleburdi és nyakigl
 
 
 <hr/>
+
 # <a name="id_493">L. M. Montgomery: A tűzpróba (Emily 1) (2006)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/A%20tuzproba%20%28493%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -130,6 +139,7 @@ Emily Starr szeretett édesapja haláláig nem tudja, mi a magány. Noha otthon 
 
 
 <hr/>
+
 # <a name="id_494">L. M. Montgomery: Barátságok (Emily 2) (2007)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Baratsagok%20%28494%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -144,6 +154,7 @@ Emily már a második nyarat tölti New Moonban, a titokzatos, sokat látott, ö
 
 
 <hr/>
+
 # <a name="id_495">L. M. Montgomery: Bagolykacaj (Emily 3) (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Bagolykacaj%20%28495%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -159,6 +170,7 @@ Emily Starr egy sereg oktalan és helytelen dolgot művel, ámde ő nem hétköz
 
 
 <hr/>
+
 # <a name="id_496">L. M. Montgomery: Forgószél (Emily 4) (2009)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Forgoszel%20%28496%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -174,6 +186,7 @@ Nem csoda hát, ha ostobának tartják Emilyt, amikor visszautasítja a fantaszt
 
 
 <hr/>
+
 # <a name="id_497">L. M. Montgomery: Szerelmek (Emily 5) (2010)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Szerelmek%20%28497%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -188,6 +201,7 @@ Emily barátai mind elhagyják Blair Water-t: Ilse Burnley a Montreali Irodalmi 
 
 
 <hr/>
+
 # <a name="id_492">L. M. Montgomery: A Mesélő Lány (Váratlan utazás 1) (1999)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/A%20Meselo%20Lany%20%28492%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -203,6 +217,7 @@ A ​Mesélő Lány ismerős vidékre kalauzolja Lucy Maud Montgomery méltán n
 
 
 <hr/>
+
 # <a name="id_491">L. M. Montgomery: Az arany út (Váratlan utazás 2) (2000)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Az%20arany%20ut%20%28491%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -217,6 +232,7 @@ Lucy ​Maud Montgomery, a méltán népszerű Anne sorozat szerzője, fiatal ol
 
 
 <hr/>
+
 # <a name="id_265">L. M. Montgomery: Avonlea-i krónikák (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/L.%20M.%20Montgomery/Avonlea-i%20kronikak%20%28265%29/cover.jpg" alt="cover" width="300"/></center>
 

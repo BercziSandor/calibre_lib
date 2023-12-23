@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_478">Tarjányi, Péter: Meglátni és megveretni (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tarjanyi%2C%20Peter/Meglatni%20es%20megveretni%20%28478%29/cover.jpg" alt="cover" width="300"/></center>
 

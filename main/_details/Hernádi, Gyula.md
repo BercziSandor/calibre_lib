@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1197">Hernádi, Gyula: Egri csillagok háborúja (1994)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Hernadi%2C%20Gyula/Egri%20csillagok%20haboruja%20%281197%29/cover.jpg" alt="cover" width="300"/></center>
 

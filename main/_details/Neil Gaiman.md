@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_890">Neil Gaiman: Shoggoth Különleges (Novellák 1) </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Shoggoth%20Kulonleges%20%28890%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -6,6 +7,7 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Shoggoth%20Kulonleges%20%28890%29/Shoggoth%20Kulonleges%20-%20Neil%20Gaiman.epub)
 
 <hr/>
+
 # <a name="id_665">Neil Gaiman: 27 képtelen történet </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/27%20keptelen%20tortenet%20%28665%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -20,10 +22,12 @@
 
 
 <hr/>
+
 # <a name="id_887">Neil Gaiman: Góliát </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Goliat%20%28887%29/cover.jpg" alt="cover" width="300"/></center>
 
 <hr/>
+
 # <a name="id_888">Neil Gaiman: Hó, tükör, almák </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ho%2C%20tukor%2C%20almak%20%28888%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -31,10 +35,12 @@
 [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ho%2C%20tukor%2C%20almak%20%28888%29/Ho%2C%20tukor%2C%20almak%20-%20Neil%20Gaiman.epub)
 
 <hr/>
+
 # <a name="id_889">Neil Gaiman: Mátrix </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Matrix%20%28889%29/cover.jpg" alt="cover" width="300"/></center>
 
 <hr/>
+
 # <a name="id_896">Neil Gaiman: Elveszett Próféciák (1990)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Elveszett%20Profeciak%20%28896%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -50,6 +56,7 @@
 
 
 <hr/>
+
 # <a name="id_1808">Neil Gaiman: Neverwhere (1996)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Neverwhere%20%281808%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -89,6 +96,7 @@
 
 
 <hr/>
+
 # <a name="id_224">Neil Gaiman: Amerikai Istenek (2001)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Amerikai%20Istenek%20%28224%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -103,6 +111,7 @@
 
 
 <hr/>
+
 # <a name="id_1811">Neil Gaiman: Coraline (2006)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Coraline%20%281811%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -119,6 +128,7 @@
 
 
 <hr/>
+
 # <a name="id_1810">Neil Gaiman: The Graveyard Book (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/The%20Graveyard%20Book%20%281810%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -135,6 +145,7 @@
 
 
 <hr/>
+
 # <a name="id_1809">Neil Gaiman: American Gods: The Tenth Anniversary Edition: A Novel (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/American%20Gods_%20The%20Tenth%20Anniversar%20%281809%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -150,6 +161,7 @@
 
 
 <hr/>
+
 # <a name="id_1706">Neil Gaiman: Ne ess pánikba! (2012)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ne%20ess%20panikba%21%20%281706%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -165,6 +177,7 @@
 
 
 <hr/>
+
 # <a name="id_1433">Neil Gaiman: Óceán az út végén (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ocean%20az%20ut%20vegen%20%281433%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -180,6 +193,7 @@
 
 
 <hr/>
+
 # <a name="id_1805">Neil Gaiman: Óceán az út végén (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Ocean%20az%20ut%20vegen%20%281805%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -197,6 +211,7 @@
 
 
 <hr/>
+
 # <a name="id_1806">Neil Gaiman: The Ocean at the End of the Lane (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/The%20Ocean%20at%20the%20End%20of%20the%20Lane%20%281806%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -240,6 +255,7 @@
 
 
 <hr/>
+
 # <a name="id_1802">Neil Gaiman: Unnatural Creatures (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Unnatural%20Creatures%20%281802%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -251,6 +267,7 @@
 
 
 <hr/>
+
 # <a name="id_1432">Neil Gaiman: Anansi fiúk (2014)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Anansi%20fiuk%20%281432%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -266,6 +283,7 @@
 
 
 <hr/>
+
 # <a name="id_1431">Neil Gaiman: Coraline (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Coraline%20%281431%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -281,6 +299,7 @@
 
 
 <hr/>
+
 # <a name="id_976">Neil Gaiman: Felkavaró tartalom (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Felkavaro%20tartalom%20%28976%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -296,6 +315,7 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 
 
 <hr/>
+
 # <a name="id_1804">Neil Gaiman: Trigger Warning: Short Fictions and Disturbances (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Trigger%20Warning_%20Short%20Fictions%20and%20%281804%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -376,6 +396,7 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 
 
 <hr/>
+
 # <a name="id_1812">Neil Gaiman: Kilátás az erkélyről (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Kilatas%20az%20erkelyrol%20%281812%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -390,6 +411,7 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 
 
 <hr/>
+
 # <a name="id_1435">Neil Gaiman: Északi mitológia (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Eszaki%20mitologia%20%281435%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -405,6 +427,7 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 
 
 <hr/>
+
 # <a name="id_1807">Neil Gaiman: Norse Mythology (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Norse%20Mythology%20%281807%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -421,6 +444,7 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 
 
 <hr/>
+
 # <a name="id_1436">Neil Gaiman: Törékeny holmik (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Torekeny%20holmik%20%281436%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -436,6 +460,7 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 
 
 <hr/>
+
 # <a name="id_1434">Neil Gaiman: Tükör és füst (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Tukor%20es%20fust%20%281434%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -451,6 +476,7 @@ A Fekete kutya című, eddig sehol máshol nem olvasható történet az Amerikai
 
 
 <hr/>
+
 # <a name="id_222">Neil Gaiman: Sosehol (2018)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Sosehol%20%28222%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -467,6 +493,7 @@ A csatornák és metróalagutak labirintusában velük kell boldogulnia Richardn
 
 
 <hr/>
+
 # <a name="id_886">Neil Gaiman: Csillagpor (2019)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/Csillagpor%20%28886%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -482,6 +509,7 @@ Falva falva egy aprócska település Angliában. Arról a falról kapta a nevé
 
 
 <hr/>
+
 # <a name="id_1424">Neil Gaiman: A temető könyve (2020)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Gaiman/A%20temeto%20konyve%20%281424%29/cover.jpg" alt="cover" width="300"/></center>
 

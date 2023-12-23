@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_391">Fodor, Sándor: Csipike (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fodor%2C%20Sandor/Csipike%20%28391%29/cover.jpg" alt="cover" width="300"/></center>
 

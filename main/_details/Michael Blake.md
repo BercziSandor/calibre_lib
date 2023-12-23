@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_721">Michael Blake: Farkasokkal táncoló (1993)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Michael%20Blake/Farkasokkal%20tancolo%20%28721%29/cover.jpg" alt="cover" width="300"/></center>
 

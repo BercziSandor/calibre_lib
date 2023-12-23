@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1593">Roald Dahl: Charlie and the Chocolate Factory (Charlie Bucket 1) (2010)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Roald%20Dahl/Charlie%20and%20the%20Chocolate%20Factory%20%281593%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_1594">Roald Dahl: Charlie and the Great Glass Elevator (Charlie Bucket 2) (2007)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Roald%20Dahl/Charlie%20and%20the%20Great%20Glass%20Elevato%20%281594%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -29,6 +31,7 @@
 
 
 <hr/>
+
 # <a name="id_537">Roald Dahl: Szofi és a HABÓ (1990)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Roald%20Dahl/Szofi%20es%20a%20HABO%20%28537%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -44,6 +47,7 @@
 
 
 <hr/>
+
 # <a name="id_1596">Roald Dahl: Roald Dahl összes meghökkentő meséje 2. (2002)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Roald%20Dahl/Roald%20Dahl%20osszes%20meghokkento%20mesej%20%281596%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -59,6 +63,7 @@
 
 
 <hr/>
+
 # <a name="id_1595">Roald Dahl: Roald Dahl összes meghökkentő meséje 1. (2004)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Roald%20Dahl/Roald%20Dahl%20osszes%20meghokkento%20mesej%20%281595%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -114,6 +119,7 @@
 
 
 <hr/>
+
 # <a name="id_1602">Roald Dahl: Boszorkányok (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Roald%20Dahl/Boszorkanyok%20%281602%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -126,6 +132,7 @@
 
 
 <hr/>
+
 # <a name="id_1601">Roald Dahl: Fantasztikus Róka úr (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Roald%20Dahl/Fantasztikus%20Roka%20ur%20%281601%29/cover.jpg" alt="cover" width="300"/></center>
 

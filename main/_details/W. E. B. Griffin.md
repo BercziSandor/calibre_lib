@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_320">W. E. B. Griffin: Hadnagyok (A háború katonái 1) (2005)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/W.%20E.%20B.%20Griffin/Hadnagyok%20%28320%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -13,6 +14,7 @@
 
 
 <hr/>
+
 # <a name="id_321">W. E. B. Griffin: Különleges kommandósok I-II. (A háború katonái 9) (2005)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/W.%20E.%20B.%20Griffin/Kulonleges%20kommandosok%20I-II_%20%28321%29/cover.jpg" alt="cover" width="300"/></center>
 

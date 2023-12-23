@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_527">Szergej Kuznyecov: Pillangóbőr (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Szergej%20Kuznyecov/Pillangobor%20%28527%29/cover.jpg" alt="cover" width="300"/></center>
 

@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_954">Paul Watzlawick: A helyzet reménytelen, de nem súlyos (1989)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Paul%20Watzlawick/A%20helyzet%20remenytelen%2C%20de%20nem%20sulyo%20%28954%29/cover.jpg" alt="cover" width="300"/></center>
 

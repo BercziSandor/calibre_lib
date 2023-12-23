@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_664">Pál, Ferenc: A függőségtől az intimitásig (2018)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Pal%2C%20Ferenc/A%20fuggosegtol%20az%20intimitasig%20%28664%29/cover.jpg" alt="cover" width="300"/></center>
 

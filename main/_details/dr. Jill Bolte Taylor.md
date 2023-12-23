@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1819">dr. Jill Bolte Taylor: Mennybe döngölve: egy agykutató boldogító agyvérzése (2010)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/dr.%20Jill%20Bolte%20Taylor/Mennybe%20dongolve_%20egy%20agykutato%20bol%20%281819%29/cover.jpg" alt="cover" width="300"/></center>
 

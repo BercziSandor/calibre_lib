@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_922">Neil Boyd: Egek, mitévő legyek? (1997)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Boyd/Egek%2C%20mitevo%20legyek_%20%28922%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -13,6 +14,7 @@
 
 
 <hr/>
+
 # <a name="id_923">Neil Boyd: Atyák pácban (1999)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Neil%20Boyd/Atyak%20pacban%20%28923%29/cover.jpg" alt="cover" width="300"/></center>
 

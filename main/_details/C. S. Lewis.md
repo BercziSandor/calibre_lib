@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1278">C. S. Lewis: A varázsló unokaöccse (Narnia krónikái 1) (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/C.%20S.%20Lewis/A%20varazslo%20unokaoccse%20%281278%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -11,6 +12,7 @@
 
 
 <hr/>
+
 # <a name="id_1279">C. S. Lewis: Az oroszlán, a boszorkány és a ruhásszekrény (Narnia krónikái 2) (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/C.%20S.%20Lewis/Az%20oroszlan%2C%20a%20boszorkany%20es%20a%20ruha%20%281279%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -23,6 +25,7 @@
 
 
 <hr/>
+
 # <a name="id_1283">C. S. Lewis: A ló és kis gazdája (Narnia krónikái 3) (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/C.%20S.%20Lewis/A%20lo%20es%20kis%20gazdaja%20%281283%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -35,6 +38,7 @@
 
 
 <hr/>
+
 # <a name="id_1284">C. S. Lewis: Caspian herceg (Narnia krónikái 4) (2017)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/C.%20S.%20Lewis/Caspian%20herceg%20%281284%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -47,6 +51,7 @@
 
 
 <hr/>
+
 # <a name="id_1282">C. S. Lewis: A Hajnalvándor útja (Narnia krónikái 5) (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/C.%20S.%20Lewis/A%20Hajnalvandor%20utja%20%281282%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -59,6 +64,7 @@
 
 
 <hr/>
+
 # <a name="id_1281">C. S. Lewis: Az ezüsttrón (Narnia krónikái 6) (2019)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/C.%20S.%20Lewis/Az%20ezusttron%20%281281%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -71,6 +77,7 @@
 
 
 <hr/>
+
 # <a name="id_1280">C. S. Lewis: A végső ütközet (Narnia krónikái 7) (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/C.%20S.%20Lewis/A%20vegso%20utkozet%20%281280%29/cover.jpg" alt="cover" width="300"/></center>
 

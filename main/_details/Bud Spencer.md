@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1212">Bud Spencer: Különben dühbe jövök (Bud Spencer önéletrajza 1) (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bud%20Spencer/Kulonben%20duhbe%20jovok%20%281212%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_966">Bud Spencer: Eszem, tehát vagyok (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Bud%20Spencer/Eszem%2C%20tehat%20vagyok%20%28966%29/cover.jpg" alt="cover" width="300"/></center>
 

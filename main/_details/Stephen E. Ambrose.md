@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_316">Stephen E. Ambrose: Az elit alakulat (2001)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Stephen%20E.%20Ambrose/Az%20elit%20alakulat%20%28316%29/cover.jpg" alt="cover" width="300"/></center>
 

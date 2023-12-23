@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_319">Kertész, Imre: Sorstalanság – filmforgatókönyv (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Kertesz%2C%20Imre/Sorstalansag%20-%20filmforgatokonyv%20%28319%29/cover.jpg" alt="cover" width="300"/></center>
 

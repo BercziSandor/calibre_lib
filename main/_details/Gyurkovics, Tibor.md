@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1276">Gyurkovics, Tibor: Kudi, a levegőember (1985)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gyurkovics%2C%20Tibor/Kudi%2C%20a%20levegoember%20%281276%29/cover.jpg" alt="cover" width="300"/></center>
 

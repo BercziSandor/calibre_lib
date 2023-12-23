@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_382">Henryk Sienkiewicz: Sivatagon és vadonban (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Henryk%20Sienkiewicz/Sivatagon%20es%20vadonban%20%28382%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -13,6 +14,7 @@
 
 
 <hr/>
+
 # <a name="id_386">Henryk Sienkiewicz: Quo vadis? (2018)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Henryk%20Sienkiewicz/Quo%20vadis_%20%28386%29/cover.jpg" alt="cover" width="300"/></center>
 

@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_50">Gerald Durrell: Családom és egyéb állatfajták (Korfu-trilógia 1) (2015)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerald%20Durrell/Csaladom%20es%20egyeb%20allatfajtak%20%2850%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -13,6 +14,7 @@ Gerald Durrell könyvei az évek során rendszertelen önéletrajzi ciklussá á
 
 
 <hr/>
+
 # <a name="id_867">Gerald Durrell: Madarak, vadak, rokonok (Korfu-trilógia 2) (1974)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerald%20Durrell/Madarak%2C%20vadak%2C%20rokonok%20%28867%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -28,6 +30,7 @@ Durrellék kalandjai folytatódnak! A Családom és egyéb állatfajták című 
 
 
 <hr/>
+
 # <a name="id_868">Gerald Durrell: Istenek kertje (Korfu-trilógia 3) (2012)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerald%20Durrell/Istenek%20kertje%20%28868%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -43,6 +46,7 @@ A Korfu-trilógia záródarabjában a Családom és egyéb állatfajták, illetv
 
 
 <hr/>
+
 # <a name="id_879">Gerald Durrell: A halak jelleme (1978)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerald%20Durrell/A%20halak%20jelleme%20%28879%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -58,6 +62,7 @@ Korfu: ​romantikus születésnapi mulatság, jégszekrényeltérítéssel, meg
 
 
 <hr/>
+
 # <a name="id_864">Gerald Durrell: Vadállatok bolondja (1982)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerald%20Durrell/Vadallatok%20bolondja%20%28864%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -73,6 +78,7 @@ Korfu: ​romantikus születésnapi mulatság, jégszekrényeltérítéssel, meg
 
 
 <hr/>
+
 # <a name="id_866">Gerald Durrell: Vadak a vadonban (1988)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerald%20Durrell/Vadak%20a%20vadonban%20%28866%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -88,6 +94,7 @@ Gerald Durrell ezt a kéziratát a BBC-ben elhangzott egyik rádiós sorozatána
 
 
 <hr/>
+
 # <a name="id_869">Gerald Durrell: Hogyan lőjünk amatőr természetbúvárt? (1990)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerald%20Durrell/Hogyan%20lojunk%20amator%20termeszetbuvar%20%28869%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -102,6 +109,7 @@ Ha Ön borzokat szeretne filmezni egy erdőben, dobálna-e odújuk elé földimo
 
 
 <hr/>
+
 # <a name="id_870">Gerald Durrell: Noé bárkáján (1992)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerald%20Durrell/Noe%20barkajan%20%28870%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -116,6 +124,7 @@ E könyv az első kameruni gyűjtőexpedíció fergeteges története, ellenáll
 
 
 <hr/>
+
 # <a name="id_874">Gerald Durrell: Szamártolvajok (1994)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerald%20Durrell/Szamartolvajok%20%28874%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -138,6 +147,7 @@ A polgármester és a Menelousz Stafili, még mindig lihegve, lerogytak egy szé
 
 
 <hr/>
+
 # <a name="id_872">Gerald Durrell: Férjhez adjuk a mamát (1995)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerald%20Durrell/Ferjhez%20adjuk%20a%20mamat%20%28872%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -152,6 +162,7 @@ A ​Családom és egyéb állatfajták-ból meg a többi korfui emlékből megi
 
 
 <hr/>
+
 # <a name="id_310">Gerald Durrell: Állatkert a kastély körül (1996)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerald%20Durrell/Allatkert%20a%20kastely%20korul%20%28310%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -166,6 +177,7 @@ A szerző nevét igen jól ismeri az egész magyar olvasóközönség, nagy nép
 
 
 <hr/>
+
 # <a name="id_862">Gerald Durrell: A bafuti kopók (2000)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerald%20Durrell/A%20bafuti%20kopok%20%28862%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -183,6 +195,7 @@ A szerző nevét igen jól ismeri az egész magyar olvasóközönség, nagy nép
 
 
 <hr/>
+
 # <a name="id_863">Gerald Durrell: Vadászat felvevőgéppel (2003)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerald%20Durrell/Vadaszat%20felvevogeppel%20%28863%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -197,6 +210,7 @@ A ​közelmúltban elhunyt Gerald – mint barátai, tisztelői és olvasói em
 
 
 <hr/>
+
 # <a name="id_865">Gerald Durrell: A hahagáj (2004)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerald%20Durrell/A%20hahagaj%20%28865%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -211,6 +225,7 @@ Zenkali – az Indiai-óceán egy mesebeli szigete – épp a nemzeti független
 
 
 <hr/>
+
 # <a name="id_49">Gerald Durrell: Állatkert a poggyászomban (2010)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerald%20Durrell/Allatkert%20a%20poggyaszomban%20%2849%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -225,6 +240,7 @@ Gerald Durrell 1933–1939 között Korfu szigetén élt. Ez idő alatt speciál
 
 
 <hr/>
+
 # <a name="id_875">Gerald Durrell: Aranydenevérek, rózsaszín galambok (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerald%20Durrell/Aranydeneverek%2C%20rozsaszin%20galambok%20%28875%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -239,6 +255,7 @@ Gerald Durrell e könyvében két expedícióját írja le az elbűvölő Maurit
 
 
 <hr/>
+
 # <a name="id_878">Gerald Durrell: A részeg erdő (2012)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerald%20Durrell/A%20reszeg%20erdo%20%28878%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -254,6 +271,7 @@ Gerald Durrell e könyvében két expedícióját írja le az elbűvölő Maurit
 
 
 <hr/>
+
 # <a name="id_871">Gerald Durrell: A susogó táj (2013)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerald%20Durrell/A%20susogo%20taj%20%28871%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -268,6 +286,7 @@ Gerald Durrell e könyvében két expedícióját írja le az elbűvölő Maurit
 
 
 <hr/>
+
 # <a name="id_873">Gerald Durrell: Életem értelme (2014)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Gerald%20Durrell/Eletem%20ertelme%20%28873%29/cover.jpg" alt="cover" width="300"/></center>
 

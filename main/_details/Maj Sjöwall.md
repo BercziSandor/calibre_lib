@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_686">Maj Sjöwall: Roseanna </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Maj%20Sjowall/Roseanna%20%28686%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -13,6 +14,7 @@
 
 
 <hr/>
+
 # <a name="id_675">Maj Sjöwall: A svéd, akinek nyoma veszett (1975)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Maj%20Sjowall/A%20sved%2C%20akinek%20nyoma%20veszett%20%28675%29/cover.jpg" alt="cover" width="300"/></center>
 

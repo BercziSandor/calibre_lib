@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1277">Robert Fulghum: Már lángolt, amikor ráfeküdtem (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Fulghum/Mar%20langolt%2C%20amikor%20rafekudtem%20%281277%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -11,6 +12,7 @@
 
 
 <hr/>
+
 # <a name="id_1302">Robert Fulghum: Már az óvodában megtanultam mindent, amit tudni érdemes (2012)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Robert%20Fulghum/Mar%20az%20ovodaban%20megtanultam%20mindent%20%281302%29/cover.jpg" alt="cover" width="300"/></center>
 

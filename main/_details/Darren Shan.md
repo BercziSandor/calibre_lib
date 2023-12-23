@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_277">Darren Shan: A holtak vonulása (Város-trilógia 1) (2010)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Darren%20Shan/A%20holtak%20vonulasa%20%28277%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_278">Darren Shan: A pokol pereme (Város-trilógia 2) (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Darren%20Shan/A%20Pokol%20Pereme%20%28278%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -30,6 +32,7 @@
 
 
 <hr/>
+
 # <a name="id_279">Darren Shan: A kígyók városa (Város-trilógia 3) (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Darren%20Shan/A%20Kigyok%20Varosa%20%28279%29/cover.jpg" alt="cover" width="300"/></center>
 

@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1207">Jorge Luis Borges: Körkörös romok (1972)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Jorge%20Luis%20Borges/Korkoros%20romok%20%281207%29/cover.jpg" alt="cover" width="300"/></center>
 

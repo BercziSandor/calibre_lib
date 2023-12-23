@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1021">Esterházy, Péter: Hrabal könyve (2001)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Esterhazy%2C%20Peter/Hrabal%20konyve%20%281021%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_1022">Esterházy, Péter: Termelési-regény (2004)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Esterhazy%2C%20Peter/Termelesi-regeny%20%281022%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -30,6 +32,7 @@
 
 
 <hr/>
+
 # <a name="id_1512">Esterházy, Péter: Termelési-regény: kisssregény : regény (2004)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Esterhazy%2C%20Peter/Termelesi-regeny_%20kisssregeny%20_%20reg%20%281512%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -37,6 +40,7 @@
 [rtf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Esterhazy%2C%20Peter/Termelesi-regeny_%20kisssregeny%20_%20reg%20%281512%29/Termelesi-regeny_%20kisssregeny%20_%20-%20Esterhazy%2C%20Peter.rtf)
 
 <hr/>
+
 # <a name="id_1020">Esterházy, Péter: A szív segédigéi (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Esterhazy%2C%20Peter/A%20sziv%20segedigei%20%281020%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -52,6 +56,7 @@
 
 
 <hr/>
+
 # <a name="id_1023">Esterházy, Péter: Ki szavatol a lady biztonságáért? (2016)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Esterhazy%2C%20Peter/Ki%20szavatol%20a%20lady%20biztonsagaert_%20%281023%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -68,6 +73,7 @@
 
 
 <hr/>
+
 # <a name="id_1019">Esterházy, Péter: Egy nő (2018)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Esterhazy%2C%20Peter/Egy%20no%20%281019%29/cover.jpg" alt="cover" width="300"/></center>
 

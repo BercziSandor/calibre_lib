@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_883">G. M.: Tesco titok (Tesco titok 1) </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/G.%20M_/Tesco%20titok%20%28883%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -10,6 +11,7 @@
 
 
 <hr/>
+
 # <a name="id_884">G. M.: Tesco titok 2. (Tesco titok 2) </a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/G.%20M_/Tesco%20titok%202_%20%28884%29/cover.jpg" alt="cover" width="300"/></center>
 

@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_679">Mika Waltari: Cselszövők (Palmu felügyelő 1) (1990)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Mika%20Waltari/Cselszovok%20%28679%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -14,6 +15,7 @@
 
 
 <hr/>
+
 # <a name="id_685">Mika Waltari: Palmu felügyelő tévedése (Palmu felügyelő 2) (1969)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Mika%20Waltari/Palmu%20felugyelo%20tevedese%20%28685%29/cover.jpg" alt="cover" width="300"/></center>
 

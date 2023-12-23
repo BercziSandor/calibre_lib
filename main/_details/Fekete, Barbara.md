@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_8">Fekete, Barbara: A Hiszti – Szülők Kézikönyve (2008)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Fekete%2C%20Barbara/A%20Hiszti%20-%20Szulok%20Kezikonyve%20%288%29/cover.jpg" alt="cover" width="300"/></center>
 

@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_204">Wass, Albert: Halálos köd Holtember Partján (2002)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Halalos%20kod%20Holtember%20Partjan%20%28204%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -13,6 +14,7 @@ Bűnügyi történet, korrajz a bevándorlók Amerikájáról és egyszerre tör
 
 
 <hr/>
+
 # <a name="id_201">Wass, Albert: Rézkígyó / Hagyaték (2002)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Rezkigyo%20_%20Hagyatek%20%28201%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -27,6 +29,7 @@ A Rézkígyó Mózes könyveinek hol tragikus, hol mitikus újragondolása – a
 
 
 <hr/>
+
 # <a name="id_210">Wass, Albert: A költő és a macska / Te és a világ (2003)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/A%20kolto%20es%20a%20macska%20_%20Te%20es%20a%20vilag%20%28210%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -41,6 +44,7 @@ A két egymást kiegészítő íráscsokor az emberi jóság és emberhez mélt�
 
 
 <hr/>
+
 # <a name="id_202">Wass, Albert: A titokzatos őzbak (2003)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/A%20titokzatos%20ozbak%20%28202%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -55,6 +59,7 @@ A két egymást kiegészítő íráscsokor az emberi jóság és emberhez mélt�
 
 
 <hr/>
+
 # <a name="id_221">Wass, Albert: Ember az országút szélén (2003)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Ember%20az%20orszagut%20szelen%20%28221%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -70,6 +75,7 @@ A két egymást kiegészítő íráscsokor az emberi jóság és emberhez mélt�
 
 
 <hr/>
+
 # <a name="id_203">Wass, Albert: Magukrahagyottak (2003)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Magukrahagyottak%20%28203%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -84,6 +90,7 @@ A könyv beszédes címe jelzi, hogy szól a Kárpátok hágóin a hazájukat az
 
 
 <hr/>
+
 # <a name="id_207">Wass, Albert: A funtineli boszorkány III. (2010)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/A%20funtineli%20boszorkany%20III_%20%28207%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -98,6 +105,7 @@ A könyv beszédes címe jelzi, hogy szól a Kárpátok hágóin a hazájukat az
 
 
 <hr/>
+
 # <a name="id_209">Wass, Albert: A funtineli boszorkány II. (2010)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/A%20funtineli%20boszorkany%20II_%20%28209%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -112,6 +120,7 @@ A könyv beszédes címe jelzi, hogy szól a Kárpátok hágóin a hazájukat az
 
 
 <hr/>
+
 # <a name="id_208">Wass, Albert: A funtineli boszorkány I. (2010)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/A%20funtineli%20boszorkany%20I_%20%28208%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -126,6 +135,7 @@ A könyv beszédes címe jelzi, hogy szól a Kárpátok hágóin a hazájukat az
 
 
 <hr/>
+
 # <a name="id_212">Wass, Albert: Kard és kasza I-II (2010)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Kard%20es%20kasza%20I-II%20%28212%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -140,6 +150,7 @@ A könyv beszédes címe jelzi, hogy szól a Kárpátok hágóin a hazájukat az
 
 
 <hr/>
+
 # <a name="id_219">Wass, Albert: A kastély árnyékában (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/A%20kastely%20arnyekaban%20%28219%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -154,6 +165,7 @@ Wass Albert a Mire a fák megnőnek történetét folytatja. Egyetlen család k�
 
 
 <hr/>
+
 # <a name="id_205">Wass, Albert: Átoksori kísértetek (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Atoksori%20kisertetek%20%28205%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -171,6 +183,7 @@ Fájdalmak, kiábrándultság, helytállás, a remény fel nem adása jellemzi W
 
 
 <hr/>
+
 # <a name="id_215">Wass, Albert: Az Antikrisztus és a pásztorok (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Az%20Antikrisztus%20es%20a%20pasztorok%20%28215%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -185,6 +198,7 @@ Fájdalmak, kiábrándultság, helytállás, a remény fel nem adása jellemzi W
 
 
 <hr/>
+
 # <a name="id_211">Wass, Albert: Elvásik a veres csillag (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Elvasik%20a%20veres%20csillag%20%28211%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -201,6 +215,7 @@ Aztán a regény második részében már kevesebbet kacagunk, mert az ott bemut
 
 
 <hr/>
+
 # <a name="id_217">Wass, Albert: Elvész a nyom (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Elvesz%20a%20nyom%20%28217%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -215,6 +230,7 @@ Ahány ember – annyi sors. Ezerszeresen igaz e mondás a II. Világháborút �
 
 
 <hr/>
+
 # <a name="id_214">Wass, Albert: Farkasverem (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Farkasverem%20%28214%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -229,6 +245,7 @@ Ahány ember – annyi sors. Ezerszeresen igaz e mondás a II. Világháborút �
 
 
 <hr/>
+
 # <a name="id_220">Wass, Albert: Jönnek! / Adjátok vissza a hegyeimet! (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Jonnek%21%20_%20Adjatok%20vissza%20a%20hegyeime%20%28220%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -243,6 +260,7 @@ A két regény témája: Erdély visszacsatolása Magyarországhoz /1940/ és Er
 
 
 <hr/>
+
 # <a name="id_213">Wass, Albert: Mire a fák megnőnek (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Mire%20a%20fak%20megnonek%20%28213%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -257,6 +275,7 @@ A Habsburg elnyomás XIX. századi világában Wass Albert nem titkolt erdélyi 
 
 
 <hr/>
+
 # <a name="id_216">Wass, Albert: Tizenhárom almafa (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Tizenharom%20almafa%20%28216%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -271,6 +290,7 @@ Az 1953-ban írt Tizenhárom almafa a klasszikus történelmi regény hagyomány
 
 
 <hr/>
+
 # <a name="id_218">Wass, Albert: Csaba (2012)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Wass%2C%20Albert/Csaba%20%28218%29/cover.jpg" alt="cover" width="300"/></center>
 

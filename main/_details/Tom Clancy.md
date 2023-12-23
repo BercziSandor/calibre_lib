@@ -1,4 +1,5 @@
 <hr/>
+
 # <a name="id_1030">Tom Clancy: Vadászat a Vörös Októberre (Jack Ryan-univerzum 4) (2019)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Tom%20Clancy/Vadaszat%20a%20voros%20oktoberre%20%281030%29/cover.jpg" alt="cover" width="300"/></center>
 
