@@ -13,6 +13,14 @@
   "check_library_ignore_names": "",
   "gui_view_history": [
     [
+      1824,
+      "Az \u00e9let m\u00e1shol van"
+    ],
+    [
+      1829,
+      "Lass\u00fas\u00e1g"
+    ],
+    [
       1819,
       "Mennybe d\u00f6ng\u00f6lve: egy agykutat\u00f3 boldog\u00edt\u00f3 agyv\u00e9rz\u00e9se"
     ],
@@ -63,14 +71,6 @@
     [
       1792,
       "\u00cdgy \u00e9lt\u00fcnk Mezopot\u00e1mi\u00e1ban"
-    ],
-    [
-      1762,
-      "A Greenshore-gloriett"
-    ],
-    [
-      236,
-      "A titkos ellenf\u00e9l"
     ]
   ],
   "plugboards": {},
@@ -970,7 +970,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1702285672.705166,
+  "last_expired_trash_at": 1703308798.2121015,
   "virtual_libraries": {
     "kutya": "tags:\"=kutya\""
   }
