@@ -1,5 +1,7 @@
 <hr/>
+
 # <a name="id_1820">Milan Kundera: Tréfa (1966)</a>
+
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Trefa%20%281820%29/cover.jpg" alt="cover" width="300"/></center>
 
 ## Letöltés
@@ -16,6 +18,7 @@
 
 
 <hr/>
+
 # <a name="id_1824">Milan Kundera: Az élet máshol van (1972)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Az%20elet%20mashol%20van%20%281824%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -46,6 +49,7 @@
 
 <hr/>
 # <a name="id_1825">Milan Kundera: Azonosság (1997)</a>
+
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Azonossag%20%281825%29/cover.jpg" alt="cover" width="300"/></center>
 
 ## Letöltés
@@ -61,7 +65,7 @@
 
 
 <hr/>
-# <a name="id_1821">Milan Kundera: Búcsúkeringő (2005)</a>
+# Milan Kundera: Búcsúkeringő (2005)<a name="id_1821"></a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Bucsukeringo%20%281821%29/cover.jpg" alt="cover" width="300"/></center>
 
 ## Összefoglalás
