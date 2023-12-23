@@ -11,6 +11,7 @@
 - Fejős, Éva: Éjszaka Bangkokban [részletek](../_details/Fej%C5%91s%2C%20%C3%89va.md#id_773)
 - Leiner, Laura: Közhelyek [részletek](../_details/Leiner%2C%20Laura.md#id_1481)
 - Leiner, Laura: Remek! [részletek](../_details/Leiner%2C%20Laura.md#id_1502)
+- Milan Kundera: Azonosság [részletek](../_details/Milan%20Kundera.md#id_1825)
 - Sarah J. Maas: Fagy és csillagfény udvara [részletek](../_details/Sarah%20J.%20Maas.md#id_1696)
 - Sarah J. Maas: Szárnyak és pusztulás udvara [részletek](../_details/Sarah%20J.%20Maas.md#id_1700)
 - Sarah J. Maas: Tüskék és rózsák udvara [részletek](../_details/Sarah%20J.%20Maas.md#id_1698)

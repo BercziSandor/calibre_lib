@@ -13,3 +13,8 @@
 - Bohumil Hrabal: Táncórák idősebbeknek és haladóknak [részletek](../_details/Bohumil%20Hrabal.md#id_450)
 - Bohumil Hrabal: Tükrök árulása [részletek](../_details/Bohumil%20Hrabal.md#id_451)
 - Bohumil Hrabal: Véres történetek és legendák [részletek](../_details/Bohumil%20Hrabal.md#id_452)
+- Milan Kundera: A ​függöny [részletek](../_details/Milan%20Kundera.md#id_1822)
+- Milan Kundera: Jakab ​és az ura [részletek](../_details/Milan%20Kundera.md#id_1826)
+- Milan Kundera: Lassúság [részletek](../_details/Milan%20Kundera.md#id_1829)
+- Milan Kundera: Nemtudás [részletek](../_details/Milan%20Kundera.md#id_1828)
+- Milan Kundera: Nevetséges ​szerelmek [részletek](../_details/Milan%20Kundera.md#id_1830)

@@ -44,6 +44,7 @@
 - Jonas Jonasson: A százéves ember, aki kimászott az ablakon és eltűnt [részletek](../_details/Jonas%20Jonasson.md#id_383)
 - Márai, Sándor: Füves könyv [részletek](../_details/M%C3%A1rai%2C%20S%C3%A1ndor.md#id_1419)
 - Mihail Bulgakov: A Mester és Margarita [részletek](../_details/Mihail%20Bulgakov.md#id_275)
+- Milan Kundera: Lassúság [részletek](../_details/Milan%20Kundera.md#id_1829)
 - Moldova, György: Ferencvárosi koktél [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1379)
 - Nick Hornby: Egy fiúról [részletek](../_details/Nick%20Hornby.md#id_707)
 - Nick Hornby: Hosszú út lefelé [részletek](../_details/Nick%20Hornby.md#id_705)

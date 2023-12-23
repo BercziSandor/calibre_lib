@@ -10,6 +10,7 @@
 - Hamvas Béla: Scientia sacra [részletek](../_details/Hamvas%20B%C3%A9la.md#id_777)
 - Hermann Hesse: Demian [részletek](../_details/Hermann%20Hesse.md#id_399)
 - Márai, Sándor: Füves könyv [részletek](../_details/M%C3%A1rai%2C%20S%C3%A1ndor.md#id_1419)
+- Milan Kundera: Lassúság [részletek](../_details/Milan%20Kundera.md#id_1829)
 - Noam Chomsky: Hatalom és terror [részletek](../_details/Noam%20Chomsky.md#id_343)
 - Paulo Coelho: Az ördög és Prym kisasszony [részletek](../_details/Paulo%20Coelho.md#id_262)
 - Stephen Hawking: Az idő rövid története [részletek](../_details/Stephen%20Hawking.md#id_1166)

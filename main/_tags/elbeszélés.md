@@ -48,6 +48,7 @@
 - Ljudmila Ulickaja: A lélek testéről [részletek](../_details/Ljudmila%20Ulickaja.md#id_1292)
 - Ljudmila Ulickaja: Elsők és utolsók [részletek](../_details/Ljudmila%20Ulickaja.md#id_1287)
 - Meg Cabot: A neveletlen hercegnő naplója 1. [részletek](../_details/Meg%20Cabot.md#id_432)
+- Milan Kundera: Nevetséges ​szerelmek [részletek](../_details/Milan%20Kundera.md#id_1830)
 - Moldova, György: A beszélő disznó [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1382)
 - Moldova, György: Kádár János [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1407)
 - Moldova, György: Kádár János [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_370)
