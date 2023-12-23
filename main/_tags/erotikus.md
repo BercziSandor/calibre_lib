@@ -10,6 +10,7 @@
 - Ljudmila Ulickaja: Odaadó hívetek, Surik [részletek](../_details/Ljudmila%20Ulickaja.md#id_1291)
 - Mátéffy, Éva: Ruby [részletek](../_details/M%C3%A1t%C3%A9ffy%2C%20%C3%89va.md#id_606)
 - Maya Banks: Vénuszdombi mesék [részletek](../_details/Maya%20Banks.md#id_285)
+- Milan Kundera: A ​nevetés és felejtés könyve [részletek](../_details/Milan%20Kundera.md#id_1832)
 - Milan Kundera: Nevetséges ​szerelmek [részletek](../_details/Milan%20Kundera.md#id_1830)
 - Paulo Coelho: Tizenegy perc [részletek](../_details/Paulo%20Coelho.md#id_263)
 - Szepesi, Nikolett: Én, a szexmániás [részletek](../_details/Szepesi%2C%20Nikolett.md#id_661)

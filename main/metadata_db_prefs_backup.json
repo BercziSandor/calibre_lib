@@ -13,6 +13,10 @@
   "check_library_ignore_names": "",
   "gui_view_history": [
     [
+      1835,
+      "Razorland tril\u00f3gia"
+    ],
+    [
       1824,
       "Az \u00e9let m\u00e1shol van"
     ],
@@ -67,10 +71,6 @@
     [
       1799,
       "Mr. Quin"
-    ],
-    [
-      1792,
-      "\u00cdgy \u00e9lt\u00fcnk Mezopot\u00e1mi\u00e1ban"
     ]
   ],
   "plugboards": {},
@@ -87,6 +87,14 @@
     "id_injected": true,
     "path_injected": true,
     "sort_history": [
+      [
+        "title",
+        true
+      ],
+      [
+        "timestamp",
+        false
+      ],
       [
         "authors",
         true
@@ -974,7 +982,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1703313185.9295363,
+  "last_expired_trash_at": 1703332194.5807023,
   "virtual_libraries": {
     "kutya": "tags:\"=kutya\""
   }

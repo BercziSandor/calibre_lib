@@ -2,6 +2,7 @@
 
 - Hyeonseo Lee: A lány hét névvel [részletek](../_details/Hyeonseo%20Lee.md#id_988)
 - Jevgenyij Zamjatyin: Mi [részletek](../_details/Jevgenyij%20Zamjatyin.md#id_607)
+- Milan Kundera: A ​nevetés és felejtés könyve [részletek](../_details/Milan%20Kundera.md#id_1832)
 - Moldova, György: Kádár János [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1407)
 - Moldova, György: Kádár János [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_370)
 - Moldova, György: Sötét angyal [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1378)

@@ -1,10 +1,15 @@
 <hr/>
 
-# <a name="id_1518">Ann Aguirre: Menedék (Razorland-trilógia 1) (2014)</a>
-<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ann%20Aguirre/Menedek%20%281518%29/cover.jpg" alt="cover" width="300"/></center>
+# <a name="id_1835">Ann Aguirre: Razorland trilógia (Razorland 1) </a>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ann%20Aguirre/Razorland%20trilogia%20%281835%29/cover.jpg" alt="cover" width="300"/></center>
 
 ## Letöltés
-[pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ann%20Aguirre/Menedek%20%281518%29/Menedek%20-%20Ann%20Aguirre.pdf)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ann%20Aguirre/Razorland%20trilogia%20%281835%29/Razorland%20trilogia%20-%20Ann%20Aguirre.epub)
+
+<hr/>
+
+# <a name="id_1518">Ann Aguirre: Menedék (Razorland-trilógia 1) (2014)</a>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Ann%20Aguirre/Menedek%20%281518%29/cover.jpg" alt="cover" width="300"/></center>
 
 ## Tagek
 [science fiction](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/science%20fiction.md)

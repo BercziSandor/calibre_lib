@@ -8,19 +8,19 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1997-10-28T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
-&lt;p&gt;"ki álmodott? Ki álmodta ezt a történetet? Ki képzelte el? Melyikük? Mind a ketten? Egyik a másikának? És melyik pillanatban változott át valóságos életük álnok fantáziává? Mikor a vonat lement a La Manche csatorna alá? Vagy korábban? Aznap reggel, mikor Chantal bejelentette Jean-Marcnak, hogy Londonba utazik? Vagy még korábban? Mikor a grafológus irodájában belebotlott a normandiai városka kávéházának pincérébe? Vagy még annál is korábban? Mikor Jean-Marc az első levelet küldte neki? De küldte-e igazából ezeket a leveleket? Vagy csak képzeletben írta meg? Pontosan melyik az a pillanat, mikor a realitás irrealitásba, a valóság álmodozásba fordul? Hol a határ? Hol a határ?�" &lt;/p&gt;
+&lt;p&gt;"ki álmodott? Ki álmodta ezt a történetet? Ki képzelte el? Melyikük? Mind a ketten? Egyik a másikának? És melyik pillanatban változott át valóságos életük álnok fantáziává? Mikor a vonat lement a La Manche csatorna alá? Vagy korábban? Aznap reggel, mikor Chantal bejelentette Jean-Marcnak, hogy Londonba utazik? Vagy még korábban? Mikor a grafológus irodájában belebotlott a normandiai városka kávéházának pincérébe? Vagy még annál is korábban? Mikor Jean-Marc az első levelet küldte neki? De küldte-e igazából ezeket a leveleket? Vagy csak képzeletben írta meg? Pontosan melyik az a pillanat, mikor a realitás irrealitásba, a valóság álmodozásba fordul? Hol a határ? Hol a határ?" &lt;/p&gt;
 &lt;p&gt;A XXI. század küszöbén a párizsi illetőségű, konszolidált pár életének intim momentumait sem hagyják érintetlenül a nagy sorskérdések, életükbe beszüremkedik az apokaliptikus előérzet, a szorongás, a kiábrándultság. Vajon mi riasztóbb, hogy az ember javíthatatlan, vagy hogy ki tud bújni a bőréből, a továbbélés zálogaképpen?&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Európa</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9789630795579</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">17379342</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">XhYbjwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">17379342</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789630795579</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>Philosophy</dc:subject>
         <dc:subject>Contemporary</dc:subject>
         <dc:subject>Classics</dc:subject>
         <dc:subject>Romance</dc:subject>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-12-23T05:21:52.203775+00:00"/>
+        <meta name="calibre:timestamp" content="2023-12-23T05:21:52+00:00"/>
         <meta name="calibre:title_sort" content="Azonosság"/>
         <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>

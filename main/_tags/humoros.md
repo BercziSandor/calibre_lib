@@ -78,6 +78,7 @@
 - Leiner, Laura: Maradj velem [részletek](../_details/Leiner%2C%20Laura.md#id_1477)
 - Léo Taxil: A szórakoztató Biblia [részletek](../_details/L%C3%A9o%20Taxil.md#id_950)
 - Mark Twain: Megszelídítem a kerékpárt [részletek](../_details/Mark%20Twain.md#id_936)
+- Milan Kundera: Elárult testamentumok [részletek](../_details/Milan%20Kundera.md#id_1833)
 - Moldova, György: A beszélő disznó [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1382)
 - Moldova, György: A népet le kell váltani [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1395)
 - Moldova, György: Előttünk az özönvíz [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1396)

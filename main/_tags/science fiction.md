@@ -6,7 +6,6 @@
 - Adams, Douglas: Jobbára ártalmatlan [részletek](../_details/Adams%2C%20Douglas.md#id_198)
 - Adams, Douglas: Vendéglő a Világ Végén [részletek](../_details/Adams%2C%20Douglas.md#id_199)
 - Adams, Douglas: Viszlát, és kösz a halakat! [részletek](../_details/Adams%2C%20Douglas.md#id_200)
-- Ann Aguirre: Menedék [részletek](../_details/Ann%20Aguirre.md#id_1518)
 - Asimov, Isaac: A Hajnal bolygó robotjai [részletek](../_details/Asimov%2C%20Isaac.md#id_1167)
 - Asimov, Isaac: A mezítelen nap [részletek](../_details/Asimov%2C%20Isaac.md#id_1174)
 - Asimov, Isaac: Acélbarlangok [részletek](../_details/Asimov%2C%20Isaac.md#id_1187)

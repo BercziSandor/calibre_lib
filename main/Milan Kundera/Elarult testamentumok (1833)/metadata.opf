@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1833</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">909f31dc-dd5e-49ad-8ff3-30cc17033026</dc:identifier>
+        <dc:title>Elárult testamentumok</dc:title>
+        <dc:creator opf:file-as="Kundera, Milan" opf:role="aut">Milan Kundera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-03T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;A ​világhírű, hajdanán cseh, ma már francia író műve valóságos stílusbravúr. Kundera irodalmi esszét ír – regényformában. Az egyes tanulmányokat, a virtuális regény kilenc fejezetét a bennük újra és újra felbukkanó, egymás útját keresztező hősök kötik össze. Sztravinszkij és Kafka, különös barátaik társaságában, Ansermet és Brod, Hemingway és életrajzírója, Janáček és cseh honfitársai, Rabelais és szellemi örökösei. A letűnt századok és a modern kor nagy regényírói és muzsikusai. &lt;br&gt;Ám a kötet legfőbb, valódi hőse maga a regény művészete: a gargantuai szellem, a humor, amelyből született, rejtélyes rokonsága a zenével, három idősíkon zajló története, a harmadik s eddig utolsó kor (a modern regény) esztétikája, egzisztencialista bölcsessége. &lt;br&gt;E „bölcsesség” fényében veszi szemügyre, elemzi Kundera korunk és kultúránk nagy helyzeteit és konfliktusait a század művészete, Céline és Majakovszkij művészete ellen indított morális pereket, a múló, eltűnő-eltűnt időt, amely bizonytalanná teszi az „én”, a ma és a tegnap énjének önazonosságát, az emlékezést, mint a felejtés egy formáját, a szemérmet, mint az egyénre épülő korszak alapfogalmát, a napjainkban szokássá és szabállyá váló indiszkréciót, amely az individualizmus alkonyát vetíti előre, a halál akarásának misztikus erejét, a ránk hagyott és megtagadott szellemi testamentumokat, Európa, a művészet és a művészek elárult testamentumait.&lt;/p&gt;</dc:description>
+        <dc:publisher>Európa</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789634058120</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">1ed958bd-30bd-4a1e-9c43-58f6c1b9cd66</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>cseh szerző</dc:subject>
+        <dc:subject>egzisztencializmus</dc:subject>
+        <dc:subject>francia szerző</dc:subject>
+        <dc:subject>humoros</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <meta name="calibre:timestamp" content="2023-12-23T11:52:54.842719+00:00"/>
+        <meta name="calibre:title_sort" content="Elárult testamentumok"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;AZW3&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

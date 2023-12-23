@@ -1,10 +1,26 @@
 <hr/>
 
+# <a name="id_1831">Milan Kundera: A ​jelentéktelenség ünnepe </a>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20%20jelentektelenseg%20unnepe%20%281831%29/cover.jpg" alt="cover" width="300"/></center>
+
+## Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20%20jelentektelenseg%20unnepe%20%281831%29/A%20%20jelentektelenseg%20unnepe%20-%20Milan%20Kundera.epub)
+
+## Tagek
+[cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szat%c3%adra.md)
+
+## Összefoglalás
+<div><p class="description">Szép nyári délelőtt Párizsban. Alain jár-kel, és a nők köldökét bámulja. Ilyen most a divat: csípőnadrág, haspóló. Tetszik ez Alainnek, de zavarja is. Mi lesz ebből? Hová vezet az, ha egy kultúrában már nem a női comb vagy mell, hanem a nők köldöke kerül a vágy centrumába?</p>
+<p class="description">Így kezdődik az immár három évtizede Franciaországban élő világhírű író, Milan Kundera vadonatúj regénye. Ez a nagyon is komolyan veendő komédia mintegy összefoglalja és megkoronázza a kunderai életművet. Alainék életének megtévesztő jelentéktelensége, a mindennapjaikat átható pitiáner hazugságok és ócska tréfák, mélységesen személyes, mégis egyetemes problémáik igencsak kunderásan szürreális, játékosan élvezetes sztálinizmus-szatírával párosulva jelenítődnek meg. És nincs mit csodálni, ha egyszer csak Sztálin hahotája visszhangzik már a Luxembourg-kertben.</p></div>
+
+
+<hr/>
+
 # <a name="id_1820">Milan Kundera: Tréfa (1966)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Trefa%20%281820%29/cover.jpg" alt="cover" width="300"/></center>
 
 ## Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Trefa%20%281820%29/Trefa%20-%20Milan%20Kundera.azw3)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Trefa%20%281820%29/Trefa%20-%20Milan%20Kundera.epub)
 
 ## Tagek
 [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [philosophy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/philosophy.md), [contemporary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/contemporary.md), [historical](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/historical.md)
@@ -20,6 +36,9 @@
 
 # <a name="id_1824">Milan Kundera: Az élet máshol van (1972)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Az%20elet%20mashol%20van%20%281824%29/cover.jpg" alt="cover" width="300"/></center>
+
+## Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Az%20elet%20mashol%20van%20%281824%29/Az%20elet%20mashol%20van%20-%20Milan%20Kundera.epub)
 
 ## Tagek
 [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [philosophy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/philosophy.md), [contemporary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/contemporary.md)
@@ -37,7 +56,7 @@
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Halhatatlansag%20%281827%29/cover.jpg" alt="cover" width="300"/></center>
 
 ## Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Halhatatlansag%20%281827%29/Halhatatlansag%20-%20Milan%20Kundera.azw3)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Halhatatlansag%20%281827%29/Halhatatlansag%20-%20Milan%20Kundera.epub)
 
 ## Tagek
 [philosophy](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/philosophy.md), [classics](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/classics.md), [contemporary](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/contemporary.md)
@@ -60,7 +79,7 @@
 
 ## Összefoglalás
 <div>
-<p>"ki álmodott? Ki álmodta ezt a történetet? Ki képzelte el? Melyikük? Mind a ketten? Egyik a másikának? És melyik pillanatban változott át valóságos életük álnok fantáziává? Mikor a vonat lement a La Manche csatorna alá? Vagy korábban? Aznap reggel, mikor Chantal bejelentette Jean-Marcnak, hogy Londonba utazik? Vagy még korábban? Mikor a grafológus irodájában belebotlott a normandiai városka kávéházának pincérébe? Vagy még annál is korábban? Mikor Jean-Marc az első levelet küldte neki? De küldte-e igazából ezeket a leveleket? Vagy csak képzeletben írta meg? Pontosan melyik az a pillanat, mikor a realitás irrealitásba, a valóság álmodozásba fordul? Hol a határ? Hol a határ?�" </p>
+<p>"ki álmodott? Ki álmodta ezt a történetet? Ki képzelte el? Melyikük? Mind a ketten? Egyik a másikának? És melyik pillanatban változott át valóságos életük álnok fantáziává? Mikor a vonat lement a La Manche csatorna alá? Vagy korábban? Aznap reggel, mikor Chantal bejelentette Jean-Marcnak, hogy Londonba utazik? Vagy még korábban? Mikor a grafológus irodájában belebotlott a normandiai városka kávéházának pincérébe? Vagy még annál is korábban? Mikor Jean-Marc az első levelet küldte neki? De küldte-e igazából ezeket a leveleket? Vagy csak képzeletben írta meg? Pontosan melyik az a pillanat, mikor a realitás irrealitásba, a valóság álmodozásba fordul? Hol a határ? Hol a határ?" </p>
 <p>A XXI. század küszöbén a párizsi illetőségű, konszolidált pár életének intim momentumait sem hagyják érintetlenül a nagy sorskérdések, életükbe beszüremkedik az apokaliptikus előérzet, a szorongás, a kiábrándultság. Vajon mi riasztóbb, hogy az ember javíthatatlan, vagy hogy ki tud bújni a bőréből, a továbbélés zálogaképpen?</p></div>
 
 
@@ -69,9 +88,27 @@
 # <a name="id_1821">Milan Kundera: Búcsúkeringő (2005)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Bucsukeringo%20%281821%29/cover.jpg" alt="cover" width="300"/></center>
 
+## Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Bucsukeringo%20%281821%29/Bucsukeringo%20-%20Milan%20Kundera.epub)
+
 ## Összefoglalás
 <div>
 <p>A ​neves cseh író regényében öt fejezetbe sűríti egy meg nem nevezett – de nyilvánvalóan cseh – fürdővároskában összeverődött néhány ember életútjának metszéspontjait. Az öt fejezet – öt nap. Ezalatt szerelmek lángolnak fel és lobbannak ki, tragédiába torkollik a végzetet kihívó játszadozás a sorssal. Az action gratuite-re, a századelő francia regényhullámának indíték nélküli gyilkosságára emlékeztet az a mód, ahogy Jakub – a regény egyik főhőse – mérget csempész egy ismeretlen nő gyógyszeres fiolájába, majd „működni” hagyja a sorsot. Egyébként a regény nyolctagú, véletlenül összekerült társaságának mindegyike meghatározott típust képvisel. A kissé elnagyoltan, néhány vonással megrajzolt szereplők között van gazdag amerikai; helybéli szoknyabolond és nagy orrú nőgyógyász; az esztelen, oktalan és leküzdhetetlen féltékenységet megtestesítő szépasszony és fiatalember; a csinos, de üresfejű és nagyravágyó ápolónő; a kevésbé csinos, de nevelőapját mégis elcsábítani képes fiatal lány, és végül a nőktől üldözött, országszerte ünnepelt zenész. A regény mozgalmas és gyorsuló cselekménysora mögött politikai tartalmú szimbólumok bukkannak fel: husángokkal felszerelt, karszalagos aggastyánok hada üldözi a kóbor kutyákat, Jakub, pedig, aki irtózattal nézi barbár működésüket, megment egy kutyát: hajdani politikai fogoly létére szolidáris az üldözött lényekkel. Egyébként búcsúzik barátaitól, ismerőseitől, a várostól, sőt magától az országtól is, amelyet – miként a szerző is, nem sokkal regénye megírása után – örökre elhagyni készül, nehéz szívvel, hiszen „egyetlen hazájából megy el és nincs másik”. <br>Kundera műveinek sorában e regény az olvasmányosabb munkák közé sorolható, de keserű tapasztalatokat hordoz.</p></div>
+
+
+<hr/>
+
+# <a name="id_1833">Milan Kundera: Elárult testamentumok (2006)</a>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Elarult%20testamentumok%20%281833%29/cover.jpg" alt="cover" width="300"/></center>
+
+## Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Elarult%20testamentumok%20%281833%29/Elarult%20testamentumok%20-%20Milan%20Kundera.epub)
+
+## Tagek
+[20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [egzisztencializmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/egzisztencializmus.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [humoros](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/humoros.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
+
+## Összefoglalás
+<p class="description">A ​világhírű, hajdanán cseh, ma már francia író műve valóságos stílusbravúr. Kundera irodalmi esszét ír – regényformában. Az egyes tanulmányokat, a virtuális regény kilenc fejezetét a bennük újra és újra felbukkanó, egymás útját keresztező hősök kötik össze. Sztravinszkij és Kafka, különös barátaik társaságában, Ansermet és Brod, Hemingway és életrajzírója, Janáček és cseh honfitársai, Rabelais és szellemi örökösei. A letűnt századok és a modern kor nagy regényírói és muzsikusai. <br>Ám a kötet legfőbb, valódi hőse maga a regény művészete: a gargantuai szellem, a humor, amelyből született, rejtélyes rokonsága a zenével, három idősíkon zajló története, a harmadik s eddig utolsó kor (a modern regény) esztétikája, egzisztencialista bölcsessége. <br>E „bölcsesség” fényében veszi szemügyre, elemzi Kundera korunk és kultúránk nagy helyzeteit és konfliktusait a század művészete, Céline és Majakovszkij művészete ellen indított morális pereket, a múló, eltűnő-eltűnt időt, amely bizonytalanná teszi az „én”, a ma és a tegnap énjének önazonosságát, az emlékezést, mint a felejtés egy formáját, a szemérmet, mint az egyénre épülő korszak alapfogalmát, a napjainkban szokássá és szabállyá váló indiszkréciót, amely az individualizmus alkonyát vetíti előre, a halál akarásának misztikus erejét, a ránk hagyott és megtagadott szellemi testamentumokat, Európa, a művészet és a művészek elárult testamentumait.</p>
 
 
 <hr/>
@@ -80,7 +117,7 @@
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Nemtudas%20%281828%29/cover.jpg" alt="cover" width="300"/></center>
 
 ## Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Nemtudas%20%281828%29/Nemtudas%20-%20Milan%20Kundera.azw3)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Nemtudas%20%281828%29/Nemtudas%20-%20Milan%20Kundera.epub)
 
 ## Tagek
 [1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1001%20k%c3%b6nyv%20list%c3%a1n%20szerepel.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -95,7 +132,7 @@
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Jakab%20%20es%20az%20ura%20%281826%29/cover.jpg" alt="cover" width="300"/></center>
 
 ## Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Jakab%20%20es%20az%20ura%20%281826%29/Jakab%20%20es%20az%20ura%20-%20Milan%20Kundera.azw3)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Jakab%20%20es%20az%20ura%20%281826%29/Jakab%20%20es%20az%20ura%20-%20Milan%20Kundera.epub)
 
 ## Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [dráma (műnem)](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/dr%c3%a1ma%20m%c5%b1nem.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [színmű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/sz%c3%adnm%c5%b1.md)
@@ -110,7 +147,7 @@
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20%20fuggony%20%281822%29/cover.jpg" alt="cover" width="300"/></center>
 
 ## Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20%20fuggony%20%281822%29/A%20%20fuggony%20-%20Milan%20Kundera.azw3)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20%20fuggony%20%281822%29/A%20%20fuggony%20-%20Milan%20Kundera.epub)
 
 ## Tagek
 [cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [esszé](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/essz%c3%a9.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [irodalomelmélet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalomelm%c3%a9let.md), [irodalomtörténet](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalomt%c3%b6rt%c3%a9net.md), [irodalomtudomány](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/irodalomtudom%c3%a1ny.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
@@ -125,7 +162,7 @@
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Nevetseges%20%20szerelmek%20%281830%29/cover.jpg" alt="cover" width="300"/></center>
 
 ## Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Nevetseges%20%20szerelmek%20%281830%29/Nevetseges%20%20szerelmek%20-%20Milan%20Kundera.azw3)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Nevetseges%20%20szerelmek%20%281830%29/Nevetseges%20%20szerelmek%20-%20Milan%20Kundera.epub)
 
 ## Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [elbeszélés](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/elbesz%c3%a9l%c3%a9s.md), [erotikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/erotikus.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md)
@@ -136,14 +173,44 @@
 
 <hr/>
 
+# <a name="id_1834">Milan Kundera: Találkozás (2010)</a>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Talalkozas%20%281834%29/cover.jpg" alt="cover" width="300"/></center>
+
+## Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Talalkozas%20%281834%29/Talalkozas%20-%20Milan%20Kundera.epub)
+
+## Tagek
+[cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [esszé](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/essz%c3%a9.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md)
+
+## Összefoglalás
+<p class="description">„Szép… mint a varrógép és az esernyő véletlen találkozása a boncasztalon”: Lautréamont-nak, a francia szürrealisták előfutárának híres sorát variálva illeszti Milan Kundera a kerek születésnapjára megjelentetett esszékötete legközepébe ezt a fejezetcímet: „Szép, mint a sokszoros találkozás.” Átdolgozott régebbi és vadonatúj írásokat sorakoztatva ad számot találkozásairól művekkel, művészeti ágakkal, művészekkel, világtájakkal, s noha számára a művészet egyedüli értelme a szépség (az életé pedig a művészet), nem csak a szépre emlékezik. Mérleget készít a történelmi helyzetekről, véletlenekről és törvényszerűekről, melyeket átélt, kritikusan elemezve önmagát is, s önmagán keresztül az emberi természetet. Szerinte ugyanis a regényíró az ember megismerésére teszi fel életét…</p>
+
+
+<hr/>
+
 # <a name="id_1823">Milan Kundera: A lét elviselhetetlen könnyűsége (2011)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20let%20elviselhetetlen%20konnyusege%20%281823%29/cover.jpg" alt="cover" width="300"/></center>
 
 ## Letöltés
-[prc](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20let%20elviselhetetlen%20konnyusege%20%281823%29/A%20let%20elviselhetetlen%20konnyuseg%20-%20Milan%20Kundera.prc)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20let%20elviselhetetlen%20konnyusege%20%281823%29/A%20let%20elviselhetetlen%20konnyuseg%20-%20Milan%20Kundera.epub)
 
 ## Összefoglalás
 <P> <P>Milan Kundera filozofikus regénye hagyományos értelemben a prágai tavaszt és körülményeit megélő orvos, Tomás történetére épül. A nőcsábász értelmiségi szeretőből lett feleségével, Terezával (a mindig kancaszagot érző, féltékenységtől sorvadó nővel) hol küzdve, hol harmóniában figyeli önmagát csakúgy, mint számtalan más szeretőjét. Sabina, Tomás egyik kiemelkedő partnere, a sérült múltból árulásokkal teletűzdelt úton jövő festőnő előbb az orvossal, majd Franz-cal, a visszafogott, tömegben élő és menetelő középosztálybelivel ízlelgeti egyre talányosabb élethelyzeteit. Az ember-háló csomóiban több minden is közös: mindannyian Kunderából táplálkoznak, mindannyian többek az író által megélt élményeknél ("mindegyik alakomat egyformán szeretem és egyformán borzadok tőlük: mind átlépett valamilyen határt, amit én csak kerülgettem") - és mindannyian a súlyos és könnyű más oldaláról indulva ugyan, de ide-oda ingadozva létezésük legideálisabb formáját keresik.<BR>Sorsuk, körülményeik az író eszközévé válva a beethoveni "es muss sein" súlyát Permanidész ellentétpár-elméletének megfelelő könnyűséggel veti össze. Kundera az egyes szereplők élményeit saját szemszögükből meséli el, és az olvasó a jellemvonások, a kérdések, a kételyek által újra s újra, felkiáltva ismerhet magára. A konkrét figuráktól elszakadva Kundera örök és korhoz kötődő filozófiai, politikai, emberi kérdéseket feszeget, alapigazságokra mutat rá, és a szigorúan vett történet mögött megbúvó, új jelentéstartalmakra mutatva keresi a választ: könnyű, vagy nehéz? <BR></P><BR> <P></P>
+
+
+<hr/>
+
+# <a name="id_1832">Milan Kundera: A ​nevetés és felejtés könyve (2014)</a>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20%20nevetes%20es%20felejtes%20konyve%20%281832%29/cover.jpg" alt="cover" width="300"/></center>
+
+## Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20%20nevetes%20es%20felejtes%20konyve%20%281832%29/A%20%20nevetes%20es%20felejtes%20konyve%20-%20Milan%20Kundera.epub)
+
+## Tagek
+[1001 könyv listán szerepel](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/1001%20k%c3%b6nyv%20list%c3%a1n%20szerepel.md), [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [diktatúra](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/diktat%c3%bara.md), [emigráns](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/emigr%c3%a1ns.md), [erotikus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/erotikus.md), [experimentális](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/experiment%c3%a1lis.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [kommunizmus](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kommunizmus.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [összetett regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/%c3%b6sszetett%20reg%c3%a9ny.md), [prága](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/pr%c3%a1ga.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)
+
+## Összefoglalás
+<p class="description">Ez az egész könyv egy variációs formában megírt regény. Az egyes részek úgy követik egymást, mint annak az útnak a szakaszai, amely a téma belsejébe, a gondolat belsejébe, egyetlenegy helyzet belsejébe vezet, amelynek megértése beláthatatlan messzeségbe vész előttem. Ez a regény Tamináról szól, és attól a pillanattól kezdve, hogy Tamina lelép a színről, Tamináért szól. Ő a regény főszereplője és fő hallgatója, az összes többi történet az ő történetének a variációja, és úgy fut össze az életében, mint valami tükörben. Ez a regény a nevetésről és a feledésről, a feledésről és Prágáról, Prágáról és az angyalokról szól.</p>
 
 
 <hr/>
@@ -152,7 +219,7 @@
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Lassusag%20%281829%29/cover.jpg" alt="cover" width="300"/></center>
 
 ## Letöltés
-[azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Lassusag%20%281829%29/Lassusag%20-%20Milan%20Kundera.azw3)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Lassusag%20%281829%29/Lassusag%20-%20Milan%20Kundera.epub)
 
 ## Tagek
 [20. század](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/20.%20sz%c3%a1zad.md), [cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [filozófia](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filoz%c3%b3fia.md), [filozofikus regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/filozofikus%20reg%c3%a9ny.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [hangoskönyv](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/hangosk%c3%b6nyv.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md)

@@ -10,6 +10,7 @@
 - George Mikes: Papucsban [részletek](../_details/George%20Mikes.md#id_406)
 - Gerald Durrell: A hahagáj [részletek](../_details/Gerald%20Durrell.md#id_865)
 - Mark Twain: Megszelídítem a kerékpárt [részletek](../_details/Mark%20Twain.md#id_936)
+- Milan Kundera: A ​jelentéktelenség ünnepe [részletek](../_details/Milan%20Kundera.md#id_1831)
 - Moldova, György: A bal oroszlán [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_939)
 - Moldova, György: A beszélő disznó [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1382)
 - Moldova, György: A beszélő disznó / Józsi rendszert vált / Én, I. Viktor [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_938)

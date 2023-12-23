@@ -4,6 +4,7 @@
 - J. K. Rowling: Harry Potter és az azkabani fogoly [részletek](../_details/J.%20K.%20Rowling.md#id_20)
 - Vonnegut, Kurt: Mesterlövész [részletek](../_details/Vonnegut%2C%20Kurt.md#id_1622)
 - Vonnegut, Kurt: Míg a halandók alszanak [részletek](../_details/Vonnegut%2C%20Kurt.md#id_1617)
+- Milan Kundera: Az élet máshol van [részletek](../_details/Milan%20Kundera.md#id_1824)
 - Milan Kundera: Azonosság [részletek](../_details/Milan%20Kundera.md#id_1825)
 - Milan Kundera: Halhatatlanság [részletek](../_details/Milan%20Kundera.md#id_1827)
 - Milan Kundera: Tréfa [részletek](../_details/Milan%20Kundera.md#id_1820)

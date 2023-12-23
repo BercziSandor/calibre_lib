@@ -658,9 +658,13 @@ Almut Bossart:
 
 Sorozatok:
 
+Razorland:
+
+- 1 (101) - Razorland trilógia [részletek](_details/Ann%20Aguirre.md#id_1835) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ann%20Aguirre/Razorland%20trilogia%20%281835%29/Razorland%20trilogia%20-%20Ann%20Aguirre.epub)
+
 Razorland-trilógia:
 
-- 1 (2014) - Menedék [részletek](_details/Ann%20Aguirre.md#id_1518) [pdf](https://github.com/BercziSandor/calibre_lib/raw/main/main/Ann%20Aguirre/Menedek%20%281518%29/Menedek%20-%20Ann%20Aguirre.pdf)
+- 1 (2014) - Menedék [részletek](_details/Ann%20Aguirre.md#id_1518)
 
 ***
 
@@ -3319,17 +3323,21 @@ Palmu felügyelő:
 
 ## Milan Kundera
 
-- (1966) - Tréfa [details](_details/Milan%20Kundera.md#id_1820) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Trefa%20%281820%29/Trefa%20-%20Milan%20Kundera.azw3)
-- (1972) - Az élet máshol van [details](_details/Milan%20Kundera.md#id_1824)
-- (1990) - Halhatatlanság [details](_details/Milan%20Kundera.md#id_1827) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Halhatatlansag%20%281827%29/Halhatatlansag%20-%20Milan%20Kundera.azw3)
+- (101) - A ​jelentéktelenség ünnepe [details](_details/Milan%20Kundera.md#id_1831) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20%20jelentektelenseg%20unnepe%20%281831%29/A%20%20jelentektelenseg%20unnepe%20-%20Milan%20Kundera.epub)
+- (1966) - Tréfa [details](_details/Milan%20Kundera.md#id_1820) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Trefa%20%281820%29/Trefa%20-%20Milan%20Kundera.epub)
+- (1972) - Az élet máshol van [details](_details/Milan%20Kundera.md#id_1824) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Az%20elet%20mashol%20van%20%281824%29/Az%20elet%20mashol%20van%20-%20Milan%20Kundera.epub)
+- (1990) - Halhatatlanság [details](_details/Milan%20Kundera.md#id_1827) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Halhatatlansag%20%281827%29/Halhatatlansag%20-%20Milan%20Kundera.epub)
 - (1997) - Azonosság [details](_details/Milan%20Kundera.md#id_1825) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Azonossag%20%281825%29/Azonossag%20-%20Milan%20Kundera.epub)
-- (2005) - Búcsúkeringő [details](_details/Milan%20Kundera.md#id_1821)
-- (2006) - Nemtudás [details](_details/Milan%20Kundera.md#id_1828) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Nemtudas%20%281828%29/Nemtudas%20-%20Milan%20Kundera.azw3)
-- (2007) - Jakab ​és az ura [details](_details/Milan%20Kundera.md#id_1826) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Jakab%20%20es%20az%20ura%20%281826%29/Jakab%20%20es%20az%20ura%20-%20Milan%20Kundera.azw3)
-- (2008) - A ​függöny [details](_details/Milan%20Kundera.md#id_1822) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20%20fuggony%20%281822%29/A%20%20fuggony%20-%20Milan%20Kundera.azw3)
-- (2009) - Nevetséges ​szerelmek [details](_details/Milan%20Kundera.md#id_1830) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Nevetseges%20%20szerelmek%20%281830%29/Nevetseges%20%20szerelmek%20-%20Milan%20Kundera.azw3)
-- (2011) - A lét elviselhetetlen könnyűsége [details](_details/Milan%20Kundera.md#id_1823) [prc](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20let%20elviselhetetlen%20konnyusege%20%281823%29/A%20let%20elviselhetetlen%20konnyuseg%20-%20Milan%20Kundera.prc)
-- (2016) - Lassúság [details](_details/Milan%20Kundera.md#id_1829) [azw3](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Lassusag%20%281829%29/Lassusag%20-%20Milan%20Kundera.azw3)
+- (2005) - Búcsúkeringő [details](_details/Milan%20Kundera.md#id_1821) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Bucsukeringo%20%281821%29/Bucsukeringo%20-%20Milan%20Kundera.epub)
+- (2006) - Elárult testamentumok [details](_details/Milan%20Kundera.md#id_1833) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Elarult%20testamentumok%20%281833%29/Elarult%20testamentumok%20-%20Milan%20Kundera.epub)
+- (2006) - Nemtudás [details](_details/Milan%20Kundera.md#id_1828) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Nemtudas%20%281828%29/Nemtudas%20-%20Milan%20Kundera.epub)
+- (2007) - Jakab ​és az ura [details](_details/Milan%20Kundera.md#id_1826) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Jakab%20%20es%20az%20ura%20%281826%29/Jakab%20%20es%20az%20ura%20-%20Milan%20Kundera.epub)
+- (2008) - A ​függöny [details](_details/Milan%20Kundera.md#id_1822) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20%20fuggony%20%281822%29/A%20%20fuggony%20-%20Milan%20Kundera.epub)
+- (2009) - Nevetséges ​szerelmek [details](_details/Milan%20Kundera.md#id_1830) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Nevetseges%20%20szerelmek%20%281830%29/Nevetseges%20%20szerelmek%20-%20Milan%20Kundera.epub)
+- (2010) - Találkozás [details](_details/Milan%20Kundera.md#id_1834) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Talalkozas%20%281834%29/Talalkozas%20-%20Milan%20Kundera.epub)
+- (2011) - A lét elviselhetetlen könnyűsége [details](_details/Milan%20Kundera.md#id_1823) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20let%20elviselhetetlen%20konnyusege%20%281823%29/A%20let%20elviselhetetlen%20konnyuseg%20-%20Milan%20Kundera.epub)
+- (2014) - A ​nevetés és felejtés könyve [details](_details/Milan%20Kundera.md#id_1832) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20%20nevetes%20es%20felejtes%20konyve%20%281832%29/A%20%20nevetes%20es%20felejtes%20konyve%20-%20Milan%20Kundera.epub)
+- (2016) - Lassúság [details](_details/Milan%20Kundera.md#id_1829) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Lassusag%20%281829%29/Lassusag%20-%20Milan%20Kundera.epub)
 
 ***
 

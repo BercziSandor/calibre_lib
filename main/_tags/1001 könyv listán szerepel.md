@@ -33,6 +33,7 @@
 - Lev Tolsztoj: Háború és béke [részletek](../_details/Lev%20Tolsztoj.md#id_563)
 - Mario Puzo: A Keresztapa [részletek](../_details/Mario%20Puzo.md#id_283)
 - Mihail Bulgakov: A Mester és Margarita [részletek](../_details/Mihail%20Bulgakov.md#id_275)
+- Milan Kundera: A ​nevetés és felejtés könyve [részletek](../_details/Milan%20Kundera.md#id_1832)
 - Milan Kundera: Nemtudás [részletek](../_details/Milan%20Kundera.md#id_1828)
 - Patrick Süskind: A parfüm [részletek](../_details/Patrick%20S%C3%BCskind.md#id_408)
 - Paulo Coelho: Az ördög és Prym kisasszony [részletek](../_details/Paulo%20Coelho.md#id_262)
