@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1835</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd0b570d-b3f5-4dfe-9dca-ed2ef1283f04</dc:identifier>
+        <dc:title>The Razorland Trilogy</dc:title>
+        <dc:creator opf:file-as="Aguirre, Ann" opf:role="aut">Ann Aguirre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-01T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The Razorland Trilogy: Enclave, Outpost, and HordeThe New York Times—bestselling trilogy is the story of two young people in an apocalyptic world—facing dangers, and feelings, unlike any they've ever known. &lt;/p&gt;
+&lt;p&gt;Enclave: Fifteen-year-old Deuce lives in a world below New York City which has been decimated by war and plague. As part of her new role as Huntress, Deuce is paired with Fade, another teenage Hunter. When the pair discovers that the neighboring enclave has been decimated by tunnel monsters, the elders refuse to listen to their warnings. And when Deuce and Fade are exiled from the enclave, the girl born in darkness must survive in daylight in the ruins of a city whose population has dwindled to a few dangerous gangs. &lt;/p&gt;
+&lt;p&gt;Outpost: Deuce's whole world has changed. Down below, she was considered an adult. Now, topside in a town called Salvation, she's a "brat" in need of training in the eyes of the townsfolk. To make matters worse, her Hunter partner, Fade, keeps Deuce at a distance. Her feelings for Fade are still strong, but he seems not to want her around anymore. Things have been changing on the surface, just as they did below ground. The monsters don't intend to let Salvation survive, and it may take a girl like Deuce to turn back the tide. &lt;/p&gt;
+&lt;p&gt;Horde: The survival of Salvation is up to Deuce, Fade, Stalker, and Tegan. Deuce decides the only way to fight an army is to raise one. At first, everyone laughs at the idea of a girl leading humanity's forces against the Freaks, but then she proves herself in combat. Can Deuce render a permanent truce with the Freaks? Who will survive?Includes bonus chapters from Ann Aguirres Mortal Danger!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Feiwel &amp; Friends</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">399dc999-6f80-46bb-85e8-8e5ae2107732</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781466885455</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1466885459</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">23453980</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Yt8VBQAAQBAJ</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Young Adult Fiction</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Apocalyptic &amp; Post-Apocalyptic</dc:subject>
+        <dc:subject>Action &amp; Adventure</dc:subject>
+        <dc:subject>Survival Stories</dc:subject>
+        <dc:subject>Dystopian</dc:subject>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-12-23T11:58:52+00:00"/>
+        <meta name="calibre:title_sort" content="The Razorland Trilogy"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

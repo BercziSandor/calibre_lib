@@ -13,6 +13,10 @@
   "check_library_ignore_names": "",
   "gui_view_history": [
     [
+      1837,
+      "Epertorta \u00c9s Gyilkoss\u00e1g"
+    ],
+    [
       1839,
       "Szem\u00e9rmes \u200bbarack \u00e9s gyilkoss\u00e1g"
     ],
@@ -67,10 +71,6 @@
     [
       326,
       "\u00c1llati elm\u00e9k"
-    ],
-    [
-      1802,
-      "Unnatural Creatures"
     ]
   ],
   "plugboards": {},
@@ -93,14 +93,6 @@
       ],
       [
         "title",
-        true
-      ],
-      [
-        "timestamp",
-        false
-      ],
-      [
-        "authors",
         true
       ],
       [
@@ -978,7 +970,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1720453664.8962855,
+  "last_expired_trash_at": 1720463452.707395,
   "virtual_libraries": {
     "kutya": "tags:\"=kutya\""
   }
