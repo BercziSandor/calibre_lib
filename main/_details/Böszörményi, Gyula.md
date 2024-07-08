@@ -278,3 +278,13 @@ Marcel 13 éves, mikor a családjával a „Nyócker” színes, zajos, rémiszt
 <p>A regény egy férfiról szól, aki félig nő. Vagy legalábbis a lelke nő. Talán csak a magánéletében szökhet meg, vagy legalábbis azt hiszi, hogy megszökhet. De a sorsát végül nem kerülheti el, hiszen király. A könyv híven követi a bibliai eseményeket, csak persze sajátos értelmezésben. Már csak azért is, mert Böszörményi Gyula, aki a Kucóval és a Gergő és az álomfogókkal már bizonyított, egy történelmi köntösbe öltöztetett, ízig-vérig mai történetet írt.</p></div>
 
 
+<hr/>
+
+# <a name="id_1587">Böszörményi, Gyula: Ütközet a Meridim felett (2003)</a>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Boszormenyi%2C%20Gyula/Utkozet%20a%20Meridim%20felett%20%281587%29/cover.jpg" alt="cover" width="300"/></center>
+
+## Összefoglalás
+<div>
+<p>A Krisztus-esemény után 2842-ben járunk. A galaxis forrong, a legtöbb bolygón, s a köztes terekben kisebb-nagyobb viszályok, villongások, belharcok dúlnak a helyi kiskirályok, demokráciák, szövetségek, mutánsok és emberek között. Ez a kolóniaháborúk kora, amikor az emberiség igyekszik megvetni a lábát a von Anstetten démoncsászárok által „gazdátlanul” hagyott világban. A felderítőhajók ismeretlen vidékeket kutatnak át, és amikor lakható bolygókra lelnek, a túlzsúfolt háttérvilágokból nyomban személyszállító óriások tömege indul, hogy benépesítsék azokat. A fiatal emberi kolóniákon úgy teremnek a hősök, mint a történelemben még soha, hiszen a rendkívüli megpróbáltatásokat csakis rendkívüli emberek képesek túlélni.<br>A Korgerán unió űrhadereje háborúban áll a mutáns Horong Plantunium retteget flottájával, s az első csatát már el is vesztette. A fanatikus, egyetlen és rendkívül intelligens horongok célja, hogy kisöpörjék saját űrszektorukból az épp csak letelepedett embereket. Ennek leggyorsabb módja pedig az, ha gyors csapást mérnek a jelentéktelennek tetsző előretolt emberi hídfőállásra, a Meridium-rendszerre, mely hirtelen a galaxis e szeletének legfontosabb pontjává válik. Ez a történet a kolóniaháborúk egyik legjelentősebb flottaütközetéről szól, melyben mutánsok és emberek, fegyverek és filozófiák csapnak össze. S bár az űrben iszonyú csata dúl, egyik fél sem sejti, hogy a háttérben az egész történelem, a jövő változatlansága a tét.</p></div>
+
+

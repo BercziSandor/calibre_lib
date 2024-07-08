@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1517</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29feceed-d1a8-42fd-99d0-5a6317b0af26</dc:identifier>
+        <dc:title>A természet erői</dc:title>
+        <dc:creator opf:file-as="Cox, Brian" opf:role="aut">Brian Cox</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Hogyan jött létre a Földön az élet?&lt;br&gt;Milyen a tér és az idő természete? &lt;br&gt;Mekkora az esélye annak, hogy más bolygókon &lt;br&gt;az élet nyomaira bukkanunk?&lt;br&gt;A természet erőiben a szerző a világunkat irányító, alapvető törvényeket keresi. Eközben olyan különleges helyekre kísérhetjük el, mint Izlandon a Közép-Atlanti-hátság felszínre bukkanó része vagy a Florida partjai körül élő lamantinok birodalma. A könyvben tárgyalt egyetemes törvények alakítanak mindent, a hópelyhek struktúrájától a galaxisok elegáns spiráljaiig. Miközben meg akarjuk érteni mindennapi problémáinkat – otthonunk színeit, a földi élet struktúráit, az élővilág viselkedését és történetét –, túlléphetünk hétköznapi világunkon, és betekinthetünk az azokon túli univerzumba. &lt;br&gt;Azt hiszed, hogy ismered bolygónkat?&lt;br&gt;Gondold végig még egyszer&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Akkord</dc:publisher>
+        <dc:identifier opf:scheme="MOLY_HU">brian-cox-andrew-cohen-a-termeszet-eroi</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789632521060</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>csillagászat</dc:subject>
+        <meta name="calibre:timestamp" content="2021-12-23T16:07:24+00:00"/>
+        <meta name="calibre:title_sort" content="természet erői, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
