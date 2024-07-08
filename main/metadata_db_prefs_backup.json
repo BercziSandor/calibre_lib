@@ -13,6 +13,14 @@
   "check_library_ignore_names": "",
   "gui_view_history": [
     [
+      1839,
+      "Szem\u00e9rmes \u200bbarack \u00e9s gyilkoss\u00e1g"
+    ],
+    [
+      625,
+      "Kar\u00e1csonyi habcs\u00f3k \u00e9s gyilkoss\u00e1g"
+    ],
+    [
       1835,
       "Razorland tril\u00f3gia"
     ],
@@ -63,14 +71,6 @@
     [
       1802,
       "Unnatural Creatures"
-    ],
-    [
-      896,
-      "Elveszett Pr\u00f3f\u00e9ci\u00e1k"
-    ],
-    [
-      1799,
-      "Mr. Quin"
     ]
   ],
   "plugboards": {},
@@ -88,6 +88,10 @@
     "path_injected": true,
     "sort_history": [
       [
+        "series",
+        true
+      ],
+      [
         "title",
         true
       ],
@@ -97,14 +101,6 @@
       ],
       [
         "authors",
-        true
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "series",
         true
       ],
       [
@@ -138,7 +134,7 @@
       "size": 76,
       "rating": 94,
       "tags": 484,
-      "series": 166,
+      "series": 251,
       "publisher": 61,
       "formats": 0,
       "path": 0,
@@ -982,7 +978,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1703332194.5807023,
+  "last_expired_trash_at": 1720453664.8962855,
   "virtual_libraries": {
     "kutya": "tags:\"=kutya\""
   }

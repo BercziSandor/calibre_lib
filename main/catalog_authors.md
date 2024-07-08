@@ -2492,10 +2492,16 @@ Sorozatok:
 
 Hannah Swensen titokzatos esetei:
 
+- 1 (2000) - Egzotikus Csók és Gyilkosság [részletek](_details/Joanne%20Fluke.md#id_1836) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Egzotikus%20Csok%20es%20Gyilkossag%20%281836%29/Egzotikus%20Csok%20es%20Gyilkossag%20-%20Joanne%20Fluke.epub)
+- 2 (2001) - Epertorta És Gyilkosság [részletek](_details/Joanne%20Fluke.md#id_1837) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Epertorta%20Es%20Gyilkossag%20%281837%29/Epertorta%20Es%20Gyilkossag%20-%20Joanne%20Fluke.epub)
 - 3 (2007) - Áfonyás muffin és gyilkosság [részletek](_details/Joanne%20Fluke.md#id_622) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Afonyas%20muffin%20es%20gyilkossag%20%28622%29/Afonyas%20muffin%20es%20gyilkossag%20-%20Joanne%20Fluke.epub)
 - 4 (2008) - Pikáns meglepetés és gyilkosság [részletek](_details/Joanne%20Fluke.md#id_623) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Pikans%20meglepetes%20es%20gyilkossag%20%28623%29/Pikans%20meglepetes%20es%20gyilkossag%20-%20Joanne%20Fluke.epub)
 - 5 (2009) - Csokis tündértorta és gyilkosság [részletek](_details/Joanne%20Fluke.md#id_624) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Csokis%20tundertorta%20es%20gyilkossag%20%28624%29/Csokis%20tundertorta%20es%20gyilkossa%20-%20Joanne%20Fluke.epub)
 - 6 (2009) - Karácsonyi habcsók és gyilkosság [részletek](_details/Joanne%20Fluke.md#id_625) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Karacsonyi%20habcsok%20es%20gyilkossag%20%28625%29/Karacsonyi%20habcsok%20es%20gyilkossa%20-%20Joanne%20Fluke.epub)
+- 7 (2005) - Szemérmes ​barack és gyilkosság [részletek](_details/Joanne%20Fluke.md#id_1839) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Szemermes%20%20barack%20es%20gyilkossag%20%281839%29/Szemermes%20%20barack%20es%20gyilkossag%20-%20Joanne%20Fluke.epub)
+- 11 (2013) - Piruló képviselőfánk és gyilkosság [részletek](_details/Joanne%20Fluke.md#id_1838) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Pirulo%20kepviselofank%20es%20gyilkossag%20%281838%29/Pirulo%20kepviselofank%20es%20gyilkos%20-%20Joanne%20Fluke.epub)
+- 12 (2013) - Ünnepi szilvapuding és gyilkosság [részletek](_details/Joanne%20Fluke.md#id_1841) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Unnepi%20szilvapuding%20es%20gyilkossag%20%281841%29/Unnepi%20szilvapuding%20es%20gyilkoss%20-%20Joanne%20Fluke.epub)
+- 13 (2014) - Almás levél és gyilkosság [részletek](_details/Joanne%20Fluke.md#id_1840) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Joanne%20Fluke/Almas%20level%20es%20gyilkossag%20%281840%29/Almas%20level%20es%20gyilkossag%20-%20Joanne%20Fluke.epub)
 
 ***
 
@@ -3323,7 +3329,6 @@ Palmu felügyelő:
 
 ## Milan Kundera
 
-- (101) - A ​jelentéktelenség ünnepe [details](_details/Milan%20Kundera.md#id_1831) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20%20jelentektelenseg%20unnepe%20%281831%29/A%20%20jelentektelenseg%20unnepe%20-%20Milan%20Kundera.epub)
 - (1966) - Tréfa [details](_details/Milan%20Kundera.md#id_1820) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Trefa%20%281820%29/Trefa%20-%20Milan%20Kundera.epub)
 - (1972) - Az élet máshol van [details](_details/Milan%20Kundera.md#id_1824) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Az%20elet%20mashol%20van%20%281824%29/Az%20elet%20mashol%20van%20-%20Milan%20Kundera.epub)
 - (1990) - Halhatatlanság [details](_details/Milan%20Kundera.md#id_1827) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Halhatatlansag%20%281827%29/Halhatatlansag%20-%20Milan%20Kundera.epub)
@@ -3336,6 +3341,7 @@ Palmu felügyelő:
 - (2009) - Nevetséges ​szerelmek [details](_details/Milan%20Kundera.md#id_1830) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Nevetseges%20%20szerelmek%20%281830%29/Nevetseges%20%20szerelmek%20-%20Milan%20Kundera.epub)
 - (2010) - Találkozás [details](_details/Milan%20Kundera.md#id_1834) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Talalkozas%20%281834%29/Talalkozas%20-%20Milan%20Kundera.epub)
 - (2011) - A lét elviselhetetlen könnyűsége [details](_details/Milan%20Kundera.md#id_1823) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20let%20elviselhetetlen%20konnyusege%20%281823%29/A%20let%20elviselhetetlen%20konnyuseg%20-%20Milan%20Kundera.epub)
+- (2014) - A ​jelentéktelenség ünnepe [details](_details/Milan%20Kundera.md#id_1831) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20%20jelentektelenseg%20unnepe%20%281831%29/A%20%20jelentektelenseg%20unnepe%20-%20Milan%20Kundera.epub)
 - (2014) - A ​nevetés és felejtés könyve [details](_details/Milan%20Kundera.md#id_1832) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20%20nevetes%20es%20felejtes%20konyve%20%281832%29/A%20%20nevetes%20es%20felejtes%20konyve%20-%20Milan%20Kundera.epub)
 - (2016) - Lassúság [details](_details/Milan%20Kundera.md#id_1829) [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Lassusag%20%281829%29/Lassusag%20-%20Milan%20Kundera.epub)
 

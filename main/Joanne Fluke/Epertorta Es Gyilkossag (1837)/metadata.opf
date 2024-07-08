@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1837</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b43322e-59e6-4dd3-84ac-a8d3840d38ad</dc:identifier>
+        <dc:title>Epertorta És Gyilkosság</dc:title>
+        <dc:creator opf:file-as="Fluke, Joanne" opf:role="aut">Joanne Fluke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-01-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Hannah Swensen újra nyomoz. Megjelent a népszerű amerikai írónő, Joanne Fluke bestseller listás krimisorozatának második része. A krimisorozat első részében, az Egzotikus csók és gyilkosságban a lángvörös hajú hősnő bebizonyította, hogy logikája és bátorsága megbolondítva egy csipetnyi fanyar humorral legalább annyira különleges, mint közkedvelt süteménykreációja, az Egzotikus csók. Ezúttal a leleményes cukrásznő a Lake Eden-i sütőverseny zsűrijében elnököl, ahol valóban vérre menő a küzdelem. &lt;/p&gt;
+&lt;p&gt;A második rész tartalmából: Lake Eden élete felpezsdül, mert a Hartland Liszt igazgatója az évenként megrendezendő desszertsütő-verseny helyszínéül választja a barátságos amerikai kisvárost. Hannah az öttagú zsűri elnökeként izgatottan készül a nagy eseményre. Amikor azonban az egyik zsűritagot, Boyd Watson edzőt vérbe fagyva találják a Hannah-féle epertorta maradványai között, a vakmerő cukrásznő egy barackos kenyérfelfújt és egy kakaós süti elkészítése közben újra magánnyomozásba kezd, és rövidesen szövevényes bűnügyre derít fényt. Vajon Watson zsűritagként mondott kemény kritikái adhattak okot a gyilkosságra? A nyomozás izgalma emelkedik, akár a tészta a sütőben, ráadásul Hannah-nak vigyáznia kell, mert a gyilkos sejti, hogy a nyomában vannak, és ha kell, újra akcióba lép. &lt;/p&gt;
+&lt;p&gt;A fejezetek végén 7 újabb ínycsiklandó desszertrecept szerepel.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789639769441</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">15760331</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <meta name="calibre:series" content="Hannah Swensen titokzatos esetei"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-07-08T15:58:35.967734+00:00"/>
+        <meta name="calibre:title_sort" content="Epertorta És Gyilkosság"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;DOCX&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

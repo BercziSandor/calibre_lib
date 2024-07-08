@@ -1,21 +1,5 @@
 <hr/>
 
-# <a name="id_1831">Milan Kundera: A ​jelentéktelenség ünnepe </a>
-<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20%20jelentektelenseg%20unnepe%20%281831%29/cover.jpg" alt="cover" width="300"/></center>
-
-## Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20%20jelentektelenseg%20unnepe%20%281831%29/A%20%20jelentektelenseg%20unnepe%20-%20Milan%20Kundera.epub)
-
-## Tagek
-[cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szat%c3%adra.md)
-
-## Összefoglalás
-<div><p class="description">Szép nyári délelőtt Párizsban. Alain jár-kel, és a nők köldökét bámulja. Ilyen most a divat: csípőnadrág, haspóló. Tetszik ez Alainnek, de zavarja is. Mi lesz ebből? Hová vezet az, ha egy kultúrában már nem a női comb vagy mell, hanem a nők köldöke kerül a vágy centrumába?</p>
-<p class="description">Így kezdődik az immár három évtizede Franciaországban élő világhírű író, Milan Kundera vadonatúj regénye. Ez a nagyon is komolyan veendő komédia mintegy összefoglalja és megkoronázza a kunderai életművet. Alainék életének megtévesztő jelentéktelensége, a mindennapjaikat átható pitiáner hazugságok és ócska tréfák, mélységesen személyes, mégis egyetemes problémáik igencsak kunderásan szürreális, játékosan élvezetes sztálinizmus-szatírával párosulva jelenítődnek meg. És nincs mit csodálni, ha egyszer csak Sztálin hahotája visszhangzik már a Luxembourg-kertben.</p></div>
-
-
-<hr/>
-
 # <a name="id_1820">Milan Kundera: Tréfa (1966)</a>
 <center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/Trefa%20%281820%29/cover.jpg" alt="cover" width="300"/></center>
 
@@ -196,6 +180,22 @@
 
 ## Összefoglalás
 <P> <P>Milan Kundera filozofikus regénye hagyományos értelemben a prágai tavaszt és körülményeit megélő orvos, Tomás történetére épül. A nőcsábász értelmiségi szeretőből lett feleségével, Terezával (a mindig kancaszagot érző, féltékenységtől sorvadó nővel) hol küzdve, hol harmóniában figyeli önmagát csakúgy, mint számtalan más szeretőjét. Sabina, Tomás egyik kiemelkedő partnere, a sérült múltból árulásokkal teletűzdelt úton jövő festőnő előbb az orvossal, majd Franz-cal, a visszafogott, tömegben élő és menetelő középosztálybelivel ízlelgeti egyre talányosabb élethelyzeteit. Az ember-háló csomóiban több minden is közös: mindannyian Kunderából táplálkoznak, mindannyian többek az író által megélt élményeknél ("mindegyik alakomat egyformán szeretem és egyformán borzadok tőlük: mind átlépett valamilyen határt, amit én csak kerülgettem") - és mindannyian a súlyos és könnyű más oldaláról indulva ugyan, de ide-oda ingadozva létezésük legideálisabb formáját keresik.<BR>Sorsuk, körülményeik az író eszközévé válva a beethoveni "es muss sein" súlyát Permanidész ellentétpár-elméletének megfelelő könnyűséggel veti össze. Kundera az egyes szereplők élményeit saját szemszögükből meséli el, és az olvasó a jellemvonások, a kérdések, a kételyek által újra s újra, felkiáltva ismerhet magára. A konkrét figuráktól elszakadva Kundera örök és korhoz kötődő filozófiai, politikai, emberi kérdéseket feszeget, alapigazságokra mutat rá, és a szigorúan vett történet mögött megbúvó, új jelentéstartalmakra mutatva keresi a választ: könnyű, vagy nehéz? <BR></P><BR> <P></P>
+
+
+<hr/>
+
+# <a name="id_1831">Milan Kundera: A ​jelentéktelenség ünnepe (2014)</a>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20%20jelentektelenseg%20unnepe%20%281831%29/cover.jpg" alt="cover" width="300"/></center>
+
+## Letöltés
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Milan%20Kundera/A%20%20jelentektelenseg%20unnepe%20%281831%29/A%20%20jelentektelenseg%20unnepe%20-%20Milan%20Kundera.epub)
+
+## Tagek
+[cseh szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/cseh%20szerz%c5%91.md), [francia szerző](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/francia%20szerz%c5%91.md), [kortárs](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/kort%c3%a1rs.md), [magyar nyelvű](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/magyar%20nyelv%c5%b1.md), [regény](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/reg%c3%a9ny.md), [szatíra](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/szat%c3%adra.md)
+
+## Összefoglalás
+<div><p class="description">Szép nyári délelőtt Párizsban. Alain jár-kel, és a nők köldökét bámulja. Ilyen most a divat: csípőnadrág, haspóló. Tetszik ez Alainnek, de zavarja is. Mi lesz ebből? Hová vezet az, ha egy kultúrában már nem a női comb vagy mell, hanem a nők köldöke kerül a vágy centrumába?</p>
+<p class="description">Így kezdődik az immár három évtizede Franciaországban élő világhírű író, Milan Kundera vadonatúj regénye. Ez a nagyon is komolyan veendő komédia mintegy összefoglalja és megkoronázza a kunderai életművet. Alainék életének megtévesztő jelentéktelensége, a mindennapjaikat átható pitiáner hazugságok és ócska tréfák, mélységesen személyes, mégis egyetemes problémáik igencsak kunderásan szürreális, játékosan élvezetes sztálinizmus-szatírával párosulva jelenítődnek meg. És nincs mit csodálni, ha egyszer csak Sztálin hahotája visszhangzik már a Luxembourg-kertben.</p></div>
 
 
 <hr/>

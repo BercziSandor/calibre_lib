@@ -12,4 +12,5 @@
 - Joanne Fluke: Csokis tündértorta és gyilkosság [részletek](../_details/Joanne%20Fluke.md#id_624)
 - Joanne Fluke: Karácsonyi habcsók és gyilkosság [részletek](../_details/Joanne%20Fluke.md#id_625)
 - Joanne Fluke: Pikáns meglepetés és gyilkosság [részletek](../_details/Joanne%20Fluke.md#id_623)
+- Joanne Fluke: Szemérmes ​barack és gyilkosság [részletek](../_details/Joanne%20Fluke.md#id_1839)
 - Stephen King: Sorvadj el! [részletek](../_details/Stephen%20King.md#id_469)

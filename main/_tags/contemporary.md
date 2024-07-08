@@ -2,6 +2,9 @@
 
 - Elizabeth Adler: Toszkánai nyár [részletek](../_details/Elizabeth%20Adler.md#id_1211)
 - J. K. Rowling: Harry Potter és az azkabani fogoly [részletek](../_details/J.%20K.%20Rowling.md#id_20)
+- Joanne Fluke: Egzotikus Csók és Gyilkosság [részletek](../_details/Joanne%20Fluke.md#id_1836)
+- Joanne Fluke: Epertorta És Gyilkosság [részletek](../_details/Joanne%20Fluke.md#id_1837)
+- Joanne Fluke: Szemérmes ​barack és gyilkosság [részletek](../_details/Joanne%20Fluke.md#id_1839)
 - Vonnegut, Kurt: Mesterlövész [részletek](../_details/Vonnegut%2C%20Kurt.md#id_1622)
 - Vonnegut, Kurt: Míg a halandók alszanak [részletek](../_details/Vonnegut%2C%20Kurt.md#id_1617)
 - Milan Kundera: Az élet máshol van [részletek](../_details/Milan%20Kundera.md#id_1824)

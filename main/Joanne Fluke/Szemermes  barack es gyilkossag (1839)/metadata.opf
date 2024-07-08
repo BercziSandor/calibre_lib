@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1839</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aff61199-457b-4892-993f-4c5167b6dc19</dc:identifier>
+        <dc:title>Szemérmes ​barack és gyilkosság</dc:title>
+        <dc:creator opf:file-as="Fluke, Joanne" opf:role="aut">Joanne Fluke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-28T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;As she sits in her nearly empty store on Groundhog Day, Hannah can only hope that spring is just around the corner - "and that the popularity of the new Magnolia Blossom Bakery is just a passing fad. The southern hospitality of Lake Eden's two Georgia transplants, Shawna Lee and Vanessa Quinn, is grating on Hannah's nerves -" and cutting into her profits. At least Hannah has her business partner Lisa's wedding to look forward to. &lt;/p&gt;
+&lt;p&gt;Unfortunately, Shawna Lee has finagled an invitation to the reception - "and is bringing her Southern Peach Cobbler for the dessert table. Things go from bad to worse when Shawna Lee and Hannah's sometime-boyfriend, Detective Mike Kingston, are no-shows to the wedding. When Hannah sees lights on at the Magnolia Blossom Bakery after the reception, she investigates -" and finds Shawna Lee shot to death. &lt;/p&gt;
+&lt;p&gt;With a little help from her friends, Hannah's determined to track down whoever had the right ingredients to whip up a murder.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">63d293b0-41e1-4c10-ad18-58ce59744c87</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789639769106</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">33627804</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <dc:subject>Mystery &amp; Crime</dc:subject>
+        <meta name="calibre:series" content="Hannah Swensen titokzatos esetei"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-07-08T16:02:25.523718+00:00"/>
+        <meta name="calibre:title_sort" content="Szemérmes ​barack és gyilkosság"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;MOBI&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

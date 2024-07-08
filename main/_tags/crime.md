@@ -44,6 +44,8 @@
 - Jo Nesbø: A birodalom [részletek](../_details/Jo%20Nesb%C3%B8.md#id_1735)
 - Jo Nesbø: A fiú [részletek](../_details/Jo%20Nesb%C3%B8.md#id_1741)
 - Jo Nesbø: Fehér éjszaka [részletek](../_details/Jo%20Nesb%C3%B8.md#id_978)
+- Joanne Fluke: Egzotikus Csók és Gyilkosság [részletek](../_details/Joanne%20Fluke.md#id_1836)
+- Joanne Fluke: Epertorta És Gyilkosság [részletek](../_details/Joanne%20Fluke.md#id_1837)
 - Jurányi, Zsolt: Az alvilág zsoldjában [részletek](../_details/Jur%C3%A1nyi%2C%20Zsolt.md#id_374)
 - Karin Slaughter: Összetörve [részletek](../_details/Karin%20Slaughter.md#id_1488)
 - Kati Hiekkapelto: Kolibri [részletek](../_details/Kati%20Hiekkapelto.md#id_1198)

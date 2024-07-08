@@ -9,6 +9,7 @@
 - Fábián, Janka: Az angyalos ház [részletek](../_details/F%C3%A1bi%C3%A1n%2C%20Janka.md#id_594)
 - Fábián, Janka: Karácsony a Ligetben [részletek](../_details/F%C3%A1bi%C3%A1n%2C%20Janka.md#id_643)
 - Fejős, Éva: Éjszaka Bangkokban [részletek](../_details/Fej%C5%91s%2C%20%C3%89va.md#id_773)
+- Joanne Fluke: Szemérmes ​barack és gyilkosság [részletek](../_details/Joanne%20Fluke.md#id_1839)
 - Leiner, Laura: Közhelyek [részletek](../_details/Leiner%2C%20Laura.md#id_1481)
 - Leiner, Laura: Remek! [részletek](../_details/Leiner%2C%20Laura.md#id_1502)
 - Milan Kundera: Azonosság [részletek](../_details/Milan%20Kundera.md#id_1825)
