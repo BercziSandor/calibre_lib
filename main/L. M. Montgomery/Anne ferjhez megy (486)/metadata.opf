@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">ce3c12c6-cc90-4daa-95d7-fc2415448ed2</dc:identifier>
         <dc:title>Anne férjhez megy</dc:title>
         <dc:creator opf:file-as="Montgomery, L. M." opf:role="aut">L. M. Montgomery</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2007-02-22T00:00:00+00:00</dc:date>
         <dc:description>Íme ​a népszerű Anne-sorozat ötödik kötete.
 Anne Shirley, aki egykor árvaként érkezett az Edward-szigeti kis faluba, Avonlea-be, immár csinos, ifjú hölgyként, annyi kaland és félreértés után kezét nyújtja Gilbert Blythe-nak. A Zöldmanzárdos-ház első menyasszonya hamarosan a Négy-Szél-öböl menti Glenbe költözik, ahol Gilbert megkezdi orvosi gyakorlatát. Anne-t itt lánykorában megálmodott álomháza várja, és, ahogy ez vele lenni szokott, számtalan jó barát, a férfigyűlölő Miss Cornelia, a kedves, öreg Jim kapitány, a világítótorony őre és a gyönyörű, titokzatos, szomorú Leslie, aki tizenhárom éve ápolja félkegyelmű férjét, Dicket. Dick már évekkel korábban, még egészségesen eltűnt, és Jim kapitány találta meg egy távoli kikötő kórházában. Feltűnik aztán Owen Ford, aki írói álmokat dédelget, és beleszeret Leslie-be. Közben az álomházban örömre bánat, bánatra öröm következik:
@@ -19,7 +19,7 @@ Anne anya lesz, de rögtön gyászba is borul. Ám végül jóra fordulnak a dol
         <dc:subject>barátság</dc:subject>
         <dc:subject>család</dc:subject>
         <dc:subject>gyermekkönyv iskolásoknak</dc:subject>
-        <dc:subject>házasság</dc:subject>
+        <dc:subject>Házasság</dc:subject>
         <dc:subject>ifjúsági</dc:subject>
         <dc:subject>illusztrált</dc:subject>
         <dc:subject>Kanada</dc:subject>
@@ -33,13 +33,12 @@ Anne anya lesz, de rögtön gyászba is borul. Ám végül jóra fordulnak a dol
         <dc:subject>regény</dc:subject>
         <dc:subject>romantikus</dc:subject>
         <dc:subject>sorozat része</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;L. M. Montgomery&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Anne"/>
         <meta name="calibre:series_index" content="5"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2013-06-04T20:14:06+00:00"/>
         <meta name="calibre:title_sort" content="Anne férjhez megy"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

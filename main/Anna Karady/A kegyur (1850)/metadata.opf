@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1850</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8da74a0-6cd7-431d-a433-c842d58cd918</dc:identifier>
+        <dc:title>A kegyúr</dc:title>
+        <dc:creator opf:file-as="Karády, Anna" opf:role="aut">Anna Karády</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-11T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Fékezhetetlen becsvágy. Égető szenvedély. &lt;/p&gt;
+&lt;p&gt;Ez a történet egy névtelen ágyékból származó férfiról szól, aki egy isten háta mögötti faluban látta meg a napvilágot a 15. században. Ám a parasztfiú nem éri be azzal, amivel születése megkínálja, és nevét halhatatlanná teszi.&lt;br&gt;Tanúi lehetünk a török félhold árnyékában születő titokzatos szerelemnek, megelevenedik a Hunyadi-ház vezette birodalom, vele együtt a politika, pénz, intrika, és ármány labirintusa, melyben üstökösként ragyog fel a tettvágytól hajtott, ambiciózus, féktelen ifjú, aki helyet tör magának a királyi udvarban.&lt;br&gt;Ő maga a megtestesült akarat és törekvés...&lt;br&gt;Szíve lángol a becsvágytól és a szenvedélytől. Ám az ország leggazdagabb főuraként sem képes nyugodni - világraszóló álmokat kerget. &lt;/p&gt;
+&lt;p&gt;Az első szerelem lehet az utolsó?&lt;br&gt;Vajon a cél szentesítheti az eszközt? &lt;/p&gt;
+&lt;p&gt;Karády Anna - a nagysikerű A füredi lány-trilógia és a népszerű Zserbó-sorozat írója - ezúttal egy izgalmas korszakot tár az ínyenc olvasók elé, ahol a történelmi tények és a fikció összemosódik, és mint egy misztikus álomban, egy csapásra ott találjuk magunkat a megszállottságtól fűtött vágyak és perzselő érzelmek veszélyes birodalmában.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Gamma</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786156802002</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">6156802002</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">214941225</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">karady-anna-a-kegyur</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>romantikus</dc:subject>
+        <dc:subject>történelmi regény</dc:subject>
+        <dc:subject>történelmi romantikus</dc:subject>
+        <dc:subject>15. század</dc:subject>
+        <dc:subject>család</dc:subject>
+        <dc:subject>énelbeszélő</dc:subject>
+        <dc:subject>felnőtt tartalom</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>igaz történet alapján</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>középkor</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>Magyarország</dc:subject>
+        <dc:subject>papság</dc:subject>
+        <dc:subject>testvérek</dc:subject>
+        <dc:subject>történelmi személy</dc:subject>
+        <dc:subject>vallás</dc:subject>
+        <dc:subject>magyar szerző 15. század család énelbeszélő felnőtt tartalom férfi főszereplő kortárs magyar nyelvű Magyarország papság regény romantikus testvérek történelmi regény történelmi romantikus vallás</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2025-02-12T14:31:03.710310+00:00"/>
+        <meta name="calibre:title_sort" content="kegyúr, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

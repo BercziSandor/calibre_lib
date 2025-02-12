@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">1094fa97-fd04-40ff-92a7-fd8b5b94beb6</dc:identifier>
         <dc:title>Szerelem a kolera idején</dc:title>
         <dc:creator opf:file-as="Márquez, Gabriel García" opf:role="aut">Gabriel García Márquez</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-02-14T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A csodálatos történet 1880-ban kezdődik, amikor a gyönyörű Fermina élvezhetné életét, helyette választania kell két udvarlója között, a jóképű Florentino Ariza és a népszerű Juvenal Urbino doktor között. Ez a gyötrődés és háromszög csaknem 50 éven át tart.&lt;br&gt;A meghökkentő befejezésű szerelmi történet egy buja, lüktető, letűnt világban játszódik, melyet egyaránt uralnak a misztikus események és a sztentori hangú bölömbikák; ahol a tengerben olykor még feltűnik egy éneklő vízitehén keblén a borjával, vagy egy gyönyörű vízihulla; ahol még a legjózanabb gondolkodású embernek is természetesnek tűnik, hogy a tárgyak olykor elsétálnak a helyükről. Teljesen más világ ez, mint a mi közép-európai, misztikumtól mentes és romantikátlan valóságunk.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -22,7 +22,7 @@
         <dc:subject>erotikus</dc:subject>
         <dc:subject>filmadaptáció</dc:subject>
         <dc:subject>groteszk</dc:subject>
-        <dc:subject>házasság</dc:subject>
+        <dc:subject>Házasság</dc:subject>
         <dc:subject>irodalmi Nobel-díj</dc:subject>
         <dc:subject>járvány</dc:subject>
         <dc:subject>klasszikus</dc:subject>
@@ -41,11 +41,10 @@
         <dc:subject>regény</dc:subject>
         <dc:subject>novella</dc:subject>
         <dc:subject>elbeszélés</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Gabriel García Márquez&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2012-01-05T18:36:12+00:00"/>
         <meta name="calibre:title_sort" content="Szerelem a kolera idején"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

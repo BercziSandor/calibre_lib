@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">841d1a18-3cf4-4eb6-aa3e-8cda56fd7c40</dc:identifier>
         <dc:title>Istenek és emberek</dc:title>
         <dc:creator opf:file-as="Kepes, András" opf:role="aut">Kepes, András</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-02-19T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Három ​magyar házaspár egy svájci luxusvillában reked. A természet fenyegető árnyékában, a válogatott gasztronómia finomságok mellett terítékre kerül a múltjuk és a jelenük, miközben konfliktusaikban felsejlik napjaink emberének drámája az erkölcsi és szellemi kapaszkodóit vesztett világban. Nem csak az emberek esnek csapdába, hanem kelepcébe kerül a szerelem és a szexualitás, a barátság és a gyanakvás, a bírvágy és a hatalom, s talán még a párbeszéd esélye is…&lt;br&gt;Kepes András új regénye a Tövispuszta és a Világkép drámai folytatása.&lt;br&gt;„Minden megváltozik, minden másról szól már ma is, mint amiről a politikusok papolnak és amitől az emberek szoronganak, vélte Ézsiás Benedek. Szétfeszítette a tudat, hogy már soha senkit nem tud meggyőzni semmiről, mert megtagadták őt a szavak. Persze, gondolta, lehet, akkor se tudná megértetni magát, ha megmaradt volna a beszéde, hiszen hány ékesszóló, okos ember figyelmezteti az emberiséget, hogy mi vár rá, ahogy a próféták is hiába üvöltözték a jövendölésüket és az átkaikat. Az emberek saját előítéleteik rabjai, és a cellájukba nem szűrődik be más gondolat, csupán saját véleményük visszhangjának örvendeznek.”&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -16,7 +16,7 @@
         <dc:subject>21. század</dc:subject>
         <dc:subject>fogság</dc:subject>
         <dc:subject>gasztronómia</dc:subject>
-        <dc:subject>házasság</dc:subject>
+        <dc:subject>Házasság</dc:subject>
         <dc:subject>katasztrófa</dc:subject>
         <dc:subject>kortárs</dc:subject>
         <dc:subject>magyar</dc:subject>
@@ -26,11 +26,10 @@
         <dc:subject>Svájc</dc:subject>
         <dc:subject>társadalomtudomány</dc:subject>
         <dc:subject>természet</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Kepes, András&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2020-12-26T18:48:43+00:00"/>
         <meta name="calibre:title_sort" content="Istenek és emberek"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

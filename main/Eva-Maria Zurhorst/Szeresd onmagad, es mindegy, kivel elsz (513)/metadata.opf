@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">4c01f5e6-346a-42a1-b10b-e28d96632ea4</dc:identifier>
         <dc:title>Szeresd önmagad, és mindegy, kivel élsz</dc:title>
         <dc:creator opf:file-as="Zurhorst, Eva-Maria" opf:role="aut">Eva-Maria Zurhorst</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;„Ne ​adja fel! Tudom, hogy lehetséges. Tudom, hogy a kapcsolatai pontosan olyanná válhat, amilyenre mindig is vágyott. A sors most a kezébe adta ezt a könyvet, mely szenvedélyes védőbeszéd a házasság mellett, és csábító felhívás a párkapcsolat kalandjára. A jelenlegi kapcsolata a lehető legjobb az Ön számára – tehát használja ki! A legtöbb válás felesleges.” Eva-Maria Zurhorst&lt;br&gt;Az elmúlt időszak egyik legnagyobb német könyvsikerének írója alapjaiban rázza meg párkapcsolatainkról kialakított nézeteinket. Provokáló, de optimizmust sugalló kijelentéseivel korábbi viselkedésmintáink feladására biztat. Modern társadalmunkban a vásárlás, a fogyasztás és a feleslegessé vált tárgyak kidobása határozza meg napjainkat. Sajnos, ez a hozzáállás kapcsolatainkra is rányomta a bélyegét: A nem megfelelő dolgokat azonnal le kell cserélni – adott esetben a párunkat is. A házasságoknak egyre nagyobb része végződik válással, és teljesen természetesnek tekinthető, ha valaki kétszer vagy többször áll az anyakönyvvezető elé.&lt;br&gt;Mindenki arra vágyik, hogy a legjobbat kapja, és ezzel gyakran együttjár az az illúzió is, hogy ez fáradság nélkül is bekövetkezhet. Minél könnyebben, minél gyorsabban akarjuk elérni céljainkat, és ha a párkapcsolatunk nem úgy működik, ahogy mi szeretnénk, új társat keresünk. Hamis illúzió abban bízni, hogy a következő partnerrel majd minden más lesz – anélkül, hogy mi magunk változnánk.&lt;br&gt;Ha elegendő bátorság van bennünk ahhoz, hogy gyökeresen megváltoztassuk szemléletmódunkat, nagy valószínűséggel be fogjuk látni: nem a társunk az oka a problémáinknak. Pontosan ott van nagyon sok tennivalónk, ahol a legnagyobb fájdalmat, gyűlöletet, sérüléseket, hidegséget, dermedtséget vagy ellenszenvet érezzük. Ezt a munkát pedig önmagunkon kell elvégeznünk, hogy házasságunk vagy párkapcsolatunk a valódi gyógyulás és szeretet színterévé váljon.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -13,7 +13,7 @@
         <dc:identifier opf:scheme="ISBN">9789632911106</dc:identifier>
         <dc:identifier opf:scheme="MOLY_HU">eva-maria-zurhorst-szeresd-onmagad-es-mindegy-kivel-elsz</dc:identifier>
         <dc:language>hun</dc:language>
-        <dc:subject>házasság</dc:subject>
+        <dc:subject>Házasság</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>német szerző</dc:subject>
         <dc:subject>önsegítő</dc:subject>
@@ -21,11 +21,10 @@
         <dc:subject>önfejlesztés</dc:subject>
         <dc:subject>önismeret</dc:subject>
         <dc:subject>párkapcsolat</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Eva-Maria Zurhorst&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2013-06-04T20:30:20+00:00"/>
         <meta name="calibre:title_sort" content="Szeresd önmagad, és mindegy, kivel élsz"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

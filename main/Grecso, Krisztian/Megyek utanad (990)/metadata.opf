@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9990aa28-6ce8-4c5c-8b3a-c464c6c947f3</dc:identifier>
         <dc:title>Megyek utánad</dc:title>
         <dc:creator opf:file-as="Grecsó, Krisztián" opf:role="aut">Grecsó, Krisztián</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-02-19T00:00:00+00:00</dc:date>
         <dc:description>„Hogy lehet gondolkodni, ha szép lányok jönnek?”
 Elfeledett, rejtőzködő utak hálózzák be a fülledt alföldi falu földjeit, ahol Daru, a kamaszodó fiú küzd bandavezéri pozíciójáért, az önbecsülésért és szerelemért: egyszóval az életéért. Ha ő nem menne végig ezeken az ösvényeken, elkopnának, beleolvadnának a határba, megszűnne valami hallatlanul fontos, és az emlékezet jóvátehetetlenül megsérülne. Daru élete, sorsa is ilyen: makacsul járja az érzelmek elágazó csapásait, múltban és jövőben, közben mindegyik kapcsolatában elveszít magából valamit, mindegyikbe belehal egy kicsit. Így válik felnőtté. A sebek, varratok és hegek sokasodnak, szíve talán kérgesebb lesz, de a legutolsó, okos és érett viszonyban is ugyanaz a szenvedély izzik, mint a legelsőben.
@@ -27,17 +27,16 @@ Hogyan is lehetne jobban elmesélni egy ember életét, ha nem a szerelmei tört
         <dc:subject>kamaszkor</dc:subject>
         <dc:subject>Magyarország</dc:subject>
         <dc:subject>Viharsarok</dc:subject>
-        <dc:subject>nők</dc:subject>
+        <dc:subject>Nők</dc:subject>
         <dc:subject>magyar szerző</dc:subject>
         <dc:subject>kollégium</dc:subject>
         <dc:subject>Irodalom</dc:subject>
         <dc:subject>kortárs</dc:subject>
         <dc:subject>Csongrád megye</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Grecsó, Krisztián&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2016-05-25T07:41:16+00:00"/>
         <meta name="calibre:title_sort" content="Megyek utánad"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

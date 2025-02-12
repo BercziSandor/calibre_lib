@@ -13,6 +13,14 @@
   "check_library_ignore_names": "",
   "gui_view_history": [
     [
+      1843,
+      "Csal\u00e1dszociol\u00f3gia"
+    ],
+    [
+      1842,
+      "\u00c9LET M\u00f3dszer I: Az \u00e9leted meg\u00e9rt\u00e9s\u00e9nek k\u00f6nyve, \u00fatmutat\u00f3 a lelki rezg\u00e9sszinted emel\u00e9s\u00e9hez"
+    ],
+    [
       1518,
       "Mened\u00e9k"
     ],
@@ -63,14 +71,6 @@
     [
       1431,
       "Coraline"
-    ],
-    [
-      1810,
-      "The graveyard book"
-    ],
-    [
-      1809,
-      "American Gods"
     ]
   ],
   "plugboards": {},
@@ -970,7 +970,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1720467062.7369118,
+  "last_expired_trash_at": 1727791729.8372903,
   "virtual_libraries": {
     "kutya": "tags:\"=kutya\""
   }
