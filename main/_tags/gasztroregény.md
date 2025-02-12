@@ -1,6 +1,5 @@
 # gasztroregény
 
-- Anna Karády: A múlt tengerén [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1848)
 - Joanne Fluke: Áfonyás muffin és gyilkosság [részletek](../_details/Joanne%20Fluke.md#id_622)
 - Joanne Fluke: Almás levél és gyilkosság [részletek](../_details/Joanne%20Fluke.md#id_1840)
 - Joanne Fluke: Csokis tündértorta és gyilkosság [részletek](../_details/Joanne%20Fluke.md#id_624)
@@ -8,3 +7,4 @@
 - Joanne Fluke: Pikáns meglepetés és gyilkosság [részletek](../_details/Joanne%20Fluke.md#id_623)
 - Joanne Harris: Ötnegyed narancs [részletek](../_details/Joanne%20Harris.md#id_1123)
 - Joanne Harris: Szederbor [részletek](../_details/Joanne%20Harris.md#id_1127)
+- Karády, Anna: A múlt tengerén [részletek](../_details/Kar%C3%A1dy%2C%20Anna.md#id_1848)

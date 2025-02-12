@@ -1,7 +1,6 @@
 # időutazás
 
 - Aaron F. Loacher: Időjárőr [részletek](../_details/Aaron%20F.%20Loacher.md#id_999)
-- Anna Karády: A füredi lány [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1846)
 - Asimov, Isaac: Halálos ítélet [részletek](../_details/Asimov%2C%20Isaac.md#id_1176)
 - Asimov, Isaac: Kavics az égben [részletek](../_details/Asimov%2C%20Isaac.md#id_1177)
 - David Mitchell: Felhőatlasz [részletek](../_details/David%20Mitchell.md#id_454)
@@ -9,6 +8,7 @@
 - Elizabeth Hand: 12 majom [részletek](../_details/Elizabeth%20Hand.md#id_779)
 - J. K. Rowling: Harry Potter és az elátkozott gyermek [részletek](../_details/J.%20K.%20Rowling.md#id_1459)
 - Jostein Gaarder: Anna világa [részletek](../_details/Jostein%20Gaarder.md#id_1411)
+- Karády, Anna: A füredi lány [részletek](../_details/Kar%C3%A1dy%2C%20Anna.md#id_1846)
 - Michael Crichton: Idővonal [részletek](../_details/Michael%20Crichton.md#id_754)
 - Nick Hornby: Betoncsók [részletek](../_details/Nick%20Hornby.md#id_708)
 - Stephen King: 11/22/63 [részletek](../_details/Stephen%20King.md#id_523)

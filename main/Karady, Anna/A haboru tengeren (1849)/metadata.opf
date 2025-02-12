@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1849</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">418d9769-84fc-432e-bf6e-a970c4476bc8</dc:identifier>
+        <dc:title>A háború tengerén</dc:title>
+        <dc:creator opf:file-as="Karády, Anna" opf:role="aut">Karády, Anna</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-10-14T23:00:00+00:00</dc:date>
+        <dc:description>1910-es évek, Adria - Európa a Nagy Háború felé tart.
+Az abbáziai Gerbeaud cukrászdában dolgozó Szépkúti Blanka és báró Hollósy Ármin számára még sok meglepetést tartogat az élet. A háború előszobájában született szerelemre megpróbáltatások sora vár. A haditengerészeti mozgosítási parancs kirángatja a szerelmeseket az adriai szigetvilág édenkertjéből. A tengerésztisztet arra nevelték, hogy a kötelesség még az életnél is előbbre valóbb. A nem várt események összezúzzák az álmaikat. Hogyan változtatja meg a háború a szerelmesek életét? Vajon otthonra talál a Zserbó-kisasszony a tenger partján? A századelőn játszódó történelmi romantikus regényben betekintést nyerhetünk a tengeri kikötők, világot járt tengerészek különös életébe, majd a huszadik század hajnalának legtündökölőbb éveit követően az Adria megmutatja viharosabb arcát is. Megindító történet szerelemről, magányról, vágyról, és a reményről. Azok vagyunk, akinek születtünk? Vagy inkább az határoz meg minket, hogy életünk során kikkel találkozunk? Karády Anna, a népszerű A füredi lány-trilógia írója, ezúttal a tengerészet lovagkorába repíti az olvasókat. A Zserbó folytatásában életre kel az Osztrák-Magyar Monarchia császári és királyi haditengerészete és megismerhetjük Őfelsége Zenta hadihajójának szívszorító történetét is.</dc:description>
+        <dc:publisher>Gamma Kiadó</dc:publisher>
+        <dc:language>hun</dc:language>
+        <meta name="calibre:series" content="Zserbó"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2025-02-12T14:22:21+00:00"/>
+        <meta name="calibre:title_sort" content="háború tengerén, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

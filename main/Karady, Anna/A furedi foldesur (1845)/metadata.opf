@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1845</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ba1b46e-4e7d-4780-8e9a-5f41f53b06f2</dc:identifier>
+        <dc:title>A füredi földesúr</dc:title>
+        <dc:creator opf:file-as="Karády, Anna" opf:role="aut">Karády, Anna</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-10T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Te meddig mennél el, hogy megvédd azt, akit a legjobban szeretsz? &lt;/p&gt;
+&lt;p&gt;257 éves szerelem... &lt;/p&gt;
+&lt;p&gt;1764, Füred.&lt;br&gt;Azt mondják, léteznek sorsfordító találkozások: Anna, a nincstelen fiatalasszony felforgatja a gazdag, kálvinista nemesi família életét kevesebb mint fél esztendő alatt. A füredi földesúr - Oroszy Mihály - katolikus hitre tér és megházasodik. Elvégre a szerelem mindent legyőz... &lt;/p&gt;
+&lt;p&gt;A mesékben a szerelmespár boldogan él, míg meg nem hal; de az élet nem tündérmese...&lt;br&gt;Könnyek és viharok nélkül nincs házasság; a hitvesi ágy - különösen egy földesúré - nem csak mámort tartogat.&lt;br&gt;A zárt ajtók titkot őriznek - nem is akármekkorát -, hiszen Anna a XX. században született. Boszorkány vagy időutazó? &lt;/p&gt;
+&lt;p&gt;Házasságukban világok ütköznek, szerelmük fájdalmas áldozatokat követel. Vajon létezik-e jövő azok számára, akiket az idő szétválaszt? A végzet jéghideg közönnyel rövidre szabta közös életüket, a földesúr azonban nem nyugszik bele a sors ítéletébe, más utat választ. &lt;/p&gt;
+&lt;p&gt;Karády Anna új regényében, amely A füredi lány önálló kötetként is olvasható folytatása, bepillantást nyerhetünk a XVIII. századi nemesek kiváltságos világába, a szemünk előtt elevenedik meg egy földesúr hétköznapi élete és egy nem hétköznapi szerelem megrendítő története.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Álomgyár</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789635700752</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">963570075X</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">karady-anna-a-furedi-foldesur</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">57202950</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Historical</dc:subject>
+        <meta name="calibre:series" content="A füredi lány"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2025-02-12T14:15:22+00:00"/>
+        <meta name="calibre:title_sort" content="füredi földesúr, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

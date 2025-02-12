@@ -1,7 +1,6 @@
 # utazás
 
 - Alex Garland: A Part [részletek](../_details/Alex%20Garland.md#id_1269)
-- Anna Karády: A múlt tengerén [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1848)
 - Berg, Judit: Rumini és a négy jogar [részletek](../_details/Berg%2C%20Judit.md#id_570)
 - Erlend Loe: Naiv.Szuper. [részletek](../_details/Erlend%20Loe.md#id_532)
 - Fable, Vavyan: Álmok Tengere [részletek](../_details/Fable%2C%20Vavyan.md#id_177)
@@ -10,6 +9,7 @@
 - Frank W. Abagnale: Kapj el, ha tudsz [részletek](../_details/Frank%20W.%20Abagnale.md#id_669)
 - Henryk Sienkiewicz: Sivatagon és vadonban [részletek](../_details/Henryk%20Sienkiewicz.md#id_382)
 - J. R. R. Tolkien: A hobbit [részletek](../_details/J.%20R.%20R.%20Tolkien.md#id_61)
+- Karády, Anna: A múlt tengerén [részletek](../_details/Kar%C3%A1dy%2C%20Anna.md#id_1848)
 - Michael Ende: Momo [részletek](../_details/Michael%20Ende.md#id_1430)
 - Patrick Rothfuss: A bölcs ember félelme [részletek](../_details/Patrick%20Rothfuss.md#id_1029)
 - Patrick Süskind: A parfüm [részletek](../_details/Patrick%20S%C3%BCskind.md#id_408)

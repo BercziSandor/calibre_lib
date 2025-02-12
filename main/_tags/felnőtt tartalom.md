@@ -1,12 +1,12 @@
 # felnőtt tartalom
 
-- Anna Karády: A kegyúr [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1850)
 - Bohumil Hrabal: Gyöngéd barbárok [részletek](../_details/Bohumil%20Hrabal.md#id_443)
 - Bohumil Hrabal: Őfelsége pincére voltam [részletek](../_details/Bohumil%20Hrabal.md#id_446)
 - Bret Easton Ellis: Amerikai psycho [részletek](../_details/Bret%20Easton%20Ellis.md#id_1446)
 - Chuck Palahniuk: Cigányút [részletek](../_details/Chuck%20Palahniuk.md#id_662)
 - Chuck Palahniuk: Harcosok klubja [részletek](../_details/Chuck%20Palahniuk.md#id_660)
 - George R. R. Martin: Királyok csatája [részletek](../_details/George%20R.%20R.%20Martin.md#id_418)
+- Karády, Anna: A kegyúr [részletek](../_details/Kar%C3%A1dy%2C%20Anna.md#id_1850)
 - Laura D.: Szex és tandíj [részletek](../_details/Laura%20D..md#id_904)
 - Maya Banks: Vénuszdombi mesék [részletek](../_details/Maya%20Banks.md#id_285)
 - Michael Crichton: Ködsárkányok [részletek](../_details/Michael%20Crichton.md#id_755)

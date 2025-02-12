@@ -1,6 +1,5 @@
 # igaz történet alapján
 
-- Anna Karády: A kegyúr [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1850)
 - Arthur Golden: Egy gésa emlékiratai [részletek](../_details/Arthur%20Golden.md#id_280)
 - Erich Maria Remarque: Nyugaton a helyzet változatlan [részletek](../_details/Erich%20Maria%20Remarque.md#id_317)
 - Frank W. Abagnale: Kapj el, ha tudsz [részletek](../_details/Frank%20W.%20Abagnale.md#id_669)
@@ -13,6 +12,7 @@
 - Hyeonseo Lee: A lány hét névvel [részletek](../_details/Hyeonseo%20Lee.md#id_988)
 - James Herriot: A repülő állatorvos [részletek](../_details/James%20Herriot.md#id_929)
 - Jon Krakauer: Út a vadonba [részletek](../_details/Jon%20Krakauer.md#id_797)
+- Karády, Anna: A kegyúr [részletek](../_details/Kar%C3%A1dy%2C%20Anna.md#id_1850)
 - Thomas Keneally: Schindler listája [részletek](../_details/Thomas%20Keneally.md#id_318)
 - Konrad Lorenz: Ember és kutya [részletek](../_details/Konrad%20Lorenz.md#id_474)
 - Králig, Helga: Állati egypercesek [részletek](../_details/Kr%C3%A1lig%2C%20Helga.md#id_928)

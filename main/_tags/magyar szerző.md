@@ -2,8 +2,6 @@
 
 - Mór Bán: Lillafüredi karácsony [részletek](../_details/M%C3%B3r%20B%C3%A1n.md#id_1844)
 - Aaron F. Loacher: Időjárőr [részletek](../_details/Aaron%20F.%20Loacher.md#id_999)
-- Anna Karády: A kegyúr [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1850)
-- Anna Karády: A múlt tengerén [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1848)
 - Antal, Balázs: Öreg [részletek](../_details/Antal%2C%20Bal%C3%A1zs.md#id_1203)
 - Árpa Attila: Ha én ezt a klubról egyszer elmesélem [részletek](../_details/%C3%81rpa%20Attila.md#id_517)
 - Bálint, Ágnes: Az elvarázsolt egérkisasszony [részletek](../_details/B%C3%A1lint%2C%20%C3%81gnes.md#id_534)
@@ -102,6 +100,8 @@
 - Imre, Viktória Anna: Kísértés Rt. [részletek](../_details/Imre%2C%20Vikt%C3%B3ria%20Anna.md#id_632)
 - Jean-Pierre Montcassen: A sivatag hercegnője [részletek](../_details/Jean-Pierre%20Montcassen.md#id_627)
 - John Cure: A gonosz új arca [részletek](../_details/John%20Cure.md#id_956)
+- Karády, Anna: A kegyúr [részletek](../_details/Kar%C3%A1dy%2C%20Anna.md#id_1850)
+- Karády, Anna: A múlt tengerén [részletek](../_details/Kar%C3%A1dy%2C%20Anna.md#id_1848)
 - Kárpáti, Andor: Kurvajó! [részletek](../_details/K%C3%A1rp%C3%A1ti%2C%20Andor.md#id_670)
 - Kepes, András: Istenek és emberek [részletek](../_details/Kepes%2C%20Andr%C3%A1s.md#id_1232)
 - Kepes, András: Tövispuszta [részletek](../_details/Kepes%2C%20Andr%C3%A1s.md#id_109)

@@ -1,8 +1,6 @@
 # Magyarország
 
 - Mór Bán: Lillafüredi karácsony [részletek](../_details/M%C3%B3r%20B%C3%A1n.md#id_1844)
-- Anna Karády: A kegyúr [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1850)
-- Anna Karády: A múlt tengerén [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1848)
 - Bálint, Ágnes: Szeleburdi család [részletek](../_details/B%C3%A1lint%2C%20%C3%81gnes.md#id_161)
 - Csáki, Judit: Alföldi Róbert Magánügy [részletek](../_details/Cs%C3%A1ki%2C%20Judit.md#id_961)
 - Csukás, István: Vakáció a halott utcában [részletek](../_details/Csuk%C3%A1s%2C%20Istv%C3%A1n.md#id_1412)
@@ -13,6 +11,8 @@
 - Grecsó, Krisztián: Megyek utánad [részletek](../_details/Grecs%C3%B3%2C%20Kriszti%C3%A1n.md#id_1230)
 - Grecsó, Krisztián: Megyek utánad [részletek](../_details/Grecs%C3%B3%2C%20Kriszti%C3%A1n.md#id_990)
 - Hamvas Béla: A bor filozófiája [részletek](../_details/Hamvas%20B%C3%A9la.md#id_776)
+- Karády, Anna: A kegyúr [részletek](../_details/Kar%C3%A1dy%2C%20Anna.md#id_1850)
+- Karády, Anna: A múlt tengerén [részletek](../_details/Kar%C3%A1dy%2C%20Anna.md#id_1848)
 - Kondor, Vilmos: A bűntől keletre [részletek](../_details/Kondor%2C%20Vilmos.md#id_980)
 - Kordos, Szabolcs: Luxushotel, Hungary [részletek](../_details/Kordos%2C%20Szabolcs.md#id_159)
 - Leiner, Laura: Bábel [részletek](../_details/Leiner%2C%20Laura.md#id_644)

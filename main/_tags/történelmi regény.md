@@ -1,6 +1,5 @@
 # történelmi regény
 
-- Anna Karády: A kegyúr [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1850)
 - Böszörményi, Gyula: Ármány ​és kézfogó [részletek](../_details/B%C3%B6sz%C3%B6rm%C3%A9nyi%2C%20Gyula.md#id_1565)
 - Böszörményi Gyula: Bitó és borostyán [részletek](../_details/B%C3%B6sz%C3%B6rm%C3%A9nyi%20Gyula.md#id_1578)
 - Celia Rees: Bűbájos Mary [részletek](../_details/Celia%20Rees.md#id_979)
@@ -12,6 +11,7 @@
 - Henryk Sienkiewicz: Quo vadis? [részletek](../_details/Henryk%20Sienkiewicz.md#id_386)
 - Jean-Pierre Montcassen: A sivatag hercegnője [részletek](../_details/Jean-Pierre%20Montcassen.md#id_627)
 - Joanne Harris: Ötnegyed narancs [részletek](../_details/Joanne%20Harris.md#id_1123)
+- Karády, Anna: A kegyúr [részletek](../_details/Kar%C3%A1dy%2C%20Anna.md#id_1850)
 - Thomas Keneally: Schindler listája [részletek](../_details/Thomas%20Keneally.md#id_318)
 - Vonnegut, Kurt: Míg a halandók alszanak [részletek](../_details/Vonnegut%2C%20Kurt.md#id_1617)
 - Majtényi, Zoltán: A furfangos Thyl [részletek](../_details/Majt%C3%A9nyi%2C%20Zolt%C3%A1n.md#id_998)

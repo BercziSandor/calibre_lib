@@ -1,11 +1,11 @@
 # vallás
 
-- Anna Karády: A kegyúr [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1850)
 - Dmitry Glukhovsky: Metró 2033 [részletek](../_details/Dmitry%20Glukhovsky.md#id_482)
 - Gárdonyi, Géza: Isten rabjai [részletek](../_details/G%C3%A1rdonyi%2C%20G%C3%A9za.md#id_619)
 - Hamvas Béla: A bor filozófiája [részletek](../_details/Hamvas%20B%C3%A9la.md#id_776)
 - Hamvas Béla: Scientia sacra [részletek](../_details/Hamvas%20B%C3%A9la.md#id_777)
 - Joanne Harris: Szent bolondok [részletek](../_details/Joanne%20Harris.md#id_1120)
+- Karády, Anna: A kegyúr [részletek](../_details/Kar%C3%A1dy%2C%20Anna.md#id_1850)
 - Léo Taxil: A szórakoztató Biblia [részletek](../_details/L%C3%A9o%20Taxil.md#id_950)
 - Michael Moorcock: Harcikutya [részletek](../_details/Michael%20Moorcock.md#id_525)
 - Moldova, György: Negyven prédikátor [részletek](../_details/Moldova%2C%20Gy%C3%B6rgy.md#id_1405)
