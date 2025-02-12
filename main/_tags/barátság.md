@@ -4,6 +4,7 @@
 - Anna Gavalda: Együtt lehetnénk [részletek](../_details/Anna%20Gavalda.md#id_1306)
 - Anna Gavalda: Életre kelni [részletek](../_details/Anna%20Gavalda.md#id_1303)
 - Anna Gavalda: Vigaszág [részletek](../_details/Anna%20Gavalda.md#id_15)
+- Anna Karády: A múlt tengerén [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1848)
 - Arthur Ransome: Téli szünidő [részletek](../_details/Arthur%20Ransome.md#id_429)
 - Bálint, Ágnes: Szeleburdi család [részletek](../_details/B%C3%A1lint%2C%20%C3%81gnes.md#id_161)
 - Cassandra Clare: Az angyal [részletek](../_details/Cassandra%20Clare.md#id_640)

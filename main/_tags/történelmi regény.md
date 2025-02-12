@@ -1,5 +1,6 @@
 # történelmi regény
 
+- Anna Karády: A kegyúr [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1850)
 - Böszörményi, Gyula: Ármány ​és kézfogó [részletek](../_details/B%C3%B6sz%C3%B6rm%C3%A9nyi%2C%20Gyula.md#id_1565)
 - Böszörményi Gyula: Bitó és borostyán [részletek](../_details/B%C3%B6sz%C3%B6rm%C3%A9nyi%20Gyula.md#id_1578)
 - Celia Rees: Bűbájos Mary [részletek](../_details/Celia%20Rees.md#id_979)

@@ -1,5 +1,6 @@
 # hajózás
 
+- Anna Karády: A múlt tengerén [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1848)
 - Arthur Ransome: Fecske-völgy [részletek](../_details/Arthur%20Ransome.md#id_422)
 - Arthur Ransome: Nem akartunk tengerre szállni [részletek](../_details/Arthur%20Ransome.md#id_430)
 - Hegedűs, Hubert: Matrózéveim [részletek](../_details/Heged%C5%B1s%2C%20Hubert.md#id_160)

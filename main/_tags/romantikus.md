@@ -1,9 +1,13 @@
 # romantikus
 
+- Mór Bán: Lillafüredi karácsony [részletek](../_details/M%C3%B3r%20B%C3%A1n.md#id_1844)
 - Akunyin, Borisz: Színház ​az egész világ [részletek](../_details/Akunyin%2C%20Borisz.md#id_1107)
 - Anna Gavalda: Együtt lehetnénk [részletek](../_details/Anna%20Gavalda.md#id_1306)
 - Anna Gavalda: Szerettem őt [részletek](../_details/Anna%20Gavalda.md#id_1304)
 - Anna Gavalda: Vigaszág [részletek](../_details/Anna%20Gavalda.md#id_15)
+- Anna Karády: A füredi lány [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1846)
+- Anna Karády: A kegyúr [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1850)
+- Anna Karády: A múlt tengerén [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1848)
 - Arthur Golden: Egy gésa emlékiratai [részletek](../_details/Arthur%20Golden.md#id_280)
 - Aszlányi, Károly: Sok hűhó Emmiért [részletek](../_details/Aszl%C3%A1nyi%2C%20K%C3%A1roly.md#id_853)
 - Bertrice Small: Titkos örömök [részletek](../_details/Bertrice%20Small.md#id_769)

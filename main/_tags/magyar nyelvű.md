@@ -53,6 +53,7 @@
 - Anna Gavalda: Szerettem őt [részletek](../_details/Anna%20Gavalda.md#id_1304)
 - Anna Gavalda: Vigaszág [részletek](../_details/Anna%20Gavalda.md#id_15)
 - Anna Karády: A kegyúr [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1850)
+- Anna Karády: A múlt tengerén [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1848)
 - Anne Holt: 1222 [részletek](../_details/Anne%20Holt.md#id_958)
 - Antal, Balázs: Öreg [részletek](../_details/Antal%2C%20Bal%C3%A1zs.md#id_1203)
 - Arne Dahl: Misterioso [részletek](../_details/Arne%20Dahl.md#id_1667)

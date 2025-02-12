@@ -31,6 +31,7 @@
 - Alexander McCall Smith: Kalahári gépíróiskola férfiak részére [részletek](../_details/Alexander%20McCall%20Smith.md#id_919)
 - Alexander McCall Smith: Zsiráfkönnyek [részletek](../_details/Alexander%20McCall%20Smith.md#id_920)
 - Andrea Schacht: A sötét tükör [részletek](../_details/Andrea%20Schacht.md#id_951)
+- Anna Karády: A múlt tengerén [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1848)
 - Arne Dahl: Misterioso [részletek](../_details/Arne%20Dahl.md#id_1667)
 - Arne Dahl: Rossz vér [részletek](../_details/Arne%20Dahl.md#id_1668)
 - Arthur Ransome: A kincskeresők [részletek](../_details/Arthur%20Ransome.md#id_423)

@@ -13,6 +13,10 @@
   "check_library_ignore_names": "",
   "gui_view_history": [
     [
+      1845,
+      "A f\u00fcredi f\u00f6ldes\u00far"
+    ],
+    [
       1843,
       "Csal\u00e1dszociol\u00f3gia"
     ],
@@ -67,10 +71,6 @@
     [
       1425,
       "Rumini 3"
-    ],
-    [
-      1431,
-      "Coraline"
     ]
   ],
   "plugboards": {},
@@ -970,7 +970,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1727791729.8372903,
+  "last_expired_trash_at": 1739369526.5468483,
   "virtual_libraries": {
     "kutya": "tags:\"=kutya\""
   }

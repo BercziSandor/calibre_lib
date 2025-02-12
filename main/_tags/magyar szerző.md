@@ -3,6 +3,7 @@
 - Mór Bán: Lillafüredi karácsony [részletek](../_details/M%C3%B3r%20B%C3%A1n.md#id_1844)
 - Aaron F. Loacher: Időjárőr [részletek](../_details/Aaron%20F.%20Loacher.md#id_999)
 - Anna Karády: A kegyúr [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1850)
+- Anna Karády: A múlt tengerén [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1848)
 - Antal, Balázs: Öreg [részletek](../_details/Antal%2C%20Bal%C3%A1zs.md#id_1203)
 - Árpa Attila: Ha én ezt a klubról egyszer elmesélem [részletek](../_details/%C3%81rpa%20Attila.md#id_517)
 - Bálint, Ágnes: Az elvarázsolt egérkisasszony [részletek](../_details/B%C3%A1lint%2C%20%C3%81gnes.md#id_534)

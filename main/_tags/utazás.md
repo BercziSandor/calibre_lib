@@ -1,6 +1,7 @@
 # utazás
 
 - Alex Garland: A Part [részletek](../_details/Alex%20Garland.md#id_1269)
+- Anna Karády: A múlt tengerén [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1848)
 - Berg, Judit: Rumini és a négy jogar [részletek](../_details/Berg%2C%20Judit.md#id_570)
 - Erlend Loe: Naiv.Szuper. [részletek](../_details/Erlend%20Loe.md#id_532)
 - Fable, Vavyan: Álmok Tengere [részletek](../_details/Fable%2C%20Vavyan.md#id_177)

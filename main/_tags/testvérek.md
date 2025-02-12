@@ -1,6 +1,7 @@
 # testvérek
 
 - Anna Gavalda: Kis kiruccanás [részletek](../_details/Anna%20Gavalda.md#id_1427)
+- Anna Karády: A kegyúr [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1850)
 - Cassandra Clare: Elveszett lelkek városa [részletek](../_details/Cassandra%20Clare.md#id_639)
 - Cassandra Clare: Hamuváros [részletek](../_details/Cassandra%20Clare.md#id_636)
 - Cassandra Clare: Üvegváros [részletek](../_details/Cassandra%20Clare.md#id_637)

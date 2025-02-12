@@ -1,9 +1,11 @@
 # női főszereplő
 
+- Mór Bán: Lillafüredi karácsony [részletek](../_details/M%C3%B3r%20B%C3%A1n.md#id_1844)
 - Agatha Christie: Eljöttek Bagdadba [részletek](../_details/Agatha%20Christie.md#id_65)
 - Alexander McCall Smith: Az első női detektív iroda [részletek](../_details/Alexander%20McCall%20Smith.md#id_921)
 - Anna Gavalda: Együtt lehetnénk [részletek](../_details/Anna%20Gavalda.md#id_1306)
 - Anna Gavalda: Életre kelni [részletek](../_details/Anna%20Gavalda.md#id_1303)
+- Anna Karády: A múlt tengerén [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1848)
 - Anne Holt: 1222 [részletek](../_details/Anne%20Holt.md#id_958)
 - Arthur Golden: Egy gésa emlékiratai [részletek](../_details/Arthur%20Golden.md#id_280)
 - Asimov, Isaac: Robotok és Birodalom [részletek](../_details/Asimov%2C%20Isaac.md#id_1173)

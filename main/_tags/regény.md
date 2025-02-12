@@ -1,5 +1,6 @@
 # regény
 
+- Mór Bán: Lillafüredi karácsony [részletek](../_details/M%C3%B3r%20B%C3%A1n.md#id_1844)
 - A. G. Hawk: Időtlenségbe zárva [részletek](../_details/A.%20G.%20Hawk.md#id_949)
 - Abe Kóbó: A negyedik jégkorszak [részletek](../_details/Abe%20K%C3%B3b%C3%B3.md#id_948)
 - Agatha Christie: A ferde ház [részletek](../_details/Agatha%20Christie.md#id_64)
@@ -49,6 +50,8 @@
 - Anna Gavalda: Kis kiruccanás [részletek](../_details/Anna%20Gavalda.md#id_1427)
 - Anna Gavalda: Szerettem őt [részletek](../_details/Anna%20Gavalda.md#id_1304)
 - Anna Gavalda: Vigaszág [részletek](../_details/Anna%20Gavalda.md#id_15)
+- Anna Karády: A kegyúr [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1850)
+- Anna Karády: A múlt tengerén [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1848)
 - Anne Holt: 1222 [részletek](../_details/Anne%20Holt.md#id_958)
 - Anthony E. Zuiker: 26 – sötét kezdetek [részletek](../_details/Anthony%20E.%20Zuiker.md#id_666)
 - Arthur Golden: Egy gésa emlékiratai [részletek](../_details/Arthur%20Golden.md#id_280)
