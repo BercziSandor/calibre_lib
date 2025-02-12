@@ -1,8 +1,9 @@
-# házasság
+# Házasság
 
 - Anna Gavalda: Életre kelni [részletek](../_details/Anna%20Gavalda.md#id_1303)
 - Anna Gavalda: Szerettem őt [részletek](../_details/Anna%20Gavalda.md#id_1304)
 - Bohumil Hrabal: Sörgyári capriccio [részletek](../_details/Bohumil%20Hrabal.md#id_448)
+- Czibere Ibolya (szerk.): Családszociológia [részletek](../_details/Czibere%20Ibolya%20%28szerk.%29.md#id_1843)
 - Elizabeth Gilbert: Ízek, imák, szerelmek [részletek](../_details/Elizabeth%20Gilbert.md#id_802)
 - Eric Berne: Emberi játszmák [részletek](../_details/Eric%20Berne.md#id_291)
 - Eva-Maria Zurhorst: Szeresd önmagad, és mindegy, kivel élsz [részletek](../_details/Eva-Maria%20Zurhorst.md#id_513)

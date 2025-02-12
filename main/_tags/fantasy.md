@@ -1,6 +1,7 @@
 # Fantasy
 
 - A. G. Hawk: Időtlenségbe zárva [részletek](../_details/A.%20G.%20Hawk.md#id_949)
+- Anna Karády: A füredi lány [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1846)
 - Böszörményi, Gyula: Rúvel hegyi legenda [részletek](../_details/B%C3%B6sz%C3%B6rm%C3%A9nyi%2C%20Gyula.md#id_1589)
 - Cassandra Clare: Az angyal [részletek](../_details/Cassandra%20Clare.md#id_640)
 - Cassandra Clare: Bukott angyalok városa [részletek](../_details/Cassandra%20Clare.md#id_638)

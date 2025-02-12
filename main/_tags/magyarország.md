@@ -1,5 +1,7 @@
 # Magyarország
 
+- Mór Bán: Lillafüredi karácsony [részletek](../_details/M%C3%B3r%20B%C3%A1n.md#id_1844)
+- Anna Karády: A kegyúr [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1850)
 - Bálint, Ágnes: Szeleburdi család [részletek](../_details/B%C3%A1lint%2C%20%C3%81gnes.md#id_161)
 - Csáki, Judit: Alföldi Róbert Magánügy [részletek](../_details/Cs%C3%A1ki%2C%20Judit.md#id_961)
 - Csukás, István: Vakáció a halott utcában [részletek](../_details/Csuk%C3%A1s%2C%20Istv%C3%A1n.md#id_1412)

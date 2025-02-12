@@ -1,6 +1,7 @@
 # időutazás
 
 - Aaron F. Loacher: Időjárőr [részletek](../_details/Aaron%20F.%20Loacher.md#id_999)
+- Anna Karády: A füredi lány [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1846)
 - Asimov, Isaac: Halálos ítélet [részletek](../_details/Asimov%2C%20Isaac.md#id_1176)
 - Asimov, Isaac: Kavics az égben [részletek](../_details/Asimov%2C%20Isaac.md#id_1177)
 - David Mitchell: Felhőatlasz [részletek](../_details/David%20Mitchell.md#id_454)

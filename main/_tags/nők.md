@@ -1,5 +1,6 @@
-# nők
+# Nők
 
+- Czibere Ibolya (szerk.): Családszociológia [részletek](../_details/Czibere%20Ibolya%20%28szerk.%29.md#id_1843)
 - Grecsó, Krisztián: Megyek utánad [részletek](../_details/Grecs%C3%B3%2C%20Kriszti%C3%A1n.md#id_1230)
 - Grecsó, Krisztián: Megyek utánad [részletek](../_details/Grecs%C3%B3%2C%20Kriszti%C3%A1n.md#id_990)
 - Hamvas Béla: A bor filozófiája [részletek](../_details/Hamvas%20B%C3%A9la.md#id_776)

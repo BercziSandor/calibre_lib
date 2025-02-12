@@ -1,5 +1,6 @@
 # kortárs
 
+- Mór Bán: Lillafüredi karácsony [részletek](../_details/M%C3%B3r%20B%C3%A1n.md#id_1844)
 - A. G. Hawk: Időtlenségbe zárva [részletek](../_details/A.%20G.%20Hawk.md#id_949)
 - Abe Kóbó: A negyedik jégkorszak [részletek](../_details/Abe%20K%C3%B3b%C3%B3.md#id_948)
 - Akunyin, Borisz: A ​gyémántszekér I-II. [részletek](../_details/Akunyin%2C%20Borisz.md#id_1110)
@@ -20,6 +21,7 @@
 - Anna Gavalda: Kis kiruccanás [részletek](../_details/Anna%20Gavalda.md#id_1427)
 - Anna Gavalda: Szerettem őt [részletek](../_details/Anna%20Gavalda.md#id_1304)
 - Anna Gavalda: Vigaszág [részletek](../_details/Anna%20Gavalda.md#id_15)
+- Anna Karády: A kegyúr [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1850)
 - Anne Holt: 1222 [részletek](../_details/Anne%20Holt.md#id_958)
 - Antal, Balázs: Öreg [részletek](../_details/Antal%2C%20Bal%C3%A1zs.md#id_1203)
 - Arne Dahl: Misterioso [részletek](../_details/Arne%20Dahl.md#id_1667)

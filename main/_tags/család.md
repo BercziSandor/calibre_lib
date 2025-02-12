@@ -5,6 +5,7 @@
 - Agatha Christie: Paddington 16.50 [részletek](../_details/Agatha%20Christie.md#id_74)
 - Agatha Christie: Temetni veszélyes [részletek](../_details/Agatha%20Christie.md#id_78)
 - Anna Gavalda: Kis kiruccanás [részletek](../_details/Anna%20Gavalda.md#id_1427)
+- Anna Karády: A kegyúr [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1850)
 - Bálint, Ágnes: Szeleburdi család [részletek](../_details/B%C3%A1lint%2C%20%C3%81gnes.md#id_161)
 - David Walliams: Gengszter nagyi [részletek](../_details/David%20Walliams.md#id_1218)
 - Fable, Vavyan: Szennyből az angyal [részletek](../_details/Fable%2C%20Vavyan.md#id_1159)

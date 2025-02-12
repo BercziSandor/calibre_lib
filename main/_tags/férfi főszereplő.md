@@ -6,6 +6,7 @@
 - Agatha Christie: Ház a sziklán [részletek](../_details/Agatha%20Christie.md#id_249)
 - Anna Gavalda: Életre kelni [részletek](../_details/Anna%20Gavalda.md#id_1303)
 - Anna Gavalda: Vigaszág [részletek](../_details/Anna%20Gavalda.md#id_15)
+- Anna Karády: A kegyúr [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1850)
 - Arto Paasilinna: A nyúl éve [részletek](../_details/Arto%20Paasilinna.md#id_634)
 - Asimov, Isaac: Az Alapítvány előtt [részletek](../_details/Asimov%2C%20Isaac.md#id_1183)
 - Bohumil Hrabal: Őfelsége pincére voltam [részletek](../_details/Bohumil%20Hrabal.md#id_446)

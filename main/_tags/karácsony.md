@@ -1,5 +1,6 @@
 # karácsony
 
+- Mór Bán: Lillafüredi karácsony [részletek](../_details/M%C3%B3r%20B%C3%A1n.md#id_1844)
 - Agatha Christie: Tizenhárom rejtély [részletek](../_details/Agatha%20Christie.md#id_259)
 - Erich Kästner: A repülő osztály [részletek](../_details/Erich%20K%C3%A4stner.md#id_964)
 - Fable, Vavyan: Szennyből az angyal [részletek](../_details/Fable%2C%20Vavyan.md#id_1159)

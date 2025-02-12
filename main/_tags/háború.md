@@ -1,5 +1,6 @@
 # háború
 
+- Mór Bán: Lillafüredi karácsony [részletek](../_details/M%C3%B3r%20B%C3%A1n.md#id_1844)
 - Arthur Golden: Egy gésa emlékiratai [részletek](../_details/Arthur%20Golden.md#id_280)
 - Bohumil Hrabal: Szigorúan ellenőrzött vonatok [részletek](../_details/Bohumil%20Hrabal.md#id_449)
 - Cassandra Clare: Üvegváros [részletek](../_details/Cassandra%20Clare.md#id_637)

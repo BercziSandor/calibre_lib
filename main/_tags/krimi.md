@@ -1,5 +1,6 @@
 # krimi
 
+- Mór Bán: Lillafüredi karácsony [részletek](../_details/M%C3%B3r%20B%C3%A1n.md#id_1844)
 - A. G. Hawk: Időtlenségbe zárva [részletek](../_details/A.%20G.%20Hawk.md#id_949)
 - Agatha Christie: A ferde ház [részletek](../_details/Agatha%20Christie.md#id_64)
 - Agatha Christie: A pollensai probléma [részletek](../_details/Agatha%20Christie.md#id_235)

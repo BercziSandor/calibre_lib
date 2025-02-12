@@ -1,5 +1,6 @@
 # Action & Adventure
 
+- Ann Aguirre: The Razorland Trilogy [részletek](../_details/Ann%20Aguirre.md#id_1835)
 - Fable, Vavyan: A Halkirálynő és a dzsinnek [részletek](../_details/Fable%2C%20Vavyan.md#id_173)
 - Fable, Vavyan: A Hold forró jegén [részletek](../_details/Fable%2C%20Vavyan.md#id_175)
 - Fable, Vavyan: A pokol is elnyeli [részletek](../_details/Fable%2C%20Vavyan.md#id_176)

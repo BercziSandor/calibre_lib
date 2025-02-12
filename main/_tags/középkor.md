@@ -1,6 +1,7 @@
 # középkor
 
 - Andrea Schacht: A sötét tükör [részletek](../_details/Andrea%20Schacht.md#id_951)
+- Anna Karády: A kegyúr [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1850)
 - Brian Innes: A kínzás és kínvallatás története [részletek](../_details/Brian%20Innes.md#id_1448)
 - Gárdonyi, Géza: Isten rabjai [részletek](../_details/G%C3%A1rdonyi%2C%20G%C3%A9za.md#id_619)
 - George R. R. Martin: Sárkányok tánca [részletek](../_details/George%20R.%20R.%20Martin.md#id_898)

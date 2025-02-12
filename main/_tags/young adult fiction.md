@@ -1,5 +1,6 @@
 # Young Adult Fiction
 
+- Ann Aguirre: The Razorland Trilogy [részletek](../_details/Ann%20Aguirre.md#id_1835)
 - J. K. Rowling: Harry Potter és az azkabani fogoly [részletek](../_details/J.%20K.%20Rowling.md#id_20)
 - Leiner, Laura: Egyszer [részletek](../_details/Leiner%2C%20Laura.md#id_1480)
 - Leiner, Laura: Higgy nekem [részletek](../_details/Leiner%2C%20Laura.md#id_1479)

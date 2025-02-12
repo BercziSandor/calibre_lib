@@ -1,5 +1,6 @@
 # igaz történet alapján
 
+- Anna Karády: A kegyúr [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1850)
 - Arthur Golden: Egy gésa emlékiratai [részletek](../_details/Arthur%20Golden.md#id_280)
 - Erich Maria Remarque: Nyugaton a helyzet változatlan [részletek](../_details/Erich%20Maria%20Remarque.md#id_317)
 - Frank W. Abagnale: Kapj el, ha tudsz [részletek](../_details/Frank%20W.%20Abagnale.md#id_669)

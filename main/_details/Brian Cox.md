@@ -1,11 +1,10 @@
 <hr/>
 
 # <a name="id_1517">Brian Cox: A természet erői </a>
-<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Brian%20Cox%2C%20Andrew%20Cohen/A%20termeszet%20eroi%20%281517%29/cover.jpg" alt="cover" width="300"/></center>
+<center><img src="https://github.com/BercziSandor/calibre_lib/raw/main/main/Brian%20Cox/A%20termeszet%20eroi%20%281517%29/cover.jpg" alt="cover" width="300"/></center>
 
 ## Letöltés
-[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Brian%20Cox%2C%20Andrew%20Cohen/A%20termeszet%20eroi%20%281517%29/A%20termeszet%20eroi%20-%20Brian%20Cox%2C%20Andrew%20Cohen.epub) 
- [epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Brian%20Cox%2C%20Andrew%20Cohen/A%20termeszet%20eroi%20%281517%29/A%20termeszet%20eroi%20-%20Brian%20Cox.epub)
+[epub](https://github.com/BercziSandor/calibre_lib/raw/main/main/Brian%20Cox/A%20termeszet%20eroi%20%281517%29/A%20termeszet%20eroi%20-%20Brian%20Cox.epub)
 
 ## Tagek
 [csillagászat](https://github.com/berczisandor/calibre_lib/blob/main/main/_tags/csillag%c3%a1szat.md)

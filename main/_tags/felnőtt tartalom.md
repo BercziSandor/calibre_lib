@@ -1,5 +1,6 @@
 # felnőtt tartalom
 
+- Anna Karády: A kegyúr [részletek](../_details/Anna%20Kar%C3%A1dy.md#id_1850)
 - Bohumil Hrabal: Gyöngéd barbárok [részletek](../_details/Bohumil%20Hrabal.md#id_443)
 - Bohumil Hrabal: Őfelsége pincére voltam [részletek](../_details/Bohumil%20Hrabal.md#id_446)
 - Bret Easton Ellis: Amerikai psycho [részletek](../_details/Bret%20Easton%20Ellis.md#id_1446)
