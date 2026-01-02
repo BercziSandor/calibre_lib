@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <opf:metadata>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">279</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">379653f3-5192-4ceb-9b47-59ad81da4fdc</dc:identifier>
         <dc:title>A kígyók városa</dc:title>
         <dc:creator opf:file-as="Shan, Darren" opf:role="aut">Darren Shan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Capac ​Raimi tíz éve a Város kardinálisa. Még az első Kardinális tanította ki, hogy méltó utódjává váljon, és átvegye birodalmát. Capacot nem lehet megölni, ám ez nem gátolja meg ellenségeit abban, hogy próbálkozzanak. Márpedig ellensége bőven akad.&lt;br&gt;A Kardinális eddig mindig nyugodtan bevárta ellenlábasai támadásait abban a biztos tudatban, hogy úgysem veszíthet. Ám a dolgok most hirtelen megváltoztak. A Városban rivális bandák bukkantak fel, ráadásul furcsa alakok is előkerülnek Capac múltjából – olyanok, akikre csak ő emlékezhet. Az első Kardinális teremtményei, akiknek vele együtt el kellett volna pusztulniuk tíz évvel korábban.&lt;br&gt;Mindez csak egy dolgot jelenthet: a titokzatos inka papok, a Várost éltető ősi hatalom birtokosai, akik sosem lelkesedtek túlságosan azért, hogy a hatalom Capac kezébe kerüljön, akcióba lendültek, hogy visszaszerezzék maguknak az irányítást. Capac Raiminak ezúttal tényleg az utolsó csepp véréig kell küzdenie…&lt;br&gt;A kígyók városa Darren Shan első felnőtteknek szánt sorozatának, a Város-trilógiának befejező kötete, melyben végre minden hátborzongató titokra fény derül.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -13,9 +13,9 @@
         <dc:identifier opf:scheme="MOLY_HU">darren-shan-a-kigyok-varosa</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9789633100615</dc:identifier>
         <dc:language>hun</dc:language>
-        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>fantasy</dc:subject>
         <dc:subject>férfi főszereplő</dc:subject>
-        <dc:subject>Horror</dc:subject>
+        <dc:subject>horror</dc:subject>
         <dc:subject>ír szerző</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>sorozat része</dc:subject>
@@ -24,25 +24,14 @@
         <dc:subject>kortárs</dc:subject>
         <dc:subject>Szórakoztató irodalom</dc:subject>
         <dc:subject>thriller</dc:subject>
-        <opf:meta name="calibre:series" content="Város-trilógia" />
-        <opf:meta name="calibre:series_index" content="3" />
-        <opf:meta name="calibre:rating" content="8" />
-        <opf:meta name="calibre:timestamp" content="2012-11-17T21:29:30+00:00" />
-        <opf:meta name="calibre:title_sort" content="kígyók városa, A" />
-        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;DOC&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
-        <dc:subject>Entertainment Literature</dc:subject>
-        <dc:subject>Irish Author</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <dc:subject>Hungarian Language</dc:subject>
-        <dc:subject>Novel</dc:subject>
-        <dc:subject>Part of Series</dc:subject>
-        <dc:subject>Trilogy</dc:subject>
-        <dc:subject>Fantázia</dc:subject>
-        <dc:subject>Male Protagonist</dc:subject>
-        <dc:subject>Contemporary</dc:subject>
-        <dc:subject>thiller</dc:subject>
-    </opf:metadata>
-    <opf:guide>
-        <opf:reference type="cover" title="Cover" href="cover.jpg" />
-    </opf:guide>
-</opf:package>
+        <meta name="calibre:series" content="Város-trilógia"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-11-17T21:29:30+00:00"/>
+        <meta name="calibre:title_sort" content="kígyók városa, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;DOC&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

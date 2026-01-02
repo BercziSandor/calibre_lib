@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <opf:metadata>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">524</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">7f4a5d9a-2ab2-49ae-bf08-cd67e4272190</dc:identifier>
         <dc:title>Hús</dc:title>
         <dc:creator opf:file-as="D'Lacey, Joseph" opf:role="aut">Joseph D'Lacey</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-02-17T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A Hús a horrorműfaj egyik gyöngyszeme, nem véletlen, hogy maga STEPHEN KING is nagy rajongója lett a szerzőnek… „Joseph D’Lacey kőkemény!” – Stephen King Az vagy, amit megeszel! A városlakók éhesek. A városlakókat etetni kell. A vallási és világi erők lappangó ellenségeskedése rabszolgaságban tartja a pusztaság közepén álló Abyrne városát – aki ura a húsellátásnak, ura mindennek. Vannak azonban, akik gyanítják, hogy a szenteskedés ellenére Abyrne valójában velejéig gonosz és romlott város, egy modern kori Gomorra. Ők készek mindent feláldozni az igazságért, de vajon mi vár rájuk, ha belépnek az üzembe, ahonnan a hús jön? A városban élők asztalára egyre szokatlanabb ízű hús kerül… Joseph D’Lacey az interneten publikálta novelláit, amelyek hamarosan olyan sikeresek lettek, hogy a szerzőre felfigyelt egy neves brit kiadó is, és azonnal szerződtette. A Hús a horrorműfaj egyik gyöngyszeme, nem véletlen, hogy maga STEPHEN KING is nagy rajongója lett a szerzőnek.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -21,27 +21,15 @@
         <dc:subject>Szórakoztató irodalom</dc:subject>
         <dc:subject>akció</dc:subject>
         <dc:subject>Szépirodalom</dc:subject>
-        <dc:subject>Horror</dc:subject>
-        <opf:meta name="calibre:author_link_map" content="{&quot;Joseph D'Lacey&quot;: &quot;&quot;}" />
-        <opf:meta name="calibre:series" content="Bloody Good Books" />
-        <opf:meta name="calibre:series_index" content="1" />
-        <opf:meta name="calibre:rating" content="8" />
-        <opf:meta name="calibre:timestamp" content="2013-06-11T20:26:10+00:00" />
-        <opf:meta name="calibre:title_sort" content="Hús" />
-        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
-        <dc:subject>akció</dc:subject>
-        <dc:subject>Entertainment Literature</dc:subject>
-        <dc:subject>Hungarian Language</dc:subject>
-        <dc:subject>Adventure</dc:subject>
-        <dc:subject>Novel</dc:subject>
-        <dc:subject>English Author</dc:subject>
-        <dc:subject>Literature</dc:subject>
-        <dc:subject>Irodalom</dc:subject>
-        <dc:subject>akció</dc:subject>
-        <dc:subject>akció</dc:subject>
-        <dc:subject>akció</dc:subject>
-    </opf:metadata>
-    <opf:guide>
-        <opf:reference type="cover" title="Cover" href="cover.jpg" />
-    </opf:guide>
-</opf:package>
+        <dc:subject>horror</dc:subject>
+        <meta name="calibre:series" content="Bloody Good Books"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2013-06-11T20:26:10+00:00"/>
+        <meta name="calibre:title_sort" content="Hús"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

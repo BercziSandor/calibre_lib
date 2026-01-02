@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <opf:metadata>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">615</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">4bb815f3-93c1-40ed-a38f-f5f8a115f628</dc:identifier>
         <dc:title>Dr. Jekyll és Mr. Hyde különös esete</dc:title>
         <dc:creator opf:file-as="Stevenson, Robert Louis" opf:role="aut">Robert Louis Stevenson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-03-07T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Az először 1886-ban megjelent Dr. Jekyll és Mr. Hyde különös esete – a három évvel korábban publikált ifjúsági kalandregény, A kincses sziget mellett – Robert Louis Stevenson (1850-1894) legismertebb műve. Az önmagán kísérletező orvosról és az általa létrehozott második – gonosz – énjéről szóló rémtörténet azon túl, hogy rendkívül izgalmas olvasmány, nagyon fontos és érdekes kérdéseket is felvet az orvosok – vagy általánosabban a tudósok és feltalálók – felelősségével, illetve az ember kettős természetével kapcsolatban. Stevenson e kisregénye igazi csemege azok számára, akik többre vágynak a ma oly divatos – gyakran rémesen bugyuta – horrortörténeteknél.&lt;br&gt;Szerb Antal A világirodalom történetében a következőképpen méltatja a szerzőt: „Aki megőriz magában annyi fiatalságot, hogy felnőtt korában is szívesen olvassa Jókai regényeit, annak Stevenson is nagyon kedves marad.”&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -20,12 +20,12 @@
         <dc:subject>Anglia</dc:subject>
         <dc:subject>antihős</dc:subject>
         <dc:subject>brit szerző</dc:subject>
-        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>fantasy</dc:subject>
         <dc:subject>férfi főszereplő</dc:subject>
         <dc:subject>filmadaptáció</dc:subject>
         <dc:subject>gótikus irodalom</dc:subject>
         <dc:subject>hangoskönyv</dc:subject>
-        <dc:subject>Horror</dc:subject>
+        <dc:subject>horror</dc:subject>
         <dc:subject>illusztrált</dc:subject>
         <dc:subject>kisregény</dc:subject>
         <dc:subject>klasszikus</dc:subject>
@@ -35,31 +35,12 @@
         <dc:subject>novella</dc:subject>
         <dc:subject>orvos</dc:subject>
         <dc:subject>pszicho-thriller</dc:subject>
-        <opf:meta name="calibre:author_link_map" content="{&quot;Robert Louis Stevenson&quot;: &quot;&quot;}" />
-        <opf:meta name="calibre:rating" content="8" />
-        <opf:meta name="calibre:timestamp" content="2014-09-17T07:24:37+00:00" />
-        <opf:meta name="calibre:title_sort" content="Dr. Jekyll és Mr. Hyde különös esete" />
-        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
-        <dc:subject>Film Adaptation</dc:subject>
-        <dc:subject>British Author</dc:subject>
-        <dc:subject>Listed in 1001 Books</dc:subject>
-        <dc:subject>Psycho-Thriller</dc:subject>
-        <dc:subject>Doctor</dc:subject>
-        <dc:subject>19th century</dc:subject>
-        <dc:subject>Hungarian Language</dc:subject>
-        <dc:subject>Short Story</dc:subject>
-        <dc:subject>Illustrated</dc:subject>
-        <dc:subject>Gothic Literature</dc:subject>
-        <dc:subject>England</dc:subject>
-        <dc:subject>Classic</dc:subject>
-        <dc:subject>Novella</dc:subject>
-        <dc:subject>Audiobook</dc:subject>
-        <dc:subject>Psychological</dc:subject>
-        <dc:subject>Antihero</dc:subject>
-        <dc:subject>Fantázia</dc:subject>
-        <dc:subject>Male Protagonist</dc:subject>
-    </opf:metadata>
-    <opf:guide>
-        <opf:reference type="cover" title="Cover" href="cover.jpg" />
-    </opf:guide>
-</opf:package>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2014-09-17T07:24:37+00:00"/>
+        <meta name="calibre:title_sort" content="Dr. Jekyll és Mr. Hyde különös esete"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

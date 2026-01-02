@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <opf:metadata>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">547</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">0921c34f-6764-462d-bcbc-1c33eb22aea2</dc:identifier>
         <dc:title>A sárkány szeme</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2006-02-20T00:00:00+00:00</dc:date>
         <dc:description>Egyszer ​régen, valamelyik másik világban, Delainben élt Roland király. Nem volt különösebben jelentős uralkodó, de béke és nyugalom honolt a birodalmában. Telt-múlt az idő, a király haja őszbe csavarodott, s bizony gondoskodnia kellett utódról. Nőül vett egy kedves, jólelkű ifjú nemeshölgyet, Sashát, kitől két fia született, Peter és Thomas. A fiúk csepredtek, tanultak, elsajátították mindazt, amit a hercegeknek kell, hogy majdan az idősebbikből jó király váljon, s a fiatalabb mindenben támasza legyen. 
 Hanem ott élt az udvarban Roland fő tanácsadója, Flagg, a nagyhatalmú varázsló, maga a megtestesült gonosz. Ő bizony nem akarta, hogy béke és nyugalom legyen – feltett széndéka volt, hogy feldúlja a birodalmat, háborút és viszályt szít, mert csak akkor érezte jól magát. Intrikált és ármánykodott, merényletet követett el a fiatal királyné ellen, rontást hozott az emberekre. Sasha halála után ő vette a kezébe a hercegek nevelését. Peter határozott jellemű, daliás ifjúvá serdült, akire a kevésbé jó képességű, előnytelen külsejű Thomas mindig féltékeny volt. Ezt használta ki a sötét lelkű Flagg aljas terve megvalósításához: csapdát állít Peternek, eltávolítva ily módon az útból, s midőn a gyenge Thomas lesz a király, ő kedvére mozgathatja, mint egy bábot, s megvalósíthatja a baljós álmát, a káoszt…
@@ -18,7 +18,7 @@ Európa Könyvkiadó, 2006</dc:description>
         <dc:subject>20. század</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>barátság</dc:subject>
-        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>fantasy</dc:subject>
         <dc:subject>herceg</dc:subject>
         <dc:subject>ifjúsági</dc:subject>
         <dc:subject>kaland</dc:subject>
@@ -29,28 +29,12 @@ Európa Könyvkiadó, 2006</dc:description>
         <dc:subject>regény</dc:subject>
         <dc:subject>sárkány</dc:subject>
         <dc:subject>varázsló</dc:subject>
-        <opf:meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}" />
-        <opf:meta name="calibre:rating" content="8" />
-        <opf:meta name="calibre:timestamp" content="2013-07-09T11:03:09+00:00" />
-        <opf:meta name="calibre:title_sort" content="sárkány szeme, A" />
-        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;DOCX, EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
-        <dc:subject>King</dc:subject>
-        <dc:subject>Magic</dc:subject>
-        <dc:subject>Dragon</dc:subject>
-        <dc:subject>Novel</dc:subject>
-        <dc:subject>Adventure</dc:subject>
-        <dc:subject>20th century</dc:subject>
-        <dc:subject>Hungarian Language</dc:subject>
-        <dc:subject>Wizard</dc:subject>
-        <dc:subject>Prince</dc:subject>
-        <dc:subject>Fairy Tale Novel</dc:subject>
-        <dc:subject>American Author</dc:subject>
-        <dc:subject>Friendship</dc:subject>
-        <dc:subject>Fantázia</dc:subject>
-        <dc:subject>Young Adult</dc:subject>
-        <dc:subject>varázslat</dc:subject>
-    </opf:metadata>
-    <opf:guide>
-        <opf:reference type="cover" title="Cover" href="cover.jpg" />
-    </opf:guide>
-</opf:package>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2013-07-09T11:03:09+00:00"/>
+        <meta name="calibre:title_sort" content="sárkány szeme, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;DOCX, EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

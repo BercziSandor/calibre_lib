@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <opf:metadata>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1283</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">af37811d-a692-4d21-a357-d99bf3908c09</dc:identifier>
         <dc:title>A ló és kis gazdája</dc:title>
         <dc:creator opf:file-as="Lewis, C. S." opf:role="aut">C. S. Lewis</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-12-25T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Narnia ​birodalmának titokzatos történetét hét kötetben mondja el a világhírű angol szerző, C. S. Lewis, ezek közül az elsőt, Az oroszlán, a boszorkány és a ruhásszekrény címűt vitte filmre a Walt Disney Pictures és a Walden Media.&lt;br&gt;A Narnia Krónikája a Jó és Rossz örök háborúját meséli el. Olykor a csatamezőn, nyílt küzdelemben csap össze a fény az árnnyal, máskor a szív rejtett zugaiban. Ám legyenek az ütközetek akár a lélekben, akár a harcmezőn: minden összecsapás meghatározó erejű.&lt;br&gt;Olyan utakon kalandozhatunk, amelyek a világ végére vezetnek, fantasztikus lényekkel köthetünk ismeretséget, megtudjuk, mi az árulás, mi a hőstett, mit jelent megnyerni vagy épp elveszíteni egy barátot. Kalandos utazás ez a fantázia birodalmában, ugyanakkor a legmélyebb valóságban. Kiadónk sorozatban jelenteti meg a rajzokkal illusztrált hét kötetet. Sorozat ez, melyben minden mű önmagában is teljes egész, önállóan is lenyűgöző olvasmány. Vágtassunk együtt a szabadságba!&lt;br&gt;A NARNIA KRÓNIKÁINAK HARMADIK KÖTETE: &lt;br&gt;Narnia… ahol egyes lovak emberi nyelven beszélnek… ahol az árulás ellenére a sors beteljesül. Két, mindenre elszánt szökevény találkozik, s egyesítik erőiket. Eleinte ugyan csak zord és kiszolgáltatott életük elől menekülnek, ám hamarosan egy szörnyű viadal kellős közepén találják magukat. Ez a csata dönti el sorsukat és Narnia sorsát is.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -13,7 +13,7 @@
         <dc:identifier opf:scheme="ISBN">9789632884356</dc:identifier>
         <dc:identifier opf:scheme="MOLY_HU">c-s-lewis-a-lo-es-kis-gazdaja</dc:identifier>
         <dc:language>hun</dc:language>
-        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>fantasy</dc:subject>
         <dc:subject>férfi főszereplő</dc:subject>
         <dc:subject>gyermek főszereplő</dc:subject>
         <dc:subject>gyermekkönyv iskolásoknak</dc:subject>
@@ -26,28 +26,14 @@
         <dc:subject>meseregény</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>sorozat része</dc:subject>
-        <opf:meta name="calibre:author_link_map" content="{&quot;C. S. Lewis&quot;: &quot;&quot;}" />
-        <opf:meta name="calibre:series" content="Narnia krónikái" />
-        <opf:meta name="calibre:series_index" content="3" />
-        <opf:meta name="calibre:rating" content="8" />
-        <opf:meta name="calibre:timestamp" content="2020-12-26T19:25:01+00:00" />
-        <opf:meta name="calibre:title_sort" content="ló és kis gazdája, A" />
-        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;DOC&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
-        <dc:subject>Irish Author</dc:subject>
-        <dc:subject>Children's Book (School Age)</dc:subject>
-        <dc:subject>Adventure Novel</dc:subject>
-        <dc:subject>Child Protagonist</dc:subject>
-        <dc:subject>Horse</dc:subject>
-        <dc:subject>Novel</dc:subject>
-        <dc:subject>Adventure</dc:subject>
-        <dc:subject>Part of Series</dc:subject>
-        <dc:subject>Hungarian Language</dc:subject>
-        <dc:subject>Illustrated</dc:subject>
-        <dc:subject>Fairy Tale Novel</dc:subject>
-        <dc:subject>Fantázia</dc:subject>
-        <dc:subject>Male Protagonist</dc:subject>
-    </opf:metadata>
-    <opf:guide>
-        <opf:reference type="cover" title="Cover" href="cover.jpg" />
-    </opf:guide>
-</opf:package>
+        <meta name="calibre:series" content="Narnia krónikái"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-12-26T19:25:01+00:00"/>
+        <meta name="calibre:title_sort" content="ló és kis gazdája, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;DOC&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

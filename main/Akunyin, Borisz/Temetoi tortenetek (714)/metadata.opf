@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <opf:metadata>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">714</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">153b3679-180c-43de-9311-524554da4713</dc:identifier>
         <dc:title>Temetői történetek</dc:title>
         <dc:creator opf:file-as="Akunyin, Borisz &amp; Cshartisvili, G." opf:role="aut">Akunyin, Borisz</dc:creator>
         <dc:creator opf:file-as="Akunyin, Borisz &amp; Cshartisvili, G." opf:role="aut">G. Cshartisvili</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-02-17T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A ​londoni Highgate temetőben egy vámpír ólálkodik: Karl Marx holtteste, aki a temetőbe ellátogató kommunisták vérét szívja, hogy teste halála után is megmaradjon… A párizsi Pere Lachaise-ben valaki fölnyitja Oscar Wilde sírját, s ellopja az író gyűrűjét, amiért szörnyű árat kell fizetnie… A jokohamai Külföldi temetőben Eraszt Fandorin nyomozza ki a Halál Pókjának valódi kilétét… A New York-i Green-Woodban egy orosz emigráns borzalmas oroszrulettet játszik egy gyönyörű, fátylas nővel… A moszkvai Régi Doni temetőben Szalticsiha, a legendás, XVIII. századi bojárasszony, aki százharminckilenc embert kínzott halálra, máig is szeretőjét várja… Borisz Akunyin, a Fandorin-sorozat világszerte népszerű szerzőjének kísértettörténeteit és kriminovelláit a világ egy-egy híres temetője ihlette. Ezúttal azonban Akunyin társszerzőt is választott magának: Grigorij Cshartisvilit, azaz írói énjének másik felét, aki hazájában eddig is ismert irodalomtörténész és japanológus volt. A novellákat így kiegészítik Cshartisvili esszéi a hat híres temető legendáiról, hangulatáról, nevezetes halottairól… s arról is, amiért ez a kötet valójában megszületett: hogy szerzője miként néz szembe a halállal, s különböző népek, kultúrák halálkultuszait megismerve önmaga számára meg tudja-e könnyíteni a halál elfogadását… Vagy ahogy maga szerző írja: „…a végén még az derül ki, hogy az ember azért rohangált le-föl a temetőkben, mert elérte azt a kort, amikor már szeretne kiigazodni a halál természetét illetően. De nem, ez nem egészen így van. A titok természetét nem lehet kiismerni, azért titok, mert nincs semmilyen természete. Sokkal helyesebb, ha azt mondom: meg akartam érteni, mi a halálfélelem. És meglehet, ezzel egyszer s mindenkorra meg akartam szabadulni tőle. Vagy legalábbis reményhez akartam jutni, hogy ez elvileg lehetséges.”&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -18,7 +18,7 @@
         <dc:subject>esszé</dc:subject>
         <dc:subject>grúz</dc:subject>
         <dc:subject>halál</dc:subject>
-        <dc:subject>Horror</dc:subject>
+        <dc:subject>horror</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>orosz szerző</dc:subject>
         <dc:subject>szellemek</dc:subject>
@@ -29,26 +29,12 @@
         <dc:subject>novella</dc:subject>
         <dc:subject>elbeszélés</dc:subject>
         <dc:subject>Short Stories</dc:subject>
-        <opf:meta name="calibre:author_link_map" content="{&quot;Akunyin, Borisz&quot;: &quot;&quot;, &quot;G. Cshartisvili&quot;: &quot;&quot;}" />
-        <opf:meta name="calibre:rating" content="8" />
-        <opf:meta name="calibre:timestamp" content="2014-09-20T11:42:54+00:00" />
-        <opf:meta name="calibre:title_sort" content="Temetői történetek" />
-        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
-        <dc:subject>Vampire</dc:subject>
-        <dc:subject>Death</dc:subject>
-        <dc:subject>Hungarian Language</dc:subject>
-        <dc:subject>Short Story</dc:subject>
-        <dc:subject>Essay</dc:subject>
-        <dc:subject>Georgian</dc:subject>
-        <dc:subject>novellák</dc:subject>
-        <dc:subject>Narrative</dc:subject>
-        <dc:subject>Ghosts</dc:subject>
-        <dc:subject>Russian Author</dc:subject>
-        <dc:subject>Cemetery</dc:subject>
-        <dc:subject>Literature</dc:subject>
-        <dc:subject>ghosts</dc:subject>
-    </opf:metadata>
-    <opf:guide>
-        <opf:reference type="cover" title="Cover" href="cover.jpg" />
-    </opf:guide>
-</opf:package>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2014-09-20T11:42:54+00:00"/>
+        <meta name="calibre:title_sort" content="Temetői történetek"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

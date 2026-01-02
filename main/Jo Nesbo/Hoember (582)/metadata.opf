@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <opf:metadata>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">582</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">89007930-9ab4-4170-897c-ef1c3eb49702</dc:identifier>
         <dc:title>Hóember</dc:title>
         <dc:creator opf:file-as="Nesbø, Jo" opf:role="aut">Jo Nesbø</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-02-15T13:20:01+00:00</dc:date>
         <dc:description>Harry Hole, az oslói rendőrség különc főtisztje az ősz elején névtelen levelet kap, Hóember aláírással.
 Amint lehull az első hó, titokzatos eltűnések, bestiális gyilkosságok sora kezdődik a norvég fővárosban. Az áldozatok egytől-egyig családos nők, s az esetek riasztó hasonlóságot mutatnak évekkel ezelőtti eltűnési ügyekkel. A rendőrség sorozatgyilkosra gyanakszik, ugyanis az elkövető különös nyomot hagy maga után: egy-egy hóember őrzi a tetthelyeket.</dc:description>
@@ -20,7 +20,7 @@ Amint lehull az első hó, titokzatos eltűnések, bestiális gyilkosságok sora
         <dc:subject>kortárs</dc:subject>
         <dc:subject>gyilkosság</dc:subject>
         <dc:subject>rejtély</dc:subject>
-        <dc:subject>Horror</dc:subject>
+        <dc:subject>horror</dc:subject>
         <dc:subject>nyomozás</dc:subject>
         <dc:subject>Norvégia</dc:subject>
         <dc:subject>regény</dc:subject>
@@ -34,35 +34,14 @@ Amint lehull az első hó, titokzatos eltűnések, bestiális gyilkosságok sora
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>Oslo</dc:subject>
         <dc:subject>férfi főszereplő</dc:subject>
-        <opf:meta name="calibre:author_link_map" content="{&quot;Jo Nesbø&quot;: &quot;&quot;}" />
-        <opf:meta name="calibre:series" content="Harry Hole" />
-        <opf:meta name="calibre:series_index" content="7" />
-        <opf:meta name="calibre:rating" content="8" />
-        <opf:meta name="calibre:timestamp" content="2014-02-21T16:32:47+00:00" />
-        <opf:meta name="calibre:title_sort" content="Hóember" />
-        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
-        <dc:subject>Film Adaptation</dc:subject>
-        <dc:subject>Norwegian Author</dc:subject>
-        <dc:subject>21st century</dc:subject>
-        <dc:subject>Investigation</dc:subject>
-        <dc:subject>Scandinavian</dc:subject>
-        <dc:subject>Death</dc:subject>
-        <dc:subject>Mystical</dc:subject>
-        <dc:subject>Detective Story</dc:subject>
-        <dc:subject>Norway</dc:subject>
-        <dc:subject>Novel</dc:subject>
-        <dc:subject>Hungarian Language</dc:subject>
-        <dc:subject>Mystery</dc:subject>
-        <dc:subject>Part of Series</dc:subject>
-        <dc:subject>Murder</dc:subject>
-        <dc:subject>Family History</dc:subject>
-        <dc:subject>Crime</dc:subject>
-        <dc:subject>Male Protagonist</dc:subject>
-        <dc:subject>Contemporary</dc:subject>
-        <dc:subject>bűnözés</dc:subject>
-        <dc:subject>bűnügyi</dc:subject>
-    </opf:metadata>
-    <opf:guide>
-        <opf:reference type="cover" title="Cover" href="cover.jpg" />
-    </opf:guide>
-</opf:package>
+        <meta name="calibre:series" content="Harry Hole"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2014-02-21T16:32:47+00:00"/>
+        <meta name="calibre:title_sort" content="Hóember"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

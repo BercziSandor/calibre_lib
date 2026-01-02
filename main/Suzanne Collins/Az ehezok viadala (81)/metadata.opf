@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <opf:metadata>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">81</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">65d994db-a267-45f8-adb3-1f174f10d3d3</dc:identifier>
         <dc:title>Az éhezők viadala</dc:title>
         <dc:creator opf:file-as="Collins, Suzanne" opf:role="aut">Suzanne Collins</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-02-17T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A győztes jutalma hírnév. A vesztes büntetése halál.&lt;br&gt;A közeljövő egy sötét világában tizenkét fiú és tizenkét lány küzd egymással egy élő televíziós show-ban, aminek a címe Az éhezők viadala. Egyetlen szabály van: ölj vagy megölnek.&lt;br&gt;Amikor a tizenhat éves Katniss Everdeen a húgát mentve önként jelentkezik, hogy részt vegyen a viadalon, az felér egy halálos ítélettel. De Katniss már nem fél a haláltól. A túlélés a vérében van.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -33,39 +33,15 @@
         <dc:subject>posztapokaliptikus</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>sci-fi</dc:subject>
-        <dc:subject>Fantasy</dc:subject>
-        <opf:meta name="calibre:author_link_map" content="{&quot;Suzanne Collins&quot;: &quot;&quot;}" />
-        <opf:meta name="calibre:series" content="Az éhezők viadala trilógia" />
-        <opf:meta name="calibre:series_index" content="1" />
-        <opf:meta name="calibre:rating" content="10" />
-        <opf:meta name="calibre:timestamp" content="2012-11-15T20:37:04+00:00" />
-        <opf:meta name="calibre:title_sort" content="éhezők viadala, Az" />
-        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
-        <dc:subject>Written in Present Time</dc:subject>
-        <dc:subject>Science Fiction</dc:subject>
-        <dc:subject>Teen Protagonist</dc:subject>
-        <dc:subject>Game</dc:subject>
-        <dc:subject>Fantázia</dc:subject>
-        <dc:subject>Adventure</dc:subject>
-        <dc:subject>Hungarian Language</dc:subject>
-        <dc:subject>Murder</dc:subject>
-        <dc:subject>Set in the Future</dc:subject>
-        <dc:subject>Dystopia</dc:subject>
-        <dc:subject>War</dc:subject>
-        <dc:subject>Contemporary</dc:subject>
-        <dc:subject>Film Adaptation</dc:subject>
-        <dc:subject>Post-Apocalyptic</dc:subject>
-        <dc:subject>21st century</dc:subject>
-        <dc:subject>Female Protagonist</dc:subject>
-        <dc:subject>Violence</dc:subject>
-        <dc:subject>Novel</dc:subject>
-        <dc:subject>American Author</dc:subject>
-        <dc:subject>Friendship</dc:subject>
-        <dc:subject>Young Adult</dc:subject>
-        <dc:subject>Fiction - Science Fiction</dc:subject>
-        <dc:subject>Science Fiction - General</dc:subject>
-    </opf:metadata>
-    <opf:guide>
-        <opf:reference type="cover" title="Cover" href="cover.jpg" />
-    </opf:guide>
-</opf:package>
+        <dc:subject>fantasy</dc:subject>
+        <meta name="calibre:series" content="Az éhezők viadala trilógia"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2012-11-15T20:37:04+00:00"/>
+        <meta name="calibre:title_sort" content="éhezők viadala, Az"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

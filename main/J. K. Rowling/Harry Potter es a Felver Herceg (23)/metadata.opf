@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <opf:metadata>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">23</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">80a1c0b2-fca3-40c6-8307-d63fe71bb572</dc:identifier>
         <dc:title>Harry Potter és a Félvér Herceg</dc:title>
         <dc:creator opf:file-as="Rowling, J. K." opf:role="aut">J. K. Rowling</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A Voldemort elleni harc állása aggasztó; a baljós jeleket már a muglikormány is észleli. Szaporodnak a rejtélyes halálesetek, katasztrófák. Harry azt gyanítja, hogy esküdt ellensége, Draco Malfoy is a halálfalók jelét viseli. Az élet azonban háborús időkben sem csak harcból áll. A Weasley-ikrek üzleti tevékenysége egyre kiterjedtebb. Szerelmek szövődnek a felsőbb évesek között, a Roxfort házai pedig továbbra is versengenek egymással. Harry Dumbledore segítségével igyekszik minél alaposabban megismerni Voldemort múltját, ifjúságát, hogy rátaláljon a Sötét Nagyúr sebezhető pontjára.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -32,37 +32,15 @@
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>Nagy-Britannia</dc:subject>
         <dc:subject>nyomozás</dc:subject>
-        <dc:subject>Fantasy</dc:subject>
-        <opf:meta name="calibre:author_link_map" content="{&quot;J. K. Rowling&quot;: &quot;&quot;}" />
-        <opf:meta name="calibre:series" content="Harry Potter" />
-        <opf:meta name="calibre:series_index" content="6" />
-        <opf:meta name="calibre:rating" content="10" />
-        <opf:meta name="calibre:timestamp" content="2012-11-13T14:14:36+00:00" />
-        <opf:meta name="calibre:title_sort" content="Harry Potter és a Félvér Herceg" />
-        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
-        <dc:subject>British Author</dc:subject>
-        <dc:subject>Investigation</dc:subject>
-        <dc:subject>Magic</dc:subject>
-        <dc:subject>England</dc:subject>
-        <dc:subject>English Author</dc:subject>
-        <dc:subject>School</dc:subject>
-        <dc:subject>Teen Protagonist</dc:subject>
-        <dc:subject>20th century</dc:subject>
-        <dc:subject>IBBY Award</dc:subject>
-        <dc:subject>Fantázia</dc:subject>
-        <dc:subject>Male Protagonist</dc:subject>
-        <dc:subject>Great Britain</dc:subject>
-        <dc:subject>Witch</dc:subject>
-        <dc:subject>Adventure</dc:subject>
-        <dc:subject>Hungarian Language</dc:subject>
-        <dc:subject>Contemporary</dc:subject>
-        <dc:subject>Film Adaptation</dc:subject>
-        <dc:subject>Adventure Novel</dc:subject>
-        <dc:subject>Friendship</dc:subject>
-        <dc:subject>Young Adult</dc:subject>
-        <dc:subject>varázslat</dc:subject>
-    </opf:metadata>
-    <opf:guide>
-        <opf:reference type="cover" title="Cover" href="cover.jpg" />
-    </opf:guide>
-</opf:package>
+        <dc:subject>fantasy</dc:subject>
+        <meta name="calibre:series" content="Harry Potter"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2012-11-13T14:14:36+00:00"/>
+        <meta name="calibre:title_sort" content="Harry Potter és a Félvér Herceg"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <opf:metadata>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1219</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">864dc62c-a533-408c-a208-d0a19cd88f9d</dc:identifier>
         <dc:title>Északi fény</dc:title>
         <dc:creator opf:file-as="Pullman, Philip" opf:role="aut">Philip Pullman</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2007-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;p class="description"&gt;Lyra Belacqa kalandvágyó, fékezhetetlen kislány. Miután szülei meghalnak, nagybátyja a Jordan-kollégium tudósainak gondjaira bízza. Lyra a kollégium Mesterétől titokzatos tárgyat kap, az aletiométert, s ezzel kezdetét veszi egy rendkívüli utazás, mely a messzi északra vezet ahol boszorkányok és harcos jegesmedvék vívják csatáikat. Lyra küldetése nem pusztán a saját világára jár mérhetetlen következményekkel, de a párhuzamos világok sorsát is meghatározza, melyeknek létezéséről nem is tudunk…&lt;/p&gt;</dc:description>
         <dc:publisher>Alexandra</dc:publisher>
@@ -24,7 +24,7 @@
         <dc:subject>angol</dc:subject>
         <dc:subject>Carnegie-medál</dc:subject>
         <dc:subject>Északi-sark</dc:subject>
-        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>fantasy</dc:subject>
         <dc:subject>filmadaptáció</dc:subject>
         <dc:subject>ifjúsági</dc:subject>
         <dc:subject>kaland</dc:subject>
@@ -34,40 +34,14 @@
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>steampunk</dc:subject>
         <dc:subject>tél</dc:subject>
-        <opf:meta name="calibre:author_link_map" content="{&quot;Philip Pullman&quot;: &quot;&quot;}" />
-        <opf:meta name="calibre:series" content="Az Úr Sötét Anyagai" />
-        <opf:meta name="calibre:series_index" content="1" />
-        <opf:meta name="calibre:rating" content="8" />
-        <opf:meta name="calibre:timestamp" content="2019-03-30T05:20:41+00:00" />
-        <opf:meta name="calibre:title_sort" content="Északi fény" />
-        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
-        <dc:subject>British Author</dc:subject>
-        <dc:subject>Magic</dc:subject>
-        <dc:subject>England</dc:subject>
-        <dc:subject>Steampunk</dc:subject>
-        <dc:subject>Child Protagonist</dc:subject>
-        <dc:subject>Animal</dc:subject>
-        <dc:subject>Fantázia</dc:subject>
-        <dc:subject>Carnegie Medal</dc:subject>
-        <dc:subject>Witch</dc:subject>
-        <dc:subject>Astrid Lindgren Memorial Award</dc:subject>
-        <dc:subject>Adventure</dc:subject>
-        <dc:subject>Hungarian Language</dc:subject>
-        <dc:subject>Arctic</dc:subject>
-        <dc:subject>Winter</dc:subject>
-        <dc:subject>Film Adaptation</dc:subject>
-        <dc:subject>Adventure Novel</dc:subject>
-        <dc:subject>Shapeshifter</dc:subject>
-        <dc:subject>Novel</dc:subject>
-        <dc:subject>Part of Series</dc:subject>
-        <dc:subject>Parallel World</dc:subject>
-        <dc:subject>Young Adult</dc:subject>
-        <dc:subject>English</dc:subject>
-        <dc:subject>Astrid Lindgren‑emlékdíj</dc:subject>
-        <dc:subject>varázslat</dc:subject>
-        <dc:subject>Carnegie‑medál</dc:subject>
-    </opf:metadata>
-    <opf:guide>
-        <opf:reference type="cover" title="Cover" href="cover.jpg" />
-    </opf:guide>
-</opf:package>
+        <meta name="calibre:series" content="Az Úr Sötét Anyagai"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2019-03-30T05:20:41+00:00"/>
+        <meta name="calibre:title_sort" content="Északi fény"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

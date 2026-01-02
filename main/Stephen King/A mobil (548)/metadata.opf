@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <opf:metadata>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">548</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">76a966a1-b424-4f72-b1df-b74b12d76d48</dc:identifier>
         <dc:title>A mobil</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-02-20T00:00:00+00:00</dc:date>
         <dc:description>Clay ​Riddell grafikus Bostonba utazik, hogy tárgyaljon az általa tervezett képregény ügyében. A kiadóba menet a parkban beáll a fagylaltoskocsi előtt kígyózó sorba, mert a melegben bizony jólesne egy hűsítő nyalánkság. Az előtte állók némelyikének megcsörren a mobiltelefonja, s mikor beleszólnak, leírhatatlan dolgok történnek. A telefonálók megvadulnak, egymásnak esnek vagy önmaguk ellen fordulnak, s pillanatok alatt őrjöngő-vérengző emberek töltik meg az utcákat. Claynek – micsoda szerencse! – nincs mobilja, s hamar rájön, hogy az őrületet csakis a telefon által közvetített impulzus okozhatja. Néhány hozzá hasonló, mobilmentes emberrel elindul, hogy olyan területet keressenek, ahol nincs telefonos lefedettség és hajtja az aggodalom is, vajon mi történhetett otthon a feleségével és a kisfiával, akik mindketten mobilhasználók?
 A káoszban nem könnyű az utazás. A megfertőzőtt telefonembereket mintha egy ijesztő kollektív tudat irányítaná, a kevés megmaradt „normális” pedig kétségbeesetten küzd, hogy megmentse önmagát s a világból azt, ami még megmenthető.
@@ -15,13 +15,13 @@ Stephen King, a thriller kimeríthetetlen fantáziájú mestere, mindenből ihle
         <dc:identifier opf:scheme="ISBN">9789630792226</dc:identifier>
         <dc:language>hun</dc:language>
         <dc:subject>zombi</dc:subject>
-        <dc:subject>Horror</dc:subject>
+        <dc:subject>horror</dc:subject>
         <dc:subject>misztikus</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>filmadaptáció</dc:subject>
         <dc:subject>paranormális</dc:subject>
         <dc:subject>regény</dc:subject>
-        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>fantasy</dc:subject>
         <dc:subject>sci-fi</dc:subject>
         <dc:subject>thriller</dc:subject>
         <dc:subject>Massachusetts</dc:subject>
@@ -30,29 +30,12 @@ Stephen King, a thriller kimeríthetetlen fantáziájú mestere, mindenből ihle
         <dc:subject>21. század</dc:subject>
         <dc:subject>pszicho-thriller</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <opf:meta name="calibre:rating" content="8" />
-        <opf:meta name="calibre:timestamp" content="2013-07-09T11:04:41+00:00" />
-        <opf:meta name="calibre:title_sort" content="mobil, A" />
-        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
-        <dc:subject>Film Adaptation</dc:subject>
-        <dc:subject>Apocalypse</dc:subject>
-        <dc:subject>21st century</dc:subject>
-        <dc:subject>Science Fiction</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <dc:subject>Psycho-Thriller</dc:subject>
-        <dc:subject>Zombie</dc:subject>
-        <dc:subject>Novel</dc:subject>
-        <dc:subject>Hungarian Language</dc:subject>
-        <dc:subject>Paranormal</dc:subject>
-        <dc:subject>American Author</dc:subject>
-        <dc:subject>Dystopia</dc:subject>
-        <dc:subject>Mystical</dc:subject>
-        <dc:subject>Fantázia</dc:subject>
-        <dc:subject>Fiction - Science Fiction</dc:subject>
-        <dc:subject>thiller</dc:subject>
-        <dc:subject>Science Fiction - General</dc:subject>
-    </opf:metadata>
-    <opf:guide>
-        <opf:reference type="cover" title="Cover" href="cover.jpg" />
-    </opf:guide>
-</opf:package>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2013-07-09T11:04:41+00:00"/>
+        <meta name="calibre:title_sort" content="mobil, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

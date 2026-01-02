@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <opf:metadata>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">712</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">705fe0a6-d79a-4b7c-958e-bb5ff42e1e11</dc:identifier>
         <dc:title>Harry Potter and the Goblet of Fire</dc:title>
         <dc:creator opf:file-as="Rowling, J. K." opf:role="aut">J. K. Rowling</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2000-02-14T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;In 'Harry Potter and the Goblet of Fire', J.K. Rowling offers up equal parts danger and delight--and any number of dragons, house-elves, and death-defying challenges. Now 14, her orphan hero has only two more weeks with his Muggle relatives before returning to Hogwarts School of Witchcraft and Wizardry. Yet one night a vision harrowing enough to make his lightning-bolt-shaped scar burn has Harry on edge and contacting his godfather-in-hiding, Sirius Black. Happily, the prospect of attending the season's premier sporting event, the Quidditch World Cup, is enough to make Harry momentarily forget that Lord Voldemort and his sinister familiars--the Death Eaters--are out for murder. Readers, we will cast a giant invisibility cloak over any more plot and reveal only that You-Know-Who is very much after Harry and that this year there will be no Quidditch matches between Gryffindor, Ravenclaw, Hufflepuff, and Slytherin. Instead, Hogwarts will vie with two other magicians' schools, the stylish Beauxbatons and the icy Durmstrang, in a Triwizard Tournament. Those chosen to compete will undergo three supreme tests. Could Harry be one of the lucky contenders? But Quidditch buffs need not go into mourning- we get our share of this great game at the World Cup. Attempting to go incognito as Muggles, 100,000 witches and wizards converge on a 'nice deserted moor.' As ever, Rowling magicks up the details that make her world so vivid, and so comic. Several spectators' tents, for instance, are entirely unquotidian. One is a minipalace, complete with live peacocks; another has three floors and multiple turrets. And the sports paraphernalia on offer includes rosettes 'squealing the names of the players' as well as 'tiny models of Firebolts that really flew, and collectible figures of famous players, which strolled across the palm of your hand, preening themselves.' Needless to say, the two teams are decidedly different, down to their mascots. Bulgaria is supported by the beautiful veela, who instantly enchant everyone--including Ireland's supporters--over to their side. Until, that is, thousands of tiny cheerleaders engage in some pyrotechnics of their own- 'The leprechauns had risen into the air again, and this time, they formed a giant hand, which was making a very rude sign indeed at the veela across the field. Long before her fourth installment appeared, Rowling warned that it would be darker, and it's true that every exhilaration is equaled by a moment that has us fearing for Harry's life, the book's emotions running as deep as its dangers. Along the way, though, she conjures up such new characters as Alastor 'Mad-Eye' Moody, a Dark Wizard catcher who may or may not be getting paranoid in his old age, and Rita Skeeter, who beetles around Hogwarts in search of stories. (This Daily Prophet scoop artist has a Quick-Quotes Quill that turns even the most innocent assertion into tabloid innuendo.) And at her bedazzling close, Rowling leaves several plot strands open, awaiting book 5. This fan is ready to wager that the author herself is part veela--her pen her wand, her commitment to her world complete.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -17,19 +17,16 @@
         <dc:language>eng</dc:language>
         <dc:subject>Juvenile Fiction</dc:subject>
         <dc:subject>Fantasy &amp; Magic</dc:subject>
-        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>fantasy</dc:subject>
         <dc:subject>ifjúsági</dc:subject>
-        <opf:meta name="calibre:author_link_map" content="{&quot;J. K. Rowling&quot;: &quot;&quot;}" />
-        <opf:meta name="calibre:series" content="Harry Potter" />
-        <opf:meta name="calibre:series_index" content="4" />
-        <opf:meta name="calibre:rating" content="10" />
-        <opf:meta name="calibre:timestamp" content="2014-09-20T11:36:55+00:00" />
-        <opf:meta name="calibre:title_sort" content="Harry Potter and the Goblet of Fire" />
-        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
-        <dc:subject>Fantázia</dc:subject>
-        <dc:subject>Young Adult</dc:subject>
-    </opf:metadata>
-    <opf:guide>
-        <opf:reference type="cover" title="Cover" href="cover.jpg" />
-    </opf:guide>
-</opf:package>
+        <meta name="calibre:series" content="Harry Potter"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2014-09-20T11:36:55+00:00"/>
+        <meta name="calibre:title_sort" content="Harry Potter and the Goblet of Fire"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

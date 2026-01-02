@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <opf:metadata>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1653</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">64c8267c-086a-4b81-b613-e474bdfb4135</dc:identifier>
         <dc:title>A csontlabirintus</dc:title>
         <dc:creator opf:file-as="Riordan, Rick" opf:role="aut">Rick Riordan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-09-08T22:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Mi történne, ha rájönnél, hogy a családod az egyik leghatalmasabb család a történelemben? Mi lenne, ha azt mondanák, hogy a család erejének forrását elrejtették a világ különböző részein, 39 kulcs formájában? Mi lenne, ha választás elé állítanának – fogod az egymillió dollárt és elsétálsz. vagy megkapod az első kulcsot? Ha Amy vagy Dan Cahill helyében vagy, a kulcsot választod – és megkezdődik a veszélyes hajsza.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -18,27 +18,17 @@
         <dc:subject>Adventure</dc:subject>
         <dc:subject>Young Adult</dc:subject>
         <dc:subject>Childrens</dc:subject>
-        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>fantasy</dc:subject>
         <dc:subject>ifjúaági</dc:subject>
         <dc:subject>kaland</dc:subject>
-        <opf:meta name="calibre:author_link_map" content="{&quot;Rick Riordan&quot;: &quot;&quot;}" />
-        <opf:meta name="calibre:series" content="A 39 kulcs" />
-        <opf:meta name="calibre:series_index" content="1" />
-        <opf:meta name="calibre:rating" content="8" />
-        <opf:meta name="calibre:timestamp" content="2022-09-09T18:09:22+00:00" />
-        <opf:meta name="calibre:title_sort" content="csontlabirintus, A" />
-        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
-        <dc:subject>ifjúsági</dc:subject>
-        <dc:subject>Youth</dc:subject>
-        <dc:subject>Children</dc:subject>
-        <dc:subject>rejtély</dc:subject>
-        <dc:subject>Fantázia</dc:subject>
-        <dc:subject>fiatalkor</dc:subject>
-        <dc:subject>ifjúság</dc:subject>
-        <dc:subject>Gyermekek</dc:subject>
-        <dc:subject>ifjúdági</dc:subject>
-    </opf:metadata>
-    <opf:guide>
-        <opf:reference type="cover" title="Cover" href="cover.jpg" />
-    </opf:guide>
-</opf:package>
+        <meta name="calibre:series" content="A 39 kulcs"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-09-09T18:09:22+00:00"/>
+        <meta name="calibre:title_sort" content="csontlabirintus, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

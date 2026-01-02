@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <opf:metadata>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">408</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">11b7bfd6-c06b-4b4e-90fa-7a13412a5151</dc:identifier>
         <dc:title>A parfüm</dc:title>
         <dc:creator opf:file-as="Süskind, Patrick" opf:role="aut">Patrick Süskind</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2006-02-14T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A kötet hősének, Jean-Baptiste Grenouille-nak, a "zseniális szörnyetegnek" a neve csupán azért merült feledésbe, mert rettentő története nem történelmi vonatkozású. Ő ugyanis a "szagok birodalmát" teremtette meg erőszakkal, öntudatlan akarattal. Azt érte el, amit tán nem is tűzött ki: létrehozta főművét, a világ legtökéletesebb parfümjét. Akár szagtalan sátán is lehetne a hős, aki valóban átok-gyermekként jött e szagokkal teli világra - a tizennyolcadik századi Párizs legbűzösebb negyedében, a halpiacon. Létével mégis mintha a zseni kínzó, önmagát riadtan vagy éppen dühödten kutató magányát élné meg. Ezt az érzést csak a kiválás, a nagy "Tett" végrehajtása, a tökéletes "Mű", a parfüm valósága oldhatja csak fel. Mégsem válik horrorfigurává a történet kegyetlen gyilkosa, pedig a "gyengédség, az erő, a tartósság, a sokszínűség, ijesztő ellenállhatatlan szépség" és visszautasíthatatlan szeretet parfümjének előállításához huszonöt fiatal lány meggyilkolása árán jut el Jean-Baptiste: lenyúzván a még gyermeklányok bőrét, elkészíti ezt a hullaszagból illateszenciává varázsolt anyagot. Grenouille valóban zseniális szaktudásra tesz szert, hosszú évek során megtanulja parfümkészítő mesterétől - majd egyedül kísérletezvén - e nehéz mesterség valamennyi csínját, a kémia, alkímia, a desztillálás és az alapanyagok arányos vegyítésének minden trükkjét. Parfümjével öntudatlanul is hatalmat szerez az emberek felett. A történetben Grenouille-t nem tudják lefejezni, bár bírói és Párizs népe jól tudja, hogy ő a kegyetlen gyilkos. Kíméletlen öldöklése azért nem nyeri el jogos büntetését, mert a kivégzésére odasereglő tömeg szeretetbe kábul Jean-Baptiste illatától. Vajon kit ábrázol ez a mégsem horror történet?&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -18,7 +18,7 @@
         <dc:subject>életregény</dc:subject>
         <dc:subject>felnőtt tartalom</dc:subject>
         <dc:subject>férfi főszereplő</dc:subject>
-        <dc:subject>Horror</dc:subject>
+        <dc:subject>horror</dc:subject>
         <dc:subject>klasszikus</dc:subject>
         <dc:subject>krimi</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
@@ -33,34 +33,12 @@
         <dc:subject>utazás</dc:subject>
         <dc:subject>regény</dc:subject>
         <dc:subject>1001 könyv listán szerepel</dc:subject>
-        <opf:meta name="calibre:rating" content="8" />
-        <opf:meta name="calibre:timestamp" content="2013-01-25T22:07:27+00:00" />
-        <opf:meta name="calibre:title_sort" content="parfüm, A" />
-        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
-        <dc:subject>Film Adaptation</dc:subject>
-        <dc:subject>Listed in 1001 Books</dc:subject>
-        <dc:subject>German Author</dc:subject>
-        <dc:subject>Travel</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <dc:subject>18th century</dc:subject>
-        <dc:subject>Serial Killer</dc:subject>
-        <dc:subject>Antihero</dc:subject>
-        <dc:subject>Novel</dc:subject>
-        <dc:subject>Hungarian Language</dc:subject>
-        <dc:subject>France</dc:subject>
-        <dc:subject>Male Protagonist</dc:subject>
-        <dc:subject>Classic</dc:subject>
-        <dc:subject>Murder</dc:subject>
-        <dc:subject>World Fantasy Award</dc:subject>
-        <dc:subject>Adult Content</dc:subject>
-        <dc:subject>Crime</dc:subject>
-        <dc:subject>Life Story</dc:subject>
-        <dc:subject>bűnözés</dc:subject>
-        <dc:subject>thiller</dc:subject>
-        <dc:subject>élettörténet</dc:subject>
-        <dc:subject>bűnügyi</dc:subject>
-    </opf:metadata>
-    <opf:guide>
-        <opf:reference type="cover" title="Cover" href="cover.jpg" />
-    </opf:guide>
-</opf:package>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2013-01-25T22:07:27+00:00"/>
+        <meta name="calibre:title_sort" content="parfüm, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <opf:metadata>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">41ce3f64-bc9a-4679-a9b9-6df02fd44bab</dc:identifier>
         <dc:title>A Két Torony</dc:title>
         <dc:creator opf:file-as="Tolkien, J. R. R." opf:role="aut">J. R. R. Tolkien</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1990-02-14T23:00:00+00:00</dc:date>
         <dc:description>&lt;p class="description"&gt;A Gyűrűk ura tündérmese. Mégpedig - legalábbis terjedelmét tekintve - alighanem minden idők legnagyobb tündérmeséje. Tolkien képzelete szabadon, ráérősen kalandozik a könyv három vaskos kötetében - vagyis abban a képzelt időben, mikor a világ sorát még nem az ember szabta meg, hanem a jót és szépet, a gonoszat és álnokot egyaránt ember előtti lények, ősi erők képviselték. Abban az időben, mikor a mi időszámításunk előtt ki tudja, hogy ezer, tízezer esztendővel a Jó kisebbségbe szorult erői szövetségre léptek, hogy a Rossz erőit legyőzzék: tündérek, féltündérek, az ősi Nyugat-földe erényeit őrző emberek, törpök és félszerzetek, erdő öregjei fogtak össze, hogy a jó varázslat eszközével, s a nagy mágus, Gandalf vezetésével végül győzelmet arassanak, de épp e győzelem következtében elenyésszen az ő idejük, s az árnyak birodalmába áthajózva átadják a földet új urának, az emberfajnak. &lt;br&gt;Különös világ ez az emberfölötti - vagy emberalatti - lényekkel benépesített Középfölde. Anyagi valósága nincs. Baljós, fekete várai, csodás fehér tornyai, fullasztó, sűrű erdei, gyilkos hegyei, sötét mélységei gondoskodnak róla, hogy egy pillanatig ne érezzük magunkat a fogható valóság közegében. Különös, hisz ebben a mesevilágban, ahol oly ékesen virágoznak a lovagi erények, véletlenül sem találkozunk az emelkedett eseményeket hirdető kora középkori lovagvilág fonákjával, az eszmények máza alatt a könyörtelen társadalmi tagozódással, elnyomással, nyomorral, létbizonytalansággal; ebben a külsőre feudálisnak tetsző világban jó is, rossz is vele születik a szereplőkkel, ott rejlik a szívük mélyén; a könyv személytelen szereplője a morál, az pedig kiben-kiben belső parancs.&lt;/p&gt;</dc:description>
         <dc:publisher>Árkádia Könyvkiadó</dc:publisher>
@@ -16,26 +16,17 @@
         <dc:subject>Nagy-Britannia</dc:subject>
         <dc:subject>Európa</dc:subject>
         <dc:subject>Szépirodalom</dc:subject>
-        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>fantasy</dc:subject>
         <dc:subject>elbeszélés</dc:subject>
         <dc:subject>novella</dc:subject>
         <dc:subject>regény</dc:subject>
-        <opf:meta name="calibre:author_link_map" content="{&quot;J. R. R. Tolkien&quot;: &quot;&quot;}" />
-        <opf:meta name="calibre:series" content="A gyűrűk Ura" />
-        <opf:meta name="calibre:series_index" content="2" />
-        <opf:meta name="calibre:timestamp" content="2012-11-13T13:39:30+00:00" />
-        <opf:meta name="calibre:title_sort" content="Két Torony, A" />
-        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
-        <dc:subject>Europe</dc:subject>
-        <dc:subject>Novel</dc:subject>
-        <dc:subject>Short Story</dc:subject>
-        <dc:subject>Narrative</dc:subject>
-        <dc:subject>Fantázia</dc:subject>
-        <dc:subject>Great Britain</dc:subject>
-        <dc:subject>Literature</dc:subject>
-        <dc:subject>Irodalom</dc:subject>
-    </opf:metadata>
-    <opf:guide>
-        <opf:reference type="cover" title="Cover" href="cover.jpg" />
-    </opf:guide>
-</opf:package>
+        <meta name="calibre:series" content="A gyűrűk Ura"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2012-11-13T13:39:30+00:00"/>
+        <meta name="calibre:title_sort" content="Két Torony, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

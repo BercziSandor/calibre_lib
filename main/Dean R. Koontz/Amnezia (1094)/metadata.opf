@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <opf:metadata>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1094</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">32f90c88-6526-44d9-a705-3ff616905e22</dc:identifier>
         <dc:title>Amnézia</dc:title>
         <dc:creator opf:file-as="Koontz, Dean R." opf:role="aut">Dean R. Koontz</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2003-02-20T00:00:00+00:00</dc:date>
         <dc:description>Susan, a harminc körüli fizikusnő egy ismeretlen városka kórházában ébred. Sejtelme sincs, hogy került oda, sőt, hirtelenjében azt sem tudja, ki ő egyáltalán. Kiderül, hogy majd húsz napja fekszik itt kómában. Lassan visszatérő emlékei között mindent elnyom egy szörnyű kép: vőlegényének tizenhárom évvel ezelőtti kegyetlen meggyilkolása. Majd mintha meg is elevenednének a sötét múlt árnyai. A férfi rég halottnak hitt gyilkosait látja a kórház folyosóján, sőt a halott kedves is megjelenik, mintha a sírból kelt volna ki. Az orvosok szerint Susan csak képzelődik, hallucinál. Ám a rémlátomások egyre valóságosabbak, és egyre erőszakosabban fenyegetik a nőt. Mi történik, mi történt valójában Susannel, a szigorúan titkos amerikai kutatóintézet munkatársával? Hogyan került kórházba, s van-e onnan még szabadulás? Ezt beszéli el a pszichokrimi mestere szövevényes, feszültséggel teli történetében.</dc:description>
         <dc:publisher>Animus</dc:publisher>
@@ -16,31 +16,19 @@
         <dc:subject>orosz</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>krimi</dc:subject>
-        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>fantasy</dc:subject>
         <dc:subject>thriller</dc:subject>
         <dc:subject>katonaság</dc:subject>
         <dc:subject>amnézia</dc:subject>
         <dc:subject>KGB</dc:subject>
         <dc:subject>kísérlet</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <opf:meta name="calibre:rating" content="8" />
-        <opf:meta name="calibre:timestamp" content="2012-12-12T09:59:19+00:00" />
-        <opf:meta name="calibre:title_sort" content="Amnézia" />
-        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
-        <dc:subject>Russian</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <dc:subject>Hungarian Language</dc:subject>
-        <dc:subject>Military</dc:subject>
-        <dc:subject>Amnesia</dc:subject>
-        <dc:subject>American Author</dc:subject>
-        <dc:subject>Experiment</dc:subject>
-        <dc:subject>Crime</dc:subject>
-        <dc:subject>Fantázia</dc:subject>
-        <dc:subject>bűnözés</dc:subject>
-        <dc:subject>thiller</dc:subject>
-        <dc:subject>bűnügyi</dc:subject>
-    </opf:metadata>
-    <opf:guide>
-        <opf:reference type="cover" title="Cover" href="cover.jpg" />
-    </opf:guide>
-</opf:package>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2012-12-12T09:59:19+00:00"/>
+        <meta name="calibre:title_sort" content="Amnézia"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

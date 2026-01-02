@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <opf:metadata>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">61</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">ef787659-5724-4b1d-a427-fb5171ec8963</dc:identifier>
         <dc:title>A hobbit</dc:title>
         <dc:creator opf:file-as="Tolkien, J. R. R." opf:role="aut">J. R. R. Tolkien</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Ha ​megmozgatják a fantáziádat az oda és vissza történő utazások, amelyek kivezetnek a kényelmes nyugati világból, a Vadon szegélyén túlra, és érdekel egy egyszerű (némi bölcsességgel, némi bátorsággal és jelentős szerencsével megáldott) hős, akkor ez a könyv tetszeni fog, mivel épp egy ilyen út és utazó leírása található benne. A történet a Tündérország kora és az emberek uralma közti réges-régi időkben játszódik, mikor még állott a híres Bakacsinerdő, és a hegyek veszéllyel voltak tele. Az egyszerű kalandozó útját követve útközben megtudhatsz (ahogy ő is megtudott) – ha még nem ismernéd mindezeket a dolgokat – egyet s mást a trollokról, koboldokról, törpökről és tündékről, s bepillantást nyerhetsz egy elhanyagolt, de lényeges időszak történelmébe és eseményeibe. Mert Zsákos Bilbó úr számos jelentős személynél járt; beszélt a sárkánnyal, a hatalmas Smauggal; és akaratán kívül jelen volt az Öt Sereg Csatájánál. Ez annál is inkább figyelemre méltó, mivel ő egy hobbit. A hobbitok fölött a történelem és a legendák mind ez idáig átsiklottak, talán mert rendszerint többre tartják a kényelmet, mint az izgalmakat. Ez a személyes visszaemlékezések alapján készült beszámoló, amely Zsákos úr egyébként csendes életének egy izgalmas évét írja le, azonban képet adhat erről a becses népről, akik (úgy mondják) manapság megfogyatkoztak. Mert nem szeretik a zajt.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -18,7 +18,7 @@
         <dc:subject>barátság</dc:subject>
         <dc:subject>brit szerző</dc:subject>
         <dc:subject>elf</dc:subject>
-        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>fantasy</dc:subject>
         <dc:subject>férfi főszereplő</dc:subject>
         <dc:subject>filmadaptáció</dc:subject>
         <dc:subject>gyermekkönyv iskolásoknak</dc:subject>
@@ -34,33 +34,12 @@
         <dc:subject>sárkány</dc:subject>
         <dc:subject>utazás</dc:subject>
         <dc:subject>Fantázia</dc:subject>
-        <opf:meta name="calibre:author_link_map" content="{&quot;J. R. R. Tolkien&quot;: &quot;&quot;}" />
-        <opf:meta name="calibre:rating" content="10" />
-        <opf:meta name="calibre:timestamp" content="2012-11-15T20:24:31+00:00" />
-        <opf:meta name="calibre:title_sort" content="hobbit, A" />
-        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
-        <dc:subject>British Author</dc:subject>
-        <dc:subject>Listed in 1001 Books</dc:subject>
-        <dc:subject>Magic</dc:subject>
-        <dc:subject>Classic</dc:subject>
-        <dc:subject>High Fantasy</dc:subject>
-        <dc:subject>English Author</dc:subject>
-        <dc:subject>Children's Book (School Age)</dc:subject>
-        <dc:subject>Fairy Tale Novel</dc:subject>
-        <dc:subject>Male Protagonist</dc:subject>
-        <dc:subject>Elf</dc:subject>
-        <dc:subject>Travel</dc:subject>
-        <dc:subject>Dragon</dc:subject>
-        <dc:subject>Adventure</dc:subject>
-        <dc:subject>Hungarian Language</dc:subject>
-        <dc:subject>Audiobook</dc:subject>
-        <dc:subject>Film Adaptation</dc:subject>
-        <dc:subject>Adventure Novel</dc:subject>
-        <dc:subject>Novel</dc:subject>
-        <dc:subject>Friendship</dc:subject>
-        <dc:subject>varázslat</dc:subject>
-    </opf:metadata>
-    <opf:guide>
-        <opf:reference type="cover" title="Cover" href="cover.jpg" />
-    </opf:guide>
-</opf:package>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2012-11-15T20:24:31+00:00"/>
+        <meta name="calibre:title_sort" content="hobbit, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

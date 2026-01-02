@@ -4,7 +4,7 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">1752</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">35f86d20-7ead-4aa6-8617-0e246b6ad650</dc:identifier>
         <dc:title>A lányom mindig a lányom</dc:title>
-        <dc:creator opf:file-as="Westmacott, Mary" opf:role="aut">Mary Westmacott</dc:creator>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-01-01T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt; &lt;p style="margin-bottom: 0in"&gt;Finom rajzolatú lélektani regények írója is volt Agatha Christie. Akkor is, ha Mary Westmacott írói álnév alatt jelentette meg őket, mindegyiken megtalálható a krimikirálynő kézjegye. Az intim belső terek, az elrejtett igazságok, az izgalom lassú-lusta, majd egyre erőteljesebb fokozása nem kell, hogy abszurdomig, netán gyilkosságig vigye el a történetet. A többnyire női főszereplő lelkében lezajló konfliktus sorsfordító lesz hullák nélkül is! Ann Prentice vonzó érett asszony. Amit ő természetesen figyelmen kívül hagy, csak a lányáért és csak a lányának él, így nem veszi észre, hogy nem hagyja felnőni gyermekét. Amikor lánya hosszabb időre elutazik, sorsa váratlan fordulatot vesz. Megismerkedik egy férfival, aki megcsillantja előtte az újrakezdés lehetőségét. Ám egyszerre csak megint élni kezd. Egyre nyilvánvalóbb azonban, hogy a lánya nem akarja elveszíteni anyja kizárólagos szeretetét. Bosszúhadjáratba kezd a "betolakodó" ellen. Amikor célját eléri, rádöbben, hogy az egykori anya-lány kapcsolatot már nem lehet visszaállítani. A két nő között elkezdődik egy furcsa párviadal, nem nyílt sisakkal, hanem igazi női fegyverekkel. Milyen árat fizetnek azért, hogy örökké csak a szőnyeg alá sepernek dolgokat? Meg kell-e maradni a belülről marcangoló önvád és harag állapotában.&lt;/p&gt;&lt;p style="margin-bottom: 0in"&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -27,8 +27,6 @@
         <dc:subject>London</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>női főszereplő</dc:subject>
-        <meta name="calibre:series" content="Mary"/>
-        <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2023-11-24T16:03:15+00:00"/>
         <meta name="calibre:title_sort" content="lányom mindig a lányom, A"/>

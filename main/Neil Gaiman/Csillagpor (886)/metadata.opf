@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <opf:metadata>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">886</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">02fd9680-91c3-405f-a0fe-a68c375283c6</dc:identifier>
         <dc:title>Csillagpor</dc:title>
         <dc:creator opf:file-as="Gaiman, Neil" opf:role="aut">Neil Gaiman</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-02-19T00:00:00+00:00</dc:date>
         <dc:description>Neil Gaiman könyve is úgy kezdődik, ahogyan a legjobb történetek általában: egy fiúval, egy lánnyal meg egy beteljesületlen szerelemmel. De aztán egyáltalán nem úgy folytatódik, ahogyan a mesék folytatódni szoktak. Neil Gaiman ezzel a regényével is bebizonyítja, hogy nem véletlenül tartják őt a modern fantasy egyik legnagyobb alakjának.
 Falva falva egy aprócska település Angliában. Arról a falról kapta a nevét, amely a falu határában húzódik, és elválasztja az emberi világot a varázslatok birodalmától. Egy hűvös októberi estén a fiatal Tristran Thorn hullócsillagot lát a falon túl a földre zuhanni, és hogy elnyerje a gyönyörűséges Victoria kezét, megígéri a lánynak: elhozza neki a lehullott csillagot. Tristran elindul hát élete nagy kalandjára a falon túli varázslatos világba, amelyet a legfurcsább teremtmények és soha nem látott lények népesítenek be. Hűséges társak, halálos ellenségek várják, és ha Tristran elég kitartó, olyasmit találhat meg, amire egyáltalán nem számított.</dc:description>
@@ -17,7 +17,7 @@ Falva falva egy aprócska település Angliában. Arról a falról kapta a nevé
         <dc:language>hun</dc:language>
         <dc:subject>Anglia</dc:subject>
         <dc:subject>19. század</dc:subject>
-        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>fantasy</dc:subject>
         <dc:subject>angol szerző</dc:subject>
         <dc:subject>testvérek</dc:subject>
         <dc:subject>meseregény</dc:subject>
@@ -37,37 +37,12 @@ Falva falva egy aprócska település Angliában. Arról a falról kapta a nevé
         <dc:subject>romantikus</dc:subject>
         <dc:subject>szellemek</dc:subject>
         <dc:subject>Irodalom</dc:subject>
-        <opf:meta name="calibre:author_link_map" content="{&quot;Neil Gaiman&quot;: &quot;&quot;}" />
-        <opf:meta name="calibre:rating" content="8" />
-        <opf:meta name="calibre:timestamp" content="2015-09-11T07:11:26+00:00" />
-        <opf:meta name="calibre:title_sort" content="Csillagpor" />
-        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;DOCX, EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
-        <dc:subject>British Author</dc:subject>
-        <dc:subject>Romantic</dc:subject>
-        <dc:subject>19th century</dc:subject>
-        <dc:subject>England</dc:subject>
-        <dc:subject>English Author</dc:subject>
-        <dc:subject>Portal Fantasy</dc:subject>
-        <dc:subject>Fairy Tale Novel</dc:subject>
-        <dc:subject>Fantázia</dc:subject>
-        <dc:subject>Male Protagonist</dc:subject>
-        <dc:subject>Literature</dc:subject>
-        <dc:subject>Witch</dc:subject>
-        <dc:subject>Entertainment Literature</dc:subject>
-        <dc:subject>Adventure</dc:subject>
-        <dc:subject>Hungarian Language</dc:subject>
-        <dc:subject>Illustrated</dc:subject>
-        <dc:subject>Fairy</dc:subject>
-        <dc:subject>Contemporary</dc:subject>
-        <dc:subject>Film Adaptation</dc:subject>
-        <dc:subject>Adventure Novel</dc:subject>
-        <dc:subject>Novel</dc:subject>
-        <dc:subject>Siblings</dc:subject>
-        <dc:subject>Ghosts</dc:subject>
-        <dc:subject>Szépirodalom</dc:subject>
-        <dc:subject>ghosts</dc:subject>
-    </opf:metadata>
-    <opf:guide>
-        <opf:reference type="cover" title="Cover" href="cover.jpg" />
-    </opf:guide>
-</opf:package>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2015-09-11T07:11:26+00:00"/>
+        <meta name="calibre:title_sort" content="Csillagpor"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;DOCX, EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

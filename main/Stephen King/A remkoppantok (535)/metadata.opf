@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <opf:metadata>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">535</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">25f681bb-d8ba-4318-a713-ccc8e4d18cc2</dc:identifier>
         <dc:title>A rémkoppantók</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1992-02-15T15:24:24+00:00</dc:date>
         <dc:description>Roberta Andersen westernírónő a Haven kisváros peremén fekvő birtokán él visszavonultan. Egy szép napon erdejében sétálva megbotlik egy földből kiálló fémdarabban. Az objektum holmi ráncigálásra meg se moccan: Roberta ásni kezd, és lassacskán kiderül, hogy egy gigantikus, széle, hossza nincs űrhajószerű test rejtőzik a mélyben. Az ásás a szenvedélyévé válik, ami nem csoda – a hajóból áradó sugárzás különös hatással van azokra, akik a bűvkörébe jutnak. Az írónő sorra-rendre elveszti fogait, csillapíthatatlan vérzése támad, öreg kutyájának a szeméről visszahúzódik a hályog, mi több, a hűséges jószág a fiatalodás csalhatatlan jeleit mutatja. Az eleddig műszaki antitalentum Roberta fantasztikus technikai sugallatokra lesz fogékony, de nem csak ő… A fura tárgynak minél nagyobb része szabadul ki a földből, a kisváros annál több lakóján ütnek ki a vészes tünetek.</dc:description>
         <dc:publisher>Európa</dc:publisher>
@@ -17,7 +17,7 @@
         <dc:subject>Maine</dc:subject>
         <dc:subject>földönkívüliek</dc:subject>
         <dc:subject>függőség</dc:subject>
-        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>fantasy</dc:subject>
         <dc:subject>sci-fi</dc:subject>
         <dc:subject>Szépirodalom</dc:subject>
         <dc:subject>thriller</dc:subject>
@@ -29,7 +29,7 @@
         <dc:subject>elbeszélés</dc:subject>
         <dc:subject>ufo</dc:subject>
         <dc:subject>alkoholizmus</dc:subject>
-        <dc:subject>Horror</dc:subject>
+        <dc:subject>horror</dc:subject>
         <dc:subject>akció</dc:subject>
         <dc:subject>Tartalom szerint</dc:subject>
         <dc:subject>kisváros</dc:subject>
@@ -39,42 +39,12 @@
         <dc:subject>író</dc:subject>
         <dc:subject>Kísértet- és rémtörténetek</dc:subject>
         <dc:subject>filmadaptáció</dc:subject>
-        <opf:meta name="calibre:rating" content="8" />
-        <opf:meta name="calibre:timestamp" content="2013-06-11T20:37:39+00:00" />
-        <opf:meta name="calibre:title_sort" content="rémkoppantók, A" />
-        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
-        <dc:subject>Writer</dc:subject>
-        <dc:subject>Thriller</dc:subject>
-        <dc:subject>Short Story</dc:subject>
-        <dc:subject>Mystical</dc:subject>
-        <dc:subject>Narrative</dc:subject>
-        <dc:subject>Science Fiction</dc:subject>
-        <dc:subject>By Content</dc:subject>
-        <dc:subject>UFO</dc:subject>
-        <dc:subject>Fantázia</dc:subject>
-        <dc:subject>Literature</dc:subject>
-        <dc:subject>Entertainment Literature</dc:subject>
-        <dc:subject>Aliens</dc:subject>
-        <dc:subject>Adventure</dc:subject>
-        <dc:subject>Hungarian Language</dc:subject>
-        <dc:subject>Contemporary</dc:subject>
-        <dc:subject>akció</dc:subject>
-        <dc:subject>Film Adaptation</dc:subject>
-        <dc:subject>Ghost &amp; Horror Stories</dc:subject>
-        <dc:subject>Alcoholism</dc:subject>
-        <dc:subject>Novel</dc:subject>
-        <dc:subject>American Author</dc:subject>
-        <dc:subject>Small Town</dc:subject>
-        <dc:subject>Addiction</dc:subject>
-        <dc:subject>akció</dc:subject>
-        <dc:subject>Irodalom</dc:subject>
-        <dc:subject>Fiction - Science Fiction</dc:subject>
-        <dc:subject>thiller</dc:subject>
-        <dc:subject>Science Fiction - General</dc:subject>
-        <dc:subject>akció</dc:subject>
-        <dc:subject>akció</dc:subject>
-    </opf:metadata>
-    <opf:guide>
-        <opf:reference type="cover" title="Cover" href="cover.jpg" />
-    </opf:guide>
-</opf:package>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2013-06-11T20:37:39+00:00"/>
+        <meta name="calibre:title_sort" content="rémkoppantók, A"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

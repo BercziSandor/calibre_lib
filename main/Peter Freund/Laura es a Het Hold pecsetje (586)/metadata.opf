@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <opf:metadata>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">586</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">441b7d18-9b0c-43a7-820c-146ef691b4c3</dc:identifier>
         <dc:title>Laura és a Hét Hold pecsétje</dc:title>
         <dc:creator opf:file-as="Freund, Peter" opf:role="aut">Peter Freund</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2004-02-19T00:00:00+00:00</dc:date>
         <dc:description>Laura ​csak tizenhárom esztendős, de bátorsággal és rendkívüli képességekkel megáldott. Szüksége is van ezekre a képességekre, ha meg akarja nyerni a majdnem kilátástalan harcot a Sötét Fejedelem ellen, aki fogságban tartja a lány apját. Az iskola igazgatója, Morgenstern professzor ismeri Laura rendkívüli képességeit, melléje is áll – de egyszer csak gyilkosság gyanújába keveredik. Hogy ő gyilkolta volna meg egy titkos archívum vak könyvtárosát. Szerencsére Laura még így is számíthat valakire, Alarikra, Paravain Fehér Lovagjainak apródjára, akit hazájából, Aventerráról a földre kergettek. Alarik segítségével a lány bejut a Sötét Fejedelem erdőjébe. Ott azonban a fejedelem karjai közé kerül.
 Élete legmélyebb pontján döntenie kell: folytatja-e elkeseredett harcát a Jó győzelméért, avagy inkább az apja életét választja. Valami még segíthet, a Hét Hold Pecsétje – de hogy ez mi, a történelem legnagyobb rejtélyei közé tartozik. És már a professzor sem reménykedik benne, hogy Laura meg tudná fejteni…</dc:description>
@@ -16,28 +16,19 @@
         <dc:subject>német</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>regény</dc:subject>
-        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>fantasy</dc:subject>
         <dc:subject>német szerző</dc:subject>
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>gyermek- és ifjúsági irodalom</dc:subject>
         <dc:subject>ifjúsági</dc:subject>
-        <opf:meta name="calibre:author_link_map" content="{&quot;Peter Freund&quot;: &quot;&quot;}" />
-        <opf:meta name="calibre:series" content="Laura" />
-        <opf:meta name="calibre:series_index" content="2" />
-        <opf:meta name="calibre:rating" content="8" />
-        <opf:meta name="calibre:timestamp" content="2014-02-21T16:39:52+00:00" />
-        <opf:meta name="calibre:title_sort" content="Laura és a Hét Hold pecsétje" />
-        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
-        <dc:subject>German Author</dc:subject>
-        <dc:subject>Children &amp; Youth Literature</dc:subject>
-        <dc:subject>Hungarian Language</dc:subject>
-        <dc:subject>Novel</dc:subject>
-        <dc:subject>Part of Series</dc:subject>
-        <dc:subject>Fantázia</dc:subject>
-        <dc:subject>Young Adult</dc:subject>
-        <dc:subject>German</dc:subject>
-    </opf:metadata>
-    <opf:guide>
-        <opf:reference type="cover" title="Cover" href="cover.jpg" />
-    </opf:guide>
-</opf:package>
+        <meta name="calibre:series" content="Laura"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2014-02-21T16:39:52+00:00"/>
+        <meta name="calibre:title_sort" content="Laura és a Hét Hold pecsétje"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
