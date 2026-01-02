@@ -1,38 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-        <dc:identifier opf:scheme="calibre" id="calibre_id">1564</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">78b0c50d-e0f4-4adb-9919-7b818b4e0feb</dc:identifier>
-        <dc:title>Árnyvadászok</dc:title>
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1570</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ca77c5c-4f35-45d7-a948-3ff1d5cd7954</dc:identifier>
+        <dc:title>Gergő és az álomvámpírok II.</dc:title>
         <dc:creator opf:file-as="Böszörményi, Gyula" opf:role="aut">Böszörményi, Gyula</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2008-01-01T23:00:00+00:00</dc:date>
-        <dc:description>&lt;div&gt;
-&lt;p&gt;A végső összecsapás elkerülhetetlen! Jonatán, a jövőből jött fiú nem ismer tréfát, ha jó könyvekről, s az azokat elpusztítani akaró Üpszilonról van szó. Galagonyával ezúttal a XV. századba jutnak vissza. Várja őket a rettenetes Árny és a Nagy Leszámolás…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:date>2016-01-01T23:00:00+00:00</dc:date>
         <dc:publisher>Könyvmolyképző</dc:publisher>
-        <dc:identifier opf:scheme="MOLY_HU">boszormenyi-gyula-arnyvadaszok</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">573ESAAACAAJ</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9789633732168</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789632458144</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">boszormenyi-gyula-gergo-es-az-alomvampirok-ii</dc:identifier>
         <dc:language>hun</dc:language>
+        <dc:subject>fantasy</dc:subject>
         <dc:subject>regény</dc:subject>
-        <dc:subject>15. század</dc:subject>
-        <dc:subject>gyermekkönyv iskolásoknak</dc:subject>
-        <dc:subject>időutazás</dc:subject>
-        <dc:subject>kalandregény</dc:subject>
-        <dc:subject>kamasz főszereplő</dc:subject>
-        <dc:subject>kobold</dc:subject>
+        <dc:subject>2000-es évek</dc:subject>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>álom</dc:subject>
+        <dc:subject>IBBY-díj</dc:subject>
+        <dc:subject>ifjúsági</dc:subject>
         <dc:subject>kortárs</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>magyar szerző</dc:subject>
-        <dc:subject>Németország</dc:subject>
+        <dc:subject>naplóregény</dc:subject>
         <dc:subject>sorozat része</dc:subject>
-        <dc:subject>tél</dc:subject>
-        <dc:subject>váltott nézőpont</dc:subject>
-        <meta name="calibre:series" content="Jonatán kalandjai"/>
-        <meta name="calibre:series_index" content="3"/>
-        <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2022-07-02T16:37:00+00:00"/>
-        <meta name="calibre:title_sort" content="Árnyvadászok"/>
+        <dc:subject>táltos</dc:subject>
+        <dc:subject>urban fantasy</dc:subject>
+        <meta name="calibre:series" content="Gergő-regények"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-07-02T16:52:05+00:00"/>
+        <meta name="calibre:title_sort" content="Gergő és az álomvámpírok II."/>
         <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>

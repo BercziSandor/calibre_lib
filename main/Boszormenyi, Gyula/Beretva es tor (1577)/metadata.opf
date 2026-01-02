@@ -5,8 +5,8 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c441dbf9-0c7f-4a79-9851-c14841acb91a</dc:identifier>
         <dc:title>Beretva és tőr</dc:title>
         <dc:creator opf:file-as="Böszörményi, Gyula" opf:role="aut">Böszörményi, Gyula</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2021-07-01T22:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-01T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;1900 ​verőfényes őszén Budapest székesfővárosa a mesés Perzsia uralkodóját látja vendégül. Muzaffer ed-din Qajar egész udvartartásával utazgat Európában, két marokkal szórva a pénzt és a kitüntetéseket. A magyar fővárosban négy kellemes napot szándékozik tölteni, amiről a sajtó részletesen be is számol, ám még a szemfüles firkászok sem találnak magyarázatot néhány érthetetlen történésre.&lt;br&gt;Vajon a perzsa uralkodó Budapestre érkezvén miért azt tartja a legsürgetőbbnek, hogy fehérneműt vásároljon? Mi oka lemondani első napján szinte minden programját, és elzárkózni attól, hogy az ország legfőbb méltóságaival találkozzék? Rudnay Béla rendőrfőkapitány vajon miért zárja le légmentesen a Hungária nagyszállót, ahol a sah és kísérete lakik, és mi lehet a magyarázata annak, hogy a személyzet kísértetjárásról pusmog? &lt;br&gt;Mikor Vámbéry Ármin, a híres Kelet-kutató és Ambrózy Richárd báró is a szállodába siet, már mindenki sejtheti, hogy a háttérben sötét erők munkálkodnak – pedig Hangay Mili kisasszony még csak eztán érkezik!&lt;br&gt;Egy újabb, megtörtént eseményeken alapuló Ambrózy-ügy, ami A Rudnay-gyilkosságokban épp csak említésre került, ám most végre elmeséltetik!&lt;br&gt;„Aztabetyárkiskésitneki! Böszörményi Gyula író urat bezáratni kéretik, és addig ki nem ereszteni, amíg az utolsó kötet kéziratát elő nem teremti!” &lt;br&gt;– Rozsonits Judit, goodreads&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Könyvmolyképző</dc:publisher>
@@ -14,13 +14,31 @@
         <dc:identifier opf:scheme="ISBN">9789633997949</dc:identifier>
         <dc:identifier opf:scheme="MOLY_HU">boszormenyi-gyula-beretva-es-tor</dc:identifier>
         <dc:language>hun</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Böszörményi, Gyula&quot;: &quot;&quot;}"/>
+        <dc:subject>kisregény</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>19. század</dc:subject>
+        <dc:subject>1900-as évek</dc:subject>
+        <dc:subject>arisztokrácia</dc:subject>
+        <dc:subject>Budapest</dc:subject>
+        <dc:subject>ifjúsági</dc:subject>
+        <dc:subject>kiegészítő kötet</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magándetektív</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>női főszereplő</dc:subject>
+        <dc:subject>Osztrák-Magyar Monarchia</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>századforduló</dc:subject>
+        <dc:subject>történelmi krimi</dc:subject>
+        <dc:subject>történelmi személy</dc:subject>
+        <dc:subject>uralkodó</dc:subject>
         <meta name="calibre:series" content="Ambrózy báró esetei"/>
         <meta name="calibre:series_index" content="2.5"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2022-07-02T17:36:41+00:00"/>
         <meta name="calibre:title_sort" content="Beretva és tőr"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>
