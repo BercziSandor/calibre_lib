@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1863</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c1535c2-42e2-41d4-b8e9-c569baa09be5</dc:identifier>
+        <dc:title>Hogyan írjunk verset?</dc:title>
+        <dc:creator opf:file-as="János, Lackfi" opf:role="aut">Lackfi János</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-01T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Versírást ​nem lehet tanulni, nem? Költőnek születni kell! Megszületik: kisfiú, kislány vagy költő? Akkor külön tesszük a babát. &lt;br&gt;Naná, vízszerelőnek meg focistának is születni kell. Minden olyan munkához, amit szívvel-lélekkel végzünk. &lt;br&gt;A költészet műveléséhez nem elég a hatalmas szív és máj, mint a nótázáshoz. Meg az ihlet sem, amitől habzik a szánk, és rángatózni kezdünk. Nem árt némi erőnlét, gyakorlás, csak épp az irodalmi izomzat nem látszik a strandon. Annál inkább megfigyelhető a javuló szövegminőségen. &lt;br&gt;Lackfi János egyetemen, fesztiválon, versműhelyekben, internetes fórumokon több mint húsz éve tanít írástechnikai trükköket fiatalok és felnőttek sokaságának. Ezeket a tapasztalatait összegzi most gyakorlatias könyvében, hogy minél többen nekilássanak az irodalmi fekvőtámaszozásnak, és kigyúrhassák magukat. &lt;br&gt;A kötetet használva bárki megtanulhat kicsit jobban írni, mint ahogy eddig tette. Több tucat feladat vár az aktív olvasóra ebben a pörgős, életszagú kézikönyvben. Ugyanis a költészet az életről szól, meg persze halálról, szerelemről, családról, nyelvről, Istenről, örömökről, fájdalmakról. És közben nem olyan nagy kunszt egy kis rímelést vagy anapesztust tanulni. Meg a szabad vers szabályait. Kézműves költészetet. &lt;br&gt;Mert hogy ez jó mulatság, jó buli, jó játék. Akkor is, ha olykor véresen komoly játék.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Helikon</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">c438c8c2-2750-40ed-ae2c-53824eea1dc3</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789636202354</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">lackfi-janos-hogyan-irjunk-verset</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>írástechnika</dc:subject>
+        <dc:subject>Kreativitás</dc:subject>
+        <dc:subject>verstan</dc:subject>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2026-01-02T15:09:10.657677+00:00"/>
+        <meta name="calibre:title_sort" content="Hogyan írjunk verset?"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;MOBI&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1862</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1dfd516a-cc34-4b36-843f-182301181513</dc:identifier>
+        <dc:title>És volt nála egy balta is…</dc:title>
+        <dc:creator opf:file-as="Attila, Oláh" opf:role="aut">Oláh Attila</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-04T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Van-e élet a börtön után? És egyáltalán van-e élet a börtön előtt? Sokak számára nincs. A legtöbben szabadulás után újra ugyanott kötnek ki – bűn, erőszak, agresszió, árulás közepette. Attila megharcolta a saját csatáit, hogy kemény, balhés emberré váljon, és aztán döntött. Döntött, hogy maga mögött hagyja a múltat, a családját, mindazt, ami sorsát a bűn felé vezette. Ez talán még keményebb volt, mint lopni, csalni, rabolni. Csak ő tudta ezt megtenni, de nem tudta megtenni egyedül. &lt;/p&gt;
+&lt;p align="justify"&gt;A Feldmár-történetek az akarat erejéről és hiábavalóságáról, az odaadás csodájáról, hiányról és újrakezdésről – róla, rólad és rólunk szólnak. &lt;/p&gt;
+&lt;p align="justify"&gt;„Ez a könyv nemcsak Attila története, hanem másoké is, sokaké. Minél személyesebb és részletesebb egy igaz történet, amit valaki leír, annál univerzálisabb. Ha valaki pontosan leírja, mi van, az a valóság, és az kinyílik, rezonál mások valóságára.” &lt;br&gt;– Feldmár András&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HVG Könyvek</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789633042694</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">olah-attila-es-volt-nala-egy-balta-is</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>magyar</dc:subject>
+        <dc:subject>börtön</dc:subject>
+        <dc:subject>életrajz</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>visszaemlékezés</dc:subject>
+        <dc:subject>ismeretterjesztő</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2026-01-02T15:08:12.831579+00:00"/>
+        <meta name="calibre:title_sort" content="És volt nála egy balta is…"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

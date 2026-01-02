@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1856</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c6922b1-f064-49b9-8869-12d96705234a</dc:identifier>
+        <dc:title>Az örvény</dc:title>
+        <dc:creator opf:file-as="Márton, Gerlóczy" opf:role="aut">Gerlóczy Márton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-01T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;„A ​dolgok egyféleképpen történhetnek, tudniillik úgy, ahogyan történtek.”&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;Talán eltelt egy másodperc, talán kettő, talán egy sem. Eldördült az ágyú, megrepedt a hegy. Gerlóczy Márton többkötetes identitásthrillerének második része ott folytatódik, ahol az első véget ért. A DNS-eredmény megérkezett a szicíliai kisváros csöndes sikátorába, a családregény szereplői szétszéledtek, és a történet helyén elindul a lefelé szívó gyors, forgó mozgás. Az aparegény apa nélkül marad. A Fikció második része utazás a tudat mélyére, kényszerleszállások, vulkánkitörések és frontális ütközések örvénylése egy családtörténetben önmagát kereső ember identitása körül.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;„Ötödik napja nem tudtam, ki az apám. December 26-án ágyúdörrenésre ébredtem. Hallottam, ahogy a galamb felröppen a helyéről. Nem nyitottam ki a szememet. Láttam, ahogy a házak fölé repül és körülnéz. A Via Santiglián föl-le cikázott a dörrenés visszhangja, mintha vödrökkel rohangálnának a sciclitanók tüzet oltani. Sorra csapódtak ki a spaletták, az egyik teraszról csipás szemű szobakutya ugatta a kolostort, ahonnan fehér füstöt fújt a város fölé a szél. A magasból, ahonnan lenézve Scicli összenő a sziklákkal, és mint egy barokk tükör, sárgán ragyog a reggeli fényben, láttam, hogy a távolban szürke karfiolfelhő emelkedik a horizont fölé. Az Etna! A DNS! A robbanás, gondoltam, és kinyitottam a szemem.”&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Scolar</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789635096176</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">8c91a126-51a1-4a4c-b0c0-9b632e4650d7</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">AlKpzwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">gerloczy-marton-az-orveny</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>karácsony</dc:subject>
+        <dc:subject>lélektani fikció</dc:subject>
+        <dc:subject>család</dc:subject>
+        <dc:subject>énelbeszélő</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>lélektani</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>nyomozás</dc:subject>
+        <dc:subject>Olaszország</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>Szicília</dc:subject>
+        <meta name="calibre:series" content="Fikció"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2026-01-02T14:59:36.557604+00:00"/>
+        <meta name="calibre:title_sort" content="örvény, Az"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;AZW3&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1867</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2a3e168b-6b6e-4c0b-8041-8975ea860b2b</dc:identifier>
+        <dc:title>Tabuk és dilemmák a kamaszok nevelésében</dc:title>
+        <dc:creator opf:file-as="Szél, Dávid" opf:role="aut">Szél, Dávid</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-07-30T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Lehet-e ​és kell-e nevelni egy kamaszt? &lt;/p&gt;
+&lt;p align="justify"&gt;Miért nem akar semmit elmesélni a gyerekünk? &lt;/p&gt;
+&lt;p align="justify"&gt;Mit tegyünk, ha kipróbálja a drogokat? &lt;/p&gt;
+&lt;p align="justify"&gt;Miért ne ijedjünk meg, ha nem akar továbbtanulni? &lt;/p&gt;
+&lt;p align="justify"&gt;A nagy sikerű Tabuk és dilemmák a gyereknevelésben – Az altatástól a szexedukációig &lt;br&gt;című kötet gyakorló pszichológus szerzője ezúttal a zűrzavaros kamaszkort és a hozzá kapcsolódó megosztó témákat, kőbe vésett hiedelmeket, féltve őrzött titkokat és tudattalan tabukat veszi górcső alá. Szót ejt a család szükségszerű átalakulásáról, a kamaszok magánéletéről, arról, hogy mennyire és mikor van szüksége egy kamasznak a szülőre, meddig terjed a kamasz felelőssége és hol kezdődik a szülőé, vagy hogy mi az, amiben a tudatosság, és mi az, amiben a tiltás a célravezető. Megtudhatjuk, kinek, hogyan és mikor kellene beszélnie a menstruációról, a fogamzásgátlásról és a testi örömökről, és hogy mi a teendő, ha valami kisiklik a „normál” mederből. &lt;/p&gt;
+&lt;p align="justify"&gt;A friss kutatási eredményekkel és szemléletes példákkal illusztrált kötet nem ír elő, nem dönt sem a szülők, sem a kamaszok helyett, tájékoztat viszont és irányokat mutat. Arra is rávilágít, hogy a kamaszkorba tényleg nagyon sok minden belefér, a lényeg pedig a szülő-gyerek kapcsolat, a kamaszok megértése és elfogadása. &lt;/p&gt;
+&lt;p align="justify"&gt;"Mi felnőttek, a kamaszokról legtöbbször olyan végletesen beszélünk, mint amilyen maga a kamaszkor. Teli vágyakkal, kíváncsisággal, szeretettel, dühvel, féltéssel és értetlenséggel. "Ilyenkor nem segít, hogy tudjuk, „mind voltunk gyerekek”. Ennél többre van szükségünk: biztatásra, higgadt szavakra, megerősítésre és elfogadásra. Nekünk, szülőknek és szülőkkel, kamaszokkal foglalkozó szakembereknek is, hogy aztán mi is így tudjunk fordulni feléjük. &lt;/p&gt;
+&lt;p align="justify"&gt;Vannak dolgok az életben, amiket nem azért csinálunk, mert könnyű, hanem mert fontos. Egy kamasz kísérése, támogatása, a rá való odafigyelés és felé mutatott szeretet ilyen. S ezzel mind többek leszünk. A gyerek is, és mi is. Arról nem is beszélve, hogy minden gyereknek joga van ahhoz, hogy jól szeressék és minden támogatást megkapjon ahhoz, hogy azzá a felnőtté válhasson, akinek született. Ez a könyv ebben segít minket." &lt;br&gt;Gyurkó Szilvia &lt;br&gt;gyermekjogi tanácsadó&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HVG Könyvek</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789635654345</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>gyermeknevelés</dc:subject>
+        <dc:subject>kamaszkor</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>pszichológia</dc:subject>
+        <meta name="calibre:timestamp" content="2026-01-02T15:17:36.840773+00:00"/>
+        <meta name="calibre:title_sort" content="Tabuk és dilemmák a kamaszok nevelésében"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

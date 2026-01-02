@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1861</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bffc41b5-9a85-4942-b588-d71f22c8c09b</dc:identifier>
+        <dc:title>Így szerettek ők 3.</dc:title>
+        <dc:creator opf:file-as="Krisztián, Nyáry" opf:role="aut">Nyáry Krisztián</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-01T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify" id="full_description"&gt;Nyáry ​Krisztián 2012-ben mesélt először íróink és költőink szerelmi életéről. Az Így szerettek ők első és második része bekerültek az elmúlt évek legnagyobb könyvsikerei közé. Most elkészült a sorozat várva-várt harmadik része: ismét lekerülnek az unalmas íróportrék a tantermek falairól. &lt;br&gt;A könyvből egyebek mellett megtudhatjuk, hogyan érzett egyoldalú szerelmet József Attila pszichoanalitikusa, Gyömrői Edit iránt; miért írta népdalait Kisfaludy Károly egy vallásos zsidó lányhoz, aki nem lehetett az övé; hogyan próbálta megszervezni Vajda János és ifjúkori szerelme, Kratochwill Gerogina újbóli találkozását a költő későbbi felesége; miért kérte meg hétszer Móricz Zsigmond Magoss Olga kezét; és miként tudott Ignácz Rózsa a Gestapo börtönében tanúként részt venni volt férje második esküvőjén. Kiderül az is, hogy Petőfi Sándornak szerelme, Mednyányszky Berta helyett annak apja küldött szakító levelet; hogy Dsida Jenőt és menyasszonyát, Imbery Melindát hat évig próbálták elválasztani egymástól a szüleik, ezért csak titokban találkozhattak; valamint hogy miként élt évekig Molnár Ferenc és élete utolsó szerelme, Bartha Vanda ugyanannak a New York-i hotelnek két külön emeletén. &lt;/p&gt;
+&lt;p align="justify"&gt;Nyáry Krisztián elmeséli, hogy Kosztolányi Dezső hogyan folytatott éveken át szerelmi viszonyt gyermeke dadájával, akiről Édes Anna alakját mintázta; hogy tudott megszökni Gérecz Attila a Dunában úszva a börtönből, és miért adta fel ezután volt barátnője a rendőröknek; valamint hogy miként szövődött titkos szerelem Szabó Lőrinc és barátja, Illyés Gyula felesége, Kozmutza Flóra között. Megtudhatjuk, mi köze volt Pekár Gyulának a pisztolylövéshez, amelybe majdnem belehalt Krúdy Gyula több regényalakjának modellje, Pilisy Róza írónő és luxusprostituált; hogyan találta meg a boldogságot Galgóczi Erzsébet Gobbi Hilda oldalán; és azt is, hogy miért nem nősült meg soha Hunyady Sándor, miután szerelmi bánatában megkísérelte szíven lőni magát.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Corvina</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789631368673</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">nyary-krisztian-igy-szerettek-ok-3</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>életrajz</dc:subject>
+        <dc:subject>irodalomtörténet</dc:subject>
+        <dc:subject>18. század</dc:subject>
+        <dc:subject>19. század</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>bulvár</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>Házasság</dc:subject>
+        <dc:subject>illusztrált</dc:subject>
+        <dc:subject>író</dc:subject>
+        <dc:subject>ismeretközlő irodalom</dc:subject>
+        <dc:subject>ismeretterjesztő</dc:subject>
+        <dc:subject>költő</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>Magyarország</dc:subject>
+        <dc:subject>művészet</dc:subject>
+        <dc:subject>női főszereplő</dc:subject>
+        <dc:subject>párkapcsolat</dc:subject>
+        <dc:subject>portré</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>szerelem</dc:subject>
+        <meta name="calibre:series" content="Így szerettek ők"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2026-01-02T15:07:35.012166+00:00"/>
+        <meta name="calibre:title_sort" content="Így szerettek ők 3."/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

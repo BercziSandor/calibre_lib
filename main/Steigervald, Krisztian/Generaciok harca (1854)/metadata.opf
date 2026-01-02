@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1854</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">474cc470-470d-4e74-aea9-5a17a136efea</dc:identifier>
+        <dc:title>Generációk harca</dc:title>
+        <dc:creator opf:file-as="Steigervald, Krisztián" opf:role="aut">Steigervald, Krisztián</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-01T23:00:00+00:00</dc:date>
+        <dc:description>Steigervald Krisztián évek óta tart előadásokat arról, milyen történelmi, technológiai és kulturális események hatására változtunk meg az utóbbi csaknem száz évben: hogyan hatottak az egyes korszakok a gondolkodásunkra és világlátásunkra, miért alakultak ki ebből a különböző (veterán-, baby boomer, X, Y, Z és alfa-) generációk, melyiknek milyen jellegzetességei vannak, miképpen viszonyulnak egymáshoz, és hogyan érthetnék meg egymást ezek tagjai a jobb együttműködés érdekében - egy sikeresebb, boldogabb élet reményében.
+Generációk harca című könyvének legfontosabb célja, hogy letisztítsa a generációkról az igaztalan sztereotípiákat, valamint feltárja értékeiket. Így mindenki felismerheti a saját generációs korlátait, és a nemzedékek között dúló csatározások helyett képesek leszünk magunkat kívülről szemlélni, másokat megérteni - vagy akár nevetni is azokon a szituációkon, amikor csupán a generációnk beszélt belőlünk... "Az eltelt évszázadok során csupán minimális különbségek voltak megfigyelhetők az egyes generációk megélésében. Az elmúlt ötven-hatvan évben viszont rohamtempóban változott meg szinte minden: az élet várható hossza, a társadalom korösszetétele, a jövőkép, a kommunikáció - s így például a tisztelet - fogalma, a várakozás jelentése, az agy leterheltsége, és még sorolhatnám. Érdemes megismerni, alaposabban feltérképezni ennek az átalakulási folyamatnak a mibenlétét és az egyes korcsoportokra gyakorolt hatását, mert enélkül csak azt látjuk, hogy nem az van, ami eddig volt - és ez feszültséghez vezet. Az ismeret viszont megértéshez és elfogadáshoz. Ennek a könyvnek ez a célja."</dc:description>
+        <dc:publisher>Partvonal</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786156058140</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">65f21345-a00e-4e25-bb26-1488ee954850</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">steigervald-krisztian-generaciok-harca</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>ismeretterjesztő</dc:subject>
+        <dc:subject>generációk</dc:subject>
+        <dc:subject>ismeretközlő irodalom</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>kultúrszociológia</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>önismeret</dc:subject>
+        <dc:subject>pszichológia</dc:subject>
+        <dc:subject>szociológia</dc:subject>
+        <dc:subject>társadalomtudomány</dc:subject>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2026-01-02T14:58:09.283491+00:00"/>
+        <meta name="calibre:title_sort" content="Generációk harca"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

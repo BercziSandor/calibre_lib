@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1859</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6be7d50-aae0-412b-9556-ca8b00a524d6</dc:identifier>
+        <dc:title>Akkor is</dc:title>
+        <dc:creator opf:file-as="Petra, Finy" opf:role="aut">Finy Petra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-01T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p align="justify"&gt;Salamon ​Sára tanárnő nemsokára negyvenéves lesz. Két gyermeket nevel, szereti a munkáját, és úgy hiszi, a házasságával is minden a legnagyobb rendben. Egyik reggel a férje, mindenféle magyarázat nélkül, fogja a bőröndjét, és elköltözik. Az új barátnőjéhez. &lt;br&gt;Kire számíthat ebben a helyzetben Sára? A túlérzékeny anyjára, aki kerüli őt? Két koraérett, kicsit furcsa gyermekére? Három barátjára, akik egyben a kollégái is, ráadásul az egyikükkel több mint sajátos a viszonya? Esetleg a mogorva szomszédra, aki már többször fel akarta jelenteni hangoskodó gyermekei és a lépcsőházban lévő rendetlenség miatt? Netán egy beteg, kómában fekvő férfira, akivel még soha nem beszélt, viszont rendszeresen bejár hozzá a kórházba felolvasni? &lt;br&gt;Finy Petra, Madárasszony című regényének hagyományait követve, most is egy fájdalmasan nehéz női sorsot mutat be. A stílus azonban időközben változott: könnyedebb, mégis karcosabb, szókimondóbb lett, ahogyan az írónő is, aki főszereplőjéhez hasonlóan szintén nemsokára betölti a negyvenet.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Athenaeum</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789632937489</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Ce45vwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">finy-petra-akkor-is</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Budapest</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>Magyarország</dc:subject>
+        <dc:subject>női főszereplő</dc:subject>
+        <dc:subject>tanár</dc:subject>
+        <dc:subject>tavasz</dc:subject>
+        <dc:subject>újrakezdés</dc:subject>
+        <dc:subject>válás</dc:subject>
+        <dc:subject>versbetét</dc:subject>
+        <dc:subject>női sors</dc:subject>
+        <dc:subject>chick lit</dc:subject>
+        <dc:subject>Házasság</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2026-01-02T15:05:28.898249+00:00"/>
+        <meta name="calibre:title_sort" content="Akkor is"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

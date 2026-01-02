@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1871</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57840588-b7f7-49f9-a45d-603ca116e2ef</dc:identifier>
+        <dc:title>Karácsonyi krimik</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Christie-t ​karácsonyra!&lt;br&gt;Így hirdette az angol kiadója évtizedeken keresztül Agatha Christie új könyvét. Bizonyára nem csak üzleti fogásról volt szó: maga a krimi királynője akart boldog ünnepeket kívánni az olvasóinak egy új könyvvel minden évben. Mert Christie számára a karácsony különösen fontos volt, ami abból is tudható, hogy több regényében és elbeszélésében is az ünnep szolgáltatja a hátteret az eseményekhez.&lt;br&gt;Az egyikben Hercule Poirot vidéken tölti a karácsonyt, és az ünnep reggelén holttestet talál a hóban, amely aztán eltűnik…&lt;br&gt;A második történet főhőse szintén Poirot, aki majdnem negyven évvel később megint kénytelen egy vidéki kúriában karácsonyozni, és a herceg ellopott rubinját kell megkeresnie.&lt;br&gt;Majd megint csak Poirot következik, és egy gyűlölködő család emlékezetes leírása. A szeretet ünnepén a családfőt holtan találják, és a jelenlevők közül senki sem sajnálja.&lt;br&gt;Végül azért Miss Marple is kap egy emlékezetes karácsonyi szerepet. Egy vidéki szállodában gyilkosság történik az ünnepek alatt, és csak a szelíd, kék szemű vénkisasszony lát át a gonosztevő mesterkedésén.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Az írónő karácsonyi krimijeit most először gyűjtöttük össze magyarul is egy kötetben.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Helikon</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789634794912</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">5ad0bc95-83d8-4945-a45d-dc788be7779b</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>Anglia</dc:subject>
+        <dc:subject>angol szerző</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>bűnüldözés</dc:subject>
+        <dc:subject>detektívtörténet</dc:subject>
+        <dc:subject>elbeszélés</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>gyilkosság</dc:subject>
+        <dc:subject>karácsony</dc:subject>
+        <dc:subject>klasszikus</dc:subject>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>novella</dc:subject>
+        <dc:subject>nyomozás</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>rejtély</dc:subject>
+        <dc:subject>tél</dc:subject>
+        <dc:subject>válogatás</dc:subject>
+        <meta name="calibre:timestamp" content="2026-01-02T15:34:32.903825+00:00"/>
+        <meta name="calibre:title_sort" content="Karácsonyi krimik"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;MOBI&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

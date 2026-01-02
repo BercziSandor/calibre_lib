@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1852</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">687ec0f1-10a4-469e-b677-8c66a2c8411e</dc:identifier>
+        <dc:title>Ügynök a terepen</dc:title>
+        <dc:creator opf:file-as="Carré, John le" opf:role="aut">John le Carré</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-01T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="background-color: #ffffff; font-weight: 400; font-family: 'Georgia','serif'; font-size: 16px"&gt;&lt;span style="color: #1f1f1f; background-color: #ffffff"&gt;Nat, ​az angol titkosszolgálat 47 éves veteránja úgy érzi, hogy az operatív ügynökként töltött éveinek vége, ideje hazatérni Londonba, ahol a felesége várja. A moszkvai központból érkező egyre komolyabb fenyegetések miatt azonban el kell vállalnia még egy munkát. Rábízzák az egyik halódó londoni alállomás, a Menedék irányítását, ráadásul nem túl ragyogó kémek szedett-vedett csapatát is a keze alá kapja. Az egyetlen tehetségesnek tűnő tiszt a fiatal Florence, aki már egy ideje figyeli az orosz részleget, ráadásul beszervezte a kiábrándult szeretőjét egy, az orosz irányításra nagy befolyással bíró ukrán oligarchának.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="background-color: #ffffff; font-weight: 400; font-family: 'Georgia','serif'; font-size: 16px"&gt;&lt;span style="color: #1f1f1f; background-color: #ffffff"&gt;Nat nemcsak a kémkedésben, hanem a tollaslabdában is született tehetség. Állandó hétfő esti játszmáin ellenfele akár a fia is lehetne: az egyedül élő és magába forduló Ed, aki képtelen elhinni, hogy a Brexitet megszavazták, ki nem állhatja Trumpot és utálja, hogy egy lélektelen médiaügynökségnek dolgozik. Mégis, mindennek ellenére Ed lesz az, aki Natet, a feleségét és Florence-t a politikai düh olyan útjára tereli, ami mindannyiuk életét veszélybe sodorja. Az&lt;/span&gt;&lt;span style="color: #1f1f1f"&gt; &lt;/span&gt;&lt;em style="color: #1f1f1f"&gt;Ügynök a terepen&lt;/em&gt;&lt;span style="color: #1f1f1f"&gt; lankadatlan feszültséggel felépített, hol szívszaggató, hol sötét humorban bővelkedő története hátborzongató portrét fest a világ működéséről. John le Carré ismét bebizonyítja, hogy vészterhes korunkat senki nem ismeri nála jobban.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Agave Könyvek</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789634196860</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">john-le-carre-ugynok-a-terepen</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>thriller</dc:subject>
+        <dc:subject>angol szerző</dc:subject>
+        <dc:subject>Brexit</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>Egyesült Királyság</dc:subject>
+        <dc:subject>hírszerzés</dc:subject>
+        <dc:subject>ír szerző</dc:subject>
+        <dc:subject>kémtörténet</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>politika</dc:subject>
+        <dc:subject>titkosszolgálat</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2026-01-02T14:56:06.046798+00:00"/>
+        <meta name="calibre:title_sort" content="Ügynök a terepen"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

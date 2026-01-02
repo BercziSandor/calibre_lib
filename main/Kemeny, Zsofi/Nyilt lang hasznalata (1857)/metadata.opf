@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1857</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc60dab5-3ca6-49f8-9430-bb8475d1385b</dc:identifier>
+        <dc:title>Nyílt láng használata</dc:title>
+        <dc:creator opf:file-as="Kemény, Zsófi" opf:role="aut">Kemény, Zsófi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Immár második kiadásban jelenik meg Kemény Zsófi slammer, költő egykori debütáló verseskötete, a Nyílt láng használata. Kissé a slam poetry világát is idézik a szókimondó, az élet apró pillanatait ugyanúgy megragadó, mint komoly, nagy kérdéseket boncolgató versek. Családi karácsonyozások ugyanúgy megelevenednek, mint a kutyasétáltatások, a volt kedves távozása vagy éppen az újhold beköszönte. Álljon itt illusztrációként a Kamaszvers egy részlete: "Olyan fiatal vagyok még, / hogy hagyhattál volna egyszerűen jelentés nélküli / nagy mondatokat mondani. // Ha hagytál volna, akkor nem lettek volna / ezek a mondatok egyre nagyobbak, / egyre nehezebbek, / és egyszerűen kigurultak volna az út szélére. / Nem kellett volna erővel félretolnod őket az útból. &lt;/p&gt;
+&lt;p&gt;" A kortárs magyar líra újdonságaira fogékony közönségnek ajánlható kötet. "www.kello.hu © minden jog fenntartva"&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Jelenkor</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">b27f1e25-1a52-4ab2-b5b1-46eadded564b</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789636767266</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">6KvHwQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">kemeny-zsofi-nyilt-lang-hasznalata</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>vers</dc:subject>
+        <dc:subject>ifjúsági</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2026-01-02T15:01:53.142314+00:00"/>
+        <meta name="calibre:title_sort" content="Nyílt láng használata"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
