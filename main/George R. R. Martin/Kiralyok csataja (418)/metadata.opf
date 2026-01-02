@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <opf:metadata>
         <dc:identifier opf:scheme="calibre" id="calibre_id">418</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">e515a0b9-1907-482f-81e3-9753d601b5c1</dc:identifier>
         <dc:title>Királyok csatája</dc:title>
@@ -35,14 +35,33 @@ A Királyok csatája merész, ötletes és bámulatos képzelőerővel megalkoto
         <dc:subject>antihős</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
         <dc:subject>alkímia</dc:subject>
-        <meta name="calibre:series" content="A tűz és jég dala"/>
-        <meta name="calibre:series_index" content="2"/>
-        <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2013-03-10T19:59:55+00:00"/>
-        <meta name="calibre:title_sort" content="Királyok csatája"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, RTF&quot;, &quot;is_multiple2&quot;: {}}"/>
-    </metadata>
-    <guide>
-        <reference type="cover" title="Cover" href="cover.jpg"/>
-    </guide>
-</package>
+        <opf:meta name="calibre:series" content="A tűz és jég dala" />
+        <opf:meta name="calibre:series_index" content="2" />
+        <opf:meta name="calibre:rating" content="10" />
+        <opf:meta name="calibre:timestamp" content="2013-03-10T19:59:55+00:00" />
+        <opf:meta name="calibre:title_sort" content="Királyok csatája" />
+        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, RTF&quot;, &quot;is_multiple2&quot;: {}}" />
+        <dc:subject>Adult Content</dc:subject>
+        <dc:subject>War</dc:subject>
+        <dc:subject>Locus Award</dc:subject>
+        <dc:subject>Death</dc:subject>
+        <dc:subject>Epic Fantasy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Dark Fantasy</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <dc:subject>Violence</dc:subject>
+        <dc:subject>Antihero</dc:subject>
+        <dc:subject>Film Adaptation</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Adventure Novel</dc:subject>
+        <dc:subject>American Author</dc:subject>
+        <dc:subject>Witch</dc:subject>
+        <dc:subject>Alchemy</dc:subject>
+        <dc:subject>Murder</dc:subject>
+        <dc:subject>Knight</dc:subject>
+        <dc:subject>Grimdark</dc:subject>
+    </opf:metadata>
+    <opf:guide>
+        <opf:reference type="cover" title="Cover" href="cover.jpg" />
+    </opf:guide>
+</opf:package>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <opf:metadata>
         <dc:identifier opf:scheme="calibre" id="calibre_id">1574</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">7a2a0c00-c331-4c68-bd6b-c5741590b3e4</dc:identifier>
         <dc:title>A Barnum-rejtély</dc:title>
@@ -33,14 +33,34 @@
         <dc:subject>női főszereplő</dc:subject>
         <dc:subject>Osztrák-Magyar Monarchia</dc:subject>
         <dc:subject>rejtély</dc:subject>
-        <meta name="calibre:series" content="Ambrózy báró esetei"/>
-        <meta name="calibre:series_index" content="6"/>
-        <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2022-07-02T17:29:27+00:00"/>
-        <meta name="calibre:title_sort" content="Barnum-rejtély, A"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;PDF&quot;, &quot;is_multiple2&quot;: {}}"/>
-    </metadata>
-    <guide>
-        <reference type="cover" title="Cover" href="cover.jpg"/>
-    </guide>
-</package>
+        <opf:meta name="calibre:series" content="Ambrózy báró esetei" />
+        <opf:meta name="calibre:series_index" content="6" />
+        <opf:meta name="calibre:rating" content="10" />
+        <opf:meta name="calibre:timestamp" content="2022-07-02T17:29:27+00:00" />
+        <opf:meta name="calibre:title_sort" content="Barnum-rejtély, A" />
+        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;PDF&quot;, &quot;is_multiple2&quot;: {}}" />
+        <dc:subject>Hungarian Author</dc:subject>
+        <dc:subject>1900s</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Humorous</dc:subject>
+        <dc:subject>Hungarian Language</dc:subject>
+        <dc:subject>Austro-Hungarian Empire</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <dc:subject>First-person Narrator</dc:subject>
+        <dc:subject>Circus</dc:subject>
+        <dc:subject>20th century</dc:subject>
+        <dc:subject>Murder</dc:subject>
+        <dc:subject>Novel</dc:subject>
+        <dc:subject>Friendship</dc:subject>
+        <dc:subject>Aristocracy</dc:subject>
+        <dc:subject>Female Protagonist</dc:subject>
+        <dc:subject>Crime Investigation</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>bűnözés</dc:subject>
+        <dc:subject>bűnügyi</dc:subject>
+    </opf:metadata>
+    <opf:guide>
+        <opf:reference type="cover" title="Cover" href="cover.jpg" />
+    </opf:guide>
+</opf:package>

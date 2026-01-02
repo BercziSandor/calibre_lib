@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <opf:metadata>
         <dc:identifier opf:scheme="calibre" id="calibre_id">757</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">497db657-c5ad-495f-bdc1-bd2b9e53fba7</dc:identifier>
         <dc:title>Őslénypark</dc:title>
@@ -34,14 +34,32 @@ De hiába a számítógépes tervezés, a tökéletesnek hitt biztonsági rendsz
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>sziget</dc:subject>
         <dc:subject>váltott szemszög</dc:subject>
-        <meta name="calibre:series" content="Jurassic Park"/>
-        <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2014-09-20T12:32:28+00:00"/>
-        <meta name="calibre:title_sort" content="Őslénypark"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
-    </metadata>
-    <guide>
-        <reference type="cover" title="Cover" href="cover.jpg"/>
-    </guide>
-</package>
+        <opf:meta name="calibre:series" content="Jurassic Park" />
+        <opf:meta name="calibre:series_index" content="1" />
+        <opf:meta name="calibre:rating" content="8" />
+        <opf:meta name="calibre:timestamp" content="2014-09-20T12:32:28+00:00" />
+        <opf:meta name="calibre:title_sort" content="Őslénypark" />
+        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;is_multiple2&quot;: {}}" />
+        <dc:subject>Dinosaur</dc:subject>
+        <dc:subject>Part of Series</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Prehistory</dc:subject>
+        <dc:subject>Hungarian Language</dc:subject>
+        <dc:subject>Island</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <dc:subject>Paleontology</dc:subject>
+        <dc:subject>American Author</dc:subject>
+        <dc:subject>Novel</dc:subject>
+        <dc:subject>20th century</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Film Adaptation</dc:subject>
+        <dc:subject>Adventure Novel</dc:subject>
+        <dc:subject>Genetic Engineering</dc:subject>
+        <dc:subject>Alternating POV</dc:subject>
+        <dc:subject>Fiction - Science Fiction</dc:subject>
+        <dc:subject>Science Fiction - General</dc:subject>
+    </opf:metadata>
+    <opf:guide>
+        <opf:reference type="cover" title="Cover" href="cover.jpg" />
+    </opf:guide>
+</opf:package>

@@ -48,6 +48,8 @@ A válaszokat a következő részekben kapjuk meg, egyvalamiben azonban teljesen
         <dc:subject>történelem</dc:subject>
         <dc:subject>történelem</dc:subject>
         <dc:subject>történelem</dc:subject>
+        <dc:subject>történelem</dc:subject>
+        <dc:subject>történelem</dc:subject>
     </opf:metadata>
     <opf:guide>
         <opf:reference type="cover" title="Cover" href="cover.jpg" />
