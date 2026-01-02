@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <opf:metadata>
         <dc:identifier opf:scheme="calibre" id="calibre_id">1614</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">bce67e9f-291f-4ecf-8b9f-dfba9c44f627</dc:identifier>
         <dc:title>Breakfast of Champions</dc:title>
@@ -24,12 +24,24 @@
         <dc:subject>Mental Illness</dc:subject>
         <dc:subject>Science fiction - Authorship</dc:subject>
         <dc:subject>Trout</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Vonnegut, Kurt&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-07-03T19:36:36+00:00"/>
-        <meta name="calibre:title_sort" content="Breakfast of Champions"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
-    </metadata>
-    <guide>
-        <reference type="cover" title="Cover" href="cover.jpg"/>
-    </guide>
-</package>
+        <opf:meta name="calibre:author_link_map" content="{&quot;Vonnegut, Kurt&quot;: &quot;&quot;}" />
+        <opf:meta name="calibre:timestamp" content="2022-07-03T19:36:36+00:00" />
+        <opf:meta name="calibre:title_sort" content="Breakfast of Champions" />
+        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
+        <dc:subject>Szatira</dc:subject>
+        <dc:subject>Science Fiction (Author)</dc:subject>
+        <dc:subject>General Fiction</dc:subject>
+        <dc:subject>általános</dc:subject>
+        <dc:subject>sci-fi</dc:subject>
+        <dc:subject>Kilgore (Fictitious Character)</dc:subject>
+        <dc:subject>Fiction - Science Fiction</dc:subject>
+        <dc:subject>Humorous Fiction</dc:subject>
+        <dc:subject>szatíra</dc:subject>
+        <dc:subject>szexualitás</dc:subject>
+        <dc:subject>pszichés betegség</dc:subject>
+        <dc:subject>Science Fiction - General</dc:subject>
+    </opf:metadata>
+    <opf:guide>
+        <opf:reference type="cover" title="Cover" href="cover.jpg" />
+    </opf:guide>
+</opf:package>

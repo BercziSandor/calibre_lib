@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <opf:metadata>
         <dc:identifier opf:scheme="calibre" id="calibre_id">1285</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">73598c09-8d98-4373-99fb-3b539959cfc4</dc:identifier>
         <dc:title>Daniel Stein, tolmács</dc:title>
@@ -34,13 +34,38 @@
         <dc:subject>szerzetesség</dc:subject>
         <dc:subject>társadalomtörténet</dc:subject>
         <dc:subject>történelem</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Ljudmila Ulickaja&quot;: &quot;&quot;}"/>
-        <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2021-02-17T19:24:21+00:00"/>
-        <meta name="calibre:title_sort" content="Daniel Stein, tolmács"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
-    </metadata>
-    <guide>
-        <reference type="cover" title="Cover" href="cover.jpg"/>
-    </guide>
-</package>
+        <opf:meta name="calibre:author_link_map" content="{&quot;Ljudmila Ulickaja&quot;: &quot;&quot;}" />
+        <opf:meta name="calibre:rating" content="10" />
+        <opf:meta name="calibre:timestamp" content="2021-02-17T19:24:21+00:00" />
+        <opf:meta name="calibre:title_sort" content="Daniel Stein, tolmács" />
+        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
+        <dc:subject>Monasticism</dc:subject>
+        <dc:subject>Israel</dc:subject>
+        <dc:subject>Love</dc:subject>
+        <dc:subject>20th century</dc:subject>
+        <dc:subject>Epistolary Novel</dc:subject>
+        <dc:subject>World War II</dc:subject>
+        <dc:subject>Lithuania</dc:subject>
+        <dc:subject>Emigration</dc:subject>
+        <dc:subject>Hungarian Language</dc:subject>
+        <dc:subject>Judaism</dc:subject>
+        <dc:subject>Arab World</dc:subject>
+        <dc:subject>Russian Author</dc:subject>
+        <dc:subject>Politics</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <dc:subject>Christianity</dc:subject>
+        <dc:subject>21st century</dc:subject>
+        <dc:subject>Social History</dc:subject>
+        <dc:subject>Documentary Style</dc:subject>
+        <dc:subject>Novel</dc:subject>
+        <dc:subject>történelem</dc:subject>
+        <dc:subject>zsidóság</dc:subject>
+        <dc:subject>szerelem</dc:subject>
+        <dc:subject>történelem</dc:subject>
+        <dc:subject>történelem</dc:subject>
+        <dc:subject>történelem</dc:subject>
+    </opf:metadata>
+    <opf:guide>
+        <opf:reference type="cover" title="Cover" href="cover.jpg" />
+    </opf:guide>
+</opf:package>

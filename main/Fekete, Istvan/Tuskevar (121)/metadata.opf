@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <opf:metadata>
         <dc:identifier opf:scheme="calibre" id="calibre_id">121</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">eae0632c-f9ff-432c-9586-903902662fee</dc:identifier>
         <dc:title>Tüskevár</dc:title>
@@ -48,14 +48,50 @@
         <dc:subject>Az író származása szerint</dc:subject>
         <dc:subject>Iskolák</dc:subject>
         <dc:subject>illusztrált</dc:subject>
-        <meta name="calibre:series" content="Tüskevár"/>
-        <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2012-11-16T19:43:56+00:00"/>
-        <meta name="calibre:title_sort" content="Tüskevár"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
-    </metadata>
-    <guide>
-        <reference type="cover" title="Cover" href="cover.jpg"/>
-    </guide>
-</package>
+        <opf:meta name="calibre:series" content="Tüskevár" />
+        <opf:meta name="calibre:series_index" content="1" />
+        <opf:meta name="calibre:rating" content="8" />
+        <opf:meta name="calibre:timestamp" content="2012-11-16T19:43:56+00:00" />
+        <opf:meta name="calibre:title_sort" content="Tüskevár" />
+        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
+        <dc:subject>Animal Stories</dc:subject>
+        <dc:subject>Animal World</dc:subject>
+        <dc:subject>Hunting</dc:subject>
+        <dc:subject>Schools</dc:subject>
+        <dc:subject>Classic</dc:subject>
+        <dc:subject>Boys' Stories</dc:subject>
+        <dc:subject>1950s</dc:subject>
+        <dc:subject>Narrative</dc:subject>
+        <dc:subject>Nature</dc:subject>
+        <dc:subject>Vacation</dc:subject>
+        <dc:subject>Wildlife</dc:subject>
+        <dc:subject>Children's Book (School Age)</dc:subject>
+        <dc:subject>Children &amp; Youth Literature</dc:subject>
+        <dc:subject>Child Protagonist</dc:subject>
+        <dc:subject>Fishing</dc:subject>
+        <dc:subject>20th century</dc:subject>
+        <dc:subject>By Content</dc:subject>
+        <dc:subject>Lake Balaton</dc:subject>
+        <dc:subject>Animal</dc:subject>
+        <dc:subject>Literature</dc:subject>
+        <dc:subject>Colleges / Dormitories</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Hungarian Language</dc:subject>
+        <dc:subject>Audiobook</dc:subject>
+        <dc:subject>Illustrated</dc:subject>
+        <dc:subject>Novels</dc:subject>
+        <dc:subject>Author Nationality</dc:subject>
+        <dc:subject>Hungarian Author</dc:subject>
+        <dc:subject>Mandatory</dc:subject>
+        <dc:subject>Film Adaptation</dc:subject>
+        <dc:subject>Bildungsroman</dc:subject>
+        <dc:subject>Friendship</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <dc:subject>Irodalom</dc:subject>
+        <dc:subject>halászat</dc:subject>
+        <dc:subject>1950-as évek</dc:subject>
+    </opf:metadata>
+    <opf:guide>
+        <opf:reference type="cover" title="Cover" href="cover.jpg" />
+    </opf:guide>
+</opf:package>

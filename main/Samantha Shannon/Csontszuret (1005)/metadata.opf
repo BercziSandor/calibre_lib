@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <opf:metadata>
         <dc:identifier opf:scheme="calibre" id="calibre_id">1005</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">25e8bf5d-4b08-48c5-a943-3b4c41196111</dc:identifier>
         <dc:title>Csontszüret</dc:title>
@@ -35,15 +35,37 @@
         <dc:subject>sci-fi</dc:subject>
         <dc:subject>ifjúsági</dc:subject>
         <dc:subject>Fantasy</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Samantha Shannon&quot;: &quot;&quot;}"/>
-        <meta name="calibre:series" content="Csontszüret"/>
-        <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2016-05-25T07:57:44+00:00"/>
-        <meta name="calibre:title_sort" content="Csontszüret"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
-    </metadata>
-    <guide>
-        <reference type="cover" title="Cover" href="cover.jpg"/>
-    </guide>
-</package>
+        <opf:meta name="calibre:author_link_map" content="{&quot;Samantha Shannon&quot;: &quot;&quot;}" />
+        <opf:meta name="calibre:series" content="Csontszüret" />
+        <opf:meta name="calibre:series_index" content="1" />
+        <opf:meta name="calibre:rating" content="8" />
+        <opf:meta name="calibre:timestamp" content="2016-05-25T07:57:44+00:00" />
+        <opf:meta name="calibre:title_sort" content="Csontszüret" />
+        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
+        <dc:subject>British Author</dc:subject>
+        <dc:subject>Paranormal</dc:subject>
+        <dc:subject>Survival</dc:subject>
+        <dc:subject>Apocalyptic &amp; Post‑Apocalyptic</dc:subject>
+        <dc:subject>Alternative History</dc:subject>
+        <dc:subject>Dream</dc:subject>
+        <dc:subject>Fiction - Science Fiction</dc:subject>
+        <dc:subject>Fantázia</dc:subject>
+        <dc:subject>Hungarian Language</dc:subject>
+        <dc:subject>Set in the Future</dc:subject>
+        <dc:subject>Dystopia</dc:subject>
+        <dc:subject>Female Protagonist</dc:subject>
+        <dc:subject>Occultism</dc:subject>
+        <dc:subject>Novel</dc:subject>
+        <dc:subject>Part of Series</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Ghosts</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <dc:subject>Science Fiction - General</dc:subject>
+        <dc:subject>bűnözés</dc:subject>
+        <dc:subject>ghosts</dc:subject>
+        <dc:subject>bűnügyi</dc:subject>
+    </opf:metadata>
+    <opf:guide>
+        <opf:reference type="cover" title="Cover" href="cover.jpg" />
+    </opf:guide>
+</opf:package>

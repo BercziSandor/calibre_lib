@@ -4,9 +4,9 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">1818</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">5ec060b7-4abb-4213-884a-b3a2a28d03a7</dc:identifier>
         <dc:title>Egész lényeddel</dc:title>
-        <dc:creator opf:file-as="Polcz, Alaine" opf:role="aut">Alaine Polcz</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2005-12-31T23:00:00+00:00</dc:date>
+        <dc:creator opf:file-as="Alaine, Polcz" opf:role="aut">Polcz Alaine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-01T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;„Egész lényeddel” című könyve férjéhez, – a néhány éve elhunyt – Mészöly Miklós íróhoz fűződő szerelméről, élethosszig tartó szerető gondoskodásáról, kapcsolatuk – házasságuk – több, mint ötven évéről, a halálra való készülődésről és a gyászról szól. Az olvasó találkozhat az élettel teli, alkotó Mészöly Miklóssal, láthatja öregségében, és leülhet egy pillanatra felesége mellé elbúcsúzni a haldoklótól." &lt;/p&gt;
 &lt;p&gt;A cím nagyon kifejező, hisz a könyv végsősoron „az ember egész lényében élő szeretetről szól”. Az írónő saját bevallása szerint a szerelemről ír könyvet. De a nagy kérdés kutatásán kívül beavat férje egy-egy írásába, illetve azok hátterébe. Kik voltak az egyes szereplők mögött lévő valós személyek, illetve hogyan gondolta Mészöly azt, amit leírt. &lt;/p&gt;
@@ -14,14 +14,34 @@
 &lt;p&gt;„Ez az élet, az irodalom, a szerelem, a hit története, történése. Néhány dolgot megértünk az egészből – majdnem mindig ez történik –, de a teljességet? Egyáltalában lehet a teljességet megélni, megérteni? Legnagyobb akadálya ennek, hogy elsősorban (és mindig) önmagunkat, saját érzéseinket tudjuk átélni – főként a szerelemben –, a másikét nem.” &lt;/p&gt;
 &lt;p&gt;Összegezve: ez a könyv Polcz Alaine – a gondoskodó hitves, a meghalással foglalkozó szakember és a kíméletlenül őszinte írónő – tanúságtétele.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Jelenkor</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9789636763930</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">10391839</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789635184989</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">fXfRMgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">polcz-alaine-egesz-lenyeddel</dc:identifier>
         <dc:language>hun</dc:language>
-        <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2023-11-30T14:22:14.278661+00:00"/>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>21. század</dc:subject>
+        <dc:subject>barátság</dc:subject>
+        <dc:subject>betegség</dc:subject>
+        <dc:subject>bölcsesség</dc:subject>
+        <dc:subject>erdélyi magyar szerző</dc:subject>
+        <dc:subject>gyász</dc:subject>
+        <dc:subject>háború</dc:subject>
+        <dc:subject>halál</dc:subject>
+        <dc:subject>házasság</dc:subject>
+        <dc:subject>író</dc:subject>
+        <dc:subject>kortárs</dc:subject>
+        <dc:subject>kutya</dc:subject>
+        <dc:subject>macska</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>magyar szerző</dc:subject>
+        <dc:subject>női főszereplő</dc:subject>
+        <dc:subject>nők elleni erőszak</dc:subject>
+        <dc:subject>tanatológia</dc:subject>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-11-30T14:22:14+00:00"/>
         <meta name="calibre:title_sort" content="Egész lényeddel"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;DOC&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;DOC&quot;, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">354ff4f7-480d-4626-afca-afc624cf8c01</dc:identifier>
         <dc:title>Anna Karenina</dc:title>
         <dc:creator opf:file-as="Tolsztoj, Lev" opf:role="aut">Lev Tolsztoj</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-02-21T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Sok regény szól a házasságtörésről, mind közül a leghatalmasabb Tolsztoj Anna Kareniná-ja. Karenina szerelmét és megsanyargatását egy évszázad múltán is közel érezheti magához az olvasó, noha az Anna körül zsibongó nagyvilági társaság elegáns könyörtelenségének rajza immár csak híradás az elsüllyedt történelemből. „A világirodalom legnagyobb társadalmi regénye” – Thomas Mann méltatta így az Anna Kareniná-t – egyszerre volt Tolsztoj művészi búcsúja a szerelemtől és gondolati előkészülete a prófétaszerepre. Egy kötetben szinte két regény: Annáéban Tolsztoj elmondhatta mindazt, amit az érzéki rajongásról egyáltalán tudott, és amit csak művészi alakban mondhatott el, Levinében pedig megfestette önarcképét, a helyzetével erkölcsileg meghasonlott földesúrét, akinek önvizsgálatát és felismeréseit később már csak röpiratok nyelvén vagy a gondolatnak szigorúan alárendelt szépprózában tudta megfogalmazni.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -20,7 +20,7 @@
         <dc:subject>arisztokrácia</dc:subject>
         <dc:subject>emberi sorsok</dc:subject>
         <dc:subject>filmadaptáció</dc:subject>
-        <dc:subject>Házasság</dc:subject>
+        <dc:subject>házasság</dc:subject>
         <dc:subject>klasszikus</dc:subject>
         <dc:subject>kötelező</dc:subject>
         <dc:subject>lélektani</dc:subject>

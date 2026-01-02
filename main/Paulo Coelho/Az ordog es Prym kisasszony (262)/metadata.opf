@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <opf:metadata>
         <dc:identifier opf:scheme="calibre" id="calibre_id">262</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">8c9a417f-ec82-40a3-a9a6-52dae72c79bf</dc:identifier>
         <dc:title>Az ördög és Prym kisasszony</dc:title>
@@ -26,15 +26,28 @@
         <dc:subject>regény</dc:subject>
         <dc:subject>sorozat része</dc:subject>
         <dc:subject>General Fiction</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Paulo Coelho&quot;: &quot;&quot;}"/>
-        <meta name="calibre:series" content="És a hetedik"/>
-        <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2012-11-17T21:08:47+00:00"/>
-        <meta name="calibre:title_sort" content="ördög és Prym kisasszony, Az"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
-    </metadata>
-    <guide>
-        <reference type="cover" title="Cover" href="cover.jpg"/>
-    </guide>
-</package>
+        <opf:meta name="calibre:author_link_map" content="{&quot;Paulo Coelho&quot;: &quot;&quot;}" />
+        <opf:meta name="calibre:series" content="És a hetedik" />
+        <opf:meta name="calibre:series_index" content="1" />
+        <opf:meta name="calibre:rating" content="8" />
+        <opf:meta name="calibre:timestamp" content="2012-11-17T21:08:47+00:00" />
+        <opf:meta name="calibre:title_sort" content="ördög és Prym kisasszony, Az" />
+        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
+        <dc:subject>Bildungsroman</dc:subject>
+        <dc:subject>Listed in 1001 Books</dc:subject>
+        <dc:subject>Fiction - General</dc:subject>
+        <dc:subject>Novel</dc:subject>
+        <dc:subject>Philosophical Novel</dc:subject>
+        <dc:subject>20th century</dc:subject>
+        <dc:subject>Part of Series</dc:subject>
+        <dc:subject>Brazil Author</dc:subject>
+        <dc:subject>Hungarian Language</dc:subject>
+        <dc:subject>Faith</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>South American</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+    </opf:metadata>
+    <opf:guide>
+        <opf:reference type="cover" title="Cover" href="cover.jpg" />
+    </opf:guide>
+</opf:package>

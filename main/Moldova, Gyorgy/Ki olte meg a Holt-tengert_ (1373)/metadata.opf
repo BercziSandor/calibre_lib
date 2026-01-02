@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <opf:metadata>
         <dc:identifier opf:scheme="calibre" id="calibre_id">1373</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">e50e3e94-61fb-49d0-84c1-f188f9e9cd12</dc:identifier>
         <dc:title>Ki ölte meg a Holt-tengert?</dc:title>
@@ -28,13 +28,30 @@
         <dc:subject>riport</dc:subject>
         <dc:subject>útleírás</dc:subject>
         <dc:subject>zsidóság</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Moldova, György&quot;: &quot;&quot;}"/>
-        <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-02-22T12:20:26+00:00"/>
-        <meta name="calibre:title_sort" content="Ki ölte meg a Holt-tengert?"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
-    </metadata>
-    <guide>
-        <reference type="cover" title="Cover" href="cover.jpg"/>
-    </guide>
-</package>
+        <opf:meta name="calibre:author_link_map" content="{&quot;Moldova, György&quot;: &quot;&quot;}" />
+        <opf:meta name="calibre:rating" content="8" />
+        <opf:meta name="calibre:timestamp" content="2021-02-22T12:20:26+00:00" />
+        <opf:meta name="calibre:title_sort" content="Ki ölte meg a Holt-tengert?" />
+        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
+        <dc:subject>Holocaust</dc:subject>
+        <dc:subject>1980s</dc:subject>
+        <dc:subject>State Foundation</dc:subject>
+        <dc:subject>Conversation</dc:subject>
+        <dc:subject>Judaism</dc:subject>
+        <dc:subject>Hungarian Language</dc:subject>
+        <dc:subject>Report</dc:subject>
+        <dc:subject>20th century</dc:subject>
+        <dc:subject>Travel Description</dc:subject>
+        <dc:subject>Middle East</dc:subject>
+        <dc:subject>Israel</dc:subject>
+        <dc:subject>Immigration</dc:subject>
+        <dc:subject>War</dc:subject>
+        <dc:subject>Politics</dc:subject>
+        <dc:subject>Hungarian Author</dc:subject>
+        <dc:subject>társalgás</dc:subject>
+        <dc:subject>judaizmus</dc:subject>
+    </opf:metadata>
+    <opf:guide>
+        <opf:reference type="cover" title="Cover" href="cover.jpg" />
+    </opf:guide>
+</opf:package>

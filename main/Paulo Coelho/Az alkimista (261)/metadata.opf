@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <opf:metadata>
         <dc:identifier opf:scheme="calibre" id="calibre_id">261</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">ce5582a6-bed8-4b5f-a98d-734482149b50</dc:identifier>
         <dc:title>Az alkimista</dc:title>
@@ -34,13 +34,35 @@
         <dc:subject>kortárs</dc:subject>
         <dc:subject>magyar nyelvű</dc:subject>
         <dc:subject>Literature</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Paulo Coelho&quot;: &quot;&quot;}"/>
-        <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2012-11-17T21:08:46+00:00"/>
-        <meta name="calibre:title_sort" content="alkimista, Az"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
-    </metadata>
-    <guide>
-        <reference type="cover" title="Cover" href="cover.jpg"/>
-    </guide>
-</package>
+        <opf:meta name="calibre:author_link_map" content="{&quot;Paulo Coelho&quot;: &quot;&quot;}" />
+        <opf:meta name="calibre:rating" content="8" />
+        <opf:meta name="calibre:timestamp" content="2012-11-17T21:08:46+00:00" />
+        <opf:meta name="calibre:title_sort" content="alkimista, Az" />
+        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
+        <dc:subject>Identity</dc:subject>
+        <dc:subject>Africa</dc:subject>
+        <dc:subject>Allegorical</dc:subject>
+        <dc:subject>Classic</dc:subject>
+        <dc:subject>Wisdom</dc:subject>
+        <dc:subject>Szépirodalom</dc:subject>
+        <dc:subject>Philosophy of Life</dc:subject>
+        <dc:subject>Dream</dc:subject>
+        <dc:subject>20th century</dc:subject>
+        <dc:subject>South American</dc:subject>
+        <dc:subject>Esotericism</dc:subject>
+        <dc:subject>Male Protagonist</dc:subject>
+        <dc:subject>Alchemy</dc:subject>
+        <dc:subject>Brazil Author</dc:subject>
+        <dc:subject>Hungarian Language</dc:subject>
+        <dc:subject>Audiobook</dc:subject>
+        <dc:subject>Arab World</dc:subject>
+        <dc:subject>Irodalom</dc:subject>
+        <dc:subject>Egypt</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <dc:subject>Bildungsroman</dc:subject>
+        <dc:subject>Lifestyle</dc:subject>
+    </opf:metadata>
+    <opf:guide>
+        <opf:reference type="cover" title="Cover" href="cover.jpg" />
+    </opf:guide>
+</opf:package>

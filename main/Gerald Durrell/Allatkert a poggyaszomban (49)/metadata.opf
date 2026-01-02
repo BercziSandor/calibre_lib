@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <opf:metadata>
         <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">9c9a1634-145c-4245-8570-5b7362c4b6ba</dc:identifier>
         <dc:title>Állatkert a poggyászomban</dc:title>
@@ -43,12 +43,45 @@
         <dc:subject>Az író származása szerint</dc:subject>
         <dc:subject>expedíció</dc:subject>
         <dc:subject>állatkert</dc:subject>
-        <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2012-11-15T20:07:33+00:00"/>
-        <meta name="calibre:title_sort" content="Állatkert a poggyászomban"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
-    </metadata>
-    <guide>
-        <reference type="cover" title="Cover" href="cover.jpg"/>
-    </guide>
-</package>
+        <opf:meta name="calibre:rating" content="8" />
+        <opf:meta name="calibre:timestamp" content="2012-11-15T20:07:33+00:00" />
+        <opf:meta name="calibre:title_sort" content="Állatkert a poggyászomban" />
+        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
+        <dc:subject>British Author</dc:subject>
+        <dc:subject>Africa</dc:subject>
+        <dc:subject>Animal Stories</dc:subject>
+        <dc:subject>Animal World</dc:subject>
+        <dc:subject>Zoo</dc:subject>
+        <dc:subject>Memoir</dc:subject>
+        <dc:subject>Animal Protection</dc:subject>
+        <dc:subject>Narrative</dc:subject>
+        <dc:subject>Nature</dc:subject>
+        <dc:subject>Expedition</dc:subject>
+        <dc:subject>Children &amp; Youth Literature</dc:subject>
+        <dc:subject>20th century</dc:subject>
+        <dc:subject>By Content</dc:subject>
+        <dc:subject>Animal Husbandry</dc:subject>
+        <dc:subject>Animal</dc:subject>
+        <dc:subject>Cameroon</dc:subject>
+        <dc:subject>Great Britain</dc:subject>
+        <dc:subject>Natural Science</dc:subject>
+        <dc:subject>Literature</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Hungarian Language</dc:subject>
+        <dc:subject>Popular Science</dc:subject>
+        <dc:subject>Hiking</dc:subject>
+        <dc:subject>Novels</dc:subject>
+        <dc:subject>Author Nationality</dc:subject>
+        <dc:subject>Humorous</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Novel</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <dc:subject>Irodalom</dc:subject>
+        <dc:subject>tudományos ismeretterjesztő</dc:subject>
+        <dc:subject>visszaemlékezés</dc:subject>
+    </opf:metadata>
+    <opf:guide>
+        <opf:reference type="cover" title="Cover" href="cover.jpg" />
+    </opf:guide>
+</opf:package>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <opf:metadata>
         <dc:identifier opf:scheme="calibre" id="calibre_id">427</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">bd75f9cc-619b-4e5f-be7d-d9fe05f1821b</dc:identifier>
         <dc:title>Médialom</dc:title>
@@ -20,15 +20,22 @@
         <dc:subject>humoros</dc:subject>
         <dc:subject>humor</dc:subject>
         <dc:subject>Szórakoztató irodalom</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Kovács, András Péter&quot;: &quot;&quot;}"/>
-        <meta name="calibre:series" content="Multigáz-trilógia"/>
-        <meta name="calibre:series_index" content="2"/>
-        <meta name="calibre:rating" content="6"/>
-        <meta name="calibre:timestamp" content="2013-04-22T19:42:16+00:00"/>
-        <meta name="calibre:title_sort" content="Médialom"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
-    </metadata>
-    <guide>
-        <reference type="cover" title="Cover" href="cover.jpg"/>
-    </guide>
-</package>
+        <opf:meta name="calibre:author_link_map" content="{&quot;Kovács, András Péter&quot;: &quot;&quot;}" />
+        <opf:meta name="calibre:series" content="Multigáz-trilógia" />
+        <opf:meta name="calibre:series_index" content="2" />
+        <opf:meta name="calibre:rating" content="6" />
+        <opf:meta name="calibre:timestamp" content="2013-04-22T19:42:16+00:00" />
+        <opf:meta name="calibre:title_sort" content="Médialom" />
+        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
+        <dc:subject>Entertainment Literature</dc:subject>
+        <dc:subject>Humorous</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <dc:subject>Hungarian Language</dc:subject>
+        <dc:subject>Novel</dc:subject>
+        <dc:subject>Part of Series</dc:subject>
+        <dc:subject>Hungarian Author</dc:subject>
+    </opf:metadata>
+    <opf:guide>
+        <opf:reference type="cover" title="Cover" href="cover.jpg" />
+    </opf:guide>
+</opf:package>

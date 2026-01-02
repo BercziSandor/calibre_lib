@@ -5,20 +5,42 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">543fec67-cf16-48ed-974c-03b49d0c7bde</dc:identifier>
         <dc:title>Az elefántok nem felejtenek</dc:title>
         <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>1992-11-14T23:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.16.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-01-01T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Hercule Poirot visszavonultan él. Csak néha nyitja rá valaki az ajtót. Ezúttal régi barátnője érkezik: Mrs. Oliver, detektívregények hírneves szerzője (a kedves olvasó jól ismeri őt a sorozat előző, Ellopott gyilkosság című kötetéből)… Az írónővel mindig történik valami. Ismerősei, barátai, rokonai gyarkan zaklatják különös történetekkel. S most megint egy eset. Mrs. Oliver egy „irodalmi ebéden” vett részt, ahol egy cseppet sem rokonszenves hölgy, bizonyos Mrs. Burton-Cox nyakon ragadta, félrevonta és roppant különös kéréssel fordult hozzá. Fia, Desmond, ugyanis feleségül akarja venni Mrs. Oliver unokahúgát, akinek a szülei évekkel azelőtt öngyilkosok lettek. Mrs. Burton-Cox azt szeretné tudni, ki lőtt először. Mrs. Oliver mélységesen fölháborította a kérdés. Ő könyveket ír, semmi köze a valóságos erőszakhoz. A kérést tehát elutasította, úgysem tudja teljesíteni… … De a kíváncsiság fölébred, és ekkor látogatja meg öreg barátját, Hercule Poirot-t…&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Hunga-Print</dc:publisher>
-        <dc:identifier opf:scheme="MOBI-ASIN">2f3d807d-2c8d-43f4-901a-0d440bb6882b</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9789637458293</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">2f3d807d-2c8d-43f4-901a-0d440bb6882b</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">ajziygAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">agatha-christie-az-elefantok-nem-felejtenek</dc:identifier>
         <dc:language>hun</dc:language>
+        <dc:subject>krimi</dc:subject>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>1970-es évek</dc:subject>
+        <dc:subject>20. század</dc:subject>
+        <dc:subject>Anglia</dc:subject>
+        <dc:subject>angol szerző</dc:subject>
+        <dc:subject>árva</dc:subject>
+        <dc:subject>brit szerző</dc:subject>
+        <dc:subject>detektívtörténet</dc:subject>
+        <dc:subject>gyilkosság</dc:subject>
+        <dc:subject>ikrek</dc:subject>
+        <dc:subject>klasszikus</dc:subject>
+        <dc:subject>London</dc:subject>
+        <dc:subject>magándetektív</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>öngyilkosság</dc:subject>
+        <dc:subject>pszichés betegség</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>tenger</dc:subject>
+        <dc:subject>testvérek</dc:subject>
         <meta name="calibre:series" content="Hercule Poirot"/>
         <meta name="calibre:series_index" content="37"/>
-        <meta name="calibre:timestamp" content="2023-11-24T16:33:20.668586+00:00"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-11-24T16:33:20+00:00"/>
         <meta name="calibre:title_sort" content="elefántok nem felejtenek, Az"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;AZW3&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;AZW3, EPUB&quot;, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

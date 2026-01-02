@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <opf:metadata>
         <dc:identifier opf:scheme="calibre" id="calibre_id">542</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">63f40589-8170-49ca-8022-ba968c4fab04</dc:identifier>
         <dc:title>Susannah dala</dc:title>
@@ -37,14 +37,34 @@ A Setét Torony, minden világok pillére pedig egyre jobban inog…</dc:descrip
         <dc:subject>gyilkosság</dc:subject>
         <dc:subject>halál</dc:subject>
         <dc:subject>disztópia</dc:subject>
-        <meta name="calibre:series" content="A setét torony"/>
-        <meta name="calibre:series_index" content="6"/>
-        <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2013-07-09T10:59:11+00:00"/>
-        <meta name="calibre:title_sort" content="Susannah dala"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
-    </metadata>
-    <guide>
-        <reference type="cover" title="Cover" href="cover.jpg"/>
-    </guide>
-</package>
+        <opf:meta name="calibre:series" content="A setét torony" />
+        <opf:meta name="calibre:series_index" content="6" />
+        <opf:meta name="calibre:rating" content="8" />
+        <opf:meta name="calibre:timestamp" content="2013-07-09T10:59:11+00:00" />
+        <opf:meta name="calibre:title_sort" content="Susannah dala" />
+        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
+        <dc:subject>Film Adaptation</dc:subject>
+        <dc:subject>Post-Apocalyptic</dc:subject>
+        <dc:subject>21st century</dc:subject>
+        <dc:subject>Time Travel</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Epic Fantasy</dc:subject>
+        <dc:subject>Death</dc:subject>
+        <dc:subject>Novel</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Hungarian Language</dc:subject>
+        <dc:subject>20th century</dc:subject>
+        <dc:subject>Murder</dc:subject>
+        <dc:subject>Dark Fantasy</dc:subject>
+        <dc:subject>American Author</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Dystopia</dc:subject>
+        <dc:subject>Mystical</dc:subject>
+        <dc:subject>Fantázia</dc:subject>
+        <dc:subject>Fiction - Science Fiction</dc:subject>
+        <dc:subject>Science Fiction - General</dc:subject>
+    </opf:metadata>
+    <opf:guide>
+        <opf:reference type="cover" title="Cover" href="cover.jpg" />
+    </opf:guide>
+</opf:package>

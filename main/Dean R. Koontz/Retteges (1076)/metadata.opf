@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <opf:metadata>
         <dc:identifier opf:scheme="calibre" id="calibre_id">1076</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">1cea9dc7-4d76-4f55-8a0f-49956d94fe93</dc:identifier>
         <dc:title>Rettegés</dc:title>
@@ -31,12 +31,35 @@
         <dc:subject>angol</dc:subject>
         <dc:subject>Idegennyelvű könyvek</dc:subject>
         <dc:subject>amerikai szerző</dc:subject>
-        <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2012-12-12T09:59:33+00:00"/>
-        <meta name="calibre:title_sort" content="Rettegés"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
-    </metadata>
-    <guide>
-        <reference type="cover" title="Cover" href="cover.jpg"/>
-    </guide>
-</package>
+        <opf:meta name="calibre:rating" content="8" />
+        <opf:meta name="calibre:timestamp" content="2012-12-12T09:59:33+00:00" />
+        <opf:meta name="calibre:title_sort" content="Rettegés" />
+        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
+        <dc:subject>akció</dc:subject>
+        <dc:subject>Foreign Language</dc:subject>
+        <dc:subject>Entertainment Literature</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>Psycho-Thriller</dc:subject>
+        <dc:subject>Violence Against Women</dc:subject>
+        <dc:subject>Serial Killer</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Hungarian Language</dc:subject>
+        <dc:subject>Murder</dc:subject>
+        <dc:subject>American Author</dc:subject>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Fantázia</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Foreign Language Books</dc:subject>
+        <dc:subject>Literature</dc:subject>
+        <dc:subject>akció</dc:subject>
+        <dc:subject>Irodalom</dc:subject>
+        <dc:subject>bűnözés</dc:subject>
+        <dc:subject>thiller</dc:subject>
+        <dc:subject>bűnügyi</dc:subject>
+        <dc:subject>akció</dc:subject>
+        <dc:subject>akció</dc:subject>
+    </opf:metadata>
+    <opf:guide>
+        <opf:reference type="cover" title="Cover" href="cover.jpg" />
+    </opf:guide>
+</opf:package>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <opf:metadata>
         <dc:identifier opf:scheme="calibre" id="calibre_id">834</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">8f7215a9-a625-4a28-8e4c-874762daa3ac</dc:identifier>
         <dc:title>Az agyag géppuska</dc:title>
@@ -30,13 +30,30 @@
         <dc:subject>Oroszország</dc:subject>
         <dc:subject>buddhizmus</dc:subject>
         <dc:subject>álom</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Viktor Pelevin&quot;: &quot;&quot;}"/>
-        <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2014-12-16T21:47:49+00:00"/>
-        <meta name="calibre:title_sort" content="agyag géppuska, Az"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, RTF&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
-    </metadata>
-    <guide>
-        <reference type="cover" title="Cover" href="cover.jpg"/>
-    </guide>
-</package>
+        <opf:meta name="calibre:author_link_map" content="{&quot;Viktor Pelevin&quot;: &quot;&quot;}" />
+        <opf:meta name="calibre:rating" content="8" />
+        <opf:meta name="calibre:timestamp" content="2014-12-16T21:47:49+00:00" />
+        <opf:meta name="calibre:title_sort" content="agyag géppuska, Az" />
+        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, RTF&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
+        <dc:subject>Listed in 1001 Books</dc:subject>
+        <dc:subject>Russia</dc:subject>
+        <dc:subject>Satire</dc:subject>
+        <dc:subject>Buddhism</dc:subject>
+        <dc:subject>Japan</dc:subject>
+        <dc:subject>Literature</dc:subject>
+        <dc:subject>Hungarian Language</dc:subject>
+        <dc:subject>Novel</dc:subject>
+        <dc:subject>20th century</dc:subject>
+        <dc:subject>Dream</dc:subject>
+        <dc:subject>1910s</dc:subject>
+        <dc:subject>Short Story</dc:subject>
+        <dc:subject>Mental Hospital</dc:subject>
+        <dc:subject>Russian Author</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <dc:subject>10-es évek</dc:subject>
+        <dc:subject>Szatira</dc:subject>
+    </opf:metadata>
+    <opf:guide>
+        <opf:reference type="cover" title="Cover" href="cover.jpg" />
+    </opf:guide>
+</opf:package>

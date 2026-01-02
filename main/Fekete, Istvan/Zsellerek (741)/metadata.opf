@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
-    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<opf:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <opf:metadata>
         <dc:identifier opf:scheme="calibre" id="calibre_id">741</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">32749224-c449-4fcb-a5d5-a230f0a8afed</dc:identifier>
         <dc:title>Zsellérek</dc:title>
@@ -31,13 +31,30 @@ Az önéletrajzi elemekkel gazdagított Zsellérek a hazatérés regénye.</dc:d
         <dc:subject>magyar szerző</dc:subject>
         <dc:subject>Magyarország</dc:subject>
         <dc:subject>regény</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Fekete, István&quot;: &quot;&quot;}"/>
-        <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2014-09-20T12:10:07+00:00"/>
-        <meta name="calibre:title_sort" content="Zsellérek"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, PDF&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
-    </metadata>
-    <guide>
-        <reference type="cover" title="Cover" href="cover.jpg"/>
-    </guide>
-</package>
+        <opf:meta name="calibre:author_link_map" content="{&quot;Fekete, István&quot;: &quot;&quot;}" />
+        <opf:meta name="calibre:rating" content="10" />
+        <opf:meta name="calibre:timestamp" content="2014-09-20T12:10:07+00:00" />
+        <opf:meta name="calibre:title_sort" content="Zsellérek" />
+        <opf:meta name="calibre:user_metadata:#formats" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Formátumok&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;label&quot;: &quot;formats&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;EPUB, PDF&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}" />
+        <dc:subject>Life Story</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <dc:subject>School</dc:subject>
+        <dc:subject>Adolescence</dc:subject>
+        <dc:subject>Teen Protagonist</dc:subject>
+        <dc:subject>Novel</dc:subject>
+        <dc:subject>Hungarian Language</dc:subject>
+        <dc:subject>20th century</dc:subject>
+        <dc:subject>World War I</dc:subject>
+        <dc:subject>1910s</dc:subject>
+        <dc:subject>Hungary</dc:subject>
+        <dc:subject>Coming of Age</dc:subject>
+        <dc:subject>Friendship</dc:subject>
+        <dc:subject>1920s</dc:subject>
+        <dc:subject>Hungarian Author</dc:subject>
+        <dc:subject>10-es évek</dc:subject>
+        <dc:subject>élettörténet</dc:subject>
+    </opf:metadata>
+    <opf:guide>
+        <opf:reference type="cover" title="Cover" href="cover.jpg" />
+    </opf:guide>
+</opf:package>
