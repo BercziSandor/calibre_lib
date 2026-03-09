@@ -1,0 +1,45 @@
+name: Docker Image CI
+# https://docs.docker.com/build/ci/github-actions/
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      -
+        name: Checkout
+        uses: actions/checkout@v4
+      -
+        name: Login to Docker Hub
+        uses: docker/login-action@v3
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
+      -
+        name: Set up QEMU
+        uses: docker/setup-qemu-action@v3
+      -
+        name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+      -
+        name: Build and push
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          file: ./Dockerfile
+          push: true
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/calibre2web:latest
+
+
+#    - name: Build the Docker image
+#      run: docker build . --file Dockerfile --tag sberczi/calibre2web:$(date "+%y%m%d_%H%M%S") --tag sberczi/calibre2web:latest
+#    - name: Publish the Docker image
+#      run: docker push sberczi/calibre2web:latest
