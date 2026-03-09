@@ -13,6 +13,38 @@
   "check_library_ignore_names": "",
   "gui_view_history": [
     [
+      1707,
+      "Ready Player Two"
+    ],
+    [
+      1425,
+      "Rumini 3"
+    ],
+    [
+      1752,
+      "A l\u00e1nyom mindig a l\u00e1nyom"
+    ],
+    [
+      1852,
+      "\u00dcgyn\u00f6k a terepen"
+    ],
+    [
+      1385,
+      "A v\u00e1ros hercege"
+    ],
+    [
+      1858,
+      "B\u0171nt\u00e9ny a Dun\u00e1n"
+    ],
+    [
+      1863,
+      "Hogyan \u00edrjunk verset?"
+    ],
+    [
+      1857,
+      "Ny\u00edlt l\u00e1ng haszn\u00e1lata"
+    ],
+    [
       1851,
       "Vuk"
     ],
@@ -39,94 +71,46 @@
     [
       1837,
       "Epertorta \u00c9s Gyilkoss\u00e1g"
-    ],
-    [
-      1839,
-      "Szem\u00e9rmes \u200bbarack \u00e9s gyilkoss\u00e1g"
-    ],
-    [
-      625,
-      "Kar\u00e1csonyi habcs\u00f3k \u00e9s gyilkoss\u00e1g"
-    ],
-    [
-      1824,
-      "Az \u00e9let m\u00e1shol van"
-    ],
-    [
-      1829,
-      "Lass\u00fas\u00e1g"
-    ],
-    [
-      1819,
-      "Mennybe d\u00f6ng\u00f6lve: egy agykutat\u00f3 boldog\u00edt\u00f3 agyv\u00e9rz\u00e9se"
-    ],
-    [
-      1619,
-      "Gal\u00e1pagos"
-    ],
-    [
-      1761,
-      "Adventi krimik"
-    ],
-    [
-      747,
-      "Besz\u00e1mol\u00f3 a Barnhouse-effektusr\u00f3l"
     ]
   ],
   "plugboards": {},
   "tag_browser_hidden_categories": [],
   "library_view books view state": {
-    "column_alignment": {
-      "pubdate": "center",
-      "size": "center",
-      "timestamp": "center"
-    },
-    "column_positions": {
-      "#formats": 12,
-      "authors": 1,
-      "formats": 14,
-      "id": 13,
-      "languages": 5,
-      "last_modified": 11,
-      "ondevice": 0,
-      "path": 15,
-      "pubdate": 4,
-      "publisher": 10,
-      "rating": 8,
-      "series": 2,
-      "size": 7,
-      "tags": 9,
-      "timestamp": 6,
-      "title": 3
-    },
-    "column_sizes": {
-      "#formats": 170,
-      "authors": 202,
-      "formats": 0,
-      "id": 0,
-      "languages": 84,
-      "last_modified": 91,
-      "path": 0,
-      "pubdate": 95,
-      "publisher": 61,
-      "rating": 94,
-      "series": 251,
-      "size": 76,
-      "tags": 484,
-      "timestamp": 110,
-      "title": 218
-    },
-    "formats_injected": true,
     "hidden_columns": [
       "id",
       "formats",
       "path"
     ],
-    "id_injected": true,
-    "languages_injected": true,
     "last_modified_injected": true,
+    "languages_injected": true,
+    "formats_injected": true,
+    "id_injected": true,
     "path_injected": true,
     "sort_history": [
+      [
+        "series",
+        true
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "series",
+        true
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "series",
+        true
+      ],
+      [
+        "authors",
+        true
+      ],
       [
         "series",
         true
@@ -139,7 +123,47 @@
         "timestamp",
         false
       ]
-    ]
+    ],
+    "column_positions": {
+      "ondevice": 0,
+      "id": 13,
+      "title": 3,
+      "authors": 1,
+      "timestamp": 6,
+      "size": 7,
+      "rating": 8,
+      "tags": 9,
+      "series": 2,
+      "publisher": 10,
+      "formats": 14,
+      "path": 15,
+      "pubdate": 4,
+      "last_modified": 11,
+      "languages": 5,
+      "#formats": 12
+    },
+    "column_sizes": {
+      "id": 0,
+      "title": 218,
+      "authors": 217,
+      "timestamp": 110,
+      "size": 76,
+      "rating": 94,
+      "tags": 484,
+      "series": 186,
+      "publisher": 61,
+      "formats": 0,
+      "path": 0,
+      "pubdate": 95,
+      "last_modified": 91,
+      "languages": 84,
+      "#formats": 170
+    },
+    "column_alignment": {
+      "pubdate": "center",
+      "size": "center",
+      "timestamp": "center"
+    }
   },
   "field_metadata": {
     "#formats": {
@@ -970,7 +994,7 @@
     "tags",
     "identifiers"
   ],
-  "last_expired_trash_at": 1746472713.4532082,
+  "last_expired_trash_at": 1767376173.4716384,
   "virtual_libraries": {
     "kutya": "tags:\"=kutya\""
   }
