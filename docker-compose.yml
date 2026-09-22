@@ -1,5 +1,5 @@
 services:
-  calibre-web:
+  calibre:
     image: lscr.io/linuxserver/calibre:latest
     container_name: calibre
     environment:
@@ -14,10 +14,26 @@ services:
       - PASSWORD=
     volumes:
       - ./calibre-config:/config # New folder for Calibre-Web configuration
-      - ./main:/books # Path to the folder containing the existing Calibre Library!
+      - ./libraries:/books # Path to the folder containing the existing Calibre Library!
     ports:
       - 8080:8080   # Calibre desktop gui (only for reverse proxy access)
       - 8081:8081   # Calibre webserver gui (needs to be enabled in gui settings first)
       - 8181:8181   # Calibre desktop gui HTTPS.
       #- 8083:8083 # Port for Calibre-Web
     restart: unless-stopped
+
+  calibre-web:
+    image: ghcr.io/linuxserver/calibre-web
+    container_name: calibre-web
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Budapest
+      - DOCKER_MODS=linuxserver/calibre-web:calibre
+    volumes:
+      - ./calibre-web-config:/config
+      - ./libraries:/books
+    ports:
+      - 8083:8083
+    restart: unless-stopped
+    
