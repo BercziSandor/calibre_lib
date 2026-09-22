@@ -1,0 +1,14 @@
+{
+    "comments_fields": [
+        "comments"
+    ],
+    "height": "auto",
+    "lines": [
+        "<b>{title}</b> {authors} szerint",
+        "<i>{series}</i>, {series_index}|||{rating}",
+        "{tags}",
+        "D\u00e1tum: {timestamp}|||Megjelent: {pubdate}|||Kiad\u00f3: {publisher}"
+    ],
+    "thumbnail": true,
+    "thumbnail_height": 140
+}

@@ -1,0 +1,19 @@
+{
+  "disabled_plugins": {
+    "__class__": "set",
+    "__value__": [
+      "GitHubAI"
+    ]
+  },
+  "enabled_plugins": {
+    "__class__": "set",
+    "__value__": [
+      "Open Library"
+    ]
+  },
+  "filetype_mapping": {},
+  "plugin_customization": {},
+  "plugins": {
+    "Moly_hu": "/config/.config/calibre/plugins/Moly_hu.zip"
+  }
+}

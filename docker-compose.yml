@@ -1,0 +1,23 @@
+services:
+  calibre-web:
+    image: lscr.io/linuxserver/calibre:latest
+    container_name: calibre
+    environment:
+      - PUID=1000 # Your User ID
+      - PGID=1000 # Your Group ID
+      - TZ=Europe/Budapest # Your Timezone
+      - DOCKER_MODS=linuxserver/mods:calibre-web-update-calibre # Optional: Enables in-app updates for Calibre metadata tools
+      - OAUTHLIB_RELAX_TOKEN_SCOPE=1 # Optional: Needed for certain OAuth logins
+      #- PIXELFLUX_WAYLAND=true
+      #- DRINODE=/dev/dri/renderD128
+      #- DRI_NODE=/dev/dri/renderD12
+      - PASSWORD=
+    volumes:
+      - ./calibre-config:/config # New folder for Calibre-Web configuration
+      - ./main:/books # Path to the folder containing the existing Calibre Library!
+    ports:
+      - 8080:8080   # Calibre desktop gui (only for reverse proxy access)
+      - 8081:8081   # Calibre webserver gui (needs to be enabled in gui settings first)
+      - 8181:8181   # Calibre desktop gui HTTPS.
+      #- 8083:8083 # Port for Calibre-Web
+    restart: unless-stopped

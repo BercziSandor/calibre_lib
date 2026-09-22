@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "calibre2web"
+version = "0.1.0"
+description = ""
+authors = ["Berczi Sandor <berczi.sandor@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+snakemd = "^2.2.0"
+bs4 = "^0.0.1"
+pypandoc-binary = "^1.12"
+pypandoc = "^1.12"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
